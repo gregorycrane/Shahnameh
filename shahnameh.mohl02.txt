@@ -1,11 +1,13 @@
+<div type="textpart" n="KeiKaous">
 <pb n="1"/>
-<p>
-XII
-KEI KAOUS
 
-II. EXPÉDITION DE KEÏ KAOUS DANS LE BERBERISTAN, ET AUTRES HISTOIRES.</p>
+<head>XII: KEI KAOUS</head>
 
-<p>GUERRE CONTRE LE ROI DU HAMAVERAN.</p>
+<div type="textpart" n="c2">
+<head>II. EXPÉDITION DE KEÏ KAOUS DANS LE BERBERISTAN, ET AUTRES HISTOIRES.</head>
+
+<div type="textpart" n="s1">
+<head>GUERRE CONTRE LE ROI DU HAMAVERAN.</head>
 
 <p>Je vais conter ce que j'ai appris d'un Mobed et
 d'un vieillard issu d'une famille de Dihkans. La
@@ -142,7 +144,7 @@ traitées par les Iraniens de manière qu'elles ne distinguèrent plus la tête 
 
 <p>Le roi du Hamaveran fut le premier qui jeta son
 épée et sa lourde massue, s’abandonna à sa douleur, demanda pardon au roi, et reconnut que ce
-jour était un jour de malheur. li promit de payer
+jour était un jour de malheur. Il promit de payer
 pour son pays un tribut et de grandes redevances,
 et de livrer des chevaux et des armes, des trônes et
 des couronnes, si Kaous voulait se retirer après le
@@ -647,7 +649,7 @@ royaume furent faits prisonniers avec lui. La plaine
 et la montagne étaient inondées de sang, tant on
 avait renversé et tué d'hommes de ces trois armées.</p>
 
-<p>Le. roi du Berberistan, avec quarante de ses capitaines, fut pris par Gourazeh le sanglier. Le roi du
+<p>Le roi du Berberistan, avec quarante de ses capitaines, fut pris par Gourazeh le sanglier. Le roi du
 Hamaveran vit le champ de bataille rempli de morts
 
 
@@ -813,7 +815,7 @@ r tête jusqu’à la voûte du ciel qui tourne.</q></p>
 <p>Les Turcs, à ces mots, retournèrent tous au combat; mais les braves etles chefs du pays d'Iran, ayant
 chacun en main sa massue pesante, firent un tel
 carnage parmi cette masse de Turcs, que la plaine,
-la mer et les montagnes disparurpnt sous les monceaux de morts. La. moitié des Touraniens furent
+la mer et les montagnes disparurpnt sous les monceaux de morts. La moitié des Touraniens furent
 tués, et leur sang rendit la terre rouge comme
 une rose. La fortune des Turcs s’endormit, et Afrasiab s'enfuit précipitamment devant Rustem, suivi
 des troupes du pays de Ghouri. Il avait cherché la
@@ -830,14 +832,14 @@ du poison.</p>
 
 <p>KAOUS RÉTABLIT L'ORDRE DANS LE MONDE.</p>
 
-<p>Kaous relourna alors dans le pays de Fars, et les
-hommes furent rajeunis par la joie. Ü rendit au trône
+<p>Kaous retourna alors dans le pays de Fars, et les
+hommes furent rajeunis par la joie. Il rendit au trône
 sa splendeur, dispensa la justice, ouvrit la porte aux
 plaisirs et aux festins. Il envoya dans chaque province un Pehlewan puissant, vigilant et éclairé; il
 envoya une grande armée dans chaque province,
 à Merv, à Nischapour, à Balkh et à Herat. Tous les
 hommes pratiquèrent la justice; le loup se détourna
-de la brebis ,-et les richesses, les honneurs et la majesté du roi furent tels, que les Péris, les hommes
+de la brebis , et les richesses, les honneurs et la majesté du roi furent tels, que les Péris, les hommes
 et les Divs devinrent ses esclaves. Tous étaient petits
 devant Kaous, et ceux qui portaient des couronnes
 formaient son cortége. Il nomma Rustem Pehlewan
@@ -849,7 +851,7 @@ tailler dans le roc des écuries où toutes les barres
 étaient d’acier, toutes les colonnes de pierre dure,
 et l'on y attacha les chevaux de guerre et les dromadaires de course et de litière. Il bâtit un palais de
 cristal qu'il incrusta partout d'émeraudes; c'était là
-le lieu de ses fêtes. et de ses festins, le lieu où il prenait les aliments qui soutenaient son corps. Il fit
+le lieu de ses fêtes et de ses festins, le lieu où il prenait les aliments qui soutenaient son corps. Il fit
 élever une coupole d’onyx du Yémen, sous laquelle
 
 
@@ -865,7 +867,7 @@ et où la fortune doit grandir et ne-jamais baisser.</p>
 était parfumé d’ambre, et la pluie était du vin. Le
 gai printemps y régnait toute l’année, et les roses y
 étaient belles comme les joues des femmes qui dissipent les soucis. L'âme y était exempte de chagrin,
-de douleur et de peine; les Divs furent si. fatigués
+de douleur et de peine; les Divs furent si fatigués
 de ces travaux qu'ils ne purent plus faire le mal. La
 mauvaise fortune s’endormit, tant étaient grandes la
 bonté et la justice du maître, qui enchainait les Divs
@@ -1096,7 +1098,7 @@ voyait Thous, Gouderz fils de Keschwad, Bahram,
 Guiv le héros de haute naissance, Gourguin, Zengueh fils de Schaweran, Kustehem et Khorrad les
 guerriers, Berzin portant haut la tête et prompt à
 frapper de l'épée, enfin Gourazeh qui était comme
-le diadème sur le front. de l'assemblée. Chacun avait
+le diadème sur le front de l'assemblée. Chacun avait
 amené quelques poursuivants d'armes qui formaient
 un cortége plein de valeur et de renom. Cette assemblée ne se lassa pas pendant quelque temps du jeu
 de paume, de l'arc, du vin et de la chasse; mais
@@ -1205,7 +1207,7 @@ rire et lui dit : «La fortune qui donne la victoire est
 «pour nous. Comment peux-tu avoir une telle peur
 «du roi du Touran et de la poussière que soulève
 “son armée? Ses troupes ne vont pas au delà de
-«cent. mille cavaliers maniant des rênes et montés
+«cent mille cavaliers maniant des rênes et montés
 «sur des chevaux caparaçonnés. Fussé-je seul dans
 «celle plaine avec ma massue, avec Raksch et ma
 
@@ -1235,7 +1237,7 @@ rmassue de Sam sur le champ de bataille , tu es le
 coupe de vin rouge du Zaboulistan et la vida en
 buvant à Zewareh, qui la prit aussi dans sa main,
 prononça le nom du roi glorieux, but et baisa la
-terre. Rustem le couvrit de bénédictions. en disant :
+terre. Rustem le couvrit de bénédictions en disant :
 
 
 <pb n="44"/>
@@ -1304,7 +1306,7 @@ comme une flamme vers Rustem au corps d'éléphant, de qui dépendait la victoir
 l’armée. Rustem, l'écume sur les lèvres et brillant
 comme s’il avait ravi au soleil son éclat, poussa son
 cheval, et l'on entendit un bruit comme quand la,
-mer s'élève en mugissant. Tenant le bouclier audessus de sa tête et une épée indienne dans sa main.
+mer s'élève en mugissant. Tenant le bouclier audessus de sa tête et une épée indienne dans sa main,
 il tua la moitié de ces braves. Afrasiab l’observait de
 loin, et il dit à ses guerriers de grand renom : «Si
 «ce combat, entre les héros qui portent haut la tête,
@@ -1512,34 +1514,37 @@ et les joyaux, les chevaux de race avec leurs rênes
 d'or, les casques et les glaives avec leurs fourreaux
 d'or, et beaucoup d’autres choses très-précieuses tombèrent entre les mains des Iraniens, qui réunirent
 tout leur butin, le cœur réjoui de cette bataille, mais
-“sans dépouiller les morts et sans fouiller ceux qui
+sans dépouiller les morts et sans fouiller ceux qui
 étaient tombés. Hs retournèrent. à l’endroit où üls
 avaient chassé, emmenant avec eux des chevaux et
 des bagages de toute sorte. Puis ils écrivirent au roi
 Kaous une lettre sur le combat et sur les réserves de
 chasse, où ils lui marquaient qu'aucun des braves
-_ n'avait été tué, et que seulement Zewareh était tombé
+n'avait été tué, et que seulement Zewareh était tombé
 de cheval. Le Pehlewan passa encore joyeusement
 deux semaines dans cette plaine fortunée ; à la troisième semaine ils se dirigèrent tous vers le roi et se
 présentèrent devant son glorieux diadème.</p>
 
-<p>Telle.est la manière d'agir de ce monde passager :
+<p>Telle est la manière d'agir de ce monde passager :
 il distribue à l’un la santé, à l’autre les peines ; puis
-: passe au-dessus de l’un et de l’autre. Pourquoi donc
-l'homme sage s'afiligerait-il? J’achève ici cette histoire que j'ai racontée telle que nous l'ont transmise
+il passe au-dessus de l’un et de l’autre. Pourquoi donc
+l'homme sage s'affligerait-il? J’achève ici cette histoire que j'ai racontée telle que nous l'ont transmise
 les temps anciens.</p>
 
-<p>III. HISTOIRE DE SOHRAB.</p>
+</div>
+</div>
+<div type="textpart" n="c3">
+<head>III. HISTOIRE DE SOHRAB.</head>
+<div type="textpart" n="s1">
+<head>COMMENCEMENT DU RÉCIT.</head>
 
-<p>COMMENCEMENT DU RÉCIT.
-
-Écoute maintenant le combat de Sohrab contre
+<p>Écoute maintenant le combat de Sohrab contre
 Rustem : tu as prêté l'oreille aux autres histoires;
 
 
 <pb n="55"/>
 prète-la encore à celle-ci. C'est un récit plein de larmes, et ton cœur tendre se remplira de colère contre
-Rustem. Si un vent froid vient de l'espace et fait tomber à terre une orange avant sa maturité. l'appellerens-nous juste ou injuste, équitable ou inique ? Si
+Rustem. Si un vent froid vient de l'espace et fait tomber à terre une orange avant sa maturité, l'appellerens-nous juste ou injuste, équitable ou inique ? Si
 la mort est une nécessité, quelle injustice v a-t-il en
 elle, et pourquoi exciterait-elle tant de cris et de lementations ? Ton esprit ne peut percer ce mystère,
 et tu ne trouves aucune voie pour soulever ce voie.</p>
@@ -1690,7 +1695,7 @@ oublier le vin, les chansons et la musique. Quand
 Rustem fut ivre, il voulut se coucher, impatient de
 quitter le banquet. Le roi lui prépara un lieu de repos et de sommeil comme il convenait, et y répandit du musc et de l’eau de rose.</p>
 
-<p>TEUMIMEH, FILLE DU ROI DE SEMENGAN, VA TROUVER RUSTEM.</p>
+<p>TEHMIMEH, FILLE DU ROI DE SEMENGAN, VA TROUVER RUSTEM.</p>
 
 <p>Quand une partie de la nuit se fut écoulée et pendant que l'étoile du matin passait le long du ciel qui
 tourne, on entendit des paroles prononcées à voix
@@ -1783,7 +1788,7 @@ avec elle des discours sur toutes choses; et lorsque
 le soleil se leva brillant dans le ciel et commença
 d'embellir avec amour la terre, Rustem prit congé
 de Tehmimeh , la pressa contre son cœur et lui baisa
-plusieurs fois les yeux et le front. La belle au visage.
+plusieurs fois les yeux et le front. La belle au visage
 de Péri se sépara de lui en pleurant et demeura
 dans la douleur et la tristesse. Le glorieux roi alla
 trouver Rustem et lui demanda comment il avait
@@ -1906,7 +1911,7 @@ vigueur; püis il lui mettait la main sur le dos pour
 l’éprouver, et le faisait ployer jusqu'a ce que son
 ventre touchäât à terre. Il courba ainsi beaucoup
 de bons chevaux par la force de sa main sans en
-trouver un qui pôt lui convenir. Aucun de ces chevaux n'était digne de lui, et le cœur du héros avide
+trouver un qui pût lui convenir. Aucun de ces chevaux n'était digne de lui, et le cœur du héros avide
 de gloire s’en resserra. À la fin un brave d’entre la
 foule s’approcha de Sohrab au corps d’éléphant, et
 lui dit : «J'ai un poulain de la race de Raksch, qui
@@ -1938,8 +1943,8 @@ rje rendrai noir le jour devant Kaous.</q></p>
 guerre contre les Iraniens ; et de tous côtés s’assembla
 autour de lui une armée, car il était de noble origine et prêt pour le combat. Sohrab se présenta
 devant son grand-père et le pria de lui donner aide
-et conseil pour qu'il pôt aller dans le pays d'Iran,
-pour qu’il pôt voir son glorieux père. Lorsque le roi
+et conseil pour qu'il pût aller dans le pays d'Iran,
+pour qu’il pût voir son glorieux père. Lorsque le roi
 de Semengan le vit si brave, il lui donna des trésors
 de toute espèce, des couronnes et des trônes, des
 casques et des ceintures, des chevaux et des 
@@ -1954,7 +1959,7 @@ main de la justice et de la générosité, et l'investit
 de tous les insignes et de tous les honneurs de la
 royauté.</p>
 
-<p>AFRASIAB ENVOIE BARMAN ET HOUMAN AUPRÈS DE SOBRAB.</p>
+<p>AFRASIAB ENVOIE BAHMAN ET HOUMAN AUPRÈS DE SOHRAB.</p>
 
 <p>Quelqu'un porta cette nouvelle à Afrasiab en
 disant : « Sohrab a lancé sur la mer son vaisseau;
@@ -1964,7 +1969,7 @@ ret déjà il a pris l'épée et les flèches. Il purifiera le
 «monde avec som épée, et maintenant il va attaquer
 « Kaous. Une grande armée l'entoure, et il n’a plus
 «peur de personne. Mais pourquoi faire de longs
-«discours? t] suffit de dire qu’il montre une bravoure
+«discours? Il suffit de dire qu’il montre une bravoure
 au-dessus de celle de sa race.» Afrasiab entendit
 ces paroles et en fut réjoui; il sourit et ne cacha pas
 son contentement; il choisit, parmi les chefs courageux de son armée, des hommes qui marchaient
@@ -2195,13 +2200,13 @@ dit que s’épanouissait le ciel. Sohrab lui dit : «Ne
 les coups de ma massue les feraient écrouler ; ma
 «lance et mes bras renverseraient ces bastions.» Gurdaferid saisit les rênes et conduisit son cheval à la
 tête haute vers la forteresse; elle se mit en route accompagnée par Sohrab, et Guzdehem de son côté se
-dirigea vers la porte du château. On l'ouvrit, et Gurdaferid se traîna jusque dans le. château, blessée et
+dirigea vers la porte du château. On l'ouvrit, et Gurdaferid se traîna jusque dans le.château, blessée et
 enchaînée. On referma la porte, et Gurdaferid trouva
 les siens dans la douleur, le cœur en souci, les yeux
 en larmes; car le danger de Gurdaferid et le sort de
 Hedjir avaient attristé les jeunes et les vieux. Guzdehem s’approcha de sa fille, entouré des grands et
 des guerriers, et lui dit : « O ma courageuse fille,
-«é lionne! nos cœurs étaient pleins d’anxiété à cause
+«ô lionne! nos cœurs étaient pleins d’anxiété à cause
 «de toi; tu t'es jetée dans le combat, dans les ruses
 «et dans les stratagèmes ; mais notre famille n'a pas
 «à rougir de ta conduite. Grâces soient rendues au
@@ -2260,8 +2265,8 @@ et partit en prenant le chemin de son camp.</p>
 
 <p>Aussitôt que Sohrab fut parti, le vieux Guzdehem
 appela un scribe, et l'ayant fait asseoir, il lui fit
-écrire une lettre au roi qu’il expédia par un messager.
-agile, et dans laquelle il. commençait par appeler
+écrire une lettre au roi qu’il expédia par un messager
+agile, et dans laquelle il commençait par appeler
 sur le roi les grâces de Dieu; ensuite il lui exposait
 ce que le sort avait amené, en disant : «Une armée nombreuse, toute composée d'hommes avides
 de combats et pleins de bravoure, est arrivée près
@@ -2270,7 +2275,7 @@ rde nous ayant à sa tête un Pehlewan qui n’a pas
 
 <pb n="80"/>
 
-« plus de deux fois sept ans. ll est plus haut de taille
+« plus de deux fois sept ans. Il est plus haut de taille
 «que le cyprès, il brille comme le soleil dans le signe
 r des Gémeaux; sa poitrine est comme celle d’un lion,
 «sa stature est haute comme une colline; jamais je
@@ -2350,7 +2355,7 @@ voulu contracter une alliance. Il dit dans son cœur :
 <q>Malheur, malheur à moi! cette lune brillante a disparu derrière les nuages!</q></p>
 
 <p>Lorsque Kaous reçut la lettre de Guzdehem, son
-cœur s’afiligea de ce qu’il apprenait; il appela tous
+cœur s’affligea de ce qu’il apprenait; il appela tous
 les grands de l'empire et leur parla longuement de
 ces nouvelles. Tous les chefs de l'armée, grands et
 petits, tels que Thous, Gouderz fils de Keschwad,
@@ -2369,7 +2374,7 @@ lui résidait le salut de l'armée. Kaous s’assit alors
 avec son scribe pour tenir couseil, car le danger
 était pressant et extrême.</p>
 
-<p>KAOUS ÉCRIT À RUSTEM ET LE FAIT VENIR DU ZABOULISTAN.</p>
+<p>KAOUS écrit À RUSTEM ET LE FAIT VENIR DU ZABOULISTAN.</p>
 
 <p>Le roi fit écrire une lettre à Rustem le glorieux,
 elle commençait par l’invocation des grâces de Dieu
@@ -2649,7 +2654,7 @@ tles rois. Et lorsque le pied de Kaous était chargé
 «combattu tant de rois pour le secourir, et n’a jamais tourné le dos devant le roi du Hamaveran. Il
 a ramené Kaous sur le trône, il s’est prosterné dervant lui dans la joie de son âme. Si un gibet doit
 rêtre sa récompense, il ne nous reste plus qu’à nous
-enfuir; et. pourtant c’est le moment de combattre,
+enfuir; et pourtant c’est le moment de combattre,
 + car le sort nous serre de près. </q></p>
 
 <p>Le Sipehdar Gouderz fils de Keschwad partit, se
@@ -2871,7 +2876,7 @@ son sceau, Rustem se tenait à l'écart, en observant
 les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un
 cyprès élancé. Il n’y avait dans l’armée des Turcs
 aucun homme de sa stature. Zendeh s’approcha de
-lui et lui demanda subitement : « Qui es-tu ? répondsmoi. Viens vers la lumière et montre-toi. » Rustem
+lui et lui demanda subitement : « Qui es-tu ? réponds-moi. Viens vers la lumière et montre-toi. » Rustem
 le frappa sur la nuque d’un violent coup de poing,
 et l'âme de Zendeh Rezm abandonna son corps; ül
 mourut sur la place; il ne devait plus combattre, et
@@ -2987,9 +2992,9 @@ rturquoises bleu de mer flotte dans l'air un drapeau
 +surmonté d’une lune. Quel est ce camp assis au
 «milieu de l’armée, et à qui d’entre les bravés de
 tTiran appartient-il?» Hedjir lui répondit : « C’est
-rle roi de l'Iran, devant la porte duquel on tient.
+rle roi de l'Iran, devant la porte duquel on tient,
 rtoujours des éléphants et des lions.» Ensuite
-Sohrab. lui dit : « Je vois sur la droite beaucoup de
+Sohrab lui dit : « Je vois sur la droite beaucoup de
 «cavaliers, d’éléphants et de bagages; on y a formé
 “une enceinte noire, entourée de troupes rangées
 ret de tentes innombrables; derrière sont placés des
@@ -3199,8 +3204,7 @@ pour me venger. Puisqu'il reste encore au pays
 r d'Iran Gouderz et ses soixante et dix fils illustres,
 sje peux lui manquer. Le Mobed à la foi pure m'a
 enseigné qu'il est naturel que le faisan ne flaire pas
-«d’autres herbes, quand il y a dans la prairie des
-cracines de cyprès qui poussent des tendrons.» K dit
+«d’autres herbes, quand il y a dans la prairie des racines de cyprès qui poussent des tendrons.» K dit
 donc à Sohrab : <q>Pourquoi te mets-tu en colère, et
 epourquoi ne me parles-tu que de Rustem? Pourquoi me fais-tu cette querelle en m'adressant une
 + demande insensée? Tu veux me couper la tête parce
@@ -3232,7 +3236,7 @@ son arc, son lacet et sa lourde massue; le sang
 bouiklait de colère dans ses veines; il monta sur son
 cheval rapide, poussa un cri de guerre, saisit:un
 javelot et partit pour-le champ de bataille, semblable
-à un éléphant furieux. Il sortit de la. forteresse, déterminé à combattre; il fit voler la poussière jusque
+à un éléphant furieux. Il sortit de la forteresse, déterminé à combattre; il fit voler la poussière jusque
 sur la face de la lune. Il se précipita sur l'enceinte
 des tentes du roi et en emporta le dessus avec sa
 lance. Les chefs courageux se dispersèrent devant
@@ -3289,7 +3293,7 @@ qui criait : « Hâte-toi, hâte-toil» Rehham qui
 
 bouclait la barde sur le poitrail du cheval, et Thous qui
 s’occupait des caparaçons, pendant qu'ils.se disaient
-l'un à l’autre : « Vite! vitel» Rustem entendant ces
+l'un à l’autre : « Vite! vite!» Rustem entendant ces
 voix de sa tente, dit en lui-même : «C'est done ici
 «un combat contre un Ahriman, car toute cette terereur ne peut avoir été produite par un homme!»
 Il se hâta de mettre sa cuirasse de peau de léopard,
@@ -3299,7 +3303,7 @@ et de son armée, et lui dit : « Ne quitte pas ce poste,
 et obéis-moi de préférence aux autres chefs.</q></p>
 
 <p>On porta devant Rustem son drapeau, et il
-s’avança, avide de combats et en colère. Quand il.
+s’avança, avide de combats et en colère. Quand il
 vit Sohrab avec ses bras et ses jambes puissantes, et
 sa poitrine large comme celle de Sam, ïl lui dit:
 <q> Éloignons-nous d'ici, et sortons des lignes des
@@ -3319,13 +3323,13 @@ altier, il regarda ses épaules, ses mains et ses longs
 <pb n="116"/>
 
 étriers, et lui dit avec douceur : « O jeune homme si
-ktendre! la terre est sèche et:froide, l’air est. doux et
+ktendre! la terre est sèche et:froide, l’air est doux et
 chaud. Je suis vieux, j'ai vu maint champ de bartaille; j'ai détruit mainte armée; maint Div est
 æmort de ma main, et je n'ai jamais été battu.
 « Certes! si tu me combats et que tu me survives, tu
-«n'as. plus à craindre le crocodile. La mer et les
+«n'as plus à craindre le crocodile. La mer et les
 + môntagnes ont vu mes combats; ce que j'ai fait des
-e grands de l’armée du Touran, les astres en sont témoins, et ma valeur a mis. le monde sousmes
+e grands de l’armée du Touran, les astres en sont témoins, et ma valeur a mis le monde sousmes
 rpieds. Mais j'ai pitié detoi, et ne voudrais pas t’arracher la vie. Ne reste pas avec les Turcs, je ne
 -+conmais personne dans l'Iran qe ait des épaules et
 «des bras comme toi. »
@@ -3349,8 +3353,8 @@ brillant devint sombre pour lui.</p>
 
 <p>Sohrab se rendit au champ du combat et prit un
 javelot , tout en pensant avec étonnement aux paroles
-de sa mère. ls choisirent une lice étroite, et s'atlaquèrent avec leurs courts javelots. Quand il ne resta
-plus à leurs javelots ni pointe .ni anneau de fer, ils
+de sa mère. Ils choisirent une liee étroite, et s'attaquèrent avec leurs courts javelots. Quand il ne resta
+plus à leurs javelots ni pointe ni anneau de fer, ils
 tournèrent tous deux bride à gauche, puis ils fondirent l'un sur l’autre avec leurs épées indiennes, et
 firent jaillir le feu de l'acier. Leurs épées se brisèrent
 sous leurs coups, quels coups! on eût dit-qu'ils amenaient la résurrection. Ensuite ils saisirent: leurs
@@ -3587,7 +3591,7 @@ nourriture , puis il déchargea son cœur de ses soucis.</p>
 
 <pb n="125"/>
 
-æ bottines d'or, et trouve-toi devant mes tentes aussitôt que le. soleil brillant paraîtra. Si je suis victorieux, je ne resterai pas longtemps sur le champ
+æ bottines d'or, et trouve-toi devant mes tentes aussitôt que le soleil brillant paraîtra. Si je suis victorieux, je ne resterai pas longtemps sur le champ
 «de bataille; mais si le sort en décide autrement,
 «ne ’afflige pas, ne t’attriste pas. Qu’alors personne
 «de vous n’aille sur le champ de bataille, que personne ne recherche le chemin du combat, que tous
@@ -3604,7 +3608,7 @@ es’aflliger éternellement de ma mort. Personne ne
 «bondir son cheval, frappe à la porte de la mort;
 «et vécût-il plus de mille ans, telle serait sa route,
 «tel serait son sort. Pense à Djemschid le puissant
-«roi. et à Thahmouras le vainqueur des Divs : jamais le monde n’a eu des rois comme eux, mais à
+«roi, et à Thahmouras le vainqueur des Divs : jamais le monde n’a eu des rois comme eux, mais à
 «la fin ils sont allés auprès de Dieu; et puisque le
 « monde ne leur est pas resté et les a abandonnés, il
 «faudra bien que moi aussi je passe par ce chemin.
@@ -3685,7 +3689,7 @@ lui demanda : «Comment as-tu dormi, comment
 « Rustem le maître du Zaboulistan, le choisi, l'illusktre, le fils de Zal fils de Sam le héros?</q></p>
 
 <p>Rustem lui répondit : <q>O jeune homme avide de’
-«gloire! noùs n’avons jamais parlé de chose pareille.
+«gloire! nous n’avons jamais parlé de chose pareille.
 «Nous sommes convenus hier de lutter, et je n'ouvrirai pas l’oreitle à tes paroles trompeuses. Tu n'es
 + qu'un jeune homme, mais moi je ne suis pas un
 enfant; c’est pour la lutte que je me suis ceint.
@@ -3710,7 +3714,7 @@ avec précautién, couverts de’ leurs cottes de mailles
 
 et de leurs casques. Ils lièrent leurs chevaux de bataille à des rochers et s’approchèrent l'un de l’autre
 l'âme en souci. Ils se ruèrent l’un sur l’autre comme
-des lions pour lutter, et le sang et la sueur coulèrent .
+des lions pour lutter, et le sang et la sueur coulèrent 
 sur leurs corps. ls mesurèrent leurs forces depuis le
 matin jusqu’à ce que le soleil prolongeât les ombres.</p>
 
@@ -4025,8 +4029,7 @@ la mort? chacun n’a-t-il pas à pleurer sur lui-même ? Que le chemin que doit
 <p>RUSTEM DEMANDE UN BAUME À KAOUS.</p>
 
 <p>Alors Rustem dit à Gouderz : <q>O puissant héros à
-«l’âme brillante! porte un message de moi à Kaous;
-craconte-lui quel malheur m'a frappé, et dis-lui :
+«l’âme brillante! porte un message de moi à Kaous; raconte-lui quel malheur m'a frappé, et dis-lui :
 J'ai déchiré avec le poignard la poitrine de mon
 «vaillant fils, périsse ma main! Si tu as souvenance
 de ce que j'ai fait pour toi, montre une seule fois
@@ -4062,7 +4065,7 @@ eroyal, lui qui m'a défié avec tant d'injures, qui
 rKaous vivant au gibet. S'il vit, les grands et les
 « petits.plieront devant lui. Quiconque aide à sauver
 rson ennemi donne au monde une mauvaise opinion de lui-même.</q> Gouderz l'écouta et sen
-relourna sur-le-champ; il arriva auprès de Rustem, courant comme la fumée, . et lui dit : <q>La
+retourna sur-le-champ; il arriva auprès de Rustem, courant comme la fumée, . et lui dit : <q>La
 « mauvaise nature du roi est comme la coloquinte,
 qui ne cesse jamais de porter du fruit, Sa dureté
 est cause qu'il n'a aucun ami dans de monde, et
@@ -4070,7 +4073,7 @@ est cause qu'il n'a aucun ami dans de monde, et
 « d’un homme. Va toi-même auprès de lui et tâche
 « d'éclairer son âme noire. </q></p>
 
-<p>LAMENTATION DE RUSTEM SUR LA MORT DE SOHRAB.</p>
+<p>lamentation DE RUSTEM SUR LA MORT DE SOHRAB.</p>
 
 <p>Rustem ordonna à ses serviteurs de préparer un
 
@@ -4441,10 +4444,13 @@ ecette porte fermée, et tu donnes ta vie au vent
 de Siawusch; c’est une histoire pleine de larmes et
 qui fera naître dans les cœurs tendres de la haine
 contre Rustem.</p>
+</div>
+</div>
 
-<p>IV. HISTOIRE DE SIAWUSCH.</p>
-
-<p>COMMENCEMENT DU RÉCIT.</p>
+<div type="textpart" n="c4">
+<head>IV. HISTOIRE DE SIAWUSCH.</head>
+<div type="textpart" n="s1">
+<head>COMMENCEMENT DU RÉCIT.</head>
 
 <p>Maintenant, o conteur à l'esprit éveillé, compose
 un beau récit. Quand les paroles sont entièrement
@@ -4657,9 +4663,9 @@ monde était rempli de joie et paré de tout ce qui est
 précieux; les portes et les murs de toutes les maisons étaient ornés. On jetait des pièces d'argent sous
 les pieds des chevaux arabes : la tristesse était bannie de l'Iran. Les crinières des chevaux étaient entièrement inondées de muse, de vin et de safran.</p>
 
-<p>STAWUSCH REVIENT DU ZABOULISTAN,
+<p>SIAWUSCH REVIENT DU ZABOULISTAN.</p>
 
-Lorsque le roi Kaous sut que Siawusch revenait
+<p>Lorsque le roi Kaous sut que Siawusch revenait
 avec pompe, il ordonna que Guiv et Thous allassent
 joyeusement au-devant de lui avec un cortége, avec
 des clairons et des timbales. Tous les grands le joignirent : Thous se mit d’un côté, de l’autre Rustem au corps d’éléphant; ile se dirigèrent d’un pas
@@ -5887,9 +5893,9 @@ arrivé à Balkh heureux et victorieux, par la grâce
 «du fleuve. Si le roi me l’ordonne, je passerai l’eau
 “avec mon armée et livrerai bataille à Afrasiab. </q></p>
 
-<p>RÉPONSE DE KAOUS À LA LETTRE DE SIAWUSCH,
+<p>RÉPONSE DE KAOUS À LA LETTRE DE SIAWUSCH.</head>
 
-Quand le roi de l'Iran eut reçu cette lettre, sa
+<p>Quand le roi de l'Iran eut reçu cette lettre, sa
 
 
 <pb n="203"/>
@@ -6263,11 +6269,11 @@ qui s’est passé, pour que le désir de la vengeance
 «ferons, et ce n’est qu'ainsi qu'un traité pourra se
 + conclure.</q></p>
 
-<p>SIAWUSCH CONCLUT UN TRAITÉ AVEC AFRASIAB.
+<p>SIAWUSCH CONCLUT UN TRAITÉ AVEC AFRASIAB.</p>
 
-À l'aube du jour Guersiwez se présenta à la cour,
+<p>À l'aube du jour Guersiwez se présenta à la cour,
 revêlu d’un casque et d’une ceinture, comme c’est la
-coutume. Î s’approcha de Siawusch, baisa la terre
+coutume. Il s’approcha de Siawusch, baisa la terre
 
 
 <pb n="216"/>
@@ -6346,7 +6352,7 @@ tu aurais dit qu'il enroulait la terre sous ses pas.</p>
 <p>Siawusch s’assit sur le trône d'ivoire et suspendit
 sa couronne au-dessous du trône. Il tint conseil sur
 le choix d’un brave de l'armée, au doux langage et
-bon cavalier, qui pôt donner à ses paroles de la couleur et du parfum, et dont l'humeur de Kaous s'accommodät. Rustem lui dit : <q>Qui est-ce qui osera
+bon cavalier, qui pût donner à ses paroles de la couleur et du parfum, et dont l'humeur de Kaous s'accommodät. Rustem lui dit : <q>Qui est-ce qui osera
 «porter un pareil message? Kaous est ce qu’il a tourjours été, et sa sévérité, au lieu de diminuer, ne
 «fait qu'augmenter. Mais moi je peux aller auprès
 «de lui et lui dévoiler le secret; je déchirerai la
@@ -6513,7 +6519,7 @@ rmédite frappera d'horreur ce prince illustre. Ne
 
 <pb n="224"/>
 
-<p>KAQUS RENVOIE RUSTEM DANS LE SEÏSTAN.</p>
+<p>KAOUS RENVOIE RUSTEM DANS LE SEÏSTAN.</p>
 
 <p>Kaous écouta ces paroles et en fut courroucé; il
 était confondu et n'osait pas lever les veux. À la fin
@@ -7177,7 +7183,7 @@ de son esprit ses sombres pensées. Ils s’assirent ensemble pour diner. Siawus
 Piran comme un père. Ensuite ils partirent, riant et
 le cœur en gaieté, et ne s’arrétèrent plus avant d’arriver devant la ville de Gang, qui était la belle résidence d’Afrasiab.</p>
 
-<p>ENTREVUE DE SIAWUSCIL ET D’AFRASIAB.</p>
+<p>ENTREVUE DE SIAWUSCH ET D’AFRASIAB.</p>
 
 <p>Lorsque Afrasiab apprit que Siawusch arrivait en
 grande pompe, il courut à pied de la salle d’audience jusque dans la rue, ceint au milieu du: corps
@@ -8003,7 +8009,7 @@ contre les astrologues; son cœur se remplit de douleur et ses yeux furent plein
 mollement les rênes de son cheval, et des larmes
 brûlantes tombaient de ses yeux. Piran lui dit : <q>ô
 «roi! pourquoi es-tu devenu si soucieux?» Siawusch
-répondit : « La rotation du ciel sublime afilige et
+répondit : « La rotation du ciel sublime afflige et
 «trouble mon âme. J'ai beau accumuler des choses
 
 
@@ -9128,7 +9134,7 @@ monte sur un cheval rapide, et ne te fie plus au
 sur la terre; sauve donc ta tête et ne retarde ton
 + départ pour personne. </q></p>
 
-<p>SIAWUSCH DÉCLARE SES DERNIÈRES VOLONTES À FERENGUIS.</p>
+<p>SIAWUSCH DÉCLARE SES DERNIÈRES volontes À FERENGUIS.</p>
 
 <p>Siawusch lui dit : « Le rêve que j'ai eu s’accomplit,
 «et ma gloire est ternie. Ma vie n’est pas loin de sa
@@ -9855,7 +9861,7 @@ fut occupé qu'à songer comment il ferait pousser les
 feuilles et les racines de ce jeune arbre.</p>
 
 
-<p>PIRAN CONFIE LE JEUNE KEÏ KHOSROU AUX PÂTRES.</p>
+<p>PIRAN CONFIE LE JEUNE KEÏ KHOSROU AUX pâtres.</p>
 
 <p>Piran appela des pâtres des montagnes de Kala et
 leur parla longuement de cet enfant; il leur confia
@@ -10112,10 +10118,13 @@ Telle est la manière d’agir du sublime firmament; il exalte tantôt l’un, t
 rais raconter maintenant de quelle manière elle fut
 vengée, et comment Keï Khosrou fut emmené du
 pays de Touran.</p>
+</div>
+</div>
 
-<p>V. DÉPART DE KHOSROU POUR LE PAYS D’IRAN.</p>
-
-<p>COMMENCEMENT DU RÉCIT.</p>
+<div type="textpart" n="c5">
+<head>V. DÉPART DE KHOSROU POUR LE PAYS D’IRAN.</head>
+<div type="textpart" n="s1">
+<head>COMMENCEMENT DU RÉCIT.</head>
 
 <p>Lorsque l'épée de la soixantième année s'approche
 de la tête de l’homme, ne lui donne pas de vin, car
@@ -10306,9 +10315,9 @@ maître du Zaboulistan, fit un choix parmi les guerriers du Kaboul qui étaient 
 et cent mille braves du pays d'Iran et de la forêt
 de Narwen se rassemblèrent.</p>
 
-<p>FARAMOURZ TUE WARAZAD, ROI DE SIPENDJAB,
+<p>FARAMOURZ TUE WARAZAD, ROI DE SIPENDJAB.</head>
 
-Un jeune guerrier, Faramourz, fils de Rustem, commandait l'avant-garde; il s’avança jusqu’à la frontière
+<p>Un jeune guerrier, Faramourz, fils de Rustem, commandait l'avant-garde; il s’avança jusqu’à la frontière
 du Touran, où une vedette de l'ennemi le vit sur la
 route. Or il y avait alors un roi de Sipendjab dont
 le nom était Warazad et qui brillait au milieu des
@@ -10740,7 +10749,7 @@ battaient sur la plaine les deux armées; on ne pouvait plus les distinguer l’
 était sombre comme une nuit noire, et le jour avait
 presque pris la teinte de la nuit.</p>
 
-<p>AFRASIAB FUIT DEVANT RUSTBM.</p>
+<p>AFRASIAB FUIT DEVANT RUSTEM.</p>
 
 <p>Afrasiab s'adressa à ses braves et leur dit : <q>La
 « fortune qui veillait sur nous s’est endormie; puisque vous combattez si mollement, il est temps que
@@ -10991,7 +11000,7 @@ Le Sipehbed voyant combien leur esprit était pident, leur fit grâce de la vie.
 guépard et au faucon, et c'est ainsi que se passa un
 long espace de temps.</p>
 
-<p>ZEWABEH VA VOIR LES RÉSERVES DE CHASSE DE SIAWUSCH.</p>
+<p>ZEWAREH VA VOIR LES RÉSERVES DE CHASSE DE SIAWUSCH.</p>
 
 <p>Il arriva qu’un jour Zewareh partit Pour aller  à la
 chasse aux onagres; il se fit précéder par un Turc
@@ -11039,7 +11048,7 @@ rce pays? Puisque Dieu le distributeur des grâces
 r vengeance due à ce roi dont cent générations 16
 « verront pas légal. </q></p>
 
-<p>RUSTEM DÉVASTE LE TOURAN.</p>
+<p>RUSTEM dévaste LE TOURAN.</p>
 
 <p>Lewareh parvint à tirer de son inaction cet homme
 au cœur de lion, et Rustem fit tout ce que son frère
@@ -11359,7 +11368,7 @@ trouvait sur son chemin un homme-seul, il lui demandait avec douceur, en langue 
 
 <pb n="387"/>
 
-nouvelles de Khosrou. Si le Turc lui répondait qu'il n’en .
+nouvelles de Khosrou. Si le Turc lui répondait qu'il n’en 
 avait pas connaissance , il le tuait aussitôt, l’attachait
 avec son lacet, le traînait au loin et le couvrait de
 terre, afin que personne ne connût son secret, n’entendit prononcer son nom et n'ébruitât son arrivée.</p>
@@ -11403,7 +11412,7 @@ cette manière dans Îles déserts et dans les montagnes, épuisé de fatigue et
 <p>Cependant Afrasiab, qui était rentré dans Gang,
 et s’élait emparé de nouveau du Touran, après que
 Rustem eut ramené son armée sur la rive gauche du
-Djihoun, avait dit à Piran : <q>O sage! araène-moi
+Djihoun, avait dit à Piran : <q>O sage! amène-moi
 rKeï Khosrou le maudit; amène-le du Madjin;
 «rends-le à sa mère, mais coupe-lui de tous côtés
 «le chemin de la fuite.» Piran avait envoyé sur-lechamp un messager monté sur un dromadaire de
@@ -11467,7 +11476,7 @@ es le bienvenu, puisque tu viens par la grâce et par
 «l’ordre de Dieu. Comment as-tu pu pénétrer dans
 « ce pays? Quelles nouvelles as-tu de Thous, de Gouderz et du roi Kaous? Sont-ils tous heureux ? Pensent-ils à Khosrou? Comment se porte Rustem, le
 « héros au corps d’éléphant qui ambitionne la possession du monde, et le Destan et toute cette famille?» Quand Guiv entendit ces paroles, il resta
-confondu et sa langue prononça le nom de Dieu.
+confondu et sa langue prononça le nom de Dieu. Il
 dit à Khosrou : «O roi qui portes haut la tête! le
 «monde a besoin de ton amour. Je crois que tu es
 «le fils de Siawusch, que tu es Khosrou de la famille
@@ -11656,7 +11665,7 @@ larmes de'ses yeux étant épuisées, elle alla rapidement vers le lieu où éta
 <pb n="397"/>
 
 car elle avait dans le palais un trésor secret dont
-personne au monde n'avait connaissance, un trésor .
+personne au monde n'avait connaissance, un trésor 
 rempli de pièces d’or et d'argent, de rubis, de
 masses d'armes, de caparaçons pour les chevaux, de
 poignards, d'épées et de lourdes massues. Elle ouvrit
@@ -11665,7 +11674,7 @@ douleur et déchiré par les soucis. Elle dit à Guiv :
 <q>O toi qui as supporté de si grandes fatigues, regarde
 « ces richesses et prends les joyaux que tu voudras,
 « de l'or et des pierreries dignes d’un roi, des rubis
-«et. des couronnes incrustées de pierres fines ; car
+«et des couronnes incrustées de pierres fines ; car
 «nous ne sommes que les gardiens de ce trésor qui
 est à toi, qui est la rançon de notre vie et la récompense de tes peines.» Le Pehlewan baisa la terre
 devant elle et lui dit : « O reine des reines! tu convertis le monde en un paradis printanier, et c’est
@@ -11684,7 +11693,7 @@ désert.</p>
 
 <pb n="398"/>
 
-<p>FERENGUIS PART POUR L’IRAN AVEC KRÏ KHOSROU ET GUIV.</p>
+<p>FERENGUIS PART POUR L’IRAN AVEC KEÏ KHOSROU ET GUIV.</p>
 
 <p>Leurs préparatifs étant terminés, ils sellèrent leurs
 nobles chevaux aux pieds de vent. Ferenguis se couvrit d'un casque, et tous les trois partirent rapidement comme le vent et se dirigèrent vers l'Iran en
@@ -11990,9 +11999,9 @@ e Puisses-tu te trouver sans couronne, sans trône et
 «sans patrie! Le nœud de mon lacet va être ta mort,
 “et ton casque et ta cuirasse te serviront de linceul. </q></p>
 
-<p>GUIV FAIT PIRAN PRISONNIER.
+<p>GUIV FAIT PIRAN PRISONNIER.</p>
 
-À ces paroles, Piran se sentit enflammé de colère;
+<p>À ces paroles, Piran se sentit enflammé de colère;
 le sang de son cœur bouillonna et ses yeux se remplirent de larmes. Il lança son cheval, il le serra des
 jambes, et plaçant sur son épaule sa lourde massue,
 il s’élança du rivage dans l’eau, comme une barque,
@@ -12406,34 +12415,32 @@ comme un lit de repos. Il chercha pour son message
 
 <pb n="422"/>
 
-un brave cavalier, et choisit parmi les grands de Zen
-un homme prudent, prévoyant et dévoué; il le mi
-au fait des affaires et lui dit : « Va à Ispahan quiet
-«le pays des rois et le siége des grands, et dis à Gouderz: O Pehlewan du monde, tu dormais quandtuu
-« fait ton rêve, mais ton esprit était réveilké. Keï Khosrou est arrivé à Zem, sans que le souffle d’un ver
+un brave cavalier, et choisit parmi les grands de Zem
+un homme prudent, prévoyant et dévoué; il le mit
+au fait des affaires et lui dit : « Va à Ispahan qui est
+«le pays des rois et le siége des grands, et dis à Gouderz: O Pehlewan du monde, tu dormais quand tu as
+« fait ton rêve, mais ton esprit était réveilké. Keï Khosrou est arrivé à Zem, sans que le souffle d’un vent
 hostile l'ait atteint.</q></p>
 
 <p>Ensuite Guiv écrivit une lettre à Kaous, et le mes
 sager se leva et partit. Les dromadaires à la bouche
-écumante et aux pieds de vent s’élancèrent commet
+écumante et aux pieds de vent s’élancèrent comme
 une flamme, et l'envoyé de Guiv à l'esprit brillant
 arriva d'abord chez le Pehlewan. Il s’acquitta de son
-message, il remit la lettre, que le Pehlewan d
-monde porta à son front, en versant des larmes an
-souvenir de Siawusch et en maudissant Afrasiab.</p>
-
-<p>Ensuite il se rendit auprès de Keï Kaous. La sueur
-dégouttait des membres de ses dromadaires.
-arriva à la cour de Kaous, et des cris de joie sé
-levèrent du palais. Le roi appela devant lui k
-messager, et répandit des pierreries sur la let
+message, il remit la lettre, que le Pehlewan du
+monde porta à son front, en versant des larmes au
+souvenir de Siawusch et en maudissant Afrasiab.
+Ensuite il se rendit auprès de Keï Kaous. La sueur
+dégouttait des membres de ses dromadaires. Il
+arriva à la cour de Kaous, et des cris de joie s'élevèrent du palais. Le roi appela devant lui le
+messager, et répandit des pierreries sur la lettre
 de Guiv. Les hommes, dans leur joie, préparèrent
-des fêtes et dans chaque maison on demanda dek
+des fêtes et dans chaque maison on demanda de la
 musique.</p>
 
-<p>La nouvelle du retour victorieux de Guiv qui ilhminait le monde arriva dans le Nimrouz, et Rustem
+<p>La nouvelle du retour victorieux de Guiv qui illuminait le monde arriva dans le Nimrouz, et Rustem
 distribuu de l'or aux pauvres, pour remercier le ciel
-de ce que ce lion n’avait pas éprouvé de malhewr.
+de ce que ce lion n’avait pas éprouvé de malheur.
 
  
 
@@ -12441,7 +12448,7 @@ de ce que ce lion n’avait pas éprouvé de malhewr.
 <pb n="423"/>
 
 Ensuite il envoya Banougouschasp qui ressemblait à
-Adergouschasp, pour porter à Guiv des présents, accompagnée de douze cenis grands de haut renom.
+Adergouschasp, pour porter à Guiv des présents, accompagnée de douze cenis grands de haut renom. Il
 lui donna un trône, de pesantes couronnes et trois
 cent soixante esclaves, dont chacun portait à la
 main une coupe d’or. La princesse quitta son père
@@ -12488,7 +12495,7 @@ l'exige. </q></p>
 <p>Tous les grands du pays de l'Iran touchèrent la
 terre de leur front devant Khosrou. Ils le ramenèren!
 joyeusement, et la fortune du roi qui portait haut la
-tête brilla d'un grand éclat. dls se rendirent au palais du Pehlewan, ils s’y rendirent gaiement et l'âme
+tête brilla d'un grand éclat, ils se rendirent au palais du Pehlewan, ils s’y rendirent gaiement et l'âme
 remplie de bonheur. Ils y restèrent sept jours la
 coupe en main dans la salle parée du banquet, et le
 huitième jour ïls partirent pour la résidence du roi
@@ -13062,16 +13069,21 @@ ennemi. Dieu t'a donné, il donnera à tes enfants,
 <p>Ne vois-tu pas que le monde est rempli de richesses
 et que l'homme a été pourvu de tout par la bonté
 divine? Les dons de Dieu ne s’épuisent pas; sois
-donc joyeux et ne te laisse pas aller aux soucis.
+donc joyeux et ne te laisse pas aller aux soucis.</p>
 
-
+</div>
+</div>
+</div>
 <pb n="445"/> 
 
-XIII: Kei Khosrou (Son règne dura 60 ans.)
+<div type="textpart" n="KeiKhosrou">
+<head>XIII: Kei Khosrou (Son règne dura 60 ans.)</head>
 
-I. PREMIÈRE GUERRE CONTRE AFRASIAB.</p>
+<div type="textpart" n="c1">
 
-<p>COMMENCEMENT DU RÉCIT.</p>
+<head>I. PREMIÈRE GUERRE CONTRE AFRASIAB.</head>
+<div type="textpart" n="s1">
+<head>COMMENCEMENT DU RÉCIT.</head>
 
 <p>Le poëte a achevé l’histoire de Keï Kaous, il va
 raconter maintenant, d’après d'anciennes traditions,
@@ -13135,7 +13147,7 @@ Ahriman fut impuissant à faire le mal.</p>
 grands, des princes et des héros; et lorsqu'on sut
 dans le Nimrouz, à la cour du Sipehdar qui illuninait le monde, que le glorieux Keïanide s'était
 assis sur le trône du pouvoir, qu'il avait posé son
-pied sur le firmament de la puissance, Rustem convoqua son. armée de tous les points de son royaume,
+pied sur le firmament de la puissance, Rustem convoqua son armée de tous les points de son royaume,
 pour aller rendre hommage au roi. Il se dirigea vers
 a cour de Keï Khosrou, joyeux, entouré d’une
 grande pompe et accompagné de Zal fils de Sam
@@ -13589,7 +13601,7 @@ demeures.</p>
 <p>Aussitôt que le retour du jour eut couvert les
 montagnes d'une teinte de sandaraque, et que la
 voix du coq se fut élevée vers les nues, Rustem,
-accompagné de Zewareh et de Faramourz, se rendit.
+accompagné de Zewareh et de Faramourz, se rendit
 auprès du roi et lui parla de l'Iran, du trône et de
 la couronne, et ils délibérèrent sur toute chose,
 grande et petite. Rustem dit au roi de la terre: <q>O
@@ -13678,34 +13690,34 @@ part qu’au seuil de la porte impériale.</p>
 
 <pb n="466"/>
 
-des grands de l'empire, commença son règne. Il
+des grands de l'empire, commença son règne. Il se
 tenait dans la large plaine, assis sur son éléphant,
 pour faire défiler devant lui son armée. Le premier
-qui parut et qui passa devant le nouveau maitre di
-monde fut Feribourz, tenant une épée et une massue.
+qui parut et qui passa devant le nouveau maitre de
+monde fut Feribourz, tenant une épée et une massue
 portant des bottines d'or, et suivi d’un drapeau à
 figure de solcil. Il était assis sur un destrier couleur
 isabelle et avait roulé son lacet autour du crochet de
 la selle. Lorsque ce prince fort de membres, haut de
 stature et d’un maintien royal passa devant Khosrou
 avec ses troupes couvertes d'or et d'argent, le roi du
-monde le salua, disant : <q>Puisses-tu conserver la puisance et la dignité qui sont l'apanage des grands
-r puisse ta fortune être toujours victorieuse ! puise
-«chaque jour de ta vie être une fête de Nourouz
-«puisses-tu partir en bonne santé et revenir san
+monde le salua, disant : <q>Puisses-tu conserver la puisance et la dignité qui sont l'apanage des grands!
+r puisse ta fortune être toujours victorieuse ! puisse
+«chaque jour de ta vie être une fête de Nourouz!
+«puisses-tu partir en bonne santé et revenir sans
 «fatigue auprès de nous!</q></p>
 
 <p>Gouderz fils de Keschwad, dont la sagesse faisait
-prospérer le monde, suivit Feribourz. On portai
-derrière lui un drapeau orné d'une figure de lion.
-dont les griffes s'appuyaient sur une massue et su
+prospérer le monde, suivit Feribourz. On portait
+derrière lui un drapeau orné d'une figure de lion,
+dont les griffes s'appuyaient sur une massue et sur
 une épée. À sa gauche marchait le vaillant Rehham,
-à sa droite le fier Guiv, et derrière lui Schidousch.
+à sa droite le fier Guiv, et derrière lui Schidousch,
 lequel tenait ce drapeau à figure de lion qui jetait
 sur la terre une teinte violette, et était suivi par des
 milliers de braves à cheval et armés de longues
 lances. On portait derrière Guiv un drapeau noir et
-à figure de loup, que ses troupes entouraient. L*
+à figure de loup, que ses troupes entouraient. Le
 
 
 <pb n="467"/>
@@ -13866,7 +13878,7 @@ efforts, mais à quoi servent-ils? car il ne peut arrie ver que ce qui a élé d
 ele créateur nous est en aide, nous vengerons le
 «sang de mon père.</q></p>
 
-<p>COMMENCEMENT DE L’HISTOIRE DE FIROUD FILS DE $IAWUSCH.</p>
+<p>COMMENCEMENT DE L’HISTOIRE DE FIROUD FILS DE SIAWUSCH.</p>
 
 <p>Un prince qui est noble et brave ne doit pas confier son armée à un ennemi, car celui-ci, par sa
 jalousie, ferait couler des larmes des yeux du prince,
@@ -14229,7 +14241,7 @@ prince, en le voyant, dit à Tokhareh : «Qui est-ce qui s’avance là si insol
 «que c’est un des fils de Gouderz. Lorsque Khosrou
 e partit du Touran pour aller dans l'Iran, il emporta
 «un casque royal, et je crois que la tête de ce cavalier
-«en est couverte, et que sa noble poitrine est revêtue du. haubert qui appartient à ce casque. Il est
+«en est couverte, et que sa noble poitrine est revêtue du haubert qui appartient à ce casque. Il est
 «sans doute de la famille de Gouderz; puissent les
 rtraces de son pied porter bonheur à ce pays!</q></p>
 
@@ -14244,14 +14256,14 @@ es-tu, toi qui te places sur la hauteur et observes
 «son des clairons et des timbales? n’as-tu aucune
 rcrainte de Thous le sage Sipehdar?» Firoud lui
 répondit : <q>Ne médite pas des affronts, car tu n’en
-«as pas essuyé. Parle doucement, 6 homme expérimenté! et ne blesse pas tes lèvres par des paroles
+«as pas essuyé. Parle doucement, ô homme expérimenté! et ne blesse pas tes lèvres par des paroles
 glacées. Tu n’es pas un lion irrésistible, et je ne
 «suis pas un onagre du désert; n’essaye donc pas
-+de nous traiter ainsi avec mépris. Tu ne m'’es supérieur en rien, ni en bravoure, ni en courage, ni
++de nous traiter ainsi avec mépris. Tu ne m'es supérieur en rien, ni en bravoure, ni en courage, ni
 «en forces. Regarde-moi pour voir si j'ai une tête et
 «des pieds, un cerveau, un cœur, des mains, une
 rintelligence, une langue éloquente, des yeux et
-«des oreilles; et si je les. ai, garde-toi de me menacer
+«des oreilles; et si je les ai, garde-toi de me menacer
 «follement. Je vais t'adresser des questions, si tu
 veux me répondre ; et je serai heureux si tu veux
 écouter les conseils de la raison.» Bahram lui répondit : «Parle! tu es dans le-ciel, et moi sur la
@@ -14289,7 +14301,7 @@ dit: «Découvre ton corps, montre-moi la marque
 son bras, sur lequel on voyait une marque brune
 comme une tache d’ambre sur une rose, et telle
 qu'aucun peintre dans le monde n'aurait pu limiter
-à l’aide. d’un compas chinois. Bahram alors fut assuré que Firoud était de la famille de Kobad et de
+à l’aide d’un compas chinois. Bahram alors fut assuré que Firoud était de la famille de Kobad et de
 Siawusch, et lui rendit hommage en se prosternant
 contre terre; ensuite il monta sur la crête escarpée
 de la montagne.
@@ -14484,7 +14496,7 @@ retourna en fuyant ventre à terre.</p>
 casques. Le cœur de Thous était gonflé de sang, ses
 yeux versaient des larmes, et il se revêtit précipitamment de sa cuirasse. Il se lamentait de la mort
 de ces deux braves, il tremblait comme une branche
-de tremble; il monta à cheval, semblable à une.
+de tremble; il monta à cheval, semblable à une
 haute montagne sur laquelle on aurait placé un éléphant de guerre, et se dirigea vers Firoud, l’âme
 remplie de haine et la tête pleine d'orgueil. L'éloquent Tokhareh dit : « Voici un furieux éléphant qui
 «monte vers nous; c'est le Sipehdar Thous; il vient
@@ -14547,7 +14559,7 @@ rarrivé à cet illustre Pehlewan, qui est venu combattre un cavalier seul? pour
 «si fièrement vers les rangs de son armée?» Les
 esclaves de Firoud poussaient des éclats de rire, et
 
-M. 43
+
 
 
 <pb n="496"/>
@@ -14559,7 +14571,7 @@ rhomme !</q></p>
 
 <p>Lorsque le Sipehbed fut de retour de la mortagne, ses braves l’entourèrent remplis de soucis;ik
 le saluèrent l'un après l’autre, en disant : « O illustre
-e Pehlewan du monde, te voilà revenu sain et sauf.
+e Pehlewan du monde, te voilà revenu sain et sauf
 ret nous n'avons pas à te pleurer.» Mais le noble
 Guiv était honteux de voir revenir à pied le vaillant
 Sipehdar, et il dit : «Firoud ne sait pas se mettre à
@@ -14634,7 +14646,7 @@ contre le poitrail du cheval, et le vaillant Guiv fut
 obligé de mettre pied à terre et de s’en retourner.
 Tous les échos du mont Siped retentirent d'éclats
 de rire, et cette moquerie jeta le trouble dans le cerveau de Guiv. Tous les braves vinrent à sa rencontre,
-disant : « Gloire à Dieu ! ton cheval seul est blessé, 6
+disant : « Gloire à Dieu ! ton cheval seul est blessé, ô
 «noble héros, et tu ne l'es pas; tu n’as pas succombé,
 «grâce au dispensateur de la justice.» Bijen arriva
 dans ce moment, rapide comme le vent, et adressa
@@ -14808,7 +14820,7 @@ r cuirasses. </q></p>
 <p>Le jeune homme répondit à sa mère : <q>Jusqu'à
 «quand verseras-tu ainsi des larmes de douleur ? Ma
 « vie est entièrement finie, ne la compte plus parmi
-«les. biens de ce monde. Mon père a péri dans sa
+«les biens de ce monde. Mon père a péri dans sa
 «jeunesse, et moi je péris comme lui. Il a reçu la
 «mort de la main de Gueroui, et Bijen va fondre
 «sur moi pour me la donner. Mais je lutterai, je
@@ -15077,7 +15089,7 @@ et en faisait rôtir des morceaux devant le feu; il tenaït son lacet suspendu �
 assis pour manger. Son cheval, qui errait en paissant, aperçut de loin le cheval de Bijen, poussa un
 cri et accourut vers son maître, lequel conclut qu’il
 arrivait un cavalier, et s’avança fout revêtu de ses
-armes. Ü s’adressa à Bijen, en criant d'une voix
+armes. Il s’adressa à Bijen, en criant d'une voix
 forte : « Je suis le destructeur des lions, le vainqueur
 « des Divs. Dis-moi ton nom, car ton étoile aura à
 rte pleurer.» Le héros lui répondit : « Je suis Bijen,
@@ -15108,7 +15120,7 @@ leva sur son épaule sa pesante massue, en donna
 un coup à Palaschan au milieu du corps, lui fracassa
 l'épine du dos, et le fit tomber de cheval, le corps,
 le casque et la cuirasse brisés. Bijen descendit de
-cheval rapidement comme un tourbillon de poussière.
+cheval rapidement comme un tourbillon de poussière,
 et trancha la tête à ce brave. Il emporta l'armure et
 la tête de l'illustre héros, emmena son cheval et s'en
 retourna auprès de sn père.</p>
@@ -15221,7 +15233,7 @@ et que le feu fut éteint.</p>
 <p>BAHRAM FAIT KEBOUDEH PRISONNIER.</p>
 
 <p>Lorsque l'armée fut réunie autour du Sipehbed,
-et qu'elle se trouva sur la route de Guirauguird.
+et qu'elle se trouva sur la route de Guirauguird
 après avoir traversé le feu, elle se mit en marche
 en bon ordre, couvrant de ses tentes les plaines et
 les ravins, prenant loutes les précautions nécessaires
@@ -15482,7 +15494,7 @@ défiler devant lui cette armée nombreuse, fière et
 vaillante; il fut si content et si rempli d'espoir, qu'il
 bénit le Pehlewan en disant : « Puisses-tu partir victorieux et revenir heureux! puisse ton œil ne jamais voir le malheur!</q></p>
 
-<p>Les corps de l'armée partirent l'un après l'autre.
+<p>Les corps de l'armée partirent l'un après l'autre,
 et l'on ne voyait plus ni plaine, ni rivière, ni montagne. Piran leur dit : <q>Évitez les grandes routes:
 - prenez les chemins les plus courts; il ne faut pas
 « que les Iraniens apprennent l'approche de ces nobles
@@ -15553,7 +15565,7 @@ la coupe de vin?</q></p>
 d’une poussière noire, et un cri immense s’éleva du
 champ de bataille. Les lraniens ivres furent stupéfaits des coups donnés et rendus; un nuage fondait
 sur eux en versant une pluie de traits; au-dessous
-des têtes des ivrognes étaient de moelleux coussins.
+des têtes des ivrognes étaient de moelleux coussins,
 et au-dessus des flèches, des épées et des massues.</p>
 
 <p>Aussitôt que l'aurore eut levé sa tête dans le signe
@@ -15598,7 +15610,7 @@ montagne, il sentit qu'il était garanti contre leurs
 
 <pb n="530"/>
 
-attaques. Un grand nombre d'Iraniens manquaient.
+attaques. Un grand nombre d'Iraniens manquaient,
 et l'on n’entendait que des cris de douleur; tous ceux
 qui survivaient étaient blessés ou captifs, et c'est sur
 eux qu'il aurait fallu pleurer; il n’y avait plus ni
@@ -15630,7 +15642,7 @@ tous côtés des rondes, dans l'espoir de découvrir un
 <pb n="531"/>
 
 remède contre ces maux. Ensuite il ordonna à un
-grand. d’entre les franiens de se ceindre pour aller
+grand d’entre les franiens de se ceindre pour aller
 annoncer au roi ce que Thous avait fait, et lui dire
 quel jour néfaste était arrivé pour les Iraniens et
 quels malheurs avaient accablé leurs chefs.</p>
@@ -15672,24 +15684,23 @@ r de la justice de Dieu le tout saint. Thous est part
 «une armée dans le Touran, et c'est mon frère qu
 a été la première victime de sa vengeance; mor
 rfrère, qui était un prince et un chef d'armée tel
-«qu'il n'y en a jamais eu dans l'Iran. Hélas! mor
+«qu'il n'y en a jamais eu dans l'Iran. Hélas! mon
 ejeune et bien-aimé Firoud, qui était le chef des
-egrauds et le soutien des braves! Le sort de ms
-père m'avait rempli des plus cuisantes doulear.
-ependant longtemps j'ai versé sur lui des larme:
+egrauds et le soutien des braves! Le sort de mon
+père m'avait rempli des plus cuisantes douleurs
+ependant longtemps j'ai versé sur lui des larmes
 ramères ; et maintenant j'ai à pleurer mon frère et
-«je ne sais plus qui est mon ami ou mon enveni.
+«je ne sais plus qui est mon ami ou mon enneni.
 «J'avais dit à Thous : Ne prends pas le chemin à
-«Djerem, n’approche pas de Kelat et du mont Sipel.
+«Djerem, n’approche pas de Kelat et du mont Siped
 «car Firoud y demeure avec sa mère, et c'est un
-«héros illustre et d’un noble naturel. Ne sachant px
-« quelle est la destination de cette armée et pourqui
-«elle vient de l'Iran par sa route, il vous combattrai
-«sans doute dans ses montagnes, et beaucoup dt
-egrands y périraient. Hélas! ce vaillant fils der
-«que le vil Thous a livré au vent! Si Thous ani
-
-« plus 1ôt commandé en chef une armée, l'étoile de
+«héros illustre et d’un noble naturel. Ne sachant pas
+« quelle est la destination de cette armée et pourquoi
+«elle vient de l'Iran par sa route, il vous combattrait
+«sans doute dans ses montagnes, et beaucoup de roi
+egrands y périraient. Hélas! ce vaillant fils de roi
+«que le vil Thous a livré au vent! Si Thous avait
+« plus tôt commandé en chef une armée, l'étoile de
 
  
 
@@ -15779,7 +15790,7 @@ de Thous.</p>
 <p>FERIBOURZ PROPOSE À PIRAN UN ARMISTICE.</p>
 
 <p>Feribourz posa sur sa tête la couronne, car il était
-Pehlewan de l’armée et fils de roi. Il ordonna à Rehham de se charger d’une mission qui ferait briller son.
+Pehlewan de l’armée et fils de roi. Il ordonna à Rehham de se charger d’une mission qui ferait briller son
 nom et sa bravoure, de se rendre de la montagne
 auprès de Piran, de lui parler longuement et d'écouter
 ses réponses. Il lui dit : « Va voir Piran, porte-lui
@@ -15844,10 +15855,10 @@ sans s'inquiéter du bonheur ou du malheur de ce
 «profitez de ce délai pour quitter avec votre armée le
 æ pays de Touran, pour lui faire repasser vos frontières, et vous verrez ainsi accomplir votre sage
 « désir ; sinon nous recommencerons la lutte, et je
-«ne vous ferai pas attendre. »
+«ne vous ferai pas attendre. »</p>
 
-Îl prépara ensuite pour Rehham un présent digne
-. de son grand renom, et le vaillant Rehham rapporta
+<p>Il prépara ensuite pour Rehham un présent digne
+de son grand renom, et le vaillant Rehham rapporta
 à Feribourz une lettre semblable à celle dont il avait
 été porteur. Feribourz ayant ainsi obtenu un armistice
 d’un mois, porta la main, comme un lion rapace, sur
@@ -15866,7 +15877,7 @@ revenu sans qu'on eût violé le traité et la foi donnée,
 les deux armées firent entendre le bruit des armes
 et se portèrent sur le champ de bataille. Le ciel était
 ébranlé par le bruit des timbales, des clairons et des
-clochettes; on ne voyait que crinières de chevaux.
+clochettes; on ne voyait que crinières de chevaux,
 mains d'hommes, brides, massues, flèches, arcs et
 lances; pas un moucheron n'aurait pu passer, tant
 il y.avait de braves, de massues, de lacets et de
@@ -15927,9 +15938,9 @@ Pehlewan de l’armée s'enfuit devant Houman, et k
 ligne de bataille des Iraniens fut rompue. Les fier
 guerriers abandonnèrent alors leur position ; livrés
 à eux-mêmes, ils n'obéirent plus à personne; ils cé
-dèrent à l'ennemi le terrain qu'ils avaient occupé.
+dèrent à l'ennemi le terrain qu'ils avaient occupé,
 et toute résistance cessa du côté des iraniens. On ne
-voyait plus à leur place les timbales et l'étendard.
+voyait plus à leur place les timbales et l'étendard,
 et les visages des braves pâlissaient en voyanth
 tournure que prenait la bataille ; ils tournèrent le dos
 à l'ennemi, ils ne tenaient plus dans leurs mains
@@ -16162,7 +16173,7 @@ insensé.» Bahram répondit à Guiv : «Je ne puis
 = Vos paroles sont belles et séduisantes, mais il y
 eva de l'honneur de mon nom; je rapporterai donc
 « mon fouet, ou je livrerai ma tête dans cette entreprise aux ciseaux de la mort.» Mais Dieu avait décidé 
-du sort de Bahram autrement que celui-ci n’avait espéré.
+du sort de Bahram autrement que celui-ci n’avait espéré,
 et toute la rotation du ciel lui était contraire. Une
 fois que ta fortune s’est endormie , les efforts que tu
 fais pour la réveiller sont impuissants.</p>
@@ -16180,7 +16191,7 @@ gisants sur cette large plaine. Or un de ces illustres
 cavaliers était blessé d'un coup d'épée, mais sa vie
 n'était pas encore éteinte; il reconnut Bahram et
 poussa un gémissement; celui-ci lui demanda son
-nom, et le blessé répondit : <q>O lion! je vis encore.
+nom, et le blessé répondit : <q>O lion! je vis encore,
 + quoique étendu parmi les morts. Depuis trois jour
 
 
@@ -16334,7 +16345,7 @@ un cri comme un éléphant furieux, et lui dit : <q>Tu
 «ne survivras pas au combat que va te livrer cette
 «armée couverte de gloire; tu voudrais retourner
 r dans l'Iran; tu voudrais de nouveau porter haut la
-r tête; tu as tué nos chefs, et il faut que tu restes ici.
+r tête; tu as tué nos chefs, et il faut que tu restes ici,
 ecar ton heure va venir.» Il ordonna alors à ses
 compagnons de l’attaquer, de le frapper à coups de
 flèches, de javelots et de massue ; une grande troupe,
@@ -16526,10 +16537,10 @@ tantôt dans l'angoisse. Passons donc nos jours en
 tenant en main la coupe qui illumine le monde.</p>
 
 <p>Piran envoya pendant le temps du sommeil un
-dromadaire pour porter à Afrasiab cette nouvelle.
+dromadaire pour porter à Afrasiab cette nouvelle,
 qui combla de joie le roi et le délivra de ses sollicitudes et de ses peines; toute l’armée partagea son
 bonheur; les braves élevèrent des pavillons sur la
-route, convrirent d'étoffes les terrasses et les portes.
+route, convrirent d'étoffes les terrasses et les portes,
 et répandirent des pièces d'argent sur la tête de
 Piran. Lorsque celui-ci s’approcha de la ville royale,
 Afrasiab alla au-devant de lui avec un grand cortége
@@ -16542,7 +16553,7 @@ harpes et des rebecs se fit entendre dans le palais
 
 d’Afrasiab; la troisième semaine, Piran, comblé de
 bonheur, se décida à partir pour Khoten. Le roi prépara pour lui des présents si nombreux, que {u perdrais patience si je voulais te les énumérer; il lui
-envoya. de l'or et des joyaux dignes d'un roi, des
+envoya de l'or et des joyaux dignes d'un roi, des
 ceintures d'or brodées de pierreries, des chevaux
 arabes à la bride d’or, des épées indiennes au fourreau d'or, un trône magnifique d'ivoire et de bois de
 tek, des bracelets de turquoises et une couronne
@@ -16558,9 +16569,9 @@ du pouvoir, un trône et une couronne, ne demande
 
 « pas autre chose; ne Le fie pas à ton ennemi parce
 
-«qu'il s’est reliré, et cherche à savoir de temps en
+«qu'il s’est retiré, et cherche à savoir de temps en
 
-æiemps ce qu’il médite. Observe les provinces dont
+ætemps ce qu’il médite. Observe les provinces dont
 
 « Rustem est le Pehlewan, car au moment où tu t'endormirais dans ta confiance, il se jetterait sur toi.
 
@@ -16579,8 +16590,8 @@ partit avec son cortége pour le pays de Khoten, et
 arrivé là, il envoya de tous côtés des espions pour
 avoir en tout temps des nouvelles de Rustem.</p>
 
-<p>L'histoire. de Firoud est finie: écoute maintenant
+<p>L'histoire de Firoud est finie: écoute maintenant
 celle de la guerre de Kamous.</p>
 
-<p>FIN DU TOME DEUXIÈME.
-</p></body></text></TEI>
+
+</div></div></div></body></text></TEI>
