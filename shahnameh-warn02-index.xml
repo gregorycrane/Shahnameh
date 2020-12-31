@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Shahnama of Firdausi, done into English by Arthur George Warner, MA, and Edmond Warner, BA</title>
+                <sponsor>Tufts University</sponsor>
+                <funder>Mellon Foundation</funder>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <resp>OCRd the text and added initial TEI XML and corrections</resp>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>Tufts University</authority>
+                <idno type="filename">https://archive.org/details/shahnama01firduoft https://archive.org/details/shahnama02firduoft https://archive.org/details/shahnama03firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama05firduoft https://archive.org/details/shahnama06firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama0;firduoft https://archive.org/details/shahnama08firduoft https://archive.org/details/shahnama09firduoft </idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</licence>
+                </availability>
+                <date>2020</date>
+                <publisher>Tufts University</publisher>
+                <pubPlace>Medford, MA, USA</pubPlace>
+            </publicationStmt>
+
+            <sourceDesc>
+                <listBibl xml:lang="la">
+                    <biblStruct>
+                        <monogr>
+                            <editor>
+                                <persName>
+                                    <name xml:lang="en">Innes, Gordon, 1924- : URI http://viaf.org/viaf/62788921</name>
+                                </persName>
+                            </editor>
+                            <author>Firdousi, Abū-al Qāsem, 0940-1020: URI http://viaf.org/viaf/101359236</author>
+                            <author>Arthur George Warner: URI https://viaf.org/viaf/214979921</author>
+                            <author>Edmond Warner: URI http://viaf.org/viaf/107122180</author>
+                            <title>Kelefa Saane his career recounted by two Mandinka bards</title>
+                            <imprint>
+                                <publisher>Kegan Paul Trench, Trübner and co</publisher>
+                                <pubPlace>London</pubPlace>
+                                <date>1906</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="chapter"
+                         matchPattern="(\w+).(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts Book and Chapter</p>
+                </cRefPattern>
+                <cRefPattern n="book"
+                         matchPattern="(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Ancient Greek</language>
+            </langUsage>
+        </profileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+<div type="textpart" subtype="letter" n="A">
+<div type="textpart"><head>Abu Raihan Muhammad</head> <p>. See Albiruni</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Aden</placeName></head> <p><ref target="p79">79</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Afrasiyab</persName></head> <p>ruler of Turan, v seq., <ref target="p11">11</ref>, <ref target="p13">13</ref>, <ref target="p14">14</ref>, <ref target="p16">16</ref> seq., <ref target="p20">20</ref>, <ref target="p79">79</ref>, <ref target="p81">81</ref>, <ref target="p92">92</ref>, <ref target="p98">98</ref> seq., <ref target="p118">118</ref>, <ref target="p127">127</ref>, <ref target="p129">129</ref>, <ref target="p149">149</ref>, <ref target="p184">184</ref>, <ref target="p189">189</ref>, <ref target="p242">242</ref> seq., <ref target="p257">257</ref> seq., <ref target="p283">283</ref>, <ref target="p286">286</ref>, <ref target="p288">288</ref>, <ref target="p296">296</ref> seq., <ref target="p312">312</ref> Seg, <ref target="p335">335</ref>, <ref target="p347">347</ref> Seg., <ref target="p360">360</ref> seq., <ref target="p369">369</ref>, <ref target="p373">373</ref>, <ref target="p380">380</ref>, <ref target="p381">381</ref>, <ref target="p386">386</ref>, <ref target="p392">392</ref> seq., <ref target="p401">401</ref> seq.</p>
+<p>fights the Arabs for Iran and takes it, <ref target="p92">92</ref></p>
+<p>king of Turan and Chin, <ref target="p99">99</ref></p>
+<p>expelled from Iran by Kai Kaus and Rustam, <ref target="p101">101</ref></p>
+<p>fights with the Seven Warriors, <ref target="p111">111</ref> seq.</p>
+<p>nearly taken prisoner by Rustam, <ref target="p14">14</ref>, <ref target="p116">116</ref>, <ref target="p354">354</ref></p>
+<p>his plot against Suhrab and Rustam, <ref target="p129">129</ref></p>
+<p>his gifts to Suhrab, <ref target="p130">130</ref></p>
+<p>identical with Astyages in legend, <ref target="p191">191</ref></p>
+<p>sends host to invade Iran, <ref target="p224">224</ref> seq.</p>
+<p>determines to sue for peace and sends hostages, <ref target="p235">235</ref> seq.</p>
+<p>receives Zanga and consults Piran, <ref target="p253">253</ref> seq.</p>
+<p>sends Piran to welcome Siyawush, <ref target="p258">258</ref></p>
+<p>plays at polo with Siyawush, <ref target="p264">264</ref></p>
+<p>marries Farangis to Siyawush, <ref target="p275">275</ref></p>
+<p>recalls Siyawush from Gang-dizh, <ref target="p285">285</ref></p>
+<p>sends Garsiwaz to Siyawushgird, <ref target="p289">289</ref></p>
+<p>is deceived by Garsiwaz respecting Siyawush, <ref target="p296">296</ref> seq.</p>
+<p>sends Garsiwaz to summon Siyawush and Farangis to court, <ref target="p300">300</ref> seq.</p>
+<p>attacks, takes, and has Siyawush executed, <ref target="p314">314</ref> seq.</p>
+<p>appealed to by Farangis, <ref target="p317">317</ref></p>
+<p>his treatment of Farangis, <ref target="p320">320</ref>, <ref target="p322">322</ref></p>
+<p>appealed to by Piran, <ref target="p324">324</ref></p>
+<p>spares Farangis, <ref target="p325">325</ref></p>
+<p>and her son Kai Khusrau, <ref target="p327">327</ref></p>
+<p>sees and questions Kai Khusrau, <ref target="p332">332</ref></p>
+<p>sends Surkha against the Iranians, <ref target="p344">344</ref></p>
+<p>marches to avenge Surkha, <ref target="p348">348</ref></p>
+<p>fights with Tus, <ref target="p353">353</ref></p>
+<p>is rescued from Rustam by Human, <ref target="p354">354</ref></p>
+<p>crosses the sea of Chin, <ref target="p356">356</ref></p>
+<p>consults Piran about Kai Khusrau, <ref target="p356">356</ref></p>
+<p>returns, <ref target="p362">362</ref></p>
+<p>his vengeance on Iran, <ref target="p363">363</ref></p>
+<p>pursues Kai Khusrau, <ref target="p388">388</ref> seq.</p>
+<p>disgraces Piran, <ref target="p390">390</ref></p>
+<p>turns back at the Jihun, <ref target="p394">394</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head><persName>Afrigh</persName></head> <p>king of Kharazm, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head>Age</head> <p>old, Firdausi’s lament over his, <ref target="p336">336</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Agni</rs></head> <p><ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Ahriman</rs></head> <p>the Evil Principle, <ref target="p34">34</ref>, <ref target="p42">42</ref>, <ref target="p43">43</ref>. <ref target="p51">51</ref>, <ref target="p53">53</ref>, <ref target="p56">56</ref>, <ref target="p78">78</ref>, <ref target="p160">160</ref>, <ref target="p208">208</ref>, <ref target="p214">214</ref>, <ref target="p217">217</ref>, <ref target="p250">250</ref>, <ref target="p260">260</ref>, <ref target="p303">303</ref>, <ref target="p315">315</ref>, <ref target="p324">324</ref>, <ref target="p358">358</ref>, <ref target="p361">361</ref>, <ref target="p374">374</ref> seq., <ref target="p405">405</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Ahura Mazda</rs></head> <p>(Urmuzd), <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Airan-vego</placeName></head> <p>region (Iran-vej), <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Albiruni</persName></head> <p>Abu Raihan Muhammad, <ref target="p189">189</ref></p>
+<p>his account of Alfir (Gang-dizh?), <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Alburz</placeName></head> <p>mountain, <ref target="p11">11</ref>,23, <ref target="p27">27</ref>, <ref target="p79">79</ref>, <ref target="p96">96</ref>, <ref target="p144">144</ref>, <ref target="p336">336</ref>, <ref target="p401">401</ref></p>
+<p>Kaus’ buildings on, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Alfir</placeName></head> <p>fortress (Gang-dizh?), <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Ali</persName></head> <p>Khalifa, <ref target="p337">337</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head><persName>Alkus</persName></head> <p>Turanian hero, <ref target="p114">114</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Alp-Arselan</persName></head> <p>Sultan, <ref target="p219">219</ref> note</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Amul</placeName></head> <p>city, <ref target="p18">18</ref>, <ref target="p104">104</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Andariman</persName></head> <p>Turanian hero, <ref target="p264">264</ref></p>
+
+</div>
+
+<div type="textpart"><head>Angra Mainyu)</head> <p>(Ahriman, <ref target="p28">28</ref></p>
+
+</div>
+
+<div type="textpart"><head>Antiochus</head> <p>Sidetes, <ref target="p80">80</ref>, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Arabia</placeName></head> <p><ref target="p100">100</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Arabs</rs></head> <p><ref target="p79">79</ref>, <ref target="p81">81</ref>, <ref target="p99">99</ref></p>
+<p>rebel against Kai Kaus, <ref target="p83">83</ref></p>
+<p>fight with Afrasiyab for Iran and are defeated, <ref target="p92">92</ref></p>
+
+</div>
+
+<div type="textpart"><head>Ard</head> <p>day of, <ref target="p287">287</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ardabil</placeName></head> <p>city, <ref target="p336">336</ref>, 405!</p>
+
+</div>
+
+<div type="textpart"><head><persName>Arjasp1</persName></head> <p>ruler of Turan, <ref target="p9">9</ref>, <ref target="p29">29</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Arjasp2</persName></head> <p>Turanian hero, <ref target="p264">264</ref></p>
+
+</div>
+
+<div type="textpart"><head>Arnold</head> <p>Matthew, his <title>Suhrab and Rustam</title>, <ref target="p118">118</ref></p>
+
+</div>
+
+<div type="textpart"><head><title>Artang</title></head> <p>the, <ref target="p19">19</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Arwand</placeName></head> <p>river (the Tigris), <ref target="p392">392</ref>, <ref target="p404">404</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Arzhang</rs></head> <p>a div, vi, <ref target="p41">41</ref>, <ref target="p43">43</ref>, <ref target="p44">44</ref>, <ref target="p56">56</ref> seq., <ref target="p63">63</ref>, <ref target="p64">64</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Asfandiyar</persName></head> <p>Iranian hero, <ref target="p29">29</ref></p>
+
+</div>
+
+<div type="textpart"><head>Asp</head> <p>as Persian termination, <ref target="p9">9</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Astyages</persName></head> <p>king of the Medes (Manda), <ref target="p190">190</ref>, <ref target="p191">191</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head>Astyages</head> <p>identical with Afrasiyab in legend, <ref target="p191">191</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Azar</placeName></head> <p>(Azarbaijan), <ref target="p195">195</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Azarbaijan</placeName></head> <p>province, <ref target="p336">336</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Azargashasp</rs></head> <p>spirit of the lightning, <ref target="p57">57</ref>, <ref target="p294">294</ref>, <ref target="p345">345</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Azi</head> <p>Dahaka (Zahhak), <ref target="p81">81</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="B">
+<div type="textpart"><head><placeName>Babylon</placeName></head> <p><ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Babylonia</placeName></head> <p><ref target="p80">80</ref>, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Badar</placeName></head> <p>battle of, <ref target="p337">337</ref> note</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Bahar</placeName></head> <p>fire-temple, <ref target="p286">286</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Bahman</persName></head> <p>Shah, <ref target="p9">9</ref></p>
+<p>castle of, x, <ref target="p336">336</ref>, <ref target="p405">405</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Bahram</persName></head> <p>Iranian hero, viii, <ref target="p33">33</ref>, <ref target="p35">35</ref>, <ref target="p38">38</ref>, <ref target="p58">58</ref>, <ref target="p62">62</ref>, <ref target="p85">85</ref>, <ref target="p127">127</ref>, <ref target="p138">138</ref>, <ref target="p144">144</ref>, <ref target="p158">158</ref>, <ref target="p249">249</ref>, <ref target="p257">257</ref>, <ref target="p258">258</ref>, <ref target="p271">271</ref>, <ref target="p290">290</ref>, <ref target="p318">318</ref>, <ref target="p338">338</ref>, <ref target="p340">340</ref></p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+<p>accompanies Siyawush against Afrasiyab, <ref target="p226">226</ref></p>
+<p>put in command by Siyawush, <ref target="p250">250</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Bahram</persName></head> <p>moralist, quoted by Firdausi, <ref target="p186">186</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Balkh</placeName></head> <p>city, <ref target="p9">9</ref>, <ref target="p101">101</ref>, <ref target="p228">228</ref>, <ref target="p229">229</ref>, <ref target="p231">231</ref>, <ref target="p242">242</ref>, <ref target="p246">246</ref>, <ref target="p249">249</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Baluch</placeName></head> <p>Baluchistan (Makran), <ref target="p80">80</ref>, <ref target="p226">226</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Banugashasp</persName></head> <p>daughter of Rustam and wife of Giv, <ref target="p365">365</ref></p>
+<p>stays with Rustam while Giv seeks Kai Khusrau, <ref target="p365">365</ref></p>
+<p>her suitors, <ref target="p383">383</ref>, <ref target="p384">384</ref></p>
+<p>rejoins Giv, <ref target="p395">395</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Barbar</placeName></head> <p>Barbaristan, country, vi, <ref target="p79">79</ref>, <ref target="p82">82</ref> seq., <ref target="p90">90</ref>, <ref target="p93">93</ref>, <ref target="p98">98</ref> seq.</p>
+<p>identification of, <ref target="p79">79</ref></p>
+<p>king of, <ref target="p83">83</ref>, <ref target="p94">94</ref>, <ref target="p95">95</ref></p>
+<p>taken prisoner Gurdza, <ref target="p97">97</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Barman</persName></head> <p>Turanian hero, vii, <ref target="p18">18</ref>, <ref target="p119">119</ref>, <ref target="p129">129</ref>, <ref target="p130">130</ref>, <ref target="p150">150</ref>, <ref target="p349">349</ref></p>
+
+<p>his death and revival in legend, <ref target="p119">119</ref></p>
+<p>marches on Iran, <ref target="p228">228</ref></p>
+<p>defeated by Siyawush, <ref target="p229">229</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Barzin</persName></head> <p>Turanian hero, <ref target="p12">12</ref>, <ref target="p22">22</ref>, <ref target="p73">73</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Barzin</placeName></head> <p>fire-temple, <ref target="p107">107</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Berbera</placeName></head> <p>trading-station, <ref target="p79">79</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Bid</rs></head> <p>a div, <ref target="p44">44</ref>, <ref target="p54">54</ref>, <ref target="p55">55</ref>, <ref target="p64">64</ref>, <ref target="p93">93</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="horse">Bihzad</rs></head> <p>the horse of Siyawush, ix, <ref target="p312">312</ref>, <ref target="p374">374</ref> seq. <ref target="p391">391</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Birth-mark of the Kaian race</rs></head> <p><ref target="p372">372</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Bistun</placeName></head> <p>mountain, <ref target="p128">128</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Bizhan</persName></head> <p>Iranian hero, <ref target="p366">366</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head>Black Stone</head> <p>the, <ref target="p163">163</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Bukhara</placeName></head> <p>city, <ref target="p241">241</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="mythologicalcreature">Bull</rs></head> <p>Bull-fish, mythological, <ref target="p128">128</ref>, <ref target="p407">407</ref></p>
+
+</div>
+
+<div type="textpart"><head><title>Bundahish</title></head> <p>Pahlavi treatise, <ref target="p3">3</ref> note, <ref target="p11">11</ref>, <ref target="p26">26</ref>, <ref target="p81">81</ref>, <ref target="p118">118</ref>, <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Buzgush</rs></head> <p>name of a tribe, <ref target="p55">55</ref> and note</p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="C">
+<div type="textpart"><head><persName>Caesar</persName></head> <p><ref target="p383">383</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Cambyses</persName></head> <p>father of Cyrus, <ref target="p190">190</ref></p>
+<p>identical with Siyawush in legend, <ref target="p191">191</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Canopus</rs></head> <p>star, <ref target="p203">203</ref></p>
+<p>of Yaman, <ref target="p203">203</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Carnelians</rs></head> <p>of Yaman, <ref target="p123">123</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Caspian</placeName></head> <p>sea, <ref target="p189">189</ref>, <ref target="p336">336</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>White Castle</placeName></head> <p>Iranian stronghold, vii, <ref target="p118">118</ref>, <ref target="p131">131</ref>, <ref target="p138">138</ref></p>
+<p>evacuated by Gazhdaham, <ref target="p137">137</ref></p>
+
+</div>
+
+<div type="textpart"><head>Castle of Bahman</head> <p>x, <ref target="p336">336</ref>, <ref target="p405">405</ref>, <ref target="p406">406</ref></p>
+
+</div>
+
+<div type="textpart"><head>Central clime</head> <p>the, <ref target="p27">27</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Chach</placeName></head> <p>city of Turan famous for its bows (Tashkand), <ref target="p241">241</ref>, <ref target="p258">258</ref>, <ref target="p358">358</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Chares</persName></head> <p>of Mytilene, <ref target="p10">10</ref></p>
+
+</div>
+
+<div type="textpart"><head>Chevy Chase</head> <p><ref target="p82">82</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Chin</placeName></head> <p>country (often =Turan), <ref target="p77">77</ref>, <ref target="p82">82</ref>, <ref target="p111">111</ref>, <ref target="p143">143</ref>, <ref target="p154">154</ref>, <ref target="p156">156</ref>, <ref target="p237">237</ref> <ref target="p277">277</ref>, <ref target="p286">286</ref>, <ref target="p287">287</ref>, <ref target="p289">289</ref>, <ref target="p297">297</ref> <ref target="p305">305</ref>, 307; 357) 359s <ref target="p383">383</ref>, <ref target="p394">394</ref></p>
+<p>sea, of, <ref target="p12">12</ref>, <ref target="p256">256</ref>, <ref target="p276">276</ref>, <ref target="p285">285</ref>, <ref target="p356">356</ref>, <ref target="p357">357</ref></p>
+
+<p>brocade of, <ref target="p39">39</ref>, <ref target="p203">203</ref>, <ref target="p262">262</ref>. <ref target="p290">290</ref></p>
+<p>king of Turan and (Afrasiyab), <ref target="p99">99</ref></p>
+<p>helm of, <ref target="p132">132</ref></p>
+<p>ornaments of, <ref target="p232">232</ref></p>
+<p>cloth of gold from, <ref target="p275">275</ref></p>
+<p>Khan of, <ref target="p383">383</ref></p>
+
+</div>
+
+<div type="textpart"><head>Clime</head> <p>the central, <ref target="p27">27</ref></p>
+
+</div>
+
+<div type="textpart"><head>Climes</head> <p>the seven, <ref target="p15">15</ref> note, <ref target="p372">372</ref></p>
+
+</div>
+
+<div type="textpart"><head>“Cloud,”</head> <p>name given by Rustam to himself, <ref target="p53">53</ref></p>
+
+</div>
+
+<div type="textpart"><head>Cloud</head> <p>of bale (Afrasiyab), <ref target="p13">13</ref></p>
+
+</div>
+
+<div type="textpart"><head>Courses</head> <p>the Seven, of Rustam, v, <ref target="p20">20</ref>, <ref target="p44">44</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Ctesias</persName></head> <p><ref target="p9">9</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ctesiphon</placeName></head> <p>city, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Cyrus</persName></head> <p>the Great, <ref target="p9">9</ref>, <ref target="p190">190</ref>, <ref target="p191">191</ref></p>
+<p>identical with Kai Khusrau in legend, <ref target="p191">191</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="D">
+<div type="textpart"><head><rs type="divinity">Daevas</rs></head> <p>See divs, <ref target="p28">28</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Daghwi</placeName></head> <p>desert, <ref target="p193">193</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Damaghan</placeName></head> <p>city, <ref target="p15">15</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Damur</persName></head> <p>Turanian hero, <ref target="p296">296</ref>, <ref target="p319">319</ref></p>
+<p>overthrown by Siyawush, <ref target="p295">295</ref></p>
+<p>advocates execution of Siyawush, <ref target="p317">317</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Dara</persName></head> <p>Shah, <ref target="p9">9</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Darab</persName></head> <p>Shah, <ref target="p9">9</ref>, <ref target="p11">11</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Darband</placeName></head> <p>pass of, <ref target="p336">336</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Darmesteter</persName></head> <p>Professor, on Firdausi’s geography, <ref target="p79">79</ref>, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head>Death</head> <p>early, Firdausi's justification of. <ref target="p119">119</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><title>Dina-i Mainog-i Khirad</title></head> <p>Pahlavi treatise, <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><title>Dinkard</title></head> <p>Pahlavi treatise, <ref target="p26">26</ref>, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Div</rs></head> <p>demon (Daeva), <ref target="p27">27</ref>, <ref target="p33">33</ref>, <ref target="p34">34</ref>, <ref target="p38">38</ref>, <ref target="p41">41</ref> seq., <ref target="p57">57</ref> seq., <ref target="p68">68</ref>, <ref target="p73">73</ref>, <ref target="p101">101</ref>, <ref target="p102">102</ref>, <ref target="p144">144</ref></p>
+<p>title of honour, <ref target="p29">29</ref></p>
+<p>=Ahriman, <ref target="p46">46</ref>, <ref target="p379">379</ref>, <ref target="p386">386</ref>, <ref target="p400">400</ref> <ref target="p324">324</ref>, <ref target="p342">342</ref>,</p>
+
+
+
+</div>
+
+<div type="textpart"><head>Black Div</head> <p>the, <ref target="p53">53</ref></p>
+
+</div>
+
+<div type="textpart"><head>White Div</head> <p>the, vi, <ref target="p27">27</ref>, <ref target="p39">39</ref> seq. <ref target="p43">43</ref>, <ref target="p44">44</ref>, <ref target="p54">54</ref>, <ref target="p55">55</ref>, <ref target="p58">58</ref> seq., <ref target="p66">66</ref>, <ref target="p93">93</ref>, <ref target="p163">163</ref>, <ref target="p373">373</ref></p>
+<p>defeats Kaus, <ref target="p40">40</ref></p>
+<p>his blood cures blindness, <ref target="p58">58</ref>, <ref target="p62">62</ref></p>
+<p>song of a, <ref target="p31">31</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="mythologicalcreature">Dragon</rs></head> <p>slain by Rustam and Rakhsh, <ref target="p48">48</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head>Drought and famine</head> <p>in Iran, <ref target="p363">363</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="E">
+<div type="textpart"><head><placeName>Egypt</placeName></head> <p>(Misr), <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ekbatana</placeName></head> <p>city (Hamadan), <ref target="p191">191</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Elburz</placeName></head> <p>mountain, See Alburz</p>
+
+
+</div>
+
+<div type="textpart"><head>Elixir</head> <p>vii, <ref target="p177">177</ref>, <ref target="p178">178</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Euphrates</placeName></head> <p>river, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Euxine</placeName></head> <p>sea, <ref target="p191">191</ref>, <ref target="p336">336</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Eyes</head> <p>metaphor for children, <ref target="p297">297</ref>, ; <ref target="p328">328</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="F">
+<div type="textpart"><head><persName>Faghfur</persName></head> <p>dynastic title of the princes of Chin and Machin, <ref target="p383">383</ref></p>
+
+</div>
+
+<div type="textpart"><head>Famine and drought</head> <p>in Tran, <ref target="p363">363</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Faramarz</persName></head> <p>son of Rustam, ix, <ref target="p319">319</ref>, <ref target="p341">341</ref> seq., <ref target="p349">349</ref>, <ref target="p351">351</ref>, <ref target="p354">354</ref></p>
+<p>takes Surkha prisoner, <ref target="p345">345</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Farangis</persName></head> <p>daughter of Afrasiyab,</p>
+<p>wife of Siyawush, mother of Kai Khusrau, viii seq., <ref target="p188">188</ref>, <ref target="p288">288</ref> seq., <ref target="p299">299</ref>, <ref target="p306">306</ref>, <ref target="p373">373</ref>, <ref target="p376">376</ref> seq., <ref target="p381">381</ref>, <ref target="p386">386</ref> seq.</p>
+<p>identical with Mandane in legend, <ref target="p191">191</ref></p>
+<p>marries Siyawush, <ref target="p270">270</ref> seq.</p>
+<p>summoned to court by Afrasiyab, <ref target="p300">300</ref> seq.</p>
+<p>confided in by Siyawush, <ref target="p307">307</ref> seq.</p>
+
+<p>appeals to Afrasiyab, <ref target="p317">317</ref> seq.</p>
+
+<p>imprisoned, <ref target="p320">320</ref></p>
+
+<p>sentenced, <ref target="p322">322</ref></p>
+
+<p>saved and taken charge of by Piran, <ref target="p324">324</ref> seq.</p>
+
+<p>gives birth to Kai Khusrau, <ref target="p326">326</ref></p>
+
+<p>dwells at Siyawushgird, <ref target="p333">333</ref></p>
+
+<p>instructs Kai Khusrau how to find Bihzad, <ref target="p374">374</ref></p>
+
+<p>gives Giv the mail of Siyawush, <ref target="p376">376</ref></p>
+
+<p>crosses the Jihun, <ref target="p392">392</ref></p>
+
+<p>provided for by Kai Kaus, <ref target="p399">399</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Farhad</persName></head> <p>chieftain, <ref target="p63">63</ref> seq., <ref target="p73">73</ref>, <ref target="p85">85</ref>, <ref target="p138">138</ref>, <ref target="p316">316</ref>, <ref target="p338">338</ref>, <ref target="p340">340</ref></p>
+
+<p>goes as envoy to the king of Mazandaran, <ref target="p63">63</ref></p>
+
+<p>takes part in the Fight of the Seven Warriors, <ref target="p111">111</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Fariburz</persName></head> <p>son of Kai Kaus, x, <ref target="p62">62</ref>,</p>
+<p>Elephantine, the (Rustam), <ref target="p65">65</ref>, <ref target="p67">67</ref> ° <ref target="p199">199</ref>, <ref target="p316">316</ref>, <ref target="p335">335</ref>, <ref target="p336">336</ref>, <ref target="p340">340</ref>, <ref target="p358">358</ref>, <ref target="p405">405</ref> seq., <ref target="p409">409</ref></p>
+<p>his encampment described, <ref target="p155">155</ref></p>
+<p>his claims to the throne supported by Tus, gor recognises Kai Khusrau as Shah, <ref target="p410">410</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Faridun</persName></head> <p>Shah, <ref target="p11">11</ref>, <ref target="p17">17</ref>, <ref target="p19">19</ref>, <ref target="p21">21</ref>, <ref target="p20">20</ref>, 33» <ref target="p36">36</ref>, <ref target="p37">37</ref>, <ref target="p99">99</ref>, <ref target="p193">193</ref>, <ref target="p195">195</ref>, <ref target="p204">204</ref>, <ref target="p237">237</ref>, <ref target="p274">274</ref>, <ref target="p318">318</ref>, <ref target="p327">327</ref>, <ref target="p392">392</ref>, <ref target="p400">400</ref>, <ref target="p404">404</ref></p>
+<p>saying of, <ref target="p219">219</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head><persName>Farshidward</persName></head> <p>Turanian hero, <ref target="p323">323</ref>,</p>
+<p>summons Piran to save Farangis, <ref target="p322">322</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Farid</persName></head> <p>son of Siyawush, viii, <ref target="p291">291</ref></p>
+
+</div>
+
+<div type="textpart"><head>Fight of the Seven Warriors</head> <p>vi, <ref target="p82">82</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Firdausi</persName></head> <p>ix, <ref target="p9">9</ref>, <ref target="p10">10</ref>, <ref target="p82">82</ref>, <ref target="p119">119</ref></p>
+<p>his geography, <ref target="p28">28</ref>, <ref target="p79">79</ref>, <ref target="p80">80</ref></p>
+<p>Professor Darmesteter on, <ref target="p79">79</ref>, <ref target="p80">80</ref></p>
+<p>proud of his version of the Story of Siyawush, <ref target="p188">188</ref>, <ref target="p191">191</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head>Fire</head> <p>ordeal by, vii, <ref target="p218">218</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Firuzi Kuh</placeName></head> <p>mountain and pass, <ref target="p28">28</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="mythologicalcreature">Fish</rs></head> <p>mythological, <ref target="p15">15</ref>, <ref target="p299">299</ref></p>
+
+</div>
+
+<div type="textpart"><head>Flying-machine of Kai Kaus</head> <p><ref target="p103">103</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Frangrasyan</persName></head> <p>(Afrasiyab), <ref target="p81">81</ref>, <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Frasyav</persName></head> <p>(Afrasiyab), <ref target="p81">81</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Fravashi</head> <p>immortal principle, <ref target="p82">82</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="G">
+<div type="textpart"><head><placeName>Gang</placeName></head> <p>stronghold, <ref target="p241">241</ref>, <ref target="p261">261</ref>, <ref target="p309">309</ref>, <ref target="p344">344</ref>, <ref target="p357">357</ref>, <ref target="p369">369</ref></p>
+<p>sea of, <ref target="p362">362</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Gang-dizh</placeName></head> <p>stronghold, viii, <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+<p>possible identification of, <ref target="p189">189</ref></p>
+<p>meaning of, <ref target="p190">190</ref></p>
+<p>building and description of, <ref target="p279">279</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head>Gang-i-Siyawush</head> <p>. See Gang-dizh</p>
+
+</div>
+
+<div type="textpart"><head><persName>Garsiwaz</persName></head> <p>brother of Afrasiyab, viii, <ref target="p188">188</ref>, <ref target="p189">189</ref>, <ref target="p193">193</ref>, <ref target="p195">195</ref>, <ref target="p228">228</ref>, <ref target="p231">231</ref> seq., <ref target="p249">249</ref>, <ref target="p253">253</ref>, <ref target="p264">264</ref>, <ref target="p268">268</ref>, <ref target="p269">269</ref>, <ref target="p286">286</ref>, <ref target="p289">289</ref> seq., <ref target="p313">313</ref> seq.</p>
+<p>defeated by Siyawush, <ref target="p229">229</ref></p>
+<p>seq.</p>
+<p>sues for peace to Siyawush, <ref target="p237">237</ref> seq.</p>
+<p>fails to string the bow of Siyawush, <ref target="p266">266</ref></p>
+<p>visits Siyawush, <ref target="p289">289</ref> seq.</p>
+<p>envies Siyawush, <ref target="p292">292</ref> seq.</p>
+<p>challenges Siyawush, <ref target="p294">294</ref></p>
+<p>slanders Siyawush, <ref target="p296">296</ref> seq.</p>
+<p>betrays Siyawush, <ref target="p301">301</ref> seq.</p>
+<p>compasses the death of Siyawush, <ref target="p315">315</ref> seq.</p>
+<p>charged with the execution of Farangis, <ref target="p322">322</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Garshasp</persName></head> <p>Shah, <ref target="p336">336</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gazhdaham</persName></head> <p>Iranian hero, vii, <ref target="p131">131</ref>, <ref target="p132">132</ref>, <ref target="p134">134</ref>, <ref target="p138">138</ref>, <ref target="p139">139</ref>, <ref target="p145">145</ref>, <ref target="p146">146</ref></p>
+<p>his description of Suhrab, <ref target="p136">136</ref></p>
+<p>evacuates White Castle, <ref target="p137">137</ref></p>
+
+</div>
+
+<div type="textpart"><head>Genealogical tables</head> <p><ref target="p3">3</ref>, <ref target="p4">4</ref></p>
+
+</div>
+
+<div type="textpart"><head>Geography</head> <p>Firdausi’s, <ref target="p28">28</ref></p>
+<p>Professor Darmesteter on, <ref target="p79">79</ref>, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Ghundi</rs></head> <p>a div, <ref target="p44">44</ref>, <ref target="p54">54</ref>, <ref target="p55">55</ref>, <ref target="p93">93</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ghur</placeName></head> <p>district, <ref target="p101">101</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Gilan</placeName></head> <p>district, <ref target="p226">226</ref>, <ref target="p293">293</ref></p>
+
+</div>
+
+<div type="textpart"><head>Girduni</head> <p>Sirdarra, pass, <ref target="p28">28</ref></p>
+<p>Sawachi, pass, <ref target="p28">28</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Giv</persName></head> <p>Iranian hero, ix, x, <ref target="p25">25</ref>, <ref target="p33">33</ref>, <ref target="p35">35</ref>, <ref target="p38">38</ref> <ref target="p39">39</ref>, <ref target="p58">58</ref>, <ref target="p62">62</ref>, <ref target="p70">70</ref>, <ref target="p73">73</ref>, <ref target="p85">85</ref>, <ref target="p91">91</ref>, <ref target="p127">127</ref>, <ref target="p138">138</ref> seq., <ref target="p148">148</ref>, <ref target="p151">151</ref>, <ref target="p158">158</ref>, <ref target="p160">160</ref>, <ref target="p188">188</ref>, <ref target="p193">193</ref>, <ref target="p197">197</ref>, <ref target="p271">271</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p338">338</ref> <ref target="p340">340</ref>, <ref target="p349">349</ref>, <ref target="p351">351</ref>, <ref target="p362">362</ref>, <ref target="p388">388</ref> seq.</p>
+<p>harries Mazandaran, <ref target="p39">39</ref></p>
+<p>taken prisoner in Mazandaran, <ref target="p40">40</ref></p>
+<p>released by Rustam, <ref target="p58">58</ref></p>
+<p>taken prisoner in Hamavaran, <ref target="p90">90</ref></p>
+<p>released by Rustam, <ref target="p97">97</ref></p>
+<p>goes in search of Kai Kaus,104</p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+<p>bears letter from Kéds to Rustam, <ref target="p139">139</ref></p>
+<p>his encampment described, <ref target="p155">155</ref></p>
+<p>son-in-law of Rustam, <ref target="p155">155</ref></p>
+<p>helps to saddle Rakhsh for the fight with Suhrab, <ref target="p160">160</ref></p>
+<p>his account of Suhrab, <ref target="p166">166</ref></p>
+<p>quarrels with Tus over the future mother of Siyawush, <ref target="p194">194</ref></p>
+<p>meaning of, <ref target="p335">335</ref></p>
+<p>sent by Gudarz to seek Kai Khusrau, <ref target="p364">364</ref> seq.</p>
+<p>finds Kai Khusrau, <ref target="p370">370</ref> seq.</p>
+<p>receives the mail of Siyawush, <ref target="p377">377</ref></p>
+<p>his exploits in defence of Kai Khusrau, <ref target="p378">378</ref> seq.</p>
+<p>tells how he captured Piran’s wife and sister, <ref target="p383">383</ref></p>
+<p>his wife, <ref target="p384">384</ref></p>
+<p>his sister, <ref target="p384">384</ref></p>
+<p>overthrows Piran and his host, <ref target="p385">385</ref> 2D</p>
+<p>releases Piran, <ref target="p387">387</ref></p>
+<p>at the Jihun, <ref target="p391">391</ref> seq.</p>
+<p>announces Kai Khusrau's arrival in Iran, <ref target="p394">394</ref></p>
+<p>accompanies Kai Khusrau to Ispahan, <ref target="p396">396</ref></p>
+<p>rewarded by Kai Kaus, <ref target="p399">399</ref></p>
+<p>goes on an embassy to Tus, <ref target="p400">400</ref></p>
+<p>bears Kai Khusrau’s letter to the castle of Bahman, <ref target="p408">408</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Givgan</persName></head> <p>Iranian hero, <ref target="p109">109</ref>, <ref target="p155">155</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Glory</rs></head> <p>the divine. See Grace</p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Grace</rs></head> <p>or Glory, the divine, <ref target="p81">81</ref>, <ref target="p82">82</ref>, <ref target="p90">90</ref>, <ref target="p99">99</ref>, <ref target="p101">101</ref>, <ref target="p102">102</ref>, <ref target="p106">106</ref>, <ref target="p207">207</ref>, 209; <ref target="p265">265</ref>, <ref target="p283">283</ref>, <ref target="p289">289</ref>, <ref target="p302">302</ref>, <ref target="p327">327</ref>, <ref target="p356">356</ref>, <ref target="p358">358</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref>.</p>
+
+<p>seq., <ref target="p382">382</ref>, <ref target="p386">386</ref>, <ref target="p392">392</ref>, <ref target="p399">399</ref>, <ref target="p401">401</ref> seq., <ref target="p407">407</ref> seq.</p>
+
+
+</div>
+
+<div type="textpart"><head>Greek history and legend in relation to Persian history and legend</head> <p><ref target="p9">9</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Gudarz</persName></head> <p>Iranian hero, ix, x, <ref target="p33">33</ref>, <ref target="p35">35</ref>, <ref target="p38">38</ref>, <ref target="p62">62</ref>, <ref target="p70">70</ref>, <ref target="p73">73</ref>, <ref target="p83">83</ref>, <ref target="p90">90</ref>, <ref target="p91">91</ref>, <ref target="p127">127</ref>, <ref target="p138">138</ref>, <ref target="p142">142</ref>, <ref target="p157">157</ref>, <ref target="p1775">1775</ref> <ref target="p178">178</ref>, <ref target="p193">193</ref>, <ref target="p250">250</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p335">335</ref>, <ref target="p338">338</ref>, <ref target="p340">340</ref>, <ref target="p349">349</ref>, <ref target="p371">371</ref> sey., <ref target="p384">384</ref>, <ref target="p388">388</ref>, <ref target="p394">394</ref>, <ref target="p406">406</ref></p>
+
+<p>taken prisoner in Mazandaran, <ref target="p40">40</ref></p>
+
+<p>released by Rustam, <ref target="p58">58</ref></p>
+
+<p>receives Ispahan from Kai Kaus, <ref target="p78">78</ref></p>
+
+<p>taken prisoner in Hamavaran, <ref target="p90">90</ref></p>
+
+<p>released by Rustam, <ref target="p97">97</ref></p>
+
+<p>censures Kai Kaus, <ref target="p105">105</ref></p>
+
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+
+<p>mediates between Kai Kaus and Rustam, <ref target="p144">144</ref> sey.</p>
+
+<p>his encampment described, <ref target="p153">153</ref></p>
+
+<p>his sons, <ref target="p158">158</ref></p>
+
+<p>consoles Siyawush for his mother’s death, <ref target="p199">199</ref></p>
+
+
+<p>appointed ruler of Sughd and Sipanjab, <ref target="p358">358</ref></p>
+<p>returns to Iran, <ref target="p362">362</ref></p>
+<p>sees Surush in a dream, <ref target="p363">363</ref></p>
+<p>sends Giv to seek for Kai Khusrau, <ref target="p364">364</ref></p>
+<p>hears of Kai Khusrau’s arrival in Iran, <ref target="p395">395</ref></p>
+<p>welcomes Kai Khusrau and Giv, <ref target="p396">396</ref></p>
+<p>accompanies them to Istakhr, <ref target="p399">399</ref></p>
+<p>his dispute with Tus, <ref target="p400">400</ref> seq.</p>
+<p>goes with Kai Khusrau to the castle of Bahman, <ref target="p407">407</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gulshahr</persName></head> <p>wife of Piran, <ref target="p269">269</ref>, <ref target="p275">275</ref>, <ref target="p276">276</ref>, <ref target="p288">288</ref>, <ref target="p326">326</ref>, <ref target="p387">387</ref>, <ref target="p390">390</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Gulzaryun</placeName></head> <p>river (the Jaxartes ?), <ref target="p358">358</ref>, <ref target="p381">381</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gurdza</persName></head> <p>Iranian hero, <ref target="p73">73</ref>, <ref target="p340">340</ref></p>
+<p>takes king of Barbar prisoner, <ref target="p97">97</ref></p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+<p>his encampment described, <ref target="p155">155</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gurdafrid</persName></head> <p>daughter of Gazhdaham, vii, <ref target="p119">119</ref>, <ref target="p131">131</ref> seq., <ref target="p138">138</ref></p>
+<p>beguiles Suhrab, <ref target="p133">133</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gurdya</persName></head> <p>sister of Bahram Chubina, <ref target="p119">119</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gurgin</persName></head> <p>Iranian hero, <ref target="p33">33</ref>, <ref target="p35">35</ref>, <ref target="p62">62</ref>, <ref target="p79">79</ref>, 73» <ref target="p35">35</ref>, <ref target="p90">90</ref>, <ref target="p127">127</ref>, <ref target="p138">138</ref>, <ref target="p144">144</ref>, <ref target="p316">316</ref>, <ref target="p340">340</ref>, <ref target="p394">394</ref></p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Gurwi</persName></head> <p>Turanian hero, ix, <ref target="p296">296</ref>, <ref target="p314">314</ref>, <ref target="p319">319</ref>, <ref target="p338">338</ref>, <ref target="p340">340</ref></p>
+<p>challenges and is overthrown by Siyawush, <ref target="p295">295</ref></p>
+<p>advocates the execution of Siyawush, <ref target="p317">317</ref></p>
+<p>carries out the execution of Siyawush, <ref target="p320">320</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Gustaham1</persName></head> <p>son of Gazhdaham,<note>This is assumed in all cases where it is doubtful which Gustaham is meant, Cf, vol. i. p. <ref target="p369">369</ref>.</note> <ref target="p12">12</ref>, <ref target="p58">58</ref>, <ref target="p177">177</ref></p>
+<p>takes part in the fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Gustaham2</persName></head> <p>son of Naudar, <ref target="p127">127</ref>,  <ref target="p336">336</ref></p>
+
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="H">
+<div type="textpart"><head>Haft</head>
+<p>Khan, <ref target="p29">29</ref></p>
+<p>Khwan, <ref target="p29">29</ref> </p>
+<p>Min, <ref target="p29">29</ref> </p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Hajir</persName></head> <p>Iranian hero, vii, <ref target="p131">131</ref>, <ref target="p134">134</ref>, <ref target="p136">136</ref>, <ref target="p140">140</ref>, <ref target="p349">349</ref></p>
+<p>taken prisoner by Suhrab, <ref target="p131">131</ref></p>
+<p>misleads Suhrab, <ref target="p152">152</ref> seq.</p>
+<p>his life attempted by Rustam, <ref target="p176">176</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Hamavaran</placeName></head> <p>country (Yaman), vi, <ref target="p25">25</ref>, <ref target="p78">78</ref> seq., <ref target="p93">93</ref>, <ref target="p94">94</ref>, <ref target="p96">96</ref> seq., <ref target="p139">139</ref>, <ref target="p143">143</ref> seq., <ref target="p213">213</ref>, <ref target="p215">215</ref>, <ref target="p218">218</ref>, <ref target="p250">250</ref></p>
+<p>king of, vi, <ref target="p85">85</ref> seq., <ref target="p93">93</ref>, <ref target="p207">207</ref> and note asks quarter of Rustam, <ref target="p97">97</ref></p>
+<p>releases Kai Kaus, <ref target="p97">97</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Handgrip</head> <p>as test of strength, <ref target="p64">64</ref>, <ref target="p66">66</ref>, <ref target="p67">67</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Harat</placeName></head> <p>city, <ref target="p101">101</ref></p>
+<p>desert of, <ref target="p228">228</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Harpagus</persName></head> <p><ref target="p190">190</ref></p>
+<p>identical with Piran in legend, <ref target="p191">191</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Haug</persName></head> <p>his theory of the origin of Zoroastrianism, <ref target="p8">8</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Herodotus</persName></head> <p><ref target="p9">9</ref></p>
+<p>his account of the youth of Cyrus the Great, <ref target="p190">190</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Himyar</placeName></head> <p>= Hamavaran (Yaman),79</p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Hind</placeName></head> <p>Hindustan, <ref target="p92">92</ref>, <ref target="p228">228</ref>, <ref target="p287">287</ref>, <ref target="p289">289</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Hindu Kush</placeName></head> <p><ref target="p80">80</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Hirbad</persName></head> <p>keeper of the women’s house of Kai Kaus, <ref target="p202">202</ref>, <ref target="p206">206</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Horses</head> <p>of Persian royalty, how distinguished, <ref target="p410">410</ref> note</p>
+
+
+
+
+
+
+</div>
+
+<div type="textpart"><head><persName>Human</persName></head> <p>Turanian hero, vii, <ref target="p129">129</ref>, <ref target="p130">130</ref>, <ref target="p132">132</ref>, <ref target="p148">148</ref>, <ref target="p150">150</ref>, <ref target="p165">165</ref>, <ref target="p264">264</ref>, <ref target="p390">390</ref></p>
+
+<p>his account of Rustam, <ref target="p165">165</ref>, <ref target="p169">169</ref></p>
+
+<p>reproaches Suhrab for sparing Rustam, <ref target="p171">171</ref></p>
+
+<p>throws the blame for Suhrab’s death on Hajir, <ref target="p176">176</ref></p>
+
+<p>withdraws from Iran under safe conduct, <ref target="p176">176</ref>, <ref target="p181">181</ref>, <ref target="p182">182</ref>, <ref target="p184">184</ref></p>
+
+<p>rescues  Afrasiyab from Rustam, <ref target="p354">354</ref>, <ref target="p355">355</ref></p>
+
+<p>persuades Afrasiyab to abandon the pursuit of Kai Khusrau, <ref target="p394">394</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head><persName>Hushang</persName></head> <p>Shah, <ref target="p204">204</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Hyrcania</placeName></head> <p>country (Mazandaran), <ref target="p27">27</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="I">
+<div type="textpart"><head><rs type="divinity">Iblis</rs></head> <p>the Muhammadan Devil, vi</p>
+<p>occasional substitution of for Ahriman, <ref target="p82">82</ref>, <ref target="p110">110</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Ighriras</persName></head> <p>brother of Afrasiyab, <ref target="p18">18</ref>, <ref target="p20">20</ref>, <ref target="p303">303</ref>, <ref target="p304">304</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Indra</rs></head> <p>god, <ref target="p25">25</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Indus</placeName></head> <p>river, <ref target="p21">21</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Iraj</persName></head> <p>youngest son of Faridun, <ref target="p8">8</ref>, <ref target="p16">16</ref>, <ref target="p19">19</ref>, <ref target="p20">20</ref>, <ref target="p237">237</ref>, <ref target="p297">297</ref>, <ref target="p302">302</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Iram</placeName></head> <p>garden of, <ref target="p78">78</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Iran</placeName></head> <p>vi, ix, <ref target="p17">17</ref> seq., <ref target="p33">33</ref>, 35s 3% <ref target="p76">76</ref>, <ref target="p78">78</ref> and passim</p>
+<p>Shahr, <ref target="p81">81</ref></p>
+<p>fought for by Afresyab and the Arabs, <ref target="p92">92</ref></p>
+<p>invaded by Suhrab, <ref target="p130">130</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Iranians</rs></head> <p>the, <ref target="p9">9</ref>, <ref target="p20">20</ref>, <ref target="p27">27</ref>, <ref target="p42">42</ref> and passim</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ispahan</placeName></head> <p>city, x, <ref target="p394">394</ref>, <ref target="p399">399</ref></p>
+<p>given to Gudarz, <ref target="p78">78</ref></p>
+<p>arrival of Kai Khusrau at, <ref target="p396">396</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Ispuruz</placeName></head> <p>mountain, <ref target="p38">38</ref>, <ref target="p56">56</ref>, <ref target="p57">57</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Istakhr</placeName></head> <p>city, v, <ref target="p11">11</ref>, <ref target="p22">22</ref>, <ref target="p28">28</ref>, <ref target="p399">399</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="J">
+<div type="textpart"><head><persName>JAHN</persName></head> <p>son of Afrasiyab, <ref target="p264">264</ref>, <ref target="p268">268</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Jamshid</persName></head> <p>Shah, <ref target="p33">33</ref>, <ref target="p37">37</ref>, <ref target="p168">168</ref>, <ref target="p204">204</ref>, <ref target="p358">358</ref>, <ref target="p399">399</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Jarira</persName></head> <p>daughter of Piran, wife of Siyawush, mother of Farad, <ref target="p188">188</ref>, <ref target="p269">269</ref></p>
+<p>marries Siyawush, <ref target="p268">268</ref> seq.</p>
+<p>birth of her son Farad, <ref target="p291">291</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Jihun</placeName></head> <p>river (the Oxus), x, <ref target="p15">15</ref>, <ref target="p19">19</ref></p>
+<p>seq., <ref target="p99">99</ref>, <ref target="p229">229</ref>, <ref target="p237">237</ref>, <ref target="p248">248</ref>, <ref target="p258">258</ref>, <ref target="p311">311</ref>, <ref target="p340">340</ref>, <ref target="p390">390</ref>, <ref target="p394">394</ref>, <ref target="p399">399</ref>, <ref target="p404">404</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Jupiter</rs></head> <p>planet, <ref target="p115">115</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Juya</rs></head> <p>a div, <ref target="p71">71</ref></p>
+<p>slain by Rustam, <ref target="p72">72</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="K">
+<div type="textpart"><head>Kabab</head> <p>small pieces of meat skewered together for roasting, <ref target="p103">103</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Kabul</placeName></head> <p>Kabulistan, city and country, <ref target="p12">12</ref>, <ref target="p18">18</ref>, <ref target="p21">21</ref>, <ref target="p92">92</ref>, <ref target="p228">228</ref>, <ref target="p260">260</ref>, <ref target="p271">271</ref>, <ref target="p341">341</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Kachar Bashi</placeName></head> <p>city in Turan, <ref target="p258">258</ref>, <ref target="p260">260</ref>, <ref target="p361">361</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Kaf</placeName></head> <p>mountain, <ref target="p83">83</ref>, <ref target="p404">404</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Kai</head> <p>meaning of, <ref target="p8">8</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Kaian</rs></head> <p>Kaians, race and dynasty, <ref target="p8">8</ref>, <ref target="p9">9</ref>, <ref target="p22">22</ref>, <ref target="p404">404</ref></p>
+<p>birth-mark, <ref target="p372">372</ref></p>
+<p>stature, <ref target="p375">375</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Kaianian</rs></head> <p>Kaianians, race and dynasty, v, <ref target="p7">7</ref> seq.</p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Kai Arash</persName></head> <p>son of Kai Kubad, <ref target="p23">23</ref>, <ref target="p204">204</ref>, <ref target="p205">205</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Kai Armin</persName></head> <p>son of Kai Kubad, <ref target="p23">23</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Kai Kaus</persName></head> <p>Shah, v seq., <ref target="p8">8</ref>, <ref target="p10">10</ref>, <ref target="p11">11</ref>, <ref target="p23">23</ref> seq., <ref target="p33">33</ref> seq., <ref target="p54">54</ref> seq., <ref target="p61">61</ref> seqq., <ref target="p109">109</ref>, <ref target="p110">110</ref>, <ref target="p117">117</ref>, <ref target="p127">127</ref>, <ref target="p129">129</ref>, <ref target="p130">130</ref>, <ref target="p233">233</ref>, <ref target="p243">243</ref> seq., <ref target="p264">264</ref>, <ref target="p269">269</ref> seq., <ref target="p273">273</ref>, <ref target="p284">284</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p296">296</ref>, <ref target="p301">301</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p347">347</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref>, <ref target="p383">383</ref>, <ref target="p401">401</ref></p>
+
+<p>tempted by divs, <ref target="p30">30</ref> seq., <ref target="p81">81</ref>, <ref target="p102">102</ref></p>
+<p>goes to Mount Kaf, <ref target="p83">83</ref></p>
+<p>defeats Afrasiyab and regains Turan, <ref target="p100">100</ref></p>
+<p>makes Rustam paladin of paladins, <ref target="p101">101</ref></p>
+<p>his buildings on Mount Alburz, <ref target="p81">81</ref>, <ref target="p101">101</ref></p>
+<p>his flying-machine, <ref target="p103">103</ref></p>
+<p>his fall from the sky, <ref target="p104">104</ref></p>
+<p>his repentance, <ref target="p105">105</ref></p>
+<p>hears of Suhrab and summons his chiefs, <ref target="p136">136</ref> seq.</p>
+<p>bids Tas hang Rustam and Giv, <ref target="p143">143</ref></p>
+<p>his apology to Rustam, <ref target="p147">147</ref></p>
+<p>his encampment described, <ref target="p153">153</ref></p>
+<p>his camp-enclosure  overthrown by Suhrab, <ref target="p160">160</ref></p>
+<p>refuses to cure Suhrab, <ref target="p178">178</ref></p>
+<p>attempts to console Rustam, <ref target="p181">181</ref></p>
+<p>marries the future mother of Siyawush, <ref target="p194">194</ref></p>
+<p>receives Siyawush at court,198</p>
+<p>bestows Kuhistan upon him, <ref target="p199">199</ref></p>
+<p>his conduct in the case of Siyawush and Sudaba, <ref target="p200">200</ref> seq.</p>
+<p>sends Siyawush to fight Afrasiyab, <ref target="p225">225</ref></p>
+<p>rejects terms of peace and quarrels with Rustam, <ref target="p244">244</ref> seq.</p>
+<p>hears of the defection of Siyawush, <ref target="p258">258</ref></p>
+<p>his grief at the death of Siyawush, <ref target="p337">337</ref></p>
+<p>hears of Kai Khusrau’s arrival in Iran, <ref target="p395">395</ref></p>
+<p>receives him, <ref target="p397">397</ref></p>
+<p>rewards Giv, <ref target="p399">399</ref></p>
+<p>provides for Farangis, <ref target="p399">399</ref></p>
+<p>arbitrates between Tus and Gudarz, <ref target="p403">403</ref> seq.</p>
+<p>welcomes Kai Khusrau on his return from the castle of Bahman, <ref target="p410">410</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head><persName>Kai Khusrau</persName></head> <p>Shah, ix, x, <ref target="p9">9</ref>, <ref target="p25">25</ref>, <ref target="p104">104</ref>, <ref target="p189">189</ref>, <ref target="p190">190</ref>, <ref target="p310">310</ref> seq., <ref target="p334">334</ref></p>
+<p>sey., <ref target="p336">336</ref> seq.</p>
+
+<p>Fravashi of, <ref target="p82">82</ref></p>
+
+<p>identical with Cyrus the Great in legend, <ref target="p191">191</ref></p>
+
+<p>prophecies respecting, <ref target="p372">372</ref>, <ref target="p390">390</ref></p>
+
+<p>birth of, <ref target="p325">325</ref> seq.</p>
+
+<p>account of his youth, <ref target="p328">328</ref> seq.</p>
+
+<p>questioned by Afrasiyab, <ref target="p332">332</ref> <ref target="p310">310</ref>,</p>
+
+<p>dwells at Siyawushgird, <ref target="p333">333</ref> —</p>
+
+<p>is sent to Khutan, <ref target="p356">356</ref></p>
+<p>Machin, <ref target="p357">357</ref> note described by Surush, <ref target="p363">363</ref></p>
+
+<p>Gudarz sends Giv to seek, <ref target="p364">364</ref> seq.</p>
+<p>recalled, <ref target="p370">370</ref></p>
+<p>found by Giv, <ref target="p370">370</ref></p>
+<p>shows his birth-mark to Giv, <ref target="p372">372</ref></p>
+<p>saves Piran’s life, <ref target="p387">387</ref></p>
+<p>at the Jihun, <ref target="p391">391</ref> seq.</p>
+<p>arrives at Zam, <ref target="p394">394</ref></p>
+<p>visits Gudarz at Ispahan, <ref target="p396">396</ref></p>
+<p>tells his story to Kai Kaus, <ref target="p397">397</ref></p>
+<p>praises Giv to Kai Kaus, <ref target="p398">398</ref></p>
+<p>goes to Istakhr, <ref target="p399">399</ref></p>
+<p>enthroned as Shah, <ref target="p400">400</ref>, <ref target="p411">411</ref></p>
+<p>supported by Gudarz and opposed by Tus, <ref target="p400">400</ref> seq.</p>
+<p>his letter to the defenders of the castle of Bahman, <ref target="p407">407</ref></p>
+<p>establishes Fire-worship at the castle of Bahman, <ref target="p409">409</ref></p>
+<p>pardons Tus, <ref target="p410">410</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kai Kubad</persName></head> <p>Shah, v, <ref target="p8">8</ref>, <ref target="p11">11</ref>, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p16">16</ref>, <ref target="p18">18</ref> sey., <ref target="p26">26</ref>, <ref target="p33">33</ref>, <ref target="p34">34</ref>, <ref target="p36">36</ref>, <ref target="p37">37</ref>, <ref target="p87">87</ref>, <ref target="p143">143</ref>, <ref target="p144">144</ref>, <ref target="p249">249</ref>, <ref target="p260">260</ref>, <ref target="p270">270</ref>, <ref target="p274">274</ref>, <ref target="p327">327</ref>, <ref target="p336">336</ref>, <ref target="p363">363</ref>, <ref target="p390">390</ref>, <ref target="p394">394</ref></p>
+<p>his origin, <ref target="p11">11</ref> and note makes peace with Afrasiyab, <ref target="p20">20</ref></p>
+<p>his gifts to Zal and Rustam, <ref target="p21">21</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kai Pashin</persName></head> <p>son of Kai Kubad, <ref target="p23">23</ref>, <ref target="p204">204</ref>, <ref target="p205">205</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Kalahur</rs></head> <p>a div, <ref target="p67">67</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kalat-i-Nadiri</placeName></head> <p>a stronghold, <ref target="p189">189</ref></p>
+
+
+
+
+</div>
+
+<div type="textpart"><head><placeName>Kalur</placeName></head> <p>mountain, <ref target="p328">328</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kangdez</placeName></head> <p>(Gang-dizh), <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kangha</placeName></head> <p>country (Kharazm), <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Karan</persName></head> <p>Iranian hero, <ref target="p11">11</ref> seq., <ref target="p18">18</ref>, <ref target="p22">22</ref>, <ref target="p119">119</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Kargasars</rs></head> <p>tribe, <ref target="p98">98</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kariman</persName></head> <p>Iranian hero, father of Nariman, <ref target="p125">125</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kashmir</placeName></head> <p>country, <ref target="p271">271</ref>, <ref target="p338">338</ref></p>
+
+</div>
+
+<div type="textpart"><head>Kaus</head> <p>. See Kai Kaus</p>
+
+</div>
+
+<div type="textpart"><head><persName>Kavi Kava</persName></head> <p>(Kai), father of Kai Kaus, <ref target="p8">8</ref>, <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head>Kavi Usa,</head> <p>name of Kai Kaus in the Zandavasta <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kawa</persName></head> <p>flag of, <ref target="p12">12</ref>, <ref target="p227">227</ref>, <ref target="p341">341</ref>, <ref target="p349">349</ref>, 354s <ref target="p400">400</ref>, <ref target="p402">402</ref>, <ref target="p405">405</ref>, <ref target="p406">406</ref>, <ref target="p410">410</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Keresavasda</persName></head> <p>(Garsiwaz), <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kharazm</placeName></head> <p>country (Khiva), <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Kharazmians</rs></head> <p>people, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kharrad</persName></head> <p>Iranian hero, <ref target="p11">11</ref>, <ref target="p22">22</ref>, <ref target="p33">33</ref>, <ref target="p73">73</ref>, <ref target="p340">340</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kharzarwan</persName></head> <p>Iranian hero, <ref target="p18">18</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khata</placeName></head> <p>region in Turan, <ref target="p357">357</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khazar</placeName></head> <p>region, <ref target="p285">285</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khiva</placeName></head> <p>country (Kharazm), <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khshathro-saoka</placeName></head> <p>stronghold (Gang-dizh), <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khurasan</placeName></head> <p>province of Iran, <ref target="p399">399</ref></p>
+
+</div>
+
+<div type="textpart"><head>Khusrau</head> <p>. See Kai Khusrau</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Khutan</placeName></head> <p>region in Turan, ix, <ref target="p277">277</ref>, <ref target="p288">288</ref>, <ref target="p325">325</ref>, <ref target="p357">357</ref>, <ref target="p383">383</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kishwid</persName></head> <p>Iranian hero, <ref target="p11">11</ref>, <ref target="p12">12</ref>, <ref target="p18">18</ref>, <ref target="p22">22</ref>, <ref target="p33">33</ref>, <ref target="p70">70</ref>, <ref target="p73">73</ref>, <ref target="p107">107</ref>, <ref target="p112">112</ref>, <ref target="p138">138</ref>, <ref target="p318">318</ref>, <ref target="p384">384</ref>, <ref target="p399">399</ref>, <ref target="p404">404</ref>, <ref target="p409">409</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kubad</persName></head> <p>Shah. See Kai Kubad</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kuch</placeName></head> <p>region, <ref target="p226">226</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kuhistan</placeName></head> <p>Transoxania (Ma-wara-'u'n-Nahr), <ref target="p199">199</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kuhram</persName></head> <p>Turanian hero, <ref target="p349">349</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Kulbad</persName></head> <p>Turanian hero, ix, <ref target="p18">18</ref>, <ref target="p264">264</ref>, <ref target="p388">388</ref></p>
+<p>his death and revival in legend, <ref target="p119">119</ref></p>
+<p>pursues Kai Khusrau, <ref target="p377">377</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kum</placeName></head> <p>city in Iran, <ref target="p399">399</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Kumar</placeName></head> <p>cape, <ref target="p103">103</ref> and note</p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="L">
+<div type="textpart"><head><persName>Lahhak</persName></head> <p>Turanian hero, <ref target="p323">323</ref> note </p>
+<p>summons Piran to save Farangis, <ref target="p322">322</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Leo</rs></head> <p>constellation, <ref target="p405">405</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="M">
+<div type="textpart"><head><placeName>Machin</placeName></head> <p>(China), <ref target="p357">357</ref> note, <ref target="p370">370</ref>,  <ref target="p394">394</ref></p>
+
+</div>
+
+<div type="textpart"><head>Machine</head> <p>flying, of Kai Kaus, <ref target="p103">103</ref></p>
+
+</div>
+
+<div type="textpart"><head>Magi</head> <p>priests of the Medes, <ref target="p190">190</ref></p>
+<p>advocates of marriage, <ref target="p189">189</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Makran</placeName></head> <p>country (Baluchistan), <ref target="p80">80</ref>, <ref target="p82">82</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Malcolm</head> <p>Sir John, his version of Suhrab, <ref target="p118">118</ref></p>
+
+
+
+</div>
+
+<div type="textpart"><head>Man</head> <p>of Sigz (Rustam), <ref target="p100">100</ref> and note</p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Manda</rs></head> <p>empire of the, =empire of the Medes, <ref target="p191">191</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Mandane</persName></head> <p>daughter of Astyages, <ref target="p190">190</ref></p>
+<p>identical with Farangis in legend, <ref target="p191">191</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Mani</head> <p>heresiarch, <ref target="p19">19</ref> note</p>
+
+
+</div>
+
+<div type="textpart"><head>Manicheism</head> <p><ref target="p19">19</ref> note</p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Mark</rs></head> <p>birth, of the Kaian race, <ref target="p372">372</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Marriage</head> <p>next-of-kin (Khvaitukdas), <ref target="p189">189</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Mars</rs></head> <p>planet, <ref target="p247">247</ref>, <ref target="p407">407</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Marv</placeName></head> <p>city, <ref target="p101">101</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Marvrud</placeName></head> <p>river, <ref target="p228">228</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Mashad</placeName></head> <p>city, <ref target="p189">189</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Ma wara 'u'n-Nahr</head> <p>(Kuhistan Transoxania), <ref target="p19">19</ref>, <ref target="p199">199</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Mazana</placeName></head> <p>(Mazandaran), <ref target="p28">28</ref></p>
+
+<p>Mazandaran, country (Hyrcania),</p>
+<p>V, Vi, <ref target="p25">25</ref> seq, <ref target="p33">33</ref>,34: <ref target="p36">36</ref> seq., <ref target="p45">45</ref>, <ref target="p55">55</ref>, <ref target="p60">60</ref> seq., <ref target="p66">66</ref> seq., <ref target="p75">75</ref>, <ref target="p76">76</ref>, <ref target="p78">78</ref>, <ref target="p81">81</ref>, <ref target="p93">93</ref>, <ref target="p105">105</ref>, <ref target="p139">139</ref>, <ref target="p143">143</ref> seq., <ref target="p293">293</ref></p>
+
+<p>approach to from Iran, <ref target="p28">28</ref></p>
+
+<p>description of, <ref target="p27">27</ref></p>
+<p>king of, vi, <ref target="p39">39</ref>, <ref target="p43">43</ref>, <ref target="p54">54</ref>, <ref target="p62">62</ref> seq.</p>
+<p>his interview with Rustam,67</p>
+<p>his fight with Rustam, <ref target="p73">73</ref></p>
+<p>turns himself into a rock, <ref target="p74">74</ref></p>
+<p>death of, <ref target="p75">75</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Mazda</head> <p>Ahura (Urmuzd), <ref target="p81">81</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Medes</rs></head> <p>empire of the, =empire of the Manda, rg1</p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Mihrab</persName></head> <p>king of Kabul, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p18">18</ref>, <ref target="p21">21</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Minuchihr</persName></head> <p>Shah, <ref target="p19">19</ref>, <ref target="p29">29</ref>, <ref target="p33">33</ref>, <ref target="p36">36</ref>, <ref target="p371">371</ref> <ref target="p302">302</ref>, <ref target="p318">318</ref>, <ref target="p400">400</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Misr</placeName></head> <p>(Egypt), <ref target="p79">79</ref>, <ref target="p80">80</ref>, <ref target="p84">84</ref>, <ref target="p94">94</ref>, <ref target="p96">96</ref>, <ref target="p143">143</ref>, <ref target="p286">286</ref></p>
+<p>king of, <ref target="p94">94</ref>, <ref target="p95">95</ref>, <ref target="p98">98</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Mithridates I</persName></head> <p><ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Muhammad</persName></head> <p>the Prophet, <ref target="p337">337</ref> note</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Mytilene</placeName></head> <p>Chares of, <ref target="p10">10</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="N">
+<div type="textpart"><head><persName>Nariman</persName></head> <p>Iranian hero, father of Sam, <ref target="p49">49</ref>, <ref target="p115">115</ref>, <ref target="p119">119</ref>, <ref target="p125">125</ref>, <ref target="p126">126</ref>, <ref target="p162">162</ref>, <ref target="p354">354</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Narmpai</rs></head> <p>name of a tribe, <ref target="p55">55</ref> and note, <ref target="p63">63</ref>, <ref target="p64">64</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Narwan</placeName></head> <p>forest of, <ref target="p341">341</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Nastihan</persName></head> <p>Turanian hero, ix, <ref target="p264">264</ref></p>
+<p>pursues Kai Khusrau, <ref target="p377">377</ref> seq.</p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Naudar</persName></head> <p>Shah, <ref target="p20">20</ref>, <ref target="p36">36</ref>, <ref target="p70">70</ref>, <ref target="p153">153</ref>, <ref target="p336">336</ref>, <ref target="p400">400</ref>, <ref target="p404">404</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Nawand</placeName></head> <p>place, <ref target="p107">107</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Neryosang</rs></head> <p><ref target="p82">82</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Nile</placeName></head> <p>river, <ref target="p96">96</ref>, <ref target="p153">153</ref>, <ref target="p217">217</ref>, <ref target="p310">310</ref>, <ref target="p402">402</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Nimruz</placeName></head> <p>country,! <ref target="p21">21</ref>, <ref target="p34">34</ref>, <ref target="p69">69</ref>, 77; <ref target="p80">80</ref>, <ref target="p84">84</ref>, <ref target="p338">338</ref>, <ref target="p395">395</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Nishapur</placeName></head> <p>city, 1o1</p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="O">
+<div type="textpart"><head>Ox of Kai Kaus</head> <p><ref target="p26">26</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Oxus</placeName></head> <p>river (Jihun), <ref target="p190">190</ref> <ref target="p1">1</ref> See vol. i. p. <ref target="p396">396</ref> note.</p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="P">
+<div type="textpart"><head><placeName>Pahlav</placeName></head> <p>district, <ref target="p77">77</ref>, <ref target="p102">102</ref></p>
+
+</div>
+
+<div type="textpart"><head>Pahlavi</head> <p>texts, <ref target="p27">27</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Pars</placeName></head> <p>country, v, <ref target="p23">23</ref>, <ref target="p28">28</ref>, <ref target="p76">76</ref>, <ref target="p101">101</ref>, <ref target="p226">226</ref>, <ref target="p275">275</ref>, <ref target="p286">286</ref>, <ref target="p362">362</ref>, <ref target="p410">410</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Parthian kingdom</persName></head> <p><ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Pashang</persName></head> <p>ruler of Ti <ref target="p13">13</ref>, <ref target="p18">18</ref>, <ref target="p20">20</ref>, <ref target="p21">21</ref>, <ref target="p297">297</ref>, <ref target="p401">401</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Persia</placeName></head> <p><ref target="p191">191</ref></p>
+<p>history and legend in relation to Greek history and legend, <ref target="p9">9</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Persians</rs></head> <p><ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Phosphor</rs></head> <p>morning star, <ref target="p123">123</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Phraates II</persName></head> <p><ref target="p80">80</ref>, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Pilsam</persName></head> <p>Turanian hero, vi, ix, <ref target="p112">112</ref> seq., <ref target="p320">320</ref>, <ref target="p323">323</ref> note, <ref target="p350">350</ref></p>
+<p>seq.</p>
+<p>pleads for Siyawush, <ref target="p315">315</ref></p>
+<p>summons Piran to save Farangis, <ref target="p322">322</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Piran</persName></head> <p>Turanian hero, viii seq., <ref target="p112">112</ref>, <ref target="p188">188</ref>, <ref target="p257">257</ref> seq., <ref target="p264">264</ref>, <ref target="p277">277</ref>, <ref target="p278">278</ref>, <ref target="p282">282</ref> seq., <ref target="p291">291</ref>, <ref target="p311">311</ref>, <ref target="p315">315</ref>, <ref target="p316">316</ref>, <ref target="p322">322</ref> sey., <ref target="p335">335</ref>, <ref target="p350">350</ref>, <ref target="p370">370</ref>, 377; <ref target="p379">379</ref> 8€q.5 <ref target="p3971">3971</ref> <ref target="p398">398</ref></p>
+
+<p>identical with Harpagus in legend, <ref target="p191">191</ref></p>
+
+<p>advises Afrasiyab to receive Siyawush, <ref target="p253">253</ref> note and seq.</p>
+
+<p>goes to welcome Siyawush, <ref target="p258">258</ref> seq.</p>
+
+<p>arranges marriages for Siyawush, <ref target="p268">268</ref> seq.</p>
+
+<p>entertains Siyawush, <ref target="p278">278</ref></p>
+
+<p>offers to help Siyawush to build Gang-dizh, <ref target="p278">278</ref></p>
+
+<p>the prophecy of Siyawush: to, <ref target="p282">282</ref> seq.</p>
+
+<p>goes to collect tribute, <ref target="p285">285</ref></p>
+
+<p>visits Siyawush, <ref target="p287">287</ref></p>
+
+<p>visits Afrasiyab, <ref target="p288">288</ref></p>
+
+<p>summoned to save Farangis, <ref target="p322">322</ref> seq.</p>
+
+<p>pleads for Farangis, <ref target="p324">324</ref></p>
+
+
+
+
+
+<p>takes charge of Farangis,325</p>
+<p>his dream of Siyawush, <ref target="p325">325</ref></p>
+<p>protects the infant Kai Khusrau, <ref target="p326">326</ref></p>
+
+<p>advises Afrasiyab respecting Kai Khusrau, <ref target="p356">356</ref></p>
+
+<p>sends Kulbad and Nastihan to pursue Kai Khusrau, <ref target="p377">377</ref></p>
+
+<p>overthrown with his host by Giv, <ref target="p385">385</ref></p>
+
+<p>appeals to Kai Khusrau, <ref target="p386">386</ref></p>
+
+<p>released, <ref target="p387">387</ref></p>
+
+<p>describes Giv’s prowess to Afrasiyab, <ref target="p389">389</ref></p>
+
+<p>disgraced, <ref target="p390">390</ref></p>
+
+<p>retires to Khutan, <ref target="p390">390</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Pisces</rs></head> <p>constellation, <ref target="p407">407</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Pishdadian dynasty</head> <p><ref target="p9">9</ref>, <ref target="p336">336</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Pleiads</rs></head> <p>constellation, <ref target="p148">148</ref>, <ref target="p282">282</ref>, <ref target="p394">394</ref>, <ref target="p408">408</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Polo</head> <p>game of, viii, <ref target="p263">263</ref> seq., <ref target="p292">292</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Pseudo-Callisthenes</head> <p>romantic Greek history of Alexander the Great, <ref target="p9">9</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Pulad1</persName></head> <p>Turanian hero, <ref target="p264">264</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Pulad2</persName></head> <p>Iranian hero, <ref target="p22">22</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Pulad3</rs></head> <p>a div, <ref target="p44">44</ref>, <ref target="p54">54</ref>, <ref target="p55">55</ref>, <ref target="p64">64</ref>, <ref target="p93">93</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Pun-t</placeName></head> <p>(Berbera), <ref target="p79">79</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="R">
+<div type="textpart"><head><rs type="horse">Rakhsh</rs></head> <p>Rustam’s horse, v, <ref target="p13">13</ref>, <ref target="p42">42</ref> seq., <ref target="p67">67</ref>, <ref target="p74">74</ref>, <ref target="p94">94</ref>, <ref target="p97">97</ref>, <ref target="p110">110</ref>, <ref target="p116">116</ref>, <ref target="p139">139</ref>, <ref target="p143">143</ref>, <ref target="p160">160</ref>, <ref target="p311">311</ref>, <ref target="p354">354</ref></p>
+<p>slays a lion, <ref target="p45">45</ref></p>
+<p>encounters a dragon, <ref target="p48">48</ref></p>
+<p>stolen by Turkmans, <ref target="p121">121</ref> seq.</p>
+<p>sire of Suhrab's charger, <ref target="p128">128</ref></p>
+<p>saddled by Giv, Ruhham, and Tus for the fight with Suhrab, <ref target="p160">160</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Rai</placeName></head> <p>city, <ref target="p23">23</ref>, <ref target="p399">399</ref></p>
+
+</div>
+
+<div type="textpart"><head>Ram</head> <p>Rustam’s life saved by a, <ref target="p46">46</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Ram</rs></head> <p>constellation, <ref target="p299">299</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Red Sea</placeName></head> <p><ref target="p364">364</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Rizwan</rs></head> <p>angel, <ref target="p39">39</ref> and rote, <ref target="p288">288</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Rudaba</persName></head> <p>the mother of Rustam, <ref target="p44">44</ref>, <ref target="p180">180</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Ruhham</persName></head> <p>Iranian hero, <ref target="p62">62</ref>, <ref target="p73">73</ref>, <ref target="p144">144</ref>, <ref target="p158">158</ref>, <ref target="p340">340</ref></p>
+<p>helps to saddle Rakhsh for the fight with Suhrab, <ref target="p160">160</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Ruin1</persName></head> <p>son of Afrasiyab, <ref target="p264">264</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Ruin2</persName></head> <p>son of Piran, <ref target="p323">323</ref> and note.</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Rum</placeName></head> <p>the Eastern Roman Empire, <ref target="p143">143</ref>, <ref target="p297">297</ref>, <ref target="p307">307</ref>, <ref target="p360">360</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Rustam</persName></head> <p>Iranian hero, v seq., <ref target="p11">11</ref></p>
+<p>seq. <ref target="p18">18</ref>, <ref target="p21">21</ref>, <ref target="p25">25</ref>, <ref target="p34">34</ref>, <ref target="p35">35</ref>, <ref target="p42">42</ref> seq, <ref target="p79">79</ref>, <ref target="p92">92</ref> seq., <ref target="p188">188</ref>, <ref target="p236">236</ref>, <ref target="p237">237</ref>, <ref target="p271">271</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p311">311</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p344">344</ref> seq., <ref target="p349">349</ref> 8eq., <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p350">350</ref>, <ref target="p394">394</ref>, <ref target="p400">400</ref></p>
+<p>his first campaign, <ref target="p11">11</ref> seq.</p>
+<p>nearly takes Afrasiyab prisoner, <ref target="p14">14</ref>, <ref target="p116">116</ref>, <ref target="p354">354</ref></p>
+<p>rewarded by Kai Kubad, <ref target="p21">21</ref></p>
+<p>his life saved by a ram, <ref target="p46">46</ref></p>
+<p>song of, <ref target="p51">51</ref></p>
+<p>rescues Kai Kaus in Mazandaran, <ref target="p58">58</ref></p>
+<p>his handgrip, <ref target="p66">66</ref>, <ref target="p67">67</ref></p>
+<p>his encounter with Kaléhir, <ref target="p67">67</ref></p>
+<p>his audience with the king of Mazandaran, <ref target="p67">67</ref> seq.</p>
+<p>his encounter with Juya, <ref target="p71">71</ref></p>
+<p>his encounter with the king of Mazandaran, <ref target="p73">73</ref></p>
+<p>rewarded by Kai Kaus, <ref target="p77">77</ref></p>
+<p>entertains Kai Kaus, <ref target="p83">83</ref></p>
+<p>takes the king of Sham prisoner, <ref target="p97">97</ref></p>
+<p>defeats Afrasiyab, <ref target="p100">100</ref></p>
+<p>made paladin of paladins by Kai Kaus, <ref target="p101">101</ref></p>
+<p>goes in search of Kai Kaus, <ref target="p104">104</ref></p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+<p>slays Alkus, <ref target="p115">115</ref></p>
+<p>and Suhrab, Story of, <ref target="p118">118</ref> seq.</p>
+<p>loses Rakhsh, <ref target="p121">121</ref></p>
+<p>Afrasiyab’s plot against, <ref target="p129">129</ref></p>
+<p>holds a drinking-bout, <ref target="p141">141</ref></p>
+<p>quarrels with Kai Kaus, <ref target="p142">142</ref></p>
+
+<p>reconciled by Gudarz, <ref target="p144">144</ref> seq.</p>
+
+<p>goes in disguise to see Suhrab, <ref target="p149">149</ref></p>
+
+<p>his adventure with Zhanda Razm, <ref target="p149">149</ref> seq.</p>
+
+<p>his account of Suhrab, <ref target="p151">151</ref>, <ref target="p166">166</ref></p>
+
+<p>his encampment described, <ref target="p154">154</ref></p>
+
+<p>armed by Tus, Giv, and Ruhham for his fight with Suhrab, <ref target="p160">160</ref></p>
+
+<p>challenges Suhrab, <ref target="p161">161</ref></p>
+
+<p>his charge to Zawara, <ref target="p167">167</ref></p>
+
+<p>declines Suhrab’s advances, <ref target="p169">169</ref></p>
+
+<p>saves his life by a ruse, <ref target="p170">170</ref></p>
+
+<p>prays that his strength may be restored, <ref target="p171">171</ref></p>
+
+<p>learns too late that Suhrab is his son, <ref target="p173">173</ref></p>
+
+<p>his grief, <ref target="p173">173</ref> seq.</p>
+
+<p>makes a truce with Human, <ref target="p176">176</ref></p>
+
+<p>tries to slay Hajir, <ref target="p176">176</ref></p>
+
+<p>tries to slay himself, <ref target="p177">177</ref></p>
+
+<p>brings up Siyawush, <ref target="p196">196</ref></p>
+
+<p>marches with him against Afrasiyab, <ref target="p225">225</ref> seq.</p>
+
+<p>returns and quarrels with Kai Kaus, <ref target="p242">242</ref> seq.</p>
+
+<p>his grief and wrath at the death of Siyawush, <ref target="p338">338</ref> seq.</p>
+
+<p>puts Surkha to death, <ref target="p346">346</ref></p>
+
+<p>fights with the Turanians, <ref target="p349">349</ref> seq.</p>
+
+<p>appoints Tus ruler of Chach, <ref target="p358">358</ref></p>
+
+<p>appoints Gudarz ruler of Sughd and Sipanjab, <ref target="p358">358</ref></p>
+
+<p>his daughter, <ref target="p383">383</ref>, <ref target="p384">384</ref></p>
+
+<p>his wife, <ref target="p384">384</ref></p>
+
+<p>hears of Kai Khusrau’s arrival in Iran, <ref target="p395">395</ref></p>
+
+<p>Rustam and Suhrab, Matthew Arnold’s, <ref target="p118">118</ref></p>
+
+
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="S">
+<div type="textpart"><head><placeName>Sagsar</placeName></head> <p>district, <ref target="p143">143</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Saklab</placeName></head> <p>country (Slavonia), <ref target="p360">360</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Salm</persName></head> <p>eldest son of Faridun, <ref target="p19">19</ref>, <ref target="p237">237</ref>, <ref target="p318">318</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Sam</persName></head> <p>Iranian hero, father of Zal, <ref target="p16">16</ref>, 17; <ref target="p33">33</ref>, <ref target="p34">34</ref>, <ref target="p49">49</ref>, <ref target="p125">125</ref>, <ref target="p126">126</ref>, <ref target="p137">137</ref>, <ref target="p140">140</ref>, <ref target="p173">173</ref>, <ref target="p182">182</ref>, <ref target="p183">183</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Samangan</placeName></head> <p>city in Turan, vi, <ref target="p118">118</ref>,</p>
+<p>121 seq., <ref target="p130">130</ref>, <ref target="p140">140</ref></p>
+<p>king of, vi, <ref target="p118">118</ref>, <ref target="p140">140</ref>, <ref target="p184">184</ref></p>
+<p>entertains Rustam, <ref target="p122">122</ref></p>
+<p>father of Zhanda Razm, <ref target="p150">150</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Samarkand</placeName></head> <p>city (Sughd), <ref target="p241">241</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Sanja</rs></head> <p>a div, <ref target="p39">39</ref>, <ref target="p40">40</ref>, <ref target="p44">44</ref>, <ref target="p55">55</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sarakhs</placeName></head> <p>city, <ref target="p108">108</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Saruch</placeName></head> <p>desert, <ref target="p226">226</ref></p>
+
+</div>
+
+<div type="textpart"><head>Sasanian dynasty</head> <p><ref target="p10">10</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Saturn</rs></head> <p>planet, <ref target="p183">183</ref>, <ref target="p208">208</ref>, <ref target="p215">215</ref>, <ref target="p247">247</ref>, <ref target="p263">263</ref>, <ref target="p310">310</ref>, <ref target="p319">319</ref>, <ref target="p394">394</ref>, <ref target="p407">407</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Seleucia</placeName></head> <p>city, on the Tigris, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Semiramis</persName></head> <p><ref target="p10">10</ref></p>
+
+</div>
+
+<div type="textpart"><head>Seven climes</head> <p>the, <ref target="p15">15</ref> note, <ref target="p372">372</ref></p>
+
+</div>
+
+<div type="textpart"><head>Seven Courses of Rustam</head> <p>v. <ref target="p44">44</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head>Seven Warriors</head> <p>Fight of the, vi, <ref target="p25">25</ref>, <ref target="p82">82</ref>, <ref target="p107">107</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Shah</placeName></head> <p>city in Hamavaran, <ref target="p89">89</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Shahd</placeName></head> <p>river, <ref target="p108">108</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Shahnama</persName></head> <p>editions of, <ref target="p5">5</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Shahr-Banu-Iram</persName></head> <p>Giv’s sister and Rustam’s wife, <ref target="p384">384</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Sham</persName></head> <p>(Syria), <ref target="p80">80</ref>, <ref target="p84">84</ref></p>
+<p>king of, taken prisoner by Rustam, <ref target="p97">97</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Shamasas</persName></head> <p>Turanian hero, <ref target="p12">12</ref>, <ref target="p18">18</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Shapur</persName></head> <p>Iranian hero, <ref target="p271">271</ref>, <ref target="p338">338</ref>, <ref target="p340">340</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Shawaran</persName></head> <p>Iranian hero, <ref target="p73">73</ref>, <ref target="p90">90</ref>, <ref target="p111">111</ref> <ref target="p228">228</ref>, <ref target="p249">249</ref>, <ref target="p250">250</ref>, <ref target="p255">255</ref>, <ref target="p271">271</ref>, <ref target="p318">318</ref></p>
+
+</div>
+
+<div type="textpart"><head>Shepherds</head> <p>Kai Khusrau brought up by, <ref target="p328">328</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Shidush</persName></head> <p>Iranian hero, <ref target="p58">58</ref>, <ref target="p85">85</ref>, <ref target="p158">158</ref>, <ref target="p340">340</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sigz</placeName></head> <p>man of (Rustam), <ref target="p100">100</ref> and note</p>
+
+
+
+
+</div>
+
+<div type="textpart"><head><placeName>Sind</placeName></head> <p>river (the Indus), <ref target="p285">285</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Sipahram</persName></head> <p>Turanian hero, <ref target="p228">228</ref>, <ref target="p229">229</ref>, <ref target="p388">388</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sipand</placeName></head> <p>mountain (White Castle), <ref target="p118">118</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sipanjab</placeName></head> <p>region, <ref target="p241">241</ref>, <ref target="p342">342</ref>, <ref target="p344">344</ref>, <ref target="p345">345</ref>, <ref target="p358">358</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sistan</placeName></head> <p>country<note>See vol. i. p. <ref target="p396">396</ref> note</note> <ref target="p80">80</ref>, <ref target="p335">335</ref>, <ref target="p365">365</ref></p>
+<p>Siyawush, son of Kai Kaus, vii seq., <ref target="p25">25</ref>, <ref target="p104">104</ref> note, <ref target="p187">187</ref> seq., <ref target="p335">335</ref>, <ref target="p338">338</ref> seq., <ref target="p346">346</ref> seq., <ref target="p363">363</ref> <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p374">374</ref> seq., <ref target="p383">383</ref>, <ref target="p386">386</ref>, <ref target="p388">388</ref>, <ref target="p396">396</ref>, <ref target="p403">403</ref>, <ref target="p411">411</ref></p>
+<p>his mother, vii</p>
+<p>story of, <ref target="p188">188</ref> seq.</p>
+<p>prelude to, <ref target="p191">191</ref></p>
+<p>good example of Firdausi’s method, <ref target="p188">188</ref></p>
+<p>identical with Cambyses, the father of Cyrus, in legend, <ref target="p191">191</ref></p>
+<p>adventure of the mother of, <ref target="p193">193</ref></p>
+<p>destined to misfortune from birth, <ref target="p196">196</ref></p>
+<p>brought up by Rustam, <ref target="p196">196</ref></p>
+<p>returns to court, <ref target="p197">197</ref></p>
+<p>made ruler of Kuhistan, <ref target="p199">199</ref></p>
+<p>mourns for his mother’s death, <ref target="p199">199</ref></p>
+<p>his temptation by Sudaba, <ref target="p200">200</ref> seq.</p>
+<p>marches against Afrasiyab, <ref target="p225">225</ref> seq.</p>
+<p>demands hostages of Afrasiyab, <ref target="p239">239</ref> seq.</p>
+<p>goes over to Afrasiyab, <ref target="p258">258</ref> seq.</p>
+<p>plays at polo with Afrasiyab, <ref target="p264">264</ref></p>
+<p>his archery, <ref target="p266">266</ref>, <ref target="p293">293</ref></p>
+<p>his marriage with Jarira, <ref target="p268">268</ref> seq.</p>
+<p>his marriage with Farangis, <ref target="p270">270</ref> seq,</p>
+<p>entertained by Piran, <ref target="p278">278</ref></p>
+<p>builds cities, <ref target="p278">278</ref> seq. </p>
+<p>foretells the future to Piran, <ref target="p282">282</ref> seq.</p>
+<p>entertains Piran, <ref target="p287">287</ref></p>
+<p>entertains Garsiwaz, <ref target="p290">290</ref> seq.</p>
+<p>plays at polo with Garsiwaz, <ref target="p292">292</ref></p>
+<p>challenged by Garsiwaz, <ref target="p294">294</ref></p>
+<p>overthrows Gurwi and Damur, <ref target="p295">295</ref></p>
+<p>slandered by Garsiwaz to Afrasiyab, <ref target="p296">296</ref> seq.</p>
+<p>summoned to court by Afrasiyab, <ref target="p300">300</ref> seq.</p>
+<p>betrayed by Garsiwaz, <ref target="p301">301</ref> seq.</p>
+<p>excuses himself from going to court, <ref target="p306">306</ref></p>
+<p>his passion, <ref target="p307">307</ref> seq. foretells the future to Farangis, <ref target="p310">310</ref></p>
+
+<p>charges and turns loose Bihzad, <ref target="p312">312</ref></p>
+<p>attacked and taken by Afrasiyab, <ref target="p314">314</ref></p>
+<p>his execution, <ref target="p320">320</ref></p>
+<p>Blood of (plant), <ref target="p321">321</ref></p>
+
+</div>
+
+<div type="textpart"><head>Siyawush2</head> <p>wild duck, <ref target="p104">104</ref> note</p>
+
+</div>
+
+<div type="textpart"><head><persName>Siyavakhsh</persName></head> <p>(Siyawush) <ref target="p82">82</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Syavashana</persName></head> <p>(Siyawush), <ref target="p189">189</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Siyawushgird</placeName></head> <p>city, viii, ix, <ref target="p301">301</ref>, <ref target="p314">314</ref>, <ref target="p373">373</ref></p>
+<p>building and description of, <ref target="p285">285</ref> seq.</p>
+<p>becomes the home of Kai Khusrau, <ref target="p333">333</ref></p>
+
+</div>
+
+<div type="textpart"><head><title>Suhrab and Rustam</title></head> <p>Matthew Arnold’s, <ref target="p118">118</ref></p>
+
+</div>
+
+<div type="textpart"><head>Song of a div</head> <p><ref target="p31">31</ref></p>
+
+</div>
+
+<div type="textpart"><head>Song of Rustam</head> <p><ref target="p51">51</ref></p>
+
+</div>
+
+<div type="textpart"><head>Sorceress</head> <p>Sudaba and a, vii, <ref target="p214">214</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Spendyad</placeName></head> <p>mountain, <ref target="p118">118</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Spentodata</placeName></head> <p>mountain, <ref target="p118">118</ref></p>
+
+</div>
+
+<div type="textpart"><head>Stages</head> <p>the Seven, of Asfandiyar, <ref target="p29">29</ref></p>
+
+</div>
+
+<div type="textpart"><head>Stone</head> <p>the Black, <ref target="p163">163</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head>Strength</head> <p>handgrip as test of, <ref target="p64">64</ref>, <ref target="p66">66</ref>, <ref target="p67">67</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Sudaba</persName></head> <p>daughter of the king of Hamavaran and wife of Kai Kaus, vi, vii, ix, <ref target="p79">79</ref>, <ref target="p86">86</ref> seq., <ref target="p91">91</ref>, <ref target="p188">188</ref>, <ref target="p189">189</ref>, <ref target="p200">200</ref> seq., <ref target="p225">225</ref>, <ref target="p249">249</ref>, <ref target="p2575">2575</ref> <ref target="p335">335</ref>, <ref target="p339">339</ref></p>
+<p>description of, <ref target="p86">86</ref></p>
+<p>marries Kai Kaus, <ref target="p88">88</ref></p>
+<p>imprisoned with him by her father, <ref target="p91">91</ref></p>
+<p>released by Rustam, <ref target="p97">97</ref></p>
+<p>her temptation of Siyawush, <ref target="p200">200</ref> seq.</p>
+<p>slain by Rustam, <ref target="p340">340</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Sughd</placeName></head> <p>district and city (Samarkand), <ref target="p230">230</ref>, <ref target="p232">232</ref>, <ref target="p237">237</ref>, <ref target="p241">241</ref>, <ref target="p249">249</ref>, <ref target="p358">358</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Suhrab</persName></head> <p>son of Rustam and Tahmina, vi, vii, <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head>Story of Suhrab</head> <p><ref target="p118">118</ref> seq.</p>
+<p>purely episodic, <ref target="p118">118</ref></p>
+<p>Prelude to, <ref target="p119">119</ref></p>
+<p>Sir John Malcolm’s version of, <ref target="p118">118</ref></p>
+<p>Matthew Arnold’s version of, <ref target="p118">118</ref></p>
+<p>his lament for the loss of Gurdafrid, <ref target="p119">119</ref> note questions his mother as to his father, <ref target="p126">126</ref></p>
+<p>his charger sired by Rakhsh, <ref target="p128">128</ref></p>
+<p>Afrasiyab’s plot against, <ref target="p129">129</ref></p>
+<p>gifts to, <ref target="p130">130</ref></p>
+<p>invades Iran, <ref target="p130">130</ref></p>
+<p>takes Hajir prisoner, <ref target="p131">131</ref></p>
+<p>beguiled by Gurdafrid, <ref target="p133">133</ref></p>
+<p>described by Gazhdaham, <ref target="p136">136</ref></p>
+<p>sees from White Castle the Iranian host advancing, <ref target="p148">148</ref></p>
+<p>seen, while feasting, by Rustam, <ref target="p150">150</ref></p>
+<p>hears of the death of Zhanda Razm, <ref target="p151">151</ref></p>
+<p>misled by Hajir, <ref target="p152">152</ref> seq.</p>
+<p>overthrows the camp-enclosure of Kaus, <ref target="p160">160</ref></p>
+<p>challenged by Rustam, <ref target="p161">161</ref></p>
+<p>his account of Rustam, <ref target="p154">154</ref>, <ref target="p169">169</ref></p>
+<p>his advances to Rustam, <ref target="p169">169</ref></p>
+<p>spares Rustam’s life, <ref target="p170">170</ref></p>
+
+<p>again encounters Rustam, <ref target="p172">172</ref></p>
+<p>makes himself known to Rustam, <ref target="p173">173</ref></p>
+<p>his last requests to Rustam, <ref target="p175">175</ref></p>
+<p>the mourning for, <ref target="p182">182</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Surkha</persName></head> <p>son of Afrasiyab, ix, <ref target="p344">344</ref> seq.</p>
+<p>taken prisoner by Faramarz, <ref target="p345">345</ref></p>
+<p>death of, <ref target="p347">347</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Surush</rs></head> <p>angel, <ref target="p288">288</ref>, <ref target="p289">289</ref>, <ref target="p364">364</ref>, <ref target="p408">408</ref></p>
+<p>appears to Gudarz in a dream, <ref target="p363">363</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Syria</placeName></head> <p>(Sham), <ref target="p80">80</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="T">
+<div type="textpart"><head><persName>Tahmasp</persName></head> <p>father of Zav, <ref target="p11">11</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Tahmina</persName></head> <p>mother of Subrab, vi, <ref target="p118">118</ref></p>
+<p>her precautions for her son’s safety, <ref target="p127">127</ref>, <ref target="p140">140</ref>, <ref target="p149">149</ref></p>
+<p>her mourning for Suhrab, <ref target="p184">184</ref> seq,</p>
+<p>her death, <ref target="p186">186</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Tahmuras</persName></head> <p>Shah, <ref target="p168">168</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Talikan</placeName></head> <p>city, <ref target="p228">228</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Taraz</placeName></head> <p>city and district, <ref target="p123">123</ref></p>
+<p>Idols of, <ref target="p123">123</ref>, <ref target="p206">206</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Tihran</placeName></head> <p>city, <ref target="p28">28</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Tirmid</placeName></head> <p>place where the route from Balkh to Samarkand crosses the Oxus (Jihun), <ref target="p229">229</ref>, <ref target="p258">258</ref></p>
+
+</div>
+
+<div type="textpart"><head>Tollman</head> <p>Giv and the, x, <ref target="p390">390</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Thraetaona</persName></head> <p>(Faridun), <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Tur</persName></head> <p>second son of Faridun, <ref target="p8">8</ref>, <ref target="p17">17</ref>, <ref target="p19">19</ref>, <ref target="p99">99</ref>, <ref target="p237">237</ref>, <ref target="p262">262</ref>, <ref target="p297">297</ref>, <ref target="p302">302</ref>, <ref target="p303">303</ref>, <ref target="p318">318</ref>, <ref target="p327">327</ref>, <ref target="p363">363</ref>, <ref target="p390">390</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Turan1</placeName></head> <p>v, ix, <ref target="p9">9</ref>, <ref target="p18">18</ref>, <ref target="p25">25</ref>, <ref target="p79">79</ref>, <ref target="p82">82</ref>, <ref target="p101">101</ref>, <ref target="p112">112</ref>, and passim</p>
+
+</div>
+
+<div type="textpart"><head><persName>Turan2</persName></head> <p>king of Chin and (Afrasiyab), <ref target="p99">99</ref></p>
+
+<p>host of, <ref target="p110">110</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Turanians</rs></head> <p>(Turkmans), the, vi, <ref target="p11">11</ref>, <ref target="p81">81</ref>, <ref target="p265">265</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>Turkestan</placeName></head> <p><ref target="p19">19</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Turkmans</rs></head> <p>(Turanians), the, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p15">15</ref>, <ref target="p92">92</ref>, <ref target="p100">100</ref> and passim</p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Tus</persName></head> <p>son of Naudar, x, <ref target="p33">33</ref>, <ref target="p35">35</ref>, <ref target="p38">38</ref>, <ref target="p58">58</ref>, <ref target="p62">62</ref>, <ref target="p70">70</ref>, <ref target="p73">73</ref>, <ref target="p85">85</ref>, <ref target="p90">90</ref>, <ref target="p91">91</ref>, <ref target="p127">127</ref>, <ref target="p138">138</ref>, <ref target="p142">142</ref>, <ref target="p143">143</ref>, <ref target="p148">148</ref>, <ref target="p177">177</ref>, <ref target="p188">188</ref>, <ref target="p193">193</ref>, <ref target="p197">197</ref>, <ref target="p199">199</ref>, <ref target="p226">226</ref>, <ref target="p257">257</ref>, <ref target="p316">316</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p338">338</ref>, <ref target="p349">349</ref>, <ref target="p349">349</ref>, <ref target="p353">353</ref> seq., <ref target="p371">371</ref>, <ref target="p383">383</ref>, <ref target="p394">394</ref></p>
+
+<p>appointed captain of the host, <ref target="p73">73</ref></p>
+
+<p>taken prisoner in Hamavaran, <ref target="p90">90</ref></p>
+
+<p>released by Rustam, <ref target="p97">97</ref></p>
+
+<p>goes in search of Kai Kaus, <ref target="p104">104</ref></p>
+
+<p>engaged in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+
+<p>commanded by Kaus to hang Rustam and Giv, <ref target="p143">143</ref></p>
+
+<p>his encampment described, <ref target="p153">153</ref> </p>
+
+<p>summons Rustam to fight Suhrab and helps to saddle Rakhsh, <ref target="p160">160</ref></p>
+
+<p>quarrels with Giv over the future mother of Siyawush, <ref target="p194">194</ref></p>
+
+<p>supersedes Siyawush, <ref target="p246">246</ref> seq.</p>
+
+<p>leads the host home, <ref target="p258">258</ref></p>
+
+<p>intercedes for Surkha, <ref target="p347">347</ref></p>
+
+<p>is worsted in fight by Afrasiyab, <ref target="p353">353</ref></p>
+
+<p>appointed <ref target="p358">358</ref></p>
+
+<p>returns to l'Iran, <ref target="p362">362</ref></p>
+
+<p>his dispute with Gudarz over Kai Khusrau, <ref target="p400">400</ref> séq,</p>
+
+<p>advocates the claims of Fariburz, <ref target="p401">401</ref></p>
+
+<p>asks pardon of Khusrau, <ref target="p410">410</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Tuwurg</persName></head> <p>Turanian hero, <ref target="p253">253</ref></p>
+
+
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="U">
+<div type="textpart"><head><rs type="divinity">Ulad</rs></head> <p>a div, v, <ref target="p28">28</ref>, <ref target="p52">52</ref> seq., <ref target="p59">59</ref>, <ref target="p61">61</ref></p>
+<p>made king of Mazandaran, <ref target="p76">76</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Urmuzd</rs></head> <p>the Good Principle, $2</p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="V">
+<div type="textpart"><head><title>Vedas</title></head> <p><ref target="p8">8</ref>, <ref target="p11">11</ref>, <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="heavenlybody">Venus</rs></head> <p>planet, <ref target="p115">115</ref>, <ref target="p275">275</ref>, <ref target="p345">345</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="bird">Verethraghna</rs></head> <p>the raven, <ref target="p25">25</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Vritra</rs></head> <p>demon, <ref target="p25">25</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="W">
+<div type="textpart"><head><persName>Warazad</persName></head> <p>king of Sipanjab, ix, <ref target="p341">341</ref> seq, <ref target="p346">346</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Warriors</head> <p>the Seven, Story of the Fight of, vi, <ref target="p25">25</ref>, <ref target="p82">82</ref>, <ref target="p107">107</ref> seq.</p>
+
+
+</div>
+
+<div type="textpart"><head><placeName>White Castle</placeName></head> <p>Iranian stronghold, vii, <ref target="p118">118</ref>, <ref target="p131">131</ref>, <ref target="p138">138</ref></p>
+
+<p>evacuated by Gazhdaham, <ref target="p137">137</ref></p>
+
+
+</div>
+
+<div type="textpart"><head><persName>Wisa</persName></head> <p>Turanian hero, <ref target="p112">112</ref>, <ref target="p354">354</ref></p>
+
+
+</div>
+
+<div type="textpart"><head>Witch</head> <p>v, <ref target="p50">50</ref></p>
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="Y">
+<div type="textpart"><head><placeName>Yaman</placeName></head> <p>country (Hamavaran), <ref target="p80">80</ref></p>
+
+<p>carnelians of, <ref target="p123">123</ref></p>
+
+<p>Canopus of, <ref target="p203">203</ref></p>
+
+
+
+</div>
+</div>
+<div type="textpart" subtype="letter" n="Z">
+<div type="textpart"><head><placeName>Zabul, Zabulistan</placeName></head> <p>country, vii, <ref target="p21">21</ref>, <ref target="p28">28</ref>, <ref target="p42">42</ref>, <ref target="p61">61</ref>, <ref target="p83">83</ref>, <ref target="p92">92</ref>, <ref target="p126">126</ref>, ' <ref target="p138">138</ref>, <ref target="p141">141</ref>, <ref target="p142">142</ref>, <ref target="p156">156</ref>, <ref target="p168">168</ref>, <ref target="p227">227</ref>, <ref target="p228">228</ref>, <ref target="p245">245</ref>, <ref target="p260">260</ref>, <ref target="p338">338</ref>, <ref target="p362">362</ref>, <ref target="p363">363</ref></p>
+<p>vintage of, <ref target="p110">110</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Zahhak</persName></head> <p>Shah, <ref target="p33">33</ref>, <ref target="p81">81</ref>, <ref target="p318">318</ref></p>
+<p>saying of, <ref target="p171">171</ref> and note</p>
+
+</div>
+
+<div type="textpart"><head><persName>Zainigau</persName></head> <p><ref target="p81">81</ref> </p>
+
+
+
+</div>
+
+<div type="textpart"><head><persName>Zal</persName></head> <p>father of Rustam, v, <ref target="p11">11</ref> seq., <ref target="p18">18</ref>, <ref target="p19">19</ref>, <ref target="p21">21</ref>, <ref target="p33">33</ref> seq. <ref target="p49">49</ref>, <ref target="p58">58</ref>, <ref target="p61">61</ref>, <ref target="p62">62</ref>, <ref target="p69">69</ref>, <ref target="p77">77</ref>, <ref target="p140">140</ref>, <ref target="p168">168</ref>, <ref target="p169">169</ref>, <ref target="p180">180</ref>, <ref target="p182">182</ref>, <ref target="p227">227</ref>, <ref target="p228">228</ref>, <ref target="p271">271</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p338">338</ref>, <ref target="p362">362</ref>, <ref target="p371">371</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Zam</placeName></head> <p>city and river, <ref target="p97">97</ref>, <ref target="p394">394</ref>, <ref target="p395">395</ref></p>
+
+</div>
+
+<div type="textpart"><head><title>Zandavasta</title></head> <p><ref target="p8">8</ref>, <ref target="p25">25</ref> seq., <ref target="p81">81</ref>, <ref target="p118">118</ref>, <ref target="p189">189</ref>, <ref target="p190">190</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Zanga</persName></head> <p>Iranian hero, viii, <ref target="p73">73</ref>, <ref target="p90">90</ref>, <ref target="p228">228</ref>, <ref target="p249">249</ref>, <ref target="p271">271</ref>, <ref target="p318">318</ref></p>
+<p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
+<p>accompanies Siyawush against Afrasiyab, <ref target="p226">226</ref></p>
+<p>sent on embassy to Afrasiyab, <ref target="p250">250</ref> seq.</p>
+
+</div>
+
+<div type="textpart"><head><persName>Zav</persName></head> <p>Shah, <ref target="p11">11</ref>, <ref target="p36">36</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Zawara</persName></head> <p>brother of Rustam, ix, <ref target="p96">96</ref>, <ref target="p228">228</ref>, <ref target="p347">347</ref>, <ref target="p349">349</ref></p>
+<p>engaged in the Fight of the Seven Warriors, <ref target="p110">110</ref> seq.</p>
+<p>made leader of Rustam’s host, <ref target="p142">142</ref></p>
+<p>left in charge of Rustam’s host, <ref target="p161">161</ref></p>
+<p>goes on embassy to Human, <ref target="p176">176</ref></p>
+<p>safe-conducts Human from Turan, <ref target="p176">176</ref>, <ref target="p181">181</ref>, <ref target="p182">182</ref></p>
+<p>incites Rustam to avenge Siyawush, <ref target="p360">360</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Zhanda Razm</persName></head> <p>maternal uncle of Suhrab, vii, <ref target="p149">149</ref> seq., <ref target="p160">160</ref></p>
+
+</div>
+
+<div type="textpart"><head><rs type="divinity">Zinigav</rs></head> <p>demon, <ref target="p81">81</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Zira</persName></head> <p>Turanian hero, <ref target="p295">295</ref>, <ref target="p314">314</ref></p>
+
+</div>
+
+<div type="textpart"><head><placeName>Zirih</placeName></head> <p>sea or lake, <ref target="p80">80</ref></p>
+
+</div>
+
+<div type="textpart"><head>Zu'lfakar</head> <p><ref target="p337">337</ref> and note</p>
+
+
+
+</div>
+</div>
+</body>
+</text>
+</TEI>
+
