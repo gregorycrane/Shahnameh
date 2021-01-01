@@ -76,7 +76,7 @@
     <text>
         <body>
 <div type="textpart" subtype="letter" n="A">
-<div type="textpart"><head>Abu Raihan Muhammad</head> <p>. See Albiruni</p>
+<div type="textpart"><head><persName>Abu Raihan Muhammad</persName></head> <p>. See Albiruni</p>
 
 </div>
 
@@ -726,8 +726,7 @@
 </div>
 
 <div type="textpart"><head><persName>Garsiwaz</persName></head> <p>brother of Afrasiyab, viii, <ref target="p188">188</ref>, <ref target="p189">189</ref>, <ref target="p193">193</ref>, <ref target="p195">195</ref>, <ref target="p228">228</ref>, <ref target="p231">231</ref> seq., <ref target="p249">249</ref>, <ref target="p253">253</ref>, <ref target="p264">264</ref>, <ref target="p268">268</ref>, <ref target="p269">269</ref>, <ref target="p286">286</ref>, <ref target="p289">289</ref> seq., <ref target="p313">313</ref> seq.</p>
-<p>defeated by Siyawush, <ref target="p229">229</ref></p>
-<p>seq.</p>
+<p>defeated by Siyawush, <ref target="p229">229</ref> seq.</p>
 <p>sues for peace to Siyawush, <ref target="p237">237</ref> seq.</p>
 <p>fails to string the bow of Siyawush, <ref target="p266">266</ref></p>
 <p>visits Siyawush, <ref target="p289">289</ref> seq.</p>
@@ -784,7 +783,7 @@
 <p>released by Rustam, <ref target="p97">97</ref></p>
 <p>goes in search of Kai Kaus,104</p>
 <p>takes part in the Fight of the Seven Warriors, <ref target="p107">107</ref> seq.</p>
-<p>bears letter from Kéds to Rustam, <ref target="p139">139</ref></p>
+<p>bears letter from Kaus to Rustam, <ref target="p139">139</ref></p>
 <p>his encampment described, <ref target="p155">155</ref></p>
 <p>son-in-law of Rustam, <ref target="p155">155</ref></p>
 <p>helps to saddle Rakhsh for the fight with Suhrab, <ref target="p160">160</ref></p>
@@ -798,7 +797,7 @@
 <p>tells how he captured Piran’s wife and sister, <ref target="p383">383</ref></p>
 <p>his wife, <ref target="p384">384</ref></p>
 <p>his sister, <ref target="p384">384</ref></p>
-<p>overthrows Piran and his host, <ref target="p385">385</ref> 2D</p>
+<p>overthrows Piran and his host, <ref target="p385">385</ref></p>
 <p>releases Piran, <ref target="p387">387</ref></p>
 <p>at the Jihun, <ref target="p391">391</ref> seq.</p>
 <p>announces Kai Khusrau's arrival in Iran, <ref target="p394">394</ref></p>
@@ -817,9 +816,7 @@
 
 </div>
 
-<div type="textpart"><head><rs type="ethnic">Grace</rs></head> <p>or Glory, the divine, <ref target="p81">81</ref>, <ref target="p82">82</ref>, <ref target="p90">90</ref>, <ref target="p99">99</ref>, <ref target="p101">101</ref>, <ref target="p102">102</ref>, <ref target="p106">106</ref>, <ref target="p207">207</ref>, 209; <ref target="p265">265</ref>, <ref target="p283">283</ref>, <ref target="p289">289</ref>, <ref target="p302">302</ref>, <ref target="p327">327</ref>, <ref target="p356">356</ref>, <ref target="p358">358</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref>.</p>
-
-<p>seq., <ref target="p382">382</ref>, <ref target="p386">386</ref>, <ref target="p392">392</ref>, <ref target="p399">399</ref>, <ref target="p401">401</ref> seq., <ref target="p407">407</ref> seq.</p>
+<div type="textpart"><head><rs type="ethnic">Grace</rs></head> <p>or Glory, the divine, <ref target="p81">81</ref>, <ref target="p82">82</ref>, <ref target="p90">90</ref>, <ref target="p99">99</ref>, <ref target="p101">101</ref>, <ref target="p102">102</ref>, <ref target="p106">106</ref>, <ref target="p207">207</ref>, 209; <ref target="p265">265</ref>, <ref target="p283">283</ref>, <ref target="p289">289</ref>, <ref target="p302">302</ref>, <ref target="p327">327</ref>, <ref target="p356">356</ref>, <ref target="p358">358</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref> seq., <ref target="p382">382</ref>, <ref target="p386">386</ref>, <ref target="p392">392</ref>, <ref target="p399">399</ref>, <ref target="p401">401</ref> seq., <ref target="p407">407</ref> seq.</p>
 
 
 </div>
@@ -931,7 +928,8 @@
 </div>
 
 <div type="textpart"><head><placeName>Hamavaran</placeName></head> <p>country (Yaman), vi, <ref target="p25">25</ref>, <ref target="p78">78</ref> seq., <ref target="p93">93</ref>, <ref target="p94">94</ref>, <ref target="p96">96</ref> seq., <ref target="p139">139</ref>, <ref target="p143">143</ref> seq., <ref target="p213">213</ref>, <ref target="p215">215</ref>, <ref target="p218">218</ref>, <ref target="p250">250</ref></p>
-<p>king of, vi, <ref target="p85">85</ref> seq., <ref target="p93">93</ref>, <ref target="p207">207</ref> and note asks quarter of Rustam, <ref target="p97">97</ref></p>
+<p>king of, vi, <ref target="p85">85</ref> seq., <ref target="p93">93</ref>, <ref target="p207">207</ref> and note</p>
+<p>asks quarter of Rustam, <ref target="p97">97</ref></p>
 <p>releases Kai Kaus, <ref target="p97">97</ref></p>
 
 
@@ -1075,7 +1073,7 @@
 </div>
 </div>
 <div type="textpart" subtype="letter" n="J">
-<div type="textpart"><head><persName>JAHN</persName></head> <p>son of Afrasiyab, <ref target="p264">264</ref>, <ref target="p268">268</ref></p>
+<div type="textpart"><head><persName>Jahn</persName></head> <p>son of Afrasiyab, <ref target="p264">264</ref>, <ref target="p268">268</ref></p>
 
 </div>
 
@@ -1089,8 +1087,7 @@
 
 </div>
 
-<div type="textpart"><head><placeName>Jihun</placeName></head> <p>river (the Oxus), x, <ref target="p15">15</ref>, <ref target="p19">19</ref></p>
-<p>seq., <ref target="p99">99</ref>, <ref target="p229">229</ref>, <ref target="p237">237</ref>, <ref target="p248">248</ref>, <ref target="p258">258</ref>, <ref target="p311">311</ref>, <ref target="p340">340</ref>, <ref target="p390">390</ref>, <ref target="p394">394</ref>, <ref target="p399">399</ref>, <ref target="p404">404</ref></p>
+<div type="textpart"><head><placeName>Jihun</placeName></head> <p>river (the Oxus), x, <ref target="p15">15</ref>, <ref target="p19">19</ref> seq., <ref target="p99">99</ref>, <ref target="p229">229</ref>, <ref target="p237">237</ref>, <ref target="p248">248</ref>, <ref target="p258">258</ref>, <ref target="p311">311</ref>, <ref target="p340">340</ref>, <ref target="p390">390</ref>, <ref target="p394">394</ref>, <ref target="p399">399</ref>, <ref target="p404">404</ref></p>
 
 </div>
 
@@ -1151,7 +1148,7 @@
 
 </div>
 
-<div type="textpart"><head><persName>Kai Kaus</persName></head> <p>Shah, v seq., <ref target="p8">8</ref>, <ref target="p10">10</ref>, <ref target="p11">11</ref>, <ref target="p23">23</ref> seq., <ref target="p33">33</ref> seq., <ref target="p54">54</ref> seq., <ref target="p61">61</ref> seqq., <ref target="p109">109</ref>, <ref target="p110">110</ref>, <ref target="p117">117</ref>, <ref target="p127">127</ref>, <ref target="p129">129</ref>, <ref target="p130">130</ref>, <ref target="p233">233</ref>, <ref target="p243">243</ref> seq., <ref target="p264">264</ref>, <ref target="p269">269</ref> seq., <ref target="p273">273</ref>, <ref target="p284">284</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p296">296</ref>, <ref target="p301">301</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p347">347</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref>, <ref target="p383">383</ref>, <ref target="p401">401</ref></p>
+<div type="textpart"><head><persName>Kai Kaus</persName></head> <p>Shah, <persName>Kaus</persName>, v seq., <ref target="p8">8</ref>, <ref target="p10">10</ref>, <ref target="p11">11</ref>, <ref target="p23">23</ref> seq., <ref target="p33">33</ref> seq., <ref target="p54">54</ref> seq., <ref target="p61">61</ref> seqq., <ref target="p109">109</ref>, <ref target="p110">110</ref>, <ref target="p117">117</ref>, <ref target="p127">127</ref>, <ref target="p129">129</ref>, <ref target="p130">130</ref>, <ref target="p233">233</ref>, <ref target="p243">243</ref> seq., <ref target="p264">264</ref>, <ref target="p269">269</ref> seq., <ref target="p273">273</ref>, <ref target="p284">284</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p296">296</ref>, <ref target="p301">301</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p347">347</ref>, <ref target="p361">361</ref>, <ref target="p364">364</ref>, <ref target="p371">371</ref>, <ref target="p373">373</ref>, <ref target="p383">383</ref>, <ref target="p401">401</ref></p>
 
 <p>tempted by divs, <ref target="p30">30</ref> seq., <ref target="p81">81</ref>, <ref target="p102">102</ref></p>
 <p>goes to Mount Kaf, <ref target="p83">83</ref></p>
@@ -1205,7 +1202,8 @@
 <p>dwells at Siyawushgird, <ref target="p333">333</ref> —</p>
 
 <p>is sent to Khutan, <ref target="p356">356</ref></p>
-<p>Machin, <ref target="p357">357</ref> note described by Surush, <ref target="p363">363</ref></p>
+<p>Machin, <ref target="p357">357</ref> note</p>
+<p>described by Surush, <ref target="p363">363</ref></p>
 
 <p>Gudarz sends Giv to seek, <ref target="p364">364</ref> seq.</p>
 <p>recalled, <ref target="p370">370</ref></p>
@@ -1227,7 +1225,8 @@
 </div>
 
 <div type="textpart"><head><persName>Kai Kubad</persName></head> <p>Shah, v, <ref target="p8">8</ref>, <ref target="p11">11</ref>, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p16">16</ref>, <ref target="p18">18</ref> sey., <ref target="p26">26</ref>, <ref target="p33">33</ref>, <ref target="p34">34</ref>, <ref target="p36">36</ref>, <ref target="p37">37</ref>, <ref target="p87">87</ref>, <ref target="p143">143</ref>, <ref target="p144">144</ref>, <ref target="p249">249</ref>, <ref target="p260">260</ref>, <ref target="p270">270</ref>, <ref target="p274">274</ref>, <ref target="p327">327</ref>, <ref target="p336">336</ref>, <ref target="p363">363</ref>, <ref target="p390">390</ref>, <ref target="p394">394</ref></p>
-<p>his origin, <ref target="p11">11</ref> and note makes peace with Afrasiyab, <ref target="p20">20</ref></p>
+<p>his origin, <ref target="p11">11</ref> and note</p>
+<p>makes peace with Afrasiyab, <ref target="p20">20</ref></p>
 <p>his gifts to Zal and Rustam, <ref target="p21">21</ref></p>
 
 </div>
@@ -1620,8 +1619,7 @@
 
 </div>
 
-<div type="textpart"><head><persName>Pilsam</persName></head> <p>Turanian hero, vi, ix, <ref target="p112">112</ref> seq., <ref target="p320">320</ref>, <ref target="p323">323</ref> note, <ref target="p350">350</ref></p>
-<p>seq.</p>
+<div type="textpart"><head><persName>Pilsam</persName></head> <p>Turanian hero, vi, ix, <ref target="p112">112</ref> seq., <ref target="p320">320</ref>, <ref target="p323">323</ref> note, <ref target="p350">350</ref> seq.</p>
 <p>pleads for Siyawush, <ref target="p315">315</ref></p>
 <p>summons Piran to save Farangis, <ref target="p322">322</ref></p>
 
@@ -1776,8 +1774,7 @@
 
 </div>
 
-<div type="textpart"><head><persName>Rustam</persName></head> <p>Iranian hero, v seq., <ref target="p11">11</ref></p>
-<p>seq. <ref target="p18">18</ref>, <ref target="p21">21</ref>, <ref target="p25">25</ref>, <ref target="p34">34</ref>, <ref target="p35">35</ref>, <ref target="p42">42</ref> seq, <ref target="p79">79</ref>, <ref target="p92">92</ref> seq., <ref target="p188">188</ref>, <ref target="p236">236</ref>, <ref target="p237">237</ref>, <ref target="p271">271</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p311">311</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p344">344</ref> seq., <ref target="p349">349</ref> 8eq., <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p350">350</ref>, <ref target="p394">394</ref>, <ref target="p400">400</ref></p>
+<div type="textpart"><head><persName>Rustam</persName></head> <p>Iranian hero, v seq., <ref target="p11">11</ref> seq. <ref target="p18">18</ref>, <ref target="p21">21</ref>, <ref target="p25">25</ref>, <ref target="p34">34</ref>, <ref target="p35">35</ref>, <ref target="p42">42</ref> seq, <ref target="p79">79</ref>, <ref target="p92">92</ref> seq., <ref target="p188">188</ref>, <ref target="p236">236</ref>, <ref target="p237">237</ref>, <ref target="p271">271</ref>, <ref target="p286">286</ref>, <ref target="p290">290</ref>, <ref target="p311">311</ref>, <ref target="p316">316</ref>, <ref target="p318">318</ref>, <ref target="p319">319</ref>, <ref target="p335">335</ref>, <ref target="p344">344</ref> seq., <ref target="p349">349</ref> 8eq., <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p350">350</ref>, <ref target="p394">394</ref>, <ref target="p400">400</ref></p>
 <p>his first campaign, <ref target="p11">11</ref> seq.</p>
 <p>nearly takes Afrasiyab prisoner, <ref target="p14">14</ref>, <ref target="p116">116</ref>, <ref target="p354">354</ref></p>
 <p>rewarded by Kai Kubad, <ref target="p21">21</ref></p>
@@ -1932,7 +1929,7 @@
 
 </div>
 
-<div type="textpart"><head><placeName>Shah</placeName></head> <p>city in Hamavaran, <ref target="p89">89</ref></p>
+<div type="textpart"><head><placeName>Shaha</placeName></head> <p>city in Hamavaran, <ref target="p89">89</ref></p>
 
 </div>
 
@@ -1998,7 +1995,10 @@
 </div>
 
 <div type="textpart"><head><placeName>Sistan</placeName></head> <p>country<note>See vol. i. p. <ref target="p396">396</ref> note</note> <ref target="p80">80</ref>, <ref target="p335">335</ref>, <ref target="p365">365</ref></p>
-<p>Siyawush, son of Kai Kaus, vii seq., <ref target="p25">25</ref>, <ref target="p104">104</ref> note, <ref target="p187">187</ref> seq., <ref target="p335">335</ref>, <ref target="p338">338</ref> seq., <ref target="p346">346</ref> seq., <ref target="p363">363</ref> <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p374">374</ref> seq., <ref target="p383">383</ref>, <ref target="p386">386</ref>, <ref target="p388">388</ref>, <ref target="p396">396</ref>, <ref target="p403">403</ref>, <ref target="p411">411</ref></p>
+
+</div>
+
+<div type="textpart"><head><persName>Siyawush</persName></head> <p>son of Kai Kaus, vii seq., <ref target="p25">25</ref>, <ref target="p104">104</ref> note, <ref target="p187">187</ref> seq., <ref target="p335">335</ref>, <ref target="p338">338</ref> seq., <ref target="p346">346</ref> seq., <ref target="p363">363</ref> <ref target="p371">371</ref>, <ref target="p372">372</ref>, <ref target="p374">374</ref> seq., <ref target="p383">383</ref>, <ref target="p386">386</ref>, <ref target="p388">388</ref>, <ref target="p396">396</ref>, <ref target="p403">403</ref>, <ref target="p411">411</ref></p>
 <p>his mother, vii</p>
 <p>story of, <ref target="p188">188</ref> seq.</p>
 <p>prelude to, <ref target="p191">191</ref></p>
@@ -2116,7 +2116,8 @@
 <p>Prelude to, <ref target="p119">119</ref></p>
 <p>Sir John Malcolm’s version of, <ref target="p118">118</ref></p>
 <p>Matthew Arnold’s version of, <ref target="p118">118</ref></p>
-<p>his lament for the loss of Gurdafrid, <ref target="p119">119</ref> note questions his mother as to his father, <ref target="p126">126</ref></p>
+<p>his lament for the loss of Gurdafrid, <ref target="p119">119</ref> note</p>
+<p>questions his mother as to his father, <ref target="p126">126</ref></p>
 <p>his charger sired by Rakhsh, <ref target="p128">128</ref></p>
 <p>Afrasiyab’s plot against, <ref target="p129">129</ref></p>
 <p>gifts to, <ref target="p130">130</ref></p>
@@ -2201,18 +2202,15 @@
 
 </div>
 
-<div type="textpart"><head><placeName>Turan1</placeName></head> <p>v, ix, <ref target="p9">9</ref>, <ref target="p18">18</ref>, <ref target="p25">25</ref>, <ref target="p79">79</ref>, <ref target="p82">82</ref>, <ref target="p101">101</ref>, <ref target="p112">112</ref>, and passim</p>
+<div type="textpart"><head><placeName>Turan</placeName></head> <p>v, ix, <ref target="p9">9</ref>, <ref target="p18">18</ref>, <ref target="p25">25</ref>, <ref target="p79">79</ref>, <ref target="p82">82</ref>, <ref target="p101">101</ref>, <ref target="p112">112</ref>, and passim</p>
+<p>king of Chin and Turan (Afrasiyab), <ref target="p99">99</ref></p>
 
-</div>
-
-<div type="textpart"><head><persName>Turan2</persName></head> <p>king of Chin and (Afrasiyab), <ref target="p99">99</ref></p>
-
-<p>host of, <ref target="p110">110</ref></p>
+<p>army of, <ref target="p110">110</ref></p>
 
 
 </div>
 
-<div type="textpart"><head><rs type="ethnic">Turanians</rs></head> <p>(Turkmans), the, vi, <ref target="p11">11</ref>, <ref target="p81">81</ref>, <ref target="p265">265</ref></p>
+<div type="textpart"><head><rs type="ethnic">Turanians</rs></head> <p>(<rs type="ethnic">Turanians</rs>Turkmans</rs>), the, vi, <ref target="p11">11</ref>, <ref target="p81">81</ref>, <ref target="p265">265</ref></p>
 
 
 </div>
@@ -2222,7 +2220,7 @@
 
 </div>
 
-<div type="textpart"><head><rs type="ethnic">Turkmans</rs></head> <p>(Turanians), the, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p15">15</ref>, <ref target="p92">92</ref>, <ref target="p100">100</ref> and passim</p>
+<div type="textpart"><head><rs type="ethnic">Turkmans</rs></head> <p>(Turanians), <rs type="ethnic">Turkmans</rs>, the, <ref target="p12">12</ref>, <ref target="p14">14</ref>, <ref target="p15">15</ref>, <ref target="p92">92</ref>, <ref target="p100">100</ref> and passim</p>
 
 
 </div>
@@ -2340,7 +2338,7 @@
 </div>
 </div>
 <div type="textpart" subtype="letter" n="Z">
-<div type="textpart"><head><placeName>Zabul, Zabulistan</placeName></head> <p>country, vii, <ref target="p21">21</ref>, <ref target="p28">28</ref>, <ref target="p42">42</ref>, <ref target="p61">61</ref>, <ref target="p83">83</ref>, <ref target="p92">92</ref>, <ref target="p126">126</ref>, ' <ref target="p138">138</ref>, <ref target="p141">141</ref>, <ref target="p142">142</ref>, <ref target="p156">156</ref>, <ref target="p168">168</ref>, <ref target="p227">227</ref>, <ref target="p228">228</ref>, <ref target="p245">245</ref>, <ref target="p260">260</ref>, <ref target="p338">338</ref>, <ref target="p362">362</ref>, <ref target="p363">363</ref></p>
+<div type="textpart"><head><placeName>Zabul</placeName></head> <p><placeName>Zabulistan</placeName>, country, vii, <ref target="p21">21</ref>, <ref target="p28">28</ref>, <ref target="p42">42</ref>, <ref target="p61">61</ref>, <ref target="p83">83</ref>, <ref target="p92">92</ref>, <ref target="p126">126</ref>, ' <ref target="p138">138</ref>, <ref target="p141">141</ref>, <ref target="p142">142</ref>, <ref target="p156">156</ref>, <ref target="p168">168</ref>, <ref target="p227">227</ref>, <ref target="p228">228</ref>, <ref target="p245">245</ref>, <ref target="p260">260</ref>, <ref target="p338">338</ref>, <ref target="p362">362</ref>, <ref target="p363">363</ref></p>
 <p>vintage of, <ref target="p110">110</ref></p>
 
 </div>
