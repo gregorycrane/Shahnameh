@@ -73,15 +73,15 @@
     </teiHeader>
     <text>
         <body>
-<div type="textpart" n="KeiKaous">
+<div type="textpart" subtype="shah" n="KeiKaous">
 <pb n="1"/>
 
-<head>XII: kei Kaous</head>
+<head>XII: Keï Kaous</head>
 
-<div type="textpart" n="c2">
+<div type="textpart" subtype="part" n="2">
 <head>ii. expédition de Keï Kaous dans le Berberistan, et autres histoires.</head>
 
-<div type="textpart" n="s1">
+<div type="textpart" subtype="chapter" n="1">
 <head>guerre contre le roi du Hamaveran.</head>
 
 <p>Je vais conter ce que j'ai appris d'un Mobed et
@@ -245,7 +245,7 @@ petits.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="2">
 <head>Kaous demande en mariage Soudabeh, fille du roi du Hamaveran.</head>
 
 <p>Après cela quelqu'un dit à Kaous : <q>Le roi du
@@ -348,7 +348,7 @@ jugée digne du trône d'or.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="3">
 <head>le roi du Hamaveran s’empare de Kaous.</head>
 
 <p>Mais le coeur du roi du Hamaveran était triste; il
@@ -416,7 +416,7 @@ leurs trônes. Qu'en dit l’homme à l'oeil perçant?
 
 <pb n="13"/>
 
-Quel enseignement en tires-tu, 6 sage? <q>Si quelqu’un ne t'est pas uni par le sang, ne te fie jamais
+Quel enseignement en tires-tu, ô sage? <q>Si quelqu’un ne t'est pas uni par le sang, ne te fie jamais
 beaucoup en lui, et même il y a des hommes
 qui te sont alliés par le sang qui briseront les
 liens de l'affection jusqu’au point de détourner de
@@ -466,7 +466,7 @@ s’assit auprès du roi, le servit et le consola.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="4">
 <head>Afrasiab attaque le pays d’Iran.</head>
 
 <p>L'armée s'en retourna dans l'Iran aussitôt que le
@@ -533,7 +533,7 @@ s'élance la flamme, et il ft avancer son armée semblable à l'ouragan.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="5">
 <head>Rustem envoie un message au roi du Hamaveran.</head>
 
 <p>Rustem envoya auprès du roi Kaous un homme
@@ -680,7 +680,7 @@ les rangs de son armée de héros.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="6">
 <head>Rustem combat les trois rois et délivre Kaous de prison.</head>
 
 <p>Le lendemain donc on disposa les troupes; des
@@ -784,7 +784,7 @@ et montés sur des chevaux caparaçonnés.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="7">
 <head>Kaous envoie des messages au Kaïsar de Roum et à Afrasiab.</head>
 
 <p>Le roi dépêcha un cavalier au Kaïsar, un cavalier
@@ -854,7 +854,7 @@ lalut, sa tête se remplit de colère et son coeur d’impatience, et il envoya 
 semblables paroles n’appartiennent qu’à un homme
 de nature vile. Si le pays d'Iran t'avait convenu,
 tu n’aurais pas.eu besoin du Hamaveran. Je suis
-venu préparé au combat, j'élève l’étendard impéerial. Tout le pays d'fran m’appartient pour deux
+venu préparé au combat, j'élève l’étendard impéerial. Tout le pays d'Iran m’appartient pour deux
 raisons (et il faut que tu prêtes l'oreille aux paroles
 de la vérité), tout le pays d'Iran est mon domaine,
 d’abord parce que Tour fils de Feridoun est mon
@@ -925,7 +925,7 @@ du poison.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="8">
 <head>Kaous rétablit l’ordre dans le monde.</head>
 
 <p>Kaous retourna alors dans le pays de Fars, et les
@@ -971,7 +971,7 @@ par ses travaux et les affligeait par ses châtiments.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="9">
 <head>Kaous est tenté par Iblis, et vole vers le ciel.</head>
 
 <p>Or il arriva qu'un matin Iblis tint une assemblée
@@ -1015,7 +1015,7 @@ moyen de monter au ciel, que les étoiles sont sans
 nombre, mais que Dieu est un. Toutes les créatures
 sont impuissantes contre ses ordres, car elles sont
 impures, rebelles et méchantes. Dieu le créateur n’a
-pas besoin du monde; c’est pour toi, 6 homme, que
+pas besoin du monde; c’est pour toi, ô homme, que
 le ciel et la terre ont été créés.</p>
 
 <p>L’espritdu roi s’occupa continuellement des moyens
@@ -1061,7 +1061,7 @@ Dieu le créateur.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="10">
 <head>Rustem ramène Kaous.</head>
 
 <p>Pendant que Kaous demandait ainsi à Dieu grâce
@@ -1171,7 +1171,7 @@ souffle qui passe.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="11">
 <head>le combat des sept héros.</head>
 
 <p>Comme il est inutile de lutter contre la mort,
@@ -1351,7 +1351,7 @@ terre. Rustem le couvrit de bénédictions en disant :
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="12">
 <head>Rustem combat les Touraniens.</head>
 
 <p>Guiv adressa alors au Pehlewan ces paroles : <q>O
@@ -1429,7 +1429,7 @@ renard. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="13">
 <head>combat de Pilsem contre les Iraniens.</head>
 
 <p>Or il y avait un héros dont le nom était Pilsem,
@@ -1522,7 +1522,7 @@ chacun une massue en main, tuèrent tant de Touraniens, que les monceaux de mort
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="14">
 <head>combat d’Alkous.</head>
 
 <p>Afrasiab observait tout, et voyant ce qui se passait, il exhala un soupir de sa poitrine, et demanda:
@@ -1589,7 +1589,7 @@ les uns ayant encore leur tête, les autres la tête séparée du corps. Il ne r
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="15">
 <head>Afrasiab s’enfuit du champ de bataille.</head>
 
 <p>Le roi du Touran voyant ce qui arrivait, se
@@ -1650,9 +1650,9 @@ les temps anciens.</p>
 
 </div>
 </div>
-<div type="textpart" n="c3">
+<div type="textpart" subtype="part" n="3">
 <head>iii. histoire de Sohrab.</head>
-<div type="textpart" n="s1">
+<div type="textpart" subtype="chapter" n="1">
 <head>commencement du récit.</head>
 
 <p>Écoute maintenant le combat de Sohrab contre
@@ -1701,7 +1701,7 @@ contre son père.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="2">
 <head>Rustem va à la chasse.</head>
 
 <p>Je vais raconter, selon les paroles du Dihkan , une
@@ -1768,18 +1768,18 @@ soucis, le corps dans la souffrance, l'esprit à la torture.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="3">
 <head>Rustem arrive dans la ville de Semengan.</head>
 
 <p>Lorsqu'il s’approcha de la ville de Semengan, le
 roi et les grands apprirent que Rustem le distributeur des couronnes venait à pied, Raksch s'étant enfui à la chasse. Les grands et le roi, tous ceux qui
 portaient un diadème allèrent à sa rencontre; et lorsqu'ils l'aperçurent, chacun dit : <q>Est-ce Rustem, ou
-est-ce lesoleil du‘matin ? </q> Le roi de Semengan alla
+est-ce le soleil du‘matin ? </q> Le roi de Semengan alla
 au-devant de lui, à pied, entouré de la foule de ses
 braves, et lui adressa ces paroles : <q>Qu'est-il arrivé?
 qui est-ce qui a osé se mesurer avec toi dans le
 combat? Dans cette ville, nous sommes tous tes
-amis, tous debout pour attendre tes ordres et-ta
+amis, tous debout pour attendre tes ordres et ta
 
 
 <pb n="59"/>
@@ -1799,7 +1799,7 @@ esprit et délivrer notre coeur de ses soucis. Il ne
 faut pas de colère ni de sévérité; c’est par la doueceur qu'on fait sortir le serpent de sa caverne. La
 trace de Raksch ne peut rester cachée, tant il est
 célèbre dans le monde entier. Nous le chercherons
-et te l'amènerons sans délai, 6 homme plein de
+et te l'amènerons sans délai, ô homme plein de
 bravoure et d'expérience!</q></p>
 
 <p>Rustem fut satisfait de ces paroles, et il bannit
@@ -1820,7 +1820,7 @@ quitter le banquet. Le roi lui prépara un lieu de repos et de sommeil comme il 
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="4">
 <head>Tehmimeh, fille du roi de Semengan, va trouver Rustem.</head>
 
 <p>Quand une partie de la nuit se fut écoulée et pendant que l'étoile du matin passait le long du ciel qui
@@ -1936,7 +1936,7 @@ vu et entendu.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="5">
 <head>naissance de Sohrab.</head>
 
 <p>Quand neuf mois eurent passé sur la tête de la
@@ -2014,7 +2014,7 @@ roi dans le monde; car pourquoi les étoiles porterraient-elles des couronnes qu
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="6">
 <head>Sohrab choisit un cheval.</head>
 
 <p>Ensuite le vaillant Sohrab dit à sa mère : <q> Maintenant tu vas voir ma prouesse; il me faut un bon
@@ -2093,7 +2093,7 @@ royauté.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="7">
 <head>Afrasiab envoie Bahman et Houman auprès de Sohrab.</head>
 
 <p>Quelqu'un porta cette nouvelle à Afrasiab en
@@ -2172,7 +2172,7 @@ habités et n’épargnant rien.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="8">
 <head>Sohrab arrive au château blanc.</head>
 
 <p>Or il y avait un château qu’on appelait le Château
@@ -2229,7 +2229,7 @@ que Hedjir avait disparu au milieu des ennemis.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="9">
 <head>Sohrab combat Gurdaferid.</head>
 
 <p>Quand la fille de Guzdehem apprit que le chef de
@@ -2388,9 +2388,9 @@ Je ne sais quel malheur l'arrivera. Hélas ! faut-il que
 de tels bras et une telle poitrine servent de pâture
 aux tigres! Ne te fie pas trop à la force de tes bras,
 car la vache stupide mangera l’herbe qui crottra sur ton corps. Tu ferais mieux de suivre mon conseil,
-et de t'en retourner dans le Touran. </q>
+et de t'en retourner dans le Touran. </q></p>
 
-À ces mots, Sohrab fut honteux, car il s'en était
+<p>À ces mots, Sohrab fut honteux, car il s'en était
 peu fallu qu’il ne se rendit maître du château. Il y
 avait au-dessous de la forteresse une plaine sur
 laquelle les remparts s'appuyaient; Sohrab livra tout
@@ -2404,7 +2404,7 @@ et partit en prenant le chemin de son camp.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="10">
 <head>lettre de Guzdehem à Kaous.</head>
 
 <p>Aussitôt que Sohrab fut parti, le vieux Guzdehem
@@ -2479,7 +2479,7 @@ lettre à son côté droit et partit sur-le-champ.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="11">
 <head>Sohrab s’empare du château blanc.</head>
 
 <p>Aussitôt que le soleil se fut levé au-dessus des
@@ -2523,7 +2523,7 @@ avec son scribe pour tenir couseil, car le danger
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="12">
 <head>Kaous écrit à Rustem et le fait venir du Zaboulistan.</head>
 
 <p>Le roi fit écrire une lettre à Rustem le glorieux,
@@ -2629,9 +2629,9 @@ au palais du Destan; lui et Guiv entrèrent dans ce
 beau palais, où ils restèrent assis pendant quelque
 temps oubliant tout souci. Ensuite Guiv invoqua une
 seconde fois les grâces de Dieu sur lui, en disant :
-<q>O Pehlewan du monde, 6 vaillant guerrier! que
+<q>O Pehlewan du monde, ô vaillant guerrier! que
 le trône et la couronne soient illustrés par toi, car
-tu es digne du diadème, 6 prince fortuné! Le roi
+tu es digne du diadème, ô prince fortuné! Le roi
 Kaous m'a donné ses ordres en ces termes : Tu ne
 dois pas dormir dans le Zaboulistan, et si tu arrives
 de nuit, tu repartiras le matin. Car malheur à nous
@@ -2684,7 +2684,7 @@ mit en ordre cette armée nombreuse, et nomma Zewareh Pehlewan de ses troupes.</
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="13">
 <head>Kaous se met en colère contre Rustem.</head>
 
 <p>Lorsque Rustem fut proche de la cour du roi, les
@@ -2812,7 +2812,7 @@ car le sort nous serre de près. </q></p>
 
 <p>Le Sipehdar Gouderz fils de Keschwad partit, se
 rendit auprès du roi, et lui dit : <q>Qu’a donc fait
-Rustem pour que tu détruises aujourd’hui la forlune de Fran? As-tu donc oublié le Hamaveran et
+Rustem pour que tu détruises aujourd’hui la forlune de Iran? As-tu donc oublié le Hamaveran et
 ce qui s’est passé chez les Divs du Mazenderan,
 pour que tu aies donné l'ordre de pendre vivant au
 gibet Rustem? Il ne faut pas que les rois prononcent de folles paroles. Maintenant qu’il est parti
@@ -2867,9 +2867,9 @@ contre les Divs du Mazenderan, au jour de la lutte
 contre le roi du Hamaveran, j'ai tiré de la captivité
 et de la détresse quand je l’ai vu entre les mains
 de ses ennemis. Ma patience est à bout, mon coeur
-est gros, et je ne crains que Dieu le tout saint. </q>
+est gros, et je ne crains que Dieu le tout saint. </q></p>
 
-À ces mots, le froid de la mort saisit toute l’assemblée; mais Gouderz répondit au héros au corps d’éléphant : <q>Le roi ét les grands qui portent haut la
+<p>À ces mots, le froid de la mort saisit toute l’assemblée; mais Gouderz répondit au héros au corps d’éléphant : <q>Le roi ét les grands qui portent haut la
 tête vont supposer tout autre chose. Ils vont croire que le fier Rustem a peur de ce Turc, et ils vont
 se dire tout bas : il faut bien, comme Guzdehem
 nous l'a dit, abandonner le pays; car puisque Rustem craint de le combattre, aucun de nous ne doit
@@ -2929,7 +2929,7 @@ son Cours.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="14">
 <head>Kaous et Rustem se mettent en campagne.</head>
 
 <p>Lorsque le soleil eut déchiré le noir rideau de 1a
@@ -2983,7 +2983,7 @@ des hommes et des tentes avec leurs enceintes couvrait la plaine et la montagne.
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="15">
 <head>Rustem tue Zendeh Rezm.</head>
 
 <p>Lorsque le soleil eut disparu du monde et que
@@ -3104,7 +3104,7 @@ nuit réunis en assemblée.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="16">
 <head>Sohrab demande à Hedjir les noms des chefs des Iraniens.</head>
 
 <p>Lorsque le soleil éleva son bouclier d'or et que
@@ -3379,7 +3379,7 @@ rl’anéantirait sur le champ de bataille. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="17">
 <head>Sohrab attaque l’armée de Kaous.</head>
 
 <p>Lorsque Sohrab entendit ces paroles dures il détourna la tête et cacha son front sans rien dire et
@@ -3516,7 +3516,7 @@ brillant devint sombre pour lui.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="18">
 <head>combat de Rustem contre Sohrab.</head>
 
 <p>Sohrab se rendit au champ du combat et prit un
@@ -3610,7 +3610,7 @@ cotte de mailles; tu aurais dit qu'il était ivre, de sa .
 
 chasse. À cette vue, Rustem entra en fureur. Il
 poussa un cri comme un lion féroce et lui dit:
-<q>O homme altéré de sang! qui d’entre les franiens
+<q>O homme altéré de sang! qui d’entre les Iraniens
 la attaqué? Pourquoi n’as-tu pas retenu la main
 du mal? Pourquoi es-tu venu comme un loup au
 milieu du troupeau? </q> Sohrab lui répondit : <q> L'armée du Touran s’est abstenue du combat et n’a fait
@@ -3627,7 +3627,7 @@ attendant que la volonté de Dieu se fasse. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="19">
 <head>Sohrab et Rustem retournent à leurs camps.</head>
 
 <p>Hs se séparèrent, l'air devint sombre, le firme
@@ -3797,7 +3797,7 @@ moitié de la nuit, et il donna l’autre moitié au repos et au sommeil.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="20">
 <head>Sohrab jette Rustem par terre.</head>
 
 <p>Lorsque le soleil brillant leva sa tête, et que le
@@ -3834,9 +3834,9 @@ dans la guerre, et je sais ce que ce brave a fait avec
 sa lourde massue dans la guerre du Mazenderan;
 le Raksch de ce guerrier ressemble au Raksch de
 Rustem, mais ül ne frappe pas la terre comme lui
-et ne laisse pas la même empreinte.  </q>
+et ne laisse pas la même empreinte.  </q></p>
 
-À l'aube du jour, lorsque le soleil commença à
+<p>À l'aube du jour, lorsque le soleil commença à
 montrer ses rayons et que les braves se réveillèrent,
 Sohrab se revêtit de sa cuirasse de guerre, la tête
 pleine du combat, le coeur encore plein du festin. Il
@@ -3984,7 +3984,7 @@ du côté qu'il faudrait.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="21">
 <head>Sohrab est frappé à mort par Rustem.</head>
 
 <p>Hs attachèrent encore une fois leurs chevaux, et
@@ -4205,7 +4205,7 @@ poursuivant soit long ou court, nous sommes perdus aussitôt qu’elle nous rejo
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="22">
 <head>Rustem demande un baume à Kaous.</head>
 
 <p>Alors Rustem dit à Gouderz : <q>O puissant héros à
@@ -4241,7 +4241,7 @@ m'a déshonoré à la face de mon armée? Si son fils
 reste en vie, ma main sera remplie de poussière.
 N’as-tu pas entendu les paroles de. Sohrab? n’es-tu
 pas an grand qui connaît le monde? Il a dit qu'il
-couperait la tête à mille franiens et qu’il pendrait
+couperait la tête à mille Iraniens et qu’il pendrait
 Kaous vivant au gibet. S'il vit, les grands et les
 petits.plieront devant lui. Quiconque aide à sauver
 son ennemi donne au monde une mauvaise opinion de lui-même.</q> Gouderz l'écouta et sen
@@ -4255,7 +4255,7 @@ d'éclairer son âme noire. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="23">
 <head>lamentation de Rustem sur la mort de Sohrab.</head>
 
 <p>Rustem ordonna à ses serviteurs de préparer un
@@ -4391,7 +4391,7 @@ vengeance d'eux.  </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="24">
 <head>retour de Rustem dans le Zaboulistan.</head>
 
 <p>Le roi partit de là avec son armée et marcha
@@ -4501,7 +4501,7 @@ de ce qu’il avait vu. Le roi du Touran en resta stupéfait, et chercha à calc
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="25">
 <head>la mère de Sohrab apprend sa mort.</head>
 
 <p>Il s’éleva un cri des villes du pays de Touran
@@ -4636,9 +4636,9 @@ contre Rustem.</p>
 </div>
 </div>
 
-<div type="textpart" n="c4">
+<div type="textpart" subtype="part" n="4">
 <head>iv. histoire de Siawusch.</head>
-<div type="textpart" n="s1">
+<div type="textpart" subtype="chapter" n="1">
 <head>commencement du récit.</head>
 
 <p>Maintenant, o conteur à l'esprit éveillé, compose
@@ -4681,7 +4681,7 @@ raconte-la-nous d’après les récits des anciens. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="2">
 <head>histoire de la mère de Siawusch.</head>
 
 <p>Voici ce que dit le Mobed : Un jour Thous, à
@@ -4784,7 +4784,7 @@ un beau rubis intact.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="3">
 <head>naissance de Siawusch.</head>
 
 <p>Il s’écoula ainsi un peu de temps, et le gai printemps prit ses couleurs. Le ciel tourna sans relâche,
@@ -4860,7 +4860,7 @@ les pieds des chevaux arabes : la tristesse était bannie de l'Iran. Les criniè
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="4">
 <head>Siawusch revient du Zaboulistan.</head>
 
 <p>Lorsque le roi Kaous sut que Siawusch revenait
@@ -4929,7 +4929,7 @@ maintenant le Maweralnahr (la Transoxane ).</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="5">
 <head>la mère de Siawusch meurt.</head>
 
 <p>Lorsque ceci fut accompli selon les ordres du roi,
@@ -4964,7 +4964,7 @@ du roi.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="6">
 <head>Soudabeh devient amoureuse de Siawusch.</head>
 
 <p>Il se passa de nouveau quelque temps, et le coeur
@@ -5058,7 +5058,7 @@ esclave.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="7">
 <head>Siawusch se rend chez Soudabeh.</head>
 
 <p>Or ïül y avait un homme nommé Hirbed; son
@@ -5213,7 +5213,7 @@ cette femme.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="8">
 <head>seconde visite de Siawusch dans l’appartement des femmes.</head>
 
 <p>Une nuit s'étant ainsi passée, et le ciel ayant
@@ -5369,7 +5369,7 @@ du peuple.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="9">
 <head>troisième visite de Siawusch dans l’appartement des femmes.</head>
 
 <p>Soudabeh s’assit sur son trône, parée de boucles
@@ -5412,7 +5412,7 @@ de mon âme, et tu m'as caché tes mauvaises penrsées; dans {a folie tu voudras
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="10">
 <head>Soudabeh trompe le roi.</head>
 
 <p>Soudabeh déchira soudain tous ses vêtements, elle
@@ -5476,7 +5476,7 @@ d’autre trésor que toi, je n'ai envie d'aucune autre
 femme. Il a voulu me forcer de me prêter à ses désirs, il m'a saisie de ses deux mains dures comme
 une pierre; et comme je lui résistais, il m'a arraché
 tous mes cheveux; et mes joues ont été déchirées.
-Je porte, 6 roi, dans mon sein un enfant de toi;
+Je porte, ô roi, dans mon sein un enfant de toi;
 mais Siawusch a manqué de le tuer, tant il m'a
 maltraitée, et le monde est devenu étroit et sombre
 devant mes yeux.</q></p>
@@ -5516,7 +5516,7 @@ car il ne faut pas que cette aventure s’ébruite. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="11">
 <head>Soudabeh complote avec une magicienne.</head>
 
 <p>Quand Soudabeh sentit qu’elle était déshonorée, et
@@ -5573,7 +5573,7 @@ il ne faut pas que je traite légèrement cette affaire. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="12">
 <head>Kaous s’informe de l’origine de ces enfants.</head>
 
 <p>Le roi Kaous regarda autour de lui, et ayant pensé
@@ -5692,7 +5692,7 @@ de souffrir la honte qui m’accable.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="13">
 <head>Siawusch traverse le feu.</head>
 
 <p>Le roi Keï Kaous était rempli de soucis à l'égard
@@ -5800,7 +5800,7 @@ l'armée suivit l'exemple du roi. Siawusch ayant
 échappé aux flammes de cette montagne de feu et
 déjoué tous les desseins de ses ennemis, s’avança
 vers le maître du monde et se prosterna le visage
-contre terre. Le roi lui dit : <q>O mon fils, 6 vaillant
+contre terre. Le roi lui dit : <q>O mon fils, ô vaillant
 jeune homme, issu d’une race pure, doué d’une
 âme brillante, tu es tel que doit être le fils d'une
 sainte mère, né pour être le roi du monde. </q> Il le
@@ -5815,7 +5815,7 @@ avec un sceau ni avec une clef.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="14">
 <head>Siawusch demande à son père la grâce de Soudabeh.</head>
 
 <p>Le quatrième jour Kaous monta sur le trône des
@@ -5902,17 +5902,17 @@ cherches la tête.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="15">
 <head>Kaous apprend qu’Afrasiab s’est mis en marche.</head>
 
 <p>Le roi du monde était ainsi occupé de son amour
 lorsqu'il apprit de ceux qui savaient ce qui se passait, qu'Afrasiab s’approchait avec cent mille cavaliers turcs qu'il avait choisis et comptés. Le coeur du
 roi Kaous se serra, car il fallait qu'il quittât le banquet pour la guerre. Il tint une grande assemblée
-d'franiens, il y réunit tous les amis des Keïanides et
+d'Iraniens, il y réunit tous les amis des Keïanides et
 leur dit : <q>Est-ce que Dieu n'a pas formé Afrasiab
 d'air et de feu, de terre et d’eau? Est-ce que le ciel
 l'aurait formé autrement que le reste des créatures,
-pour qu’il jure une alliance, qu’il se lie par des paeroles de paix, et qu’ensuite il fasse lever la poussière
+pour qu’il jure une alliance, qu’il se lie par des paroles de paix, et qu’ensuite il fasse lever la poussière
 dans son ardeur pour la guerre, qu'il viole son
 serment et la foi donnée? Il faut maintenant que je
 
@@ -5934,9 +5934,9 @@ ne vois dans cette assemblée personne qui soit l'égal
 d'Afrasiab en pouvoir et en gloire; il faut que je
 coure comme court un vaisseau sur l’eau. Quant à
 vous, sortez; je ne suivrai dans cette affaire que le
-penchant de mon coeur. </q>
+penchant de mon coeur. </q></p>
 
-À ces paroles, Siawusch devint pensif, et son àme
+<p>À ces paroles, Siawusch devint pensif, et son àme
 fut désolée par les soucis. Il se dit en lui-même : <q> le
 vais me préparer pour cette campagne, je parlerai
 avec douceur au roi et lui demanderai le commarr dement. J'espère d’abord que Dieu me délivrera alor
@@ -5988,7 +5988,7 @@ firmament. </q> Le roi l'écouta et le bénit en disant :
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="16">
 <head>Siawusch entre en campagne.</head>
 
 <p>On entendit le bruit des-trompettes et des timbales; Thous le Sipehbed au front orgueilleux arriva,
@@ -6099,7 +6099,7 @@ rendit avec son armée auprès d’Afrasiab.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="17">
 <head>lettre de Siawusch à Kaous.</head>
 
 <p>Siawusch ayant, avec son armée, pris possession
@@ -6132,7 +6132,7 @@ avec mon armée et livrerai bataille à Afrasiab. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="18">
 <head>réponse de Kaous à la lettre de Siawusch.</head>
 
 <p>Quand le roi de l'Iran eut reçu cette lettre, sa
@@ -6209,7 +6209,7 @@ appeler mille grands et apprêter un festin pour eux.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="19">
 <head>Afrasiab à un rève et en est effrayé.</head>
 
 <p>On couvrit toute la plaine de pavillons, et tout le
@@ -6291,7 +6291,7 @@ prudent. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="20">
 <head>Afrasiab fait interpréter son songe.</head>
 
 <p>Tous ceux qui connaissaient cet art, qu'ils fussent
@@ -6344,9 +6344,9 @@ réduit ton pays à un désert. Quand même le roi
 deviendrait un oiseau ailé, il ne pourrait sortir de
 cette sphère qui tourne. C’est ainsi que le ciel
 accomplit sa rotation, tantôt rempli de colère,
-tantôt plein d'amour. </q>
+tantôt plein d'amour. </q></p>
 
-À ces paroles, Afrasiab devint soucieux et ne se
+<p>À ces paroles, Afrasiab devint soucieux et ne se
 hâta pas de commencer la guerre. Il dévoila à Guersiwez ces secrets et lui raconta les paroles mystérieuses qu'il avait entendues, disant : <q> Si je n’envoie
 pas d'armée contre Siawusch, personne ne viendra
 nous combattre ;‘ alors ni lui ni moi ne perdrons
@@ -6369,7 +6369,7 @@ que toute chose croisse, telle que Dieu l’a semée. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="21">
 <head>Afrasiab tient conseil avec les grands.</head>
 
 <p>Quand la moitié d’une rotation du ciel fut achevée, et que le soleil brillant eut montré sa face, les
@@ -6456,7 +6456,7 @@ ear il n’est pas roi, et un Pehlewan ne serait pas
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="22">
 <head>Guersiwez arrive auprès de Siawusch.</head>
 
 <p>Guersiwez emporta ces présents, qui rendaient
@@ -6523,7 +6523,7 @@ conclure.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="23">
 <head>Siawusch conclut un traité avec Afrasiab.</head>
 
 <p>À l'aube du jour Guersiwez se présenta à la cour,
@@ -6604,7 +6604,7 @@ tu aurais dit qu'il enroulait la terre sous ses pas.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="24">
 <head>Siawusch envoie Rustem auprès de Kaous.</head>
 
 <p>Siawusch s’assit sur le trône d'ivoire et suspendit
@@ -6677,7 +6677,7 @@ tel que je l'ai voulu.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="25">
 <head>Rustem rend compte à Kaous.</head>
 
 <p>De son côté, Rustem le lion était arrivé auprè
@@ -6782,7 +6782,7 @@ n'éprouverait plus jamais de bonheur, </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="26">
 <head>Kaous renvoie Rustem dans le Seïstan.</head>
 
 <p>Kaous écouta ces paroles et en fut courroucé; il
@@ -6824,7 +6824,7 @@ et de l'esprit.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="27">
 <head>Kaous répond à la lettre de Siawusch.</head>
 
 <p>Le roi fit caparaçonner un dromadaire et ordonna
@@ -6909,7 +6909,7 @@ ne sais quels destins Dieu me réserve. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="28">
 <head>Siawusch consulte Bahram et Zengueh.</head>
 
 <p>Alors Siawusch appela auprès de lui deux d’entre
@@ -6976,7 +6976,7 @@ si je me révoltais contre le ciel et la terre? Je m'en
 irai, je chercherai un coin dans le monde où mon
 nom reste caché à Kaous; alors arrivera, dans ce
 monde brillant, ce que Dieu voudra et ordonnera.
-Maintenant, 6 illustre Zengueh fils de Schaweran,
+Maintenant, ô illustre Zengueh fils de Schaweran,
 prépare-toi pour une grande fatigue; pars pour
 la cour d’Afrasiab, ne tarde pas et ne te laisse
 pas aller au sommeil. Ramène-lui ses otages, rapporte-lui ses trésors de toute espèce, son or, ses
@@ -7078,7 +7078,7 @@ me reposer de la lutte que j'ai à soutenir contre lui.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="29">
 <head>Zengueh se rend auprès d’Afrasiab.</head>
 
 <p>Zengueh partit avec cent cavaliers pleins de renom, emmenant de la cour du roi les otages et emportant tous les présents, quels qu’ils fussent, que
@@ -7178,7 +7178,7 @@ favori du sort pour trouver une pareille fortune. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="30">
 <head>lettre d’Afrasiab à Siawusch.</head>
 
 <p>Afrasiab ayant entendu ces paroles, prit une résolution sage, fit appeler un scribe plein d'expérience,
@@ -7252,7 +7252,7 @@ venir du feu? Quelque bien que tu agisses, un ennemi finira toujours par te trai
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="31">
 <head>Siawusch cède le commandement à Bahram.</head>
 
 <p>Siawusch écrivit une lettre à son père, dans
@@ -7433,7 +7433,7 @@ ici me porte bonheur, tu n'auras pas à déplorer la
 part que tu y auras prise; et s'il en doit être autement, ordonne-moi de partir et enseigne-moi le
 chemin d'un autre pays. </q> Piran lui dit : <q>Ne sois
 pas en peine de cela. Puisque tu es venu ici du pays
-d'fran, ne répugne pas à devenir l'ami d'Afrasiab;
+d'Iran, ne répugne pas à devenir l'ami d'Afrasiab;
 ne te hâte point de nous quitter. Afrasiab a un
 mauvais renom, mais il ne le mérite pas; c'est un
 homme de Dieu. Il a du sens, de la prudence et
@@ -7464,7 +7464,7 @@ le coeur en gaieté, et ne s’arrétèrent plus avant d’arriver devant la vil
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="32">
 <head>entrevue de Siawusch et d’Afrasiab.</head>
 
 <p>Lorsque Afrasiab apprit que Siawusch arrivait en
@@ -7555,7 +7555,7 @@ beaucoup de présents ; et ainsi se passa une semaine.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="33">
 <head>Siawusch montre son adresse devant Afrasiab.</head>
 
 <p>Une nuit le roi dit à Siawusch : <q> Tenons-nous
@@ -7731,7 +7731,7 @@ un {roupeau obéit au berger.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="34">
 <head>Afrasiab et Siawusch vont à la chasse.</head>
 
 <p>Le roi dit à ce fils de roi : <q> Viens un jour avec
@@ -7778,7 +7778,7 @@ mettant en commun leurs soucis et leurs plaisirs.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="35">
 <head>Piran donne sa fille en mariage à Siawusch.</head>
 
 <p>Un jour Siawusch et Piran étaient assis ensemble,
@@ -7803,7 +7803,7 @@ tu es seul comme un rosier sur le bord d’une
 <pb n="258"/>
 
 prairie. Jette les yeux sur une femme qui soit digne de
-toi; pense que tes douleurs ettes malheurs ne viennent que de l’fran. Après la mort de Kaous, l'Iran
+toi; pense que tes douleurs ettes malheurs ne viennent que de l’Iran. Après la mort de Kaous, l'Iran
 et le trône et 1a couronne des braves seront à toi.
 Or ïl y a, cachées derrière les rideaux du palais du
 maître du monde, trois lunes ornées de joyaux; si
@@ -7851,7 +7851,7 @@ voyait s’accroître le respect et les honneurs dont Afrasiab l'entourait.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="36">
 <head>Piran parle à Siawusch de Ferenguis.</head>
 
 <p>Un jour le prudent Piran dit à Siawusch : <q>O
@@ -7905,7 +7905,7 @@ pas moins entre Les mains.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="37">
 <head>Piran parle à Afrasiab.</head>
 
 <p>Piran se leva surle-champ et se rendit au palais
@@ -8003,7 +8003,7 @@ soucis de leur âme.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="38">
 <head>fiançailles de Ferenguis et de Siawusch.</head>
 
 <p>Lorsque la voûte du ciel qui tourne amena le 
@@ -8083,7 +8083,7 @@ musique couvertirent la terre en jardin d’une extrémité à l’autre.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="39">
 <head>Afrasiab donne une province à Siawusch.</head>
 
 <p>Sept jours s'étant ainsi passés, Afrasiab prépara
@@ -8185,7 +8185,7 @@ des hommes. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="40">
 <head>Siawusch bâtit Gangdiz.</head>
 
 <p>Je vais maintenant ouvrir la porte des histoires et
@@ -8306,7 +8306,7 @@ des hyacinthes, des narcisses et des tulipes.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="41">
 <head>Siawusch parle avec Piran de son avenir.</head>
 
 <p>Lorsqu'ils repartirent de ce beau pays, Siawusch
@@ -8426,7 +8426,7 @@ et demandèrent du vin, de la musique et des chants.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="42">
 <head>Afrasiab envoie Piran dans les provinces.</head>
 
 <p>Hs se livrèrent ainsi au plaisir pendant sept jours.
@@ -8453,7 +8453,7 @@ armée, selon les ordres d’Afrasiab.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="43">
 <head>Siawusch bâtit Siawuschguird.</head>
 
 <p>Une nuit, arriva courant comme une flamme, un
@@ -8505,7 +8505,7 @@ réjouirent dans leur coeur.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="44">
 <head>Piran visite Siawuschguird.</head>
 
 <p>Piran, en revenant de l'Inde et de la Chine, entendit parler de cette noble ville de Siawuschguird,
@@ -8615,7 +8615,7 @@ fertile portait du fruit.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="45">
 <head>Afrasiab envoie Guersiwez auprès de Siawusch.</head>
 
 <p>Afrasiab raconta ces nouvelles à Guersiwez, il
@@ -8670,7 +8670,7 @@ rue, et rentra ensuite dans son palais.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="46">
 <head>naissance de Firoud, fils de Siawusch.</head>
 
 <p>Dans ce moment un cavalier rapide comme le
@@ -8680,7 +8680,7 @@ mis au monde un enfant beau comme la lune. On
 a donné à ce noble enfant le nom de Firoud; et
 Piran, lorsqu'il l'a appris au milieu de la nuit
 sombre, a ordonné sur-le-champ à moi et à un
-autre cavalier de nous rendre auprès de toi, 6 prince,
+autre cavalier de nous rendre auprès de toi, ô prince,
 et de t'en porter la nouvelle. Djerireh, la mère de
 cet enfant illustre, la première parmi les reines
 puissantes, a ordonné de son lit à ses esclaves de
@@ -8724,7 +8724,7 @@ flûtes et des voix lui fit oublier sa colère.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="47">
 <head>Siawusch joue à la balle.</head>
 
 <p>Lorsque le soleil brillant se dévoila, montrant
@@ -8829,7 +8829,7 @@ pieds, et je m’efforcerai de n'avoir pas à rougir de
 ce combat devant le roi illustre. </q></p>
 
 <p>L'ambitieux Guersiwez sourit et fut flatté de ces
-paroles; il dit aux Turcs : <q>Qui d’entre vous, 6 guerriers qui portez haut la tête, désire se faire un
+paroles; il dit aux Turcs : <q>Qui d’entre vous, ô guerriers qui portez haut la tête, désire se faire un
 renom dans le monde, soutenir une lutte contre
 Siawusch et jeter dans la poussière le chef des
 braves ? </q> Les Tures ne voulurent ni entendre ni
@@ -8899,7 +8899,7 @@ pas paisiblement; elle a mal commencé et se termirnera mal.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="48">
 <head>Guersiwez revient et calomnie Siawusch auprès d’Afrasiab.</head>
 
 <p>Guersiwez se rendit done à la cour du roi, privé par
@@ -9087,7 +9087,7 @@ Keïanides et resserre ta ceinture pour le départ. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="49">
 <head>Guersiwez retourne auprès de Siawusch.</head>
 
 <p>Le traître Guersiwez s’apprêta pour le voyage, le
@@ -9312,7 +9312,7 @@ entre nous et sers-moi de guide. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="50">
 <head>lettre de Siawusch à Afrasiab.</head>
 
 <p>Siawusch fit appeler un scribe intelligent et lui
@@ -9371,7 +9371,7 @@ trames, et plus tard tu auras à frémir de ses projets.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="51">
 <head>Afrasiab se met en campagne contre Siawusch.</head>
 
 <p>Lorsque Afrasiab eut entendu ces paroles, sa
@@ -9423,7 +9423,7 @@ rigueur de sa destinée.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="52">
 <head>Siawusch a un songe.</head>
 
 <p>Siawusch passa trois jours dans les larmes à cause
@@ -9478,7 +9478,7 @@ départ pour personne. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="53">
 <head>Siawusch déclare ses dernières volontes à Ferenguis.</head>
 
 <p>Siawusch lui dit : <q> Le rêve que j'ai eu s’accomplit,
@@ -9530,7 +9530,7 @@ l'ordre de Dieu et temmènera avec ton fils
 
 inopinément et en secret du côté du Djihoun; on placera
 ton fils sur le trône de la royauté, et les oiseaux et
-les poissons lui obéiront. Il amènera de l’fran une
+les poissons lui obéiront. Il amènera de l’Iran une
 armée nombreuse pour me venger, et le monde
 entier sera rempli de bruit. C’est ainsi que tournera le ciel, qui ne s'attache à personne avec tendresse. Mainte armée, désirant me venger, revêtira
 ses cuirasses en mon honneur, la terre retentira
@@ -9580,7 +9580,7 @@ son palais et son jardin.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="54">
 <head>Siawusch tombe entre les mains d’Afrasiab.</head>
 
 <p>Après cela il se prépara au départ; il était stupéfié de sa mauvaise fortune. Il monta sur un cheval
@@ -9723,7 +9723,7 @@ et quand le souffle de la raison aura purifié ton
 coeur, alors tu pourras lui faire trancher la tête. Ne
 donne pas d'ordres dans ce moment et n'agis pas
 pendant que tu es en colère, car la colère amène
-à la fin le repentir. Il ne faut pas, 6 roi plein de
+à la fin le repentir. Il ne faut pas, ô roi plein de
 sagesse, trancher une tête dont le casque sera remplacé un jour par une couronne. Pourquoi trancher
 une tête innocente qui sera vengée par Kaous et par.
 Rustem? car le père de Siawusch est roi de Tran,
@@ -9807,7 +9807,7 @@ ourne.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="55">
 <head>Ferenguis vient se lamenter devant Afrasiab.</head>
 
 <p>Ferenguis apprit ce qui s'était passé, elle déchira
@@ -9903,7 +9903,7 @@ ce lieu sombre et l’on ferma la porte de la chambre.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="56">
 <head>meurtre de Siawusch par Gueroui.</head>
 
 <p>Guersiwez jeta alors un regard sur Gueroui, et le
@@ -10031,7 +10031,7 @@ roi habitués aux meurtres. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="57">
 <head>Piran délivre Ferenguis.</head>
 
 <p>Lorsque Piran eut entendu cet horrible récit, il
@@ -10070,7 +10070,7 @@ aux gardiens de la porte de suspendre un instant
 l'exécution des ordres du roi. Il courut auprès d’Afrasiab, le coeur navré, les yeux remplis de larmes,
 s'écriant : <q>O roi, puisses-tu vivre éternellement!
 puisse la main du malheur ne jamais l’atteindre!
-Quel mal t'est-il arrivé, 6 gracieux maître, pour
+Quel mal t'est-il arrivé, ô gracieux maître, pour
 que tu te sois décidé à tuer? Comment le méchant
 Div a-t-il pu acquérir du pouvoir sur ton coeur ?
 a-t-il donc effacé dans ton âme la crainte du maître
@@ -10128,7 +10128,7 @@ monde, voyait avancer sa grossesse.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="58">
 <head>naissance de Keï Khosrou.</head>
 
 <p>Au milieu d’une nuit noire, où la lune était invisible, et pendant que les oiseaux et les bêtes fauves
@@ -10223,7 +10223,7 @@ feuilles et les racines de ce jeune arbre.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="59">
 <head>Piran confie le jeune Keï Khosrou aux pâtres.</head>
 
 <p>Piran appela des pâtres des montagnes de Kala et
@@ -10304,7 +10304,7 @@ sa faveur au jeune roi.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="60">
 <head>Piran mène Keï Khosrou auprès d’Afrasiab.</head>
 
 <p>Pendant une nuit sombre, à l'heure du repos et
@@ -10426,7 +10426,7 @@ d'argent, de chevaux, de serviteurs et tout le reste.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="61">
 <head>Keï Khosrou retourne à Siawuschguird.</head>
 
 <p>Le Sipehbed se hâta d'emmener Keï Khosrou hors
@@ -10490,9 +10490,9 @@ pays de Touran.</p>
 </div>
 </div>
 
-<div type="textpart" n="c5">
+<div type="textpart" subtype="part" n="5">
 <head>V. départ de Khosrou pour le pays d’Iran.</head>
-<div type="textpart" n="s1">
+<div type="textpart" subtype="chapter" n="1">
 <head>commencement du récit.</head>
 
 <p>Lorsque l'épée de la soixantième année s'approche
@@ -10529,7 +10529,7 @@ poussière des pieds d’Ali.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="2">
 <head>Kaous apprend le sort de Siawusch.</head>
 
 <p>Lorsque Kaous apprit que Siawusch avait cessé
@@ -10564,7 +10564,7 @@ ayant la tête couverte de poussière au lieu de casques.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="3">
 <head>Rustem se rend auprès de Kaous.</head>
 
 <p>Ensuite on apprit dans le Nimrouz, on dit devant
@@ -10587,7 +10587,7 @@ toute l'armée se rassembla du Kaschmir et du Kaboul devant la porte du héros a
 
 qui se mit en route pour la cour de Kaous , les yeux
 remplis de sang, le coeur plein de vengeance. Quand
-il fut arrivé près de la capitale de l'fran, il déchira
+il fut arrivé près de la capitale de l'Iran, il déchira
 ses vêtements de Pehlewan, et dit en jurant par le
 nom de Dieu maître de l'univers : <q>Jamais je ne
 quitterai mon armure de guerre, jamais je ne laverai mes joues couvertes de poussière, car il faut
@@ -10626,7 +10626,7 @@ comme je souffre moi-même. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="4">
 <head>Rustem tue Soudabeh et entre en campagne.</head>
 
 <p>Kaous observa ses traits, les larmes de sang qui
@@ -10695,7 +10695,7 @@ de Narwen se rassemblèrent.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="5">
 <head>Faramourz tue Warazad, roi de Sipendjab.</head>
 
 <p>Un jeune guerrier, Faramourz, fils de Rustem, commandait l'avant-garde; il s’avança jusqu’à la frontière
@@ -10769,7 +10769,7 @@ le feu son royaume.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="6">
 <head>Surkheh se met en marche contre Rustem.</head>
 
 <p>Un messager partit de Sipendjab , se rendit auprès
@@ -10925,7 +10925,7 @@ et le déchira avec son poignard.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="7">
 <head>Afrasiab se met en campagne pour venger son fils.</head>
 
 <p>Lorsque les Touraniens revinrent chez eux du
@@ -10998,7 +10998,7 @@ perçaient les nuages.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="8">
 <head>Rustem tue Pilsem.</head>
 
 <p>Pilsem se rendit au centre de l’armée. Son coeur
@@ -11141,7 +11141,7 @@ presque pris la teinte de la nuit.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="9">
 <head>Afrasiab fuit devant Rustem.</head>
 
 <p>Afrasiab s'adressa à ses braves et leur dit : <q>La
@@ -11239,7 +11239,7 @@ de lances, de brides, d’armures et de ceintures.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="10">
 <head>Afrasiab envoie Keï Khosrou à Khoten.</head>
 
 <p>Lorsque le soleil montra sa face au-dessus des
@@ -11247,7 +11247,7 @@ montagnes et qu’il répandit ses rubis sur la poix des
 ténèbres, on entendit le bruit des armes et le son des
 trompettes, et Tehemten mit en marche son armée.</p>
 
-<p>Les franiens poursuivirent Afrasiab, pleurant au souvenir du meurtre de Siawusch. Afrasiab eut avis de
+<p>Les Iraniens poursuivirent Afrasiab, pleurant au souvenir du meurtre de Siawusch. Afrasiab eut avis de
 l'approche de cette armée, à la tête de laquelle se
 trouvait Rustem animé de vengeance. Il conduisit ses
 troupes jusqu’au bord de la mer de la Chine, car la
@@ -11325,7 +11325,7 @@ fumée que pousse le vent, du côté où le roi l'avait ordonné.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="11">
 <head>Rustem gouverne le Touran pendant sept ans.</head>
 
 <p>Rustem se rendit dans le Touran et s’avança jusqu’à la mer de la Chine. Les chefs et les braves de
@@ -11401,7 +11401,7 @@ long espace de temps.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="12">
 <head>Zewareh va voir les réserves de chasse de Siawusch.</head>
 
 <p>Il arriva qu’un jour Zewareh partit Pour aller  à la
@@ -11452,7 +11452,7 @@ verront pas légal. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="13">
 <head>Rustem dévaste le Touran.</head>
 
 <p>Lewareh parvint à tirer de son inaction cet homme
@@ -11515,7 +11515,7 @@ Leras alors les biens dont tu n'auras pas joui.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="14">
 <head>Rustem retourne dans le pays d’Iran.</head>
 
 <p>Rustem écouta ces paroles, il eut honte d’être rest
@@ -11577,7 +11577,7 @@ qui frappait de l'épée.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="15">
 <head>Gouderz voit Keï Khosrou en songe.</head>
 
 <p>Il arriva une nuit que Gouderz eut un songe. Il
@@ -11671,7 +11671,7 @@ Seïstan.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="16">
 <head>Guiv se rend dans le Touran pour chercher Keï Khosrou.</head>
 
 <p>Lorsque le soleil brillant se fut levé et eut rendu
@@ -11723,7 +11723,7 @@ visage et la tête à plusieurs reprises. Le vieux Gouderz adressa ses prières 
 
 <pb n="385"/>
 raison; je te le confie pour qu'il délivre mon pays
-de ses maux. Rends-le-moi, 6 Seigneur!</q></p>
+de ses maux. Rends-le-moi, ô Seigneur!</q></p>
 
 <p>Ceux qui ont souffert dans la vie beaucoup de
 peines, et qui les ont supportées pour acquérir du
@@ -11808,7 +11808,7 @@ reçu cette réponse de son guide, le frappa de son
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="17">
 <head>Guiv découvre Keï Khosrou.</head>
 
 <p>Guiv errait ainsi dans le pays de Touran, comme
@@ -11974,7 +11974,7 @@ la fortune.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="18">
 <head>Guiv et Khosrou se rendent à Siawuschguird.</head>
 
 <p>Le roi monta sur le cheval du vaillant Guiv, qui
@@ -12019,7 +12019,7 @@ pieds, et délivre-la de ses ennemis avec tes sabots.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="19">
 <head>Keï Khosrou s’empare du cheval Behzad.</head>
 
 <p>Le vaillant roi monta à cheval, et Guiv alla devant lui à pied; ils se dirigèrent vers la haute montagne, empressés comme des hommes qui cherchent
@@ -12118,7 +12118,7 @@ désert.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="20">
 <head>Ferenguis part pour l’Iran avec Keï Khosrou et Guiv.</head>
 
 <p>Leurs préparatifs étant terminés, ils sellèrent leurs
@@ -12161,7 +12161,7 @@ son corps à la mort.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="21">
 <head>Guiv met en fuite Kelbad et Nestihen.</head>
 
 <p>Lorsque Guiv aperçut de loin la poussière que
@@ -12270,7 +12270,7 @@ massue et de timbales.  </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="22">
 <head>Piran poursuit Keï Khosrou.</head>
 
 <p>Piran choisit mille cavaliers tous braves et propres
@@ -12343,7 +12343,7 @@ de ton aile.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="23">
 <head>combat de Guiv et de Piran.</head>
 
 <p>Guiv se revêtit de son armure et partit comme un
@@ -12436,7 +12436,7 @@ et ton casque et ta cuirasse te serviront de linceul. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="24">
 <head>Guiv fait Piran prisonnier.</head>
 
 <p>À ces paroles, Piran se sentit enflammé de colère;
@@ -12513,7 +12513,7 @@ j'échapperai aux griffes de ce dragon. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="25">
 <head>Ferenguis délivre Piran des mains de Guiv.</head>
 
 <p>Cependant Guiv regardait Keï Khosrou, attendant
@@ -12577,7 +12577,7 @@ en bénissant le roi et le Pehlewan du monde.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="26">
 <head>Afrasiab rencontre Piran sur la route.</head>
 
 <p>Lorsque Afrasiab apprit la fuite de Khosrou, la
@@ -12685,7 +12685,7 @@ pourquoi se mettrait-elle aussi en route?</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="27">
 <head>Guiv dispute avec le percepteur du péage.</head>
 
 <p>Piran s'achemina tristement vers le Khoten, et le
@@ -12749,7 +12749,7 @@ trésors que tu exigeais, à toi le repentir de tes exir gences. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="28">
 <head>Keï Khosrou passe le Djihoun.</head>
 
 <p>Guiv dit au roi : <q> Si tu es Keï Khosrou, tu peux
@@ -12853,7 +12853,7 @@ temps se passa ainsi.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="29">
 <head>Keï Khosrou arrive à Ispahan.</head>
 
 <p>Keï Khosrou arriva avec Guiv à Zem. La plupart
@@ -12956,7 +12956,7 @@ Kaous, le coeur plein de gaieté.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="30">
 <head>Keï Khosrou arrive chez Kaous.</head>
 
 <p>Lorsque Keï Khosrou arriva auprès du roi, il
@@ -13074,7 +13074,7 @@ n'être jamais privé de toil</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="31">
 <head>Thous refuse de reconnaître Khosrou.</head>
 
 <p>Keschwad avait à Isthakher un palais qui était la
@@ -13158,7 +13158,7 @@ boucles d'oreilles beau comme lui.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="32">
 <head>colère de Gouderz contre Thous.</head>
 
 <p>Gouderz se mit en colère et dit : <q>Puisse Thous
@@ -13205,7 +13205,7 @@ rien de plus heureux.  </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="33">
 <head>Gouderz et Thous font prononcer Kaous sur la succession au trône.</head>
 
 <p>Lorsque Kaous eut entendu ces paroles droites , il
@@ -13248,7 +13248,7 @@ un lion furieux, pour venger son père, il guérira
 l'Iran de ses maux, et le rusé Afrasiab tremblera
 sous sa main. Le bienheureux Serosch n’a dit, dans
 mon rêve, qu'il fera cesser par sa haute forlune
-les cris qui s'élèvent de l'fran, et qu'il mettra fin
+les cris qui s'élèvent de l'Iran, et qu'il mettra fin
 aux peines et aux angoisses du monde quand il sera
 le maître de la couronne et du trône puissant. Tu
 es un fils de Newder, et non pas un étranger; mais
@@ -13299,7 +13299,7 @@ présence du roi.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="34">
 <head>Thous et Feribourz attaquent vainement le château de Bahman.</head>
 
 <p>Lorsque le soleil fut entré dans le signe du Lion,
@@ -13347,7 +13347,7 @@ ne leur avait valu qu’une marche longue et fatigante.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="35">
 <head>Keï Khosrou s’empare du château de Bahman.</head>
 
 <p>Lorsque Guiv, Gouderz et le reste de la noble famille de Keschwad apprirent que Thous et Feribourz
@@ -13460,7 +13460,7 @@ ses troupes à cheval. '</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="36">
 <head>Keï Khosrou revient victorieux.</head>
 
 <p>Lorsqu'on apprit dans l'Iran la victoire que le roi
@@ -13514,7 +13514,7 @@ monde, du distributeur des diadèmes.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="37">
 <head>Kaous place Khosrou sur le trône.</head>
 
 <p>Lorsque les rois furent descendus de leurs chevaux et entrés dans le palais, la bouche et le coeur
@@ -13553,13 +13553,13 @@ donc joyeux et ne te laisse pas aller aux soucis.</p>
 </div>
 <pb n="445"/> 
 
-<div type="textpart" n="KeiKhosrou">
+<div type="textpart" subtype="shah" n="KeiKhosrou">
 <head>xiii: Kei Khosrou (Son règne dura 60 ans.)</head>
 
-<div type="textpart" n="c1">
+<div type="textpart" subtype="part" n="1">
 
 <head>I. première guerre contre Afrasiab.</head>
-<div type="textpart" n="s1">
+<div type="textpart" subtype="chapter" n="1">
 <head>commencement du récit.</head>
 
 <p>Le poëte a achevé l’histoire de Keï Kaous, il va
@@ -13601,7 +13601,7 @@ formé et envoyé sur la terre.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="2">
 <head>les grands rendent hommage à Keï Khosrou.</head>
 
 <p>Lorsque le roi Keï Khosrou fut monté sur le
@@ -13683,7 +13683,7 @@ passé.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="3">
 <head>Keï Khosrou fait le tour de son empire.</head>
 
 <p>Lorsque le soleil eut tiré son épée brillante, et
@@ -13733,7 +13733,7 @@ hâta de chercher du repos et du sommeil.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="4">
 <head>Keï Khosrou promet à Kaous de se venger d’Afrasiab.</head>
 
 <p>Lorsque le soleil resplendissant eut amené l'aube
@@ -13827,7 +13827,7 @@ lamenter sur les meurtres et les pillages, sur les
 guerres et les dévastations. Maintenant, puisque
 vous êtes tous mes amis sincères, puisque vous
 m'êtes tous dévoués, armons-nous pour venger mon
-père, délivrons l'fran de ses maux ; allons tous à la
+père, délivrons l'Iran de ses maux ; allons tous à la
 guerre, luttons et combattons comme des léopards.
 Je changerai l’état du monde, je couvrirai la plaine
 de montagnes de morts dans le combat des héros.
@@ -13856,7 +13856,7 @@ disant : <q> Puisse le monde prospérer sous ces héros ! </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="5">
 <head>Keï Khosrou passe en revue les Pehlewans.</head>
 
 <p>Le ciel continua de tourner jusqu’à ce que le soleil
@@ -13920,7 +13920,7 @@ nous sommes lous tes esclaves, et l'empire est à toi,
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="6">
 <head>Khosrou distribue des trésors aux Pehlewans.</head>
 
 <p>Les troupeaux de chevaux du roi ayant été amenés
@@ -14090,7 +14090,7 @@ demeures.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="7">
 <head>Khosrou envoie Rustem dans l’inde.</head>
 
 <p>Aussitôt que le retour du jour eut couvert les
@@ -14138,7 +14138,7 @@ plaisir d'entendre leurs voix de rossignol.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="8">
 <head>Keï Khosrou organise son armée.</head>
 
 <p>Lorsque le soleil, dans sa splendeur, se fut levé
@@ -14378,7 +14378,7 @@ sang de mon père.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="9">
 <head>commencement de l’histoire de Firoud fils de Siawusch.</head>
 
 <p>Un prince qui est noble et brave ne doit pas confier son armée à un ennemi, car celui-ci, par sa
@@ -14400,7 +14400,7 @@ raconter, tu connaîtras la nature d’un méchant.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="10">
 <head>Thous entre dans le pays des turcs.</head>
 
 <p>Lorsque le soleil se fut montré dans toute sa grandeur, qu’il eut occupé sa place sur le trône des cieux,
@@ -14525,7 +14525,7 @@ quel orage finit par éclater sur lui.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="11">
 <head>Firoud apprend l’arrivée de Thous.</head>
 
 <p>Firoud apprit que la face brillante du soleil était
@@ -14538,7 +14538,7 @@ obseurcie, et que les pieds des dromadaires et des
 la terre comme les flots de la mer. Tokhareh lui dit :
 <q>O jeune héros! si tu ne sais ce qui avient, apprends
 que c’est l'armée de ton frère qui se dirige du pays
-rd'fran vers le Touran pour venger ton père. Elle
+rd'Iran vers le Touran pour venger ton père. Elle
 marche sur Kelat, mais je ne sais où elle livrera
 bataille. </q> Lorsque le jeune homme, qui n’avait pas
 d'expérience, entendit ces paroles, son coeur se remplit de douleur et son esprit se troubla; il ôta les
@@ -14637,7 +14637,7 @@ guerre, depuis le défilé qui menait au château jusqu’au bord du Gang.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="12">
 <head>Firoud et Tokhareh vont observer l’armée iranienne.</head>
 
 <p>Tokhareh et Firoud sortirent en toute hâte; la
@@ -14741,7 +14741,7 @@ en deux, les jettera en bas de la montagne, et reviendra. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="13">
 <head>Bahram se rend sur la montagne auprès de Firoud.</head>
 
 <p>Bahram fils de Gouderz dit au Sipehdar : <q>J’éclaircirai cette affaire. Je vais partir et exécuter tes ordres; je vais monter sur la crête de la montagne. </q>
@@ -14886,7 +14886,7 @@ roi.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="14">
 <head>Bahram retourne auprès de Thous.</head>
 
 <p>Bahram, à son retour, dit à Thous : <q>Puisse la
@@ -14942,7 +14942,7 @@ Firoud, les braves rebroussèrent chemin.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="15">
 <head>Firoud tue Rivniz.</head>
 
 <p>Mais le gendre de Thous, sur lequel le ciel lournait avec dérision, se remit en roule et se dirigea de
@@ -14981,7 +14981,7 @@ naturel méchant. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="16">
 <head>Firoud tue Zerasp.</head>
 
 <p>Le Pehlewan dit alors à Zerasp : <q> Il faut que tu
@@ -14993,7 +14993,7 @@ casque, le coeur plein de haine, la tête pleine de
 vent, et sortit du centre de l’armée, rapide comme
 Adergouschasp. Le jeune Firoud le vit de loin, jeta
 un regard rapide sur Tokhareh, et lui dit : <q> Voici un
-nouveau combattant. Regarde-le, 6 toi qui as de
+nouveau combattant. Regarde-le, ô toi qui as de
 l'expérience, et dis-mot quel est ce cavalier iranien.</q>
 
 
@@ -15014,7 +15014,7 @@ retourna en fuyant ventre à terre.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="17">
 <head>Thous attaque Firoud.</head>
 
 <p>Un grand tumulte s’éleva dans l’armée des Iraniens, et tous les braves se couvrirent de leurs
@@ -15041,7 +15041,7 @@ succombent tous quand c'est un homme qui les
 combat, et ce ne sont pas eux qui me consumeront
 par la flamme de leur colère. </q> Tokhareh l’expérmenté répondit : rl ne faut pas que les rois méprisent les conseils; tu n’es qu'un cavalier isolé, et
 * quand même tu serais de fer, quand même tu pourrais arracher un rocher de sa base, il y a trente
-« mille franiens illustres qui viendront te combattre
+« mille Iraniens illustres qui viendront te combattre
 «sur cette montagne, qui anéantiront tout et ne laisseront subsister ici ni ce château, ni une pierre.
 «ni un grain de poussière; et si Thous périssait de
 ela main, Khosrou serait affligé de sa perte, et lu
@@ -15124,7 +15124,7 @@ une porte sans savoir où il trait.  </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="18">
 <head>combat de Guiv et de Firoud.</head>
 
 <p>Guiv ayant ainsi parlé, revêtit promptement sa
@@ -15257,7 +15257,7 @@ venger.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="19">
 <head>combat de Bijen et de Firoud.</head>
 
 <p>Le jeune roi dit à Tokhareh : <q>Il vient encore un
@@ -15325,7 +15325,7 @@ sang le coeur de ce rocher.</q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="20">
 <head>mort de Firoud.</head>
 
 <p>Lorsque le soleil brillant eut disparu, et que
@@ -15473,7 +15473,7 @@ que je plains ce coeur, cette intelligence et cette noblesse d'âme!</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="21">
 <head>Djerireh se tue elle-MÊme.</head>
 
 <p>Lorsque Firoud, le fils de Siawusch, qui n'avait
@@ -15581,7 +15581,7 @@ et la feuille n’y échappent pas.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="22">
 <head>Thous conduit 80N armée vers le Kasehroud, et Bijen tue Palaschan.</head>
 
 <p>Lorsque Thous eut enterré Firoud, il quitta le
@@ -15688,7 +15688,7 @@ puisses-tu toujours réussir! puissent tes ennemis
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="23">
 <head>les Iraniens souffrent de la neige.</head>
 
 <p>Ensuite Afrasiab apprit que la frontière du Touran
@@ -15775,7 +15775,7 @@ et que le feu fut éteint.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="24">
 <head>Bahram fait Keboudeh prisonnier.</head>
 
 <p>Lorsque l'armée fut réunie autour du Sipehbed,
@@ -15802,7 +15802,7 @@ toute la montagne.</q></p>
 
 <p>Keboudeh partit, semblable à un Div noir, et
 s'approcha, à la faveur de la nuit, de l'armée des
-franiens. Or cette nuit la ronde du camp se faisait
+Iraniens. Or cette nuit la ronde du camp se faisait
 par Bahram, dont le lacet aurait pu servir à prendre
 
 
@@ -15840,7 +15840,7 @@ se mit sur-le-champ en route avec elles.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="25">
 <head>Tejaou combat les Iraniens.</head>
 
 <p>Aussitôt que le soleil se fut levé sur la plaine et
@@ -15997,7 +15997,7 @@ Afrasiab, s'établirent dans la résidence de Tejaou.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="26">
 <head>Afrasiab apprend l’invasion de Thous.</head>
 
 <p>Tejaou se présenta devant Afrasiab les yeux inondés
@@ -16073,7 +16073,7 @@ main une victoire aussi certaine. </q></p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="27">
 <head>Piran surprend les Iraniens pendant la nuit.</head>
 
 <p>Piran choisit dans son armée glorieuse trente mille
@@ -16197,14 +16197,14 @@ tous côtés des rondes, dans l'espoir de découvrir un
 <pb n="531"/>
 
 remède contre ces maux. Ensuite il ordonna à un
-grand d’entre les franiens de se ceindre pour aller
+grand d’entre les Iraniens de se ceindre pour aller
 annoncer au roi ce que Thous avait fait, et lui dire
 quel jour néfaste était arrivé pour les Iraniens et
 quels malheurs avaient accablé leurs chefs.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="28">
 <head>Keï Khosrou rappelle Thous.</head>
 
 <p>Le messager de Gouderz apprit à Khosrou que les
@@ -16347,7 +16347,7 @@ de Thous.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="29">
 <head>Feribourz propose à Piran un armistice.</head>
 
 <p>Feribourz posa sur sa tête la couronne, car il était
@@ -16433,7 +16433,7 @@ pertes de l’armée, et demander partout des renforts.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="30">
 <head>les Iraniens sont de nouveau battus par les turcs.</head>
 
 <p>Quand le mois fut fini et le temps des combats
@@ -16695,7 +16695,7 @@ haute naguère, a décliné?</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="31">
 <head>Bahram cherche son fouet sur le champ de bataille.</head>
 
 <p>Lorsque les deux armées se furent livrées au repos
@@ -16749,7 +16749,7 @@ fais pour la réveiller sont impuissants.</p>
 de bataille, guidé par la lune qui illuminait la terre.
 Il pleura amèrement sur les morts, sur les malhevreux dont la fortune s'était éclipsée; il pleura amèrement sur Rivniz, dont il trouva le corps étendu
 dans une mare de sang et de boue, et la cuirasse
-brisée. Il dit : <q> Hélas! 6 jeune et brave cavalier, un
+brisée. Il dit : <q> Hélas! ô jeune et brave cavalier, un
 homme comme toi quand ïl est mort n’est qu'une
 poignée de poussière. Ta puissante famille habite
 dans un palais, pendant que tu es couché dans un
@@ -16820,7 +16820,7 @@ quantité de flèches.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="32">
 <head>Tejaou tue Bahram.</head>
 
 <p>Lorsque les Turcs furent arrivés auprès de Piran,
@@ -16888,7 +16888,7 @@ armée supporteront cette honte? Trop d'hommes
 d’illustre naissance , trop de princes et de guerriers
 ont été blessés par tes flèches dans ce combat inattendu ; et qui de nous passera dorénavant la frontière de l'Iran sans que sa tête et son sang bouillonnent? Et pourtant si je ne craignais la colère
 d’Afrasiab, que cela remplirait de courroux, je te
-donnerais un cheval, 6 jeune homme, pour te
+donnerais un cheval, ô jeune homme, pour te
 porter auprès du Pehlewan. </q></p>
 
 <p>Piran dit, partit et s’en retourna le coeur plein de
@@ -16943,7 +16943,7 @@ la tête, affligé et honteux , et son sang échauffé bouilonnait dans son coeu
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="33">
 <head>Guiv met à mort Tejaou pour venger Bahram.</head>
 
 <p>Lorsque le soleil brillant commença à baisser, Guiv
@@ -16972,9 +16972,9 @@ ni à ma naissance ni à Mon rang. </q>
 
 
 
-<pb n="556"/>
+<pb n="556"/></p>
 
-À ces paroles de Bahram, Guiv versa des larmes
+<p>À ces paroles de Bahram, Guiv versa des larmes
 de fiel, et jura par Dieu le maître du monde, par
 le soleil, le jour et la nuit sombre, de ne pas ôter
 de sa tête son casque de Roum, jusqu’à ce qu'il eût
@@ -17066,7 +17066,7 @@ et de la manière dont la fortune avait tourné.</p>
 
 </div>
 
-<div type="textpart" n="TBD">
+<div type="textpart" subtype="chapter" n="34">
 <head>les Iraniens reviennent auprès de Khosrou.</head>
 
 <p>Lorsque le soleil eut levé sa tête brillante au-dessus
