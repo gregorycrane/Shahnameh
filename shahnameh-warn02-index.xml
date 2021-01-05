@@ -1471,7 +1471,10 @@
 
 <div type="textpart"><head><placeName>Mazana</placeName></head> <p>(Mazandaran), <ref target="p28">28</ref></p>
 
-<p>Mazandaran, country (Hyrcania),</p>
+
+</div>
+
+<div type="textpart"><head><placeName>Mazandaran</placeName></head> <p>country (Hyrcania),</p>
 <p>V, Vi, <ref target="p25">25</ref> seq, <ref target="p33">33</ref>,34: <ref target="p36">36</ref> seq., <ref target="p45">45</ref>, <ref target="p55">55</ref>, <ref target="p60">60</ref> seq., <ref target="p66">66</ref> seq., <ref target="p75">75</ref>, <ref target="p76">76</ref>, <ref target="p78">78</ref>, <ref target="p81">81</ref>, <ref target="p93">93</ref>, <ref target="p105">105</ref>, <ref target="p139">139</ref>, <ref target="p143">143</ref> seq., <ref target="p293">293</ref></p>
 
 <p>approach to from Iran, <ref target="p28">28</ref></p>
@@ -1770,7 +1773,7 @@
 
 </div>
 
-<div type="textpart"><head><placeName>Rum</placeName></head> <p>the Eastern Roman Empire, <ref target="p143">143</ref>, <ref target="p297">297</ref>, <ref target="p307">307</ref>, <ref target="p360">360</ref></p>
+<div type="textpart"><head><placeName>Rum</placeName></head> <p>the Eastern Roman Empire, <rs type="ethnic">Ruman</rs>, <ref target="p143">143</ref>, <ref target="p297">297</ref>, <ref target="p307">307</ref>, <ref target="p360">360</ref></p>
 
 </div>
 
@@ -2210,7 +2213,7 @@
 
 </div>
 
-<div type="textpart"><head><rs type="ethnic">Turanians</rs></head> <p>(<rs type="ethnic">Turanians</rs>Turkmans</rs>), the, vi, <ref target="p11">11</ref>, <ref target="p81">81</ref>, <ref target="p265">265</ref></p>
+<div type="textpart"><head><rs type="ethnic">Turanians</rs></head> <p>(<rs type="ethnic">Turanians</rs>) <rs type="ethnic">Turkmans</rs>), the, vi, <ref target="p11">11</ref>, <ref target="p81">81</ref>, <ref target="p265">265</ref></p>
 
 
 </div>
@@ -2409,7 +2412,7 @@
 
 </div>
 
-<div type="textpart"><head><persName>Kishwad</persName></head> <p><p>Father of Gudarz</p>
+<div type="textpart"><head><persName>Kishwad</persName></head> <p>Father of Gudarz</p>
 
 </div>
 </div>
