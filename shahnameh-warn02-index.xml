@@ -1314,7 +1314,7 @@
 
 </div>
 
-<div type="textpart"><head><placeName>Khazar</placeName></head> <p>region, <ref target="p285">285</ref></p>
+<div type="textpart"><head><placeName>Khazar</placeName></head> <p>region, <rs type="ethnic">Khazars</rs> <ref target="p285">285</ref></p>
 
 </div>
 
@@ -2413,6 +2413,10 @@
 </div>
 
 <div type="textpart"><head><persName>Kishwad</persName></head> <p>Father of Gudarz</p>
+
+</div>
+
+<div type="textpart"><head><rs type="ethnic">Arab</rs></head> <p><rs type="ethnic">Arabs</rs></p>
 
 </div>
 </div>
