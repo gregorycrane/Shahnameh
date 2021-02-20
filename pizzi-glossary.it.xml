@@ -99,7 +99,6 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 آب
 </head>
 <head xml:lang="fa-tr">âb</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>acqua; fiume; cârah i âb, l'arte di guidar le acque per i campi; – </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -332,7 +331,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 آرا
 </head>
 <head xml:lang="fa-tr">ârâ</head>
-<p><foreign xml:lang="fas">آرای</foreign>  <foreign xml:lang="fas-tr">ârây</foreign>, <term n="tpr">tema di presente</term> di ârâst, adornare, apprestare, preparare; prepararsi, schierarsi, ordinarsi; <term n="part">participio</term> ârâstah bî-farmân, disposto al comando, in senso di: ligio, obbediente; bar ârâstan, preparare; guvânî bar ârâst az khvishtan, fece di sè stesso un giovane (si trasformò in giovane); intrans. prepararsi, accingersi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">râdh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">râdh</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">ârâçtano</foreign>, <term n="cfr">confronta</term> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">râd</foreign> (gaudium, Kossowicz; Beschliessen, SPIEGEL). - La y del <term n="tpr">tema di presente</term> ârây e la s del <term n="tps">tema di passato</term> ârâst rappresentano la dentale dh del <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> del <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">(Ascoli</foreign>, Studi Irani, I. p. 5).
+<p><foreign xml:lang="fas">آرای</foreign>  <foreign xml:lang="fas-tr">ârây</foreign>, <term n="tpr">tema di presente</term> di ârâst, adornare, apprestare, preparare; prepararsi, schierarsi, ordinarsi; <term n="part">participio</term> ârâstah bî-farmân, disposto al comando, in senso di: ligio, obbediente; bar ârâstan, preparare; guvânî bar ârâst az khvishtan, fece di sè stesso un giovane (si trasformò in giovane); <term n="intrans">intransitivo</term> prepararsi, accingersi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">râdh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">râdh</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">ârâçtano</foreign>, <term n="cfr">confronta</term> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">râd</foreign> (gaudium, Kossowicz; Beschliessen, SPIEGEL). - La y del <term n="tpr">tema di presente</term> ârây e la s del <term n="tps">tema di passato</term> ârâst rappresentano la dentale dh del <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> del <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">(Ascoli</foreign>, Studi Irani, I. p. 5).
 </p></div>
 
 <div type="textpart" subtype="entry" n="âr-ast">
@@ -849,7 +848,7 @@ afrâkhtano.
 افروز
 </head>
 <head xml:lang="fa-tr">afrûz</head>
-<p>(ô), <term n="tpr">tema di presente</term> di afrûkht, accendere; illuminare; <term n="part">participio</term> fûrûzandah (da furûz), che illumina, che illustra (con l'oggetto in <term n="gen">genitivo</term>); – bar afrikhtan, accendere; intrans. ardere, accendersi (per vergogna); – <term n="part">participio</term> gashtah afrûkhtah, che è diventato splendido; rischiarato; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">aiwi</foreign> + ruć in aiwiraoćayati, phl afrôkhtano.
+<p>(ô), <term n="tpr">tema di presente</term> di afrûkht, accendere; illuminare; <term n="part">participio</term> fûrûzandah (da furûz), che illumina, che illustra (con l'oggetto in <term n="gen">genitivo</term>); – bar afrikhtan, accendere; <term n="intrans">intransitivo</term> ardere, accendersi (per vergogna); – <term n="part">participio</term> gashtah afrûkhtah, che è diventato splendido; rischiarato; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">aiwi</foreign> + ruć in aiwiraoćayati, phl afrôkhtano.
 </p></div>
 
 <div type="textpart" subtype="entry" n="afaridan">
@@ -881,7 +880,7 @@ afrâkhtano.
 افزا
 </head>
 <head xml:lang="fa-tr">afzâ</head>
-<p><term n="tpr">tema di presente</term> di afzûd, crescere, progredire; trans. accrescere, far progredire; aggiungere; – bar af- ! zûdan, îd. — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">fshu</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">afzûtano</foreign>.
+<p><term n="tpr">tema di presente</term> di afzûd, crescere, progredire; <term n="trans">transitivo</term> accrescere, far progredire; aggiungere; – bar af- ! zûdan, îd. — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">fshu</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">afzûtano</foreign>.
 
 
 <pb n="307"/>
@@ -1994,7 +1993,7 @@ afrâkhtano.
 بار
 </head>
 <head xml:lang="fa-tr">bâr</head>
-<p><term n="tpr">tema di presente</term> di bârîd, piovere; <term n="metaf">metaforicamente</term>, cadere in abbon danza (si dice delle freccie, de isassi, ecc.); trans., far piovere, far cadere, rovesciare; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">vâr</foreign> (denom. Da vâra, pioggia, JUSTI), pârsi, vârîdan. ,
+<p><term n="tpr">tema di presente</term> di bârîd, piovere; <term n="metaf">metaforicamente</term>, cadere in abbon danza (si dice delle freccie, de isassi, ecc.); <term n="trans">transitivo</term>, far piovere, far cadere, rovesciare; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">vâr</foreign> (denom. Da vâra, pioggia, JUSTI), pârsi, vârîdan. ,
 </p></div>
 
 <div type="textpart" subtype="entry" n="bar">
@@ -2050,7 +2049,6 @@ afrâkhtano.
 باره
 </head>
 <head xml:lang="fa-tr">bârah</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>volta, fiata; yak-bârah, <term n="avv">avverbio</term> tutto in una volta, tutto ad un tratto; bî-yak-bârage, <term n="avv">avverbio</term> tutto in una volta, improvvisamente; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2357,7 +2355,6 @@ afrâkhtano.
 بد
 </head>
 <head xml:lang="fa-tr">bad.</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>cattivo, malvagio, perfido; compar. bad-tar e .battar; </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2499,7 +2496,6 @@ afrâkhtano.
 بر
 </head>
 <head xml:lang="fa-tr">bar</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>invece di abar, sopra, su; per, a cagione di; dinanzi, contro, di rincontro; verso, a, in (con moto); si costruisce col genit. o senza; az bar i, al di sopra di ..., in luogo di ..., invece; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">upairi</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">upariy</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">upari</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">afar</foreign>, pârsi, awar; – </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2580,7 +2576,6 @@ afrâkhtano.
 برز
 </head>
 <head xml:lang="fa-tr">burz</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>altezza, statura, groppa (dei cammelli); <term n="metaf">metaforicamente</term> gravità; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2594,7 +2589,6 @@ afrâkhtano.
 برزین
 </head>
 <head xml:lang="fa-tr">barzin</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p><term n="n. pr">nome proprio</term> di un guerriero dell'esercito di Kavus, Berzîn. — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2624,7 +2618,6 @@ afrâkhtano.
 برگ
 </head>
 <head xml:lang="fa-tr">barg</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>foglia, coll. foglie degli alberi; </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -2924,7 +2917,7 @@ afrâkhtano.
 بند
 </head>
 <head xml:lang="fa-tr">band</head>
-<p><term n="tpr">tema di presente</term> di bast, legare, avvinghiare, cingere; fasciare (una ferita); chiudere; intrans., agglomerarsi, accumularsi (delle nuvole, della polvere, ecc.); — furû bastan, conficcare, inchiodare; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">bañd</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">bandh</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">bindan</foreign>.
+<p><term n="tpr">tema di presente</term> di bast, legare, avvinghiare, cingere; fasciare (una ferita); chiudere; <term n="intrans">intransitivo</term>, agglomerarsi, accumularsi (delle nuvole, della polvere, ecc.); — furû bastan, conficcare, inchiodare; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">bañd</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">bandh</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">bindan</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="band">
@@ -2932,7 +2925,6 @@ afrâkhtano.
 بند
 </head>
 <head xml:lang="fa-tr">band</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>legame, vincolo, catena; patto, contratto, giuramento; — 6. bar sakhtan, chiudere, serrare; bî-band kardan, incatenare, mettere in ceppi; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -4136,7 +4128,6 @@ afrâkhtano.
 پس
 </head>
 <head xml:lang="fa-tr">pas</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p><term n="prep">preposizione</term> dietro, di dietro; pas i, dietro, di dietro; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -4177,7 +4168,7 @@ afrâkhtano.
 <div type="textpart" subtype="wsense" n="1">
 <p>piacere, esser grato, gradito; <term n="part">participio</term> pasandah, accetto, gradito; atto; – </p></div>
 <div type="textpart" subtype="wsense" n="2">
-<p>trans. approvare; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">paiti</foreign> + çend (SPIEGEL, Comment. ûber das Avesta, II, p. 311). dim, pasand, grato, caro, accetto, gradito.
+<p><term n="trans">transitivo</term> approvare; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">paiti</foreign> + çend (SPIEGEL, Comment. ûber das Avesta, II, p. 311). dim, pasand, grato, caro, accetto, gradito.
 </p>
 </div>
 </div>
@@ -4452,7 +4443,6 @@ afrâkhtano.
 پهلو
 </head>
 <head xml:lang="fa-tr">pahlav</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p><term n="n. pr">nome proprio</term> di una città sec. alcuni Dizionari, ma più <term n="prop">propriamente</term> <term n="n. pr">nome proprio</term> di una provincia, forse la Parthia degli Antichi, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">parthava</foreign> (nelle Iscrizioni del re Dario); intorno a questi nomi pahlav e parthava, <term n="v">vedi</term> SPIEGEL, Grammatik der Huzvâresch-Spr., p. 17, e Erân. Alterth. III, p. 747 e segg. — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -4780,7 +4770,6 @@ afrâkhtano.
 پیکار
 </head>
 <head xml:lang="fa-tr">paykâr</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>guerra; battaglia; contesa; opposizione, ostacolo; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">e</foreign> pârsi patkâr, <term n="rad">radice</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">paiti</foreign> + kar, opporsi; <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">pratikara;</foreign> — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -4893,7 +4882,6 @@ afrâkhtano.
 پیوند
 </head>
 <head xml:lang="fa-tr">payvand</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>congiunzione; amicizia, patto; parentela, connubio, famiglia; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5067,7 +5055,7 @@ afrâkhtano.
 تاز
 </head>
 <head xml:lang="fa-tr">tâz</head>
-<p><term n="tpr">tema di presente</term> di tâkht, correre, affrettarsi; trans. far correre, sospingere (un cavallo); presentare, condurre; <term n="inf">infinitivo</term> tâkhtan (come nome) scorreria; tâkhtan burdan, fare una scorreria; — bar takhtan, accorrere; salire (?); - tać, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">tañí</foreign>, tvanć.
+<p><term n="tpr">tema di presente</term> di tâkht, correre, affrettarsi; <term n="trans">transitivo</term> far correre, sospingere (un cavallo); presentare, condurre; <term n="inf">infinitivo</term> tâkhtan (come nome) scorreria; tâkhtan burdan, fare una scorreria; — bar takhtan, accorrere; salire (?); - tać, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">tañí</foreign>, tvanć.
 </p></div>
 
 <div type="textpart" subtype="entry" n="tâzânah">
@@ -5107,7 +5095,6 @@ afrâkhtano.
 تازیانه
 </head>
 <head xml:lang="fa-tr">tâzyânah</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>staffile, sferza; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5337,7 +5324,6 @@ afrâkhtano.
 ترک
 </head>
 <head xml:lang="fa-tr">turk</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>turco, turanio, del paese di Turania; coll. Turchi, Turani; <term n="pl">plurale</term> turkân; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5392,7 +5378,6 @@ afrâkhtano.
 تفت
 </head>
 <head xml:lang="fa-tr">taft</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>invece di tâft, <term n="v">vedi</term>; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5436,7 +5421,6 @@ afrâkhtano.
 تن
 </head>
 <head xml:lang="fa-tr">tan</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>corpo; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5566,7 +5550,6 @@ afrâkhtano.
 توان
 </head>
 <head xml:lang="fa-tr">tuvân</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>potente; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5663,7 +5646,7 @@ afrâkhtano.
 ٰتوف
 </head>
 <head xml:lang="fa-tr">tûf</head>
-<p>(o), <term n="tpr">tema di presente</term> di tûfîd, romoreggiare, risuonare, rim bombare; schiantare (intrans.).
+<p>(o), <term n="tpr">tema di presente</term> di tûfîd, romoreggiare, risuonare, rim bombare; schiantare (<term n="intrans">intransitivo</term>).
 </p></div>
 
 <div type="textpart" subtype="entry" n="tûfîd">
@@ -6274,7 +6257,6 @@ afrâkhtano.
 جوش
 </head>
 <head xml:lang="fa-tr">gứsh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>gorgoglio, corrente (d'acqua, di sangue, ecc.); -. </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -6903,7 +6885,6 @@ afrâkhtano.
 چون
 </head>
 <head xml:lang="fa-tr">cûn</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>quando, allorquando, allorchè; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -6925,7 +6906,6 @@ afrâkhtano.
 چه
 </head>
 <head xml:lang="fa-tr">cih</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>che (di cosa); ân-čih, ciò che, quello che; – cih ... kih, che mai? cosa mai? ... che anzi (come per correggere ciò che si è detto prima) – cih... cih, tanto ... quanto; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -7019,7 +6999,6 @@ afrâkhtano.
 چین
 </head>
 <head xml:lang="fa-tr">ćin</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>Cina, l'Impero Cinese; skr.cîna; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -7230,7 +7209,6 @@ afrâkhtano.
 خاور
 </head>
 <head xml:lang="fa-tr">khâvar</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>Occidente, i paesi occidentali; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -7325,7 +7303,6 @@ afrâkhtano.
 خدنگ
 </head>
 <head xml:lang="fa-tr">khadang</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>legno durissimo col quale si fanno le aste, le freccie, ecc.; – tir i khadang, freccia formata di tal legno; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -7504,7 +7481,7 @@ afrâkhtano.
 خست
 </head>
 <head xml:lang="fa-tr">khast</head>
-<p>(<term n="tps">tema di passato</term> di cui non si conosce bene il <term n="tpr">tema di presente</term>; forse khas?), ferire; intrans. esser ferito; squarciarsi; in frangersi; – <term n="part">participio</term> khastah, ferito, lacerato.
+<p>(<term n="tps">tema di passato</term> di cui non si conosce bene il <term n="tpr">tema di presente</term>; forse khas?), ferire; <term n="intrans">intransitivo</term> esser ferito; squarciarsi; in frangersi; – <term n="part">participio</term> khastah, ferito, lacerato.
 </p></div>
 
 <div type="textpart" subtype="entry" n="khastagî">
@@ -7528,7 +7505,6 @@ afrâkhtano.
 خسرو
 </head>
 <head xml:lang="fa-tr">khusrav</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p><term n="n. pr">nome proprio</term> del figlio di Siyâvish; vendicò con la morte di Afrâsyâb la morte del padre, succedette a Kâvus nel regno dell' Iran, e per i suoi meriti fu fatto degno di salire al cielo; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">huçravanh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">suçravas</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">'Oopóris</foreign>, Xoopóris, Cosroe (nome di alcuni re Sassanidi); — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -7571,7 +7547,6 @@ afrâkhtano.
 خشت
 </head>
 <head xml:lang="fa-tr">khisht</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>mattone; </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8077,7 +8052,6 @@ afrâkhtano.
 خون
 </head>
 <head xml:lang="fa-tr">khûn</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>sangue; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8176,7 +8150,6 @@ afrâkhtano.
 خیره
 </head>
 <head xml:lang="fa-tr">khîrah</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>attonito, stupefatto, confuso, perplesso, stordito; folle, forsennato; sconfortato, avvilito; – bikhirah furû mândan, rimaner stordito; – bar khîrah, inutilmente, stoltamente; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8442,7 +8415,7 @@ afrâkhtano.
 در
 </head>
 <head xml:lang="fa-tr">dar</head>
-<p>e <foreign xml:lang="fas">درّ</foreign>  <foreign xml:lang="fas-tr">darr</foreign>, <term n="tpr">tema di presente</term> di darîd e darrîd, lacerare, sbranare, fare in pezzi, infrangere; <term n="part">participio</term> <term n="pl">plurale</term> darrandagân (<term n="lett">letteralmente</term>, sbrananti), animali feroci, belve; – bar daridan, lacerare; rompere; intrans., rompersi, spezzarsi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">dar</foreign>.
+<p>e <foreign xml:lang="fas">درّ</foreign>  <foreign xml:lang="fas-tr">darr</foreign>, <term n="tpr">tema di presente</term> di darîd e darrîd, lacerare, sbranare, fare in pezzi, infrangere; <term n="part">participio</term> <term n="pl">plurale</term> darrandagân (<term n="lett">letteralmente</term>, sbrananti), animali feroci, belve; – bar daridan, lacerare; rompere; <term n="intrans">intransitivo</term>, rompersi, spezzarsi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">dar</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="dar">
@@ -8573,7 +8546,6 @@ afrâkhtano.
 درفش
 </head>
 <head xml:lang="fa-tr">dirafsh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>vessillo, bandiera; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8611,7 +8583,6 @@ afrâkhtano.
 درنگ
 </head>
 <head xml:lang="fa-tr">dirang</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>agg., lungo; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8783,7 +8754,6 @@ afrâkhtano.
 دست
 </head>
 <head xml:lang="fa-tr">dast</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>mano; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -8910,7 +8880,6 @@ afrâkhtano.
 دل
 </head>
 <head xml:lang="fa-tr">dil</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>cuore, animo, mente; <term n="pl">plurale</term> dilhâ; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -9031,7 +9000,6 @@ afrâkhtano.
 دم
 </head>
 <head xml:lang="fa-tr">dam</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>fiato, alito, soffio; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -9515,7 +9483,6 @@ afrâkhtano.
 راغ
 </head>
 <head xml:lang="fa-tr">râgh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>falde di un monte vicino alla pianura (radices montis ad planitiem siti, VULLERS); — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -9549,7 +9516,7 @@ afrâkhtano.
 ران
 </head>
 <head xml:lang="fa-tr">rân</head>
-<p><term n="tpr">tema di presente</term> di rând, spingere, sospingere; intrans., andare innanzi, avanzarsi; cavalcare, thaûvw; bar dast ¿ kasî rândan, cavalcare a fianco, in compagnia di un altro;
+<p><term n="tpr">tema di presente</term> di rând, spingere, sospingere; <term n="intrans">intransitivo</term>, andare innanzi, avanzarsi; cavalcare, thaûvw; bar dast ¿ kasî rândan, cavalcare a fianco, in compagnia di un altro;
 - bâz rândan, riandare, richiamare alla mente.
 </p></div>
 
@@ -9677,7 +9644,7 @@ afrâkhtano.
 رد
 </head>
 <head xml:lang="fa-tr">rad</head>
-<p><term n="pl">plurale</term> radân, sapiente; signore, principe; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">Ratu</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">ritu</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">rat</foreign>. Padah, ordine, fila, schiera; - r. bar kashidan, comporre una schiera, ordinare un esercito; intrans., schierarsi, ordinarsi.
+<p><term n="pl">plurale</term> radân, sapiente; signore, principe; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">Ratu</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">ritu</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">rat</foreign>. Padah, ordine, fila, schiera; - r. bar kashidan, comporre una schiera, ordinare un esercito; <term n="intrans">intransitivo</term>, schierarsi, ordinarsi.
 </p></div>
 
 <div type="textpart" subtype="entry" n="razm">
@@ -9889,7 +9856,6 @@ afrâkhtano.
 رنگ
 </head>
 <head xml:lang="fa-tr">rang</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>colore; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -10165,7 +10131,7 @@ afrâkhtano.
 ریز
 </head>
 <head xml:lang="fa-tr">riz</head>
-<p>(e), <term n="tpr">tema di presente</term> di rîkht, versare, spargere, disperdere; -- furû rikhtan, spargere; gettare a terra; intrans. cadere, gettarsi a terra (da cavallo); - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">rić</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">λιπ</foreign> (asinw), <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">liq</foreign>, (linquo); <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">Rêkhtano</foreign>.
+<p>(e), <term n="tpr">tema di presente</term> di rîkht, versare, spargere, disperdere; -- furû rikhtan, spargere; gettare a terra; <term n="intrans">intransitivo</term> cadere, gettarsi a terra (da cavallo); - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">rić</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">λιπ</foreign> (asinw), <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">liq</foreign>, (linquo); <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">Rêkhtano</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="rizah-riz">
@@ -10278,7 +10244,6 @@ afrâkhtano.
 زار
 </head>
 <head xml:lang="fa-tr">zâr</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>lamento, gemito, pianto; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -10300,7 +10265,6 @@ afrâkhtano.
 زاغ
 </head>
 <head xml:lang="fa-tr">zâgh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>corvo; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -11171,7 +11135,7 @@ afrâkhtano.
 <head xml:lang="fa-tr">sipâr</head>
 <p><term n="tpr">tema di presente</term> di sipurd, </p>
 <div type="textpart" subtype="wsense" n="1">
-<p>consegnare, affidare; intrans. esser tranquillo e contento; - </p></div>
+<p>consegnare, affidare; <term n="intrans">intransitivo</term> esser tranquillo e contento; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
 <p>andare in giro, camminare; seguir le orme di un altro.
 </p>
@@ -11532,7 +11496,7 @@ afrâkhtano.
 <div type="textpart" subtype="wsense" n="2">
 <p>principe, capitano, signore. duce; <term n="pl">plurale</term> saran, principi, eroi, grandi di corte; </p></div>
 <div type="textpart" subtype="wsense" n="3">
-<p>cima, vetta, sommità; orlo di un bicchiere; - sar bî-sar, da capo a capo, da un capo all'altro, da capo a fondo, del tutto; bî-sar bar, al di sopra (con due <term n="prep">preposizione</term>): bî-sar andar âvardan, ridurre all'estremo, rovinare. far perire; - s. âmadan, venire a capo, giungere al termine, finire, cessare; prevalere, superare, vincere; - s. andar âvardan, porre principio ad una cosa, intraprendere, incominciare; - s. avardan, condurre a fine, far finire, porre un termine; — s. bar afrakhtan, <pb n="399"/> sollevare il capo, mostrarsi fiero, inorgoglirsi; pompeggiarsi; trans. onorare, esaltare uno; – s. bar âvardan, sollevare il capo; spuntare, crescere (delle piante); distinguersi, segnalarsi (con az, zi-); - s. nihâdan (con sûy) volgere il capo a ..., inviarsi, incamminarsi verso une luogo; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gara</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">κάρα</foreign>, <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">çiras</foreign>.
+<p>cima, vetta, sommità; orlo di un bicchiere; - sar bî-sar, da capo a capo, da un capo all'altro, da capo a fondo, del tutto; bî-sar bar, al di sopra (con due <term n="prep">preposizione</term>): bî-sar andar âvardan, ridurre all'estremo, rovinare. far perire; - s. âmadan, venire a capo, giungere al termine, finire, cessare; prevalere, superare, vincere; - s. andar âvardan, porre principio ad una cosa, intraprendere, incominciare; - s. avardan, condurre a fine, far finire, porre un termine; — s. bar afrakhtan, <pb n="399"/> sollevare il capo, mostrarsi fiero, inorgoglirsi; pompeggiarsi; <term n="trans">transitivo</term> onorare, esaltare uno; – s. bar âvardan, sollevare il capo; spuntare, crescere (delle piante); distinguersi, segnalarsi (con az, zi-); - s. nihâdan (con sûy) volgere il capo a ..., inviarsi, incamminarsi verso une luogo; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gara</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">κάρα</foreign>, <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">çiras</foreign>.
 </p>
 </div>
 </div>
@@ -11732,7 +11696,6 @@ afrâkhtano.
 سرو
 </head>
 <head xml:lang="fa-tr">sarv</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>cipresso; <term n="metaf">metaforicamente</term>, fanciulla, donzella (per il corpo agile e snello come un cipresso; immagine comune ai poeti Persiani); — <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">farv</foreign> (donde il <term n="sir:https://en.wikipedia.org/wiki/Syriac_language">Syriac</term> <foreign xml:lang="syc-tr">sharvaino</foreign>, e l'<term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">Sharbin</foreign>, ROEDIGER, Chrest. Syriac. p. 101). — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -11966,7 +11929,7 @@ afrâkhtano.
 سنج
 </head>
 <head xml:lang="fa-tr">sang</head>
-<p><term n="tpr">tema di presente</term> di sangîd, pesare; intrans., aver peso, aver valore.
+<p><term n="tpr">tema di presente</term> di sangîd, pesare; <term n="intrans">intransitivo</term>, aver peso, aver valore.
 </p></div>
 
 <div type="textpart" subtype="entry" n="singâb">
@@ -11998,7 +11961,6 @@ afrâkhtano.
 سنگ
 </head>
 <head xml:lang="fa-tr">sang</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>pietra, sasso; la pietra nera (<term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">Al-hagaru</foreign> 'l-asvadu) incastrata nel tempio della Kaaba alla Mecca, oggetto di venerazione per i Maomettani; – sang i khârâ (<term n="lett">letteralmente</term>, pietra di rupe), selce, sasso durissimo; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -12360,7 +12322,6 @@ afrâkhtano.
 شاخ
 </head>
 <head xml:lang="fa-tr">shakh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>ramo, tronco d'albero; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -12719,7 +12680,7 @@ afrâkhtano.
 شکاف
 </head>
 <head xml:lang="fa-tr">shikâf</head>
-<p><term n="tpr">tema di presente</term> di shikaft e shikâfîd, rompere, spaccare, sparare; - intrans., rompersi, infrangersi, sgretolarsi; <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">σκάπτω</foreign>, t. σκαφ, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">skaban</foreign>.
+<p><term n="tpr">tema di presente</term> di shikaft e shikâfîd, rompere, spaccare, sparare; - <term n="intrans">intransitivo</term>, rompersi, infrangersi, sgretolarsi; <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">σκάπτω</foreign>, t. σκαφ, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">skaban</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="shikâfîd">
@@ -12767,7 +12728,7 @@ afrâkhtano.
 شکن
 </head>
 <head xml:lang="fa-tr">shikan</head>
-<p><term n="tpr">tema di presente</term> di shikast, rompere, infrangere, scalfire; intrans., infrangersi, spezzarsi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">réîd</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">chîd</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">σχίζω</foreign>, σχιδ, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">scindo</foreign>.
+<p><term n="tpr">tema di presente</term> di shikast, rompere, infrangere, scalfire; <term n="intrans">intransitivo</term>, infrangersi, spezzarsi; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">réîd</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">chîd</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">σχίζω</foreign>, σχιδ, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">scindo</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="shikan">
@@ -12828,7 +12789,6 @@ afrâkhtano.
 شگفت
 </head>
 <head xml:lang="fa-tr">shigift</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>meraviglia, stupore; ay shigift, oh! mera viglia, ohl stupore; -</p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -12998,7 +12958,6 @@ afrâkhtano.
 شور
 </head>
 <head xml:lang="fa-tr">shûr</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>scompiglio, confusione; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -13740,7 +13699,6 @@ afrâkhtano.
 فراموش
 </head>
 <head xml:lang="fa-tr">farâmûsh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>immemore, dimentico; ~ </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -14731,7 +14689,7 @@ afrâkhtano.
 کش
 </head>
 <head xml:lang="fa-tr">kash</head>
-<p><term n="tpr">tema di presente</term> di kashîd, trarre, tirare, strascinare; condurre, addurre; intrans., presentarsi, avanzarsi; partire; - <term n="part">participio</term> kashần, traente, strascinante; kashân-at, colui che ti strascina, o coll., quelli che ti strascinano (al supplizio); - andar kashidan, tirar dentro, contrarre; far passare (si dice del tempo); intrans., accostarsi (?); - bar kashîdan, estrarre, sfoderar (la spada); intrans., saltar fuori, erompere; – birin kashidan, estrarre, togliere, togliersi (le vesti, le scarpe, ecc.); - dar kashîdan, apporre, addurre, presentare; portare (un bicchiere alle labbra); — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">karesh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">krish</foreign>.
+<p><term n="tpr">tema di presente</term> di kashîd, trarre, tirare, strascinare; condurre, addurre; <term n="intrans">intransitivo</term>, presentarsi, avanzarsi; partire; - <term n="part">participio</term> kashần, traente, strascinante; kashân-at, colui che ti strascina, o coll., quelli che ti strascinano (al supplizio); - andar kashidan, tirar dentro, contrarre; far passare (si dice del tempo); <term n="intrans">intransitivo</term>, accostarsi (?); - bar kashîdan, estrarre, sfoderar (la spada); <term n="intrans">intransitivo</term>, saltar fuori, erompere; – birin kashidan, estrarre, togliere, togliersi (le vesti, le scarpe, ecc.); - dar kashîdan, apporre, addurre, presentare; portare (un bicchiere alle labbra); — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">karesh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">krish</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="kash">
@@ -15193,7 +15151,6 @@ afrâkhtano.
 کوی
 </head>
 <head xml:lang="fa-tr">kûy</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>strada, strada maestra; bî-kty andarûn, nella via (con moto); — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -15207,7 +15164,6 @@ afrâkhtano.
 که
 </head>
 <head xml:lang="fa-tr">kih</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p><term n="pron. rel">pronome relativo</term>, che, il quale, la quale, i quali, le quali, ecc. Col <term n="pron. pers">pronome personale</term> Ê si scrive kû e ha un significato più intensivo, quello stesso che ...; <term n="dat">dativo</term> e <term n="acc">accusativo</term> ki-râ, k-ash; interrog. kz-râ, a chi? a chi mai?; kih guft, chi disse? ki-y-and (per kih and), chi sono? - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -15395,7 +15351,7 @@ afrâkhtano.
 گار
 </head>
 <head xml:lang="fa-tr">gâr</head>
-<p><term n="tpr">tema di presente</term> di gâsht, volgere, voltare; - bar gâshtan, volgere; rivoltare, voltolare; intrans., voltarsi indietro per partire; rûy bar gâshtan, volgere il volto, partire.
+<p><term n="tpr">tema di presente</term> di gâsht, volgere, voltare; - bar gâshtan, volgere; rivoltare, voltolare; <term n="intrans">intransitivo</term>, voltarsi indietro per partire; rûy bar gâshtan, volgere il volto, partire.
 </p></div>
 
 <div type="textpart" subtype="entry" n="gâsht">
@@ -15472,7 +15428,6 @@ afrâkhtano.
 گاه
 </head>
 <head xml:lang="fa-tr">gâh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>luogo; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -15486,7 +15441,6 @@ afrâkhtano.
 گاه
 </head>
 <head xml:lang="fa-tr">gâh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>tempo; -- <term n="avv">avverbio</term>, al tempo che, allora che ...; gah (per gâh) i kâr-râr, al tempo della battaglia; - gâh ... gâh, ovv. gâhi ... gih, ovv. gâhî ... gâhi, e gahi ... gahi, ora ... ora, talora ... talora (termini correlativi); -- ân-gâh, e ân-gah, <term n="avv">avverbio</term>, in quel tempo, allora; -- ham-an-gâh, e ham-ân-gah, <term n="avv">avverbio</term>, in quello stesso momento; — cand-gâh, <term n="avv">avverbio</term>, per qualche tempo (anche land-gah); - yak-cand gah, <term n="avv">avverbio</term>, per qualche poco di tempo; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -15599,7 +15553,6 @@ afrâkhtano.
 گراز
 </head>
 <head xml:lang="fa-tr">guraz</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>verro, cinghiale; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">varáza</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">Varaha;</foreign> - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -16152,7 +16105,7 @@ afrâkhtano.
 گسل
 </head>
 <head xml:lang="fa-tr">gusil</head>
-<p><term n="tpr">tema di presente</term> di gusist, rompere, spezzare, infrangere; troncare; togliere; danneggiare; distogliere, allontanare; -- gusistah shud az khvîsh u payvand i û, fu allontanato, strappato (Dahâk) dai consanguinei e collegati suoi; – intrans.; ricever danno; rompersi, guastarsi; distogliersi, liberarsi; cessare.
+<p><term n="tpr">tema di presente</term> di gusist, rompere, spezzare, infrangere; troncare; togliere; danneggiare; distogliere, allontanare; -- gusistah shud az khvîsh u payvand i û, fu allontanato, strappato (Dahâk) dai consanguinei e collegati suoi; – <term n="intrans">intransitivo</term>; ricever danno; rompersi, guastarsi; distogliersi, liberarsi; cessare.
 </p></div>
 
 <div type="textpart" subtype="entry" n="gusi">
@@ -16556,7 +16509,6 @@ afrâkhtano.
 گوی
 </head>
 <head xml:lang="fa-tr">gûy</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>globo, palla; – </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -16720,7 +16672,7 @@ afrâkhtano.
 لب
 </head>
 <head xml:lang="fa-tr">lab</head>
-<p>labbro; orlo; riva d'un fiume; <term n="pl">plurale</term> labân; — bi lab rasidan, giungere all'orlo, cioè giungere al termine, finire (intrans.); - <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">labium</foreign>.
+<p>labbro; orlo; riva d'un fiume; <term n="pl">plurale</term> labân; — bi lab rasidan, giungere all'orlo, cioè giungere al termine, finire (<term n="intrans">intransitivo</term>); - <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">labium</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="lakht">
@@ -16920,7 +16872,7 @@ afrâkhtano.
 <div type="textpart" subtype="wsense" n="1">
 <p>rimanere, restare; ritirarsi, tirarsi indietro, astenersi (con az); stancarsi, restar da meno; rimaner superstite nel mondo, sopravvivere; restar meravigliato (sottint. shigift); bî-mandand mardum az-ân parvarish, si stancava la gente per quel cibo (cioè per il molto cibo che era necessario per Rustem); un' altra spiegazione di questo verso <term n="v">vedi</term> in VULLERS, Lex. pers. II, p. 1125. - </p></div>
 <div type="textpart" subtype="wsense" n="2">
-<p>lasciare, lasciare indietro; abbandonare; - bâz mândan, rimanere indietro, astenersi dal fare una cosa; trans., lasciare, lasciare indietro, lasciar superstite; - furû mândan, restar confuso, restar turbato; restar meravigliato; stancarsi, rimaner stanco; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">man</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">man</foreign> e <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">man</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">μένω</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">maneo</foreign>.
+<p>lasciare, lasciare indietro; abbandonare; - bâz mândan, rimanere indietro, astenersi dal fare una cosa; <term n="trans">transitivo</term>, lasciare, lasciare indietro, lasciar superstite; - furû mândan, restar confuso, restar turbato; restar meravigliato; stancarsi, rimaner stanco; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">man</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">man</foreign> e <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">man</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc-tr">μένω</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">maneo</foreign>.
 </p>
 </div>
 </div>
@@ -17494,7 +17446,6 @@ afrâkhtano.
 مهر
 </head>
 <head xml:lang="fa-tr">mihr</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>amore, amicizia; — m. payvastan, stringere amicizia; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -17583,7 +17534,6 @@ afrâkhtano.
 میان
 </head>
 <head xml:lang="fa-tr">miyân</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>mezzo; <term n="avv">avverbio</term>, nel mezzo (col <term n="gen">genitivo</term>); - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -18271,7 +18221,6 @@ afrâkhtano.
 نستوه
 </head>
 <head xml:lang="fa-tr">nustûh</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>bellicoso, battagliero; valoroso; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -18570,7 +18519,7 @@ afrâkhtano.
 نما
 </head>
 <head xml:lang="fa-tr">numâ</head>
-<p><term n="tpr">tema di presente</term> di numûd, pres. numâyam, mostrare, far vedere, far apparire; - intrans., mostrarsi; parere; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">ni</foreign> + mâ, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">mâ</foreign>.
+<p><term n="tpr">tema di presente</term> di numûd, pres. numâyam, mostrare, far vedere, far apparire; - <term n="intrans">intransitivo</term>, mostrarsi; parere; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">ni</foreign> + mâ, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">mâ</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="namaz">
@@ -18800,7 +18749,6 @@ afrâkhtano.
 نهان
 </head>
 <head xml:lang="fa-tr">nihân</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>cosa nascosta; secreto; coll., le cose secrete, i secreti, a drógenta; <term n="metaf">metaforicamente</term>, animo; az nihan, dall'intimo dell'animo; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">nihân</foreign>, <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">ni</foreign> + dhâ; – </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -19052,7 +19000,6 @@ afrâkhtano.
 نیل
 </head>
 <head xml:lang="fa-tr">nil</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>azzurro, ceruleo, <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">nili</foreign>, the indigo plant; -- </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -19491,7 +19438,6 @@ afrâkhtano.
 همانا
 </head>
 <head xml:lang="fa-tr">hamânâ</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>certamente, sicuramente, senza dubbio; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -19802,7 +19748,6 @@ afrâkhtano.
 ی
 </head>
 <head xml:lang="fa-tr">i</head>
-<p></p>
 <div type="textpart" subtype="wsense" n="1">
 <p>invece di sl î, tu sei, <foreign xml:lang="fas">شاهی</foreign>  <foreign xml:lang="fas-tr">shâh-î</foreign>, tu sei re; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -19911,7 +19856,7 @@ afrâkhtano.
 یاز
 </head>
 <head xml:lang="fa-tr">yâz</head>
-<p><term n="tpr">tema di presente</term> di yâzîd, allungare, stendere; – intrans., prolungarsi, giungere a toccare.
+<p><term n="tpr">tema di presente</term> di yâzîd, allungare, stendere; – <term n="intrans">intransitivo</term>, prolungarsi, giungere a toccare.
 </p></div>
 
 <div type="textpart" subtype="entry" n="yâz">
