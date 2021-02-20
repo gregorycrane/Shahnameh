@@ -197,7 +197,7 @@
 #اندر# andar, dentro, in; tra, fra; - z. añtare, antp. Antar, skr. antar, lat. inter, got. undar.
 #اندران# andar-ân (cfr.  <ref xml:lang="fas-tr">ân</ref>, quello), in quello, in quella; intorno a ciò, intorno a tal proposito; andarân rûzgâr, in quel tempo.
 #اندرخور# andar-khvar (cfr. andar khvardan, convenire), conveniente. jy alil andarz, consiglio, ammonizione.
-#اندرو# andarû, v. andarûn.
+#اندرو# andarû,v. <ref xml:lang="fas-tr">andarûn</ref>.
 
 
 
@@ -208,7 +208,7 @@
 #اندک# andak (dimin. di and, pârsi añt, SPIEGEL, Gramm. der Pârsi-Spr. p. 73 e 118), poco, un poco; --  <foreign xml:lang="fas-tr">andaki</foreign>$3 (suff. <foreign xml:lang="fas-tr">e</foreign>) un poco; con la negaz., nemmeno un poco; nulla, niente.
 #اندوه# andûh, affanno, dolore, cura; a. dâshtan, affliggersi, dolersi.
 #اندوهگین# andûh-gîn (suff. <foreign xml:lang="fas-tr">gîn</foreign>), addolorato, afflitto.
-#انده# anduh, v. andûh.
+#انده# anduh,v. <ref xml:lang="fas-tr">andûh</ref>.
 #اندیش# andish, tpr. di <ref xml:lang="fas-tr">andîshîd</ref>, pensare; darsi pensiero, curare.
 #اندیشه# andishah, pensiero, cura, sollecitudine, meditazione; a. kardan, pensare, meditare; farsi pensieroso, essere assorto in gravi pensieri; inventare.
 #اندیشید# andishîd, tps. di <ref xml:lang="fas-tr">andîsh</ref>.
@@ -232,7 +232,7 @@
 #آوردگه# âvard-gah, v. âvard-gâh.
 #اورنگ# avrang, trono, seggio reale.
 #آورید#  âvarîd, tps. di <ref xml:lang="fas-tr">âvar</ref>.
-#اوی# ûy (ô), v. û.
+#اوی# ûy (ô),v. <ref xml:lang="fas-tr">û</ref>.
 #آویخت# âvikht, tps. di <ref xml:lang="fas-tr">âvîz</ref>.
 #آویز#  âvîz, tpr. di <ref xml:lang="fas-tr">âvîkht</ref> (C), appendere, sospendere, attaccare; aderire, attaccarsi; part. âvikhtah, conficcato, inchiodato, sospeso ad un chiodo; inf. âvîkhtan (come nome), l'attaccarsi battaglia; — andar âvîkhtan, appendere, impiccare; – bar dvikhtan, aderire, attaccarsi; attaccarsi in battaglia, venire alle mani; – z. e skr. vig, pârsi vékhtan.
 #آویز# avíz (ê), 1) l'attaccarsi battaglia, assalto; 2) luogo da attaccarsi, da appoggiarsi.
@@ -286,7 +286,7 @@
 #بابزن# bâb-zan, spiedo.
 #باج# bag, tributo; bâg-râ, per tributo, a modo di tributo, antp. bâgi, rad. z. baz, skr. bhag, dividere, spartire.
 #باد# bâd, vento, turbine, procella; metaf. superbia, vanto; bâd i sard (vento freddo), gemito, sospiro; affanno; bâd i sard zadan, sospirare; -- z. e skr. vâta, lat. ventus, got. vinds (rad. vâ, spirare).
-#باد# bâd, per buvâd. v. bû.
+#باد# bâd, per buvâd.v. <ref xml:lang="fas-tr">bû</ref>.
 #بادافره# bâdâfrah, da slodly pâdah-frâh, castigo, puni1 zione; phl. pâtfrâs, pârsi pâdafrâh (da un z. paiti + parça supposto dallo SPIEGEL, poichè la rad. z. pars cercare, ha anche il significato d' inquisire e di punire, Die trad. Litt. der Pârsen, p. 411; cfr. l'antp. ufraçta, ben castigato).
 
 
@@ -317,7 +317,7 @@
 #بازجای# bâz-gây (cfr.  <ref xml:lang="fas-tr">gâ</ref>, ģây, luogo), che ritorna al suo luogo; b. shudán, e b. âmadan, ritornare.
 #بازو# bâzû, braccio; ala; z. bâzu, skr. bâhu, gr. πῆχυς.
 #بازی# bâzi, giuoco; b. numûdan, in ćih bâzî numûdî, che fine hai tu ottenuto? a qual giuoco hai tu giuocato?
-#باش# bâsh, v. bû.
+#باش# bâsh,v. <ref xml:lang="fas-tr">bû</ref>.
 #باغ# bâgh, giardino; luogo di delizie.
 #باف# bâf, tpr. di <ref xml:lang="fas-tr">bâft</ref>, tessere; ornare, intessere; z. e skr. vap, gr. ὑφαίνω, ted. weben.
 #بافت# bâft, tps. di <ref xml:lang="fas-tr">bâf</ref>.
@@ -352,7 +352,7 @@
 #بخشود# bakhshûd, tps. di <ref xml:lang="fas-tr">bakhsh</ref>.
 #بخشید# bakhshîd, tps. di <ref xml:lang="fas-tr">bakhsh</ref>.
 #بد# bad. 1) cattivo, malvagio, perfido; compar. bad-tar e .battar; 2) male, malignità; phl. vat, pârsi vať, cfr. ingl. bad.
-#بد# bud, v. bûd, tps. di <ref xml:lang="fas-tr">bû</ref>.
+#بد# bud,v. <ref xml:lang="fas-tr">bûd</ref>, tps. di <ref xml:lang="fas-tr">bû</ref>.
 #بداختر# bad-akhtar (cfr.  <ref xml:lang="fas-tr">akhtar</ref>, stella, destino), che apporta cattiva sorte, maligno, infausto; disgraziato.
 #بداندیش# bad-andish (cfr.  <ref xml:lang="fas-tr">andishidan</ref>, pensare), che pensa male, maligno; nemico.
 #بدبخت# bad-bakht (cfr.  <ref xml:lang="fas-tr">bakht</ref>, sorte), che ha cattiva sorte, infelice, duotuxńs; infausto, di cattivo augurio.
@@ -369,7 +369,7 @@
 #بر# bar, petto; bî-bar, sul petto, in grembo; bî-bar giriftan, stringere al seno.
 #بر# bar, frutto; phl. bar, rad. z. bar, produrre.
 #بر# bar, 1) invece di abar, sopra, su; per, a cagione di; dinanzi, contro, di rincontro; verso, a, in (con moto); si costruisce col genit. o senza; az bar i, al di sopra di ..., in luogo di ..., invece; z. upairi, antp. upariy, skr. upari, phl. afar, pârsi, awar; – 2) come agg. nel compar. bar-tar, superiore, più alto (col gen. o az); superlat. bar-tarîn, sommo, eccelso.
-#بر# bar (ar. barr), terra, paese, sempre con bûm, v. bûm.
+#بر# bar (ar. barr), terra, paese, sempre con bûm,v. <ref xml:lang="fas-tr">bûm</ref>.
 #بر# bur <foreign xml:lang="fas">برّ</foreign>  <foreign xml:lang="fas-tr">burr</foreign>, tpr. di <ref xml:lang="fas-tr">burîd</ref> e burrîd, tagliare, troncare, spaccare, spezzare, tritare; part. burrân, tagliente (si dice di un ferro, ecc.).
 #برابر#  barabar, pari, eguale; che è di rịncontro, che è alla portata di una cosa, che è dirimpetto; b. Shudan, esser dirimpetto; – avv. di rincontro.
 #برادر# birâdar, fratello; z. e antp. brâtar, skr. Bhratar, phl. brât, gr. φράτωρ, lat. frater, got. brôthâr, nord. brôdhir.
@@ -390,7 +390,7 @@
 #برنا# barnâ, giovane, giovinetto; z. aperenayu, aperenâyûka (a + perena + âyu, che non ha piena, compiuta l'età), phl. apârnâik, pârsi apûrnâi.
 #برو# bar-û, per bar i û, sopra di esso.
 #برومند# barûmand (ô, suff. ûmand = mand), fruttifero.
-#بیرون# bîrûn, v. birûn.
+#بیرون# bîrûn,v. <ref xml:lang="fas-tr">birûn</ref>.
 #بره# barah, agnello; phl. varak.
 #برهم# bar-ham, insieme, tutt' insieme; vicendevolmente.
 #برهنه# barahnah, nudo, spogliato; metaf., svelato, manifesto; phl. burhanak.
@@ -446,7 +446,7 @@
 #بوسید#  bûsîd, tps. di <ref xml:lang="fas-tr">bûs</ref>.
 #بوق# bûk (ar.), tromba; clangore, squillo di tromba.
 #بوم#  bûm, terra, paese; z. bûmi, antp. bumi, skr. bhûmi.
-#بوی# buvî, 2a pers. pres. sing. di bûdan, tu sei; v. bû.
+#بوی# buvî, 2a pers. pres. sing. di bûdan, tu sei;v. <ref xml:lang="fas-tr">bû</ref>.
 #بوی# bûy (ô), tpr. di <ref xml:lang="fas-tr">bûyîd</ref> (la y finale sta a rappresentare la dh orig., cfr. z. baodha, odore; ASCOLI, Studi Irani). odorare, fiutare.
 #بوی# bûy (ô), 1) odore, fragranza; — 2) indole, natura; – z. baodha, baoidhi, phl. bôi.
 #بویید# bûyîd, tps. di <ref xml:lang="fas-tr">bûy</ref>.
@@ -469,7 +469,7 @@
 #بی‌جان# bî-gân, (cfr.  <ref xml:lang="fas-tr">ğân</ref>, anima), esanime, morto; svenuto; 6. kardan, uccidere.
 #بیچارع# bî-ćârah (cfr.  <ref xml:lang="fas-tr">ćârah</ref>, arte, mezzo), privo di mezzi; perplesso, dubbioso; povero, meschino, Aropos; pl. bî-ćâragân, i mortali, gli uomini.
 #بید# bîd, salice; z. vaêti, phl. vit, gr. ἰτέα,  gr. ϝιτεα, ted. weide.
-#بید# bîd, per buvîd, 2a pers. pl. pres. di bûdan, voi siete; siate; v. bû.
+#بید# bîd, per buvîd, 2a pers. pl. pres. di bûdan, voi siete; siate;v. <ref xml:lang="fas-tr">bû</ref>.
 #بیدادگر# bîdâd-gar (bîdâd, ingiustizia, + suff, gar), ingiusto, iniquo.
 #بیدار# bîdâr, desto, svegliato; alacre, vigile; b. Shudan, destarsi.
 #بیداربخت# bîdâr-bakht (cfr.  <ref xml:lang="fas-tr">bakht</ref>, sorte), che ha vigile la sorte, cioè propizia.
@@ -755,7 +755,7 @@
 #تذرو# tadharv, fagiano; gr. τάτυρος, skr. tittira, skr. tittiri(?), VULLERS.
 #تر#  tar, umido, bagnato; phl. tar, cfr. z. tauruna(?), gr. τέρην, SPIEGEL, Die trad. Litt. der Pârsen. p. 398.
 #تر# tar, suffisso del comparativo; z. e skr. tara, gr. τερο-.
-#تو را# turâ, v. tû.
+#تو را# turâ,v. <ref xml:lang="fas-tr">tû</ref>.
 #ترجمان# targamân (ar., cfr. sir. e cald. targem, interpretd), 1) interprete; 2) pena, multa inflitta. — Con questo nome Rustem figuratamente designa il suo arco; sec. il so significato, bisogna interpretare: quello che mi fa intendere, sentire dai miei nemici, che fa sentire i miei colpi; sec. il 2° significato, bisogna tradurre: quello che dà la dovuta pena ai colpevoli, ai nemici.
 
 
@@ -984,7 +984,7 @@
 
 
 <pb n="356"/>
-#چو# cû, v. cûn.
+#چو# cû,v. <ref xml:lang="fas-tr">cûn</ref>.
 #چوب# éûb, legno, bastone; asta della lancia; skr. kshupa.
 #چوگان# ćavgân, clava, mazza; il giuocar con la mazza (giuoco prediletto dei Persiani).
 #چون# cûn, 1) quando, allorquando, allorchè; — 2) come,siccome.
@@ -1028,7 +1028,7 @@
  âgandan, spargere la polvere sopra il proprio capo, in senso di: farsi del male da sè medesimo; — kh. paymûdan (misurar la terra), prostrarsi al suolo.
 #خاکسار# khâk-sâr (suff. sâr), simile alla polvere della terra; vile, abietto; - kh. kardan, render vile, umi liare, avvilire, far onta.
 #خام# khâm – 1) crudo, non cotto; - 2) inesperto; vano, stolto.
-#خامش# khâmush, v. khâmûsh.
+#خامش# khâmush,v. <ref xml:lang="fas-tr">khâmûsh</ref>.
 #خاموش# khâmûsh, silenzioso, tacito; metaf. docile, obbediente; inerte; — kh. gashtan, avvilirsi, perdersi di coraggio.
 #خان#  khân, v. không.
 #خانه# khânah, abitazione, casa, domicilio; stanza, appartamento separato; nido; phl. khânak; rad. kan, scavare.
@@ -1243,7 +1243,7 @@
 #درود# dirûd, tps. di <ref xml:lang="fas-tr">dirav</ref>..
 #درود# durûd, benedizione; augurio, voto; saluto; – d. rasânidan, portare un saluto.
 #درود# durûd, messe, raccolta del grano.
-#درون# darûn, v. andarûn.
+#درون# darûn,v. <ref xml:lang="fas-tr">andarûn</ref>.
 #درویش# darvish (dar, porta, + rad. z. vîç, skr. viç, entrare; che entra per le porte a mendicare; — secondo altri, invece di daryûsh (o), z. drighu), mendico, povero; coll. poveri; i dervish.
 #دری# darî (cfr.  <ref xml:lang="fas-tr">dar</ref>, reggia, + suff. <foreign xml:lang="fas-tr">a</foreign>), cortigiano, cortigia nesco; – n. pr. di una lingua, lingua cioè di corte (cfr. il sermo aulicus di Dante), lingua più nobile ed eletta; Firdusi appunto scrisse in questa lingua. «Es wurde von den Personen des königlichen Hofes gesprochen, daher bekam es den Namen so», SPIEGEL, Gramm. der Huzvâr. Spr. p. 15.
 #دریا# daryâ, mare; lago; fiume; – z. zrayanh, antp. daraya, phl zraê, skr. ğrayas (rad. gri, distendersi).
@@ -1434,7 +1434,7 @@
 #رنجید# rangîd, tps. di <ref xml:lang="fas-tr">rang</ref>.
 #رنگ#  rang, 1) colore; — 2) splendore, bellezza, nitidezza;  3) frode, inganno, falsità; — zi-rang shudan (lett. uscir dal proprio colore), mutar colore, impallidire (per ira o per timore); — r. amikhtan, ordire inganni; — cfr. rad. skr. rang, colorare.
 #رو# rav, tpr. di <ref xml:lang="fas-tr">raft</ref>, andare, muoversi; partire; morire; – part. ravân, che cammina; (come nome) corrente d'acqua, fiume; – inf. raftan (come nome), andata, viaggio, partenza; — pish raftan, presentarsi, avanzarsi; – z. rap (per hrap), skr. srip, gr. ἕρπω, lat. serpo.
-#رو# rû, v. rûy, volto.
+#رو# rû,v. <ref xml:lang="fas-tr">rûy</ref>, volto.
 #روا# ravâ (propriamente part. di raftan, andare), lecito, permesso; possibile a farsi.
 #روان# ravân, pl. ravânhâ, anima, spirito; indole, carattere; – z. urvan, phl. rubano, pârsi ruân.
 #روان# ravân, corrente d'acqua, fiume; rivo (d'acqua, di sangue); part. di rav, v.
@@ -1443,7 +1443,7 @@
 <pb n="383"/>
 #روب# rûb (ô), tpr. di <ref xml:lang="fas-tr">ruft</ref>, spazzare, scopare, ripulire; - <foreign xml:lang="fas-tr">zamîn-râ bi-muzhagân bi-ruft</foreign> spazzo il suolo con le ciglia, cioè si chinò col capo al suolo in segno di obbedienza; ~ z. rup, skr. lup, lat. rapio (portar via).
 #روباه#rûbâh, volpe, faina; z. urupi, phl. rûpā.
-#روبه# rûbah, v. rûbâh.
+#روبه# rûbah,v. <ref xml:lang="fas-tr">rûbâh</ref>.
 #رود# rød, fiume; -- z. urud, skr. rodha, phl. pârsi rôt.
 #رود# rød, musica, suoni, canti.
 #رودابه# rûdâbah, n. pr. della figlia di Mihrab, che fu poisposa di Zâl e madre di Rustem; Rûdâbeh.
@@ -1882,7 +1882,7 @@
 #شورش# shurish (suff. <foreign xml:lang="fas-tr">ish</foreign>), tumulto, turbamento, inquietudine; Ribellione.
 #شورید# shûrîd, tps. di <ref xml:lang="fas-tr">shûr</ref>.
 #شوم# shûm (ar. pus), infortunio, calamità; – khusrav i shum, Khusrev apportator d'infortunio (cfr. L'omer. Abonapis, sciagurato Paride).
-#شوی# shûy, v. shû.
+#شوی# shûy,v. <ref xml:lang="fas-tr">shû</ref>.
 
 
 <pb n="412"/>
@@ -1905,7 +1905,7 @@
 <pb n="413"/>
 #شیرخوان# shir-khvân, n. pr. di un luogo ora sconosciuto (SPIEGEL, Erân. Alterth. I. p. 542, 543); Shêr-khân.
 #شیرفش# shir-fash (suff. <foreign xml:lang="fas-tr">fash</foreign>), leonino, che ha fattezze da leone.
-#شیرو# shirû, v. shirûy.
+#شیرو# shirû,v. <ref xml:lang="fas-tr">shirûy</ref>.
 #شیروی# shirûy, eg shirû, n. pr. di un eroe turanio, ucciso da Ghershâsp; Shirûy.
 #شیرین# shirin (da shir, latte; suff. <foreign xml:lang="fas-tr">in</foreign>), dolce; caro, diletto.
 #شیون# shivan (e), lamento, gemito.
@@ -2039,7 +2039,7 @@
 #فریبرز# fariburz, n. pr. di un figlio del re Kâvus; Feriburz.
 #فریدون# farîdûn, anche <foreign xml:lang="fas">آفریدون</foreign>  <foreign xml:lang="fas-tr">afarîdûn</foreign> (forma erronea, SPIEGEL, Erân. Alterth. I, p. 537, nota; la vera pronuncia è Frédûn). N. pr. di un celebre re leggendario dell' Iran; Frédûn. Vedine la storia nei capi II, IV, V dell' Antologia; - z. thraêtaona, skr. traitana, trita, phl. fritûn, arm. hrodan.
 #فریفت# firift, tps. di <ref xml:lang="fas-tr">firib</ref>.
-#فزود# fuzûd, v. afzûd, tps. di <ref xml:lang="fas-tr">afza</ref>.
+#فزود# fuzûd,v. <ref xml:lang="fas-tr">afzûd</ref>, tps. di <ref xml:lang="fas-tr">afza</ref>.
 #فزود# fuzûd, precedenza (?); bar fuzûd, in precedenza, al primo posto (Antologia, c. VIII, v. 147); in questo passo il VULLERS legge: na-bud kihtar az mihtarán bar fuzûd, non erano gli inferiori al di sotto dei superiori (bar fuzûd, al di sotto), cioè erano tutti allo stesso grado; e scelta è quella proposta dal RUCKERT; cfr. Fird. Lib. Reg. ed. VULLERS, I. p. 225.
 #فزون# fuzûn, molto, assai; avv., più, di più; — f. Kardan, accrescere, render più grande, esaltare; - <foreign xml:lang="fas-tr">fuzûn az</foreign> più di ..., più che ...; – fuzûn az shumâr, più di quello che si possa numerare, innumerevole.
 
@@ -2179,12 +2179,12 @@
 #کنگ# kang, n. pr. di una città, Kang, fondata da Siyâvish; più comunemente detta kang-dizh, secondo il Bundehesh (p. 70), a molte parasanghe all'oriente del lago Vourukasha; — z. kanha, phl. kang-deg.
 #کنگ‌دژ# kang-dizh (cfr.  <ref xml:lang="fas-tr">dizh</ref>, rocca),v. <ref xml:lang="fas-tr">kang</ref>.
 #کنگره# kangarah, terrazzo, loggia.
-#کنون# kunûn, v. aknûn.
+#کنون# kunûn,v. <ref xml:lang="fas-tr">aknûn</ref>.
 #کنیز# kania, pl. kanizân, fanciulla, donzella; cfr. z. kainin, kainika, kanya, skr. kanyà, phl. e pârsi kanik (dal z. kainika).
 #کو# Sk-, per kihû, il quale, la quale; forma più intensiva, come se volesse dire: quello stesso che ...
 #کوب# kûb, tpr. di <ref xml:lang="fas-tr">kûft</ref>, battere, colpire; pestare, tritare.
 #کوتاه# kûtah, corto, breve; lieve, leggero (in senso figurato); - k.kardan, abbreviare; alleggerire; - metaf., alieno, estraneo, repugnante (con az).
-#کوته# kûtah, v. kûtah.
+#کوته# kûtah,v. <ref xml:lang="fas-tr">kûtah</ref>.
 #کودک# kûdak, piccino, bambino; — z. kutaka, phl. kûtak.
 
 
@@ -2384,12 +2384,12 @@
 #گوسپند# gûspand (ô), pecora, coll., pecore; z. gaospeñta, phl. gocpand. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura <pb n="442"/> Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, cfr. Vendîdâd. 21, 1, Yaşna, 29. voor die gûsh (6), orecchio, coll., gli orecchi; - g. bar nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondiscendere; - z. gaosha, antp. gausa, skr. ghosha (rad. z. gush, udire).
 #گوشت# gøsht, carne.
 #گوشوار# gush-vâr (suff. vâr), orecchino, pendente; z. gaoshâvare, phl. goshvâr.
-#گون# gûn, v. gûnah.
+#گون# gûn,v. <ref xml:lang="fas-tr">gûnah</ref>.
 #گونه# gûnah, e <foreign xml:lang="fas">گون</foreign>  <foreign xml:lang="fas-tr">gûn</foreign>, colore; modo, maniera; — bî-din gûnah, in questo modo, in questa maniera; - come aggettivo, dietro un nome: tale, cotale: — hić gûnah, avv., in nessun modo (con negaz.); – digar-gûnah, che è di diverso colore; avv., diversamente,v. <ref xml:lang="fas-tr">digar</ref>, digar; — z. gaona, skr. guna.
 #گونه‌گون# gûnah-gûn, variopinto, variato, che ha varii colori; artificioso; – avv., variatamente, artificiosa mente.
 #گونه‌گونه# gûnah-gûnah, v. gûnah-gûn.
 #گوهر# gavhar, e <foreign xml:lang="fas">گهر</foreign>  <foreign xml:lang="fas-tr">guhar</foreign>, 1) materia, sostanza, essenza, natura particolare; sesso; nâ-suftah gavhar, v. na suftah; – 2) gemma, pietra preziosa; - phl. E pârsi gohar.
-#گوی# gây, tpr. di <ref xml:lang="fas-tr">guft</ref>, v. gû.
+#گوی# gây, tpr. di <ref xml:lang="fas-tr">guft</ref>,v. <ref xml:lang="fas-tr">gû</ref>.
 #گوی# gûy, 1) globo, palla; – 2) maestria nel giuocare alla palla.
 #گه# gah,v. <ref xml:lang="fas-tr">gâh</ref>.
 #گهر# guhar,v. <ref xml:lang="fas-tr">gavhar</ref>.
@@ -2658,7 +2658,7 @@
 #نفس# nafas (ar.), spirito, anelito, fiato; - n. Gusistan (troncare il fiato) togliere la vita, far morire.
 #نفط# nift, nafta, liquore incendiabile, gr. ναφθᾶ, gr. νάφθα.
 #نقطه# nuktah (ar.), neo, punto.
-#نکو# nikû, v. nîkû.
+#نکو# nikû,v. <ref xml:lang="fas-tr">nîkû</ref>.
 #نگار# nigâr, tpr. di <ref xml:lang="fas-tr">nigârîd</ref> e nigâsht, dipingere, rappre sentare; fregiare; metaf. considerare nella mente; - <foreign xml:lang="fas-tr">bar nigâridan</foreign>, id.
 #نگار# nigâr, pittura; ornamento, fregio; coll., fregi, orna menti; tintura delle guancie, belletto; ritratto, immagine.
 #نگارید# nigârîd, tps. di <ref xml:lang="fas-tr">nigâr</ref>.

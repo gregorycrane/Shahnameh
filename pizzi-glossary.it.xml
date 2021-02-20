@@ -1370,7 +1370,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 اندرو
 </head>
 <head xml:lang="fa-tr">andarû</head>
-<p><term n="v">vedi</term> andarûn.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">andarûn</ref>.
 
 
 
@@ -1423,7 +1423,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 انده
 </head>
 <head xml:lang="fa-tr">anduh</head>
-<p><term n="v">vedi</term> andûh.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">andûh</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="andish">
@@ -1580,7 +1580,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 اوی
 </head>
 <head xml:lang="fa-tr">ûy</head>
-<p>(ô), <term n="v">vedi</term> û.
+<p>(ô),<term n="v">vedi</term> <ref xml:lang="fas-tr">û</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="âvikht">
@@ -1941,7 +1941,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 باد
 </head>
 <head xml:lang="fa-tr">bâd</head>
-<p>per buvâd. <term n="v">vedi</term> bû.
+<p>per buvâd.<term n="v">vedi</term> <ref xml:lang="fas-tr">bû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bâdâfrah">
@@ -2138,7 +2138,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 باش
 </head>
 <head xml:lang="fa-tr">bâsh</head>
-<p><term n="v">vedi</term> bû.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">bû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bâgh">
@@ -2367,7 +2367,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بد
 </head>
 <head xml:lang="fa-tr">bud</head>
-<p><term n="v">vedi</term> bûd, <term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">bû</ref>.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">bûd</ref>, <term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">bû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bad-akhtar">
@@ -2508,7 +2508,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بر
 </head>
 <head xml:lang="fa-tr">bar</head>
-<p>(<term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">barr)</foreign>, terra, paese, sempre con bûm, <term n="v">vedi</term> bûm.
+<p>(<term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">barr)</foreign>, terra, paese, sempre con bûm,<term n="v">vedi</term> <ref xml:lang="fas-tr">bûm</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bur">
@@ -2670,7 +2670,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بیرون
 </head>
 <head xml:lang="fa-tr">bîrûn</head>
-<p><term n="v">vedi</term> birûn.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">birûn</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="barah">
@@ -3060,7 +3060,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بوی
 </head>
 <head xml:lang="fa-tr">buvî</head>
-<p>2a pers. pres. <term n="sing">singolare</term> di bûdan, tu sei; <term n="v">vedi</term> bû.
+<p>2a pers. pres. <term n="sing">singolare</term> di bûdan, tu sei;<term n="v">vedi</term> <ref xml:lang="fas-tr">bû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bûy">
@@ -3250,7 +3250,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بید
 </head>
 <head xml:lang="fa-tr">bîd</head>
-<p>per buvîd, 2a pers. <term n="pl">plurale</term> pres. di bûdan, voi siete; siate; <term n="v">vedi</term> bû.
+<p>per buvîd, 2a pers. <term n="pl">plurale</term> pres. di bûdan, voi siete; siate;<term n="v">vedi</term> <ref xml:lang="fas-tr">bû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="bîdâd-gar">
@@ -5266,7 +5266,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 تو را
 </head>
 <head xml:lang="fa-tr">turâ</head>
-<p><term n="v">vedi</term> tû.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">tû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="targamân">
@@ -6860,7 +6860,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 چو
 </head>
 <head xml:lang="fa-tr">cû</head>
-<p><term n="v">vedi</term> cûn.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">cûn</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="éûb">
@@ -7176,7 +7176,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خامش
 </head>
 <head xml:lang="fa-tr">khâmush</head>
-<p><term n="v">vedi</term> khâmûsh.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">khâmûsh</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="khâmûsh">
@@ -8646,7 +8646,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 درون
 </head>
 <head xml:lang="fa-tr">darûn</head>
-<p><term n="v">vedi</term> andarûn.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">andarûn</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="darvish">
@@ -9878,7 +9878,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 رو
 </head>
 <head xml:lang="fa-tr">rû</head>
-<p><term n="v">vedi</term> rûy, volto.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">rûy</ref>, volto.
 </p></div>
 
 <div type="textpart" subtype="entry" n="ravâ">
@@ -9929,7 +9929,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 روبه
 </head>
 <head xml:lang="fa-tr">rûbah</head>
-<p><term n="v">vedi</term> rûbâh.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">rûbâh</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="rød">
@@ -13008,7 +13008,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 شوی
 </head>
 <head xml:lang="fa-tr">shûy</head>
-<p><term n="v">vedi</term> shû.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">shû</ref>.
 
 
 <pb n="412"/>
@@ -13150,7 +13150,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 شیرو
 </head>
 <head xml:lang="fa-tr">shirû</head>
-<p><term n="v">vedi</term> shirûy.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">shirûy</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="shirûy">
@@ -14038,7 +14038,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 فزود
 </head>
 <head xml:lang="fa-tr">fuzûd</head>
-<p><term n="v">vedi</term> afzûd, <term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">afza</ref>.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">afzûd</ref>, <term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">afza</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="fuzûd">
@@ -15033,7 +15033,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کنون
 </head>
 <head xml:lang="fa-tr">kunûn</head>
-<p><term n="v">vedi</term> aknûn.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">aknûn</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="kania">
@@ -15073,7 +15073,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کوته
 </head>
 <head xml:lang="fa-tr">kûtah</head>
-<p><term n="v">vedi</term> kûtah.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">kûtah</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="kûdak">
@@ -16460,7 +16460,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گون
 </head>
 <head xml:lang="fa-tr">gûn</head>
-<p><term n="v">vedi</term> gûnah.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">gûnah</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="gûnah">
@@ -16506,7 +16506,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گوی
 </head>
 <head xml:lang="fa-tr">gây</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">guft</ref>, <term n="v">vedi</term> gû.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">guft</ref>,<term n="v">vedi</term> <ref xml:lang="fas-tr">gû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="gûy">
@@ -18386,7 +18386,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 نکو
 </head>
 <head xml:lang="fa-tr">nikû</head>
-<p><term n="v">vedi</term> nîkû.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">nîkû</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" n="nigâr">
