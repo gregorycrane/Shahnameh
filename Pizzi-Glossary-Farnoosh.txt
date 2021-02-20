@@ -807,7 +807,7 @@
 #توز# tûz, corteccia d'albero, con la quale si fanno involucri per gli archi; - <foreign xml:lang="fas-tr">tûz az mushk</foreign> v. la traduzione di questo passo alla fine dei testi.
 #توزی# tûzî (ô), veste da estate di lino sottile; in generale, veste; - t. kafan pûshidan, indossar per veste un lenzuolo funebre, andare incontro alla morte.
 #توش# tûsh (o), vigore, forza, potenza; z. (nelle Gâtha) tevîshi.
-#توشه# tûshah (6), cibo, provvigione; sostegno, conforto.
+#توشه# tûshah (ô), cibo, provvigione; sostegno, conforto.
 #ٰتوف# tûf (o), tpr. di <ref xml:lang="fas-tr">tûfîd</ref>, romoreggiare, risuonare, rim bombare; schiantare (intrans.).
 #توفید# tûfîd, tps. di <ref xml:lang="fas-tr">tûf</ref>.
 #توئی# tû-y-î, per <foreign xml:lang="fas">تو ای</foreign> <foreign xml:lang="fas-tr">tû î</foreign>, tu sei.
@@ -1013,7 +1013,7 @@
 #حربه# þarbah (ar.), punta di ferro, spada corta; pl. þarb-hâ.
 #حرم# haram (ar.), gineceo, parte della casa destinata alle donne, harem.
 #حریر# harir (ar.), seta, sempre con khazz, v.
-#حلقه# halşah (ar.), anello, cerchio; monile che si mettono le fanciulle allo stinco (con pây-band, v.); – bi-ḥalkah dar âmadan, venire a impigliarsi in un nodo, in unlaccio.
+#حلقه# halşah (ar.), anello, cerchio; monile che si mettono le fanciulle allo stinco (con pâ<ref xml:lang="fas-tr">y-band</ref>, v.); – bi-ḥalkah dar âmadan, venire a impigliarsi in un nodo, in unlaccio.
 #حمایل# hamayil (ar.), pendaglio, oggetto che pende sul petto (come gioielli, ecc.), amuleto.
 #حمله# hamlah (ar.), assalto; - ķ. âvardan, portare un assalto, assaltar con impeto, fare impeto; gettarsi, scagliarsi; -- h. padhîraftan, cacciarsi innanzi con impeto.
 #خا# khâ, tpr. di <ref xml:lang="fas-tr">khâyîd</ref>, pr. khâyam, mordere, addentare.
@@ -1067,7 +1067,7 @@
 #خروش# khurûsh, tpr. di <ref xml:lang="fas-tr">khurûshîd</ref>, gridare, urlare, fremere; part. khurûshân, urlante, fremente; z. khruç, skr. kruc.
 #خروش# khurûsh, voce, grido; lamento, gemito; urlo; – kh. bar âmadan, sorgere un grido, farsi sentire un grido; - kh. bar avardan, levare un grido (di guerra).
 #خروشید# khurushîd, tps. di <ref xml:lang="fas-tr">khurûsh</ref>.
-#خز# khazz, (ar.), panno di seta (sempre con harir, v.).
+#خز# khazz, (ar.), panno di seta (sempre con <ref xml:lang="fas-tr">harir</ref>, v.).
 #خزان# khazân, autunno.
 #خسپ# khusp, tpr. di <ref xml:lang="fas-tr">khuspîd</ref>, dormire; z. qafs.
 #خسپید# khuspîd, tps. di <ref xml:lang="fas-tr">khusp</ref>.
@@ -1137,7 +1137,7 @@
 #خوب‌روی# khûb-rûy (cfr.  <ref xml:lang="fas-tr">rûy</ref>, volto), che è bello in volto, avvenente.
 #خوبی# khûbî (suff. <foreign xml:lang="fas-tr">î</foreign>), bontà; dolcezza, affabilità di modi.
 #خود# khvad (pronunciato: khôd), pron. riflesso, sè stesso, sè medesimo; v. Gramm. 127, 128, 129; — z.qa, hva, antp. uva- (nei composti), skr. sva, phl. hvat, gr. ἑ, σϝε, lat. se.
-#خود# khûd (6), elmo, celata ; —- z. khaodha.
+#خود# khûd (ô), elmo, celata ; —- z. khaodha.
 #خور# khvar, tpr. di <ref xml:lang="fas-tr">khvard</ref>, -- 1) mangiare; bere; consumare; soffrir qualche cosa (si in bene che in male, cfr. gr. πάσχω); – 2-ishần khvarîd (c. I dell'Antol.), godete, traete utile da essi (dagli animali); qui non si può tradurre mangiate di essi, perchè, secondo Firdusi, gli uomini cominciarono a cibarsi di carne soltanto sotto il regno del re Dahâk (v. c. II dell'Antol.) molto tempo dopo il re Hôsheng, al quale son poste in bocca le parole di sopra; – inf. khvardan (come nome), alimento, cibo, nutrimento; - 2) andar khvar. dan, e dar khvardan, convenire, esser conveniente, adatto; - z. qar, skr. svar.
 #خور# khvar, cibo, alimento; cibo scarso, appena sufficiente al vivere. Ji khvar, sole; -- metaf. amante; – z. hvare, skr. svar, gr. ἥλιος, gr. ἀέλιος, per gr. σαϝελιος, lat. sol (rad. Svar, risplendere).
 #خورد# khvard, tps. di <ref xml:lang="fas-tr">khvar</ref>.
@@ -1186,7 +1186,7 @@
 #دادار# dâdâr, Creatore, Iddio; z. dâtar, skr. dhâtar, phl. dâtâr.
 #دادگر# dâd-gar (suff. <foreign xml:lang="fas-tr">gar</foreign>), Creatore.
 #دار# dâr, tpr. di <ref xml:lang="fas-tr">dâsht</ref>, avere, tenere, possedere; custodire, conservare, mantenere; stimare, reputare; part. darandah, che ha, che tiene, che custodisce; scudiero custo de delle armi; – z. e antp. dar, skr. dhri.
-#دار# dâr, albero, legno, trave; patibolo; albero al quale si appendono i delinquenti; – bar dâr bâd (bâd, da bû, v.), sia appeso alle forche! (modo d'imprecare); – z., dâuru, skr. dâru, gr. δόρυ, got. triu.
+#دار# dâr, albero, legno, trave; patibolo; albero al quale si appendono i delinquenti; – bar dâr bâd (bâd, da <ref xml:lang="fas-tr">bû</ref>, v.), sia appeso alle forche! (modo d'imprecare); – z., dâuru, skr. dâru, gr. δόρυ, got. triu.
 #دارو# dârû, e <foreign xml:lang="fas">داروی</foreign>  <foreign xml:lang="fas-tr">dârûy</foreign>, rimedio, medicamento.
 #داستان# dâstân (nel verso anche dà sitân), storia, racconto, novella; – pl. dâstânhâ, discorsi; d. zadan, far discorsi, trattenersi a discorrere; consultarsi.
 #داشت# dâsht, tps. di <ref xml:lang="fas-tr">dâr</ref>.
@@ -1195,7 +1195,7 @@
 
 
 <pb n="368"/>
-#دام# dâm, ogni animale non rapace, non feroce (capri, cervi, uccelli domestici e non di rapina); – dad u dâm, animali feroci (dad, v.) e non feroci, animali d'ogni specie; — z. dâman (creatura), skr. dhaman.
+#دام# dâm, ogni animale non rapace, non feroce (capri, cervi, uccelli domestici e non di rapina); – dad u dâm, animali feroci (<ref xml:lang="fas-tr">dad</ref>, v.) e non feroci, animali d'ogni specie; — z. dâman (creatura), skr. dhaman.
 #داماد# dâmâd, genero; z. zâmâtar, skr. grâmâtyi, phl. dâmâu.
 #دامن# dâman, orlo, lembo (della veste).
 #دان# dân, tpr. di <ref xml:lang="fas-tr">dânist</ref>, conoscere, sapere, essere informato; -- part. dânandah, sapiente, saggio, pl. dânandagân; — bâz dânistan, riconoscere, discernere; –z. e antp. dâ, phl. dânestano.
@@ -1317,7 +1317,7 @@
 #دور# davr (ar.), giro, circuito; – bi-davr, all'intorno, ingiro; – davr az may, giro di vino, cioè: il girar delle tazze.
 #دور# dûr, lontano, remoto; - <foreign xml:lang="fas-tr">az dûr</foreign> da lungi; — z. e skr. dûra, antp. dura.
 #دوران# davrân (ar.), giro, rivolgimento (della fortuna).
-#دوز# dûz (6), tpr. di <ref xml:lang="fas-tr">dûkht</ref>, forare, trafiggere; infilare, infilzare; battere (significato raro e metaf.); cucire, ricucire; - <foreign xml:lang="fas-tr">bar dûkhtan</foreign> forare; ćashm i nirang bar dûkhtan, v. čashm; - <foreign xml:lang="fas-tr">furû dukhtan</foreign> ricucire; — part. yak andar digar dûkhtah, infilati l'uno dentro nell'altro, che si seguono cioè senza interruzione.
+#دوز# dûz (ô), tpr. di <ref xml:lang="fas-tr">dûkht</ref>, forare, trafiggere; infilare, infilzare; battere (significato raro e metaf.); cucire, ricucire; - <foreign xml:lang="fas-tr">bar dûkhtan</foreign> forare; ćashm i nirang bar dûkhtan, v. čashm; - <foreign xml:lang="fas-tr">furû dukhtan</foreign> ricucire; — part. yak andar digar dûkhtah, infilati l'uno dentro nell'altro, che si seguono cioè senza interruzione.
 
 
 <pb n="376"/>
@@ -1346,7 +1346,7 @@
 #دیرباز# dir-bâz, lungo, lento; - <foreign xml:lang="fas-tr">meglio leggere: dir-yâz</foreign> v.
 #دیرساز# dir-sâz (cfr.  <ref xml:lang="fas-tr">sâkhtan</ref>, tpr. sâz, fare), che opera "lentamente, con circospezione; astuto.
 #دیریاز# dir-yâz (cfr.  <ref xml:lang="fas-tr">yâzidan</ref>, muoversi), che si muove lentamente, durevole, duraturo.
-#دیگر# dîgar, e <foreign xml:lang="fas">دگر</foreign>  <foreign xml:lang="fas-tr">digar</foreign>, il secondo, quel che vien dopo, posteriore; altro; diverso, differente; – pl. bi-ham digarần, gli uni con (o contro) gli altri; – avv. diversamente, in altra maniera; digar grûy (imperat. di guftan, v.), parla tu in altro modo; — un' altra volta, una seconda volta; in secondo luogo, secondariamente;- phl. datigar, pârsi dadigar.
+#دیگر# dîgar, e <foreign xml:lang="fas">دگر</foreign>  <foreign xml:lang="fas-tr">digar</foreign>, il secondo, quel che vien dopo, posteriore; altro; diverso, differente; – pl. bi-ham digarần, gli uni con (o contro) gli altri; – avv. diversamente, in altra maniera; digar grûy (imperat. di <ref xml:lang="fas-tr">guftan</ref>, v.), parla tu in altro modo; — un' altra volta, una seconda volta; in secondo luogo, secondariamente;- phl. datigar, pârsi dadigar.
 #دین# din, legge religiosa; legge; — z. daềna, phl. e pârsi din.
 #دینار# dinâr, denaro, moneta; coll. denari; cfr. skr. Dinâra, gr. δηνάριον, dal lat. denarius.
 #دیو# dîv (ê), Dêvo, demone del male. I Dêvi sono demoni creati da Ahrîmane, da lui contrapposti agli Amesha çpeñta o Imshâspandi che formano la schiera di Ormuzd. Essi si dividono, secondo l'Avesta, in mainyava o invisibili, in varenya o Dêvi del Varena, regione mitica, e in mâzainya o Devi del Mâzana o Mâzenderân, lungo il mar Caspio, regione che si credeya abitata da Dêvi e da stregoni. Cfr. SPIEGEL, Erân. Alterth. II. p. 126 e segg.; — z. daêva, skr. deva (il deva indiano è un dio buono, cfr. deus lat. rad. div, splendere); cfr: sir. dayvó, demonio.
@@ -1443,14 +1443,14 @@
 <pb n="383"/>
 #روب# rûb (ô), tpr. di <ref xml:lang="fas-tr">ruft</ref>, spazzare, scopare, ripulire; - <foreign xml:lang="fas-tr">zamîn-râ bi-muzhagân bi-ruft</foreign> spazzo il suolo con le ciglia, cioè si chinò col capo al suolo in segno di obbedienza; ~ z. rup, skr. lup, lat. rapio (portar via).
 #روباه#rûbâh, volpe, faina; z. urupi, phl. rûpā.
-#روبه# rûbah,v. <ref xml:lang="fas-tr">rûbâh</ref>.
+#روبه# rûbah, v. <ref xml:lang="fas-tr">rûbâh</ref>.
 #رود# rød, fiume; -- z. urud, skr. rodha, phl. pârsi rôt.
 #رود# rød, musica, suoni, canti.
 #رودابه# rûdâbah, n. pr. della figlia di Mihrab, che fu poisposa di Zâl e madre di Rustem; Rûdâbeh.
 #رودبار# rûd-bâr (cfr.  <ref xml:lang="fas-tr">bâr</ref>, luogo d'abbondanza), luogo dove s'incontrano molti fiumi, confluente; fiume grande.
-#روز# rûz (6), giorno; – rûzi, e yakî rûz, avv. un giorno, una volta; – digar e digar rûz, avv. al giorno seguente, all'altro giorno; – sivum rûs, avv. al terzo giorno; – r. paymûdan, passare, scorrere i giorni; – z. raoćanh, antp. rauća, skr. rocis, arm. luiç, lat. lux, cfr. gr. λευκός, hûxvos.
+#روز# rûz (ô), giorno; – rûzi, e yakî rûz, avv. un giorno, una volta; – digar e digar rûz, avv. al giorno seguente, all'altro giorno; – sivum rûs, avv. al terzo giorno; – r. paymûdan, passare, scorrere i giorni; – z. raoćanh, antp. rauća, skr. rocis, arm. luiç, lat. lux, cfr. gr. λευκός, hûxvos.
 #روزبان# rûz-bân (suff. bân), custode, guardiano.
-#روزگار# rûzgâr (6), tempo, età, durata della vita; sorte, destino; mondo; le cose umane, le vicende terrene; -  <foreign xml:lang="fas-tr">basâ rûzgârâ</foreign> (vocat.) gudhashta-st, oh! Quanto tempo è trascorso!
+#روزگار# rûzgâr (ô), tempo, età, durata della vita; sorte, destino; mondo; le cose umane, le vicende terrene; -  <foreign xml:lang="fas-tr">basâ rûzgârâ</foreign> (vocat.) gudhashta-st, oh! Quanto tempo è trascorso!
 #روزه# rûzah (suff. <foreign xml:lang="fas-tr">ah</foreign>), giornaliero; bi-yak rûzah, per lo spazio di un giorno solo, cioè che conta l'età di un giorno (si dice di un neonato, ecc.).
 #روشن# rûshan (m), splendido, lucido, splendente; puro, illibato; – z. raokhshna, antp. Ῥωξάνη (n. pr.).
 #روشنایی# rûshanâyi (suff. <foreign xml:lang="fas-tr">î</foreign>), luce, splendore.
@@ -1460,8 +1460,8 @@
 
 <pb n="384"/>
 #روشنی# rûshanî (suff. <foreign xml:lang="fas-tr">î</foreign>), splendore, luce; fiamma.
-#رومی# rûmî (suff. <foreign xml:lang="fas-tr">î</foreign>), greco, di Grecia (da rûm, Grecia,originalmente Impero Romano e Bizantino).
-#روی# rûy (6), tpr. di <ref xml:lang="fas-tr">rust</ref>, pres. rûyam, crescere, nascere dal suolo (si dice delle erbe); sbucar fuori (dei serpenti di Dahâk, v.); z. rudh, skr. ruh.
+#رومی# rûmî (suff. <foreign xml:lang="fas-tr">î</foreign>), greco, di Grecia (da rûm, Grecia, originalmente Impero Romano e Bizantino).
+#روی# rûy (ô), tpr. di <ref xml:lang="fas-tr">rust</ref>, pres. rûyam, crescere, nascere dal suolo (si dice delle erbe); sbucar fuori (dei serpenti di Dahâ<ref xml:lang="fas-tr">k</ref>, v.); z. rudh, skr. ruh.
 #روی#  rûy, anche <foreign xml:lang="fas">رو</foreign>  <foreign xml:lang="fas-tr">rû</foreign>, volto, viso, faccia; superficie (del suolo, delle acque, ecc.); sponda, ripa di un fiume; – hić rûy, avv. (con negaz.), in nessuna maniera, in nessun modo; - <foreign xml:lang="fas-tr">dû rûy</foreign> le due guancie del volto, l'una e l'altra parte della faccia; - <foreign xml:lang="fas-tr">bi-rûy andar âmadan</foreign> cader col volto innanzi, cader boccone; - <foreign xml:lang="fas-tr">- rûy bi-rûy andar âvardan</foreign> il venirsi incontro (si dice di due eserciti nemici); -- r. bar tâftan, volgere il volto, venir via; — r. bar khâk mâlidan, toccar col volto la terra, prostrarsi per adorare; - . bar gâshtan, e gashtan, volgere il volto, rivolgersi; fuggire, volger le spalle; - r. pićidan, volgere il volto in altra parte (per partire, per fuggire); torcere il collo ad una vittima (per sgozzarla); — . sâkhtan. volgersi da qualche parte; — r. kardan, volgere il viso da una parte, prendere una direzione, incamminarsi; - r. nihâdan, muoversi, partire, incamminarsi: -- z. raodha, skr. roha, phl. rût.
 #روئین# rûyîn, n. pr. di un guerriero turanio, figlio di Pirân; Rûyîn.
 #روئینه# rûyînah (suff. inah, cfr.  <ref xml:lang="fas-tr">rûy</ref>, bronzo), fabbricato di bronzo.
@@ -1483,7 +1483,7 @@
 #ریگ# rig (e), sabbia, arena; luogo sabbioso; phl. rîgak(?), SPIEGEL, Die trad. Litt. der Pârsen, p. 444.
 
 
-<pb n="386"/>
+<pb n="38(ô)"/>
 #ریمن# rayman, malvagio, infesto; fabbricator d'inganni; ovy. per âharman, (v.); mardum i rayman, uomini malvagi, ingannatori; ovv. uomini addetti ad Ahrimane.
 #ریونیز# rîvnîz (ê), n. pr. di un figlio di Kâvus che morìnella battaglia di Peshen; Rêvniz.
 #ز# zi, prep.v. <ref xml:lang="fas-tr">az</ref>.
@@ -1545,7 +1545,7 @@
 #زندگانی#  zindagânî (suff. <foreign xml:lang="fas-tr">î</foreign>), vita, durata della vita.
 #زنده# zindah, vivente, vivo.
 #زنگه#  zangah, n. pr. di un guerriero dell'esercito di Kavus, figlio di Shâverân; Zengheh.
-#زنهار# zinhâr,v. <ref xml:lang="fas-tr">zînhâr</ref>.
+#زنهار# zinhâr, v. <ref xml:lang="fas-tr">zînhâr</ref>.
 #زو#  zû, per az-u, da lui, ecc.
 #زواره# zavârah, n. pr. del fratello di Rustem; Zevâreh.
 #زود# zûd, avv. tosto, subito, prestamente, subitamente; phl. zût.
@@ -2015,7 +2015,7 @@
 <pb n="419"/>
 #فرمان‌بر# farmân-bar (cfr.  <ref xml:lang="fas-tr">burdan</ref>, tpr. bar, portare), ese cutore di un ordine, di un comando, servitore; pl. farmân-barân.
 #فرمان‌بری# farmân-barî (suff. <foreign xml:lang="fas-tr">î</foreign>), obbedienza, ossequio; – nel verso hamân gâv i dushâ bi-farmân-bari, quest' ultima parola si deve prendere in senso collettivo: la servitù, l'insieme dei servi, i servi.
-#فرمان‌روا# farmân-rava (cfr.  <ref xml:lang="fas-tr">ravà</ref>, che va, che cammina, part. pres. di raftan, v.), quegli di cui va libero e spedito il comando; autorevole, potente.
+#فرمان‌روا# farmân-rava (cfr.  <ref xml:lang="fas-tr">ravà</ref>, che va, che cammina, part. pres. di <ref xml:lang="fas-tr">raftan</ref>, v.), quegli di cui va libero e spedito il comando; autorevole, potente.
 #فرمود# farmud, tps. di <ref xml:lang="fas-tr">farmâ</ref>.
 #فرو# furu,v. <ref xml:lang="fas-tr">furud</ref>.
 #فروخت# furûkht, tps. di <ref xml:lang="fas-tr">furûz</ref>, v. afruz e afrûkht.
@@ -2381,7 +2381,7 @@
 #گور# gør (7), onagro, asino selvatico.
 #گوربان# gûr-bân (cfr.  <ref xml:lang="fas-tr">gûr</ref>, cimitero, + suff. bân), custode di un cimitero, seppellitor di cadaveri.
 #گوزن# gavzân, cervo.
-#گوسپند# gûspand (ô), pecora, coll., pecore; z. gaospeñta, phl. gocpand. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura <pb n="442"/> Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, cfr. Vendîdâd. 21, 1, Yaşna, 29. voor die gûsh (6), orecchio, coll., gli orecchi; - g. bar nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondiscendere; - z. gaosha, antp. gausa, skr. ghosha (rad. z. gush, udire).
+#گوسپند# gûspand (ô), pecora, coll., pecore; z. gaospeñta, phl. gocpand. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura <pb n="442"/> Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, cfr. Vendîdâd. 21, 1, Yaşna, 29. voor die gûsh (ô), orecchio, coll., gli orecchi; - g. bar nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondiscendere; - z. gaosha, antp. gausa, skr. ghosha (rad. z. gush, udire).
 #گوشت# gøsht, carne.
 #گوشوار# gush-vâr (suff. vâr), orecchino, pendente; z. gaoshâvare, phl. goshvâr.
 #گون# gûn,v. <ref xml:lang="fas-tr">gûnah</ref>.
@@ -2557,7 +2557,7 @@
 #میل# mil (dal lat. millia), miglio, misura itineraria.
 #میلاد# milâd, n. pr. del padre di Gurghîn; Milâd.
 #میمنه# maymanah (ar.), parte a mano destra; - <foreign xml:lang="fas-tr">sûy i maymanah</foreign> a destra.
-#مینو# minû (6), cielo, paradiso, soggiorno dei beati; – z. mainyu, skr. manyu, phl. minoi, pârsi mainyo.
+#مینو# minû (ô), cielo, paradiso, soggiorno dei beati; – z. mainyu, skr. manyu, phl. minoi, pârsi mainyo.
 #میوه# mivah, frutto; frutti silvestri; - phl. mivak, pârsi miwa.
 #ن# na- (in principio delle parole),v. <ref xml:lang="fas-tr">nah</ref>.
 #نا# nâ- (non si usa che nei composti), non, cfr. nah.
