@@ -2770,8 +2770,8 @@
 #ورزش# varzish (suff. ish), opera, lavoro; lavoro dei campi.
 #ورزید# varzîd, tps. di varż. ring vashi, rosso (?, forse per vashni, rosso, VULLERS, Lex. pers.).
 #وفا# vafà (ar.), fede, osservanza delle promesse; — v. dâshtan, serbar fede, osservar le promesse; aver fede, fidarsi (con bar).
-#وی# vay, egli, ella; cfr. <foreign xml:lang="fas">او</foreign>  <foreign xml:lang="fas-tr">û.
-#ویران#virûn</foreign>, deserto, devastato, desolato.
+#وی# vay, egli, ella; cfr. <foreign xml:lang="fas">او</foreign>  <foreign xml:lang="fas-tr">û</foreign>.
+#ویران# virûn, deserto, devastato, desolato.
 #ویرانی# vîrdnî (suff. î), desolazione.
 #ویژه# vizhah (@), puro, sincero, genuino; eletto; chiaro, illustre; certo, sicuro; fedele; avv., sicuramente, certamente; - bî-vízhah, avv., certamente, sicuramente; -- phl. afegak, pârsi awézh, awézhah.
 #ویسه# vîsah (ê), n. pr. di un principe turanio, padre di Pirân; Vêsah.
