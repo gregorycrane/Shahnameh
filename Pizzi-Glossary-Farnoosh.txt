@@ -516,7 +516,7 @@
 <pb n="328"/>
 (per pây) afgandan, fondare, mandare ad effetto; - p. andar avardan, entrare; montare in sella; - <foreign xml:lang="fas-tr">bar pây khâstan</foreign> levarsi in piedi; drizzarsi (si dice dei capelli); - metaf. sostegno; fermezza; - <foreign xml:lang="fas-tr">bi-pây âvardan</foreign> rimettere in piedi, restaurare, riordinare; – z. pâdha, skr. pâda, cfr. antp. ni-pad-zy (in den Fusstapfen, SPIEGEL), gr. πούς, ποδ-ς, lat. pes, ped-s, got. fôtus.
 #پاداش# pâdâsh, rimunerazione, ricompensa; pena, castigo; phl. patdashno (SPIEGEL, Av. Uebersetz. I. p. 279). rad. z. paiti + dâ.
-#پادشا#, pâdishâ, e <foreign xml:lang="fas">پادشاه</foreign>pâdishâh (quest'ultimo è più comune), re, principe, sovrano; – phl. pâtâ shân, pârsi pâdisâh.
+#پادشا# pâdishâ, e <foreign xml:lang="fas">پادشاه</foreign>pâdishâh (quest'ultimo è più comune), re, principe, sovrano; – phl. pâtâ shân, pârsi pâdisâh.
 #پادشاهی# pâdishâhî (suff. <foreign xml:lang="fas-tr">î</foreign>), regno, dominio, signoria.
 #پارسا# pârsâ (nel verso anche pârisâ -v-), integro, prudente, assennato, saggio.
 #پاره# pârah, frammento, pezzo, brano; lembo (di nebbia, di nube); z. e skr. pâra, phl. pârak. ,
@@ -1377,10 +1377,10 @@
 #راند# rând, tps. di <ref xml:lang="fas-tr">rân</ref>.
 #راه# râh, e x, rah, via, strada; modo, maniera di operare, metodo; mezzo, spediente, rimedio; — zi-râh, az râh (col gen.), per via di ..., a cagione di ...; - r. kardan, sgombrar la via, far passare; inviare, mandare; - phl. râs, pârsi râh.
 #راه‌پویان# râh-pûyân (cfr.  <ref xml:lang="fas-tr">pûyîdan</ref>, camminare), cavallo, corsiero, corridore.
-#راه‌جوی#, râh-gûy (cfr.  <ref xml:lang="fas-tr">gustan</ref>, tpr. gøy, cercare), viandante, viaggiatore; agile, veloce, rapido nel camminare.
+#راه‌جوی# râh-gûy (cfr.  <ref xml:lang="fas-tr">gustan</ref>, tpr. gøy, cercare), viandante, viaggiatore; agile, veloce, rapido nel camminare.
 #رای# rây (ar.), modo di vedere, consiglio, avviso, opinione, modo di pensare; proposito, scopo, meta; - <foreign xml:lang="fas-tr">- bar-ân rây</foreign> per tale scopo; - <foreign xml:lang="fas-tr">bi-ray i</foreign> a cagione di ..., in causa di ...; - r. zadan, consigliarsi, consultarsi; - 1. kardan, consigliarsi, meditare una cosa; - r. kardan sùy i ..., proporsi di recarsi verso un dato luogo; -- . nihâdan, consigliarsi, consultarsi.
 #رایت# râyat (ar.), segno, indizio.
-#رای‌زن#, rây-zan (a. p., cfr.  <ref xml:lang="fas-tr">zadan</ref>, tpr. zan, battere, metter giù), che dà consigli, consigliere, sapiente.
+#رای‌زن# rây-zan (a. p., cfr.  <ref xml:lang="fas-tr">zadan</ref>, tpr. zan, battere, metter giù), che dà consigli, consigliere, sapiente.
 
 
 
@@ -1391,26 +1391,26 @@
 #ربود# rubûd, tps. di <ref xml:lang="fas-tr">rubà</ref>.
 #رخ# rukh, guancia, gota; pl. rukhân; cfr. rukh-sârah.
 #رخت# rakht, — 1) soma, suppellettili; – 2) dolore, affizione; r. nihâdan (nei due significati), depor le some (per riposarsi); dimenticar gli affanni.
-#رخساره#, rukh-sârah (cfr.  <ref xml:lang="fas-tr">rukh)</ref>, guancia, gota.
+#رخساره# rukh-sârah (cfr.  <ref xml:lang="fas-tr">rukh)</ref>, guancia, gota.
 #رخش# rakhsh, tpr. di <ref xml:lang="fas-tr">rakhshîd</ref>, risplendere, illuminare; part. rakhshandah, lucente, fulgido.
-#رخش#, rakhsh (splendente), n. pr. del cavallo di Rustem, Rakhsh. Vedi in Firdusi (p. 210212, Ed. Calc.) la storia del come Rustem ebbe questo cavallo.
+#رخش# rakhsh (splendente), n. pr. del cavallo di Rustem, Rakhsh. Vedi in Firdusi (p. 210212, Ed. Calc.) la storia del come Rustem ebbe questo cavallo.
 #رخشید#  rakhshîd, tps. di <ref xml:lang="fas-tr">rakhsh</ref>.
 #رد# rad, pl. radân, sapiente; signore, principe; – z. Ratu, skr. ritu, phl. rat. Padah, ordine, fila, schiera; - r. bar kashidan, comporre una schiera, ordinare un esercito; intrans., schierarsi, ordinarsi.
 #رزم#  razm, battaglia, combattimento, tenzone; z. raçman ”(schiera), arm. rhazm.
 #رزم‌آزمای# razm-âzmây (cfr.  <ref xml:lang="fas-tr">âzmûdan</ref>, tpr. azmâ, âzmây, provare), esperto, provato nelle battaglie.
-#رزم‌خواه#, razm-khvâh (cfr.  <ref xml:lang="fas-tr">khvâstan</ref>, tpr. khvâh, cercare, desiderare), desideroso di combattere, battagliero.
-#رزم‌دیده#, razm-didah (cfr.  <ref xml:lang="fas-tr">dîdan</ref>, vedere), che ha veduto, sperimentato battaglie, battagliero, bellicoso.
-#رزم‌ساز#, razm-sâz (cfr.  <ref xml:lang="fas-tr">sâkhtan</ref>, tpr. sâz, fare), bellicoso, valoroso; pl. razm-sâzân, guerrieri, combattenti.
+#رزم‌خواه# razm-khvâh (cfr.  <ref xml:lang="fas-tr">khvâstan</ref>, tpr. khvâh, cercare, desiderare), desideroso di combattere, battagliero.
+#رزم‌دیده# razm-didah (cfr.  <ref xml:lang="fas-tr">dîdan</ref>, vedere), che ha veduto, sperimentato battaglie, battagliero, bellicoso.
+#رزم‌ساز# razm-sâz (cfr.  <ref xml:lang="fas-tr">sâkhtan</ref>, tpr. sâz, fare), bellicoso, valoroso; pl. razm-sâzân, guerrieri, combattenti.
 #رزم‌گاه# razm-gâh (cfr.  <ref xml:lang="fas-tr">gâh</ref>, luogo), luogo, campo di battaglia.
 
 
 <pb n="381"/>
 #رس# ras, tpr. di <ref xml:lang="fas-tr">rasîd</ref>, arrivare, pervenire, giungere; antp.rag, phl. raçitano.
 #رسان# rasân, tpr. di <ref xml:lang="fas-tr">rasânîd</ref> (causale di rasidan, arrivare), portare, apportare; condurre.
-#رسانید#, rasânîd, tps. di <ref xml:lang="fas-tr">rasân</ref>.
+#رسانید# rasânîd, tps. di <ref xml:lang="fas-tr">rasân</ref>.
 #رست# rast, tps. di <ref xml:lang="fas-tr">rah</ref>.
 #رست# rust, tps. di <ref xml:lang="fas-tr">rûy</ref>.
-#رستخیز#, ristakhiz (e), la risurrezione dei morti alla fine del mondo; si dice anche d'ogni tumulto e d'ogni confusione; — r. dar afgandan, metter lo scompiglio in qualche luogo (z. iriçta, morto, + z. khiz, levarsi, sollevarsi. Vendîdâd, 21, 18), phl. riçtâkhég, pârsi riçtâkhézh.
+#رستخیز# ristakhiz (e), la risurrezione dei morti alla fine del mondo; si dice anche d'ogni tumulto e d'ogni confusione; — r. dar afgandan, metter lo scompiglio in qualche luogo (z. iriçta, morto, + z. khiz, levarsi, sollevarsi. Vendîdâd, 21, 18), phl. riçtâkhég, pârsi riçtâkhézh.
 #رستگی# rastagî (suff. <foreign xml:lang="fas-tr">î</foreign>), salute, guarigione.
 #رستم# rustam, n. pr. del più grande eroe dell'Epopea persiana, Rustem, figlio di Zale di Rûdâbeh, figlia di Mihrab re del Kâbul (cfr. i capi relativi a Rustem nell' Antologia, e i miei Racconti Epici. di Firdusi, p. 56–65). Sull' etimologia del nome,v. <ref xml:lang="fas-tr">rah</ref>, tpr. di <ref xml:lang="fas-tr">rast</ref>.
 #رستنی# rustanî (cfr.  <ref xml:lang="fas-tr">rustan</ref>, germogliare, suff. <foreign xml:lang="fas-tr">î</foreign>), pl. Rusta nîhâ, germogli, erbe.
@@ -1418,7 +1418,7 @@
 #رسید# rasîd, tps. di <ref xml:lang="fas-tr">ras</ref>.
 #رشک# rashk, invidia; z. araçka, phl. arashk, rashk.
 #رعد# ra'd (ar.), tuono.
-#رفت#, raft, tps. di <ref xml:lang="fas-tr">rav</ref>.
+#رفت# raft, tps. di <ref xml:lang="fas-tr">rav</ref>.
 #رفت# ruft, tps. di <ref xml:lang="fas-tr">rûb</ref>.
 #رفتنی#  raftanî (suff. <foreign xml:lang="fas-tr">î</foreign>), necessità di partire; man raftanî am, io omai debbo partire, sto per morire; pl. raftanîhâ, avvenimenti, cose che sono accadute o devono accadere.
 
@@ -1447,24 +1447,24 @@
 #رود# rød, fiume; -- z. urud, skr. rodha, phl. pârsi rôt.
 #رود# rød, musica, suoni, canti.
 #رودابه# rûdâbah, n. pr. della figlia di Mihrab, che fu poisposa di Zâl e madre di Rustem; Rûdâbeh.
-#رودبار#, rûd-bâr (cfr.  <ref xml:lang="fas-tr">bâr</ref>, luogo d'abbondanza), luogo dove s'incontrano molti fiumi, confluente; fiume grande.
+#رودبار# rûd-bâr (cfr.  <ref xml:lang="fas-tr">bâr</ref>, luogo d'abbondanza), luogo dove s'incontrano molti fiumi, confluente; fiume grande.
 #روز# rûz (6), giorno; – rûzi, e yakî rûz, avv. un giorno, una volta; – digar e digar rûz, avv. al giorno seguente, all'altro giorno; – sivum rûs, avv. al terzo giorno; – r. paymûdan, passare, scorrere i giorni; – z. raoćanh, antp. rauća, skr. rocis, arm. luiç, lat. lux, cfr. gr. λευκός, hûxvos.
 #روزبان# rûz-bân (suff. bân), custode, guardiano.
 #روزگار# rûzgâr (6), tempo, età, durata della vita; sorte, destino; mondo; le cose umane, le vicende terrene; -  <foreign xml:lang="fas-tr">basâ rûzgârâ</foreign> (vocat.) gudhashta-st, oh! Quanto tempo è trascorso!
-#روزه#, rûzah (suff. <foreign xml:lang="fas-tr">ah</foreign>), giornaliero; bi-yak rûzah, per lo spazio di un giorno solo, cioè che conta l'età di un giorno (si dice di un neonato, ecc.).
+#روزه# rûzah (suff. <foreign xml:lang="fas-tr">ah</foreign>), giornaliero; bi-yak rûzah, per lo spazio di un giorno solo, cioè che conta l'età di un giorno (si dice di un neonato, ecc.).
 #روشن# rûshan (m), splendido, lucido, splendente; puro, illibato; – z. raokhshna, antp. Ῥωξάνη (n. pr.).
-#روشنایی#, rûshanâyi (suff. <foreign xml:lang="fas-tr">î</foreign>), luce, splendore.
+#روشنایی# rûshanâyi (suff. <foreign xml:lang="fas-tr">î</foreign>), luce, splendore.
 #روشن‌دل# rûshan-dil (cfr.  <ref xml:lang="fas-tr">dil</ref>, cuore, animo), splendido, aperto di cuore; lieto, allegro.
 #روشن‌روان# rûshan-ravân (cfr.  <ref xml:lang="fas-tr">ravân</ref>, anima), puro, illibato nell' anima; giocondo, contento, lieto.
 
 
 <pb n="384"/>
-#روشنی#, rûshanî (suff. <foreign xml:lang="fas-tr">î</foreign>), splendore, luce; fiamma.
+#روشنی# rûshanî (suff. <foreign xml:lang="fas-tr">î</foreign>), splendore, luce; fiamma.
 #رومی# rûmî (suff. <foreign xml:lang="fas-tr">î</foreign>), greco, di Grecia (da rûm, Grecia,originalmente Impero Romano e Bizantino).
 #روی# rûy (6), tpr. di <ref xml:lang="fas-tr">rust</ref>, pres. rûyam, crescere, nascere dal suolo (si dice delle erbe); sbucar fuori (dei serpenti di Dahâk, v.); z. rudh, skr. ruh.
 #روی#  rûy, anche <foreign xml:lang="fas">رو</foreign>  <foreign xml:lang="fas-tr">rû</foreign>, volto, viso, faccia; superficie (del suolo, delle acque, ecc.); sponda, ripa di un fiume; – hić rûy, avv. (con negaz.), in nessuna maniera, in nessun modo; - <foreign xml:lang="fas-tr">dû rûy</foreign> le due guancie del volto, l'una e l'altra parte della faccia; - <foreign xml:lang="fas-tr">bi-rûy andar âmadan</foreign> cader col volto innanzi, cader boccone; - <foreign xml:lang="fas-tr">- rûy bi-rûy andar âvardan</foreign> il venirsi incontro (si dice di due eserciti nemici); -- r. bar tâftan, volgere il volto, venir via; — r. bar khâk mâlidan, toccar col volto la terra, prostrarsi per adorare; - . bar gâshtan, e gashtan, volgere il volto, rivolgersi; fuggire, volger le spalle; - r. pićidan, volgere il volto in altra parte (per partire, per fuggire); torcere il collo ad una vittima (per sgozzarla); — . sâkhtan. volgersi da qualche parte; — r. kardan, volgere il viso da una parte, prendere una direzione, incamminarsi; - r. nihâdan, muoversi, partire, incamminarsi: -- z. raodha, skr. roha, phl. rût.
 #روئین# rûyîn, n. pr. di un guerriero turanio, figlio di Pirân; Rûyîn.
-#روئینه#, rûyînah (suff. inah, cfr.  <ref xml:lang="fas-tr">rûy</ref>, bronzo), fabbricato di bronzo.
+#روئینه# rûyînah (suff. inah, cfr.  <ref xml:lang="fas-tr">rûy</ref>, bronzo), fabbricato di bronzo.
 #ره#  rah, tpr. di <ref xml:lang="fas-tr">rast</ref>, scampare, liberarsi, divenir libero; - <foreign xml:lang="fas-tr">bi-rastam</foreign> sono libera!, così disse Rûdabeh appena ebbe partorito, e però fu imposto al bambino il nome di Rustem, il quale però accenna non a rastan, esser libero, scampare, ma bensì a Fustan, germogliare; e in quest'ultimo caso si dovrebbe leggere bi-rust-an, <pb n="385"/> a me è nato un rampollo, un figlio (durch den Spross kam mir die Noth zu Ende, SPIEGEL). L'una e l'altra etimologia sono buone (SPIEGEL, Erân. Alterth. I, p. 572, nota).
 #ره# rah,v. <ref xml:lang="fas-tr">râh</ref>.
 #رها# raha, scampo, salvezza, liberazione; — r. Kardan, liberare.
@@ -1472,11 +1472,11 @@
 #رهائی# rahâyê (suff. <foreign xml:lang="fas-tr">î</foreign>), scampo, liberazione; salute, salvezza.
 #رهگذر# rah-gudhar (cfr.  <ref xml:lang="fas-tr">gudhar</ref>, passaggio), via frequentata, via battuta; crocicchio di vie (?).
 #رهنمای# , rah-numây (cfr.  <ref xml:lang="fas-tr">numûdan</ref>, tpr. numáy, mostrare), che addita la via; guida, condottiero; consigliero.
-#رهنمون#, rah-numûn (cfr.  <ref xml:lang="fas-tr">numûdan</ref>, mostrare), 1) guida nella via, condottiero, capo; - 2) custode, prefetto della camera reale.
+#رهنمون# rah-numûn (cfr.  <ref xml:lang="fas-tr">numûdan</ref>, mostrare), 1) guida nella via, condottiero, capo; - 2) custode, prefetto della camera reale.
 #رهنمونی# rah-numûnî (suff. <foreign xml:lang="fas-tr">î</foreign>), ufficio di guida, di condottiero; — 1. kardan, guidare, condurre.
 #رهی# rahî, schiavo, servo.
 #ریخت# rikht, tps. di <ref xml:lang="fas-tr">riz</ref>.
-#ریدک#, ridak, fanciullo turanio di bell'aspetto, garzone avvenente.
+#ریدک# ridak, fanciullo turanio di bell'aspetto, garzone avvenente.
 #ریز# riz (e), tpr. di <ref xml:lang="fas-tr">rîkht</ref>, versare, spargere, disperdere; - <foreign xml:lang="fas-tr">- furû rikhtan</foreign> spargere; gettare a terra; intrans. cadere, gettarsi a terra (da cavallo); - z. e skr. rić, gr. λιπ (asinw), lat. liq, (linquo); phl. Rêkhtano.
 #ریزه‌ریز# rizah-riz, avv. a pezzi, in pezzi; -- <foreign xml:lang="fas-tr">rîzah-rîz kardan</foreign> fare in pezzi, tritare.
 #ریش# rish (e), barba; z. raêsha, phl. rish.
