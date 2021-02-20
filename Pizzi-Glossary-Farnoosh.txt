@@ -2,21 +2,17 @@
 <head>VOCABOLARIO</head>
 #آ# â
 #آی# say, tpr. di amad, pres. ayam, imperat. â, bî-y-â, biy-ây, venire, arrivare; accadere, avvenire (di un fatto); sopravvenire, capitare; inf. amadan (usato come nome) venuta, arrivo; - andar âmadan, entrare; salire (a cavallo); venir giù, calare; discendere (da cavallo, con az, o zi-); - bar â madan, venir su, spuntare, sporgere, sollevarsi, levarsi; passare (del tempo); — birûn âmadan, uscire, andar fuori; — pish âmadan, venire innanzi, avanzarsi, presentarsi; sopravvenire; - dar amadan, entrare; metaf., cominciare; - farâz âmadan, sopravvenire, venire incontro (si dice di cosa che si prevede, come la morte, ecc.); - furûd âmadan, discendere; smontar da cavallo per fermarsi in un luogo; — il tps. âmad sta per â-gma-d, z. â-gam, antp. gam, skr. gam (cfr. phl. matano), got. quiman.
-#آب# âb, 1) acqua; fiume; cârah i âb, l'arte di guidar le acque per i campi; – 2) lagrime, pianto; – z. e skr. ap, antp. api, lat. aqua, got. ahva (fiume); - 3) Ab, il fiume Osso che divideva il regno del Turan dall' Iran, e che Afrasyâb però di tanto in tanto passava, onde nascevano le guerre così frequenti tra Irani e Turani. Questo confine fu segnato al tempo del re
-
-
-<pb n="300"/>
-Minoćihr con una freccia che slanciata da un'altura cadde sulle sponde del fiume, e determinò così il confine dei due regni. Quest' ultima circostanza non si trova nel Libro dei Re (cfr. SPIEGEL, Erânische ! Alterthumskunde I, p. 573).
+#آب# âb, 1) acqua; fiume; cârah i âb, l'arte di guidar le acque per i campi; – 2) lagrime, pianto; – z. e skr. ap, antp. api, lat. aqua, got. ahva (fiume); - 3) Ab, il fiume Osso che divideva il regno del Turan dall' Iran, e che Afrasyâb però di tanto in tanto passava, onde nascevano le guerre così frequenti tra Irani e Turani. Questo confine fu segnato al tempo del re <pb n="300"/> Minoćihr con una freccia che slanciata da un'altura cadde sulle sponde del fiume, e determinò così il confine dei due regni. Quest' ultima circostanza non si trova nel Libro dei Re (cfr. SPIEGEL, Erânische ! Alterthumskunde I, p. 573).
 #ابا# abâ, forma più antica di bâ che è più comune (v. bâ).
 #آباد# âbâd, ameno, giocondo; lieto, allegro, contento, felice; -- â. dâshtan, conservare in prospero e florido stato; â. kardan, abbellire, adornare; coltivare (la terra).
 #ابر# abr, nuvola, nube; z. awra, skr. abhra; gr. ὄμβρος, lat. imber.
 #ابرو# abrû, sopracciglio; z. brvať, skr. bhru, phl. Bris, gr. ὀφρύς.
 #آبروی# âb-rûy (cfr. rûy, volto; lett., acqua, colore del volto). ! gloria, onore, splendore; modestia, riservatezza; sudore, fatica.
 #آب‌شور# âb-shûr (cfr. shûrîdan, turbare), acqua torbida, (acqua salata, VULLERS).
- #آبگون# âb-gûn (cfr. gûn, colore), che è del color dell acqua, splendido, lucido (si dice dei metalli).
+#آبگون# âb-gûn (cfr. gûn, colore), che è del color dell acqua, splendido, lucido (si dice dei metalli).
 #آبگیر# âb-gîr (cfr. giriftan, tpr. gîr, prendere), piscina, peschiera, laghetto.
 #ابلیس# iblis, il diavolo, il demonio. In Firdusi e negli
-Scrittori Pârsi esso è identificato ad Ahrimane, v.; - n. pr. di uno dei Devi che il re Kavus costringeva a lavorare per lui, Iblis.
+ Scrittori Pârsi esso è identificato ad Ahrimane, v.; - n. pr. di uno dei Devi che il re Kavus costringeva a lavorare per lui, Iblis.
 #آبنوس# âbnûs (nel verso âbinûs), ebano (cfr. gr. ἔβενος, ebr. hobnîm); – agg. di color fosco; oscuro, offuscato.
 #ابی# abî, forma antiquata di bî, senza; pârsi awé.
 #آتش# âtash, fuoco; metaf. ardore, desiderio veemente; vampo, superbia; ira, sdegno; – z. âtar, phl. âtâsh, cfr. antp. atrina (n. pr.).
@@ -122,7 +118,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, v.; - n. pr. di uno dei Devi 
 
 <pb n="306"/>
 #افراز# afrâz, tpr. di afrâkht, sollevare, innalzare; - andar afrâkhtan, e andar afrâshtan (altra forma) sollevare in alto; – bar afrâkhtan, esaltare (con lodi); – phl.
-afrâkhtano.
+ afrâkhtano.
 #افراسیاب# afrâsyâb, n. pr. del re dei Turani figlio di Pesheng e discendente da Tûr, figlio di Frédûn. Egli è l'eterno nemico degli Irani, dei quali tenta più volte ď' invadere il regno. Per maggiori notizie, v. l'Introd. al c. IX dell' Antol.; — z. franracyan, phl. frâçiyâp (rad. z. hras, spaventare, SPIEGEL, Av. Uebersetz. III, p. LXIII).
 #افراشت# afrâsht, v. afrâkht.
 #افروخت# afrûkht, tps. di afrûz.
@@ -149,17 +145,13 @@ afrâkhtano.
 #افشان# afshân, tpr. di afshând, versare, spargere, spandere; maneggiar (la spada).
 #افشاند# afshând, tps. di afshân.
 #افشرد# afshurd, tps. di afshâr.
-#افگن# afgan, tpr. di afgand, gettare, scagliare, lanciare; mandare, spedire (un messo, una lettera); scacciare, sbandire (le cure, i pensieri); afgandah par (cfr. par, ala), che ha abbassate le ali (si dice di un uccello che ferito cade dall'alto); -- andar afgandan, gettar dentro, gettar sotto; ricoprire, rivestire (con qualche ornamento, come oro, argento, ecc); - bar afgandan, spedire,ers
-
-
-<pb n="308"/>
-
-
-mandare (un messo); - dar afgandan, gettar dentro; – z. e antp. kan, skr. khan (scavare).
+#افگن# afgan, tpr. di afgand, gettare, scagliare, lanciare; mandare, spedire (un messo, una lettera); scacciare, sbandire (le cure, i pensieri); afgandah par (cfr. par, ala), che ha abbassate le ali (si dice di un uccello che ferito cade dall'alto); -- andar afgandan, gettar dentro, gettar sotto; ricoprire, rivestire (con qualche ornamento, come oro, argento, ecc); - bar afgandan, spedire, <pb n="308"/> mandare (un messo); - dar afgandan, gettar dentro; – z. e antp. kan, skr. khan (scavare).
 #افگند# afgand, tps. di afgan.
 #اکنون# aknûn, ora, adesso; aknûn khi, ora che....
-#آگاه# âgâh #آگه# âgah, consapevole, che sa, che conosce, conscio, esperto; â. shudan, esser consapevole, essere informato; - phl. âkâs, pârsi âgâh, rad. z. â + kaç, osservare, skr. kâg.
-#اگر# agar, #گر# gar #ار# ar, se, se pure, se mai; agar … agar, gar ...gar, se ... se; tanto ... tanto, ecc.; – agar-ćih, gar-ćih, anche se, sebbene.
+#آگاه# âgâh v. âgah
+#آگه# âgah, consapevole, che sa, che conosce, conscio, esperto; â. shudan, esser consapevole, essere informato; - phl. âkâs, pârsi âgâh, rad. z. â + kaç, osservare, skr. kâg.
+#اگر# agar, v. gar
+#گر# gar #ار# ar, se, se pure, se mai; agar … agar, gar ...gar, se ... se; tanto ... tanto, ecc.; – agar-ćih, gar-ćih, anche se, sebbene.
 #آگن# âgan, tpr. di âgand; bar âgandan, spargere.
 #آگند# âgand, tps. di âgan.
 #آگه# âgah, v. âgâh.
@@ -185,7 +177,7 @@ mandare (un messo); - dar afgandan, gettar dentro; – z. e antp. kan, skr. khan
 #آمل# âmul, n. pr. di una città sul fiume Osso, cfr. SPIEGEL, Erân. Alterth. I, p. 70, Amol.
 #آموخت# âmûkht, tps. di âmûz.
 #آموز# âmûz, tpr. di âmûkht, 1) insegnare, istruire, informare uno di una cosa; 2) imparare, apprendere; phl. âmûkhtano (cfr. lituano mokinu, SPIEGEL, Die Trad. Litt. der Pârsen, p. 360).
- #آمیخت# âmîkht, tps. di âmîz.
+#آمیخت# âmîkht, tps. di âmîz.
 #امید# umîd, #امّید# ummîd (e), speranza, fiducia; z. hu, skr. su, bene, + z. maiti, skr. mati, gr, uiTIS.
 #آمیز# âmiz (e), tpr. di âmîkht, mescolare; mescolarsi; – bar âmîkhtan, mescolare insieme; gr. μίγ-νυ-μι, lat. misceo, cfr. skr. micr, micra.
 #آن# ân, pron. quello, quella, quelli, quelle; al dat. Inserisce un d, bî-d-ân, a quello.
@@ -197,9 +189,8 @@ mandare (un messo); - dar afgandan, gettar dentro; – z. e antp. kan, skr. khan
 #آنجا# ân-gâ (cfr. gâ, luogo), avv. colà, in quel luogo; bi d-ân-gâ, fin là, fino a quel luogo.
 #انجمن# anguman, raccolta, congregazione, radunanza, schiera; gente; a. kardan, raccogliere, radunare; – sar i anguman, capo di un popolo, principe; — bihar anguman, presso tutti, fra tutti; - z. hangamana (ham, insieme + gam, venire), phl. hanguman (sir.! hanzuman), cfr. skr. sangama.
 #آنچت# đa-ca-t, per đa cak at
- #آنچه# ân-ćih, ciò che, quella cosa che ...
-#اند# and, 3a pers. pl. del verbo essere; essi, esse sono; ki-y-and (per kih and), chi sono?; z. heñti, antp. hantiy, . skr. santi, gr. εἰσί, ἐντί, lat. sunt (forma primit. asanti,
-rad. as).
+#آنچه# ân-ćih, ciò che, quella cosa che ...
+#اند# and, 3a pers. pl. del verbo essere; essi, esse sono; ki-y-and (per kih and), chi sono?; z. heñti, antp. hantiy, . skr. santi, gr. εἰσί, ἐντί, lat. sunt (forma primit. asanti, rad. as).
 #انداخت# andâkht, tps. di andâz.
 #انداز# andâz, tpr. di andâkht, gettare, gettar via, scagliare,cacciare; - andar andâkhtan, intr. urtarsi, incontrarsi (in battaglia); – phl. andâkhtano, forse z. hâm + tać
 (SPIEGEL, Die trad. Litt. der Pârsen, p. 361).
@@ -213,11 +204,9 @@ rad. as).
 
 
 <pb n="311"/>
-#اندرون# andarin, dentro, entro; nel mezzo, nell'interno
-di una cosa; dietro.
+#اندرون# andarin, dentro, entro; nel mezzo, nell'interno di una cosa; dietro.
 #اندروی# andar-ûy (cfr. û, ûy, egli, lui), dietro di lui.
-#اندک# andak (dimin. di and, pârsi añt, SPIEGEL, Gramm.
-der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la negaz., nemmeno un poco; nulla, niente.
+#اندک# andak (dimin. di and, pârsi añt, SPIEGEL, Gramm. der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la negaz., nemmeno un poco; nulla, niente.
 #اندوه# andûh, affanno, dolore, cura; a. dâshtan, affliggersi, dolersi.
 #اندوهگین# andûh-gîn (suff. gîn), addolorato, afflitto.
 #انده# anduh, v. andûh.
@@ -229,7 +218,7 @@ der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la
 #انگیخت# angîkht, tps. di angîz.
 #انگیز# angiz (ê), tpr. di angikht, eccitare, suscitare, sospin gere, eccitare un cavallo (con gli sproni); – bar angikhtan, eccitare; spedire in fretta.
 #انوشه# anûshah, beato, contento; a. kasi kih, beato colui che ....
-#او# û, #اوی# ûy (), pron. pers. egli, ella; esso, essa; al dat., con la partic. bî- inserisce un d, bî-d-u, a lui; col pron. rel. kih, fa kû, il quale, la quale, ecc.; z. E antp. ava.
+#او# û, #اوی# ûy (ô), pron. pers. egli, ella; esso, essa; al dat., con la partic. bî- inserisce un d, bî-d-u, a lui; col pron. rel. kih, fa kû, il quale, la quale, ecc.; z. E antp. ava.
 #آوا# âvâ, forma abbreviata di avâz, v.
 
 
@@ -241,7 +230,7 @@ der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la
 #آور# âvar, anche i âr, tpr. di âvard e avarîd, portare, arrecare, condurre, presentare; - bar dvardan, sollevare, innalzare; portar su, estrarre, trarre; raccogliere, sollevare; – birûn êvardan e avaridan, portar fuori; – furûd âvardan, accogliere in casa, ospitare, collocare; — z. â + bar, antp. bar, skr. bhri, gr. φέρ-ω, lat. fer-o, got. bairan.
 #آورد# avard, tps. di âvar, e âr.
 #آوردگاه# âvard-gâh (âvard, battaglia, gâh, luogo) campo di battaglia.
- #آوردگه# âvard-gah, v. âvard-gâh.
+#آوردگه# âvard-gah, v. âvard-gâh.
 #اورنگ# avrang, trono, seggio reale.
 #آورید#  âvarîd, tps. di âvar.
 #اوی# ûy (ô), v. û.
@@ -258,7 +247,7 @@ der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la
 #آهن# âhan, ferro; z. ayanh, skr. ayas, lat. aes (il np. Xhan ha forma di agg. cfr. il phl. açin, ferro).
 #آهنگ# áhang, intenzione, intendimento; â. kardan, aver intenzione, inclinar con l'animo verso una cosa; cfr. phl. âhangitano, spingere innanzi (SPIEGEL, Die trad. Litt. der Pârsen, p. 352).
 #آهنگری# âhangarî (suff. î, cfr. âhangar, fabbro), l'arte del fabbro.
-#آهو# âhủ, gazzella, antilope.
+#آهو# âhû, gazzella, antilope.
 #آهیخت# âhîkht, tps. di âhîz.
 #آهیز# ahiz, tpr. di âhikht, levare, togliere, cavare.
 #ای# ay, o, particella del vocativo.
@@ -278,8 +267,7 @@ der Pârsi-Spr. p. 73 e 118), poco, un poco; -- andaki (suff. e) un poco; con la
 #ایرج# îraj, n. pr. del 3o figlio del re Frêdûn, Erag, che fu ucciso per invidia dai suoi fratelli Salm e Tûr. Minôćihr poi, figlio di una figlia di Erag, ne vendicò la morte, uccidendo Tûr e Salm; z. airyu.
 #ایزد# izâd, Dio; sull' etimol. del nome, v. yazdân.
 #ایزدی# izadî (suff. î), divino.
-#ایست# îst, tpr. di îstâd, stare; z. e antp. stâ, skr. stha,
-gr. στα, lat. sto.
+#ایست# îst, tpr. di îstâd, stare; z. e antp. stâ, skr. stha, gr. στα, lat. sto.
 #ایستاد# istâd, tps. di ist.
 #ایشان# ishân, pron. pers. essi, esse, eglino, elleno; dat. bî-d-ishận, senza 1 iniziale; z-ishân, da loro, per mezzo di loro; z. aêshâm, (gen. pl.).
 #ایم# îm, 1a pers. plur. del verbo essere; noi siamo; z. mahi, antp. amahy, skr. smas, gr. ἐσμε-ν, lat. sumus (forma orig. asmase).
@@ -309,10 +297,8 @@ gr. στα, lat. sto.
 #بادسر# bâd-sar (cfr. sar, testa), superbo, altero (lett., che ha il capo di vento).
 #باده# bâdah, vino.
 #بار#  bâr, tpr. di bârîd, piovere; metaf., cadere in abbon danza (si dice delle freccie, de isassi, ecc.); trans., far piovere, far cadere, rovesciare; z. vâr (denom. Da vâra, pioggia, JUSTI), pârsi, vârîdan. ,
-#بار#  bar, peso; soma; b. bastan, legare, preparar le some;
-skr. bhâra, gr. βάρος.
-#بار# bâr, frutto; bî-bâr andar âmadan, venire al fruttificare,
-esser fecondo.
+#بار#  bar, peso; soma; b. bastan, legare, preparar le some; skr. bhâra, gr. βάρος.
+#بار# bâr, frutto; bî-bâr andar âmadan, venire al fruttificare, esser fecondo.
 #بار#  bâr, udienza, sala da dare udienza.
 #باران# bârân, pioggia; z. vâra, skr. vâr, vâri, phl vârân, pârsi, vârān.
 #بارگاه# bâr-gâh (cfr. gâh, luogo), luogo dove si dà udienza, aula regia; castello; residenza di principi.
@@ -328,7 +314,7 @@ esser fecondo.
 
 
 <pb n="317"/>
- #بازار# bâzâr, mercato, negozio (donde l'ital. bazar), faccenda, affare; - 6. bî-ham dar kashidan, condurre a termine un affare.
+#بازار# bâzâr, mercato, negozio (donde l'ital. bazar), faccenda, affare; - 6. bî-ham dar kashidan, condurre a termine un affare.
 #بازجای# bâz-gây (cfr. gâ, ģây, luogo), che ritorna al suo luogo; b. shudán, e b. âmadan, ritornare.
 #بازو# bâzû, braccio; ala; z. bâzu, skr. bâhu, gr. πῆχυς.
 #بازی# bâzi, giuoco; b. numûdan, in ćih bâzî numûdî, che fine hai tu ottenuto? a qual giuoco hai tu giuocato?
@@ -337,8 +323,7 @@ esser fecondo.
 #باف# bâf, tpr. di bâft, tessere; ornare, intessere; z. e skr. vap, gr. ὑφαίνω, ted. weben.
 #بافت# bâft, tps. di bâf.
 #باک# bâk, timore, terrore.
-#بالا# bâlâ, col gen. bâlây, altezza, statura; persona alta; posto, o grado alto e cospicuo; età; bî-bâlây i sâl, dell'età, dello spazio di un anno; bâlây i hasht, l'età di otto (anni); 6. paymûdan, raggiungere una data
-età; -- phl. bâlâ.
+#بالا# bâlâ, col gen. bâlây, altezza, statura; persona alta; posto, o grado alto e cospicuo; età; bî-bâlây i sâl, dell'età, dello spazio di un anno; bâlây i hasht, l'età di otto (anni); 6. paymûdan, raggiungere una data età; -- phl. bâlâ.
 #بالا# bâlâ (cfr. #پالا# pâlâ), cavallo; zi-bâlâ andar âmadan, cader da cavallo, ovv. cader dall' alto (cfr. 1° bâlâ).
 #بالین# bâlîn, guanciale; giaciglio; z. barezis, skr. barhis ?).
 #بام# bâm, alba, crepuscolo del mattino; z. bâma, skr. bhâma (rad. bhâ, gr. φα, risplendere). ply bâm, terrazzo, tetto; casa; bâm u dar, coll., tetti e porte, cioè i luoghi abitati.
@@ -351,15 +336,14 @@ età; -- phl. bâlâ.
 
 
 <pb n="318"/>
- #ببربیان# babribayân, nome della corazza di Rustem, bebribeyân.
+#ببربیان# babribayân, nome della corazza di Rustem, bebribeyân.
 #بت# but, idolo; pl. butân, idoli, metaf., fanciulle vaghe ed avvenenti (nel significato di idolo questa parola è venuta dal nome di Buddha, le cui immagini, col culto buddhistico, s'introdussero per tempo nel l'Iran).
 #بت‌آرای# but-ârây (cfr. ârâstan, tpr. ârâ, ârây, ornare),vaga fanciulla (?), idolo (?). Evidentemente la parola significa: che adorna, che venera gť idoli; ma nel passo di Firdusi in cui si trova, non può significare che idolo, o vaga fanciulla, cfr. but. II VULLERS non registra questa voce; idole (MOHL).
 #بت‌پرست# but-parast (cfr. parastîdan, adorare), adoratore degli idoli.
 #بتّر# battar, per bad-tar, comparat. di bad. des bačah, e xesto baććah, figlio, prole (sì di uomini che di animali); skr. vatsa (VULLERS, Lex. pers.).
 #بحر# bahr (ar.) mare; baḥr i damân, mare agitato, in tempesta.
 #بخت# bakht, fortuna, sorte, destino; sar i bakht i shâk, il capo della fortuna del re, per dire: il re stesso; bar gashtah bakht, colui la cui fortuna è rovinata; infelice, meschino; ~ z. bakhta, phl. e pârsi bakht; rad. z. baz, distribuire, dare la parte a ciascuno.
-#بخرد# bî-khirad (cfr. khirad, prudenza; sapienza), sapiente, prudente, saggio; pl. bî-khiradân e bî-khradân (per
-il metro).
+#بخرد# bî-khirad (cfr. khirad, prudenza; sapienza), sapiente, prudente, saggio; pl. bî-khiradân e bî-khradân (per il metro).
 #بخش# bakhsh, tpr. di bakhshûd e bakhshîd, donare, far doni; spartire (la preda, le ricchezze, ecc.); perdonare, far grazia; part. bakhshandah, donatore; generoso nel perdonare; - z. bakhsh, phl. bakhshitano, cfr. z bas, skr. bhag, dividere.
 
 
@@ -374,7 +358,7 @@ il metro).
 #بداندیش# bad-andish (cfr. andishidan, pensare), che pensa male, maligno; nemico.
 #بدبخت# bad-bakht (cfr. bakht, sorte), che ha cattiva sorte, infelice, duotuxńs; infausto, di cattivo augurio.
 #بدخواه# bad-khvâh (cfr. khvâstan, tpr. khvâh, volere), male volo, nemico.
-#بدخوئی# bad-khûyi (cfr. khây (), indole, suff. î), malignità, malvagità.
+#بدخوئی# bad-khûyi (cfr. khûy (ô), indole, suff. î), malignità, malvagità.
 #بدرگ# bad-rag (cfr. rag, vena), che è di impuro sangue,  ignobile.
 #بدسگال# bad-sigâl (cfr. sigâlidan, pensare), che pensa male, maligno; nemico.
 #بدکنش# bad-kunish (cfr. kunish, opera), malfattore, mal vagio, reo.
@@ -405,7 +389,7 @@ il metro).
 #برگستوان# bargustuvân, gualdrappa.
 #برگستوان‌ور# bargustuvân-var (suff. var), guerriero che ha il cavallo ornato di gualdrappa.
 #برنا# barnâ, giovane, giovinetto; z. aperenayu, aperenâyûka (a + perena + âyu, che non ha piena, compiuta l'età), phl. apârnâik, pârsi apûrnâi.
-#برو# bar-û, per bar i ủ, sopra di esso.
+#برو# bar-û, per bar i û, sopra di esso.
 #برومند# barûmand (ô, suff. ûmand = mand), fruttifero.
 #بیرون# birûn, v. birûn.
 #بره# barah, agnello; phl. varak.
@@ -414,8 +398,7 @@ il metro).
 #بریان# biryan, arrostito, abbrustolito, arso; metaf., dolente; 'fremente, arrabbiato.
 #برید# burîd, e #برّید# burrîd, v. bur, burr.
 #بز#  buz, capro, capretto; z. bûza, skr. bukka, ted. bock.
-#بزرگ# buzurg, grande, eccelso; pl. buzurgân, grandi, principi; antp. vazraka (SPIEGEL), vazarka (Kossovicz), pârsi guzurg (dal z. vazra, skr. vagra, clava, folgore, +
-suff. ka).
+#بزرگ# buzurg, grande, eccelso; pl. buzurgân, grandi, principi; antp. vazraka (SPIEGEL), vazarka (Kossovicz), pârsi guzurg (dal z. vazra, skr. vagra, clava, folgore, + suff. ka).
 #بزرگی# buzurgî (suff. î), grandezza, maestà, magnificenza; fasto.
 
 
@@ -440,22 +423,17 @@ suff. ka).
 #بلا# balâ (ar.), rovina, sventura, sterminio.
 #بلبلی# bulbuli, tazza da bere. .
 #بلند# baland, grande, alto, eccelso; phl. bûrand, bûland.
-#بلندی# balandi (suff. f), grandezza, ampiezza, altezza; b.
-giriftan, giungere a grandezza.
- #بلور#bulûr, eyl bullûr, cristallo.
+#بلندی# balandi (suff. f), grandezza, ampiezza, altezza; b. giriftan, giungere a grandezza.
+#بلور#bulûr, eyl bullûr, cristallo.
 #بم#  bam, la corda più grossa di uno stromento a corde; nota bassa musicale.
-#بن# bun, tronco, radice di un albero, fusto; base, fonda mento; zz-bun, del tutto, onninamente, lat. funditus; - fondo (di una fossa, di una caverna); l'estrema parte
-
-
-<pb n="323"/>
-di ogni cosa (elsa di una spada); b. afgandan, porre le fondamenta, fondare, stabilire (un patto, un accordo); intraprendere (un discorso); bî-bun shudan, giungere al fine; – z. e skr. vana, phl. vun.
+#بن# bun, tronco, radice di un albero, fusto; base, fonda mento; zz-bun, del tutto, onninamente, lat. funditus; - fondo (di una fossa, di una caverna); l'estrema parte <pb n="323"/> di ogni cosa (elsa di una spada); b. afgandan, porre le fondamenta, fondare, stabilire (un patto, un accordo); intraprendere (un discorso); bî-bun shudan, giungere al fine; – z. e skr. vana, phl. vun.
 #بند# band, tpr. di bast, legare, avvinghiare, cingere; fasciare (una ferita); chiudere; intrans., agglomerarsi, accumularsi (delle nuvole, della polvere, ecc.); — furû bastan, conficcare, inchiodare; -- z. e antp. bañd, skr. bandh, got. bindan.
 #بند# band, 1) legame, vincolo, catena; patto, contratto, giuramento; — 6. bar sakhtan, chiudere, serrare; bî-band kardan, incatenare, mettere in ceppi; — 2) inganno, frode; — z. bañda, skr. bandha, got. bandi, ted. band.
 #بنده# bandah, pl. bandagân, servo, servitore; antp. Bañdaka, phl. bandak (rad. band, legare).
 #بنفش# banafsh, violetto, violaceo; di color cupo, oscuro.
 #بنفشه# banafshah, viola, viola mammola.
 #بنه# bunah, la provvigione di un esercito, i bagagli, ta SKEûY; preda
-#بو# bû, tpr. di bûd, pres. buvam; altro tema di pres. è bâsh, pres. bâsham; la forma bud è abbr., e sta per bûd; essere; esistere; accadere, avvenire; cunân, o cunin bûd, o bud kih, così avvenne che ...; – bâd (per buvâd, cfr. Gramm. 77), bâdâ (per buvâdâ), possa essere! possa accadere! i se, utinam! (con kih); bâdi, possa tu essere! (22 pers.); ma-bâdâ kih, non avvenga che ...; - z. bû, antp. bu, skr. Bhủ, gr. φύ-ω, lat. fu-i.
+#بو# bû, tpr. di bûd, pres. buvam; altro tema di pres. è bâsh, pres. bâsham; la forma bud è abbr., e sta per bûd; essere; esistere; accadere, avvenire; cunân, o cunin bûd, o bud kih, così avvenne che ...; – bâd (per buvâd, cfr. Gramm. 77), bâdâ (per buvâdâ), possa essere! possa accadere! i se, utinam! (con kih); bâdi, possa tu essere! (22 pers.); ma-bâdâ kih, non avvenga che ...; - z. bû, antp. bu, skr. Bhû, gr. φύ-ω, lat. fu-i.
 #بود# bûd, tps. di bû e bâsh.
 #بودنی# bûdanî (suff. î, cfr. bûdan inf. di bû), che può avvenire; che deve avvenire, cosa destinata; coll. Le cose future; bûdanê kâr, cosa destinata.
 #بور# bûr (ô), rosso; cavallo di color rosso.
@@ -480,12 +458,7 @@ di ogni cosa (elsa di una spada); b. afgandan, porre le fondamenta, fondare, sta
 #بهار# bahâr, primavera; z. vanhra, antp. Thura-váhara (?, n. pr. di un mese), skr. vasara, phl. vahâr, gr. ἔαρ, ϝέαρ, lat. ver.
 #بهاران# bahârân, v. bahâr.
 #بهانه# bahanah, pretesto, appiglio, scusa.
-#بهر#  bahr, parte, porzione; dû bahrah (per bahr), due parti (in senso di due terzi di una cosa, cfr. τῆς Μεμφίδος τὰ δύο μέρη, due terzi di Menfi, in Thucyd. 1. 104); zi-bahr, az bahr (col gen.) per parte di ...,
-
-
-<pb n="325"/>
- a cagione di ..., propter; avv. bahr i, a cagione di...; - gham bahr âmadan, avere in sorte (come
-parte che tocca) il dolore; — phl. bâhr.
+#بهر#  bahr, parte, porzione; dû bahrah (per bahr), due parti (in senso di due terzi di una cosa, cfr. τῆς Μεμφίδος τὰ δύο μέρη, due terzi di Menfi, in Thucyd. 1. 104); zi-bahr, az bahr (col gen.) per parte di ..., <pb n="325"/> a cagione di ..., propter; avv. bahr i, a cagione di...; - gham bahr âmadan, avere in sorte (come parte che tocca) il dolore; — phl. bâhr.
 #بهرام# bahrâm, n. pr. di un guerriero dell'esercito di Kâvus, Behrâm; cfr. z. verethraghna (il Genio della vittoria), phl. varahrân, vahrâm, pârsi bihirăm.
 #بهره# bahrah, v. bahr.
 #بهشت# bihisht, paradiso; z. vahista (superl. di vanhu, buono), skr. vasishtha, phl. vahiçt.
@@ -507,8 +480,7 @@ parte che tocca) il dolore; — phl. bâhr.
 #بیداردل# bîdâr-dil (cfr. dil, cuore), che è vigile di cuore; pronto, sagace.
 #بیداری# bîdârî (suff. î), vigilanza, attenzione; bî-bîdâri, tosto, in breve; con alacrità.
 #بی‌دانش# bî-danish (cfr. dânish, sapienza), ignorante, im previdente.
-#بیراه# bî-râh (cfr. râh, via), 1) via inaccessibile, impraticabile, iter devium (VULLERS), cfr. lat. in-via; 2) che è senza strada, sviato, fuorviato; 6. kardan, tirar giù di
-strada, far prevaricare uno.
+#بیراه# bî-râh (cfr. râh, via), 1) via inaccessibile, impraticabile, iter devium (VULLERS), cfr. lat. in-via; 2) che è senza strada, sviato, fuorviato; 6. kardan, tirar giù di strada, far prevaricare uno.
 #بیرون# bîrûn, fuori; phl. bîrûn.
 #بیره# bî-rah, v. bî-râh.
 #بیژن# bîzhan, n. pr. di un guerriero iranio, figlio di Ghêv. bîzhen. Fu trovato una notte da Afrásyâb nelle stanze della figlia sua Menîzheh e fu da lui, in pena ! di ciò, rinchiuso in un pozzo cavato nella pietra, donde poi fu liberato da Rustem. È questo il soggetto di un lungo episodio del Libro dei Re, intorno al quale v. SPIEGEL, Erân. Alterth. II, p. 192.
@@ -517,8 +489,7 @@ strada, far prevaricare uno.
 #بیشه# bîshah, selva, bosco; phl. Vîshak.
 #بیشی# bîshî (suff. î), grandezza, ampiezza.
 #بی‌کران#  bî-karân (cfr. karân, confine), che è senza fine, innumerevole.
-#بیگانه# bîgânah, ignoto, peregrino, straniero; sconosciuto;
-estraneo.
+#بیگانه# bîgânah, ignoto, peregrino, straniero; sconosciuto; estraneo.
 #بی‌گناه# bî-gunâh (cfr. gunâh, colpa), innocente.
 #بی‌گنه# bî-gunah, v. bî-gunâh.
 
@@ -544,8 +515,7 @@ estraneo.
 
 
 <pb n="328"/>
-(per pây) afgandan, fondare, mandare ad effetto; - p. andar avardan, entrare; montare in sella; - bar pây khâstan, levarsi in piedi; drizzarsi (si dice dei capelli); - metaf. sostegno; fermezza; - bî-pây âvardan, rimettere in piedi, restaurare, riordinare; – z. pâdha, skr. pâda, cfr. antp. ni-pad-zy (in den Fusstapfen, SPIEGEL), gr. πούς, ποδ-ς, lat. pes, ped-s, got.
-fôtus.
+(per pây) afgandan, fondare, mandare ad effetto; - p. andar avardan, entrare; montare in sella; - bar pây khâstan, levarsi in piedi; drizzarsi (si dice dei capelli); - metaf. sostegno; fermezza; - bî-pây âvardan, rimettere in piedi, restaurare, riordinare; – z. pâdha, skr. pâda, cfr. antp. ni-pad-zy (in den Fusstapfen, SPIEGEL), gr. πούς, ποδ-ς, lat. pes, ped-s, got. fôtus.
 #پاداش# pâdâsh, rimunerazione, ricompensa; pena, castigo; phl. patdashno (SPIEGEL, Av. Uebersetz. I. p. 279). rad. z. paiti + dâ.
 #پادشا#, pâdishâ, e #پادشاه#pâdishâh (quest'ultimo è più comune), re, principe, sovrano; – phl. pâtâ shân, pârsi pâdisâh.
 #پادشاهی# pâdishâhî (suff. î), regno, dominio, signoria.
@@ -559,7 +529,7 @@ fôtus.
 
 <pb n="329"/>
 #پاک‌تن# pâk-tan (cfr. tan, corpo), che è di puro corpo; bello d'aspetto.
- #پاک‌دین#pâk-din (cfr. din, religione), che è di pura religione; devoto, pio.
+#پاک‌دین#pâk-din (cfr. din, religione), che è di pura religione; devoto, pio.
 #پاک‌مغز# pâk-maghz (cfr. maghz, cervello), che è di mente pura, illibata.
 #پاکی# pâkî (suff. î), purità, rettitudine, integrità.
 #پاکیزه‌تن# pâkîzah-tan (cfr. tan, corpo), che è di puro corpo; illibato, mondo.
@@ -567,20 +537,12 @@ fôtus.
 #پالیز# pâliz, giardino, orto.
 #پایاب# pâyâb (cfr. yâ ftan, tpr. yâb, trovare), fermezza, potenza, forza.
 #پایبند# pây-band (cfr. band, legame), monile che si mettono alle gambe le fanciulle.
-#پایگاه# pây-gâh (cfr. gâh, luogo), 1) luogo da potervi posare i piedi, sgabello; luogo di dimora; luogo dov' è attendato un esercito (?); luogo da levarsi i calzari; – 2) grado, dignità; merito; p. sâkhtan, conferire ad uno un grado, spec. un grado d'onore; - p. âvardan,
-ottenere, acquistar merito in faccia ad uno.
+#پایگاه# pây-gâh (cfr. gâh, luogo), 1) luogo da potervi posare i piedi, sgabello; luogo di dimora; luogo dov' è attendato un esercito (?); luogo da levarsi i calzari; – 2) grado, dignità; merito; p. sâkhtan, conferire ad uno un grado, spec. un grado d'onore; - p. âvardan, ottenere, acquistar merito in faccia ad uno.
 #پایگه# pây-gah, v. pây-gah.
 #پایه# pâyah (cfr. pâ, piede, suff. ah), piede, fondamento, base; punto d'appoggio; grado, dignità.
 #پایید# pâyîd, tps. di pâ.
-#پتیاره# patyârah, creatura maligna; z. paityârah, phl. patyârah, pârsi patyâr. Il significato primitivo del z. paityârah è quello di opposizione (paiti + ar, opporsi); poi questa parola fu destinata a designar soltanto le opere malvagie di Ahrimane, siccome altrettante opposzzioni alle opere buone di Ormuzd (cfr. Vendîdâd, c. I.),
-
-
-<pb n="330"/>
-
-
-quindi il np. patyârah altro non significa che creatura maligna, dannosa.
-#پخش# pakhsh, schiacciato col piede; p. kardan, schiacciare,
-annientare.
+#پتیاره# patyârah, creatura maligna; z. paityârah, phl. patyârah, pârsi patyâr. Il significato primitivo del z. paityârah è quello di opposizione (paiti + ar, opporsi); poi questa parola fu destinata a designar soltanto le opere malvagie di Ahrimane, siccome altrettante opposzzioni alle opere buone di Ormuzd (cfr. Vendîdâd, c. I.), <pb n="330"/> quindi il np. patyârah altro non significa che creatura maligna, dannosa.
+#پخش# pakhsh, schiacciato col piede; p. kardan, schiacciare, annientare.
 #پدر# padar, padre, genitore; padar bar padar, di padre in padre, di generazione in generazione; z. Patar, antp. e skr. pitar, gr. πατήρ, lat. pater, got. fadar.
 #پدرود#  padrûd, saluto; p. bûdan, nelle espressioni: p. bâsh (imperat. 2* pers. sing.), addio, sta bene; p. Bâshîd, state bene, xcipere; - p. kardan, salutare, dire addio.
 #پدید# padîd, chiaro, evidente, manifesto; p. âmadan e P. shudan, mostrarsi, venire alla luce, apparire.
@@ -602,8 +564,7 @@ annientare.
 #پرخاشخر# parkhâsh-khar (cfr. kharidan, comprare), amante di battaglia.
 #پرخون# pur-khûn (cfr. khûn, sangue), pieno di sangue, insanguinato; che ha sofferto violenza, oppressione da un tiranno.
 #پرداخت# pardâkht, tps. di pardáz.
-#پرداز# pardaz, tpr. di pardâkht, liberare; part. pardâkhtah 'e pardakhtah, 1) compiuto, finito (si dice di un lavoro); - 2) vuoto, libero, esente; pardakhtah mândan, restar
-vuoto; — z. pairi + tać.
+#پرداز# pardaz, tpr. di pardâkht, liberare; part. pardâkhtah 'e pardakhtah, 1) compiuto, finito (si dice di un lavoro); - 2) vuoto, libero, esente; pardakhtah mândan, restar vuoto; — z. pairi + tać.
 #پردخته# pardakhtah, invece di pardâkhtah, v. pardâz.
 #پرده# pardah, velo, tenda (si dice talvolta della parte più interna della casa, dove stanno le donne); - metaf. velo di nuvole, velo di polvere sollevata.
 #پرس# purs, tpr. di pursîd, domandare, chiedere, interrogare; z. pareç, antp. parg, skr. prach, lat. prec-or, got. fraihnan.
@@ -626,14 +587,7 @@ vuoto; — z. pairi + tać.
 #پرورش# parvarish (suff. ish), alimento, cibo.
 #پرورید# parvarîd, tps. di parvar.
 #پروین# parvîn (cfr. parv), la costellazione delle Pleiadi.
-#پری# pari, Perî, n. pr. di alcuni spiriti femminili che, sec.i Persiani moderni, sono come buone fate. Il loro nome (sec. una falsa etimologia popolare da par e pary, ala) significherebbe spirito alato. Sono esse formate di luce, d' incantevole bellezza e lontane da ogni qualità bassa e volgare. Si vestono della luce del sole, vivono della fragranza dei fiori e si bagnano nella rugiada dell'aurora (SCHULTZE, Handb. der Pers. Sprache, p. 69; cfr. anche: T. MOORE, il Paradiso e la Perz). Al contrario, sec. l'Avesta, le Perî, dette in z. pairika, sono esseri femminili di maligna natura che con la loro bellezza conducono a perdizione gli
-
-
-
-
-<pb n="333"/>
-uomini; così almeno accadde all'eroe Kereçâçpa. Si legge infatti nel Vendidad (I, 36) che la Pairika Khnâthaiti si attaccò a Kereçâçpa (yâ upanhaćaț kereçâç pem). Le Pairika abitano il Kâbul, detto Vaêkereta nell' Avesta, (cfr. SPIEGEL, Erân. Alterth.
-II, p. 138). — z. pairika, phl. parik.
+#پری# pari, Perî, n. pr. di alcuni spiriti femminili che, sec.i Persiani moderni, sono come buone fate. Il loro nome (sec. una falsa etimologia popolare da par e pary, ala) significherebbe spirito alato. Sono esse formate di luce, d' incantevole bellezza e lontane da ogni qualità bassa e volgare. Si vestono della luce del sole, vivono della fragranza dei fiori e si bagnano nella rugiada dell'aurora (SCHULTZE, Handb. der Pers. Sprache, p. 69; cfr. anche: T. MOORE, il Paradiso e la Perz). Al contrario, sec. l'Avesta, le Perî, dette in z. pairika, sono esseri femminili di maligna natura che con la loro bellezza conducono a perdizione gli <pb n="333"/> uomini; così almeno accadde all'eroe Kereçâçpa. Si legge infatti nel Vendidad (I, 36) che la Pairika Khnâthaiti si attaccò a Kereçâçpa (yâ upanhaćaț kereçâç pem). Le Pairika abitano il Kâbul, detto Vaêkereta nell' Avesta, (cfr. SPIEGEL, Erân. Alterth. II, p. 138). — z. pairika, phl. parik.
 #پری‌چهر# pari-ćihr (cfr. ćihr, volto), che ha il volto di una Perî, cioè bello, avvenente.
 #پری‌چهره# pari-ćihrah, v. pari-ćihr; — (come nome), fanciulla, donzella.
 #پرید# parrîd, tps. di parr. Ss pari-rûy (cfr. rûy, volto), che ha il volto di una Peri, cioè bello, avvenente.
@@ -642,8 +596,7 @@ II, p. 138). — z. pairika, phl. parik.
 #پژمر# pazhmar, pazhmur, tpr. di pazhmurd, marcire, lan guire, avvizzire, andar decadendo; basir di paura, venir meno per il timore.
 #پژمرد# pazhmurd, tps. di pazhmar, pazhmur.
 #پس# pas, 1) prep. dietro, di dietro; pas i, dietro, di dietro; - 2) avv. dopo, dopochè, poscia; az-in pas, d'ora in poi; va-2-ân pas, é dopo ciò, e dopo di ciò; — z. paçća, paçkât, antp. paça, skr. paçćât, lat. post.
-#پست# past, umile, basso; depresso, oppresso, schiacciato, pesto; gura i past, clava abbassata, battuta cioè sul capo di uno (?), colpo di clava (?); opp. leggendo: gurz-past, oppresso dalla clava, da un colpo di
-clava; - p. kardan, disperdere, annientare.
+#پست# past, umile, basso; depresso, oppresso, schiacciato, pesto; gura i past, clava abbassata, battuta cioè sul capo di uno (?), colpo di clava (?); opp. leggendo: gurz-past, oppresso dalla clava, da un colpo di clava; - p. kardan, disperdere, annientare.
 #پسر# pusar, figlio, fanciullo; z. puthra, antp. putra, skr. putra, phl. pusr.
 
 
@@ -654,8 +607,7 @@ clava; - p. kardan, disperdere, annientare.
 
 #پسند# pasand, tpr. di pasandîd, 1) piacere, esser grato, gradito; part. pasandah, accetto, gradito; atto; – 2) trans. approvare; - z. paiti + çend (SPIEGEL, Comment. ûber das Avesta, II, p. 311). dim, pasand, grato, caro, accetto, gradito.
 #پسندید# pasandîd, tps. di pasand.
-#پشت# pusht, dorso, schiena, tergo; pas i pusht i, zi-pusht
-i, dietro di ... , al di dietro di ...; metaf., sostegno, presidio; stirpe, progenie; pusht i râst, discendenza, progenie genuina; — z. parsti, skr. prishtha.
+#پشت# pusht, dorso, schiena, tergo; pas i pusht i, zi-pusht i, dietro di ... , al di dietro di ...; metaf., sostegno, presidio; stirpe, progenie; pusht i râst, discendenza, progenie genuina; — z. parsti, skr. prishtha.
 #پشته# pushtah (suff. ah), collicello, monticello; cumulo, mucchio.
 #پشنگ# pashang, n. pr. del padre di Afrâsyâb, Pesheng. figlio di Zâdshem.
 #پشیمان# pashîmân, pentito; p. shudan, pentirsi.
@@ -677,11 +629,11 @@ i, dietro di ... , al di dietro di ...; metaf., sostegno, presidio; stirpe, prog
 
 
 <pb n="335"/>
-#پو# pû e #پوی# pủy (), tps. di pûyîd, camminare; part. pủyandah, pl. pûyandagân, gli animali terrestri (prop. i camminanti, cfr. lat. reptilia ed ebr. remes, animalia semoventia; opposto a gûyandagân, i parlanti, cioè gli uomini); z. e skr. pad (cfr. Ascoli, Studi Irani, p. 6).
+#پو# pû e #پوی# pûy (ô), tps. di pûyîd, camminare; part. pûyandah, pl. pûyandagân, gli animali terrestri (prop. i camminanti, cfr. lat. reptilia ed ebr. remes, animalia semoventia; opposto a gûyandagân, i parlanti, cioè gli uomini); z. e skr. pad (cfr. Ascoli, Studi Irani, p. 6).
 #پود# pûd, ripieno, i fili con cui si tesse l'ordito di una tela (per le frasi, v. târ).
 #پور# pûr (cfr. pusar), figlio; lat. puer.
 #پوزش# pûzish (suff. 2sh), scusa, perdono; - p. andar giriftan, cercar di scusarsi; – p. kardan, domandar perdono,scusa.
-#پوست# pûst (), pelle, cuoio; corpo; z. pañçta, phl. pôçt.
+#پوست# pûst (ô), pelle, cuoio; corpo; z. pañçta, phl. pôçt.
 #پوش# pûsh, tpr. di pûshîd, vestire, ricoprire; adornare.
 #پوشان# pûshân, tpr. di pûshânîd (causale di pûsh), vestire, far vestire, ricoprire, far indossare una veste.
 #پوشانید# pûshânîd, tps. di pûshân.
@@ -695,21 +647,15 @@ i, dietro di ... , al di dietro di ...; metaf., sostegno, presidio; stirpe, prog
 
 
 <pb n="336"/>
-#پهلو# pahlav, 1) n. pr. di una città sec. alcuni Dizionari, ma più prop. n. pr. di una provincia, forse la Parthia degli Antichi, antp. parthava (nelle Iscrizioni del re Dario); intorno a questi nomi pahlav e parthava, v. SPIEGEL, Grammatik der Huzvâresch-Spr., p. 17, e Erân.
-Alterth. III, p. 747 e segg. — 2) frontiera, confine.
+#پهلو# pahlav, 1) n. pr. di una città sec. alcuni Dizionari, ma più prop. n. pr. di una provincia, forse la Parthia degli Antichi, antp. parthava (nelle Iscrizioni del re Dario); intorno a questi nomi pahlav e parthava, v. SPIEGEL, Grammatik der Huzvâresch-Spr., p. 17, e Erân. Alterth. III, p. 747 e segg. — 2) frontiera, confine.
 #پهلو# pahlav (cfr. pahlavân), eroe.
 #پهلو# pahlû, lato, fianco; parte; skr. pârçva (?).
 #پهلوان# pahlavân, eroe; pahlavan i gihân, eroe del regno. o del mondo, titolo dei principi del Segestân, Sâm. Zal, Rustem.
 #پهلوانی# pahlavânî (suff. î), eroico; degno di un eroe; grande, magnifico.
 #پهلوی# pahlavî (suff. î), eroico, guerresco; gâmah i pahla'i. veste da indossar in battaglia, corazza.
-#پهلوی# pahlavî (suff. î), pehlevi, pehlevico, lingua pehlevica Con tal nome viene designata comunemente la lingua dell'Iran al tempo dei Sassanidi (222-650 d. C.). detta anche huzvâresh, singolarmente commista di parole caldaiche e siriache. Sul nome, sulla patria, sul tempo di questa lingua si è scritto assai, ne ancora sono sciolte tutte le questioni che la riguardano. Pare più vera di tutte l'opinione che vede in essa una vera lingua, nella quale però le parole siriache e caldaiche erano state introdotte come ideogrammi, da leggersi con parole corrispondenti iraniche. Secondo. infatti, un passo del Kitab al-Fihrist (p. 14, 13 ed. FLûGEL), nella lettura di testi pehlevici, alle parole semitiche si sostituivano le genuine iraniche, come p. e. bisrâ (cald. e sir., carne) veniva letto gûsht (pers., carne) Il nome pahlavi poi che significherebbe l'età degli Eroi (SPIEGEL, Heldenthum; cfr, pahlav, pahlavân, eroe), sarebbe stato dato a questa lingua solo per designare il tempo in cui essa era parlata, al tempo
-
-
-<pb n="337"/>
- degli eroi, all'età cioè antica; cosicchè zubân i pahlavi, lingua pehlevica, altro non significherebbe che lingua dei tempi antichi, dell'antichità, allo stesso modo che gli Arabi chiamano molo (gâhiliyyah), ignoranza o età dell'ignoranza, l'età anteriore a Maometto, e noi usiamo dir Gentilesimo e Paganesimo i tempi anteriori all' E. V. - Per maggiori notizie, V. SPIEGEL, Erân. Alterth. II, p. 734 e segg.; Arische Studien, p. 78 e segg.; Avesta-Uebersetz. I, p. 277; Gramm. der Huz. Spr. (nell' Introd.); HAUG, Essay
-on the Pahlavi language; HARLEZ, Manuel du Pehlevi.
+#پهلوی# pahlavî (suff. î), pehlevi, pehlevico, lingua pehlevica Con tal nome viene designata comunemente la lingua dell'Iran al tempo dei Sassanidi (222-650 d. C.). detta anche huzvâresh, singolarmente commista di parole caldaiche e siriache. Sul nome, sulla patria, sul tempo di questa lingua si è scritto assai, ne ancora sono sciolte tutte le questioni che la riguardano. Pare più vera di tutte l'opinione che vede in essa una vera lingua, nella quale però le parole siriache e caldaiche erano state introdotte come ideogrammi, da leggersi con parole corrispondenti iraniche. Secondo. infatti, un passo del Kitab al-Fihrist (p. 14, 13 ed. FLûGEL), nella lettura di testi pehlevici, alle parole semitiche si sostituivano le genuine iraniche, come p. e. bisrâ (cald. e sir., carne) veniva letto gûsht (pers., carne) Il nome pahlavi poi che significherebbe l'età degli Eroi (SPIEGEL, Heldenthum; cfr, pahlav, pahlavân, eroe), sarebbe stato dato a questa lingua solo per designare il tempo in cui essa era parlata, al tempo <pb n="337"/> degli eroi, all'età cioè antica; cosicchè zubân i pahlavi, lingua pehlevica, altro non significherebbe che lingua dei tempi antichi, dell'antichità, allo stesso modo che gli Arabi chiamano molo (gâhiliyyah), ignoranza o età dell'ignoranza, l'età anteriore a Maometto, e noi usiamo dir Gentilesimo e Paganesimo i tempi anteriori all' E. V. - Per maggiori notizie, V. SPIEGEL, Erân. Alterth. II, p. 734 e segg.; Arische Studien, p. 78 e segg.; Avesta-Uebersetz. I, p. 277; Gramm. der Huz. Spr. (nell' Introd.); HAUG, Essay on the Pahlavi language; HARLEZ, Manuel du Pehlevi.
 #پهن# pahn, ampio, vasto, largo; z. pathana, phl. pâhan.
-#پهنا# pahna (suff. â, col gen. pahnây 2), larghezza, am piezza.
+#پهنا# pahnâ (suff. â, col gen. pahnây i), larghezza, am piezza.
 #پی# pay, prep., dopo, dietro, di dietro; pay i, dietro di...
 #پی# pay, orma, vestigio; p. na-gudhârdan, non lasciare alcun vestigio inosservato, ricercar minutamente.
 #پی# pay, forma abbreviata di pâ, pây.
@@ -727,7 +673,7 @@ on the Pahlavi language; HARLEZ, Manuel du Pehlevi.
 #پیرامن# pirâman (e), e #پیرامون# pirâmûn, circuito, circolo; bî-pirâman, in giro, intorno; phl. pêrâmûn, pârsi pérâmûn.
 #پیران# pirân, n. pr. di un nobile guerriero turanio figlio di Vêsah, Pirân. Quantunque obbedisse ad Afrasyâb suo signore e lo difendesse, pure protesse dinanzi a lui gli Irani, allorchè questi erano ingiustamente oppressi. Morì in una battaglia contro gli Irani, nella lunga guerra che questi fecero coi Turani per vendicare la morte di Siyâvish, v.
 #پیراهن# pirâhan, vestimento.
- #پیرجوی# pir-ýûy (cfr. sustan, tpr. sûy, amare, cercare), amante di un vecchio.
+#پیرجوی# pir-ýûy (cfr. sustan, tpr. sûy, amare, cercare), amante di un vecchio.
 #پیرسر# pir-sar (cfr. sar, capo), che ha il capo da vecchio, cioè canuto.
 #پیروز# pirûz (ê, ô), vittorioso, glorioso; phl. pêrôğ, pârsi pérôzh (sec. lo SPIEGEL, Die trad. Litt. der Pârsen, p. 414, da un supposto z. pairi + raoćanh, splendente all' intorno).
 
@@ -737,8 +683,7 @@ on the Pahlavi language; HARLEZ, Manuel du Pehlevi.
 #پیروزه# pirûzah, turchese (pietra preziosa); takht i p., trono ornato di turchesi.
 #پیروزی# pirûzî (suff. î), vittoria.
 #پیش# pish (@), dinanzi, avanti, dirimpetto, di contro, verso,a, ecc.; col gen.; – bî-pish andarûn, dinanzi, a capo, nel primo posto; phl. pêsh, z. para, antp. e skr. Parâ, gr. παρά.
-#پیشبین# pish-bîn (cfr. didan, tpr. bîn, vedere), previdente,
-cauto.
+#پیشبین# pish-bîn (cfr. didan, tpr. bîn, vedere), previdente, cauto.
 #پیشرو# pish-rav (cfr. raftan, tpr. rav, andare), colui che precede; guida, capitano.
 #پیشگاه# pish-gâh (cfr. gâh, luogo), il primo posto, posto d'onore.
 #پیشه# pishah (@), arte, mestiere; p. kardan, esercitare un' arte; phl. pêshak, pârsi pésa (rad. z. pish, battere).
@@ -761,13 +706,11 @@ cauto.
 #پیوست# payvast, tps. di payvand.
 #پیوسته# payvastah (part. di payvastan), avv. sempre, con tinuamente; v. payvand.
 #پیوند# payvand, tpr. di payvast, legare, congiungere; fermare, confermare; finire, compiere (un'impresa). concludere un affare; part. payvastah, concluso; con giunto, parente, consanguineo; phl. patvastano, z. band.
-#پیوند# payvand, 1) congiunzione; amicizia, patto; parentela,
-connubio, famiglia; -- 2) punto dove si congiungono due cose; giuntura della corazza; – 3) congiunto, consanguineo; anche coll.; - phl. patvand, pârsi padhvañt.
+#پیوند# payvand, 1) congiunzione; amicizia, patto; parentela, connubio, famiglia; -- 2) punto dove si congiungono due cose; giuntura della corazza; – 3) congiunto, consanguineo; anche coll.; - phl. patvand, pârsi padhvañt.
 
 
 <pb n="341"/>
-# َت # at, suff. pronominale possessivo, Wydo padar-at, il
-padre tuo; come pronome personale, si unisce anche ai verbi, #فرمایدت# farmayad-at, ti comanda; Gramm. 123, 124, 125.
+# َت # at, suff. pronominale possessivo, Wydo padar-at, il padre tuo; come pronome personale, si unisce anche ai verbi, #فرمایدت# farmayad-at, ti comanda; Gramm. 123, 124, 125.
 #تا# tâ, particella, 1) fino a, verso, a; – 2) finchè, fino a tanto che, a tal punto che; come se; -- 3) acciocchè, affinchè, perchè; -- 4) dacchè (dopo espressioni che indicano durata di tempo, p. e. dû rûz-ast tâ, sono due giorni dacchè ...); — pârsi tâ, cfr. skr. tâvat.
 #تاب# tâb, tpr. di tâft, taft, tâbîd, 1) esser caldo, essere ardente; ardere, bruciare; accendere; illuminare; part. tâbandah, lucente, nitido; part. passat. tâftah, riscaldato; trafelato; — 2) volgere, rivolgere; voltarsi, ritirarsi; partire, andar via; volgere il volto, lo sguardo ad una cosa; rivolgersi ad uno, darsi ad uno, arrendersi ai suoi voleri (con sûy); correre, affrettarsi; 3* pers. taft, corse; -- bar tâftan, ritirarsi, tirarsi indietro; – z..e skr. tap, phl. tapitano, lat. tepeo.
 #تاب# tâb, calore, ardore; splendore; metaf. dolore; –t. dâdan, luccicare.
@@ -782,8 +725,7 @@ padre tuo; come pronome personale, si unisce anche ai verbi, #فرمایدت# fa
 
 <pb n="342"/>
 #تاخت# takht, tps. di tutela (pûd, invece, enosh pûd kard,
-#تار# târ, ordito di una tela (pûd, invece, è il filo con cui si tesse la tela); tan i khvîsh tar u bar-ash pûd kard, fece ordito del proprio corpo, e del petto di lei fece il ripieno, nel senso di: si abbracciarono strettamente (come il ripieno s'intreccia all' ordito); — cần tậr u
-pûd, mescolati come il filo e l'ordito in una tela.
+#تار# târ, ordito di una tela (pûd, invece, è il filo con cui si tesse la tela); tan i khvîsh tar u bar-ash pûd kard, fece ordito del proprio corpo, e del petto di lei fece il ripieno, nel senso di: si abbracciarono strettamente (come il ripieno s'intreccia all' ordito); — cần tậr u pûd, mescolati come il filo e l'ordito in una tela.
 #تاراج# târâs, rapina, saccheggio.
 #تارک# târak, la sommità, il vertice del capo, cocuzzolo.
 #تاری# târî, tenebroso, oscuro; metaf. umile, abietto.
@@ -808,7 +750,7 @@ pûd, mescolati come il filo e l'ordito in una tela.
 #تپش# tapish (suff. ish), calore, ardore; t. yâftan, sentir calore.
 #تخت# takht, sedia, seggio; trono, soglio reale; sar i takht, 1) il capo del trono (del regno), cioè la residenza reale; 2) principe, capo, re.
 #تختگاه# takht-gâh (cfr. gâh, luogo), luogo del trono, residenza reale.
- #تخته# takhtah (suff. ah) tavola di legno; pl. takht-hê.
+#تخته# takhtah (suff. ah) tavola di legno; pl. takht-hê.
 #تخم# tukhm, seme, semenza; origine, stirpe, famiglia; z.taokhman, antp. tauma, skr, tokman (sir. țûhmô).
 #تخمه# tukhmah (suff. ah) v. tukhm.
 #تذرو# tadharv, fagiano; gr. τάτυρος, skr. tittira, skr. tittiri(?), VULLERS.
@@ -848,10 +790,8 @@ pûd, mescolati come il filo e l'ordito in una tela.
 #تن‌فگار# tan-figâr (cfr. figâr, ferito), ferito nel corpo.
 #تنگ# tang, angusto, stretto; tristo, doloroso, dolente; avv. strettamente; - t. andar â madan, avvicinarsi, venire accanto; — t. andar âvardan, restringere; restringer lo spazio che ci divide da un altro, avvicinarsi a lui (con zamin, terra); - t. shudan, esser vicino; - t. kardan, rendere angusto, stringere (in senso di: ridurre uno agli estremi); — phl. tang, cfr. z. tangista
 (superl.).
-#تنگدل# tang-dil (cfr. dil, cuore), angustiato nell'animo,
-dolente.
-#تنگی#  tangî (suff. î), strettezza; angustia, angoscia; bî-tangi,
-strettamente, stentatamente.
+#تنگدل# tang-dil (cfr. dil, cuore), angustiato nell'animo, dolente.
+#تنگی#  tangî (suff. î), strettezza; angustia, angoscia; bî-tangi, strettamente, stentatamente.
 #تنها# tanhâ, solo; avv. soltanto, solamente; bî-tanhâ, da solo.
 #تو# tû, pron. pers. di 2a pers., tu; dat. e acc. tu-râ, a te, | te; pl. s ma, voi; – z. them, antp. neum, skr. Toan, gr.σύ, Tû, lat. tu.
 #توان# tuvân, tpr. di tuvânist, potere, valere; z. e skr. tu.
@@ -862,11 +802,11 @@ strettamente, stentatamente.
 
 
 <pb n="346"/>
- #تور# tûr, n. pr. del 2o dei tre figli di Frédûn, ucciso da Minoćihr, Tûr; z. tûra (nemico), phl. tûr; — v. i capi IV e V dell' Antologia.
+#تور# tûr, n. pr. del 2o dei tre figli di Frédûn, ucciso da Minoćihr, Tûr; z. tûra (nemico), phl. tûr; — v. i capi IV e V dell' Antologia.
 #توران# tûrân, n. pr. del paese turanico, il Turan; sec. Firdusi, questo paese prese il nome da Tûr, figlio di Frédûn, che ne fu il primo principe; phl. tûrân, cfr. z. tûra.
 #تورانی# tûrânî (suff. î), turanio, del Turan; pl. Tûrâniyân, i Turani.
 #توز# tûz, corteccia d'albero, con la quale si fanno involucri per gli archi; - tûz az mushk, v. la traduzione di questo passo alla fine dei testi.
-#توزی# tûzî (), veste da estate di lino sottile; in generale, veste; - t. kafan pûshidan, indossar per veste un lenzuolo funebre, andare incontro alla morte.
+#توزی# tûzî (ô), veste da estate di lino sottile; in generale, veste; - t. kafan pûshidan, indossar per veste un lenzuolo funebre, andare incontro alla morte.
 #توش# tûsh (o), vigore, forza, potenza; z. (nelle Gâtha) tevîshi.
 #توشه# tûshah (6), cibo, provvigione; sostegno, conforto.
 #ٰتوف# tûf (o), tpr. di tûfîd, romoreggiare, risuonare, rim bombare; schiantare (intrans.).
@@ -895,11 +835,7 @@ strettamente, stentatamente.
 #تیغ# tigh (ê), 1) spada; — 2) cima, vetta di un monte; -—3) raggio di sole; — z. taêgha (punta), arm. têg.
 #تیغ‌زن# tigh-zan (cfr. zadan, tpr. zan, battere), che, maneggia, che vibra la spada, quindi: bellicoso, belligero.
 #تیمار# tîmâr, affanno, angoscia, pensiero molesto e doloroso.
-#جا# ģâ, e #جای# , luogo, posto; parte del corpo, punto qualunque del corpo; – bar gây ast, è in pronto; - ģ. sipurdan, cedere il posto, ritirarsi; – bî-gây ávardan, apportare; apporre (sulla mensa), imbandire;
-
-
-<pb n="348"/>
- condurre a termine un lavoro; - bî-gây âmadan, convenire in un luogo, radunarsi, raccogliersi; – bigây bằdas, esser pronto; – g. Ản-dil kardas, far posto nel cuore, cioè accogliere nel cuore qualche intenzione, qualche inclinazione; - gây, avv. in nessun luogo (con negaz.); – gâyî, in qualche luogo, in qualche parte; – har gây avv. in ogni luogo, dovun que; — bî-gây è, in luogo di ..., invece di ...
+#جا# ģâ, e #جای# , luogo, posto; parte del corpo, punto qualunque del corpo; – bar gây ast, è in pronto; - ģ. sipurdan, cedere il posto, ritirarsi; – bî-gây ávardan, apportare; apporre (sulla mensa), imbandire; <pb n="348"/> condurre a termine un lavoro; - bî-gây âmadan, convenire in un luogo, radunarsi, raccogliersi; – bigây bằdas, esser pronto; – g. Ản-dil kardas, far posto nel cuore, cioè accogliere nel cuore qualche intenzione, qualche inclinazione; - gây, avv. in nessun luogo (con negaz.); – gâyî, in qualche luogo, in qualche parte; – har gây avv. in ogni luogo, dovun que; — bî-gây è, in luogo di ..., invece di ...
 #جادو# gâdû, mago, incantatore; metaf. occhi di una fan ciulla (come affascinatori); – shâh i gâduvân (pl.), re dei maghi, il Re cioè del Mâzenderân, che si credeva abitato da Dêvi e da maghi; z. e skr. yâtu.
 #جادوی# gâdavî (suff. î), magia, incanto.
 #جادویی# gâdûyî (suff. î), magia, incanto, fascino; tradimento, frode.
@@ -930,30 +866,22 @@ strettamente, stentatamente.
 #جعد# gâd (ar.) riccio, treccia di capelli.
 #جفا# gafâ (ar.), violenza, ingiustizia, soperchieria.
 #جفاپیشه# gafa-pishah (a. p., cfr. pishah, arte), ingiusto, violento, tracotante.
-#جفت# guft, congiunto, compagno; consorte, marito; – Guft-guft, a paio a paio, a coppia a coppia; — z. yukhta, skr. yukta, phl. ģuft, e sukht (cfr. diraf
-shidan e dirakhshidan).
+#جفت# guft, congiunto, compagno; consorte, marito; – Guft-guft, a paio a paio, a coppia a coppia; — z. yukhta, skr. yukta, phl. ģuft, e sukht (cfr. diraf shidan e dirakhshidan).
 #جفت‌جوی# guft-gûy (cfr. gustan, tpr. grûy, cercare), desi derosa di marito.
 #جگر# gigar, fegato; metaf. l'interno del corpo; cuore; anima; - skr. yakrit, gr. ἦπαρ, lat. jecur.
 #جگرخسته# Gigar-khastah (cfr.khastan, ferire), ferito nel petto.
-#جمشید# gamshîd, n. pr. del 4° re del mondo, 3o della
-famiglia dei Pêshdâd, Gemshîd. Successe a Tahmûras nel regno. Inventò molte arti, ed ebbe l'onore
-
-
-<pb n="350"/>
-di aver spessi colloquii con Dio (Fird. p. 20, ed. Calc.), anzi nell' Avesta si legge (Vend. II) che egli fu il primo degli uomini col quale Ahura Mazdâo s'intrattenesse. Ma poi si levò a superbia, volle farsi adorare, e l'aureola luminosa che cingeva il suo capo (la maestà reale, farr in pers., qarenanh in z.), fuggi da lui. Dahâk gli tolse il regno, ed egli andò errando per cent'anni nel Segestân laddove sposò la figlia del re di quel paese; e da lui così ebbe origine la famiglia di Zale di Rustem (v. il c. VI dell' Antol.). Cadde poi in mano del suo nemico, che lo fece segare per il mezzo; - z. yimô-khshaêta; il semplice è rima,
-skr. yama (cfr. SPIEGEL, Erân. Alterth. I, p. 439).
+#جمشید# gamshîd, n. pr. del 4° re del mondo, 3o della famiglia dei Pêshdâd, Gemshîd. Successe a Tahmûras nel regno. Inventò molte arti, ed ebbe l'onore <pb n="350"/> di aver spessi colloquii con Dio (Fird. p. 20, ed. Calc.), anzi nell' Avesta si legge (Vend. II) che egli fu il primo degli uomini col quale Ahura Mazdâo s'intrattenesse. Ma poi si levò a superbia, volle farsi adorare, e l'aureola luminosa che cingeva il suo capo (la maestà reale, farr in pers., qarenanh in z.), fuggi da lui. Dahâk gli tolse il regno, ed egli andò errando per cent'anni nel Segestân laddove sposò la figlia del re di quel paese; e da lui così ebbe origine la famiglia di Zale di Rustem (v. il c. VI dell' Antol.). Cadde poi in mano del suo nemico, che lo fece segare per il mezzo; - z. yimô-khshaêta; il semplice è rima, skr. yama (cfr. SPIEGEL, Erân. Alterth. I, p. 439).
 #جمله# ģumlah (ar.), totalità, tutto l'insieme di molte persone o di molte cose; gran quantità di cose.
 #جنب# gunb, tpr. di gunbîd, muoversi; -- zi-gây gunbidan, togliersi da un luogo.
 #جنبید# Gunbîd, tps. di gunb.
 #جندل# gandal, n. pr. di un servo fedele del re Frédûn, Gendel
 #جنگ# gang, guerra; battaglia, assalto, combattimento.
 #جنگ‌آور# gang-âvar (cfr. avardan, portare), guerriero; valoroso; milite.
-#جنگ‌آوری# ĝang-êvarî (suff. î), valor guerresco, perizia
-nell' arte militare.
+#جنگ‌آوری# ĝang-êvarî (suff. î), valor guerresco, perizia nell' arte militare.
 #جنگ‌جو# gang gû, v. gang gûy.
 #جنگ‌جوی# gang-gŵy (cfr. gustan, tpr. gầy, cercare), amante di battaglie, belligero, bellicoso, valoroso.
 #جنگ‌ساز# gang-sâz (cfr. sâkhtan, tpr. sâz, fare), esperto nel combattere; valoroso.
-#جنگی# gangủ (suff. î), guerriero, bellicoso, battagliero.
+#جنگی# gangû (suff. î), guerriero, bellicoso, battagliero.
 #جو# gứ, tpr. di gust, pres. çûyam, cercare, domandare; desiderare, amare, esser amante di una cosa; — z. e antp. gad.
 
 
@@ -972,9 +900,7 @@ nell' arte militare.
 #جوی# gûy, fiume, canale; phl. gậy, z. vaidhi (SPIEGEL, Die trad. Litt. der Pârsen, p. 392); antp. yuviyâ (Inscript. Suezensis, ed. Kossowicz, 6, 3) (?). – gûy, v. ģu.
 #جویا# gûyâ, n. pr. di un Dêvo-guerriero del Mâzenderán, ucciso da Rustem, Gûya.
 #جویبار# gûy-bâr, fiume, rio, riviera.
-#جه# gah, ģih, tpr. di gast, saltare, balzare; - zi-gây
-gastan, balzare in piedi dal luogo dove si è; — z.
-ganh, skr. gas. .
+#جه# gah, ģih, tpr. di gast, saltare, balzare; - zi-gây gastan, balzare in piedi dal luogo dove si è; — z. ganh, skr. gas. .
 #جهان# gihân, mondo, la terra abitata; la gente del mondo, gli uomini; la sorte, il destino; — yak gihân, tutto un mondo, tutta una gran folla di gente (tout le monde); – z. gaetha, antp. gaitha, phl. gêhân.
 #جهان‌آفرین# gihân-â farîn (cfr. âfaridan, tpr. âfarin, creare), Creator del mondo.
 
@@ -988,8 +914,7 @@ ganh, skr. gas. .
 #جهان‌دار# ģihân-dar (cfr. dashtan, tpr. dâr, avere), 1) che regge il mondo, Iddio; – 2) re, principe, sovrano (specialmente i re dell'Iran, che si consideravano signori del mondo e si chiamavano Re dei re).
 #جهان‌داور# gihan-dâvar (cfr. dâvar, giudice), giudice del mondo, Iddio.
 #جهان‌دیده# sihân-didah (cfr. didan, vedere), che ha veduto, conosciuto il mondo, cioè esperto, perito, pratico delle cose; pl. gihân-didagân.
-#جهان‌سوز# gihân-sûz (cfr. sûkhtan, tpr. sûz, bruciare), che
-abbrucia, devasta il mondo (si dice di un serpente).
+#جهان‌سوز# gihân-sûz (cfr. sûkhtan, tpr. sûz, bruciare), che abbrucia, devasta il mondo (si dice di un serpente).
 #جهان‌کدخدای# ģihan-kad-khudây (cfr. kad-khudây, signore), signore del mondo.
 #جهانی# gihânî (suff. î), mondano, terreno; coll. gli uomini, il genere umano.
 #چار# câr v. cahâr.
@@ -1026,9 +951,7 @@ abbrucia, devasta il mondo (si dice di un serpente).
 #چز# caz, per cih + az.
 #چستی# ćustî (suff. î), velocità, prontezza, energia.
 #چش# cash, tpr. di čashîd, gustare, sentire, provare; z. e skr. cash, phl. čashitano.
-#چشم# cashm, occhio, coll. gli occhi; — c. afgandan, gettar
-lo sguardo su di una cosa, osservare, scorgere; - Ć. bar kasî gumâshtan, porre gli occhi su qualcheduno, riporre in lui ogni speranza; — c. z nirang bar dûkhtan, forar l'occhio dell'inganno, cioè deludere un inganno, mandare a vuoto un trannello teso; - cashm i khurûs, occhio di gallo, termine di paragone in alcune similitudini per significare (con frase strana) la nitidezza, l'ordine, la precisione con cui è fatta una cosa, p. e. bî-y-ârâst maydân cû čashm i khurûs, apprestò la palestra come un occhio di gallo, cioè con tutta prontezza e proprietà; – z. čashman, phl. laskm,
-pârsi casm, skr. ćakshus, rad. skr. iaksh, informare.
+#چشم# cashm, occhio, coll. gli occhi; — c. afgandan, gettar lo sguardo su di una cosa, osservare, scorgere; - Ć. bar kasî gumâshtan, porre gli occhi su qualcheduno, riporre in lui ogni speranza; — c. z nirang bar dûkhtan, forar l'occhio dell'inganno, cioè deludere un inganno, mandare a vuoto un trannello teso; - cashm i khurûs, occhio di gallo, termine di paragone in alcune similitudini per significare (con frase strana) la nitidezza, l'ordine, la precisione con cui è fatta una cosa, p. e. bî-y-ârâst maydân cû čashm i khurûs, apprestò la palestra come un occhio di gallo, cioè con tutta prontezza e proprietà; – z. čashman, phl. laskm, pârsi casm, skr. ćakshus, rad. skr. iaksh, informare.
 #چشمه# íashmah (suff. ah, da ćashm, occhio, cfr. ar. ed ebr. 'ayin, occhio e fonte), fonte, fontana; - cashmah-khín, fontana di sangue.
 #چشید# ćashîd, tps. di čash.
 #چک# ćak, tpr. di ćakîd stillare, gocciolare; part. Lakán, stillante.
@@ -1055,8 +978,7 @@ pârsi casm, skr. ćakshus, rad. skr. iaksh, informare.
 #چنگ# cang, artiglio, unghia; branca; mano robusta, pugno; - bî-cang âmadan, venire nelle mani, venire in potere di uno.
 #چنگال# cangâl (cfr. cang), artiglio, unghia; branca, pugno.
 #چنو# can-û (per cûn û), come lui, come lei.
-#چنین# cun-in (cfr. în, questo), questo, tale cotale; avv.,
-come; talmente, in questo modo.
+#چنین# cun-in (cfr. în, questo), questo, tale cotale; avv., come; talmente, in questo modo.
 
 
 <pb n="356"/>
@@ -1159,17 +1081,14 @@ come; talmente, in questo modo.
 
 
 <pb n="361"/>
-#خشت# khisht, 1) mattone; 2) specie di giavellotto cosi descritto: hasta brevis, in cujus medio anulus est ex gossipio vel serico contextus, quam digitum indicem in anulum immittentes contra hostes jaculantur (VULLERS, Lex. pers.). — Nella espressione: zi-divârhâ khisht ... bî-bârîd, si può tradurre tanto: dalle mura piovevano mattoni (sul nemico), quanto: piovevano giavellotti
-dalle mura.
+#خشت# khisht, 1) mattone; 2) specie di giavellotto cosi descritto: hasta brevis, in cujus medio anulus est ex gossipio vel serico contextus, quam digitum indicem in anulum immittentes contra hostes jaculantur (VULLERS, Lex. pers.). — Nella espressione: zi-divârhâ khisht ... bî-bârîd, si può tradurre tanto: dalle mura piovevano mattoni (sul nemico), quanto: piovevano giavellotti dalle mura.
 #خشک# khushk, secco, arido; - kh. kardan, far seccare, asciugare; — z. huska, antp. uska, skr. çushka.
 #خشکی# khushkî (suff. î), siccità, secchezza; luogo asciutto, terra ferma.
 #خشم# khashm, khishm, ira, sdegno; z. aêshma.
 #خشیشار# khashishâr, uccello nero acquatico.
 #خفت# khuft, tps. di khvâb.
 #خفتان# khaftân, tunica militare, corazza.
-#خم# kham, tpr. di khamîd, curvarsi, piegarsi; inchinarsi,
-umiliarsi; - part. khamîdah, curvato; umiliato,
-prostrato.
+#خم# kham, tpr. di khamîd, curvarsi, piegarsi; inchinarsi, umiliarsi; - part. khamîdah, curvato; umiliato, prostrato.
 #خم# kham, ei khamm – 1) piegato, curvato; – 2) piegatura, curvatura (delle ciglia, delle treccie, del laccio, ecc.); - kh. andar avardan, piegare, inarcare; aggrottare (le ciglia); - kh. dâdan, far rotare; piegare.
 #خم# khum (forma abbreviata di khund), pentola; timpano di metallo (nel testo, khum fa rima con pilsam per licenza poet.); z. khunba, skr. kumbha, phl. khunb.
 #خمید# khamîd, tps. di kham.
@@ -1238,18 +1157,17 @@ prostrato.
 #خوش‌گوار# khvash-guvár (cfr. guvâridan, digerire), che facil mente si digerisce, grato allo stomaco (si dice del vino).
 #خوشی# khvashî (suff. î), piacere, diletto, godimento.
 #خون# khûn, 1) sangue; — 2) lagrime, pianto; khûn i dil, sangue del cuore, cioè: pianto, lagrime; – kh. az didah rândan, mandar lagrime dagli occhi, lagrimare; — 3) dolore, angoscia, affanno; — 4) rossore, vergogna; — z. vohuni, phl. e pârsi khûn.
-#خوناب# khủnsâb (cfr. ab, acqua), lagrime di dolore.
+#خوناب# khûnsâb (cfr. ab, acqua), lagrime di dolore.
 #خون اسیاوشان# khûn i isyâvishân (sangue di Siyâvish) n. pr. di un'erba che nacque sul luogo nel quale fu decapitato Siyavish.
 
 
 <pb n="366"/>
 #خون‌ریز# khán-riz (cfr. rikhtar, tpr. riê, versare), spargitor di sangue, sanguinario.
-#خونین# khủnin (suff. in), sanguigno, di color di sangue; metaf. tristo, mesto, doloroso; v. zunnar.
+#خونین# khûnin (suff. in), sanguigno, di color di sangue; metaf. tristo, mesto, doloroso; v. zunnar.
 #خوی# khway, sudore; — bî-khvey riskandar, far sudare, far stancare; -- skr. sveda (intorno al np. y - dh, a antico,'v. ASCOLI, Studi Irani).
-#خوی# khûy (), indole, natura, carattere; skr. Svadha (iranico prim. hvadhâ supposto dall'Ascoli, Studi Irani, p. 6).
-#خویش# khuîsh (@), 1) sè stesso; in genitivo, proprio, p. e. nân i khvish, il proprio pane; -- 2) consanguineo, congiunto, parente, cognato; coll. parenti, consanguinei; metaf. amorevole; pl. khvîshân, consanguinei; - phl. Khvêsh, pârsi gés.
-#خویشتن# khvish-tan (cfr. tan, corpo), lo stesso di khvish,
-v.; - phl. khvêshtano.
+#خوی# khûy (ô), indole, natura, carattere; skr. Svadha (iranico prim. hvadhâ supposto dall'Ascoli, Studi Irani, p. 6).
+#خویش# khuîsh (ê), 1) sè stesso; in genitivo, proprio, p. e. nân i khvish, il proprio pane; -- 2) consanguineo, congiunto, parente, cognato; coll. parenti, consanguinei; metaf. amorevole; pl. khvîshân, consanguinei; - phl. Khvêsh, pârsi gés.
+#خویشتن# khvish-tan (cfr. tan, corpo), lo stesso di khvish, v.; - phl. khvêshtano.
 #خویشی# khvishî (suff. î), parentela, affinità.
 #خیره# khîrah, 1) attonito, stupefatto, confuso, perplesso, stordito; folle, forsennato; sconfortato, avvilito; – bikhirah furû mândan, rimaner stordito; – bar khîrah, inutilmente, stoltamente; — 2) svergognato, impudente.
 #خیره‌سر# khîrah-sar (cfr. sar, capo), stupido di testa (di i'mente), stordito, sciocco.
@@ -1287,11 +1205,7 @@ v.; - phl. khvêshtano.
 #دایه# dâyah, nutrice.
 #دخت# dukht, invece di dukhtar, v.
 #دختر# dukhtar, figlia; z. dughdhar, skr. duhitri, gr. θυγάτηρ, ted. Tochter.
-#دخمه# dakhmah, cimitero dei seguaci della religione di Zoroastro, laddove si esponevano i cadaveri insepolti finchè gli uccelli di rapina li avessero divorati e il tempo ne avesse ridotte in polvere le ossa. Il dakhma è di forma circolare, cinto all'intorno da un muro alto II piedi, con diversi viali che s'incrociano nel mezzo. Il primo cadavere che sia lecito porre in un dakhma nuovo, si è quello di un bambino o di un
-
-
-<pb n="369"/>
-figlio di un sacerdote. Trovasi una descrizione di un dakhma in SPIEGEL, Avesta Uebersetz. II, XXXV e segg. Quest'uso di esporre i cadaveri è vivo ancora tra i Parsi, come l'attesta Anquetil, ed è molto antico, trovandosene memoria fin dai tempi di Alessandro M. Strabone (XI, C. 517) infatti dice che . Onesicrito troνo nella Battriana τὰ μὲν ἔξω τείχους τῆς μητροπόλεως τῶν Βάκτρων καθαρά, τῶν δ' ἐντὸς τὸ πλέον ὀστέων πλῆρες ἀνθρώπων (cfr. Harlez, Études Avestiques, p. 62); - z. dakhma. - Firdusi adopera questa parola solo nel senso di tomba, monumento (ben diverso dal dakhma dell' Avesta).
+#دخمه# dakhmah, cimitero dei seguaci della religione di Zoroastro, laddove si esponevano i cadaveri insepolti finchè gli uccelli di rapina li avessero divorati e il tempo ne avesse ridotte in polvere le ossa. Il dakhma è di forma circolare, cinto all'intorno da un muro alto II piedi, con diversi viali che s'incrociano nel mezzo. Il primo cadavere che sia lecito porre in un dakhma nuovo, si è quello di un bambino o di un <pb n="369"/> figlio di un sacerdote. Trovasi una descrizione di un dakhma in SPIEGEL, Avesta Uebersetz. II, XXXV e segg. Quest'uso di esporre i cadaveri è vivo ancora tra i Parsi, come l'attesta Anquetil, ed è molto antico, trovandosene memoria fin dai tempi di Alessandro M. Strabone (XI, C. 517) infatti dice che . Onesicrito troνo nella Battriana τὰ μὲν ἔξω τείχους τῆς μητροπόλεως τῶν Βάκτρων καθαρά, τῶν δ' ἐντὸς τὸ πλέον ὀστέων πλῆρες ἀνθρώπων (cfr. Harlez, Études Avestiques, p. 62); - z. dakhma. - Firdusi adopera questa parola solo nel senso di tomba, monumento (ben diverso dal dakhma dell' Avesta).
 #دد# dad, e #دده# dadah, bestie feroci (leoni, tigri, lupi, ecc.); cfr. dâm, con cui trovasi dad sempre unito; -- phl. tatak.
 #در# dar, e #درّ# darr, tpr. di darîd e darrîd, lacerare, sbranare, fare in pezzi, infrangere; part. pl. darrandagân (lett., sbrananti), animali feroci, belve; – bar daridan, lacerare; rompere; intrans., rompersi, spezzarsi; – z. e skr. dar.
 #در# dar – 1) porta; soglia; confine; dar i shahryar, i confini del re dell' Iran, fûpa Baol46ws; corte, reggia; - 2) genere; az dar z..., del genere di ..., avv. a cagione di ..., per; — z. dvara, antp. duvará, skr.duầra, g. Tûpo, late fores; – bấm 4 da, v. 6âm.
@@ -1329,9 +1243,7 @@ figlio di un sacerdote. Trovasi una descrizione di un dakhma in SPIEGEL, Avesta 
 #درود# durûd, messe, raccolta del grano.
 #درون# darûn, v. andarûn.
 #درویش# darvish (dar, porta, + rad. z. vîç, skr. viç, entrare; che entra per le porte a mendicare; — secondo altri, invece di daryûsh (o), z. drighu), mendico, povero; coll. poveri; i dervish.
-#دری# darî (cfr. dar, reggia, + suff. a), cortigiano, cortigia
-nesco; – n. pr. di una lingua, lingua cioè di corte (cfr. il sermo aulicus di Dante), lingua più nobile ed eletta; Firdusi appunto scrisse in questa lingua. «Es wurde von den Personen des königlichen Hofes gesprochen, daher bekam es den Namen so», SPIEGEL,
-Gramm. der Huzvâr. Spr. p. 15.
+#دری# darî (cfr. dar, reggia, + suff. a), cortigiano, cortigia nesco; – n. pr. di una lingua, lingua cioè di corte (cfr. il sermo aulicus di Dante), lingua più nobile ed eletta; Firdusi appunto scrisse in questa lingua. «Es wurde von den Personen des königlichen Hofes gesprochen, daher bekam es den Namen so», SPIEGEL, Gramm. der Huzvâr. Spr. p. 15.
 #دریا# daryâ, mare; lago; fiume; – z. zrayanh, antp. daraya, phl zraê, skr. ğrayas (rad. gri, distendersi).
 #درید# darîd, e dos darrîd, tps. di dar, darr.
 #دریغ# darigh (@), espressione di dolore, chimè! aime! (con ân, o êm).
@@ -1353,7 +1265,7 @@ Gramm. der Huzvâr. Spr. p. 15.
 #دستور# dastûr (per dast-var, suff. var), 1) consigliere di un re, ministro, uomo di fiducia; - 2) permesso. licenza; — phl. dastûbar.
 #دستوری# dastûrî (suff. î), licenza, permesso.
 #دسته# dastah (suff. ah) - 1) manico, manubrio; - 2) mazzo di fiori; dastah i bûy u rang, serto di odori e di colori, cioè ghirlanda; – phl. dastak. muis dasht, pianura, campagna; deserto; – arm. Tashd.
- #دشمن# dushman, nemico; — z. dusmainyu, skr. Durmanas, gr. δυσμενής.
+#دشمن# dushman, nemico; — z. dusmainyu, skr. Durmanas, gr. δυσμενής.
 #دشنه# dashnah, pugnale (di qui il sir. dishnigó),
 
 
@@ -1380,8 +1292,7 @@ Gramm. der Huzvâr. Spr. p. 15.
 #دلیر# dilir (e), coraggioso, animoso; feroce; forte; audace, ardito; – pl. dilirận, eroi, magnati, principi.
 #دلیری# dilirî (suff. î), coraggio, valore.
 #دم# dam, tpr. di damîd, soffiare, spirare; fare impeto, scagliarsi; correre; part. damân, corrente, rapido; soffiante (del vento); — pas andar damidan, inseguir correndo; - z. dam, skr. dham.
-#دم# dam, 1) fiato, alito, soffio; - 2) momento, istante; - în dam, avv., in questo momento, ora, adesso; -- 3) fallacia, illusione; – d. bar lab âvardan, fiatare. rivelar qualche secreto; - d. bar zadan, sostare, .soffermarsi per riposare (per prender fiato); – dobar kashidan, trattenere il fiato, non fiatare, tenersi in silenzio, tacere; — d. zadan (prender fiato), indugiarsi,
-ritardare; tacere; - phl. dam.
+#دم# dam, 1) fiato, alito, soffio; - 2) momento, istante; - în dam, avv., in questo momento, ora, adesso; -- 3) fallacia, illusione; – d. bar lab âvardan, fiatare. rivelar qualche secreto; - d. bar zadan, sostare, .soffermarsi per riposare (per prender fiato); – dobar kashidan, trattenere il fiato, non fiatare, tenersi in silenzio, tacere; — d. zadan (prender fiato), indugiarsi, ritardare; tacere; - phl. dam.
 #دمادم# damâdam (dam + â + dam), in un momento; improvvisamente.
 #دمار# damar (suff. âr), alito, spirito.
 #دماوند#  damâvand, n. pr. del monte in cui Frédûn incatenò Dahâk. È un picco vulcanico al nord della Persia. nella catena dell' Alburz, dell'altezza di m. 5670. sempre coperto di nevi. Il cratere che trovasi alla sommità di esso, ha un diametro di 300 m. nella sua maggior larghezza (cfr. DE FILIPPI, Note di un viaggio in Persia); Demâvend.
@@ -1443,8 +1354,7 @@ ritardare; tacere; - phl. dam.
 
 <pb n="378"/>
 #دیومرد# div-mard (cfr. mard, uomo), propriamente: uomo demoniaco, diabolico; maligno.
-#دیهیم‌دار# dihim-dâr (dihim, diadema, cfr. dâshtan, tpr.
-dâr, avere), che porta diadema, coronato.
+#دیهیم‌دار# dihim-dâr (dihim, diadema, cfr. dâshtan, tpr. dâr, avere), che porta diadema, coronato.
 #را#  râ, particella che segna il caso accusativo e talvolta il dativo (Gramm. 110, 111); - phl. e pârsi râ. Lo SPIEGEL (Altpers. Kelinschrift, p. 215) vorrebbe riferire questo râ all' antp. râd, proposito, fine, scopo, che trovasi nellavahyarâdiy, perciò, per questo, dell' Iscrizione di Behistân.
 #راد# râd, liberale, grande, magnifico.
 #راز# râz, secreto, cosa secreta, pl. râzhâ; avv. secretamente; zi-râz, dall' intimo, dall'interno; - r. bûdan, rimaner nascosto; – z. razanh, skr. rahas, rad. rah. abbandonare.
@@ -1474,8 +1384,7 @@ dâr, avere), che porta diadema, coronato.
 
 
 <pb n="380"/>
-#ربا#  rubâ, tpr. di rubûd, rapire, portar via, togliere; z. rup,
-skr. lup, lat. rapio, got. raubôn.
+#ربا#  rubâ, tpr. di rubûd, rapire, portar via, togliere; z. rup, skr. lup, lat. rapio, got. raubôn.
 #رباب# rabûb (ar.), stromento musicale, ribeba.
 #ربود# rubûd, tps. di rubà.
 #رخ# rukh, guancia, gota; pl. rukhân; cfr. rukh-sârah.
@@ -1513,7 +1422,7 @@ skr. lup, lat. rapio, got. raubôn.
 
 
 <pb n="382"/>
- #رگ# rag, vena; phl. rag:
+#رگ# rag, vena; phl. rag:
 #رم# ram, tpr. di ramîd, fuggire, sfuggire, involarsi; correre; esser timido, spaventarsi; part. ramandah, corrente, fuggente; fuggevole; timido; – z. e skr. ram(?).
 #رمه# ramah, greggia, armento; metaf. popolo, gente; phl. ramak.
 #رمید# ramîd, tps. di ram.
@@ -1530,7 +1439,7 @@ skr. lup, lat. rapio, got. raubôn.
 
 
 <pb n="383"/>
-#روب# rûb (), tpr. di ruft, spazzare, scopare, ripulire; - zamîn-râ bî-muzhagân bî-ruft, spazzo il suolo con le ciglia, cioè si chinò col capo al suolo in segno di obbedienza; ~ z. rup, skr. lup, lat. rapio (portar via).
+#روب# rûb (ô), tpr. di ruft, spazzare, scopare, ripulire; - zamîn-râ bî-muzhagân bî-ruft, spazzo il suolo con le ciglia, cioè si chinò col capo al suolo in segno di obbedienza; ~ z. rup, skr. lup, lat. rapio (portar via).
 #روباه#rûbâh, volpe, faina; z. urupi, phl. rûpā.
 #روبه# rûbah, v. rûbâh.
 #رود# rød, fiume; -- z. urud, skr. rodha, phl. pârsi rôt.
@@ -1551,14 +1460,10 @@ skr. lup, lat. rapio, got. raubôn.
 #روشنی#, rûshanî (suff. î), splendore, luce; fiamma.
 #رومی# rûmî (suff. î), greco, di Grecia (da rûm, Grecia,originalmente Impero Romano e Bizantino).
 #روی# rûy (6), tpr. di rust, pres. rûyam, crescere, nascere dal suolo (si dice delle erbe); sbucar fuori (dei serpenti di Dahâk, v.); z. rudh, skr. ruh.
-#روی#  rûy, anche #رو# rû, volto, viso, faccia; superficie (del suolo, delle acque, ecc.); sponda, ripa di un fiume; – hić rûy, avv. (con negaz.), in nessuna maniera, in nessun modo; - dû rûy, le due guancie del volto, l'una e l'altra parte della faccia; - bî-rûy andar âmadan, cader col volto innanzi, cader boccone; -- rủy bî-rûy andar âvardan, il venirsi incontro (si dice di due eserciti nemici); -- r. bar tâftan, volgere il volto, venir via; — r. bar khâk mâlidan, toccar col volto la terra, prostrarsi per adorare; - . bar gâshtan, e gashtan, volgere il volto, rivolgersi; fuggire, volger le spalle; - r. pićidan, volgere il volto in altra parte (per partire, per fuggire); torcere il collo ad una vittima (per sgozzarla); — . sâkhtan. volgersi da qualche parte; — r. kardan, volgere il viso da una parte, prendere una direzione, incamminarsi; - r. nihâdan, muoversi, partire, incamminarsi: -- z. raodha, skr. roha, phl. rût.
+#روی#  rûy, anche #رو# rû, volto, viso, faccia; superficie (del suolo, delle acque, ecc.); sponda, ripa di un fiume; – hić rûy, avv. (con negaz.), in nessuna maniera, in nessun modo; - dû rûy, le due guancie del volto, l'una e l'altra parte della faccia; - bî-rûy andar âmadan, cader col volto innanzi, cader boccone; -- rûy bî-rûy andar âvardan, il venirsi incontro (si dice di due eserciti nemici); -- r. bar tâftan, volgere il volto, venir via; — r. bar khâk mâlidan, toccar col volto la terra, prostrarsi per adorare; - . bar gâshtan, e gashtan, volgere il volto, rivolgersi; fuggire, volger le spalle; - r. pićidan, volgere il volto in altra parte (per partire, per fuggire); torcere il collo ad una vittima (per sgozzarla); — . sâkhtan. volgersi da qualche parte; — r. kardan, volgere il viso da una parte, prendere una direzione, incamminarsi; - r. nihâdan, muoversi, partire, incamminarsi: -- z. raodha, skr. roha, phl. rût.
 #روئین# rûyîn, n. pr. di un guerriero turanio, figlio di Pirân; Rûyîn.
 #روئینه#, rûyînah (suff. inah, cfr. rûy, bronzo), fabbricato di bronzo.
-#ره#  rah, tpr. di rast, scampare, liberarsi, divenir libero; - bî-rastam, sono libera!, così disse Rûdabeh appena ebbe partorito, e però fu imposto al bambino il nome di Rustem, il quale però accenna non a rastan, esser libero, scampare, ma bensì a Fustan, germogliare; e in quest'ultimo caso si dovrebbe leggere bî-rust-an,
-
-
-<pb n="385"/>
- a me è nato un rampollo, un figlio (durch den Spross kam mir die Noth zu Ende, SPIEGEL). L'una e l'altra etimologia sono buone (SPIEGEL, Erân. Alterth. I, p. 572, nota).
+#ره#  rah, tpr. di rast, scampare, liberarsi, divenir libero; - bî-rastam, sono libera!, così disse Rûdabeh appena ebbe partorito, e però fu imposto al bambino il nome di Rustem, il quale però accenna non a rastan, esser libero, scampare, ma bensì a Fustan, germogliare; e in quest'ultimo caso si dovrebbe leggere bî-rust-an, <pb n="385"/> a me è nato un rampollo, un figlio (durch den Spross kam mir die Noth zu Ende, SPIEGEL). L'una e l'altra etimologia sono buone (SPIEGEL, Erân. Alterth. I, p. 572, nota).
 #ره# rah, v. râh.
 #رها# raha, scampo, salvezza, liberazione; — r. Kardan, liberare.
 #رهام# ruhhâm, n. pr. di un guerriero iranio; Ruhâm.
@@ -1578,10 +1483,9 @@ skr. lup, lat. rapio, got. raubôn.
 
 <pb n="386"/>
 #ریمن# rayman, malvagio, infesto; fabbricator d'inganni; ovy. per âharman, (v.); mardum i rayman, uomini malvagi, ingannatori; ovv. uomini addetti ad Ahrimane.
-#ریونیز# rivniz (), n. pr. di un figlio di Kâvus che morìnella battaglia di Peshen; Rêvniz.
+#ریونیز# rîvnîz (ê), n. pr. di un figlio di Kâvus che morìnella battaglia di Peshen; Rêvniz.
 #ز# zi, prep. v. az.
-#زا#  sâ, tpr. di zâd, 1) partorire, generare; — 2) nascere. venire alla luce; -- z. zan, skr. gan, phl. zátano, pârsi zûêt (pres.), gr. γεν in γίγνομαι, γένος: ecc.. lat. gen in gigno, genus, ecc., cfr. got. kuni (stirpe.
-genus).
+#زا#  sâ, tpr. di zâd, 1) partorire, generare; — 2) nascere. venire alla luce; -- z. zan, skr. gan, phl. zátano, pârsi zûêt (pres.), gr. γεν in γίγνομαι, γένος: ecc.. lat. gen in gigno, genus, ecc., cfr. got. kuni (stirpe. genus).
 #زابل# zabul, n. pr. del paese della famiglia di Rustem, detto anche Sistân o Segestân o Nimrûz.
 #زابل‌خدای# zâbul-khudây (cfr. khuda, principe), principe del Zabul.
 #زابلستان# zábul-z-stân (anche zábul-sitân, per il verso, suff. Istân), il paese del Zâbul.
@@ -1590,15 +1494,9 @@ genus).
 #زار# zâr, 1) lamento, gemito, pianto; - 2) piangente. dolente; – avv. dolorosamente; - bî-zâr, avv. con pianto, con gemiti; con dolore.
 #زاری# zârî (suff. î), gemito, lamento; – bî-zârî, con pianto, con gemiti, con dolore; miseramente; z. numi dan, piangere, sospirare.
 #زاغ# zâgh, 1) corvo; -- 2) zâgh i kamân, angolo dell' arco. parte estrema dell'arco.
-#زال# zâl, anche #زالزر# sal-zar, n. pr. del figlio di Sâm, Zah che fu esposto dal padre sul monte Alburz, perchè
-
-
-<pb n="387"/>
-
-era nato coi capelli bianchi (zâl significa vecchio), e quivi fu nutrito dall' uccello Simurgh, v. Chiamavasi anche Destân. Vedi l'Antologia.
+#زال# zâl, anche #زالزر# sal-zar, n. pr. del figlio di Sâm, Zah che fu esposto dal padre sul monte Alburz, perchè <pb n="387"/> era nato coi capelli bianchi (zâl significa vecchio), e quivi fu nutrito dall' uccello Simurgh, v. Chiamavasi anche Destân. Vedi l'Antologia.
 #زالزر# zâl-zar, v, zâl.
-#زبان# zuban, lingua; loquela, idioma, sermone, lingua; --z. dâdan, promettere; – . hizva, antp. izáva, skr. ģihva, phl. huzvân, pârsi hizvăn, lat. lingua (per
-dingua), got. tuggo.
+#زبان# zuban, lingua; loquela, idioma, sermone, lingua; --z. dâdan, promettere; – . hizva, antp. izáva, skr. ģihva, phl. huzvân, pârsi hizvăn, lat. lingua (per dingua), got. tuggo.
 #زبان‌آور# zubân-âvar (cfr. Qvardan, portare), parlatore, facondo. wl; zubānah (suff. ah), lingua di fuoco, fiamma.
 #زبرجد# zabargad (ar.), smeraldo.
 #زبرجد نگار# zabargad-nigâr (a. p., cfr. nigâr, fregio), ornato di smeraldi.
@@ -1621,8 +1519,7 @@ dingua), got. tuggo.
 #زرده# zardah (suff. ah), v. zard; – zardah i khayah, il "giallo (il tuorlo) delle ova.
 #زرنگار# zar-nigâr (cfr. nigâr, fregio, pittura), dipinto, ornato - doro.
 #زره# sirih, corazza, lorica; — z. zrâdha, phl. zrâë.
-#زره‌دار# zirih-dar (cfr. dâshtan, tpr. dâr, avere), fornito di
-corazza, loricato.
+#زره‌دار# zirih-dar (cfr. dâshtan, tpr. dâr, avere), fornito di corazza, loricato.
 #زریر# sarir, e zirir, nome di un'erba usata dai tintori; – rûy ham-cûn zarir, volto pallido come l'erba, smorto e livido come l'erba.
 #زرَین# sarrin (suff. în), aureo, fabbricato in oro; cfr. 2 zaranaêna.
 #زرین‌ستام# zarrin-sitâm (cfr. sitâm, briglie, barde, ornamenti d'un cavallo), cavallo che ha le briglie e le barde dorate.
@@ -1662,7 +1559,7 @@ corazza, loricato.
 #زی#  zi, verso, a; contro.
 #زیان# ziyan, danno; – z. ayảna, rad. z. zyâ, skr. Hâ, 'danneggiare.
 #زیب# zib, tpr. di zibîd, ornare, abbellire; convenire, esser 'conveniente, esser decente; part. sibà, conveniente, bello, decente.
- #زیب# zib, bellezza, eleganza; splendore.
+#زیب# zib, bellezza, eleganza; splendore.
 #زیبارخ# zibâ-rukh (cfr. rukh, guancia), che ha belle guancie, Kartotépzos.
 #زیبید# zibîd, tps. di zib.
 #زیر# zir, sotto, di sotto (col gen.); dar sir i, al di sotto di ...; zîr andar-ash, dal di sotto di esso; - bî-zir âvaridan, mettersi sotto l'avversario nella lotta, atterrarlo.
@@ -1690,13 +1587,12 @@ corazza, loricato.
 #ژوپین# zhûpin (dal skr. kshipani?), giavellotto con asta breve, usato anticamente.
 #ژیان#  zhiyân, furioso, furibondo (si dice degli elefanti); agile, snello, veloce (si dice dei cervi).
 #سا# sâ, tpr. di sûd e sayîd, fregare, stropicciare; palpare; rasentare, arrivare a toccare; stendere, spalmare un empiastro; imperat. bz-sây; part. sûdah, consumato per il lungo uso, per l'attrito; – bî-bûs sayidan, premere con un bacio.
- #ساج# sâg, nome di un albero indiano di alto fusto; platane (MOHL).
+#ساج# sâg, nome di un albero indiano di alto fusto; platane (MOHL).
 
 
 <pb n="393"/>
 #ساخت# sâkht, tps. di sâz.
-#ساده‌دل# sâdah-dil (cfr. dil, cuore), che è di cuor semplice;
-ingenuo, inesperto.
+#ساده‌دل# sâdah-dil (cfr. dil, cuore), che è di cuor semplice; ingenuo, inesperto.
 #ساروان#  sâr-vân (suff. vân, per bân, cfr. sâr, cammello), guardiano, condottiero di cammelli, capo di una carovana.
 #ساز# sâz, tpr. di sâkht e sâzîd, fare, operare, apprestare, preparare; preparare (cibi, alimenti); – bar sâkhtan, apporre, sovrapporre; phl. sâkhtano.
 #ساز# sâz, utensili, arnesi, strumenti, suppellettili, armi; maniera d'operare; uso, costume; faccenda, affare, impresa; - sâz i gang, arnesi da guerra, armi; – s. kardan, preparare; - s. giriftan, intraprendere un'opera, metter mano ad un'impresa.
@@ -1710,13 +1606,7 @@ ingenuo, inesperto.
 #سالخورد# sâl-khvard, e osjetlw sâl-khvardah (cfr. khvar.dan, consumare), consumato dagli anni; vecchio.
 #ساله# sâlah (suff. ah, cfr. sâl, anno), si usa coi numerali: yak-salah, che è dell' età di un anno; – hamah sâlah, avv. per tutto l'anno, per sempre.
 #سالی# sâlì (suff. î), annuo, annuale.
-#سام# sâm, n. pr. di un celebre eroe della casa del Segestân, Sâm, discendente da Gemshîd e gran vassallo del
-
-
-<pb n="394"/>
-
-
-regno, detto quindi gihân-pahlavân. Secondo Firdusi, il padre suo fu Nirem o Neriman, ed egli ebbe un unico figlio, Zâl, che poi, perchè aveva i capelli bianchi, fece esporre sul monte Alburz donde poi lo ritrasse, ammonito da un terribile sogno. Zal poi fu padre di Rustem (v.). Le imprese di Sâm ricordate da Firdusi sono le sue guerre nel Segsâr e nel Mâzenderân e l'uccisione di un terribile dragone sul fiume Keshef (v. l'Antologia). Nell' Avesta, invece, il nome di câma (aiutatore) è il nome della famiglia del Segestân, e di essa non sono ricordati nell' Avesta che tre principi: Thrita, Urvâkhshaya e Kereçáçpa. Ma è fuori di dubbio che il Sâm di Firdusi (di nome di famiglia diventato nome individuale) non sia altro che il Kereçâçpa dell' Avesta; alcune imprese infatti che l'Avesta attribuisce a Kereçáçpa, presso Firdusi vanno sotto il nome di Sâm, come quella, p. e., dell'uccisione del dragone (ricordata più sopra) noto nell' Avesta col nome di azhi gruvara (serpe cornuto, v. il passo dell' Avesta tradotto nell' Introduzione al c. VII dell' Antologia). Le altre imprese di Kereçâcpa, secondo l'Avesta, sono, oltre quella del dragone, le seguenti: l'uccisione del Gañdarewa, dei nove ladroni, la sconfitta di Hitacpa, di Cnâvidhaka, di Vareshava, di Pitaona 'e di Arezôshamana (SPIEGEL, Arische Studicn, P. 122). --- Secondo Firdusi, Sâm morì e fu sepolto in Gûrâbeh da Zal, laddove erano le tombe di quella famiglia; ma secondo il Bundehesh e il Minôkhired Sâm non è morto; invece, tutto armato, egli dorme ancora vicino al Demâvend nella pianura di Pust-Gustáçpān (detta Peshyânçâi nel Bundehesh); egli alla fine del mondo si desterà e ucciderà Dahâk che allora avrà infrante le sue catene (WINDISCHMANN, Zor. Stud. ! P. III e 112; SPIEGEL, Pârsz-gramm. p. 141; Erân. Alterth. I, p. 560 e segg.).
+#سام# sâm, n. pr. di un celebre eroe della casa del Segestân, Sâm, discendente da Gemshîd e gran vassallo del <pb n="394"/> regno, detto quindi gihân-pahlavân. Secondo Firdusi, il padre suo fu Nirem o Neriman, ed egli ebbe un unico figlio, Zâl, che poi, perchè aveva i capelli bianchi, fece esporre sul monte Alburz donde poi lo ritrasse, ammonito da un terribile sogno. Zal poi fu padre di Rustem (v.). Le imprese di Sâm ricordate da Firdusi sono le sue guerre nel Segsâr e nel Mâzenderân e l'uccisione di un terribile dragone sul fiume Keshef (v. l'Antologia). Nell' Avesta, invece, il nome di câma (aiutatore) è il nome della famiglia del Segestân, e di essa non sono ricordati nell' Avesta che tre principi: Thrita, Urvâkhshaya e Kereçáçpa. Ma è fuori di dubbio che il Sâm di Firdusi (di nome di famiglia diventato nome individuale) non sia altro che il Kereçâçpa dell' Avesta; alcune imprese infatti che l'Avesta attribuisce a Kereçáçpa, presso Firdusi vanno sotto il nome di Sâm, come quella, p. e., dell'uccisione del dragone (ricordata più sopra) noto nell' Avesta col nome di azhi gruvara (serpe cornuto, v. il passo dell' Avesta tradotto nell' Introduzione al c. VII dell' Antologia). Le altre imprese di Kereçâcpa, secondo l'Avesta, sono, oltre quella del dragone, le seguenti: l'uccisione del Gañdarewa, dei nove ladroni, la sconfitta di Hitacpa, di Cnâvidhaka, di Vareshava, di Pitaona 'e di Arezôshamana (SPIEGEL, Arische Studicn, P. 122). --- Secondo Firdusi, Sâm morì e fu sepolto in Gûrâbeh da Zal, laddove erano le tombe di quella famiglia; ma secondo il Bundehesh e il Minôkhired Sâm non è morto; invece, tutto armato, egli dorme ancora vicino al Demâvend nella pianura di Pust-Gustáçpān (detta Peshyânçâi nel Bundehesh); egli alla fine del mondo si desterà e ucciderà Dahâk che allora avrà infrante le sue catene (WINDISCHMANN, Zor. Stud. ! P. III e 112; SPIEGEL, Pârsz-gramm. p. 141; Erân. Alterth. I, p. 560 e segg.).
 
 
 <pb n="395"/>
@@ -1734,20 +1624,15 @@ regno, detto quindi gihân-pahlavân. Secondo Firdusi, il padre suo fu Nirem o N
 #سبکسار# sabuk-sâr (suff. sâr), vanitoso, precipitoso; stolido; vile, ignobile.
 #سپار# sipâr, tpr. di sipurd, 1) consegnare, affidare; intrans. esser tranquillo e contento; - 2) andare in giro, camminare; seguir le orme di un altro.
 #سپاس# sipas, benefizio, grazia; – sipas az ģihân-dâr kih, è grazia di Dio che ...; -- yazdân sipas kih, grazia di Dio è questa che ...; - rad. z. çpaç (custodire, originariamente: osservare), cfr. skr. pas, gr. σκεπ, lat. in-spic-i-o, ecc.
-#سپاه# szpâh, esercito, schiera; popolo, gente (cfr. Antp. kâra, esercito e popolo); – z. spâdha, antp. spâda
-in takhma-çpâda, n. pr.), phl. spâh.
+#سپاه# szpâh, esercito, schiera; popolo, gente (cfr. Antp. kâra, esercito e popolo); – z. spâdha, antp. spâda in takhma-çpâda, n. pr.), phl. spâh.
 #سپاهی# szpâhî (suff. î), soldato; coll. soldati (di qui lo spahi di molte lingue europee).
-#سپر# sipar, tpr. di sipard, calcare, calpestare, pestare, premere coi piedi; — part. sipardah zamin, che ha
-
-
-<pb n="396"/>
- percorsa molta terra, o molta via (ovv, sipurdah?. V. sipâr); — z. spar, skr. sphur.
+#سپر# sipar, tpr. di sipard, calcare, calpestare, pestare, premere coi piedi; — part. sipardah zamin, che ha <pb n="396"/> percorsa molta terra, o molta via (ovv, sipurdah?. V. sipâr); — z. spar, skr. sphur.
 #سپر# sipar, scudo, targa; z. spâra, arm. aspar.
 #سپرد# sipard, tps. di sipar.
 #سپرد# sipurd, tps. di sipâr.
 #سپنج# sipang (per sih, 3, + pang, 5; 3 volte 5, cioè 15), si dice di qualunque cosa che dura poco (come se durasse soltanto 15 giorni), quindi: breve, caduco, fragile; v. sarây..
 #سپوخت# sipûkht, tps. di sipûz.
-#سپوز# sipûz (), tpr. di sipûkht, 1) infiggere, conficcare; - 2) togliere, allontanare; cfr. phl. spôkhtitano, pârsi spozhet, 3a pers. sing.
+#سپوز# sipûz (ô), tpr. di sipûkht, 1) infiggere, conficcare; - 2) togliere, allontanare; cfr. phl. spôkhtitano, pârsi spozhet, 3a pers. sing.
 #سپه# sipah, v. sipâh.
 #سپهبد# sipah-bad (cfr. bad, signore, padrone, z. Paili, skr. pati, gr. πόσις, lat. potis), capo di un esercito, capitano; principe.
 #سپهدار# sipah-dar (cfr. dâshtan, tpr. dâr, avere, tenere), capo di un esercito, capitano, duce, generale; principe.
@@ -1775,22 +1660,13 @@ in takhma-çpâda, n. pr.), phl. spâh.
 #ستود# sutûd, tps. di sitâ.
 #ستور# sutûr, pl. sutûran, 1) ogni animale quadrupede dome stico, da corsa e da carico (cavalli, asini, muli, cammelli); -- 2) cavallo, destriero; – z. Staora (bestiame domestico), skr. sthûra, got. stiur.
 #ستوه# sutûk, oppresso, schiacciato; ridotto agli estremi; sgominato; - s. shudan, esser vinto, esser sconfitto; -- pârsi, stûh.
-#ستیز# sztiz (e), rissa, contesa, lite; voglia di far rissa, di combattere; – z. çtis, phl. stêg, pârsi çtézh; cfr.
-
-
-<pb n="398"/>
-gr. στίζω, da στιγιω, lat. in-stig-are (SPIEGEL, Comment. ûber das Avesta, II, p. 564).
+#ستیز# sztiz (e), rissa, contesa, lite; voglia di far rissa, di combattere; – z. çtis, phl. stêg, pârsi çtézh; cfr. <pb n="398"/> gr. στίζω, da στιγιω, lat. in-stig-are (SPIEGEL, Comment. ûber das Avesta, II, p. 564).
 #سحرگاه#  saħar-gâh, e #سحرگه# saħar-gah (a. p.; cfr. Saħar, ar. aurora, + gâh, gah, tempo), tempo dell'aurora: avv. al mattino.
 #سخت# sakht, duro, forte, robusto; avv. molto; assai; phl. e pârsi çakht.
-#سختی# sakhti (suff. 2), 1) durezza, asprezza; forza, violenza: - bî-sakhti, con forza; - 2) affizione, infortunio, distretta; - bî-hangam i sakhti, al tempo della
-disgrazia.
+#سختی# sakhti (suff. 2), 1) durezza, asprezza; forza, violenza: - bî-sakhti, con forza; - 2) affizione, infortunio, distretta; - bî-hangam i sakhti, al tempo della disgrazia.
 #سخن# sukhan, e sukhun, pl. sukhanhâ, parola, detto, discorso; cosa qualunque; - s. rândan, discorrere, far parole, intrattenersi con uno a parlare; – sukhun sta per sahvan (Ascoli, Studi Irani, p. 11) dalla rad. z. çanh, antp. thah, skr. ças, parlare; phl. Çakhûn. z. fagare, parola, yagna, 29, 4.
 #سخن‌گوی# sukhun-gûy (cfr. guftan, tpr. gû, gậy, dire). favellatore, abile nel parlare.
-#سده# sadah, n. pr. della festa che il re Hôsheng istitui quando scoprì l'uso del fuoco, v. VULLERS, Lex. pers.  #سر# sar, 1) testa, capo; principio, incominciamento; confine, termine; estremo, fine; 2) principe, capitano, signore. duce; pl. saran, principi, eroi, grandi di corte; 3) cima, vetta, sommità; orlo di un bicchiere; - sar bî-sar, da capo a capo, da un capo all'altro, da capo a fondo, del tutto; bî-sar bar, al di sopra (con due prep.): bî-sar andar âvardan, ridurre all'estremo, rovinare. far perire; - s. âmadan, venire a capo, giungere al termine, finire, cessare; prevalere, superare, vincere; - s. andar âvardan, porre principio ad una cosa, intraprendere, incominciare; - s. avardan, condurre a fine, far finire, porre un termine; — s. bar afrakhtan,
-
-
-<pb n="399"/>
- sollevare il capo, mostrarsi fiero, inorgoglirsi; pompeggiarsi; trans. onorare, esaltare uno; – s. bar âvardan, sollevare il capo; spuntare, crescere (delle piante); distinguersi, segnalarsi (con az, zi-); - s. nihâdan (con sûy) volgere il capo a ..., inviarsi, incamminarsi verso une luogo; - z. gara, gr. κάρα, cfr. skr. çiras.
+#سده# sadah, n. pr. della festa che il re Hôsheng istitui quando scoprì l'uso del fuoco, v. VULLERS, Lex. pers.  #سر# sar, 1) testa, capo; principio, incominciamento; confine, termine; estremo, fine; 2) principe, capitano, signore. duce; pl. saran, principi, eroi, grandi di corte; 3) cima, vetta, sommità; orlo di un bicchiere; - sar bî-sar, da capo a capo, da un capo all'altro, da capo a fondo, del tutto; bî-sar bar, al di sopra (con due prep.): bî-sar andar âvardan, ridurre all'estremo, rovinare. far perire; - s. âmadan, venire a capo, giungere al termine, finire, cessare; prevalere, superare, vincere; - s. andar âvardan, porre principio ad una cosa, intraprendere, incominciare; - s. avardan, condurre a fine, far finire, porre un termine; — s. bar afrakhtan, <pb n="399"/> sollevare il capo, mostrarsi fiero, inorgoglirsi; pompeggiarsi; trans. onorare, esaltare uno; – s. bar âvardan, sollevare il capo; spuntare, crescere (delle piante); distinguersi, segnalarsi (con az, zi-); - s. nihâdan (con sûy) volgere il capo a ..., inviarsi, incamminarsi verso une luogo; - z. gara, gr. κάρα, cfr. skr. çiras.
 #سرا# sirâ, e #سرای# sirây, tpr. di sirûd, surûd, sarîd, sirâyîd, cantare; parlare; imperat. sirây, parla!; - part. sirayandah, eloquente; phl. frâyitano, cfr. z. grâvayemi (io faccio udire, caus. di gru, udire).
 #سراپای# sar-d-pây (cfr. pây, piede), avv. da capo a piedi.
 #سراپرده# sarâpardah, arazzo o tela stesa all intorno di una tenda; recinto; une enceinte de toile, le plus souvent de couleur rouge, formant un carré long et servant à entourer les tentes du roi et des grands (DEFRÉMERY, in VULLERS, lex. pers.); --- s. zadan, piantar le tende.
@@ -1810,7 +1686,7 @@ disgrazia.
 #سرخوش# sar-khvash (cfr. khvash, buono, piacevole), lieto, contento, allegro. you sard, freddo, rigido; — bâd i sard, v. bâd; Za çareta, phl. gart; cfr. skr. çiçira. 93
 #سردرو# sar-dirav (cfr. durûdan, tpr. dirav, mietere, tagliare), che taglia le teste (epiteto della spada).
 #سرزنش# sar-zanish (cfr. zadan, tpr. zan, battere, + suff.ish), castigo, punizione; rimprovero.
-#سرشک# sirishk, gocciola; lagrima; – sirishk į khủnin (lagrima di sangue), pianto angoscioso; - khủnin sirishk, lagrima, pianto; unguento (?), empiastro (?); – z. grashka (gragnuola), phl. çrishk, pârsi çriçk; rad. z. Graçć, gocciare, stillare.
+#سرشک# sirishk, gocciola; lagrima; – sirishk į khûnin (lagrima di sangue), pianto angoscioso; - khûnin sirishk, lagrima, pianto; unguento (?), empiastro (?); – z. grashka (gragnuola), phl. çrishk, pârsi çriçk; rad. z. Graçć, gocciare, stillare.
 #سرفراز# sar-firâz, v. sar-afrâz.
 #سرکش# sar-kash (cfr. kashidan, levare, sollevare), illustre, 'potente; arrogante, superbo; pl. sar-kashận, principi, eroi.
 #سرکشی# sar-kashî (suff. î), grandezza, potenza; alterigia, superbia; audacia, arroganza, disobbedienza.
@@ -1819,14 +1695,13 @@ disgrazia.
 
 <pb n="401"/>
 #سرما# sarma (suff. d), freddo, rigore invernale; - cfr. z. Gareta, freddo.
-#سرمایه# sar-mâyah (cfr. mâyah, materia, sostanza), capitale,
-sostanza, ricchezza; - figuramente, come agg.: di gran pregio, prezioso, valoroso.
+#سرمایه# sar-mâyah (cfr. mâyah, materia, sostanza), capitale, sostanza, ricchezza; - figuramente, come agg.: di gran pregio, prezioso, valoroso.
 #سرو# sarv, 1) cipresso; metaf., fanciulla, donzella (per il corpo agile e snello come un cipresso; immagine comune ai poeti Persiani); — phl. farv (donde il sir. sharvaino, e l'ar. Sharbin, ROEDIGER, Chrest. Syriac. p. 101). — 2) n. pr. di Serv, re del Yemen, che diede le sue figlie in ispose ai tre figli del re Frédûn.
 #سروبالا# sarv-bâlâ (cfr. bâlâ, altezza), che è alto come un cipresso.
 #سروبن# sarv-bun (cfr. bun, fusto d'albero), che è agile nel corpo come il fusto di un cipresso (si dice delle fanciulle).
 #سرود# surûd, sirûd, tps. di sirâ.
 #سرور# sar-var (suff. var), capitano, principe; pl. sar-varân.
-#سروش# sarûsh (), Serôsh, n. pr. di un angelo che annuncia in terra agli uomini i voleri di Dio. Nell' Avesta egli è detto Craosha, ed è un Genio che insegnò per il primo la legge divina agli uomini; come celeste custode del mondo, nella terza vigilia della notte, egli, suscitato il fuoco, suol destare il gallo, il quale col suo canto scaccia dagli uomini il demone del sonno, Bûshyāçta. Il suo nome deriva dalla rad. z. frush, udire, obbedire; cfr. gru.
+#سروش# sarûsh (ô), Serôsh, n. pr. di un angelo che annuncia in terra agli uomini i voleri di Dio. Nell' Avesta egli è detto Craosha, ed è un Genio che insegnò per il primo la legge divina agli uomini; come celeste custode del mondo, nella terza vigilia della notte, egli, suscitato il fuoco, suol destare il gallo, il quale col suo canto scaccia dagli uomini il demone del sonno, Bûshyāçta. Il suo nome deriva dalla rad. z. frush, udire, obbedire; cfr. gru.
 #سرون# sarûn, natica; coscia, anca; z. graoni, skr. froņi.
 #سز# saz, tpr. di sazîd, convenire, esser conveniente; 3* pers. sing. pres. sazad, conviene, è lecito; — cûn sazîd (3a del passato), come conviene; - part. sazâ (col gen., sazây), degno, meritevole; — z. çać, 3* pers. sing çaćaiti.
 
@@ -1839,8 +1714,7 @@ sostanza, ricchezza; - figuramente, come agg.: di gran pregio, prezioso, valoros
 #سفت# suft, e sift, spalla; -- s. numûdan, mostrar la spalla (frase molto oscura, non registrata dal VULLERS, forse: spiegar tutto il vigor del braccio,?); – z. çupti, phl. cuft. crew sifîd, v. sipîd.
 #سگالش# sigâlish (suff. ish), intenzione, proposito, pensiero;— s. giriftan, fare un proponimento, prendere una risoluzione, prendersi pensiero.
 #سگزی# sigzi (suff. 1), appartenente al monte Sigz; sopran nome di Rustem. Sigz è un monte del Zabulistán o Nimrûz dove si dice esser nato Rustem, che perciòfu detto sigzi, sigziese.
-#سگسار# sagsâr; paese al nord dell' Iran, abitato da popoli
-turanici, senza dubbio lo stesso paese che il re Dario nella sua grande Iscrizione ricorda col nome di Çaka, ei cui abitanti Erodoto (VII, 64) chiama Sciti, Skûla (SPIEGEL, Erân. Alterth. I. p. 221). L'etimologia popolare spiega questo nome con sag, cane, e sâr, per sar, testa, e ne fa un paese favoloso in cui gli abitanti hanno teste di cani (VULLERS, Lex. pers.).
+#سگسار# sagsâr; paese al nord dell' Iran, abitato da popoli turanici, senza dubbio lo stesso paese che il re Dario nella sua grande Iscrizione ricorda col nome di Çaka, ei cui abitanti Erodoto (VII, 64) chiama Sciti, Skûla (SPIEGEL, Erân. Alterth. I. p. 221). L'etimologia popolare spiega questo nome con sag, cane, e sâr, per sar, testa, e ne fa un paese favoloso in cui gli abitanti hanno teste di cani (VULLERS, Lex. pers.).
 #سلاح# silah (ar.), coll., armi.
 #سلم# salm, n. pr. del 1° figlio di Frédûn, ucciso da Minoćihr, v. i c. IV e V dell' Antologia; z. Çairima (n. pr. di un paese sul quale Salm ebbe signoria).
 
@@ -1861,26 +1735,18 @@ turanici, senza dubbio lo stesso paese che il re Dario nella sua grande Iscrizio
 #سندروس# sandarûs, resina gialla (si adopera nelle simi litudini, come: volto pallido come resina gialla); voce venuta dal skr. sindûra, donde il gr. σανδαράκη e il sir. sandarâķî (VULLERS, Lex. pers.).
 #سنگ# sang, 1) pietra, sasso; la pietra nera (ar. Al-hagaru 'l-asvadu) incastrata nel tempio della Kaaba alla Mecca, oggetto di venerazione per i Maomettani; – sang i khârâ (lett., pietra di rupe), selce, sasso durissimo; -- 2) metaf. autorità; valore; coraggio; ~ z. e skr. açan, cfr. antp. athañgaina (fatto di pietra), e napaodynas (pietra miliare).
 #سنگی# sangî (suff. î), valoroso; generoso.
-#سو# sû, anche #سوی# sûy, luogo; direzione; parte; – az yak suv-am (per su-am, o sûy-am), da questa sola parte verso di me; – digar sû, avv., dall'altra parte;
-
-
-
-
-<pb n="404"/>
- zi-har sû, har styt, az har sûy, avv., da ogni parte; – yak sû, da una parte sola, con una sola
-direzione; – bî-sûy 2, verso di ..., a, verso, ecc.
+#سو# sû, anche #سوی# sûy, luogo; direzione; parte; – az yak suv-am (per su-am, o sûy-am), da questa sola parte verso di me; – digar sû, avv., dall'altra parte; <pb n="404"/> zi-har sû, har styt, az har sûy, avv., da ogni parte; – yak sû, da una parte sola, con una sola direzione; – bî-sûy 2, verso di ..., a, verso, ecc.
 #سوار# suvâr (per asp-vâr, as-var, suff. var; cfr. asp, cavallo), cavaliere; pl. suvârân; – soprannome di Sâm (v.), sam i suvar, Sâm il cavaliere.
 #سواری# suvârt (suff. 1), equitazione; perizia, maestria nel cavalcare.
 #سوخت# sûkht, tps. di sûz.
 #سود# sûd, tps. di sâ.
 #سود# sûd, utilità, giovamento, buon frutto, guadagno; - râh i sûd paymûdan, percorrer la via dell' utile, cercar l'utile proprio e degli altri; phl. çût, pârsi sûť; rad. z. çu, giovare, cfr. z. Gavanh, giovamento.
-#سودابه# sûdabah, n. pr. della moglie del re Kâvus, Sûdâbeh. Era figlia del re dell'Hâmâverán. S'invaghì poi di Siyavish figlio di Kâvus, ma nato di altra donna; e perchè il giovane non volle corrisponderle, ella lo accusò al padre. Fu poi uccisa da Rustem, quando Siyâvish fu
-ucciso da Afrâsyâb.
+#سودابه# sûdabah, n. pr. della moglie del re Kâvus, Sûdâbeh. Era figlia del re dell'Hâmâverán. S'invaghì poi di Siyavish figlio di Kâvus, ma nato di altra donna; e perchè il giovane non volle corrisponderle, ella lo accusò al padre. Fu poi uccisa da Rustem, quando Siyâvish fu ucciso da Afrâsyâb.
 #سودمند# sûd-mand (suff. mand), utile, proficuo; phl. fûtomand (suff. Ômand).
 #سور# sûr, festa, festino.
-#سوز# sûz (), tpr. di sûkht, ardere, bruciare; z. e skr. çuć.
+#سوز# sûz (ô), tpr. di sûkht, ardere, bruciare; z. e skr. çuć.
 #سوسن# sûsan (ar. savsan, ebr. shushan e shồshân), giglio.
-#سوگ# sûg (), dolore; - s. giriftan, affaccendarsi; addolo rarsi; piatire (?); skr. çoka.
+#سوگ# sûg (ô), dolore; - s. giriftan, affaccendarsi; addolo rarsi; piatire (?); skr. çoka.
 #سوگند#savgand, giuramento; — s. khvardan, e s. Kardan, giurare.
 #سوگوار# sûg-vâr (suff. vâr), addolorato, dolente.
 #سوم# sivum (suff. um), terzo; – sivum rûz; avv., al terzo giorno.
@@ -1892,8 +1758,7 @@ ucciso da Afrâsyâb.
 #سه‌دیگر# sih-digar (cfr. digar, altro), terzo; avv., in terzo luogo.
 #سهم# sahm (ar.), freccia, dardo.
 #سهی# sahi, eretto, diritto; snello, agile (dei cipressi, delle persone snelle, ecc.).
-#سهی‌قد# sahi-ķadd (a. p.; cfr. ķadd, ar., statura), agile,
-snello di persona.
+#سهی‌قد# sahi-ķadd (a. p.; cfr. ķadd, ar., statura), agile, snello di persona.
 #سهیل# suhayl (ar.), la costellazione di Canopo.
 #سی# sî, trenta; z. thriçata, skr. trinçat.
 #سیامک# szyâmak, n. pr. del figlio di Gayûmers, Siyâmek. Egli fu ucciso dal Dêvo Nero, e il figlio suo Hôsheng ne vendicò più tardi la morte.
@@ -1902,11 +1767,7 @@ snello di persona.
 #سیاه# siyâh, e #سیه# siyah, 1) nero, bruno, oscuro, fosco; —2) cavallo di color nero; -- z. e skr. fyâva.
 #سیر# sir, pieno, sazio, satollo; stanco; - s. gashtan, esser sazio, stanco di una cosa.
 #سیم# sim, argento; phl. açim, secondo lo SPIEGEL (Die trad. Litt. der Pârsen, p. 370), dal gr. ἄσημος (non coniato) per mezzo del sir. simtó, tesoro, argento.
-#سیمرغ# sîmurgh, n. pr. di un uccello favoloso che abita sul monte Alburz, laddove egli allevò il giovane Zal quivi esposto dal padre; Simurgh. Questo nome deriva da murgh, uccello, e la sillaba si iniziale rappresenta
-
-
-<pb n="406"/>
-il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti, dei quali il più celebre si è quello detto ahûmçtût (yasht 13, 97); cfr. skr. gyena, phl. çin, çin-mrû (mrû murgh), pârsi çinamri.
+#سیمرغ# sîmurgh, n. pr. di un uccello favoloso che abita sul monte Alburz, laddove egli allevò il giovane Zal quivi esposto dal padre; Simurgh. Questo nome deriva da murgh, uccello, e la sillaba si iniziale rappresenta <pb n="406"/> il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti, dei quali il più celebre si è quello detto ahûmçtût (yasht 13, 97); cfr. skr. gyena, phl. çin, çin-mrû (mrû murgh), pârsi çinamri.
 #سیمین# simîn (suff. în), argenteo; phl. açimino.
 #سیمین‌بر# simin-bar (cfr. bar, petto), che ha il petto can dido come l'argento.
 #سیندخت# sindukht, n. pr. della moglie di Mihrab, re del Kabul, e madre di Rûdabeh che fu poi madre di Rustem; Sindukht.
@@ -1954,7 +1815,7 @@ il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti,
 #شبرنگ# shab-rang (cfr. rang, colore), che è del color della notte, cioè fosco, bruno; cavallo di color bruno.
 #شبستان# shabistân (suff. stân), 1) camera da letto; gineceo, harem; – avv., nel gineceo; hamah shabistân, per tutto il gineceo, in ogni parte di esso; — 2) le donne del gineceo; - phl. shapçtâno.
 #شبگیر# shab-gîr (cfr. giriftan, tpr. gir, prendere), propriamente: noctem tollens, VULLERS; alba, crepuscolo del mattino; - avv., all' alba, al primo albore.
-#شبیخون# shabi-khûn (cfr. khủn, sangue), invasione improvvisa di notte nel campo nemico.
+#شبیخون# shabi-khûn (cfr. khûn, sangue), invasione improvvisa di notte nel campo nemico.
 #شتاب# shitab, tpr. di shitâft, affrettarsi, accorrere.
 #شتاب# shitâb, fretta, premura; - andar shitâb, avv., in fretta.
 
@@ -1969,7 +1830,7 @@ il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti,
 #شرم# sharm; vergogna; verecondia; – z. fsharema, phl. sharm.
 #شست# shast, pollice; - sh. gushådan, aprire il pollice (per lasciare andare la freccia dall' arco).
 #شست# shast, sessanta; z. khshvasti, skr. shashți.
-#شست# shust, tps. di shủ, shủy.
+#شست# shust, tps. di shû, shûy.
 #شعر#  shår (ar.), crini, capelli del capo, chioma.
 #شغاد# shaghâd, n. pr. di un fratello di Rustem, Sheghád, genero del re del Kåbul. Tradì il fratello e lo fece morire col farlo cadere entro una fossa armata di punte di ferro (v. il c. XX dell' Antologia). Ki shikår, caccia, l'andare a caccia; cacciagione; preda.
 #شکاف# shikâf, tpr. di shikaft e shikâfîd, rompere, spaccare, sparare; - intrans., rompersi, infrangersi, sgretolarsi; gr. σκάπτω, t. σκαφ, got. skaban.
@@ -2010,16 +1871,16 @@ il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti,
 #شنید# shinîd, tps. di shinû, shunû, shinav.
 #شنیده# shinidah (propriamente part. di shinidan), le cose udite; la fama; diceria.
 #شو# shav, tpr. di shud, muoversi, andare, incamminarsi; diventare, cambiarsi; essere; accadere; partire; partir dal mondo, morire; - 3* pers. sing. pres. shavad, se avvenga che (in frasi condizionali o dubitative); - part. shudah, che è diventato; - nei passivi (Gramm. 79—87), kushtah shud, fu ucciso; - bâz shudan, tornare, ritornare; — bar shudan, salire; diventare; - birûn shudan, uscire, evadere; liberarsi, scampare; - furû shudan, calare; cader giù, rovinare abbasso; — z. shu, antp. szyu, skr. byu.
-#شو# shủ, e #شوی# shủy (), tpr. di shust, lavare; purificare; — z. khshud, skr. kshud (la y del tpr. e la s del tps. rappresentano l'antica dh, Ascoli, Studi Irâni, p. 5).
-#شوخ# shủkh (6), audace, petulante; protervo, impudico.
+#شو# shû, e #شوی# shûy (ô), tpr. di shust, lavare; purificare; — z. khshud, skr. kshud (la y del tpr. e la s del tps. rappresentano l'antica dh, Ascoli, Studi Irâni, p. 5).
+#شوخ# shûkh (ô), audace, petulante; protervo, impudico.
 #شوخی# shûkhî (suff. î), petulanza, audacia, impudenza.
-#شور# shûr (), tpr. di shûrîd, mescolare, confondere; perturbare; part. shûridah, confuso, stordito.
+#شور# shûr (ô), tpr. di shûrîd, mescolare, confondere; perturbare; part. shûridah, confuso, stordito.
 #شور# shûr, 1) scompiglio, confusione; — 2) agitazione del l'animo; - bî-shûr afgandan, scompigliare, turbare.
 #شوربخت# shûr-bakht (cfr. bakht, sorte), disgraziato, sciagurato.
 #شورش# shurish (suff. ish), tumulto, turbamento, inquietudine; Ribellione.
 #شورید# shûrîd, tps. di shûr.
 #شوم# shûm (ar. pus), infortunio, calamità; – khusrav i shum, Khusrev apportator d'infortunio (cfr. L'omer. Abonapis, sciagurato Paride).
-#شوی# shủy, v. shủ.
+#شوی# shûy, v. shû.
 
 
 <pb n="412"/>
@@ -2065,8 +1926,7 @@ il nome z. faena, col quale nell' Avesta sono designati alcuni uccelli sapienti,
 #طراز# țirâz, nome di una città del Turkestan celebre per la bellezza delle fanciulle; Tiraz.
 #طشت# tasht, vaso, bacino, tazza; z. tasta, phl. tasht; rad z. tash, lavorare.
 #طلایه#  talâyah (corruzione del plur. ar. #طلایع# taláyi', esploratori), gente posta a guardia di qualche luogo, vedetta.
-#طوس# tûs, n. pr. di un celebre guerriero iranio, Tûs.figlio del re Nevdher. Prese parte a molte guerre sotto il re Kâvus, e alla fine del mondo aiuterà il Çaoshyant (il futuro profeta) nella risurrezione dei morti. Nell' Avesta esso è chiamato takhmô tuco rathaestaro, il forte Tuca guerriero curule (yasht, 5, 53); nel Libro dei Re, invece, passa per un guerriero presuntuoso e
-dappoco; — tûs i navdhar, Tûs figlio di Nevdher.
+#طوس# tûs, n. pr. di un celebre guerriero iranio, Tûs.figlio del re Nevdher. Prese parte a molte guerre sotto il re Kâvus, e alla fine del mondo aiuterà il Çaoshyant (il futuro profeta) nella risurrezione dei morti. Nell' Avesta esso è chiamato takhmô tuco rathaestaro, il forte Tuca guerriero curule (yasht, 5, 53); nel Libro dei Re, invece, passa per un guerriero presuntuoso e dappoco; — tûs i navdhar, Tûs figlio di Nevdher.
 #طوق# tavę (ar.), collana, monile.
 #عاج# 'âs (ar.), avorio.
 #عاشقی# 'â shiķi (ar., suff. î), innamorato.
@@ -2157,7 +2017,7 @@ dappoco; — tûs i navdhar, Tûs figlio di Nevdher.
 #فرمود# farmud, tps. di farmâ.
 #فرو# furu, v. furud.
 #فروخت# furûkht, tps. di furûz, v. afruz e afrûkht.
-#فرود# furûd (), giù, all'ingiù, al basso; phl. frôt, pârsi frôt, z. parentare.
+#فرود# furûd (ô), giù, all'ingiù, al basso; phl. frôt, pârsi frôt, z. parentare.
 #فرودین# farvadin, per #فروردین# farvardin, n. pr. del mese di Ferverdin, col quale incomincia l'anno solare, entrando il sole nell' Ariete; corrisponde al nostro Marzo (SPIEGEL, Av. Uebersetz. II, XCVIII); phl. parvartino, cfr. phl. parvartano, np. parvardan, (z. pairi + var), allevare (SPIEGEL, Die trad. Litt. der Parsen, p. 419).
 #فروز# furuz, tpr. di furukht, v. afruz e afrûkht; - part. furūzán, splendido.
 #فروغ# furûgh, luce, splendore.
@@ -2190,8 +2050,7 @@ dappoco; — tûs i navdhar, Tûs figlio di Nevdher.
 #فسون# fusûn, v. afsun.
 #فشان# fishân, tpr. di fishầnd, v. afshân, afshând.
 #فشاند# fishậnd, tps. di Ashân, v. afshân, afshând.
-#فغان# fighân, grido, lamento, esclamazione dolorosa; –
-f. bar kashidan, gridare, lamentarsi.
+#فغان# fighân, grido, lamento, esclamazione dolorosa; – f. bar kashidan, gridare, lamentarsi.
 #فغفور# faghfûr (per bagh-pûr, figlio di Dio, z. bagha, antp. baga, Dio; cfr. slav, boga), titolo dell' Imperatore della Cina, Imperatore.
 #فلک# falak (ar.), cielo, la volta celeste; metaf, sorte, destino.
 #فن# fan (ar. fann.), astuzia, artifizio; frode.
@@ -2203,8 +2062,7 @@ f. bar kashidan, gridare, lamentarsi.
 
 
 <pb n="422"/>
-#قلبه# kiblah (ar.), point du ciel où l'on se répresent un
-object vers lequel on doit tourner ses regards pour faire la prière, spec. direction de la Mecque pour les Musulmans (Kazimirski, Dict. ar. franc.).
+#قلبه# kiblah (ar.), point du ciel où l'on se répresent un object vers lequel on doit tourner ses regards pour faire la prière, spec. direction de la Mecque pour les Musulmans (Kazimirski, Dict. ar. franc.).
 #قدّ# ķadd (ar.), statura, altezza della persona.
 #قربان# kurban, cassa da riporvi l'arco.
 #قلب# kalb, mezzo, luogo di mezzo; la parte di mezzo di un accampamento militare; – bî-kalb, nel mezzo.
@@ -2212,13 +2070,10 @@ object vers lequel on doit tourner ses regards pour faire la prière, spec. dire
 #قلم# şalam (ar. calamo da scrivere); k. shudan (esser fragile come un calamo), infrangersi, spezzarsi, rompersi.
 #قلون# kalûn, n. pr. di un guerriero di Afrasyâb, Kalûn, ucciso da Rustem.
 #قماری# kumârî (suff. î), kumarese, proveniente cioè dalla città di Ķumâr nell'Indostân (si dice specialmente dell' aloe).
-#قنّوج#  kannūs, n. pr. di una città dell' India, Kannogia, detta in skr. kanyâkubģa (le fanciulle gobbe); v. la leggenda sull' origine di questo nome nel Râmâyana,
-Adikanda, XXXV.
+#قنّوج#  kannūs, n. pr. di una città dell' India, Kannogia, detta in skr. kanyâkubģa (le fanciulle gobbe); v. la leggenda sull' origine di questo nome nel Râmâyana, Adikanda, XXXV.
 #قیر# ķir (ar.), pece.
-#قیصر# kayçar, n. dell' Imperatore di Costantinopoli; dall
-gr. Καῖσαρ, lat. Caesar.
-#ک# k- invece di #که#  kih, in k-ay per kih ay; k-per kih i
-k-az per kih az; k-in per kih în; k-at per kih at; k-ash per kih ash; k-az-ỉ per kih az û; k-âmad per kih amad, ecc.
+#قیصر# kayçar, n. dell' Imperatore di Costantinopoli; dall gr. Καῖσαρ, lat. Caesar.
+#ک# k- invece di #که#  kih, in k-ay per kih ay; k-per kih i k-az per kih az; k-in per kih în; k-at per kih at; k-ash per kih ash; k-az-ỉ per kih az û; k-âmad per kih amad, ecc.
 
 
 <pb n="423"/>
@@ -2249,14 +2104,8 @@ k-az per kih az; k-in per kih în; k-at per kih at; k-ash per kih ash; k-az-ỉ 
 #کام# kâm, gola, strozza.
 #کام‌گار#  kâm-gâr (suff. gâr), che ottiene il suo desiderio, che riesce in tutto ciò che desidera, fortunato, avventurato, felice.
 #کامه# kâmah (suff. ah), desiderio; v. kâm.
-#کاووس# kâvus, n. pr. del re Kâvus, 2° della dinastia dei Kay, figlio di Ķobâd. Intorno ai fatti di questo
-
-
-<pb n="425"/>
-principe che regnò 150 anni, v. i capi X, XI, XIII, XIV, XV, XVI, XIX dell' Antologia e le relative
-Introduzioni; - z. kava uçan, e uçadhan, skr. uçanas.
-#کاه# kah, tpr. di kâst, diminuire, cessare; – dar kastan,
-diminuire, cessare; allontanarsi, dileguarsi; – phl. kaçtano; cfr. z. kaçu, piccolo (SPIEGEL, Die trad. Litt. der Pârsen, p. 384).
+#کاووس# kâvus, n. pr. del re Kâvus, 2° della dinastia dei Kay, figlio di Ķobâd. Intorno ai fatti di questo <pb n="425"/> principe che regnò 150 anni, v. i capi X, XI, XIII, XIV, XV, XVI, XIX dell' Antologia e le relative Introduzioni; - z. kava uçan, e uçadhan, skr. uçanas.
+#کاه# kah, tpr. di kâst, diminuire, cessare; – dar kastan, diminuire, cessare; allontanarsi, dileguarsi; – phl. kaçtano; cfr. z. kaçu, piccolo (SPIEGEL, Die trad. Litt. der Pârsen, p. 384).
 #کای# k-ay, per kih ay.
 #کباب# kabab (ar.), carne arrostita…
 #کبر#  kabr, tunica militare, corazza; cfr. gabr.
@@ -2283,7 +2132,7 @@ diminuire, cessare; allontanarsi, dileguarsi; – phl. kaçtano; cfr. z. kaçu, 
 #کژّ# kazhzh, tortuoso; metaf., malvagio, maligno, subdolo, fraudolento.
 #کژّی# kazhzhî (suff. î), tortuosità; metaf., doppiezza di pensieri, falsità, menzogna.
 #کس# kas, pron., alcuno, qualcuno; con negaz., nessuno, veruno; - ân kas kih, quel qualunque che, quel tale che ...; - kasi, qualcuno, qualcheduno; con negaz., nessuno, nessuna persona; - pl. kasân, alcuni, Twós; con l'art. indeterminato: kasâni, quei tali che: ..
-#کش# kash, tpr. di kashîd, trarre, tirare, strascinare; condurre, addurre; intrans., presentarsi, avanzarsi; partire; - part. kashần, traente, strascinante; kashân-at, colui che ti strascina, o coll., quelli che ti strascinano (al supplizio); - andar kashidan, tirar dentro, contrarre; far passare (si dice del tempo); intrans., accostarsi (); - bar kashîdan, estrarre, sfoderar (la spada); intrans., saltar fuori, erompere; – birin kashidan, estrarre, togliere, togliersi (le vesti, le scarpe, ecc.); - dar kashîdan, apporre, addurre, presentare; portare (un bicchiere alle labbra); — z. karesh, skr. krish.
+#کش# kash, tpr. di kashîd, trarre, tirare, strascinare; condurre, addurre; intrans., presentarsi, avanzarsi; partire; - part. kashần, traente, strascinante; kashân-at, colui che ti strascina, o coll., quelli che ti strascinano (al supplizio); - andar kashidan, tirar dentro, contrarre; far passare (si dice del tempo); intrans., accostarsi (?); - bar kashîdan, estrarre, sfoderar (la spada); intrans., saltar fuori, erompere; – birin kashidan, estrarre, togliere, togliersi (le vesti, le scarpe, ecc.); - dar kashîdan, apporre, addurre, presentare; portare (un bicchiere alle labbra); — z. karesh, skr. krish.
 #کش# kash, bello, avvenente.
 #کش# kash, ascella; z. kasha, phl. kash.
 #کش# k-ash, per kih ash, al quale; cfr. Gramm. 134.
@@ -2299,8 +2148,7 @@ diminuire, cessare; allontanarsi, dileguarsi; – phl. kaçtano; cfr. z. kaçu, 
 #کشف# kashaf, il Keshef, n. pr. di un fiume favoloso, sulle sponde del quale Sâm (v.) uccise un dragone.
 #کشواد# kashvâd, n. pr. di un eroe iranio; Keshvâd.
 #کشوادگان# 'kashvâd-gân (suff. gân), discendente, o coll., discendenti di Keshvâd.
-#کشور# kishvar, clima, regione, paese; z. karshvare, karshvan. - L'Avesta divide il mondo in sette karshvare, climi o regioni, che portano i nomi seguenti: Çavahi, Vidadhafshu, Frâdatfshu, Arezahi, Vourubaresti, Vourugaresti, Qaniratha. Sono tutti circondati dal mare, e l'ultimo è quello che sta nel mezzo agli altri ed è abitato dagli uomini (cfr. WINDISCHMANN, Zor.
-Studien, p. 67, Bundehesh, p. 14).
+#کشور# kishvar, clima, regione, paese; z. karshvare, karshvan. - L'Avesta divide il mondo in sette karshvare, climi o regioni, che portano i nomi seguenti: Çavahi, Vidadhafshu, Frâdatfshu, Arezahi, Vourubaresti, Vourugaresti, Qaniratha. Sono tutti circondati dal mare, e l'ultimo è quello che sta nel mezzo agli altri ed è abitato dagli uomini (cfr. WINDISCHMANN, Zor. Studien, p. 67, Bundehesh, p. 14).
 #کشید#  kashîd, tps. di kash.
 #کف# kaf, spuma, schiuma; - tû kaf kardan, rendere una cosa come spuma, cioè metterla in iscompiglio; - k. bî-labhâ bar âvardan, aver la schiuma alla bocca (per la rabbia); – z. kafa, skr. kapha.
 #کف# kaf (ar. kaf), mano, palma della mano; zampa (degli animali); - k. andâkhtan, batter le palme (per ira).
@@ -2308,27 +2156,16 @@ Studien, p. 67, Bundehesh, p. 14).
 #کفن# kafan (ar.), lenzuolo funebre; - k. pûshidan, vestirsi del lenzuolo funebre, morire.
 #کلاه# kulâh, e #کله# kulah, serto reale, corona.
 #کلید# kilîd (dal gr. κλείς, κλειδός), chiave.
-#کم#  kam, poco, scarso, misero, raro; — compar. kam-tar (con az), da meno, privo; khvarish kam-tar az kushta
-
-
-<pb n="428"/>
-nihâ, l'alimento era 'privo di bestie uccise, cioè: non v'era l'uso di cibarsi di carni; – bish u kam, v. bish; – z. kamna. .
+#کم#  kam, poco, scarso, misero, raro; — compar. kam-tar (con az), da meno, privo; khvarish kam-tar az kushta <pb n="428"/> nihâ, l'alimento era 'privo di bestie uccise, cioè: non v'era l'uso di cibarsi di carni; – bish u kam, v. bish; – z. kamna. .
 #کمان# kamân (per khamân, da kham, curvo, VULLERS, Lex. pers.), arco.
 #کم‌خرد# kam-khirad (cfr. khirad, senno), che ha poco senno; stolto, stolido.
-#کمر# kamar, cintura, cinto; legame; - k. bastan, cingersi i fianchi della cintura, cioè: accingersi (a far qualche cosa), esser pronto, esser preparato; - k. bastah (lett., cinto della cintura), accinto, pronto all' operare, pronto ad ogni chiamata; - k. bastan significa anche
-talvolta: cingersi le armi; — z. kamara, phl. kamar.
+#کمر# kamar, cintura, cinto; legame; - k. bastan, cingersi i fianchi della cintura, cioè: accingersi (a far qualche cosa), esser pronto, esser preparato; - k. bastah (lett., cinto della cintura), accinto, pronto all' operare, pronto ad ogni chiamata; - k. bastan significa anche talvolta: cingersi le armi; — z. kamara, phl. kamar.
 #کمربند# kamar-band (cfr. band, legame), luogo dove la 'cintura s'annoda; cintura.
 #کمرگاه# kamar-gâh, e #کمرگه# kamar-gah (cfr. gâh, gah, luogo). parte del corpo dove sta la cintura, metà del corpo. i fianchi.
 #کمند# kamand, laccio (arma usata dagli eroi); corda; scala a corda (a kind of scaling ladder, made of cord, and chiefly used by thieves, SHAKESP. Dict. hind. and engl.); metaf., treccia di capelli.
 #کمین# kamin (ar., cfr. sir. kmino), insidia; inganno.
 #کن# kan, tpr. di kand, scavare; strappare, svellere; toglier via per forza; — bar kandan, spiccare, mozzare; - z. e antp. kan, skr. khan.
-#کن# kun, tpr. di kard, fare, operare; – bâz kardan, aprire; – bar kardan, eccitare; togliere, smuovere, spinger via (con az gây, da un luogo); – bî-kardand bar gardan-ash carm i gâv, batterono sul suo collo il cuoio (una sferza) di bue, cioè: lo batterono cor una sferza di cuoio; – z. kar (pres. kerenaomi).
-
-
-
-
-<pb n="429"/>
-antp. kar (imperf. akunavam), skr. kri (pres. Vedico krinome), gr. κραίνω, ecc., lat. creare.
+#کن# kun, tpr. di kard, fare, operare; – bâz kardan, aprire; – bar kardan, eccitare; togliere, smuovere, spinger via (con az gây, da un luogo); – bî-kardand bar gardan-ash carm i gâv, batterono sul suo collo il cuoio (una sferza) di bue, cioè: lo batterono cor una sferza di cuoio; – z. kar (pres. kerenaomi). <pb n="429"/> antp. kar (imperf. akunavam), skr. kri (pres. Vedico krinome), gr. κραίνω, ecc., lat. creare.
 #کنار# kanâr, lato; estremità, lembo; seno, grembo; phl. kanâr, pârsi kanâra; cfr. z. karana.
 #کنام# kanâm, nido.
 #کنج# kung, angolo; luogo appartato e riposto.
@@ -2372,14 +2209,13 @@ antp. kar (imperf. akunavam), skr. kri (pres. Vedico krinome), gr. κραίνω,
 #کی‌خسرو# kay-khusrav, v. khusrav e kay.
 #کیش# kish (e), religione, legge religiosa; - z. tkaêsha, phl. e pârsi kesk, arm. Khësh.
 #کی‌قباد# sho kay-kubâd, v. ķubâd e kay.
-#کیمیا# kimiyà (dal gr. χημεία), alchimia, magia; frode,
-inganno; intenzione di far male (v. per questa parola un articolo del Port: «Chemie oder Chymie?», nella Zeitschrift der D. M. G. XXX, p. 6),
+#کیمیا# kimiyà (dal gr. χημεία), alchimia, magia; frode, inganno; intenzione di far male (v. per questa parola un articolo del Port: «Chemie oder Chymie?», nella Zeitschrift der D. M. G. XXX, p. 6),
 #کین# kin v. kinah.
 #کین# k-in, per kih in.
 #کیند# ki-y-and, per kih and, v. kih.
 #کی‌نژاد# kay-nizhâd (cfr. nizhâd, nascita), che è di nascita, di stirpe reale.
 #کینه# kinah (@), e #کین# kin (e), vendetta; guerra; rabbia, furore, amarezza dell' animo; desiderio di vendetta; — z. kaêna, phl. kin.
-#کینه‌جوی# kînah-gủy, (cfr. sustan, tpr. sûy, cercare), desideroso di vendicarsi, vendicativo; anche: desideroso di battaglia.
+#کینه‌جوی# kînah-gûy, (cfr. sustan, tpr. sûy, cercare), desideroso di vendicarsi, vendicativo; anche: desideroso di battaglia.
 
 
 <pb n="432"/>
@@ -2402,8 +2238,7 @@ inganno; intenzione di far male (v. per questa parola un articolo del Port: «Ch
 <pb n="433"/>
 #گاوسر# gâv-sar (cfr. sar, capo), v. gâv-sâr.
 #گاه# gâh, 1) luogo; — 2) trono reale; — z. gâtu, antp. Gầthu, skr. gâtu, phl. gânc.
-#گاه# gâh, 1) tempo; -- avv., al tempo che, allora che ...; gah (per gâh) i kâr-râr, al tempo della battaglia; - gâh ... gâh, ovv. gâhi ... gih, ovv. gâhî ... gâhi, e gahi ... gahi, ora ... ora, talora ... talora (termini correlativi); -- ân-gâh, e ân-gah, avv., in quel tempo, allora; -- ham-an-gâh, e ham-ân-gah, avv., in quello stesso momento; — cand-gâh, avv., per qualche tempo (anche land-gah); - yak-cand gah, avv., per qualche poco di tempo; — 2) mattino, tempo del mattino; -
-gah u bî-gah, avv., di mattina e di sera; v. bî-gâh.
+#گاه# gâh, 1) tempo; -- avv., al tempo che, allora che ...; gah (per gâh) i kâr-râr, al tempo della battaglia; - gâh ... gâh, ovv. gâhi ... gih, ovv. gâhî ... gâhi, e gahi ... gahi, ora ... ora, talora ... talora (termini correlativi); -- ân-gâh, e ân-gah, avv., in quel tempo, allora; -- ham-an-gâh, e ham-ân-gah, avv., in quello stesso momento; — cand-gâh, avv., per qualche tempo (anche land-gah); - yak-cand gah, avv., per qualche poco di tempo; — 2) mattino, tempo del mattino; - gah u bî-gah, avv., di mattina e di sera; v. bî-gâh.
 #گبر# gabr, veste militare, corazza; cfr. kabr.
 #گداز# gudaz (propriamente: il liquefarsi), angustia, affanno.
 #گذار# gudhâr, tpr. di gudhârd e gudhasht, condurre;lasciare, abbandonare (causale del z. vi + tar, cfr. phl. vetârtano).
@@ -2428,11 +2263,7 @@ gah u bî-gah, avv., di mattina e di sera; v. bî-gâh.
 #گرای# girây, v. gira.
 #گرایست# girầyist, tps. di girâ, girây.
 #گرایید# girâyîd, tps. di girâ, girdy.
-#گرد# gard, tpr. di gasht e gardîd, volgersi, diventare, cambiarsi; muoversi, andare, sopravvenire; passare, oltrepassare; trascorrere (si dice del tempo); volgersi (del cielo, delle stelle, della fortuna); ha tutti i significati del gr. γίγνομαι; - part. pres. gardân, che si volge, che rota all'intorno (si dice del cielo, delle sfere celesti, ecc.); – part. passato: gashtah, che è stato, gr. γενόμενος; - bâz gashtan, ritornare, volgersi indietro per tornare; astenersi, trattenersi dal fare una cosa (con az); – bar gashtan, come il semplice: ritornar sopra; partire, imperat. bar gard, vattene!;
-
-
-<pb n="435"/>
- volgere al termine, finire; rovinare, andar a male; part. bar gashtah, estinto, morto; bar gashtah kâr, che è rovinato ne' suoi affari, perduto; - z. varet, skr. Vrit, phl. vartitano, lat. verto, got. vairthan.
+#گرد# gard, tpr. di gasht e gardîd, volgersi, diventare, cambiarsi; muoversi, andare, sopravvenire; passare, oltrepassare; trascorrere (si dice del tempo); volgersi (del cielo, delle stelle, della fortuna); ha tutti i significati del gr. γίγνομαι; - part. pres. gardân, che si volge, che rota all'intorno (si dice del cielo, delle sfere celesti, ecc.); – part. passato: gashtah, che è stato, gr. γενόμενος; - bâz gashtan, ritornare, volgersi indietro per tornare; astenersi, trattenersi dal fare una cosa (con az); – bar gashtan, come il semplice: ritornar sopra; partire, imperat. bar gard, vattene!; <pb n="435"/> volgere al termine, finire; rovinare, andar a male; part. bar gashtah, estinto, morto; bar gashtah kâr, che è rovinato ne' suoi affari, perduto; - z. varet, skr. Vrit, phl. vartitano, lat. verto, got. vairthan.
 #گرد# gard, polvere, turbine di polvere; nembo; – g. angîkhtan, sollevar la polvere (nel senso di distruggere, disfare; con az); az âb gard angikhtan, distrugger l'acqua, o far polvere dell'acqua (frase iperbolica per dire: far cose straordinarie, impossibili).
 #گرد# gird, cerchio, circolo, giro; — gird i mâh, il semi cerchio della luna (quando è nuova); metaf. serto, corona; - gird i ..., dar gird i..., in giro, intorno, all' intorno (avv.); - g. âmadan, radunarsi, trovarsi insieme, raccogliersi; - og kardan, andare in giro, girare, andar qua e là; occupare, acquistare, prender possesso.
 #گرد# gurd, eroe, uomo valoroso; pl. gurdân.
@@ -2461,11 +2292,7 @@ gah u bî-gah, avv., di mattina e di sera; v. bî-gâh.
 #گرفتار# giriftâr (suff. âr), prigioniero, captivo.
 #گرگ# gurg, lupo; — z. vehrka, skr. vrika, gr. λύκος, ϝλυκος, lat. lupus, got. vulfs.
 #گرگین# gurgîn, n. pr. di un guerriero iranio, Gurghîn, " figlio di Milad.
-#گرم# garm, caldo, ardente; pronto, sagace (delle volpi) acuto, acre; abbondante, copioso; infervorato (nel
-
-
-<pb n="437"/>
- discorso); – z. garema, antp. garma (in Garma-pada, n. pr. di un mese), skr. gharma, gr. θερμός, lat. fervor, ted. warm.
+#گرم# garm, caldo, ardente; pronto, sagace (delle volpi) acuto, acre; abbondante, copioso; infervorato (nel <pb n="437"/> discorso); – z. garema, antp. garma (in Garma-pada, n. pr. di un mese), skr. gharma, gr. θερμός, lat. fervor, ted. warm.
 #گرو# girav, tpr. di giravîd, credere, fidarsi.
 #گروگان# girav-gân (suff. gân), pegno, cosa data in pegno; - ģ. kardan, dare in pegno una cosa; porre un pegno.
 #گروه# gurih, schiera, drappello, compagnia, brigata di persone; schiera di soldati; – z. kharedha (?), JUSTI, Handb. der Zendspr. p. 91.
@@ -2494,8 +2321,7 @@ gah u bî-gah, avv., di mattina e di sera; v. bî-gâh.
 #گزین# gusin, eletto, scelto; grato; - guzîn i mihân, l'eletto, cioè il primo dei principi;-ig.kardan, scegliere.
 #گسار# gusâr, tpr. di gusârd, bere; part. gusârandah i may, bevitor di vino; coppiere.
 #گسارد# gusârd, e #کسارد# kusârd (raro), tps. di gusâr.
-#گستاخ# gustakh, audace; duro, aspro; g. zuban kardan, far aspra la lingua; parlar duramente; z. viftakhra (forma supposta dallo SPIEGEL, Comm. ûber das Avesta,
-I, p. 64, da una rad. gtak, stać).
+#گستاخ# gustakh, audace; duro, aspro; g. zuban kardan, far aspra la lingua; parlar duramente; z. viftakhra (forma supposta dallo SPIEGEL, Comm. ûber das Avesta, I, p. 64, da una rad. gtak, stać).
 #گستر# gustar, tpr. di gustard e gustarîd, stendere, disten dere; spandere, spargere; donar liberalmente; inf. gustardan (come nome) giaciglio, letto; — z. vi + star, skr. Stri, phl. vegtartano, gr. στορέννυμι, στρώνυμμι, στόρνυμι, lat. sterno.
 #گسترد# gustard, tps. di gustar.
 #گسترده‌کام# gustardah-kâm (part. pass. di gustardan, + kâm, desiderio), quello i cui desideri sono soddisfatti : (gustardah), contento, fortunato.
@@ -2507,7 +2333,7 @@ I, p. 64, da una rad. gtak, stać).
 
 
 <pb n="439"/>
-#گسل# gusil, tpr. di gusist, rompere, spezzare, infrangere; troncare; togliere; danneggiare; distogliere, allontanare; -- gusistah shud az khvîsh u payvand i ủ, fu allontanato, strappato (Dahâk) dai consanguinei e collegati suoi; – intrans.; ricever danno; rompersi, guastarsi; distogliersi, liberarsi; cessare.
+#گسل# gusil, tpr. di gusist, rompere, spezzare, infrangere; troncare; togliere; danneggiare; distogliere, allontanare; -- gusistah shud az khvîsh u payvand i û, fu allontanato, strappato (Dahâk) dai consanguinei e collegati suoi; – intrans.; ricever danno; rompersi, guastarsi; distogliersi, liberarsi; cessare.
 #گسی# gusi (per gusil, VULLERS); commiato, licenza al partire; — 8. kardan, dire addio a qualcuno; acco miatare, licenziare (con l'acc.).
 #گشا# gushâ, tpr. di gushâd, aprire; – bar gushâdan, aprire, sciogliere la lingua per parlare); mostrare, svelare, far conoscere; – phl. veshât, pârsi vishâd, kusâț (scoperto), SPIEGEL, Die trad. Litt. der Pârsen, p. 455, e Pârsi-Gramm. p. 202.
 #گشاد# gushâd tps. di gusha.
@@ -2546,23 +2372,18 @@ I, p. 64, da una rad. gtak, stać).
 #گنج# gang, tesoro, coll, ricchezze, ricchi doni (cfr. cald. e ginza, sir. gaző).
 #گنجور# gang-var (suff. var), tesoriere.
 #گو# gav, eroe, uomo prode e coraggioso; prode; guerriero.
-#گو#  gû, e #گوی# gûy, pres. gûyam, dire, parlare; pensare; — tû grûyî, o gûyê (in mezzo al periodo), tu diresti; — tủ gufti (in mezzo al periodo), tu avresti detto, tu avresti pensato; -- bî-gufta, egli disse (forma intensiva); — part. grûyandah, facondo, pronto a favellare; lingua (lett., la parlante); pl. guyandagân, i parlanti, cioè gli uomini (distinti dagli altri animali per mezzo del linguaggio), cfr. l'omerico répontes du Ipanol, contrapposto a pûyandagân (v. pû, pûy), gli animali terrestri; — part. pass. guftah (usato come nome), detto, parola; discorso; — bâz guftan, raccontare, narrare; riferire una cosa, un fatto; – bar guftan, pronunciare; - antp. gub (in gaubataiy, med., egli si dice), phl. guftano, pârsi guftan.
+#گو#  gû, e #گوی# gûy, pres. gûyam, dire, parlare; pensare; — tû grûyî, o gûyê (in mezzo al periodo), tu diresti; — tû gufti (in mezzo al periodo), tu avresti detto, tu avresti pensato; -- bî-gufta, egli disse (forma intensiva); — part. grûyandah, facondo, pronto a favellare; lingua (lett., la parlante); pl. guyandagân, i parlanti, cioè gli uomini (distinti dagli altri animali per mezzo del linguaggio), cfr. l'omerico répontes du Ipanol, contrapposto a pûyandagân (v. pû, pûy), gli animali terrestri; — part. pass. guftah (usato come nome), detto, parola; discorso; — bâz guftan, raccontare, narrare; riferire una cosa, un fatto; – bar guftan, pronunciare; - antp. gub (in gaubataiy, med., egli si dice), phl. guftano, pârsi guftan.
 #گواه# guvâh, testimonio, testimone; mallevadore.
 #گوپال# gûpâl, clava ferrata.
 #گودرز# gûdarz, n. pr. di un guerriero iranio, Gûderz, figlio di Keshyâd.
 #گور# gør (7), onagro, asino selvatico.
 #گوربان# gûr-bân (cfr. gûr, cimitero, + suff. bân), custode di un cimitero, seppellitor di cadaveri.
 #گوزن# gavzân, cervo.
-#گوسپند# gûspand (), pecora, coll., pecore; z. gaospeñta, phl. gocpand. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura
-
-
-<pb n="442"/>
-Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, cfr. Vendîdâd. 21, 1, Yaşna, 29. voor die gûsh (6), orecchio, coll., gli orecchi; - g. bar
-nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondiscendere; - z. gaosha, antp. gausa, skr. ghosha (rad. z. gush, udire).
+#گوسپند# gûspand (ô), pecora, coll., pecore; z. gaospeñta, phl. gocpand. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura <pb n="442"/> Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, cfr. Vendîdâd. 21, 1, Yaşna, 29. voor die gûsh (6), orecchio, coll., gli orecchi; - g. bar nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondiscendere; - z. gaosha, antp. gausa, skr. ghosha (rad. z. gush, udire).
 #گوشت# gøsht, carne.
 #گوشوار# gush-vâr (suff. vâr), orecchino, pendente; z. gaoshâvare, phl. goshvâr.
 #گون# gûn, v. gûnah.
- #گونه# gûnah, e #گون# gûn, colore; modo, maniera; — bî-din gûnah, in questo modo, in questa maniera; - come aggettivo, dietro un nome: tale, cotale: — hić gûnah, avv., in nessun modo (con negaz.); – digar-gûnah, che è di diverso colore; avv., diversamente, v. digar, digar; — z. gaona, skr. guna.
+#گونه# gûnah, e #گون# gûn, colore; modo, maniera; — bî-din gûnah, in questo modo, in questa maniera; - come aggettivo, dietro un nome: tale, cotale: — hić gûnah, avv., in nessun modo (con negaz.); – digar-gûnah, che è di diverso colore; avv., diversamente, v. digar, digar; — z. gaona, skr. guna.
 #گونه‌گون# gûnah-gûn, variopinto, variato, che ha varii colori; artificioso; – avv., variatamente, artificiosa mente.
 #گونه‌گونه# gûnah-gûnah, v. gûnah-gûn.
 #گوهر# gavhar, e #گهر# guhar, 1) materia, sostanza, essenza, natura particolare; sesso; nâ-suftah gavhar, v. na suftah; – 2) gemma, pietra preziosa; - phl. E pârsi gohar.
@@ -2600,8 +2421,7 @@ nihâdan, prestare orecchio, dare ascolto; - g. sipurdan, dare ascolto; accondis
 #لشکرگاه# lashkar-gâh, e #لشکرگه# lashkar-gah, (cfr. gûh, gak, luogo), accampamento, luogo dov' è attendato un esercito.
 #لعل# lal (ar.), rubino; - agg., rosso, rubicondo; — lab i lál, labbra del color del rubino.
 #لعل‌فام# lâ l-fâm (a p., suff. fam), rosso, rubicondo come un rubino.
-#لهراسپ# luhrâsp, n. pr. di un re dell' Iran, Lohrasp,
-discendente da Pishin che fu terzo figlio del re Kobâd. Successe a Khusrev nel regno, abdicò poi in favore di suo figlio Gushtâsp e si ritiro a Balkh a far vita religiosa, laddove fu ucciso dai Turani; – z. aurvatagpa, phl. rurâçp (Bundehesh) arvandaçp (versioni pehlevi che), pârsi lahurâsp.
+#لهراسپ# luhrâsp, n. pr. di un re dell' Iran, Lohrasp, discendente da Pishin che fu terzo figlio del re Kobâd. Successe a Khusrev nel regno, abdicò poi in favore di suo figlio Gushtâsp e si ritiro a Balkh a far vita religiosa, laddove fu ucciso dai Turani; – z. aurvatagpa, phl. rurâçp (Bundehesh) arvandaçp (versioni pehlevi che), pârsi lahurâsp.
 #لیکن# likin, ma; - va-likin, ma.
 
 
@@ -2622,7 +2442,7 @@ discendente da Pishin che fu terzo figlio del re Kobâd. Successe a Khusrev nel 
 
 
 <pb n="446"/>
-# مان# mân, tpr. di mând e mânîd, 1)rimanere, restare; ritirarsi, tirarsi indietro, astenersi (con az); stancarsi, restar da meno; rimaner superstite nel mondo, sopravvivere; restar meravigliato (sottint. shigift); bî-mandand mardum az-ân parvarish, si stancava la gente per quel cibo (cioè per il molto cibo che era necessario per Rustem); un' altra spiegazione di questo verso v. in VULLERS, Lex. pers. II, p. 1125. - 2) lasciare, lasciare indietro; abbandonare; - bâz mândan, rimanere indietro, astenersi dal fare una cosa; trans., lasciare, lasciare indietro, lasciar superstite; - furû mândan, restar confuso, restar turbato; restar meravigliato; stancarsi, rimaner stanco; – z. man, antp. man e skr. man, gr. μένω, lat. maneo.
+# مان# mân, tpr. di mând e mânîd, 1) rimanere, restare; ritirarsi, tirarsi indietro, astenersi (con az); stancarsi, restar da meno; rimaner superstite nel mondo, sopravvivere; restar meravigliato (sottint. shigift); bî-mandand mardum az-ân parvarish, si stancava la gente per quel cibo (cioè per il molto cibo che era necessario per Rustem); un' altra spiegazione di questo verso v. in VULLERS, Lex. pers. II, p. 1125. - 2) lasciare, lasciare indietro; abbandonare; - bâz mândan, rimanere indietro, astenersi dal fare una cosa; trans., lasciare, lasciare indietro, lasciar superstite; - furû mândan, restar confuso, restar turbato; restar meravigliato; stancarsi, rimaner stanco; – z. man, antp. man e skr. man, gr. μένω, lat. maneo.
 #مان# mân, tpr. di mânist, esser somigliante, somigliare; part. mânandah, somigliante.
 #مانا# mânâ, forse.
 #ماند# mând, tps. di mân, 1°.
@@ -2630,8 +2450,7 @@ discendente da Pishin che fu terzo figlio del re Kobâd. Successe a Khusrev nel 
 #مانست# môist, tps. di mâm z.
 #مانند# mânand (cfr. mânistan, somigliare), simile, somi gliante; eguale; avv., come, in guisa di ... (col. gen.).
 #مانید# mânîd, tps. di mân, 1°, cfr. mând; part. Passato: mânidah, rimasto, restato.
-#ماه# mâh, luna; mese; metaf. fanciulla, donzella; mâh i nav, luna nuova; metaf. giovane e vaga fanciulla; - z. mâonh e mâonha, antp. mâha, skr. mâs, mâsa, cfr.
-gr. μήν, lat. mensis, got. mena (rad. mâ, misurare).
+#ماه# mâh, luna; mese; metaf. fanciulla, donzella; mâh i nav, luna nuova; metaf. giovane e vaga fanciulla; - z. mâonh e mâonha, antp. mâha, skr. mâs, mâsa, cfr. gr. μήν, lat. mensis, got. mena (rad. mâ, misurare).
 #ماه‌چهر# mân-ćihr (cfr. ćihr, volto), che ha il volto simile a luna (si dice delle belle fanciulle).
 #ماه‌دیدار# mâh-dîdâr (cfr. dîdâr, aspetto), che ha l'aspetto bello come la luna.
 
@@ -2696,8 +2515,7 @@ gr. μήν, lat. mensis, got. mena (rad. mâ, misurare).
 <pb n="450"/>
 #من# man, pron. io; pl. mâ, noi; – z. mām, mâ, mana, ecc. casi obliqui del nominat. azem, antp. adam, skr. aham, gr. ἐγώ, ἐγών, lat. ego.
 #منوچهر#  minûćihr (ô), n. pr. di Minoćihr, figlio di Pesheng e di Mâh-âferîd. Mâh-aferîd era figlia di Eras, e questi di Frédûn. Nella sua giovinezza, Minôćihr condusse la guerra contro Salm e Tûr uccisori dell' avo suo Erag e li puni con la morte (v. i c. IV e V dell' Antologia e le Introduzioni). Successe a Frédûn e regnd i 20 anni. Al suo tempo nacque Rustem; z. manuscithra, phl. manôshčehr (SPIEGEL, Erân. Alterth. I, p. 555 e segg.).
-#موبد# mûbad, mûbîd, mavbad, sacerdote; sapiente, saggio; z. nmâno-paiti (capo di casa, nmâna, casa, e paiti, signore), phl. mânpat, pârsi môbad. L'etimologia di mugh, mago, e bad, z. paiti, signore, quindi magorum praefectus (VULLERS), anche con l'arm. mogpet, movpet,
-non è giusta.
+#موبد# mûbad, mûbîd, mavbad, sacerdote; sapiente, saggio; z. nmâno-paiti (capo di casa, nmâna, casa, e paiti, signore), phl. mânpat, pârsi môbad. L'etimologia di mugh, mago, e bad, z. paiti, signore, quindi magorum praefectus (VULLERS), anche con l'arm. mogpet, movpet, non è giusta.
 #موبددل# mûbad-dil (cfr. dil, cuore, animo), che ha il cuore di un sapiente.
 #موج# mavg (ar.), onda, flutto.
 #موزه# mûzah, scarpa; coll., le scarpe.
@@ -2808,15 +2626,9 @@ non è giusta.
 #نخستین# nukhustin (suff, în), primo; avv., primieramente, per prima cosa.
 #نر# nar, #نرّ# narr, e #نرّه# narrah, maschio; agg., animoso; terribile, fiero; orribile, atroce (specialmente Demoni o Dêvi e belve); z. nar, nara, skr. nri, gr. ἀ-νήρ.
 #نرگس# nargis (dal gr. νάρκισσος), narciso (fiore); metaf. Gli 'occhi di una fanciulla.
-#نرم# narm, molle, tenero; debole; dolce; lusinghiero (di
-un discorso); phl. narm.
+#نرم# narm, molle, tenero; debole; dolce; lusinghiero (di un discorso); phl. narm.
 #نرّه# rarrah (suff. ah), v. nar, narr.
-#نریمان# narimân, e #نیرم# niram, n. pr. del padre di Sâm, Neriman o Nirem, secondo il Libro dei Re. -Firdusi racconta di lui soltanto che egli mori all'assedio della rocca del Sipend, regnando il re Frédûn (p. 170, ed. Calc.). Questo eroe della leggenda epica non si trova nell' Avesta, ma il suo nome è nato da una falsa inter
-
-
-<pb n="457"/>
-pretazione dell' agg. z. naremananh (che ha cuore virile, mannherzig, JUSTI, cfr. skr. nrimanas) che l'Avesta dà a Kereçâçpa (yasht, 9,39); così questa parola, di aggettivo fatta nome, diventò anche nome di eroe, Nerîmân o Nirem, che l'epopea dice figlio di Ghershâsp (z. kereçâgpa)
-e padre di Sâm.
+#نریمان# narimân, e #نیرم# niram, n. pr. del padre di Sâm, Neriman o Nirem, secondo il Libro dei Re. -Firdusi racconta di lui soltanto che egli mori all'assedio della rocca del Sipend, regnando il re Frédûn (p. 170, ed. Calc.). Questo eroe della leggenda epica non si trova nell' Avesta, ma il suo nome è nato da una falsa inter <pb n="457"/> pretazione dell' agg. z. naremananh (che ha cuore virile, mannherzig, JUSTI, cfr. skr. nrimanas) che l'Avesta dà a Kereçâçpa (yasht, 9,39); così questa parola, di aggettivo fatta nome, diventò anche nome di eroe, Nerîmân o Nirem, che l'epopea dice figlio di Ghershâsp (z. kereçâgpa) e padre di Sâm.
 #نزد# nazd, vicino, accanto, presso (col gen.); — con moto: - verso, a, come: firistâd nazd i padar, mandò verso il padre; — z. nazda (rad. naz, skr. nah, lat. necto, unire, cfr. got. nêhva, ted. nahe).
 #نزدیک# nâzdik, lo stesso di nazd, v.; -- zi nazdik i... da parte di ... .
 #نزدیکی# nazdiki (suff. î), vicinanza, prossimità.
@@ -2849,11 +2661,7 @@ e padre di Sâm.
 #نگار# nigâr, pittura; ornamento, fregio; coll., fregi, orna menti; tintura delle guancie, belletto; ritratto, immagine.
 #نگارید# nigârîd, tps. di nigâr.
 #نگاشت# nigâsht, tps. di nigâr.
-#نگاه# nigâh, e #نگه# nigah, osservazione; – n. kardan, osservare, riguardare, levar gli sguardi; -- in senso molto speciale: fare effetto, far colpo; far danno (si
-
-
-<pb n="459"/>
-dice del freddo, c. III dell' Antologia); – phl. nikâc, pârsi nigâh (rad. z. kaç, skr. kâğ, osservare; ni
+#نگاه# nigâh, e #نگه# nigah, osservazione; – n. kardan, osservare, riguardare, levar gli sguardi; -- in senso molto speciale: fare effetto, far colpo; far danno (si <pb n="459"/> dice del freddo, c. III dell' Antologia); – phl. nikâc, pârsi nigâh (rad. z. kaç, skr. kâğ, osservare; ni
 è prep.).
 #نگر# nigar, tpr. di nigarist, nigarîd, nigarist, osservare, vedere; discernere, distinguere; ponderare, pensare; - z. kar, skr. kar (ni- è prep.), phl. nekir (osservazione).
 #نگرست# ,nagarîd #نگرید#,nigaris #نگریست# nagarist , tips , di 'nigar.
@@ -2877,13 +2685,13 @@ dice del freddo, c. III dell' Antologia); – phl. nikâc, pârsi nigâh (rad. z
 #نواز# nuvâz, tpr. di nuvâkht, dir graziose parole a qual cuno, accarezzare, far buona accoglienza, trattar bene; abbellire, adornare; render fertile (la campagna); — rad. ni + vaz(?), cfr. arm. novâjem, superare, debellare (SPIEGEL, Comment. ûber das Avesta, II, p. 511).
 #نوان# navân (part. di navidan, camminare), camminante; cfr. khirâmân.
 #نوحه# navḥah (ar.), lamento, pianto; bî-navħah darûn, in mezzo ai lamenti.
-#نوذر# navdhar, n. pr. del figlio di Minoćihr, Nevdher. Questo re fu fiacco e dato ai vizi; fece una guerra infelice con Afrâsyâb, e, fatto prigione, fu da lui mandato a morte; regnò 7 anni; - z. naotara(); non si sa se l'Avesta conti nella lista de' suoi re anche questo, trovandosi in esso il nome naotara solo al plurale per designare i discendenti di un naotara di cui non si sa nulla (yasht, 15, 35).
+#نوذر# navdhar, n. pr. del figlio di Minoćihr, Nevdher. Questo re fu fiacco e dato ai vizi; fece una guerra infelice con Afrâsyâb, e, fatto prigione, fu da lui mandato a morte; regnò 7 anni; - z. naotara(?); non si sa se l'Avesta conti nella lista de' suoi re anche questo, trovandosi in esso il nome naotara solo al plurale per designare i discendenti di un naotara di cui non si sa nulla (yasht, 15, 35).
 #نوذران# navdharan, pl., discendenti di Nevdher, V.; -shâh i navdharan, il capo dei discendenti di Nevdher, cioè Tûs; cfr. z. naotara.
 #نور# nûr (ar.), luce, splendore.
 #نورد# navard, tpr. di navardîd, piegare.
 #نورد# navard, piega, piegatura; metaf., oscurità; — tû andar navard, tu sei nell' oscurità, in umile posto.
 #نوردید# navardîd, tps. di navard.
-#نوش# nûsh (), bevanda dolce e grata; metaf., dolcezza, piacere.
+#نوش# nûsh (ô), bevanda dolce e grata; metaf., dolcezza, piacere.
 #نوشت# nuvisht, cfr. nubisht, tps. di nuvis.
 #نوند# navand, messaggiero, corriere.
 #نوند# navand, n. pr. di un luogo, Nevend, dove sorgeva il tempio del fuoco detto âdhar-barzin.
@@ -2892,8 +2700,7 @@ dice del freddo, c. III dell' Antologia); – phl. nikâc, pârsi nigâh (rad. z
 <pb n="461"/>
 #نوّی# navvi (suff. 1), novità; - bî-navi, avv. nuovamente.
 #نوید# nuvîd, buona novella, lieto annunzio; cfr. z. nivaê dhayêmi (io annunzio), rad. ni + vîd..
-#نویس# nuvis, tpr. di nuvisht, e nubisht, scrivere; — part. nuvîsandah, scrivano, segretario; – antp. ni + pis,
-phl. nepishtano (cfr. pismo [polacco] scrittura).
+#نویس# nuvis, tpr. di nuvisht, e nubisht, scrivere; — part. nuvîsandah, scrivano, segretario; – antp. ni + pis, phl. nepishtano (cfr. pismo [polacco] scrittura).
 #نه# nah, e #ن# na-, negaz. non; – z. e skr. na, antp. Naiy, gr. νη-, lat. non.
 #نهء# nah i, per #نه‌ای# nah î, tu non sei. .
 #نه# nih, tpr. di nihâd, porre, riporre (v. le diverse frasi sotto i diversi nomi ai quali questo verbo si unisce); - stabilire, istituire, ecc. - andar nihâdan, dar dentro; imperat. andar nihîd, date dentro (per ferire); — pish nihâdan, mettere innanzi, proporre; - z. e skr. ni + dhà, antp. dâ, gr. θε in gr. τίθημι.
@@ -2901,11 +2708,7 @@ phl. nepishtano (cfr. pismo [polacco] scrittura).
 #نهاد# nihâd, fondamento; natura, indole, carattere.
 #نهان# nihân, 1) cosa nascosta; secreto; coll., le cose secrete, i secreti, a drógenta; metaf., animo; az nihan, dall'intimo dell'animo; phl. nihân, z. ni + dhâ; – 2) agg., nascosto, celato; avv., nascostamente.
 #نهانی# nihânî (suff. î), nascosto, celato; avv., nascostamente.
-#نهفت# nuhuft, tps. nascondere, celare, involare dagli occhi altrui; — part. nuhuftah, nascosto, celato; avv., nascostamente. - Non si conosce con sicurezza il tema di presente di questo verbo. 11 JONES suppone un uni #نهبن# (?) nuhban, ma egli stesso dice di non aver mai trovato esempio di questa strana forma, cfr. GARCIN DE TAssy, Gramm. Persane, p. 72, nota. In favore del supposto tpr. nuhban vi sarebbe il phl. nahûmbâmvitano, nascondere; ma non par forma genuina nemmeno allo SPIEGEL (Die trad. Litt. der
-
-
-<pb n="462"/>
-Pârsen, p. 434), esistendo il vero ed usato phl. nahûf. tano, nascondere. L'HARLEZ nota una forma phl. nihuptano e un infinito pârsi nahunbadan, cacher (Manuel du pehlevi, p. 9)..
+#نهفت# nuhuft, tps. nascondere, celare, involare dagli occhi altrui; — part. nuhuftah, nascosto, celato; avv., nascostamente. - Non si conosce con sicurezza il tema di presente di questo verbo. 11 JONES suppone un uni #نهبن# (?) nuhban, ma egli stesso dice di non aver mai trovato esempio di questa strana forma, cfr. GARCIN DE TAssy, Gramm. Persane, p. 72, nota. In favore del supposto tpr. nuhban vi sarebbe il phl. nahûmbâmvitano, nascondere; ma non par forma genuina nemmeno allo SPIEGEL (Die trad. Litt. der <pb n="462"/> Pârsen, p. 434), esistendo il vero ed usato phl. nahûf. tano, nascondere. L'HARLEZ nota una forma phl. nihuptano e un infinito pârsi nahunbadan, cacher (Manuel du pehlevi, p. 9)..
 #نهفت# nuhuft, nascondimento; intimità; luogo secreto.
 #نهمار# nahmâr (na + humar, cfr. shumâr, numero), . innumerevole, infinito; avv., infinitamente, straordina riamente.
 #نهنگ# nahang, coccodrillo; metaf., spada; – skr. nihâkâ.
@@ -2913,8 +2716,7 @@ Pârsen, p. 434), esistendo il vero ed usato phl. nahûf. tano, nascondere. L'HA
 #نیا# niya, pl. niyâgân, avo, nonno; – 2 e antp. nyâka.
 #نیاز# niyâz, bisogno; - n. bûdan, abbisognare (con dat. di persona); - phl. niyâć; secondo lo SPIEGEL (Die trad. Litt. der Pârsen, p. 435) da un supposto z. ni + yas, andar domandando; ma yaç nell' Avesta è usato solo nel significato di: andar girando.
 #نیام# niyâm, vagina, fodero della spada.
-#نیایش# niyâyish (suff. ish), adorazione; - n. kardan,
-adorare; - phl. niyâyashno; rad. z. ni + yaç? festhalten (JUSTI), cfr. Spiegel, Die trad. Litt. der Pârsen, p. 436.
+#نیایش# niyâyish (suff. ish), adorazione; - n. kardan, adorare; - phl. niyâyashno; rad. z. ni + yaç? festhalten (JUSTI), cfr. Spiegel, Die trad. Litt. der Pârsen, p. 436.
 #نیرم# niram, v. narîmân.
 #نیرنگ# nirang, pl. niranghâ, magia, incanto, operazione magica; inganno, frode, tranello; — cashm i nirang, v. čashm; – phl. nirang (cerimonia, uso religioso, cfr. skr. niranga, SPIEGEL, Die trad. Litt, der Pârsen, p. 436.).
 #نیرنگ‌ساز# nîr-nagsâz (cfr. sâkhtan, tpr. sâz, fare), mago, incantatore, operator d'incantesimi.
@@ -2943,8 +2745,7 @@ adorare; - phl. niyâyashno; rad. z. ni + yaç? festhalten (JUSTI), cfr. Spiegel
 #نیل# nil, 1) azzurro, ceruleo, cfr. skr. nili, the indigo plant; -- 2) n. pr. del fiume Indo, secondo l'epopea persiana; — darydy i nil, il mare azzurro; ovv., il fiume Indo.
 #نیلگون# nil-gûn (cfr. gûn, gûnah, colore), che è di color fosco; bruno, oscuro.
 #نیم# na-y-am, per #نه‌ام# nah am, io non sono.
-#نیم# nim (@), metà; -- bî-dû nim kardan, dividere, tagliare
-in due; – z. naêma, skr. nema.
+#نیم# nim (@), metà; -- bî-dû nim kardan, dividere, tagliare in due; – z. naêma, skr. nema.
 #نیمروز# nim-rûz, n. pr. del paese che era feudo della famiglia di Rustem e di Zal, Nimrûz; cfr. phl. Nim ros (mezzogiorno, Sud).
 #نیو# niv (e), forte, strenuo, bellicoso; antp. naiba (SPIEGEL, Altpers. Keilinschrift. p. 205).
 #نئی# na-y-i, per #نه‌ای# nah î, tu non sei.
@@ -2953,8 +2754,7 @@ in due; – z. naêma, skr. nema.
 #والاگهر# vâlâ-guhar (cfr. vâlâ, per bâlâ, altezza, e guhar per gavhar, indole, natura), che è di nobile indole; nobile, grande, eccelso.
 #ور# v-ar, per l , u ar, e se; v. ar, agar.
 #ورد# vard (ar.), rosa (questa parola sembra però di origine iranica, v. gul).
-#ورز# varz, tpr. di varzîd, lavorare, operare; lavorar la
-terra; — z. varez, skr. vrih, gr. εργ, gr. ϝεργ in gr. ἐργάζομαι, gr. ἔργον ecc., got. vaurkjan, nord. yrkja.
+#ورز# varz, tpr. di varzîd, lavorare, operare; lavorar la terra; — z. varez, skr. vrih, gr. εργ, gr. ϝεργ in gr. ἐργάζομαι, gr. ἔργον ecc., got. vaurkjan, nord. yrkja.
 #ورز# varz, opera, lavoro; - bî-vara âvaridan, applicare al lavoro, sottomettere al lavoro; - gr. ἔργον, ϝεργον, ted. Werk; cfr. varz, 1°.
 
 
@@ -2967,8 +2767,7 @@ terra; — z. varez, skr. vrih, gr. εργ, gr. ϝεργ in gr. ἐργάζομ�
 #وی# vay, egli, ella; cfr. #او# û.
 #ویران#virûn, deserto, devastato, desolato.
 #ویرانی# vîrdnî (suff. î), desolazione.
-#ویژه# vizhah (@), puro, sincero, genuino; eletto; chiaro, illustre; certo, sicuro; fedele; avv., sicuramente, certamente; - bî-vízhah, avv., certamente, sicuramente; --
-phl. afegak, pârsi awézh, awézhah.
+#ویژه# vizhah (@), puro, sincero, genuino; eletto; chiaro, illustre; certo, sicuro; fedele; avv., sicuramente, certamente; - bî-vízhah, avv., certamente, sicuramente; -- phl. afegak, pârsi awézh, awézhah.
 #ویسه# vîsah (ê), n. pr. di un principe turanio, padre di Pirân; Vêsah.
 #وين#  an , per #و این# in , v. in .
 
@@ -2983,13 +2782,12 @@ phl. afegak, pârsi awézh, awézhah.
 
 <pb n="466"/>
 #هراسان# hirâsân, tremante, atterrito; -— h. kardan, atter rire, spaventare.
- #هرانکس# har-ân-kas (cfr. ân, quello, kas, chi), chiunque, qualunque.
+#هرانکس# har-ân-kas (cfr. ân, quello, kas, chi), chiunque, qualunque.
 #هرچه# har-ćih (cfr. cih, che, quîd), ogni cosa che, qualun que cosa che …
 #هرکس# har-kas (cfr. kas, chi), ognuno, ciascuno; – har kasi, ciascuno.
 #هرکه#  har-kih (cfr. kih, che, il quale); ognuno che ..., ciascuno che ...
 #هرگز# hargiz, qualche volta, talvolta, talora; con la negaz., non mai.
-#هرمز# hurmuz, il pianeta Giove. - Questo nome è stato applicato al pianeta Giove posteriormente, mentre in origine esso non è che il nome del Dio del bene, del Dio creatore, secondo l'Avesta, detto in zendo ahura mazdâo e in antp. auramazdâ, presso i Greci 'Spomásys. Oltre ad hurmuz, il persiano ha anche le forme urmuz, urmuzd, ûrmuzde ûrmuz; cfr. il nostro Ormuzd. Suo avversario è Ahrîmane, âharman (v.), che sarà da lui sconfitto nell'ultima lotta alla fine del mondo. Egli si chiama nell' Avesta anche speñtô mainyus,
-il santo spirito.
+#هرمز# hurmuz, il pianeta Giove. - Questo nome è stato applicato al pianeta Giove posteriormente, mentre in origine esso non è che il nome del Dio del bene, del Dio creatore, secondo l'Avesta, detto in zendo ahura mazdâo e in antp. auramazdâ, presso i Greci 'Spomásys. Oltre ad hurmuz, il persiano ha anche le forme urmuz, urmuzd, ûrmuzde ûrmuz; cfr. il nostro Ormuzd. Suo avversario è Ahrîmane, âharman (v.), che sarà da lui sconfitto nell'ultima lotta alla fine del mondo. Egli si chiama nell' Avesta anche speñtô mainyus, il santo spirito.
 #هریک# har-yak (cfr. yak, uno), ciascuno, ciascheduno; zi har-yak, d'ogni genere, d'ogni specie.
 #هزار# hazâr, mille; — dah hazâr, diecimila; — z. Hazanra, skr. sahasra, gr. χἰλιοι, eol. χέλλιοι per χεσλιοι (?).
 #هزبر# hizabr, leone; metaf. uomo valoroso, gagliardo; – hizab ân kh a gam 4 may bî-shakarad (bî-skbarad -U per il verso), è un valoroso colui che va a caccia di un bicchier di vino; è valoroso colui che ama il vino; — cfr. z. hazanh (rad. haz) violenza, SPIEGEL, Comment. ûber das Av. II, p. 206.
@@ -3011,7 +2809,8 @@ il santo spirito.
 
 
 <pb n="468"/>
-#همان# ham-ân (cfr. an, quello). — 1) lo stesso, la stessa, gli stessi, ecc. — 2) parimente, ugualmente; — 3) allora; in quel momento; subitamente; -- hamân u hamin, questo e quello. Lilac hamână, 1) certamente, sicuramente, senza dubbio; - 2) forse, cfr. mânâ; – hamânâ kih, forse che … quasi come se ...
+#همان# ham-ân (cfr. an, quello). — 1) lo stesso, la stessa, gli stessi, ecc. — 2) parimente, ugualmente; — 3) allora; in quel momento; subitamente; -- hamân u hamin, questo e quello.
+#همانا# hamânâ, 1) certamente, sicuramente, senza dubbio; - 2) forse, cfr. mânâ; – hamânâ kih, forse che … quasi come se ...
 #همانگاه# ham-ân-gâh (cfr. gâh, gah, tempo), avv., in quello stesso tempo.
 #همانگه# ham-we-gai, v. ban-an-gai.
 #هم‌آورد# ham-âvard (cfr. Qvard, battaglia), pari in battaglia, competitore, che è dello stesso valore; avversario, nemico.
@@ -3022,8 +2821,7 @@ il santo spirito.
 #همداستان# ham-dâstân (cfr. dâstân, notizia), confidente, credente; consenziente; contento, appagato; - k. gashtan, essere, farsi complice; associarsi ad uno: fidarsi, credere; - phl. hamdatastân, pârsi han dadistan.
 #همدین# ham-din (cfr. din, fede), che è della stessa fede, correligionario.
 #همراه# ham-râh (cfr. râh, strada), compagno di viaggio: metaf. che si accorda con altri nelle opinioni, consenziente, concorde.
-#همرنگ# ham-rang (cfr. rang, colore), uguale nel colore ad
-un altro, gr. ὁμόχρως.
+#همرنگ# ham-rang (cfr. rang, colore), uguale nel colore ad un altro, gr. ὁμόχρως.
 
 
 <pb n="469"/>
@@ -3050,7 +2848,7 @@ un altro, gr. ὁμόχρως.
 #هور# hûr, sole; cfr. khvar, z. hvare.
 #هوش# hûsh (ở), e #هش# hush, prudenza; senno, avvedutezza; virtù; intelligenza, ingegno; bî-hûsh âmadan, ritornare in sè, rinvenire, riavere i sensi; far senno, rinsavire; – z. ushi, uski, phl. hôsh.
 #هوشنگ# hûshang, Hôsheng, n. pr. del figlio di Siyâmek, primo re della dinastia dei Peshdâd. V. l'Introduzione al c. I dell'Antologia; — z. haoshyanha.
-#هوم# hûm (), n. pr. di un pio uomo, Hôm, della discendenza di Frédûn, che trasse ai piedi di Khusrev il re Afrasyab incatenato, perchè lo punisse delle sue colpe. — Nell'Avesta invece Haoma è il genio della pianta divina haoma che cresce nel lago Vourukasha, guardata da 99999 Fravashi (esseri divini), e il cui succo rende immortale chi ne gusta. Finalmente haoma è anche il nome di una pianta dại fiori gialli detta dai naturalisti asclepias acida, cynanchum viminale, che spremuta nelle sacre cerimonie dà un succo acido e di cattivo gusto, che suol esser bevuto dal sacerdote (zaotar) durante la lettura del yagna; cfr. SPIEGEL, Erân. Alterth. II, p. 114. – L'haoma iranico corrisponde al soma indiano che è la bevanda degli Dei; rad. z. hu, skr. su, spremere.
+#هوم# hûm (ô), n. pr. di un pio uomo, Hôm, della discendenza di Frédûn, che trasse ai piedi di Khusrev il re Afrasyab incatenato, perchè lo punisse delle sue colpe. — Nell'Avesta invece Haoma è il genio della pianta divina haoma che cresce nel lago Vourukasha, guardata da 99999 Fravashi (esseri divini), e il cui succo rende immortale chi ne gusta. Finalmente haoma è anche il nome di una pianta dại fiori gialli detta dai naturalisti asclepias acida, cynanchum viminale, che spremuta nelle sacre cerimonie dà un succo acido e di cattivo gusto, che suol esser bevuto dal sacerdote (zaotar) durante la lettura del yagna; cfr. SPIEGEL, Erân. Alterth. II, p. 114. – L'haoma iranico corrisponde al soma indiano che è la bevanda degli Dei; rad. z. hu, skr. su, spremere.
 #هیچ# hić, anche #ایچ# ić, alcuno, qualcuno; — con negaz., nessuno; – hić-kas, alcuno, nessuno; phl. hêć, pârsi héi.
 #هیزم# hizam (ê), legno; coll.; legname, legna da ardere; — z. aêçma, skr. idhma, phl. éçum; rad. skr. idh, gr. αἴθω, bruciare.
 #هین# hin, qui, in questo luogo.
@@ -3078,8 +2876,7 @@ un altro, gr. ὁμόχρως.
 #یازید# yazîd, tps. di yâz.
 #یافت# yaft, tps. di yab.
 #یاقوت# yaşût, rubino; – yaşût i sard, il rubino giallo, cioè: il sole.
-#یال# yal, collo, cervice; braccio; criniera (dei cavalli);
-giubbe (dei leoni).
+#یال# yal, collo, cervice; braccio; criniera (dei cavalli); giubbe (dei leoni).
 #یزدان# yazdân (pl. usato per il sing.; cfr. ebr. Elôhim, Dio), Iddio; - z. yazata, antp. izates (Tac. Annal. 12, 13), skr. yagata, pârsi yazd (sing.); - rad. z. yaz, skr. yag, venerare.
 #یزدان‌پرست#  yazdân-parast (cfr. parastidan, adorare), ado ratore di Dio, devoto, pio, religioso; pl. yazdan parastân.
 #یزدن‌شناس# yazdan-shinâs (cfr. shinâkhtan, tpr. Shinas, conoscere), che riconosce Iddio, fedele a Dio.
@@ -3095,6 +2892,6 @@ giubbe (dei leoni).
 #یکسر# yak-sar (cfr, sar, capo), tutti insieme, tutti in folla (si dice di una folla di gente, di soldati, ecc.); - avv., insieme; totalmente, del tutto.
 #یل# yal, eroe, uomo prode; guerriero; pl. yalân.
 #یله# yalah, abbandonato, lasciato; -- y. kardan, abbandonare.
-#یلی# yall (suff. t), eroico, degno di un eroe; gagliardo, forte, robusto.
+#یلی# yall (suff. î), eroico, degno di un eroe; gagliardo, forte, robusto.
 #یمن# yaman, n. pr. di una regione dell' Arabia, Yemen.
 #یوز# yûz, cane da caccia; 2. raozha (SPIEGEL, Avesta Uebersetz. I, p. 122).
