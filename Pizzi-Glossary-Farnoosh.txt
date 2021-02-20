@@ -814,8 +814,8 @@
 #توئی# tû-y-î, per #تو ای# tû î, tu sei.
 #تهمتن# taham-tan (taham, tahm, z. takhma, forte, + tan, corpo), forte di corpo (soprannome di Rustem).
 #تهی# tihi, vuoto, privo, vacuo; phl. tahi.
-#تهیگاه# tihi-gâh (cfr. gâh, luogo, posto), parte laterale del ventre sopra l'addome, TÒ ÉTOXóvòpio, ipocondrio (termine medico).
-#تیر# tîr, freccia, dardo, strale; z. tighri, Mỹdol yop tiypr KaloīOI TÒ Tósuma (Eust. Dion. 976).
+#تهیگاه# tihi-gâh (cfr. gâh, luogo, posto), parte laterale del ventre sopra l'addome, gr. τὸ ὑποχόνδριον, ipocondrio (termine medico).
+#تیر# tîr, freccia, dardo, strale; z. tighri, <cit><quote xml:lang="grc">Μῆδοι γὰρ τίγριν καλοὺσι τὸ τόξευμα</quote> <bibl>(Eust. Dion. 976)</bibl></cit>.
 #تیرگی# tîragî (suff. î), oscurità, tenebre; nerezza, color nero.
 #تیره# tîrah, oscuro, nero, fosco, tenebroso; compar. tîrah tar più oscuro.
 
