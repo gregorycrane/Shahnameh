@@ -1251,7 +1251,7 @@
 #درید# darîd, e dos darrîd, tps. di <ref xml:lang="fas-tr">dar</ref>, darr.
 #دریغ# darîgh (ê), espressione di dolore, chimè! aime! (con ân, o êm).
 #دزد# duzd, tpr. di <ref xml:lang="fas-tr">duzdîd</ref>, rubare, portar via; sottrarre; - <foreign xml:lang="fas-tr">bi-duzdîd yâl</foreign> sottrasse il collo (per evitare il laccio di Rustem).
-#دزدید# du:dîd, tps. di <ref xml:lang="fas-tr">duzd</ref>.
+#دزدید# duzdîd, tps. di <ref xml:lang="fas-tr">duzd</ref>.
 #دزدیده# duzdidah (part. passato di duzdîd), furtivo; – bi-duzdidah, furtivamente.
 #دژ# dizh, castello, rocca; antp. dîdà, phl. dig; -- rad. 7. dia, skr. dih, accumulare.
 #دژخیم# dizhkhîm — 1) malvagio; — 2) carnefice.
@@ -1528,15 +1528,15 @@
 #زرین‌نیام# zarrin-niyâm (cfr.  <ref xml:lang="fas-tr">niyâm</ref>, fodero), adorno di aurea vagina.
 #زشت# zisht, cattivo, malvagio; turpe; maligno; – z. zoizhda.
 #زشت‌رو# zisht-rû (cfr.  <ref xml:lang="fas-tr">rû</ref>, rûy, volto), orrido in volto.
-#زعفران# ; zá'farân, zafferano; — z. shudan, farsi pallido, smorto come zafferano.
+#زعفران#  zá'farân, zafferano; — z. shudan, farsi pallido, smorto come zafferano.
 #زفر# zafar, bocca; strozza, fauci (di un mostro); z. zafra, phl. e pârsi zafar.
 #زلف# zulf, riccio, ricciolo (di capelli).
-#زمان# ; zaman, e xiloj zamânah (ar.), 1) tempo; tempo pre'sente, l'età d'oggi; età; — 2) destino, sorte, Fato; – zamânah na-dâd-ash zamâni dirang, il destino non gli concesse lunga età (lunga vita); – andar zaman, avv. in quello stesso momento, contemporaneamente; –
+#زمان# zaman, e xiloj zamânah (ar.), 1) tempo; tempo pre'sente, l'età d'oggi; età; — 2) destino, sorte, Fato; – zamânah na-dâd-ash zamâni dirang, il destino non gli concesse lunga età (lunga vita); – andar zaman, avv. in quello stesso momento, contemporaneamente; –
 
 
 <pb n="389"/>
 ân samân, avv. in quel tempo, allora; – har zaman, har zamâni, ad ogni istante, ad ogni momento; sem pre, incessantemente; — zamâni, per un momento.
-#زمانه# ; zamânah, v. zamân; - avv. per molto tempo, lungamente.
+#زمانه# zamânah, v. zamân; - avv. per molto tempo, lungamente.
 #زمی# zami (forma abbreviata, cfr. phl. damik, pârsi zami), v. <ref xml:lang="fas-tr">zamin</ref>.
 #زمین# zamin, terra, suolo; – z. zem, skr. sam, gr. χαμαί, χαμᾶζε, lat. humus.
 #زن# zan, tpr. di <ref xml:lang="fas-tr">zad</ref>, battere, percuotere, colpire; assaltare (con bar); -- <foreign xml:lang="fas-tr">bi-ham bar zadan</foreign> scompigliare, confondere e urtare insieme; distruggere; - z. e antp. gan, skr. han, gr. φον- in φονεύω, φόνος; ecc., nord. bana,
@@ -1722,7 +1722,7 @@
 
 
 <pb n="403"/>
-#سلیح# sili(ar.), arma; coll., armi.
+#سلیح# sili (ar.), arma; coll., armi.
 #سماک# simâk (ar.), la stella della spica.
 #سمن# saman, gelsomino.
 #سمند# samand — 1) agg., baio, rossastro; — asp i samand, cavallo baio; - 2) destriero.
@@ -2490,7 +2490,7 @@
 #مرغزار# murgh-zâr (suff. zâr), luogo dove stanno uccelli: luogo delizioso, giardino.
 #مرگ# marg, morte; z. mahrka, phl. e pârsi mârg, arm. mah.
 #مزه# mazah, gusto, sapore; – m. pâftan, gustare. assaporare.
-#مزیح# mazi(ar.), scherzi, facezie.
+#مزیح# mazi (ar.), scherzi, facezie.
 #مژده# muzhdah, lieta novella.
 #مژه# muzhah, e <foreign xml:lang="fas">مژّه</foreign>  <foreign xml:lang="fas-tr">muzhahah</foreign>, ciglio, ciglia; pl. muzhagân.
 
