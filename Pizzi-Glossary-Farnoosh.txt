@@ -189,7 +189,7 @@
 #انجمن# anguman, raccolta, congregazione, radunanza, schiera; gente; a. kardan, raccogliere, radunare; – sar i anguman, capo di un popolo, principe; — bihar anguman, presso tutti, fra tutti; - z. hangamana (ham, insieme + gam, venire), phl. hanguman (sir.! hanzuman), cfr. skr. sangama.
 #آنچت# ân-ci-t, per <foreign xml:lang="fas-tr">ân čih at</foreign>.
 #آنچه# ân-čih, ciò che, quella cosa che ...
-#اند# and, 3a pers. pl. del verbo essere; essi, esse sono; ki-y-and (per kih and), chi sono?; z. heñti, antp. hantiy, . skr. santi, gr. εἰσί, ἐντί, lat. sunt (forma primit. asanti, rad. as).
+#اند# and, 3a pers. pl. del verbo essere; essi, esse sono; kî-y-and (per kih and), chi sono?; z. heñti, antp. hantiy, . skr. santi, gr. εἰσί, ἐντί, lat. sunt (forma primit. asanti, rad. as).
 #انداخت# andâkht, tps. di <ref xml:lang="fas-tr">andâz</ref>.
 #انداز# andâz, tpr. di <ref xml:lang="fas-tr">andâkht</ref>, gettare, gettar via, scagliare, cacciare; - <foreign xml:lang="fas-tr">andar andâkhtan</foreign> intr. urtarsi, incontrarsi (in battaglia); – phl. andâkhtano, forse z. hâm + tač
 (SPIEGEL, Die trad. Litt. der Pârsen, p. 361).
@@ -847,7 +847,7 @@
 #جاویدان# gâvîdân, eterno; avv. eternamente; – tâ gâvîdân, per sempre.
 #جاوید# gâvîd, eterno; avv. eternamente, in eterno; —bi- gâvîd, in eterno; --  <foreign xml:lang="fas-tr">z. yavaêtât</foreign> (eternità, yu, età,  dat. yaouê + suff. tất), arm vaiết.
 #جاه# gâh, gloria, dignità, valore, potenza, alto grado.
-#جای# gay , v. gd .
+#جای# gay , v. gâ.
 #جایگاه# gây-gâh (cfr.  <ref xml:lang="fas-tr">gâh</ref>, luogo), luogo, posto, regione.
 
 
@@ -1111,19 +1111,19 @@
 #خنک# khunuk, felice, beato; kh. ân kih, beato colui che ..!
 #خنید# khanîd, tps. di <ref xml:lang="fas-tr">khan</ref>.
 #خواب# khvâb, tpr. di <ref xml:lang="fas-tr">khuft</ref> e khvâbîd, dormire; ~-- íashm khvâbidan, chiuder gli occhi (per l' ira); -- z. Qap, skr. svap. ulus khvâb, sonno; sogno; sonnolenza; ~ pur khváb, pieno di sonnolenza (si dice degli occhi delle donne che, secondo gli Orientali, son più belli quando sono semichiusi dal sonno); — gây i khváb, luogo da dormire; — z. qafna, skr. svapna, gr. ὕπνος, lat. somnus (per sopnus), nord. svefn.
-#خوابان# khvâbân, tpr. di <ref xml:lang="fas-tr">khvâbând</ref> (causale di khuftano khvâbidan, tpr. khvâb, dormire), mettere a giacere, adagiare.
+#خوابان# khvâbân, tpr. di <ref xml:lang="fas-tr">khvâbând</ref> (causale di khuftan o khvâbidan, tpr. khvâb, dormire), mettere a giacere, adagiare.
 #خواباند# khvâbând, tps. di <ref xml:lang="fas-tr">khvâbân</ref>.
 #خوابید# khvâbîd, tps. di <ref xml:lang="fas-tr">khvâb</ref>, cfr. khuft.
 #خواجه# khvâģah, padre di famiglia; principe, signore.
-#خوار# khvâr (anche <foreign xml:lang="fas">خار</foreign>  <foreign xml:lang="fas-tr">khâr)</foreign>, poco, scarso; vile, abietto, ignominioso; compar. khvâr-tar, che ha minor pregio; avv. pianamente, sommessamente; ignominiosamente; - 'kh. giriftan, stimar poco, disprezzare; - kh. gashtan, divenir vile, spregiato, perder di pregio; — z. qar, skr. svar, disprezzare, vituperare.
+#خوار# khvâr (anche <foreign xml:lang="fas">خار</foreign>  <foreign xml:lang="fas-tr">khâr)</foreign>, poco, scarso; vile, abietto, ignominioso; compar. khvâr-tar, che ha minor pregio; avv. pianamente, sommessamente; ignominiosamente; - kh. giriftan, stimar poco, disprezzare; - kh. gashtan, divenir vile, spregiato, perder di pregio; — z. qar, skr. svar, disprezzare, vituperare.
 
 
 <pb n="363"/>
-#خواری# khvârî (suff. <foreign xml:lang="fas-tr">a</foreign>), viltà; onta, ignominia; — bi-khvâri, avv. ignominiosamente.
+#خواری# khvârî (suff. <foreign xml:lang="fas-tr">î</foreign>), viltà; onta, ignominia; — bi-khvâri, avv. ignominiosamente.
 #خواست# khvâst, tps. di <ref xml:lang="fas-tr">khvâh</ref>.
-#خواستار# khvâstâr (suff. âr), cercatore, che desidera, che cerca; esattore (esecutore di una vendetta); – kh. shudan, e kh. kardan, cercare.
+#خواستار# khvâstâr (suff. âr), cercatore, che desidera, che cerca; esattore (esecutore di una vendetta); – <foreign xml:lang="fas-tr">kh. shudan</foreign>, e <foreign xml:lang="fas-tr">kh. kardan</foreign>, cercare.
 #خواسته# khvâstah, part. di khvâstan, usato come nome, v. <ref xml:lang="fas-tr">khvâh</ref>.
-#خوالیگر# khvâli-gar (khváli, khivâlî, cibo + suff. <foreign xml:lang="fas-tr">gar</foreign>), cuoco.
+#خوالیگر# khvâli-gar (khvâli, khivâlî, <gloss>cibo</gloss> + suff. <foreign xml:lang="fas-tr">gar</foreign>), cuoco.
 #خوان# khvân, tpr. di <ref xml:lang="fas-tr">khvând</ref>, chiamare, appellare; gridare; nominare; dare, imporre un nome; – pish khvândan, chiamare a sè; — z. qan, skr. svan, lat. son-o.
 #خوان# khvân, tavola, mensa; - kh. ârâstan, imbandir le mense; — kh. nihâdan, porre le mense, banchettare.
 #خواند# khvând, tps. di <ref xml:lang="fas-tr">khvân</ref>.
@@ -2181,7 +2181,7 @@
 #کنگره# kangarah, terrazzo, loggia.
 #کنون# kunûn, v. <ref xml:lang="fas-tr">aknûn</ref>.
 #کنیز# kanîz, pl. kanîzân, fanciulla, donzella; cfr. z. kainin, kainika, kanya, skr. kanyà, phl. e pârsi kanik (dal z. kainika).
-#کو# Sk-, per kihû, il quale, la quale; forma più intensiva, come se volesse dire: quello stesso che ...
+#کو# k-û, per kih û, il quale, la quale; forma più intensiva, come se volesse dire: quello stesso che ...
 #کوب# kûb, tpr. di <ref xml:lang="fas-tr">kûft</ref>, battere, colpire; pestare, tritare.
 #کوتاه# kûtah, corto, breve; lieve, leggero (in senso figurato); - k.kardan, abbreviare; alleggerire; - metaf., alieno, estraneo, repugnante (con az).
 #کوته# kûtah, v. <ref xml:lang="fas-tr">kûtah</ref>.
@@ -2521,7 +2521,7 @@
 #موبددل# mûbad-dil (cfr.  <ref xml:lang="fas-tr">dil</ref>, cuore, animo), che ha il cuore di un sapiente.
 #موج# mavg (ar.), onda, flutto.
 #موزه# mûzah, scarpa; coll., le scarpe.
-#موی# mây, capello; coll., capelli; pelo, peli; phl. e pârsi mûi.
+#موی# mûy, capello; coll., capelli; pelo, peli; phl. e pârsi mûi.
 #مه# mah, v. <ref xml:lang="fas-tr">mâh</ref>.
 #مه# mih, grande; pl. mihân, grandi del regno, principi; z. maz, mas, skr. mah, maha, gr. μεγα- lat. mag-nus.
 #مهتر# mihtar (forma comparativa di mih, grande), maggiore (di età o di grado); principe, capo, capitano; re, sovrano; pl. mihtarán, grandi di corte.
@@ -2652,7 +2652,7 @@
 #نشین# nishîn, tpr. di <ref xml:lang="fas-tr">nishast</ref>, sedere, assidersi, mettersi a sedere; - inf. nishastan (usato come nome), posto, luogo da sedere; – z. nis + had, cfr. antp. niyasâdayam (io posi), skr. sad, gr. ἕζομαι, gr. ἑdζομαι, lat. sedeo, got. Sitan.
 #نظّاره# nazzărah (ar.), spettatore; osservatore (anche s, lai nažârah (- ), per il verso)...
 #نعره# na'rah (ar.), urlo, ruggito; gemito, lamento.
-#نعل# nál (ar.), scarpa; ferro dei cavalli, dei cammelli, ecc.
+#نعل# na'l (ar.), scarpa; ferro dei cavalli, dei cammelli, ecc.
 #نغز# naghz, bello, elegante, gradevole, lusinghiero, blando (si dice di un discorso).
 #نفرین# nafrîn, nifrin (per nâ-âfarin, VULLERS), biasimo, censura; — n. kardan, biasimare, censurare; maledire.
 #نفس# nafas (ar.), spirito, anelito, fiato; - <foreign xml:lang="fas-tr">nn. gusistan</foreign> (troncare il fiato) togliere la vita, far morire.
