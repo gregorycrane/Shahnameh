@@ -1,7 +1,6 @@
 <pb n="299"/>
 <head>VOCABOLARIO</head>
-#آ# â
-#آی# ây, tpr. di <ref xml:lang="fas-tr">amad</ref>, pres. ayam, imperat. â, bi-y-â, biy-ây, venire, arrivare; accadere, avvenire (di un fatto); sopravvenire, capitare; inf. amadan (usato come nome) venuta, arrivo; - <foreign xml:lang="fas-tr">andar âmadan</foreign> entrare; salire (a cavallo); venir giù, calare; discendere (da cavallo, con az, o zi-); - <foreign xml:lang="fas-tr">bar â madan</foreign> venir su, spuntare, sporgere, sollevarsi, levarsi; passare (del tempo); — birûn âmadan, uscire, andar fuori; — pish âmadan, venire innanzi, avanzarsi, presentarsi; sopravvenire; - <foreign xml:lang="fas-tr">dar amadan</foreign> entrare; metaf., cominciare; - <foreign xml:lang="fas-tr">farâz âmadan</foreign> sopravvenire, venire incontro (si dice di cosa che si prevede, come la morte, ecc.); - <foreign xml:lang="fas-tr">furûd âmadan</foreign> discendere; smontar da cavallo per fermarsi in un luogo; — il tps. <foreign xml:lang="fas-tr">âmad</foreign> sta per â-gma-d, z. â-gam, antp. gam, skr. gam (cfr. phl. matano), got. quiman.
+#آ# â, #آی# ây, tpr. di <ref xml:lang="fas-tr">amad</ref>, pres. ayam, imperat. â, bi-y-â, biy-ây, venire, arrivare; accadere, avvenire (di un fatto); sopravvenire, capitare; inf. amadan (usato come nome) venuta, arrivo; - <foreign xml:lang="fas-tr">andar âmadan</foreign> entrare; salire (a cavallo); venir giù, calare; discendere (da cavallo, con az, o zi-); - <foreign xml:lang="fas-tr">bar â madan</foreign> venir su, spuntare, sporgere, sollevarsi, levarsi; passare (del tempo); — birûn âmadan, uscire, andar fuori; — pish âmadan, venire innanzi, avanzarsi, presentarsi; sopravvenire; - <foreign xml:lang="fas-tr">dar amadan</foreign> entrare; metaf., cominciare; - <foreign xml:lang="fas-tr">farâz âmadan</foreign> sopravvenire, venire incontro (si dice di cosa che si prevede, come la morte, ecc.); - <foreign xml:lang="fas-tr">furûd âmadan</foreign> discendere; smontar da cavallo per fermarsi in un luogo; — il tps. <foreign xml:lang="fas-tr">âmad</foreign> sta per â-gma-d, z. â-gam, antp. gam, skr. gam (cfr. phl. matano), got. quiman.
 #آب# âb, 1) acqua; fiume; cârah i âb, l'arte di guidar le acque per i campi; – 2) lagrime, pianto; – z. e skr. ap, antp. api, lat. aqua, got. ahva (fiume); - 3)  <foreign xml:lang="fas-tr">Ab</foreign> il fiume Osso che divideva il regno del Turan dall' Iran, e che Afrasyâb però di tanto in tanto passava, onde nascevano le guerre così frequenti tra Irani e Turani. Questo confine fu segnato al tempo del re <pb n="300"/> Minôčihr con una freccia che slanciata da un'altura cadde sulle sponde del fiume, e determinò così il confine dei due regni. Quest' ultima circostanza non si trova nel Libro dei Re (cfr.  SPIEGEL, Erânische Alterthumskunde I, p. 573).
 #ابا# abâ, forma più antica di bâ che è più comune (v. bâ).
 #آباد# âbâd, ameno, giocondo; lieto, allegro, contento, felice; -- â. dâshtan, conservare in prospero e florido stato; â. kardan, abbellire, adornare; coltivare (la terra).
@@ -1068,7 +1067,7 @@
 #خروش# khurûsh, tpr. di <ref xml:lang="fas-tr">khurûshîd</ref>, gridare, urlare, fremere; part. khurûshân, urlante, fremente; z. khruç, skr. kruc.
 #خروش# khurûsh, voce, grido; lamento, gemito; urlo; – kh. bar âmadan, sorgere un grido, farsi sentire un grido; - kh. bar avardan, levare un grido (di guerra).
 #خروشید# khurushîd, tps. di <ref xml:lang="fas-tr">khurûsh</ref>.
-#خزً# khazz, (ar.), panno di seta (sempre con <ref xml:lang="fas-tr">harir</ref>, v.).
+#خزّ# khazz, (ar.), panno di seta (sempre con <ref xml:lang="fas-tr">harir</ref>, v.).
 #خزان# khazân, autunno.
 #خسپ# khusp, tpr. di <ref xml:lang="fas-tr">khuspîd</ref>, dormire; z. qafs.
 #خسپید# khuspîd, tps. di <ref xml:lang="fas-tr">khusp</ref>.
@@ -1523,9 +1522,9 @@
 #زره# sirih, corazza, lorica; — z. zrâdha, phl. zrâë.
 #زره‌دار# zirih-dar (cfr.  <ref xml:lang="fas-tr">dâshtan</ref>, tpr. dâr, avere), fornito di corazza, loricato.
 #زریر# sarir, e zirir, nome di un'erba usata dai tintori; – rûy ham-cûn zarir, volto pallido come l'erba, smorto e livido come l'erba.
-#زرَین# sarrîn (suff. <foreign xml:lang="fas-tr">în</foreign>), aureo, fabbricato in oro; cfr. z. zaranaêna.
+#زرّین# sarrîn (suff. <foreign xml:lang="fas-tr">în</foreign>), aureo, fabbricato in oro; cfr. z. zaranaêna.
 #زرین‌ستام# zarrin-sitâm (cfr.  <ref xml:lang="fas-tr">sitâm</ref>, briglie, barde, ornamenti d'un cavallo), cavallo che ha le briglie e le barde dorate.
-#زرین‌نیام# zarrin-niyâm (cfr.  <ref xml:lang="fas-tr">niyâm</ref>, fodero), adorno di aurea vagina.
+#زرّین‌نیام# zarrin-niyâm (cfr.  <ref xml:lang="fas-tr">niyâm</ref>, fodero), adorno di aurea vagina.
 #زشت# zisht, cattivo, malvagio; turpe; maligno; – z. zoizhda.
 #زشت‌رو# zisht-rû (cfr.  <ref xml:lang="fas-tr">rû</ref>, rûy, volto), orrido in volto.
 #زعفران#  za'farân, zafferano; — z. shudan, farsi pallido, smorto come zafferano.
@@ -2214,7 +2213,7 @@
 #کیمیا# kimiyà (dal gr. χημεία), alchimia, magia; frode, inganno; intenzione di far male (v. per questa parola un articolo del Port: «Chemie oder Chymie?», nella Zeitschrift der D. M. G. XXX, p. 6),
 #کین# kîn. <ref xml:lang="fas-tr">kinah</ref>.
 #کین# k-în, per kih in.
-#کیند# ki-y-and, per kih and, v. <ref xml:lang="fas-tr">kih</ref>.
+#کیند# ki-y-and, per <ref xml:lang="fas-tr">kih</ref>, <ref xml:lang="fas-tr">and</ref>, v. <ref xml:lang="fas-tr">kih</ref>.
 #کی‌نژاد# kay-nizhâd (cfr.  <ref xml:lang="fas-tr">nizhâd</ref>, nascita), che è di nascita, di stirpe reale.
 #کینه# kînah (ê), e <foreign xml:lang="fas">کین</foreign>  <foreign xml:lang="fas-tr">kin</foreign> (e), vendetta; guerra; rabbia, furore, amarezza dell' animo; desiderio di vendetta; — z. kaêna, phl. kin.
 #کینه‌جوی# kînah-gûy, (cfr.  <ref xml:lang="fas-tr">sustan</ref>, tpr. sûy, cercare), desideroso di vendicarsi, vendicativo; anche: desideroso di battaglia.

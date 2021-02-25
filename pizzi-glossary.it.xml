@@ -114,7 +114,7 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 ابا
 </head>
 <head xml:lang="fas-tr">abâ</head>
-<p>forma più antica di bâ che è più comune (<term n="v">vedi</term> <ref xml:lang="fas-tr">bâ</ref>).
+<p>forma più antica di bâ che è più comune (<term n="v">vedi</term> <foreign xml:lang="fas-tr">bâ</foreign>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="âbâd-1">
@@ -1313,7 +1313,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 اند
 </head>
 <head xml:lang="fas-tr">and</head>
-<p>3a <term n="pers">persona</term> <term n="pl">plurale</term> del verbo essere; essi, esse sono; ki-y-and (per kih and), chi sono?; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">heñti</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">hantiy</foreign>, . <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">santi</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">εἰσί</foreign>, ἐντί, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">sunt</foreign> (forma primit. asanti, <term n="rad">radice</term> as).
+<p>3a <term n="pers">persona</term> <term n="pl">plurale</term> del verbo essere; essi, esse sono; kî-y-and (per kih and), chi sono?; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">heñti</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">hantiy</foreign>, . <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">santi</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">εἰσί</foreign>, ἐντί, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">sunt</foreign> (forma primit. asanti, <term n="rad">radice</term> as).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="andâkht-1">
@@ -1960,7 +1960,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بادبان
 </head>
 <head xml:lang="fas-tr">bâd-bân</head>
-<p>(<term n="suff">suffisso</term> bân), vela; strato, distesa.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), vela; strato, distesa.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bâd-pâ-1">
@@ -2795,7 +2795,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بسا
 </head>
 <head xml:lang="fas-tr">basa</head>
-<p>(<term n="suff">suffisso</term> â), oh quanto!
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">â</foreign>), oh quanto!
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bast-1">
@@ -3000,7 +3000,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بودنی
 </head>
 <head xml:lang="fas-tr">bûdanî</head>
-<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>, <term n="cfr">confronta</term> bûdan <term n="inf">infinitivo</term> di <ref xml:lang="fas-tr">bû</ref>), che può avvenire; che deve avvenire, cosa destinata; <term n="coll">colletivo</term> le cose future; <foreign xml:lang="fas-tr">bûdanê kâr</foreign>, cosa destinata.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>, <term n="cfr">confronta</term> bûdan <term n="inf">infinitivo</term> <foreign xml:lang="fas-tr">di bû</foreign>), che può avvenire; che deve avvenire, cosa destinata; <term n="coll">colletivo</term> le cose future; <foreign xml:lang="fas-tr">bûdanê kâr</foreign>, cosa destinata.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bûr-1">
@@ -3035,7 +3035,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 بوستان
 </head>
 <head xml:lang="fas-tr">bûstân</head>
-<p>(bûy, odore + <term n="suff">suffisso</term> stân), giardino.
+<p>(bûy, odore + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">stân</foreign>), giardino.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bûsah-1">
@@ -3794,7 +3794,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 پدیدار
 </head>
 <head xml:lang="fas-tr">padîdâr</head>
-<p>(<term n="suff">suffisso</term> âr), che apparisce, che si presenta; <foreign xml:lang="fas-tr"><abbr n="p">padîdâr</abbr> bûdan</foreign>, presentarsi.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), che apparisce, che si presenta; <foreign xml:lang="fas-tr"><abbr n="p">padîdâr</abbr> bûdan</foreign>, presentarsi.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="padhir-1">
@@ -4349,7 +4349,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 پود
 </head>
 <head xml:lang="fas-tr">pûd</head>
-<p>ripieno, i fili con cui si tesse l'ordito di una tela (per le frasi, <term n="v">vedi</term> <ref xml:lang="fas-tr">târ</ref>).
+<p>ripieno, i fili con cui si tesse l'ordito di una tela (per le frasi, <term n="v">vedi</term> <foreign xml:lang="fas-tr">târ</foreign>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="pûr-1">
@@ -4533,7 +4533,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 پهنا
 </head>
 <head xml:lang="fas-tr">pahnâ</head>
-<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">â</foreign>, col <term n="gen">genitivo</term> pahnây i), larghezza, am piezza.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">â</foreign>, col <term n="gen">genitivo</term> <foreign xml:lang="fas-tr">pahnây i</foreign>), larghezza, am piezza.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="pay-1">
@@ -4977,7 +4977,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 تابناک
 </head>
 <head xml:lang="fas-tr">tâb-nâk</head>
-<p>(<term n="suff">suffisso</term> nâk), splendente, fulgido.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">nâk</foreign>), splendente, fulgido.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="tâbût-1">
@@ -4993,7 +4993,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 تابید
 </head>
 <head xml:lang="fas-tr">tâbîd</head>
-<p><term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">tâb</ref> (<term n="cfr">confronta</term> tâft).
+<p><term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">tâb</ref> (<term n="cfr">confronta</term> <foreign xml:lang="fas-tr">tâft</foreign>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="tâg-1">
@@ -5412,7 +5412,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 تگاور
 </head>
 <head xml:lang="fas-tr">tag-avar</head>
-<p>(<term n="suff">suffisso</term> âvar) — </p>
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âvar</foreign>) — </p>
 <div type="textpart" subtype="wsense" n="1">
 <p>veloce, lesto; - </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -5951,7 +5951,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 جای
 </head>
 <head xml:lang="fas-tr">gay</head>
-<p><term n="v">vedi</term> gd .
+<p><term n="v">vedi</term> gâ.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gây-gâh-1">
@@ -6351,7 +6351,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 جهان‌بان
 </head>
 <head xml:lang="fas-tr">gihân-bần</head>
-<p>(<term n="suff">suffisso</term> bân), custode del mondo, Iddio.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), custode del mondo, Iddio.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ģihân-bîn-1">
@@ -6526,7 +6526,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 چاه‌سار
 </head>
 <head xml:lang="fas-tr">câh-sâr</head>
-<p>(<term n="suff">suffisso</term> sâr), fossa.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">sâr</foreign>), fossa.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čâh-kan-1">
@@ -7169,7 +7169,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خاکسار
 </head>
 <head xml:lang="fas-tr">khâk-sâr</head>
-<p>(<term n="suff">suffisso</term> sâr), simile alla polvere della terra; vile, abietto; - kh. kardan, render vile, umi liare, avvilire, far onta.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">sâr</foreign>), simile alla polvere della terra; vile, abietto; - kh. kardan, render vile, umi liare, avvilire, far onta.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="khâm-1">
@@ -7739,7 +7739,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خوابان
 </head>
 <head xml:lang="fas-tr">khvâbân</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">khvâbând</ref> (causale di khuftano khvâbidan, <term n="tpr">tema di presente</term> <foreign xml:lang="fas-tr">khvâb</foreign>, dormire), mettere a giacere, adagiare.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">khvâbând</ref> (causale di khuftan o khvâbidan, <term n="tpr">tema di presente</term> <foreign xml:lang="fas-tr">khvâb</foreign>, dormire), mettere a giacere, adagiare.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="khvâbând-1">
@@ -7771,7 +7771,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خوار
 </head>
 <head xml:lang="fas-tr">khvâr</head>
-<p>(anche <foreign xml:lang="fas">خار</foreign>  <foreign xml:lang="fas-tr">khâr)</foreign>, poco, scarso; vile, abietto, ignominioso; <term n="compar">comparativo</term> <foreign xml:lang="fas-tr">khvâr-tar</foreign>, che ha minor pregio; <term n="avv">avverbio</term> pianamente, sommessamente; ignominiosamente; - 'kh. giriftan, stimar poco, disprezzare; - kh. gashtan, divenir vile, spregiato, perder di pregio; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">qar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">svar</foreign>, disprezzare, vituperare.
+<p>(anche <foreign xml:lang="fas">خار</foreign>  <foreign xml:lang="fas-tr">khâr)</foreign>, poco, scarso; vile, abietto, ignominioso; <term n="compar">comparativo</term> <foreign xml:lang="fas-tr">khvâr-tar</foreign>, che ha minor pregio; <term n="avv">avverbio</term> pianamente, sommessamente; ignominiosamente; - kh. giriftan, stimar poco, disprezzare; - kh. gashtan, divenir vile, spregiato, perder di pregio; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">qar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">svar</foreign>, disprezzare, vituperare.
 
 
 <pb n="363"/>
@@ -7782,7 +7782,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خواری
 </head>
 <head xml:lang="fas-tr">khvârî</head>
-<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">a</foreign>), viltà; onta, ignominia; — bi-khvâri, <term n="avv">avverbio</term> ignominiosamente.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), viltà; onta, ignominia; — bi-khvâri, <term n="avv">avverbio</term> ignominiosamente.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="khvâst-1">
@@ -7798,7 +7798,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خواستار
 </head>
 <head xml:lang="fas-tr">khvâstâr</head>
-<p>(<term n="suff">suffisso</term> âr), cercatore, che desidera, che cerca; esattore (esecutore di una vendetta); – kh. shudan, e kh. kardan, cercare.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), cercatore, che desidera, che cerca; esattore (esecutore di una vendetta); – <foreign xml:lang="fas-tr"><abbr n="kh">khvâstâr</abbr> shudan</foreign>, e <foreign xml:lang="fas-tr"><abbr n="kh">khvâstâr</abbr> kardan</foreign>, cercare.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="khvâstah-1">
@@ -7814,7 +7814,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 خوالیگر
 </head>
 <head xml:lang="fas-tr">khvâli-gar</head>
-<p>(khváli, khivâlî, cibo + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gar</foreign>), cuoco.
+<p>(khvâli, khivâlî, <gloss>cibo</gloss> + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gar</foreign>), cuoco.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="khvân-1">
@@ -8467,7 +8467,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دربان
 </head>
 <head xml:lang="fas-tr">dar-bân</head>
-<p>(<term n="suff">suffisso</term> bân), portinaio.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), portinaio.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="dirakht-1">
@@ -8725,7 +8725,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دزدیده
 </head>
 <head xml:lang="fas-tr">duzdidah</head>
-<p>(<term n="part">participio</term> passato di duzdîd), furtivo; – bi-duzdidah, furtivamente.
+<p>(<term n="part">participio</term> <foreign xml:lang="fas-tr">passato di duzdîd</foreign>), furtivo; – bi-duzdidah, furtivamente.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="dizh-1">
@@ -8862,7 +8862,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دشوار
 </head>
 <head xml:lang="fas-tr">dushvâr</head>
-<p>(<term n="suff">suffisso</term> vâr), difficile, malagevole; grave, sgradito.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vâr</foreign>), difficile, malagevole; grave, sgradito.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="dushvarî-1">
@@ -8897,7 +8897,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 <div type="textpart" subtype="wsense" n="1">
 <p>cuore, animo, mente; <term n="pl">plurale</term> dilhâ; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
-<p>interno di qualunque cosa, parte intima; — dil i sang, luogo petroso, burrone (<term n="lett">letteralmente</term> cuor della pietra o della rupe; VULLERS: fodina vel cavum montis, <term n="pers">persona</term> kân u gavf i kûh); – <foreign xml:lang="fas-tr"><abbr n="d">dil</abbr> tâftan</foreign>, volgere il cuore ad una cosa, inclinare, desiderare; – <foreign xml:lang="fas-tr"><abbr n="d">dil</abbr> nihâdan</foreign>, col. <term n="dat">dativo</term>, volgere il cuore a qualche cosa, attendere, avere una data intenzione; con bar, accomodarsi, acquietarsi ad una cosa; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">zaredhaya</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">hridaya</foreign>, <term n="arm:https://en.wikipedia.org/wiki/Classical_Armenian">Classical Armenian</term> <foreign xml:lang="xcl-tr">çirt</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">e</foreign> parsi dil, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">κήρ</foreign>, καρδἰα, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">cor</foreign>, cord-is, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">Hairto</foreign>, <term n="nord:https://en.wikipedia.org/wiki/Old_Norse">Old Norse</term> <foreign xml:lang="non">hjarta</foreign>.
+<p>interno di qualunque cosa, parte intima; — dil i sang, luogo petroso, burrone (<term n="lett">letteralmente</term> cuor della pietra o della rupe; VULLERS: fodina vel cavum montis, <term n="pers">persona</term> <foreign xml:lang="fas-tr">kân u gavf i kûh</foreign>); – <foreign xml:lang="fas-tr"><abbr n="d">dil</abbr> tâftan</foreign>, volgere il cuore ad una cosa, inclinare, desiderare; – <foreign xml:lang="fas-tr"><abbr n="d">dil</abbr> nihâdan</foreign>, col. <term n="dat">dativo</term>, volgere il cuore a qualche cosa, attendere, avere una data intenzione; con bar, accomodarsi, acquietarsi ad una cosa; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">zaredhaya</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">hridaya</foreign>, <term n="arm:https://en.wikipedia.org/wiki/Classical_Armenian">Classical Armenian</term> <foreign xml:lang="xcl-tr">çirt</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">e</foreign> parsi dil, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">κήρ</foreign>, καρδἰα, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">cor</foreign>, cord-is, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">Hairto</foreign>, <term n="nord:https://en.wikipedia.org/wiki/Old_Norse">Old Norse</term> <foreign xml:lang="non">hjarta</foreign>.
 </p>
 </div>
 </div>
@@ -9037,7 +9037,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دمار
 </head>
 <head xml:lang="fas-tr">damar</head>
-<p>(<term n="suff">suffisso</term> âr), alito, spirito.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), alito, spirito.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="damâvand-1">
@@ -9325,7 +9325,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دیدار
 </head>
 <head xml:lang="fas-tr">dîdàr</head>
-<p>(<term n="suff">suffisso</term> âr), vista, aspetto, sembiante, presenza di una persona.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), vista, aspetto, sembiante, presenza di una persona.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="didah-1">
@@ -9414,7 +9414,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 دیوانه
 </head>
 <head xml:lang="fas-tr">divânah</head>
-<p>(<term n="suff">suffisso</term> ânah), demoniaco, diabolico, addetto ai Dêvi; furioso, pazzo, forsennato (per amore, per ira, ecc.); <term n="pl">plurale</term> divânagân.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">ânah</foreign>), demoniaco, diabolico, addetto ai Dêvi; furioso, pazzo, forsennato (per amore, per ira, ecc.); <term n="pl">plurale</term> divânagân.
 
 
 <pb n="378"/>
@@ -10068,7 +10068,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 روزبان
 </head>
 <head xml:lang="fas-tr">rûz-bân</head>
-<p>(<term n="suff">suffisso</term> bân), custode, guardiano.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), custode, guardiano.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="rûzgâr-1">
@@ -10366,7 +10366,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 زابلستان
 </head>
 <head xml:lang="fas-tr">zábul-i-stân</head>
-<p>(anche zábul-sitân, per il verso, <term n="suff">suffisso</term> Istân), il paese del Zâbul.
+<p>(anche zábul-sitân, per il verso, <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">Istân</foreign>), il paese del Zâbul.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sâbulî-1">
@@ -10571,7 +10571,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 زردفام
 </head>
 <head xml:lang="fas-tr">sard-fâm</head>
-<p>(<term n="suff">suffisso</term> fâm), pallido, smorto.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">fâm</foreign>), pallido, smorto.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="zardah-1">
@@ -10632,7 +10632,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 
 <div type="textpart" subtype="entry" xml:id="zarrin-niyâm-1">
 <head xml:lang="fas">
-زرین‌نیام
+زرّین‌نیام
 </head>
 <head xml:lang="fas-tr">zarrin-niyâm</head>
 <p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">niyâm</ref>, fodero), adorno di aurea vagina.
@@ -11271,7 +11271,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 سبکسار
 </head>
 <head xml:lang="fas-tr">sabuk-sâr</head>
-<p>(<term n="suff">suffisso</term> sâr), vanitoso, precipitoso; stolido; vile, ignobile.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">sâr</foreign>), vanitoso, precipitoso; stolido; vile, ignobile.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sipâr-1">
@@ -11920,7 +11920,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 سزاوار
 </head>
 <head xml:lang="fas-tr">sază-vâr</head>
-<p>(<term n="suff">suffisso</term> vâr), conveniente, decente; lecito; degno, meritevole; - <term n="avv">avverbio</term>, decentemente, conveniente mente, come conviene.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vâr</foreign>), conveniente, decente; lecito; degno, meritevole; - <term n="avv">avverbio</term>, decentemente, conveniente mente, come conviene.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sasîd-1">
@@ -12238,7 +12238,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 سوگوار
 </head>
 <head xml:lang="fas-tr">sûg-vâr</head>
-<p>(<term n="suff">suffisso</term> vâr), addolorato, dolente.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vâr</foreign>), addolorato, dolente.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sivum-1">
@@ -12599,7 +12599,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 
 
 <pb n="408"/>
-#شاهوارر shâk-vâr (<term n="suff">suffisso</term> vâr), reale, principesco, degno di un re.
+#شاهوارر shâk-vâr (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vâr</foreign>), reale, principesco, degno di un re.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="shâhî-1">
@@ -12687,7 +12687,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 شبستان
 </head>
 <head xml:lang="fas-tr">shabistân</head>
-<p>(<term n="suff">suffisso</term> stân), </p>
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">stân</foreign>), </p>
 <div type="textpart" subtype="wsense" n="1">
 <p>camera da letto; gineceo, harem; – <term n="avv">avverbio</term>, nel gineceo; <foreign xml:lang="fas-tr">hamah shabistân</foreign>, per tutto il gineceo, in ogni parte di esso; — </p></div>
 <div type="textpart" subtype="wsense" n="2">
@@ -13529,7 +13529,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 علفزار
 </head>
 <head xml:lang="fas-tr">'alaf-zâr</head>
-<p>(a. p., <term n="suff">suffisso</term> zâr), luogo dove trovasi foraggio ('alaf, ar.), luogo da pascolare, pascolo.
+<p>(a. p., <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">zâr</foreign>), luogo dove trovasi foraggio ('alaf, ar.), luogo da pascolare, pascolo.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ghamarî-1">
@@ -13585,7 +13585,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 عنبرآگین
 </head>
 <head xml:lang="fas-tr">'anbar-âgîn</head>
-<p>(a. p., <term n="suff">suffisso</term> âgin), cosparso di ambra.
+<p>(a. p., <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âgin</foreign>), cosparso di ambra.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ghûd-1">
@@ -14482,7 +14482,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کار
 </head>
 <head xml:lang="fas-tr">kâr</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">kisht</ref>, arare, seminare, piantare (alberi), lavorar la terra; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">karesh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">krish</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">Kishtano</foreign>, (<term n="cfr">confronta</term> kashîdan).
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">kisht</ref>, arare, seminare, piantare (alberi), lavorar la terra; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">karesh</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">krish</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">Kishtano</foreign>, (<term n="cfr">confronta</term> <foreign xml:lang="fas-tr">kashîdan</foreign>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kâr-3">
@@ -14506,7 +14506,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کارزار
 </head>
 <head xml:lang="fas-tr">kâr-zâr</head>
-<p>(<term n="suff">suffisso</term> zâr), battaglia; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">kârigâr</foreign>, pârsi kârizhâr; <term n="cfr">confronta</term> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">kâra</foreign>, esercito.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">zâr</foreign>), battaglia; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">kârigâr</foreign>, pârsi kârizhâr; <term n="cfr">confronta</term> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">kâra</foreign>, esercito.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kâr-sâz-1">
@@ -14522,7 +14522,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کاروان
 </head>
 <head xml:lang="fas-tr">kâr-vân</head>
-<p>(<term n="suff">suffisso</term> vân per bân), turba di mercanti, carovana.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vân per bân</foreign>), turba di mercanti, carovana.
 
 
 <pb n="424"/>
@@ -14557,7 +14557,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کاستی
 </head>
 <head xml:lang="fas-tr">kastî</head>
-<p>(<term n="suff">suffisso</term> î), mancanza, difetto; torto; costume disonesto; sventura, infortunio.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), mancanza, difetto; torto; costume disonesto; sventura, infortunio.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kâshkî-1">
@@ -14621,7 +14621,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کام‌گار
 </head>
 <head xml:lang="fas-tr">kâm-gâr</head>
-<p>(<term n="suff">suffisso</term> gâr), che ottiene il suo desiderio, che riesce in tutto ciò che desidera, fortunato, avventurato, felice.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gâr</foreign>), che ottiene il suo desiderio, che riesce in tutto ciò che desidera, fortunato, avventurato, felice.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kâmah-1">
@@ -14765,7 +14765,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کردار
 </head>
 <head xml:lang="fas-tr">kardâr</head>
-<p>kirdâr (<term n="suff">suffisso</term> âr), opera, fatto, azione; 'maniera di operare; <foreign xml:lang="fas-tr">bi-kirdâr i ...</foreign>, a guisa di ..., a somiglianza di ....
+<p>kirdâr (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), opera, fatto, azione; 'maniera di operare; <foreign xml:lang="fas-tr">bi-kirdâr i ...</foreign>, a guisa di ..., a somiglianza di ....
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kard-gâr-1">
@@ -14773,7 +14773,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کردگار
 </head>
 <head xml:lang="fas-tr">kard-gâr</head>
-<p>(<term n="suff">suffisso</term> gâr), creatore, Iddio.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gâr</foreign>), creatore, Iddio.
 
 
 <pb n="426"/>
@@ -14947,7 +14947,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کشوادگان
 </head>
 <head xml:lang="fas-tr">kashvâd-gân</head>
-<p>(<term n="suff">suffisso</term> gân), discendente, o <term n="coll">colletivo</term>, discendenti di Keshvâd.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gân</foreign>), discendente, o <term n="coll">colletivo</term>, discendenti di Keshvâd.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kishvar-1">
@@ -15198,12 +15198,12 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 <p><term n="pl">plurale</term> <foreign xml:lang="fas-tr">kanîzân</foreign>, fanciulla, donzella; <term n="cfr">confronta</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">kainin</foreign>, kainika, kanya, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">kanyà</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">e</foreign> pârsi kanik (dal <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">kainika)</foreign>.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="Sk--1">
+<div type="textpart" subtype="entry" xml:id="k-û-1">
 <head xml:lang="fas">
 کو
 </head>
-<head xml:lang="fas-tr">Sk-</head>
-<p>per kihû, il quale, la quale; forma più intensiva, come se volesse dire: quello stesso che ...
+<head xml:lang="fas-tr">k-û</head>
+<p>per kih û, il quale, la quale; forma più intensiva, come se volesse dire: quello stesso che ...
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kûb-1">
@@ -15294,7 +15294,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کوهسار
 </head>
 <head xml:lang="fas-tr">kûh-sâr</head>
-<p>(<term n="suff">suffisso</term> sâr), luogo montuoso; montagne; <term n="pl">plurale</term> kûh-sârân.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">sâr</foreign>), luogo montuoso; montagne; <term n="pl">plurale</term> kûh-sârân.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kûhah-1">
@@ -15968,7 +15968,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گرفتار
 </head>
 <head xml:lang="fas-tr">giriftâr</head>
-<p>(<term n="suff">suffisso</term> âr), prigioniero, captivo.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), prigioniero, captivo.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gurg-1">
@@ -16008,7 +16008,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گروگان
 </head>
 <head xml:lang="fas-tr">girav-gân</head>
-<p>(<term n="suff">suffisso</term> gân), pegno, cosa data in pegno; - ģ. kardan, dare in pegno una cosa; porre un pegno.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gân</foreign>), pegno, cosa data in pegno; - ģ. kardan, dare in pegno una cosa; porre un pegno.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gurûh-1">
@@ -16328,7 +16328,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گفتار
 </head>
 <head xml:lang="fas-tr">guftâr</head>
-<p>(<term n="suff">suffisso</term> âr), detto, parola; discorso, ragiona mento; racconto, narrazione.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), detto, parola; discorso, ragiona mento; racconto, narrazione.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="guftsty-1">
@@ -16574,7 +16574,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گوربان
 </head>
 <head xml:lang="fas-tr">gûr-bân</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">gûr</ref>, cimitero, + <term n="suff">suffisso</term> bân), custode di un cimitero, seppellitor di cadaveri.
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">gûr</ref>, cimitero, + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), custode di un cimitero, seppellitor di cadaveri.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gavzan-1">
@@ -16606,7 +16606,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گوشوار
 </head>
 <head xml:lang="fas-tr">gush-vâr</head>
-<p>(<term n="suff">suffisso</term> vâr), orecchino, pendente; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaoshâvare</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">goshvâr</foreign>.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">vâr</foreign>), orecchino, pendente; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaoshâvare</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">goshvâr</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gûn-1">
@@ -16748,7 +16748,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گیوگان
 </head>
 <head xml:lang="fas-tr">giv-gân</head>
-<p>(ê, <term n="suff">suffisso</term> gân), discendente di Ghêv.
+<p>(ê, <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gân</foreign>), discendente di Ghêv.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gayûmarth-1">
@@ -16756,7 +16756,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 گیومرث
 </head>
 <head xml:lang="fas-tr">gayûmarth</head>
-<p>Gayûmers, <term n="n. pr">nome proprio</term> del primo uomo e primo re che fu creato da Ahura Mazda insieme alla vacca primitiva (<term n="v">vedi</term> <ref xml:lang="fas-tr">grûspand</ref>); fu ucciso da Ahrimane; secondo Firdusi, invece, morì di morte naturale dopo 30 anni di regno. Cfr. SPIEGEL, <title>Erân. Alterth.</title> I, p. 508 e segg.; WINDISCHMANN, Mithra, 73. - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaya-maretan</foreign> (vita mortale, Sterbliches Leben, SPIEGEL). ##گیهان# gîhân (ê), forma antiquata di <ref xml:lang="fas">جهان</ref>  <foreign xml:lang="fas-tr">gihân</foreign>, mondo, la terra; dal <term n="gen">genitivo</term> plur. <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaèthanām</foreign>, (gli esseri corporei, terreni).
+<p>Gayûmers, <term n="n. pr">nome proprio</term> del primo uomo e primo re che fu creato da Ahura Mazda insieme alla vacca primitiva (<term n="v">vedi</term> <foreign xml:lang="fas-tr">grûspand</foreign>); fu ucciso da Ahrimane; secondo Firdusi, invece, morì di morte naturale dopo 30 anni di regno. Cfr. SPIEGEL, <title>Erân. Alterth.</title> I, p. 508 e segg.; WINDISCHMANN, Mithra, 73. - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaya-maretan</foreign> (vita mortale, Sterbliches Leben, SPIEGEL). ##گیهان# gîhân (ê), forma antiquata di <ref xml:lang="fas">جهان</ref>  <foreign xml:lang="fas-tr">gihân</foreign>, mondo, la terra; dal <term n="gen">genitivo</term> plur. <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaèthanām</foreign>, (gli esseri corporei, terreni).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gîhân-khudây-1">
@@ -17295,7 +17295,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 مرزبان
 </head>
 <head xml:lang="fas-tr">marz-bân</head>
-<p>marzu-bân (<term n="suff">suffisso</term> bân), capo di provincia: principe. .
+<p>marzu-bân (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), capo di provincia: principe. .
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="margh-1">
@@ -17335,7 +17335,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 مرغزار
 </head>
 <head xml:lang="fas-tr">murgh-zâr</head>
-<p>(<term n="suff">suffisso</term> zâr), luogo dove stanno uccelli: luogo delizioso, giardino.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">zâr</foreign>), luogo dove stanno uccelli: luogo delizioso, giardino.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="marg-1">
@@ -17458,7 +17458,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 مغاک
 </head>
 <head xml:lang="fas-tr">maghâk</head>
-<p>(<term n="suff">suffisso</term> âk), luogo depresso e basso; fossa, sepolcro; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">magha</foreign>.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âk</foreign>), luogo depresso e basso; fossa, sepolcro; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">magha</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="maghz-1">
@@ -17560,11 +17560,11 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 <p>scarpa; <term n="coll">colletivo</term>, le scarpe.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="mây-2">
+<div type="textpart" subtype="entry" xml:id="mûy-1">
 <head xml:lang="fas">
 موی
 </head>
-<head xml:lang="fas-tr">mây</head>
+<head xml:lang="fas-tr">mûy</head>
 <p>capello; <term n="coll">colletivo</term>, capelli; pelo, peli; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">e</foreign> pârsi mûi.
 </p></div>
 
@@ -17637,7 +17637,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 مهربان
 </head>
 <head xml:lang="fas-tr">mihrbân</head>
-<p>(<term n="suff">suffisso</term> bân), amorevole, amoroso, affezionato.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">bân</foreign>), amorevole, amoroso, affezionato.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="mihr-gûy-1">
@@ -18292,7 +18292,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 نخستین
 </head>
 <head xml:lang="fas-tr">nukhustîn</head>
-<p>(<term n="suff">suffisso</term> în), primo; <term n="avv">avverbio</term>, primieramente, per prima cosa.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">în</foreign>), primo; <term n="avv">avverbio</term>, primieramente, per prima cosa.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="nar-1">
@@ -18487,11 +18487,11 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 <p>(ar.), urlo, ruggito; gemito, lamento.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="nál-1">
+<div type="textpart" subtype="entry" xml:id="naghl-1">
 <head xml:lang="fas">
 نعل
 </head>
-<head xml:lang="fas-tr">nál</head>
+<head xml:lang="fas-tr">na'l</head>
 <p>(ar.), scarpa; ferro dei cavalli, dei cammelli, ecc.
 </p></div>
 
@@ -19514,7 +19514,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 هشیار
 </head>
 <head xml:lang="fas-tr">hushyâr</head>
-<p>(<term n="suff">suffisso</term> yâr), assennato, prudente.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">yâr</foreign>), assennato, prudente.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="hushivâr-1">
@@ -19765,7 +19765,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 هندوستان
 </head>
 <head xml:lang="fas-tr">hindûstân</head>
-<p>(<term n="suff">suffisso</term> stân), India, Indostan.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">stân</foreign>), India, Indostan.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="hinduvî-1">
@@ -19948,7 +19948,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 یادگار
 </head>
 <head xml:lang="fas-tr">yâd-gâr</head>
-<p>(<term n="suff">suffisso</term> gâr), ricordo; segno di ricordanza, per ricordare.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">gâr</foreign>), ricordo; segno di ricordanza, per ricordare.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="yâd-gârî-1">
