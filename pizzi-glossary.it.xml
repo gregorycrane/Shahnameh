@@ -83,15 +83,7 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 آ
 </head>
 <head xml:lang="fas-tr">â</head>
-<p>
-</p></div>
-
-<div type="textpart" subtype="entry" xml:id="ây-1">
-<head xml:lang="fas">
-آی
-</head>
-<head xml:lang="fas-tr">ây</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">amad</ref>, <term n="pres">presente</term> ayam, <term n="imperat">imperativo</term> <foreign xml:lang="fas-tr">â</foreign>, bi-y-â, biy-ây, venire, arrivare; accadere, avvenire (di un fatto); sopravvenire, capitare; <term n="inf">infinitivo</term> amadan (usato come nome) venuta, arrivo; - <foreign xml:lang="fas-tr">andar âmadan</foreign> entrare; salire (a cavallo); venir giù, calare; discendere (da cavallo, con az, o zi-); - <foreign xml:lang="fas-tr">bar â madan</foreign> venir su, spuntare, sporgere, sollevarsi, levarsi; passare (del tempo); — birûn âmadan, uscire, andar fuori; — pish âmadan, venire innanzi, avanzarsi, presentarsi; sopravvenire; - <foreign xml:lang="fas-tr">dar amadan</foreign> entrare; <term n="metaf">metaforicamente</term>, cominciare; - <foreign xml:lang="fas-tr">farâz âmadan</foreign> sopravvenire, venire incontro (si dice di cosa che si prevede, come la morte, ecc.); - <foreign xml:lang="fas-tr">furûd âmadan</foreign> discendere; smontar da cavallo per fermarsi in un luogo; — il <term n="tps">tema di passato</term> <foreign xml:lang="fas-tr">âmad</foreign> sta per â-gma-d, <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">â-gam</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gam</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">gam</foreign> (<term n="cfr">confronta</term> <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">matano)</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">quiman</foreign>.
+<p>#آی# ây, <term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">amad</ref>, <term n="pres">presente</term> ayam, <term n="imperat">imperativo</term> <foreign xml:lang="fas-tr">â</foreign>, bi-y-â, biy-ây, venire, arrivare; accadere, avvenire (di un fatto); sopravvenire, capitare; <term n="inf">infinitivo</term> amadan (usato come nome) venuta, arrivo; - <foreign xml:lang="fas-tr">andar âmadan</foreign> entrare; salire (a cavallo); venir giù, calare; discendere (da cavallo, con az, o zi-); - <foreign xml:lang="fas-tr">bar â madan</foreign> venir su, spuntare, sporgere, sollevarsi, levarsi; passare (del tempo); — birûn âmadan, uscire, andar fuori; — pish âmadan, venire innanzi, avanzarsi, presentarsi; sopravvenire; - <foreign xml:lang="fas-tr">dar amadan</foreign> entrare; <term n="metaf">metaforicamente</term>, cominciare; - <foreign xml:lang="fas-tr">farâz âmadan</foreign> sopravvenire, venire incontro (si dice di cosa che si prevede, come la morte, ecc.); - <foreign xml:lang="fas-tr">furûd âmadan</foreign> discendere; smontar da cavallo per fermarsi in un luogo; — il <term n="tps">tema di passato</term> <foreign xml:lang="fas-tr">âmad</foreign> sta per â-gma-d, <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">â-gam</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gam</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">gam</foreign> (<term n="cfr">confronta</term> <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">matano)</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">quiman</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="âb-1">
@@ -7460,7 +7452,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 
 <div type="textpart" subtype="entry" xml:id="khazz-1">
 <head xml:lang="fas">
-خزً
+خزّ
 </head>
 <head xml:lang="fas-tr">khazz</head>
 <p>(ar.), panno di seta (sempre con <ref xml:lang="fas-tr">harir</ref>, <term n="v">vedi</term>).
@@ -10616,7 +10608,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 
 <div type="textpart" subtype="entry" xml:id="sarrîn-1">
 <head xml:lang="fas">
-زرَین
+زرّین
 </head>
 <head xml:lang="fas-tr">sarrîn</head>
 <p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">în</foreign>), aureo, fabbricato in oro; <term n="cfr">confronta</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">zaranaêna</foreign>.
@@ -15443,7 +15435,7 @@ Scrittori Pârsi esso è identificato ad Ahrimane, <term n="v">vedi</term>; - <t
 کیند
 </head>
 <head xml:lang="fas-tr">ki-y-and</head>
-<p>per kih and, <term n="v">vedi</term> <ref xml:lang="fas-tr">kih</ref>.
+<p>per <ref xml:lang="fas-tr">kih</ref>, <ref xml:lang="fas-tr">and</ref>, <term n="v">vedi</term> <ref xml:lang="fas-tr">kih</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kay-nizhâd-1">
