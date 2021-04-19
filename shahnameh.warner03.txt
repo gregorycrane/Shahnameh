@@ -35,7 +35,7 @@ We are still far from the point in the poem at which such names begin to appear 
 <pb n="9"/> place, but it does not follow that all the names occurring before that point is reached are wholly mythical. Real dynastic, family, and personal names are found thrown back upon and incorporated with a mythical past with which they have no connexion whatever. The dynastic title of Caesar, for instance, occurs in the reign of Minvchihr,! while the personified name—Karan—of a family famous in Ashkanian (Parthian) and Sisdnian times is very prominent in the Pishdddian dynasty. The most striking in- stances of personal names and personalities being thus thrown back occur in the Kaidnian dynasty and in the reigns of Kai
 Kaus and Kai Khusrau. These we will now proceed to con- sider. 
 
-About a.D. 40 the Parthian king Artabanus III. died. He left at least two sons living at his death—Vardanes, who suc- ceeded him, and Artabanus. Shortly afterward, and during the absence of Vardanes from the capital, a certain Gotarzes assumed the supreme power and caused Artabanus with his wife and son to be murdered. The relationship of Gotarzes to]Artabanus III. has been a matter of considerable difference of opinion, but seems fairly settled now by two pieces of contemporary evidence. On the rock of Bihistiin, some three hundred feet below the inscrip- tion of the great Darius, Gotarzes has left a memorial tablet of himself. Unfortunately it is now almost defaced,? but when the late Sir Henry Rawlinson examined it in 1836 he made out, in addition to the name Gotarzes, which is still legible,? the word
+About a.D. 40 the Parthian king Artabanus III. died. He left at least two sons living at his death—Vardanes, who suc- ceeded him, and Artabanus. Shortly afterward, and during the absence of Vardanes from the capital, a certain Gotarzes assumed the supreme power and caused Artabanus with his wife and son to be murdered. The relationship of Gotarzes to Artabanus III. has been a matter of considerable difference of opinion, but seems fairly settled now by two pieces of contemporary evidence. On the rock of Bihistiin, some three hundred feet below the inscrip- tion of the great Darius, Gotarzes has left a memorial tablet of himself. Unfortunately it is now almost defaced,? but when the late Sir Henry Rawlinson examined it in 1836 he made out, in addition to the name Gotarzes, which is still legible,? the word
 Mithrates, and Gotarzes’ description of himself as “Satrap of
 Satraps.” In one corner of the tablet the words “:Gotarzes
 Geopothros” (Γωτάρζης Γεόποθρος) were also found. Sir Henry
@@ -61,30 +61,31 @@ Vonones I. As was to be expected in the circumstances the character of Gotarzes 
 <note n="2">Ann. xi. 10,</note>
 <note n="3">Generally assumed to be the Charinda mentioned by Ammianus Marcellinus (xxiii. 6) and by Ptolemy (vi. 2), who describes it  s parting Media from Hyrcania.</note>
 <note n="4">The rivers Erinde and Sinde have not been identified, but the latter may be intended for the Oxus. That river was confounded with the Indus (Sind) in ancient times (see Vol. i. p. 71) and flowed into the Caspian in the days of Tacitus, so it might be regarded as dividing the Dahae and the Aryans.</note>
-<pb n="11"/> cruelty.! Meherdates was sent accordingly, but was defeated and taken prisoner by Gotarzes, who, however, rather belied his character for ferocity on this occasion. He spared the life of
+<pb n="11"/> cruelty.<ref target="n.1"/> Meherdates was sent accordingly, but was defeated and taken prisoner by Gotarzes, who, however, rather belied his character for ferocity on this occasion. He spared the life of
 Meherdates and merely cut off his ears—a mutilation that dis- qualified him for the Parthian crown. It was to commemorate this victory that Gotarzes had the bas-relief already referred to carved on the rock of Bihistun, in the neighbourhood of which the battle probably was fought. Gotarzes is represented as charging at the head of his troops, while above him a winged
-Victory is setting the crown upon his head.? He died in a.p. 51.
-In the lists of the kings of the Ashkdanian (Parthian) dynasty, compiled by oriental historians,* the name Gudarz occurs in several connexions. We also find the’ name Bizhan given as the son of one Gudarz and as the father of another. We also find the name Bahr4m. Firdausi, when he reaches Ashkanian times, includes the above three names in his very scanty list of the kings of that dynasty. He admits that he knows nothing about any of them, being wholly unaware, as naturally he would be, of their identity with some of his own most favourite heroes.
+Victory is setting the crown upon his head.<ref target="n.2"/> He died in a.p. 51.
+In the lists of the kings of the Ashkdanian (Parthian) dynasty, compiled by oriental historians,<ref target="n.3"/> the name Gudarz occurs in several connexions. We also find the’ name Bizhan given as the son of one Gudarz and as the father of another. We also find the name Bahr4m. Firdausi, when he reaches Ashkanian times, includes the above three names in his very scanty list of the kings of that dynasty. He admits that he knows nothing about any of them, being wholly unaware, as naturally he would be, of their identity with some of his own most favourite heroes.
 In the Shahnama Gotarzes becomes Gudarz, who is represented as being the father, not the son, of Giv. Vardanes becomes
 Bahram and is the son, not the adopted brother, of Gudarz.
 Bizhan becomes the son of Giv and the grandson of Gudarz.
 Similarly other names of the Parthian period appear in the poem.
-Meherdates (Mithradates, Mithrates, Mithradit, MihrdAt) appears as Mildd, the father of Gurgin, who plays such a prominent part in the story of Bizhan and Manizha, (Part V.). Phraates—a common
-Parthian name—becomes Farhdd, and there are other instances.‘
+Meherdates (Mithradates, Mithrates, Mithradit, Mihrdat) appears as Milad, the father of Gurgin, who plays such a prominent part in the story of Bizhan and Manizha, (Part V.). Phraates—a common
+Parthian name—becomes Farhad, and there are other instances.<ref target="n.4"/>
 Some of the names thus transplanted have flourished amazingly, and Gotarzes’ reputation has not suffered by the change.
 We conclude this note with a few instances in which the events of Parthian history summarized above may be traced in a distorted form in the Shahnama. In the war between Gotarzes and Vardanes we seem to have the origin of the campaigns of
-Tis against Turan in Parta I. and II. The scene of operations is the same in both cases, and the battle at the river Erinde seems reproduced in that of the river Shahd.’ The assassination of king Vardanes on the hunting-tield is reproduced in the episode in which Bahram, having lost his whip on the battlefield, insists on returning to look for it, and is, after a gallant defence, mortally wounded by the enemy." It is because Meherdates, after march-
+Tus against Turan in Parts I. and II. The scene of operations is the same in both cases, and the battle at the river Erinde seems reproduced in that of the river Shahd.<ref target="n.5"/> The assassination of king Vardanes on the hunting-field is reproduced in the episode in which Bahram, having lost his whip on the battlefield, insists on returning to look for it, and is, after a gallant defence, mortally wounded by the enemy." It is because Meherdates, after marching
 <note n="1">Ann, xii. 10. 2 See HAP, p. 39, and RP, frontispiece.</note>
 <note n="3">GKS, iti. 24. </note>
 <note n="4">NIN, p. 7.</note>
 <note n="5">See p. 117 seq. 8 See p. 95 seq.</note>
-<pb n="12"/> ing through Armenia to attack Gotarzes,' is let off after his defeat with a slight mutilation that, in the story of Bizhan and
+<pb n="12"/>  through Armenia to attack Gotarzes,<ref target="n.1"/> is let off after his defeat with a slight mutilation that, in the story of Bizhan and
 Manizha, Gurgin the son of Mildd and Bizhan the grandson of
 Gudarz set forth together on an expedition to Irmdn, that
-Gurgin treats Bizhan badly and, after having brought him into deadly peril, is lightly punished, then pardoned, and in the end forgiven by Bizhan himself,? while lastly it may be noted that the battle with Afrasiyab, consequent on the release of Bizhan, is stated to have taken place in the neighbourhood of Mount
-Bistun.3
+Gurgin treats Bizhan badly and, after having brought him into deadly peril, is lightly punished, then pardoned, and in the end forgiven by Bizhan himself,<ref target="n.2"/> while lastly it may be noted that the battle with Afrasiyab, consequent on the release of Bizhan, is stated to have taken place in the neighbourhood of Mount
+Bistun.<ref target="n.3"/>
  
-<note n="1">Tacitus, Ann, xii. 12. 2 See pp. 292 seg., 316, 331 9¢g., 345-</note>
+<note n="1">Tacitus, Ann, xii. 12.</note>
+<note n="2">See pp. 292 seg., 316, 331 9¢g., 345-</note>
 <note n="3">Cf. pp. 11, 350.</note>
 
 
@@ -197,7 +198,7 @@ Not taken in his toils. He cultivated
 Waste lands and freed the mourners’ hearts from woe;
 The moisture rained down from the clouds in spring,
 And cleansed the face of earth from rust and sorrow ;
-*Twas decked like Paradise with goodly havings
+'Twas decked like Paradise with goodly havings
 By reason of his justice and his bounty.
 <milestone unit="vullers" n="767"/>
 The world was full of happiness and peace,
@@ -2508,7 +2509,7 @@ Of Crocodiles ?”</p>
 “A lusty heart and lion’s claws are mine.
 Tazhav am I, I fling down men and pluck
 The heads of valiant Lions from their trunks.
-By birth and worth I am [rdnian,
+By birth and worth I am Iranian,
 Sprung from the warriors and the Lions’ seed.
 Now I am marchlord of the country round—
 A chosen chief, the king’s own son-in-law.”</p>
@@ -3118,7 +3119,7 @@ To beat the right wing and to seize the baggage.”</p>
 <pb n="91"/>
 Fled from Human, the fighting line was broken,
 The haughty chiefs gave way, each took his course,
-Not one [rdnian warrior stood his ground.
+Not one Iranian warrior stood his ground.
 They saw the drums and standard in position
 No more, and so with eyes bedimmed with fighting
 They turned their backs upon the enemy,
@@ -4760,7 +4761,7 @@ Are slain or, being wounded, cannot fight.”</p>
 He led in person. When they reached the field
 They only found a camp without an army,
 And one who went to spy came to Piran,
-And said: “There is not an [rénian here!”</p>
+And said: “There is not an Iranian here!”</p>
 
 <p>A shout of triumph rose, the troops awaited
 The orders of Piran who thus addressed
@@ -5377,7 +5378,7 @@ That from the deep a radiant lustre rose
 About an ivory throne, and Siyawush
 Thereon with Grace and crown, with smiling lips
 And tongue fair-spoken, turned a sun-like face
-Upon him. “Stay the [rdnians here,” he said,
+Upon him. “Stay the Iranians here,” he said,
 “For thou shalt conquer in the fight. Lament not
 The kindred of Gudarz, for there is here
 A rosary all new, and we will quaff,
@@ -5521,7 +5522,7 @@ And, if they cannot hold their own, will make
 Day dark and strait to them. I will secure
 <milestone unit="vullers" n="920"/>
 With heavy bonds about their feet and necks
-Those that survive among the [rénian chiefs,
+Those that survive among the Iranian chiefs,
 And then dispatch them to Afrasiyab,
 Not taking rest or sleep till it be done,
 Behead the common soldiers that I capture,
@@ -6334,7 +6335,7 @@ He would not flee from elephants of war:
 His head is full of wreak, his heart of strife.
 <note n="1">“Car nous n'osons pas le regarder” (Mohl).</note>
 <pb n="173"/>
-Earth is not able to contain Manshtr;
+Earth is not able to contain Manshur;
 No warrior ordereth a host like him ;
 And froin this mountain to the river Shahd
 Stretch flags and litters, elephants and troops,
@@ -6774,7 +6775,7 @@ In fight; his bow-string is of lion-hide ;
 <pb n="184"/>
 His arrows, shaft and point, weigh ten sitir.
 If any flint-rock should encounter him
-*Twould turn to wax or something softer still.
+'Twould turn to wax or something softer still.
 He weareth, when he goeth forth to battle,
 Chain-mail, and buckleth o’er it his cuirass,
 And over that a garb of leopard-skin.
@@ -7377,7 +7378,7 @@ Set like a hill upon another hill,
 With mail and mace and leopard-skin cuirass,
 Bestriding his great, furious Elephant.
 Then wilt thou see that I have told no lies;
-F’en fire receiveth brightness from his sword.
+E’en fire receiveth brightness from his sword.
 He will not budge without an interview ;
 It is for thy sake that he tarrieth thus.
 Bespeak him fairly when thou seest him,
@@ -7608,7 +7609,7 @@ Piran departed to the host like wind,
 Assembled those that were of Wisa’s race,
 And told the secret, saying: “Our fall or rise
 Hath come, for know ye that this Lion-heart
-Is Rustam, who hath ta’en the field in grief
+Is Rustam, who hath taken the field in grief
 With chiefs and Lions from Zabulistan
 And nobles from Kabulistan. With him
 There are Gudarz and Giv and Tus, and we
@@ -7753,13 +7754,13 @@ None must know head from foot. Observe me well,
 And, when I raise the war-cry, charge amain.
 We are—we warriors and cavaliers—
 Good sooth! above a hundred thousand strong,
-And shall we, lifeless though ‘not slain, thus vilely
+And shall we, lifeless though not slain, thus vilely
 Shrink from one man? When I confront the Sigzian
 
 <pb n="210"/>
 
 
-Send ye the dust-clouds skyward ; let none ‘scape ;
+Send ye the dust-clouds skyward ; let none escape ;
 A coward’s heart is naught.”</p>
 
 <p>On hearing this,
@@ -7784,13 +7785,13 @@ Against ill-starred Shangul, said to Piran :—
 
 <p>He met Kulbad and said: “Shangul is mad!
 If Rustam be what I have seen, and heard
-From chiefs, Shangul, Kundur, Manshtr, will not
+From chiefs, Shangul, Kundur, Manshur, will not
 Survive this battlefield, nor will the Khan.
 Withdraw we for a while and reckon up
 Our chance of gain or loss. Thou wilt behold
 Of this unbounded host, whose massive maces
 Might quell the world, the more part laid to earth
-With blood-drenched helms and mail for winding-sheet.
+With blood-drenched helms and mail for winding-sheet.”
 
 Kulbad replied: “O wielder of the sword !
 Keep if thou canst from evil presages,
@@ -8185,7 +8186,7 @@ Said gray Gudarz: “Since first I girt myself
 To play the man I have seen no such strife,
 Or heard of such among the haughty chiefs ;
 Such is the slaughter that one half alone
-Of men is safe, the other is o’erthrown !
+Of men is safe, the other is o’erthrown !”
 <pb n="221"/></p></div>
 
 <div type="textpart" subtype="section" n="11">
@@ -8499,7 +8500,7 @@ But with Afrasiyab, who knoweth not
 The fire from water, but hath raised the world,
 And by this war brought evil on himself.
 We all of us have greed and long for fame,
-Yet peace still bettereth war.”</p>
+Yet peace still bettereth war.””</p>
 
 <p>With fluent tongue
 And guileful heart the man drew near to Rustam,
@@ -8583,7 +8584,7 @@ A blast with murk, light quitted sun and moon,
 And then the foe, not knowing head from foot,
 Took to the desert and the longsome road.
 Piran beheld that fight and fortune grown
-So gloomy to Manshtr, Farttis, the Khan,
+So gloomy to Manshur, Farttis, the Khan,
 And Turkman chiefs; saw standards down, the wounded
 Laid vilely in the dust, and thus he said
 To Nastfhan the warrior and Kulbid :—
@@ -8828,7 +8829,7 @@ I feared not for the empire of the Shah,
 But slew our foes; we fought for forty days ;
 Thou wouldst have said: ‘The world is strait to them.’
 They all were kings with treasures, crowns, and thrones.
-Now “twixt the mountains over dale and waste
+Now 'twixt the mountains over dale and waste
 One cannot pass along for blood and slain,
 And in good sooth for forty leagues the soil
 Is turned to clay with blood. To tell the whole
@@ -9114,7 +9115,7 @@ To shower shafts—the horseman’s ambuscade.
 Kafur said to his chiefs: “ No arrow-head
 Will dent an anvil. Ply sword, mace, and lasso,
 And take yon leaders’ heads within the noose.”</p>
-<note n="1">i.e. ‘* Unjust.” </note>
+<note n="1">i.e. <gloss>Unjust</gloss>. </note>
 <note n="2">Reading with P.</note>
 <pb n="245"/>
 <p>Awhile they fought so that the stream flashed fire,
@@ -9122,7 +9123,7 @@ And take yon leaders’ heads within the noose.”</p>
 And many of the Iranians were slain ;
 A sky of bale turned o’er them. Gustaham
 Said to Bizhan in haste: “ Ride hence. Tell Rustam :--
-‘Pause not, but come with ten score cavaliers.’”’
+‘Pause not, but come with ten score cavaliers.’”
 
 Bizhan the son of Giv went off like wind,
 And told the matter to the matchless one,
@@ -9375,11 +9376,11 @@ But send my treasures, crowns, belts, golden torques,
 And bucklers to the banks of the Almas :
 This is no time for joyance, harp, and song.
 I dread deft-handed Rustam, who is safe
-F’en in the gullet of a crocodile ;
+E’en in the gullet of a crocodile ;
 He is not human on the day of battle,
 He writheth not when hit nor crieth out
 For pain, he feareth not spear, sword, and arrow,
-* Or maces raining from this ancient sky !
+Or maces raining from this ancient sky !
 ‘He is of brass and iron,’ thou wouldst say,
 ‘And not of man’s race but an Ahriman!’
 So mighty are his arms on days of fight
@@ -9404,7 +9405,7 @@ But now by way of proof I will to war
 Once more to see if fortune favoureth us,
 And so if God affordeth us His aid,
 And if high heaven revolveth as we would,
-We will not leave [rén or Shah: perchance
+We will not leave Iran or Shah: perchance
 It may be mine to terminate this feud,
 While should the might of Rustam’s hand prevail
 I will betake me o’er the sea of Chin
@@ -9440,7 +9441,7 @@ Haste in his head and vengeance in his heart.
 The dark night oped its melancholy eyes,
 The moon had grown round-shouldered with distress,
 And all the world resembled sable musk
-What time Farghir came from the [rdnian host.
+What time Farghir came from the Iranian host.
 He reached the presence of Afrisiyab
 By night—the time for quiet and repose—
 And thus reported : ‘ From this lofty court
@@ -9505,7 +9506,7 @@ What we have suffered from this famous fighter,
 And these renowned and all-accomplished chiefs,
 From Tus, Gudarz, and other warriors.
 Then tell him all about my grandson’s case—
-‘The master of Iran, the mighty Shah—
+The master of Iran, the mighty Shah—
 Whom erst I cherished like dear life itself
 That no ill blast might reach him. Then proceed :—
 ‘Now, if high heaven taketh side with us,
@@ -9640,7 +9641,7 @@ He flung to earth, and trampled on in scorn,
 In sight of all the horsemen on the plain,
 <milestone unit="vullers" n="1036"/>
 And reaching Kawa’s standard clave the staff
-Asunder with his sword. The [rdnians wailed,
+Asunder with his sword. The Iranians wailed,
 No warrior stood his ground upon the field.
 When Fariburz, Gudarz, and the other chiefs
 Beheld the traces of that warrior-div
@@ -10009,7 +10010,7 @@ A shout came from the city and the court,
 And cloudward from Iran rose tymbal-din
 Proclaiming that the lord of mace and mail
 Had come. One common joy was in the world
-Among all] classes and degrees of men.
+Among all classes and degrees of men.
 The Shah’s heart grew like Paradise above,
 He offered praises to Almighty God,
 Bade bring the elephants, and journeyed forth.
@@ -10068,7 +10069,7 @@ The man with wisdom for his monitor
 Is circumspect in time’s vicissitudes.
 Be evil’s eye far from this paladin,
 And may his life be one long festival.”
-<note n="1">“Il paraft que la route t’a altéré” (Mohl).</note>
+<note n="1">“Il parait que la route t’a altéré” (Mohl).</note>
 <pb n="269"/>
 <milestone unit="vullers" n="1048"/>
 They spent a week with wine in hand. The crown,
@@ -10652,7 +10653,7 @@ Harut was an angel who, with his mate Mirtit, was suspended by the feet in a wel
 
 §§ 10 and 23. For the div Akwan see Part IV.
 
-§ 12. According to Zoroastrian belief divine beings, men, the lower animals, plants, waters, sun and moon, &c., all had their immortal principle, known as their fravashi. These fravashis were worshipped especially at the beginning of the Zoroastrian year, and the month Farwardin obtained its name from the practice. At this season the spirits of deceased ancestors were supposed to revisit the houses of their descendants, and such fravashis, like the manes of the Romans, were objects of peculiar veneration.
+§ 12. According to Zoroastrian belief divine beings, men, the lower animals, plants, waters, sun and moon, etc., all had their immortal principle, known as their fravashi. These fravashis were worshipped especially at the beginning of the Zoroastrian year, and the month Farwardin obtained its name from the practice. At this season the spirits of deceased ancestors were supposed to revisit the houses of their descendants, and such fravashis, like the manes of the Romans, were objects of peculiar veneration.
 
 §17. The divine beings whose blessings are invoked by
 Rustam on Kai Khusrau are members of a class formerly known as Yazatas (gods) and now as Izads. Some of them, among other functions, presided over the Zoroastrian Calendar, and gave their names to the days of the month and to the months of the year.© They may be regarded as celestial satraps among whom the divine qualities and the good creation of Urmuzd have been parcelled out. Bahman presides over Good Thought, Ardi- bihisht over Perfect Rectitude, Shahrir over Perfect Rule,
@@ -10806,7 +10807,7 @@ Their faces swept the ground; as they drew nigh
 They said: “O Shah triumphant ! live for ever,
 For thou art worthy of unending life.
 We come for succour from a distant land,
-Khan-i-Irman, between this and ‘Turan,
+Khan-i-Irman, between this and Turan,
 And bring this message: ‘ Ever live, O Shah!
 In every clime the succourer from the evil,
 O’er all seven climes the king, and in each state
@@ -10873,11 +10874,11 @@ Before the Shah so recklessly.”</p>
 
 <p>Bizhan,
 Shrewd, though impulsive, and of sleepless fortune,
-Replied in anger : ‘“ My victorious sire!
+Replied in anger : “ My victorious sire!
 Impute not weakness to me in thy thoughts,
 But bear with what I tell thee: I am young
 In enterprise but I am old in counsel,
-And J, Bizhan, who am the son of Giv,
+And I, Bizhan, who am the son of Giv,
 The army-shatterer, will behead the boars.”</p>
 
 <p>The Shah rejoiced thereat, invoked God’s blessing,
@@ -10927,7 +10928,7 @@ Behead each boar escaping.”</p>
 
 <p>But Gurgin,
 The warrior, answered: “Such was not the compact
-With our young Shah. ‘Thou hadst the jewels, silver,
+With our young Shah. Thou hadst the jewels, silver,
 And gold, and didst adventure for this field ;
 Ask but mine aidance then to show the way.”</p>
 
@@ -10964,7 +10965,7 @@ Malevolent Gurgin, the insensate one,
 Apart drew near the forest sullenly,
 And all the wood gloomed in his eyes albeit
 He praised Bizhan and made a show of joy.
-“That matter grieved his heart, he feared disgrace,
+That matter grieved his heart, he feared disgrace,
 And Ahriman seduced him. He was fain
 To do Bizhan a mischief; ‘twas his wish,
 And so ordained. He thought not of the Maker,
@@ -11241,7 +11242,7 @@ Called to him princely Kurakhan and said :—
 “Advise me in the, matter of this wanton.”</p>
 
 <p>Then Kurdkhan: “Examine with more care :
-“If so it be there is no more to say,
+If so it be there is no more to say,
 But hearing is not seeing.”</p>
 
 <p>Instantly
@@ -11317,7 +11318,7 @@ And making him a prisoner by smooth words;
 Then bound him cheetah-like from head to foot.
 With fortune gone will prowess aught avail ?
 Thus is it with yon hump-backed sky above,
-Thou’lt feel its harshness when it looketh love.
+Thou'lt feel its harshness when it looketh love.
 They carried him with sallow cheeks and eyes
 Fulfilled with tears before Afrasiyab.
 The hero, when he came with pinioned arms
@@ -11412,7 +11413,7 @@ Say from me to Gudarz son of Kishwad :—
 He cast me into evil so that now
 I see not any one to succour me.’
 And to Gurgin: ‘What greeting shall I have
-From thee, false warrior! beyond the grave ?°”</p></div>
+From thee, false warrior! beyond the grave ?</q>”</p></div>
 
 <div type="textpart" subtype="section" n="9">
 <head>How Piran begged Bizhan’s Life from Afrasiyab</head>
@@ -11634,7 +11635,7 @@ He will not live to come back to Iran.
 By gibbet or by prison or by bonds
 Tll hath befallen him from Afrasiyab.”</p>
 
-<p>Repentant and perplexed he flung his lasso,}
+<p>Repentant and perplexed he flung his lasso,<ref target="1"/>
 And turning led Bizhan’s steed from the meadow
 Back to his tent where he abode one day,
 Then, sleepless and unresting, sought Iran.
@@ -11646,8 +11647,7 @@ Pierced to the heart with anguish and with cheeks
 All tears, and cried: “ Bizhan returneth not !
 I wis not why he stayeth in Irman.”</p>
 
-<p>Then, vengeful as a crocodile at heart,
-He gave command to put the poplar saddle
+<p>He gave command to put the poplar saddle
 Upon Kishwad’s own bay, which he was wont
 To hold reserved against the day of need,
 And, having mounted, parted like a blast
@@ -11665,7 +11665,7 @@ Chief of Iran and captain of the Shah:
 Why hast thou come to meet me on my way ?
 Why hast thou come thus weeping tears of blood ?
 I shall not wish to live if aught more wretched
-<note n="1">1l laissa tomber son lacet” (Mohl)</note>
+<note n="1">“Il laissa tomber son lacet” (Mohl)</note>
 
 <pb n="312"/>
 Shall now betide me. All ashamed am 1
@@ -11677,7 +11677,7 @@ As I will prove to thee.”</p>
 <p>Giv, when he saw
 His son’s horse and Gurgin, all dust and dazed
 Like one bemused, thus leading it, and when
-He heard those words, fel] from his steed and swooned.
+He heard those words, fell from his steed and swooned.
 His head was hidden by the dust. He rent
 The raiment that he wore as paladin,
 Plucked out his hair, and with a cry of anguish
@@ -12053,17 +12053,17 @@ Be bridled, then pricked forth to meet the comers,
 Who haply might prove foes, but when he saw
 Giv’s withered face he was astound and hasted,
 Supposing: “Something hath befallen the Shah
-Since Giv hath been sent hither from [rén!”
+Since Giv hath been sent hither from Iran!”</p>
 
 
 <pb n="322"/>
-When near at hand the paladin and escort
+<p>When near at hand the paladin and escort
 Drew up across the road and greeted Zal,
 <milestone unit="vullers" n="1103"/>
 Who asked about the Iranians and the Shah,
 The chieftains and Turanians. Giv then gave
 To Zal the greetings of the great—the Shah's
-And high-born warriors’—and told his anguish
+And high-born warriors'—and told his anguish
 For his lost son: “Thou seest me wan, mine insteps
 All dappled leopard-like with tears of blood !”</p>
 
@@ -12073,7 +12073,7 @@ At sunset.”
 
 “Twill go,” Giv said, “and see him ;
 I have a letter for him from Khusrau.”
-“Go not,” Zal answered, “‘ he will come anon,
+“Go not,” Zal answered, “ he will come anon,
 So till he cometh tarry in the house,
 And pass one day with us in happiness.”</p>
 
@@ -12318,7 +12318,7 @@ Far be the hand of evil from thy life.
 Thou art the paladin of this world’s Kaians,
 Who readest others but art read of none,
 The Kaians’ choice, the backbone of the host,
-The warden of [rdn, the army’s refuge.
+The warden of Iran, the army’s refuge.
 Thou hast rejoiced me by the sight of thee,
 Who art so vigilant and worshipful !
 Zawara, Fardmarz, and Zal—are they
@@ -12341,7 +12341,7 @@ And throne beneath a bower that scattered roses,
 And laid down court-brocade o’er all the pleasance,
 Which shone as ‘twere alamp. They had a tree
 Set up above the Shah’s throne to enshadow
-It and the crown, ‘The stem thereof was silver;
+It and the crown. The stem thereof was silver;
 The branches were of gold and jewelry,
 The jewels manifold and clustering,
 The leaves of emeralds and carnelians,
@@ -12434,7 +12434,7 @@ Mark the behaviour of this hump-backed sky
 In quenching wantonly the light within me,
 And pointing out to me the path of darkness !
 ‘Twas written thus, and what hath been hath been.
-I will lie down in fire before the Shah “A
+I will lie down in fire before the Shah
 If I may find forgiveness; all is over
 With my hoar head if my good name be lost ;
 So, if thou wilt plead for me, I will go,
@@ -12794,7 +12794,7 @@ Who bringeth many jewels of all sorts.
 He is a man of might and open heart,
 And hath put up a booth before his house;
 He gave to me the cloth just as it is:
-‘Pray for me to the Maker, were his words.
+‘Pray for me to the Maker,</q> were his words.
 ‘Go to the dungeon to the man in bonds,
 And take from time to time what he may need.’”</p>
 
@@ -12826,11 +12826,12 @@ That fortune will undo this grievous coil.
 Now if with me thou wilt not break thy faith,
 And make a covenant with me by oath,
 I will reveal the matter every whit,
-For ‘though for fear of harm one go about
-To sew up women’s lips the words will out.
-Manizha hearing this wept bitterly :—
+For though for fear of harm one go about
+To sew up women’s lips the words will out.”</p>
+
+<p>Manizha hearing this wept bitterly :—
 “What hath malicious fortune brought,” she said,
-“Upon me? Woeisme! My day is done,
+“Upon me? Woe is me! My day is done,
 My heart is stricken, and mine eyes o’erflow !
 I gave Bizhan my heart and home and wealth,
 And now he treateth me with such distrust !
@@ -12841,7 +12842,7 @@ My crown, dinars, and jewels, every whit.
 I did hope in Bfzhan but hope no more.
 My world is darkened and mine eyes are dim,
 For he concealeth secrets thus from me,
-But Thou dost know me better,O my God!”</p>
+But Thou dost know me better, O my God!”</p>
 
 <p>Bizhan replied : “’Tis true. Thou hast lost all
 For me, and I,” he added, “needs must tell thee,
@@ -12899,7 +12900,7 @@ Now will I rend the earth beneath my grasp,
 And fling that seated boulder to the sky.”’
 He said to me: ‘ As soon as heaven is dark,
 And night freed from the clutches of the sun,
-Set thou a fire, as *twere a mount, ablaze,
+Set thou a fire, as 'twere a mount, ablaze,
 And make it bright as day about the pit,
 <milestone unit="vullers" n="1125"/>
 To guide me on the road.’”</p>
@@ -13064,7 +13065,7 @@ In every quarter sounds of tumult rose,
 Swords glittered, arrows rained, the chieftains’ heads
 Were all struck off, their hands were filled with dust,
 Their mouths with blood, while Rustam in the porch
-Cried : ‘“‘ May sweet sleep distaste thee! For thy bed
+Cried : “ May sweet sleep distaste thee! For thy bed
 Thou hadst a throne, Bizhan had but a pit.
 Didst see an iron wall between us? I
 Am Rustam of Zabul, the son of Zal,
@@ -13097,7 +13098,7 @@ The bloodshed made a river at the gate,
 And when a soldier of Turan appeared
 His place was void forthwith, The Iranians
 Came seeking vengeance, but Afrasiyab
-Escaped by flight. ‘The lord of Rakhsh rode in
+Escaped by flight. The lord of Rakhsh rode in
 Upon the carpets of brocade. The warriors
 Took the fair slaves who caught them by the hand,
 Took too the noble steeds with poplar saddles,
@@ -13132,7 +13133,7 @@ Whiles sweets and smiles, whiles travail and chagrin !</p></div>
 <p>
 When Sol rose o’er the hills the Turkman horsemen
 Prepared to march. The city was astir,
-And, thou hadst said, “ deafening clamour rose.
+And, thou hadst said, a deafening clamour rose.
 Before the court-gate of Afrasiyab
 The troops formed rank, the great men loosed their loins,
 And bowed their heads in dust before the king,
@@ -13252,7 +13253,7 @@ Thou wouldst have said: “The Day of Doom hath come!”</p>
 Upon the coats of mail, the helms, and casques,
 While at the gleam of Rustam’s dragon-flag
 The bright sun’s face grew azure-dim ; he veiled
-The air with arrows, “‘Smearing,” thou hadst said,
+The air with arrows, “Smearing,” thou hadst said,
 “The sun with pitch.” Where’er he urged on Rakhsh
 He trampled on the heads of cavaliers.
 Grasped in his hand he bore an ox-head mace,
