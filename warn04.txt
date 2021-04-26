@@ -999,11 +999,11 @@ But lust of fighting hath come over me.
 If thou art not desirous to engage,
 And hast no fire of battle in thy soul,
 I will go saddle me my gallant gray,
-And challenge combat at the break of day.”
-$9
-How Human challenged Ruhhdam
+And challenge combat at the break of day.”</p></div>
+
+<div type="textpart" subtype="section" n="9"><head>How Human challenged Ruhham</head>
 <milestone unit="vullers" n="1164"/>
-Human on reaching his encampment gnashed
+<p>Human on reaching his encampment gnashed
 His teeth as wild boars do. When morning came
 He mounted on his steed, like some fierce lion,
 And, taking with him an interpreter,
@@ -5835,16 +5835,16 @@ He sky-ward raised his Kaian diadem,
 And friend and foe alike forbore to have
 A purpose save the battles of the brave.</p></div>
 
-<div type="textpart" subtype="section" n="3"><head>How Afrasiyab heard that Pirdén was slain and that Kai</head>
+<div type="textpart" subtype="section" n="3"><head>How Afrasiyab heard that Pirdén was slain and that Kai Khusrau had arrayed his Host</head>
 
 <p>
-Khusrau had arrayed his Host
+
 The Turkman king reposed upon his throne
 Of ivory on the further side of Jaj,
 <milestone unit="vullers" n="1283"/>
 And of his myriads of troops meanwhile
 The more part were in arms, prepared for war.
-Whate’er existed on that hilly march, a 4
+Whate’er existed on that hilly march, 
 Upon the trees or growing on the ground,
 
 <pb n="151"/>
@@ -5882,7 +5882,7 @@ Outside stood many standards of the chiefs,
 And at the monarch’s portal were the tents
 Of those whom most he honoured—brethren, sons,
 And others not akin. *Twas his desire
-<milestone unit="vullers" n="284"/>
+<milestone unit="vullers" n="1284"/>
 To reinforce Piran, but with the dawn -
 A cavalier came swift as dust with tidings
 About him, and the wounded straggled in,
@@ -6679,7 +6679,7 @@ And from him will I make the dark dust fly.”
 
 <pb n="171"/></p></div>
 
-<div type="textpart" subtype="section" n="3"><head>How Kai Khusrau fought with Shida the Son of Afrasyiab</head>
+<div type="textpart" subtype="section" n="8"><head>How Kai Khusrau fought with Shida the Son of Afrasyiab</head>
 
 <p>
 Whenas the azure Veil grew bright, and when
@@ -8047,7 +8047,7 @@ And wilt wage war upon thy mother’s father,
 Array thy host as soon as Jahn hath gone,
 Fit as a pard am I for fighting on.”</p></div>
 
-<div type="textpart" subtype="section" n="201"><head>How Kai Khusrau made Answer to Jahn</head>
+<div type="textpart" subtype="section" n="20"><head>How Kai Khusrau made Answer to Jahn</head>
 
 <p>
 At this the Shah looked smilingly on Jahn,
