@@ -12,8 +12,14 @@ Firdawsī., Vullers, J. Augustus. (187784). Liber regum qui inscribitur Schahnam
 
 * We do not, however, have a digital transcription of this text. That would require OCR of the Persian and then post-editing.
 
+Farnoosh has experimented with using a Tajik edition of the Shahnameh to generate a fully vocalized transcription.
 
-  Pizzi, Italo. Manuale Della Lingua Persiana; Grammatica, Antologia, Vocabolario. W. Gerhard, 1883, https://catalog.hathitrust.org/Record/100547672. Pizzi's work is comparable to Pharr's Homeric Greek: it teaches Persian by giving readers heavily annotated selections with a glossary and a grammar. Notes on this:
+* [Tajik sample 1](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik-vol1.txt); [Tajik Sample 2](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik.txt)
+
+* The problem is that we can't align this particular Tajik edition with one of the editions that we do have -- and editions of the SN vary tremendously.
+
+
+Pizzi, Italo. Manuale Della Lingua Persiana; Grammatica, Antologia, Vocabolario. W. Gerhard, 1883, https://catalog.hathitrust.org/Record/100547672. Pizzi's work is comparable to Pharr's Homeric Greek: it teaches Persian by giving readers heavily annotated selections with a glossary and a grammar. Notes on this:
 
   * Pizzi has a short grammar at the start (pp. 3-45). This is tricky to enter - grammar entries should be "alive," i.e. readers should see exactly how often and where each grammatical feature shows up in the reading passges. Thus readers should always have examples and be able to determine how important a feature is. Readers of the reading passages should also have links back into the grammar so that they can see a grammatical explanation for what they are reading.
 
@@ -25,5 +31,35 @@ Firdawsī., Vullers, J. Augustus. (187784). Liber regum qui inscribitur Schahnam
 
   * A glossary not only provides definitions but also vocalized transliterations (pp. 299-473). A first pass at editing this glossary is on Github: https://github.com/gregorycrane/Shahnameh/blob/master/pizzi-glossary.it.xml. Crane did a first pass matching words in the reader to the appropriate glossary entries (some debugging info [on Google Drive](https://docs.google.com/spreadsheets/d/12Y0Icmzg7NO-zjFfV8_XuHfhGEgYlUHNizk19VRtKoM/edit#gid=0)) -- readers will be able to click on most words in the readings and go to the glossary.
 
-  
 
+
+Firdawsī, and Julius Mohl. Le Livre Des Rois. Impr. nationale, 1876, https://catalog.hathitrust.org/Record/001005668.
+
+
+* This French prose translation is very clear and machine translation is very good.
+
+* GRC cleaned up volumes [1](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh.mohl01.xml) and [2](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh.mohl02.xml) with tagging of proper nouns. This was not easy as the print text is messy but it can be done.
+
+* Mohl does not have page numbers aligning it to the Mohl Persian. 
+
+
+
+Firdawsī, et al. The Sháhnáma of Firdaus. K. Paul, Trench, Trübner & Co. Ltd, 1905, https://catalog.hathitrust.org/Record/000686763. The Warner brothers translation of the SN is complete and in the public domain but a poetic translation in an old-fashioned style. We have the following cleaned up (more or less):
+
+
+
+* [volume 1](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh.warn01.xml)
+* [volume 2](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh.warn02.xml) and its [index](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-warn02-index.xml)
+* [volume 3](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh.warn03.xml)
+
+The Warner translation DOES have cross-references back into the Vullers edition. 
+
+We can align the sections in Warner to those of Mohl.
+
+And so we can:
+* Start in Warner --> go to Mohl
+* Start in Warner --> go to Vullers
+
+and hence
+
+* Start in Mohl and go to Vullers.
