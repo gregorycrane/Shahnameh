@@ -63,3 +63,9 @@ And so we can:
 and hence
 
 * Start in Mohl and go to Vullers.
+
+[Cambridge Shahnama Project](https://cudl.lib.cam.ac.uk/collections/shahnama/1). This includes pointers to IIIF manifests which, in turn, include crucial metadata. Most important for our immediate purposes: the metadata tells us the line numbers in Mohl and/or Khaleghi-Motlagh. 
+
+* https://cudl.lib.cam.ac.uk//iiif/MS-AGAKHAN-AKM155-00006-00162-00005-00495-00007-00903 
+
+* https://cudl.lib.cam.ac.uk//iiif/MS-ADD-00835 
