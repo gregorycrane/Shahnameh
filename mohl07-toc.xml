@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Shahnama of Firdausi, done into English by Arthur George Warner, MA, and Edmond Warner, BA</title>
+                <sponsor>Tufts University</sponsor>
+                <funder>Mellon Foundation</funder>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <resp>OCRd the text and added initial TEI XML and corrections</resp>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>Tufts University</authority>
+                <idno type="filename">https://archive.org/details/shahnama01firduoft https://archive.org/details/shahnama02firduoft https://archive.org/details/shahnama03firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama05firduoft https://archive.org/details/shahnama06firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama0;firduoft https://archive.org/details/shahnama08firduoft https://archive.org/details/shahnama09firduoft </idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</licence>
+                </availability>
+                <date>2024</date>
+                <publisher>Tufts University</publisher>
+                <pubPlace>Medford, MA, USA</pubPlace>
+            </publicationStmt>
+
+            <sourceDesc>
+                <listBibl xml:lang="la">
+                    <biblStruct>
+                        <monogr>
+                            <editor>
+                                <persName>
+                                    <name xml:lang="en">Innes, Gordon, 1924- : URI http://viaf.org/viaf/62788921</name>
+                                </persName>
+                            </editor>
+                            <author>Firdousi, Abū-al Qāsem, 0940-1020: URI http://viaf.org/viaf/101359236</author>
+                            <author>Arthur George Warner: URI https://viaf.org/viaf/214979921</author>
+                            <author>Edmond Warner: URI http://viaf.org/viaf/107122180</author>
+                            <title>Shahnama of Firdausi</title>
+                            <imprint>
+                                <publisher>Kegan Paul Trench, Trübner and co</publisher>
+                                <pubPlace>London</pubPlace>
+                                <date>1908</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="chapter"
+                         matchPattern="(\w+).(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts Book and Chapter</p>
+                </cRefPattern>
+                <cRefPattern n="book"
+                         matchPattern="(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="fra">French</language>
+            </langUsage>
+        </profileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            
+            <pb n="411"/>
+                
+
+
+<milestone unit="volume" n="1"/>
+
+
+        <div type="textpart" subtype="introduction">
+          <pb n="1"/>
+          <p n="1">Invocation, p. 1.</p>
+          <p n="2">Louange de l'intelligence, p. 2.</p>
+          <p n="3">Création du monde, p. 3.</p>
+          <p n="5">Création de l'homme, p. 5.</p>
+          <p n="6">Création du soleil, p. 6.</p>
+          <p n="7">Création de la lune, p. 7.</p>
+          <p n="8">Louanges du Prophète, p. 8.</p>
+          <p n="10">Comment le Livre des Rois fut composé, p. 10.</p>
+          <p n="11">Sur Dakiki le poète, p. 11.</p>
+          <p n="12">Comment le poème fut entrepris, p. 12.</p>
+          <p n="13">Louange d'Abou-Mansour, fils de Mohammed, p. 13.</p>
+          <p n="14">Louange du roi Mahmoud, p. 14.</p>
+        </div>
+
+        <div type="textpart" subtype="section" n="I">
+          <head>Kaïoumors, premier roi de Perse. 19 à 24</head>
+          <p n="21">Combat de Siamek avec le Div et mort de Siamek, p. 21.</p>
+          <p n="23">Combat de Kaïoumors et de Houscheng avec le Div noir, p. 23.</p>
+        </div>
+        <div type="textpart" subtype="section" n="II">
+          <head>Houschenk. 25 à 28</head>
+          <p n="26">Introduction de la fête du feu, p. 26.</p>
+        </div>
+        <div type="textpart" subtype="section" n="III">
+          <head>Tramouras, le vainqueur des Divs. 29 à 39</head>
+        </div>
+        <div type="textpart" subtype="section" n="IV">
+          <head>Djemschid. 39 à 47</head>
+          <p n="39">Histoire de Zohak et de son père, p. 39.</p>
+          <p n="43">Iblis se présente comme cuisinier, p. 43.</p>
+          <p n="46">Mort de Djemschid, p. 46.</p>
+        </div>
+        <div type="textpart" subtype="section" n="V">
+          <head>ZOHAK. 48 à 84</head>
+          <p n="51">Zohak voit Feridoun en rêve, p. 51.</p>
+          <p n="56">Naissance de Feridoun, p. 56.</p>
+          <p n="59">Feridoun questionne sa mère sur son lignage, p. 59.</p>
+          <p n="61">Histoire de Zohak et de Kaweh le forgeron, p. 61.</p>
+          <p n="68">Feridoun se met en marche pour combattre Zohak, p. 68.</p>
+          <p n="72">Feridoun voit les filles de Djemschid, p. 72.</p>
+          <p n="79">Ce qui se passa entre Feridoun et le lieutenant de Zohak, p. 79.</p>
+          <p n="79">Feridoun enchaîne Zohak, p. 79.</p>
+        </div>
+        <div type="textpart" subtype="section" n="VI">
+          <head>Feridoun. 85 à 163</head>
+          <p n="85">Avènement de Feridoun au trône, p. 85.</p>
+          <p n="88">Feridoun envoie Djendil dans le Yemen, p. 88.</p>
+          <p n="94">Réponse que le roi de Yemen donne à l'envoyé de Feridoun, p. 94.</p>
+          <p n="97">Les fils de Feridoun se rendent auprès du roi de Yemen, p. 97.</p>
+          <p n="98">Serv essaye sa magie contre les fils de Feridoun, p. 98.</p>
+          <p n="101">Feridoun met ses fils à l'épreuve, p. 101.</p>
+          <p n="104">Feridoun distribue la terre entre ses fils, p. 104.</p>
+          <p n="105">Jalousie de Selm contre Iredj, p. 105.</p>
+          <p n="108">Message de Selm et de Tour à Feridoun, p. 108.</p>
+          <p n="111">Réponse de Feridoun à ses fils, p. 111.</p>
+          <p n="116">Iredj se rend auprès de ses frères, p. 116.</p>
+          <p n="119">Iredj est assassiné par ses frères, p. 119.</p>
+          <p n="122">Feridoun reçoit la nouvelle de la mort d’Iredj, p. 122.</p>
+          <p n="125">Naissance d’une fille d’Iredj, p. 125.</p>
+          <p n="126">Naissance de Minoutchehr, p. 126.</p>
+          <p n="128">Selm et Tour ont nouvelle de Minoutchehr, p. 128.</p>
+          <p n="131">Les fils de Feridoun lui envoient un message, p. 131.</p>
+          <p n="132">Réponse de Feridoun à ses fils, p. 132.</p>
+          <p n="139">Feridoun envoie Minoutchehr pour combattre Tour et Selm, p. 139.</p>
+          <p n="142">Minoutchehr attaque l’armée de Tour, p. 142.</p>
+          <p n="145">Tour est tué de la main de Minoutchehr, p. 145.</p>
+          <p n="147">Minoutchehr annonce sa victoire à Feridoun, p. 147.</p>
+          <p n="149">Karen prend la forteresse des Alains, p. 149.</p>
+          <p n="152">Attaque faite par Kakoui, petit-fils de Zohak, p. 152.</p>
+          <p n="155">Selm s'enfuit et meurt de la main de Minoutchehr, p. 155.</p>
+          <p n="158">Minoutchehr envoie la tête de Selm à Feridoun, p. 158.</p>
+          <p n="162">Mort de Feridoun, p. 162.</p>
+        </div>
+  
+        <div type="textpart" subtype="section" n="VII" xml:id="Minoutchehr">
+            <head>Minoutchehr</head>
+            <p n="167">Naissance de Zal, p. 167.</p>
+            <p n="171">Sam voit son fils en songe, p. 171.</p>
+            <p n="178">Minoutchehr apprend l’histoire de Sam et de Zal-zer, p. 178.</p>
+            <p n="182">Retour de Zal dans le Zaboulistan, p. 182.</p>
+            <p n="184">Sam confie son royaume à Zal, p. 184.</p>
+            <p n="188">Zal va visiter Mihrab, roi de Kaboul, p. 188.</p>
+            <p n="192">Roudabeh tient conseil avec ses esclaves, p. 192.</p>
+            <p n="197">Les esclaves de Roudabeh vont voir Zal-zer, p. 197.</p>
+            <p n="203">Retour des esclaves auprès de Roudabeh, p. 203.</p>
+            <p n="206">Zal va voir Roudabeh, p. 206.</p>
+            <p n="210">Zal consulte les Mobeds au sujet de Roudabeh, p. 210.</p>
+            <p n="214">Zal écrit à Sam pour lui exposer sa position, p. 214.</p>
+            <p n="218">Sam consulte les Mobeds relativement à Zal, p. 218.</p>
+            <p n="221">Sindokht apprend ce que Roudabeh avait fait, p. 221.</p>
+            <p n="225">Mihrab apprend l'aventure de sa fille, p. 225.</p>
+            <p n="231">Minoutchehr apprend l'aventure de Zal et de Roudabeh, p. 231.</p>
+            <p n="234">Sam vient voir Minoutchehr, p. 234.</p>
+            <p n="238">Sam part pour aller combattre Mihrab, p. 238.</p>
+            <p n="242">Zal va en ambassade auprès de Minoutchehr, p. 242.</p>
+            <p n="248">Colère de Mihrab contre Sindokht, p. 248.</p>
+            <p n="250">Sam console Sindokht, p. 250.</p>
+            <p n="257">Zal porte la lettre de Sam à Minoutchehr, p. 257.</p>
+            <p n="259">Les Mobeds mettent Zal à l'épreuve, p. 259.</p>
+            <p n="261">Zal répond aux Mobeds, p. 261.</p>
+            <p n="264">Zal montre sa prouesse devant Minoutchehr, p. 264.</p>
+            <p n="267">Réponse de Minoutchehr à la lettre de Sam, p. 267.</p>
+            <p n="270">Zal arrive auprès de Sam, p. 270.</p>
+            <p n="275">Naissance du fils de Zal, p. 275.</p>
+            <p n="282">Sam va voir Rustem, p. 282.</p>
+            <p n="286">Rustem tue l'éléphant blanc, p. 286.</p>
+            <p n="291">Rustem part pour le mont Sipend, p. 291.</p>
+            <p n="294">Rustem écrit à Zal pour lui annoncer sa victoire, p. 294.</p>
+            <p n="297">Lettre de Zal à Sam, p. 297.</p>
+            <p n="298">Minoutchehr exhorte son fils en mourant, p. 298.</p>
+          </div>
+          <div type="textpart" subtype="section" n="VIII" xml:id="Newder">
+            <head>Newder</head>
+            <p n="302">Newder monte sur le trône, p. 302.</p>
+            <p n="307">Pescheng apprend la mort de Minoutchehr, p. 307.</p>
+            <p n="311">Afrasiab part pour l'Iran, p. 311.</p>
+            <p n="313">Combat contre Kobad et Farman, et mort de Kobad, p. 313.</p>
+            <p n="318">Deuxième combat d’Afrasiab contre Newder, p. 318.</p>
+            <p n="321">Troisième combat de Newder et d’Afrasiab, p. 321.</p>
+            <p n="325">Newder tombe entre les mains d’Afrasiab, p. 325.</p>
+            <p n="327">Wiseh trouve son fils mort, p. 327.</p>
+            <p n="329">Expédition de Schemasas et de Khazarwan dans le Zaboulistan, p. 329.</p>
+            <p n="331">Zal vient en aide à Mihrab, p. 331.</p>
+            <p n="334">Afrasiab assassine Newder, p. 334.</p>
+            <p n="337">Zal apprend la mort de Newder, p. 337.</p>
+            <p n="342">Meurtre d’Agbrirez par la main de son frère, p. 342.</p>
+          </div>
+          <div type="textpart" subtype="section" n="IX" xml:id="Zew">
+            <head>Zew, fils de Thahmasp</head>
+            <pb n="345"/>
+          </div>
+          <div type="textpart" subtype="section" n="X" xml:id="Guerschasp">
+            <head>Guerschasp</head>
+            <p n="354">Rustem s'empare de Rakhsh, p. 354.</p>
+            <p n="357">Zal conduit son armée contre Afrasiab, p. 357.</p>
+            <p n="359">Rustem mène Keïkobad du mont Alborz, p. 359.</p>
+          </div>
+          <div type="textpart" subtype="section" n="XI" xml:id="Keikobad">
+            <head>Keïkobad</head>
+            <p n="369">Rustem combat Afrasiab, p. 369.</p>
+            <p n="372">Afrasiab se rend auprès de son père, p. 372.</p>
+            <p n="376">Pescheng demande la paix à Keïkobad, p. 376.</p>
+            <p n="381">Keïkobad se rend à Istakhr, dans le Fars, p. 381.</p>
+          </div>
+
+          <div type="textpart" subtype="section" n="XII" xml:id="KeiKaous">
+            <head>Keï Kaous</head>
+            <div type="textpart" subtype="subsection" n="1" xml:id="GuerreContreLeMazenderan">
+              <head>Guerre contre le Mazenderan</head>
+              <p n="391">Zal donne conseil à Kaous, p. 391.</p>
+              <p n="395">Kaous part pour le Mazenderan, p. 395.</p>
+              <p n="400">Message de Kaous pour Zal et pour Rustem, p. 400.</p>
+              <div type="textpart" subtype="subsubsection" n="1" xml:id="LesSeptAventuresDeRustem">
+                <head>Les sept aventures de Rustem</head>
+                <p n="404">Première aventure: Raksch combat un lion, p. 404.</p>
+                <p n="406">Deuxième aventure: Rustem trouve une source, p. 406.</p>
+                <p n="409">Troisième aventure: Rustem combat un dragon, p. 409.</p>
+                <p n="412">Quatrième aventure: Rustem tue une magicienne, p. 412.</p>
+                <p n="414">Cinquième aventure: Aulad tombe au pouvoir de Rustem, p. 414.</p>
+                <p n="421">Sixième aventure: Combat de Rustem contre le Div Arzeng, p. 421.</p>
+                <p n="424">Septième aventure: Rustem tue le Div blanc, p. 424.</p>
+           
+              <p n="430">Kaous écrit une lettre au roi du Mazenderan, p. 430.</p>
+              <p n="434">Rustem va chez le roi du Mazenderan avec un message, p. 434.</p>
+              <p n="439">Combat de Kaous contre le roi du Mazenderan, p. 439.</p>
+              <p n="448">Kaous retourne dans l'Iran et congédie Rustem, p. 448.</p>
+            </div>
+            <milestone unit="volume" n="2"/>       
+            <div type="textpart" subtype="subsection" n="2" xml:id="ExpeditionDeKeiKaousDansLeBerberistan">
+              <head>Expédition de Keï Kaous dans le Berberistan, et autres histoires</head>
+              <p n="1">Guerre contre le roi du Hamaveran, p. 1.</p>
+              <p n="7">Kaous demande en mariage Soudabeh, fille du roi du Hamaveran, p. 7.</p>
+              <p n="10">Le roi du Hamaveran s'empare de Kaous, p. 10.</p>
+              <p n="14">Afrasiab attaque le pays d'Iran, p. 14.</p>
+              <p n="17">Rustem envoie un message au roi du Hamaveran, p. 17.</p>
+              <p n="21">Rustem combat les trois rois et délivre Kaous de prison, p. 21.</p>
+              <p n="25">Kaous envoie des messages au Kaïsar de Roum et à Afrasiab, p. 25.</p>
+              <p n="30">Kaous rétablit l'ordre dans le monde, p. 30.</p>
+              <p n="31">Kaous est tenté par Iblis et vole vers le ciel, p. 31.</p>
+              <p n="34">Rustem ramène Kaous, p. 34.</p>
+              <p n="38">Le combat des sept héros, p. 38.</p>
+              <p n="44">Rustem combat les Touraniens, p. 44.</p>
+              <p n="46">Combat de Pilsem contre les Iraniens, p. 46.</p>
+              <p n="50">Combat d'Alkous, p. 50.</p>
+              <p n="53">Afrasiab s'enfuit du champ de bataille, p. 53.</p>
+            </div>
+            <div type="textpart" subtype="subsection" n="3" xml:id="HistoireDeSohrab">
+              <head>Histoire de Sohrab</head>
+              <p n="54">Commencement du récit, p. 54.</p>
+              <p n="56">Rustem va à la chasse, p. 56.</p>
+              <p n="58">Rustem arrive dans la ville de Samengan, p. 58.</p>
+              <p n="60">Tehmineh, fille du roi de Samengan, va trouver Rustem, p. 60.</p>
+              <p n="64">Naissance de Sohrab, p. 64.</p>
+              <p n="66">Sohrab choisit un cheval, p. 66.</p>
+              <p n="69">Afrasiab envoie Barman et Houman auprès de Sohrab, p. 69.</p>
+              <p n="71">Sohrab arrive au Château-Blanc, p. 71.</p>
+              <p n="73">Sohrab combat Gurdaferid, p. 73.</p>
+              <p n="79">Lettre de Guzdehem à Kaous, p. 79.</p>
+              <p n="82">Sohrab s'empare du Château-Blanc, p. 82.</p>
+              <p n="83">Kaous écrit à Rustem et le fait venir du Zaboulistan, p. 83.</p>
+              <p n="89">Kaous se met en colère contre Rustem, p. 89.</p>
+              <p n="97">Kaous et Rustem se mettent en campagne, p. 97.</p>
+              <p n="99">Rustem tue Zendeh Rezm, p. 99.</p>
+              <p n="103">Sohrab demande à Hedjir les noms des chefs des Iraniens, p. 103.</p>
+              <p n="112">Sohrab attaque l’armée de Kaous, p. 112.</p>
+              <p n="117">Combat de Rustem contre Sohrab, p. 117.</p>
+              <p n="120">Sohrab et Rustem retournent à leurs camps, p. 120.</p>
+              <p n="126">Sohrab met Rustem par terre, p. 126.</p>
+              <p n="132">Sohrab est frappé à mort par Rustem, p. 132.</p>
+              <p n="140">Rustem demande un baume à Kaous, p. 140.</p>
+              <p n="141">Lamentations de Rustem sur la mort de Sohrab, p. 141.</p>
+              <p n="146">Retour de Rustem dans le Zaboulistan, p. 146.</p>
+              <p n="149">La mère de Sohrab apprend sa mort, p. 149.</p>
+            </div>
+
+            <div type="textpart" subtype="subsection" n="4" xml:id="HistoireDeSiawusch">
+                <head>Histoire de Siawusch</head>
+                <p n="153">Commencement du récit, p. 153.</p>
+                <p n="155">Histoire de la mère de Siawusch, p. 155.</p>
+                <p n="158">Naissance de Siawusch, p. 158.</p>
+                <p n="161">Siawusch revient du Zaboulistan, p. 161.</p>
+                <p n="163">La mère de Siawusch meurt, p. 163.</p>
+                <p n="164">Soudabeh devient amoureuse de Siawusch, p. 164.</p>
+                <p n="167">Siawusch se rend chez Soudabeh, p. 167.</p>
+                <p n="172">Deuxième visite de Siawusch dans l'appartement des femmes, p. 172.</p>
+                <p n="177">Troisième visite de Siawusch dans l'appartement des femmes, p. 177.</p>
+                <p n="179">Soudabeh trompe le roi, p. 179.</p>
+                <p n="182">Soudabeh complote avec une magicienne, p. 182.</p>
+                <p n="184">Kaous s'informe de l'origine de deux enfants trouvés morts dans le palais, p. 184.</p>
+                <p n="188">Siawusch traverse le feu, p. 188.</p>
+                <p n="192">Siawusch demande à son père la grâce de Soudabeh, p. 192.</p>
+                <p n="195">Kaous apprend qu’Afrasiab s’est mis en marche, p. 195.</p>
+                <p n="198">Siawusch entre en campagne, p. 198.</p>
+                <p n="201">Lettre de Siawusch à Kaous, p. 201.</p>
+                <p n="202">Réponse de Kaous à la lettre de Siawusch, p. 202.</p>
+                <p n="205">Afrasiab a un rêve et en est effrayé, p. 205.</p>
+                <p n="207">Afrasiab fait interpréter son songe, p. 207.</p>
+                <p n="210">Afrasiab tient conseil avec les grands, p. 210.</p>
+                <p n="213">Guersiwez arrive auprès de Siawusch, p. 213.</p>
+                <p n="215">Siawusch conclut un traité avec Afrasiab, p. 215.</p>
+                <p n="218">Siawusch envoie Rustem auprès de Kaous, p. 218.</p>
+                <p n="220">Rustem rend compte à Kaous, p. 220.</p>
+                <p n="224">Kaous renvoie Rustem dans le Seistan, p. 224.</p>
+                <p n="225">Kaous répond à la lettre de Siawusch, p. 225.</p>
+                <p n="228">Siawusch consulte Bahram et Zengueh, p. 228.</p>
+                <p n="234">Zengueh se rend auprès d’Afrasiab, p. 234.</p>
+                <p n="237">Lettre d’Afrasiab à Siawusch, p. 237.</p>
+                <p n="240">Siawusch cède le commandement à Bahram, p. 240.</p>
+                <p n="247">Entrevue de Siawusch et d’Afrasiab, p. 247.</p>
+                <p n="250">Siawusch montre son adresse devant Afrasiab, p. 250.</p>
+                <p n="255">Afrasiab et Siawusch vont à la chasse, p. 255.</p>
+                <p n="257">Piran donne sa fille en mariage à Siawusch, p. 257.</p>
+                <p n="259">Piran parle de Ferenguis à Siawusch, p. 259.</p>
+                <p n="261">Entretien de Piran et d’Afrasiab, p. 261.</p>
+                <p n="264">Fiançailles de Ferenguis et de Siawusch, p. 264.</p>
+                <p n="267">Afrasiab donne une province à Siawusch, p. 267.</p>
+                <p n="270">Siawusch bâtit Gangdiz, p. 270.</p>
+                <p n="274">Siawusch s’entretient avec Piran de son avenir, p. 274.</p>
+                <p n="278">Afrasiab envoie Piran dans les provinces, p. 278.</p>
+                <p n="281">Siawusch bâtit Siawuschguird, p. 281.</p>
+                <p n="284">Piran visite Siawuschguird, p. 284.</p>
+                <p n="286">Naissance de Firoud, fils de Siawusch, p. 286.</p>
+                <p n="288">Siawusch joue à la balle, p. 288.</p>
+                <p n="293">Guersiwez revient et calomnie Siawusch auprès d'Afrasiab, p. 293.</p>
+                <p n="299">Guersiwez retourne auprès de Siawusch, p. 299.</p>
+                <p n="307">Lettre de Siawusch à Afrasiab, p. 307.</p>
+                <p n="309">Afrasiab se met en campagne contre Siawusch, p. 309.</p>
+                <p n="310">Siawusch a un songe, p. 310.</p>
+                <p n="312">Siawusch déclare ses dernières volontés à Ferenguis, p. 312.</p>
+                <p n="315">Siawusch tombe entre les mains d’Afrasiab, p. 315.</p>
+                <p n="323">Ferenguis vient se lamenter devant Afrasiab, p. 323.</p>
+                <p n="326">Meurtre de Siawusch par Gueroui, p. 326.</p>
+                <p n="330">Piran délivre Ferenguis, p. 330.</p>
+                <p n="333">Naissance de Keï Khosrou, p. 333.</p>
+                <p n="336">Piran confie le jeune Keï Khosrou à des pâtres, p. 336.</p>
+                <p n="339">Piran mène Keï Khosrou auprès d’Afrasiab, p. 339.</p>
+                <p n="343">Keï Khosrou retourne à Siawuschguird, p. 343.</p>
+              </div>
+              <div type="textpart" subtype="subsection" n="5" xml:id="DepartDeKhosrouPourLePaysDlran">
+                <head>Départ de Khosrou pour le pays d'Iran</head>
+                <p n="345">Commencement du récit, p. 345.</p>
+                <p n="346">Kaous apprend le sort de Siawusch, p. 346.</p>
+                <p n="347">Rustem se rend auprès de Kaous, p. 347.</p>
+                <p n="349">Rustem tue Soudabeh et entre en campagne, p. 349.</p>
+                <p n="354">Faramourz tue Barazad, roi de Sipendjab, p. 354.</p>
+                <p n="357">Surkha se met en marche contre Rustem, p. 357.</p>
+                <p n="359">Afrasiab se met en campagne pour venger son fils, p. 359.</p>
+                <p n="361">Rustem tue Pilsem, p. 361.</p>
+                <p n="366">Afrasiab fuit devant Rustem, p. 366.</p>
+                <p n="369">Afrasiab envoie Kei Khosrou à Khoten, p. 369.</p>
+                <p n="373">Rustem gouverne le Touran pendant sept ans, p. 373.</p>
+                <p n="374">Zewar va voir les réserves de chasse de Siawusch, p. 374.</p>
+                <p n="376">Rustem dévaste le Touran, p. 376.</p>
+                <p n="378">Rustem retourne dans le pays d'Iran, p. 378.</p>
+                <p n="380">Gouderz voit Keï Khosrou en songe, p. 380.</p>
+                <p n="383">Guiv se rend dans le Touran pour chercher Keï Khosrou, p. 383.</p>
+                <p n="393">Guiv et Khosrou se rendent à Siawushgerd, p. 393.</p>
+                <p n="394">Keï Khosrou s'empare du cheval Rakhsh, p. 394.</p>
+                <p n="398">Ferenguis part pour l'Iran avec Keï Khosrou et Guiv, p. 398.</p>
+                <p n="399">Guiv met en fuite Kelbad et Nestihen, p. 399.</p>
+                <p n="403">Piran poursuit Keï Khosrou, p. 403.</p>
+                <p n="405">Combat de Guiv et de Piran, p. 405.</p>
+                <p n="408">Guiv fait Piran prisonnier, p. 408.</p>
+                <p n="410">Ferenguis délivre Piran des mains de Guiv, p. 410.</p>
+                <p n="412">Afrasiab rencontre Piran sur la route, p. 412.</p>
+                <p n="416">Guiv dispute avec le percepteur du péage, p. 416.</p>
+                <p n="418">Keï Khosrou passe le Djihoun, p. 418.</p>
+                <p n="421">Keï Khosrou arrive à Ispahan, p. 421.</p>
+                <p n="424">Keï Khosrou arrive chez Kaous, p. 424.</p>
+                <p n="428">Thous refuse de reconnaître Khosrou, p. 428.</p>
+                <p n="431">Colère de Gouderz contre Thous, p. 431.</p>
+                <p n="433">Gouderz et Thous font prononcer Kaous sur la succession au trône, p. 433.</p>
+                <p n="436">Thous et Feribourz attaquent vainement le château de Bahman, p. 436.</p>
+                <p n="437">Keï Khosrou s'empare du château de Bahman, p. 437.</p>
+                <p n="441">Keï Khosrou revient victorieux, p. 441.</p>
+                <p n="443">Kaous place Khosrou sur le trône, p. 443.</p>
+
+                </div></div>
+                <div type="textpart" subtype="section" n="XIII" xml:id="KeiKaosrou">
+                    <head>Keï Kaosrou</head>
+                    <div type="textpart" subtype="subsection" n="1" xml:id="PremiereGuerreContreAfrasiab">
+                      <head>Première guerre contre Afrasiab</head>
+                      <p n="445">Commencement du récit, p. 445.</p>
+                      <p n="446">Les grands rendent hommage à Keï Khosrou, p. 446.</p>
+                      <p n="449">Keï Khosrou fait le tour de son empire, p. 449.</p>
+                      <p n="451">Keï Khosrou promet à Kaous de se venger d’Afrasiab, p. 451.</p>
+                      <p n="455">Keï Khosrou passe en revue les Pehlevans, p. 455.</p>
+                      <p n="457">Khosrou distribue des trésors aux Pehlevans, p. 457.</p>
+                      <p n="453">Khosrou envoie Rostam dans l'Inde, p. 453.</p>
+                      <p n="464">Keï Khosrou organise son armée, p. 464.</p>
+                      <p n="472">Commencement de l’histoire de Firoud, fils de Siawusch, p. 472.</p>
+                      <p n="472">Thous entre dans le pays des Turcs, p. 472.</p>
+                      <p n="476">Firoud apprend l’arrivée de Thous, p. 476.</p>
+                      <p n="480">Firoud et Tokhareh vont observer l’armée iranienne, p. 480.</p>
+                      <p n="484">Bahram se rend sur la montagne auprès de Firoud, p. 484.</p>
+                      <p n="489">Bahram retourne auprès de Thous, p. 489.</p>
+                      <p n="491">Firoud tue Rivniz, p. 491.</p>
+                      <p n="491">Firoud tue Zerasp, p. 491.</p>
+                      <p n="493">Thous attaque Firoud, p. 493.</p>
+                      <p n="497">Combat de Guiv et de Firoud, p. 497.</p>
+                      <p n="501">Combat de Bijen et de Firoud, p. 501.</p>
+                      <p n="503">Mort de Firoud, p. 503.</p>
+                      <p n="508">Djerireh se donne la mort, p. 508.</p>
+                      <p n="511">Thous conduit son armée vers le Kasehroud; Bijen tue Palaschan, p. 511.</p>
+                      <p n="515">Les Iraniens souffrent de la neige, p. 515.</p>
+                      <p n="518">Bahram fait Keboudeh prisonnier, p. 518.</p>
+                      <p n="520">Rejaou combat les Iraniens, p. 520.</p>
+                      <p n="524">Afrasiab apprend l'invasion de Thous, p. 524.</p>
+                      <p n="527">Piran surprend les Iraniens pendant la nuit, p. 527.</p>
+                      <p n="531">Keï Khosrou rappelle Thous, p. 531.</p>
+                      <p n="535">Feribourz propose à Piran un armistice, p. 535.</p>
+                      <p n="538">Les Iraniens sont de nouveau battus par les Turcs, p. 538.</p>
+                      <p n="546">Bahram cherche son fouet sur le champ de bataille, p. 546.</p>
+                      <p n="550">Tejaou tue Bahram, p. 550.</p>
+                      <p n="555">Guiv met à mort Tejaou pour venger Bahram, p. 555.</p>
+                      <p n="559">Les Iraniens reviennent auprès de Khosrou, p. 559.</p>
+                    </div>
+
+                    <milestone unit="volume" n="3"/>
+                    <div type="textpart" subtype="subsection" n="2" xml:id="HistoireDeKamousDeKaschan">
+                      <head>Histoire de Kamous de Kaschan</head>
+                      <p n="1">Commencement de l’histoire, p. 1.</p>
+                      <p n="2">Keï Khosrou fait mauvais accueil à Thous, p. 2.</p>
+                      <p n="5">Khosrou pardonne aux Iraniens, p. 5.</p>
+                      <p n="7">Keï Khosrou renvoie Thous dans le Touran, p. 7.</p>
+                      <p n="9">Piran envoie un message aux Iraniens, p. 9.</p>
+                      <p n="11">Afrasiab envoie une armée à Piran, p. 11.</p>
+                      <p n="13">Thous tue Arjeng, p. 13.</p>
+                      <p n="21">Deuxième combat entre les deux armées, p. 21.</p>
+                      <p n="25">Les Touraniens emploient la magie contre les Iraniens, p. 25.</p>
+                      <p n="30">Les Iraniens se retirent sur le mont Hemawen, p. 30.</p>
+                      <p n="32">Les Touraniens entourent le mont Hemawen, p. 32.</p>
+                      <p n="38">Piran suit les Iraniens jusqu'au mont Îlemawen, p. 38.</p>
+                      <p n="40">Les Iraniens font une attaque de nuit, p. 40.</p>
+                      <p n="46">Keï Khosrou reçoit des nouvelles de son armée, p. 46.</p>
+                      <p n="50">Feribourz demande en mariage Ferenguis, mère de Khosrou, p. 50.</p>
+                      <p n="55">Thous voit Siawusch en songe, p. 55.</p>
+                      <p n="57">Afrasiab envoie le Khakan et Kamous au secours de Piran, p. 57.</p>
+                      <p n="61">Le Khakan de la Chine s'approche du Hemawen, p. 61.</p>
+                      <p n="63">Les Iraniens tiennent conseil sur leur position, p. 63.</p>
+                      <p n="64">Gouderz apprend que Rustem s'approche, p. 64.</p>
+                      <p n="70">Le Khakan de la Chine va reconnaître l’armée des Iraniens, p. 70.</p>
+                      <p n="74">Feribourz arrive au mont Hemawen, p. 74.</p>
+                      <p n="76">Piran tient conseil avec le Khakan, p. 76.</p>
+                      <p n="81">Combat de Guiv et de Thous contre Kamous, p. 81.</p>
+                      <p n="84">Rustem arrive auprès des Iraniens, p. 84.</p>
+                      <p n="88">Les deux armées se rangent en bataille, p. 88.</p>
+                      <p n="95">Combat de Rustem avec Aschkebous, p. 95.</p>
+                      <p n="99">Piran s’informe si Rustem est arrivé, p. 99.</p>
+                      <p n="103">Les Iraniens et les Touraniens forment leur ligne de bataille, p. 103.</p>
+                      <p n="105">Kamous tue Alwa, p. 105.</p>
+                      <p n="107">Rustem tue Kamous, p. 107.</p>
+                    </div>
+                    <div type="textpart" subtype="subsection" n="3" xml:id="CombatDeRustemEtDuKhakanDeLaChine">
+                        <head>Combat de Rustem et du Khakan de la Chine</head>
+                        <p n="110">Le Khakan apprend la mort de Kamous, p. 110.</p>
+                        <p n="112">Combat de Djinghisch avec Rustem, p. 112.</p>
+                        <p n="115">Le Khakan envoie Houman auprès de Rustem, p. 115.</p>
+                        <p n="120">Piran tient conseil avec Houman et le Khakan, p. 120.</p>
+                        <p n="123">Piran se rend auprès de Rustem, p. 123.</p>
+                        <p n="128">Les Touraniens tiennent conseil, p. 128.</p>
+                        <p n="135">Rustem adresse la parole à son armée, p. 135.</p>
+                        <p n="140">Les Iraniens et les Touraniens forment leurs rangs, p. 140.</p>
+                        <p n="145">Commencement du combat, p. 145.</p>
+                        <p n="147">Schenkoul combat Rustem et s'enfuit, p. 147.</p>
+                        <p n="150">Combat de Rustem contre Saweh, p. 150.</p>
+                        <p n="152">Rustem tue Gahar de Gahan, p. 152.</p>
+                        <p n="155">Le Khakan est fait prisonnier, p. 155.</p>
+                        <p n="160">Défaite des Touraniens, p. 160.</p>
+                        <p n="162">Rustem distribue le butin, p. 162.</p>
+                        <p n="169">Lettre de Rustem à Kei Khosrou, p. 169.</p>
+                        <p n="172">Réponse de Keï Khosrou à la lettre de Rustem, p. 172.</p>
+                        <p n="175">Afrasiab apprend la défaite de son armée, p. 175.</p>
+                        <p n="178">Combat de Rustem contre Zafour le mangeur d'hommes, p. 178.</p>
+                        <p n="186">Afrasiab reçoit des nouvelles de Rustem, p. 186.</p>
+                        <p n="193">Lettre d’Afrasiab à Pouladwend, p. 193.</p>
+                        <p n="197">Combat de Pouladwend contre Thous et Guiv, p. 197.</p>
+                        <p n="200">Combat de Rustem contre Pouladvend, p. 200.</p>
+                        <p n="204">Rustem et Pouladwend luttent corps à corps, p. 204.</p>
+                        <p n="208">Afrasiab s'enfuit devant Rustem, p. 208.</p>
+                        <p n="210">Rustem revient à la cour du roi, p. 210.</p>
+                        <p n="214">Rustem s’en retourne dans le Seïstan, p. 214.</p>
+                      </div>
+                      <div type="textpart" subtype="subsection" n="4" xml:id="HistoireEtCombatDeRustemContreLeDivAkwan">
+                        <head>Histoire et combat de Rustem contre le Div Akwan</head>
+                        <p n="215">Commencement du récit, p. 215.</p>
+                        <p n="216">Khosrou appelle Rustem à son aide contre le Div Akwan, p. 216.</p>
+                        <p n="219">Rustem cherche le Div, p. 219.</p>
+                        <p n="221">Le Div Akwan jette Rustem dans la mer, p. 221.</p>
+                        <p n="225">Afrasiab vient voir ses chevaux; Rustem tue Akwan, p. 225.</p>
+                        <p n="228">Retour de Rustem dans l'Iran, p. 228.</p>
+                      </div>
+                      <div type="textpart" subtype="subsection" n="5" xml:id="HistoireDeBijenEtDeMenijeh">
+                        <head>Histoire de Bijen et de Menijeh</head>
+                        <p n="231">Commencement du récit, p. 231.</p>
+                        <p n="234">Les Iraniens demandent protection à Khosrou, p. 234.</p>
+                        <p n="239">Bijen va combattre les sangliers, p. 239.</p>
+                        <p n="241">Gourguin trompe Bijen, p. 241.</p>
+                        <p n="244">Bijen va regarder Menijeh, fille d’Afrasiab, p. 244.</p>
+                        <p n="248">Bijen se rend à la tente de Menijeh, p. 248.</p>
+                        <p n="249">Menijeh enlève Bijen et l’emmène dans son palais, p. 249.</p>
+                        <p n="252">Guersiwez amène Bijen devant Afrasiab, p. 252.</p>
+                        <p n="257">Piran demande à Afrasiab la grâce de Bijen, p. 257.</p>
+                        <p n="262">Afrasiab jette Bijen en prison, p. 262.</p>
+                        <p n="264">Gourguin s’en retourne dans l'Iran et tient des discours mensongers sur Bijen, p. 264.</p>
+                        <p n="270">Guiv amène Gourguin devant Khosrou, p. 270.</p>
+                        <p n="274">Keï Khosrou voit Bijen dans la coupe qui réfléchit le monde, p. 274.</p>
+                        <p n="276">Khosrou écrit à Rustem, p. 276.</p>
+                        <p n="279">Guiv porte à Rustem la lettre de Khosrou, p. 279.</p>
+                        <p n="283">Rustem donne une fête à Guiv, p. 283.</p>
+                        <p n="285">Rustem se rend auprès de Khosrou, p. 285.</p>
+                        <p n="289">Keï Khosrou fête les Pehlewans, p. 289.</p>
+                        <p n="292">Rustem demande au roi la grâce de Gourguin, p. 292.</p>
+                        <p n="299">Rustem compose son cortège, p. 299.</p>
+                        <p n="297">Rustem se rend à Khoten auprès de Piran, p. 297.</p>
+                        <p n="301">Menijeh vient voir Rustem, p. 301.</p>
+                        <p n="304">Bijen devine l’arrivée de Rustem, p. 304.</p>
+                        <p n="310">Rustem tire Bijen d’une fosse, p. 310.</p>
+                        <p n="314">Rustem attaque de nuit le palais d’Afrasiab, p. 314.</p>
+                        <p n="316">Afrasiab vient attaquer Rustem, p. 316.</p>
+                        <p n="319">Défaite d’Afrasiab, p. 319.</p>
+                        <p n="321">Retour de Rustem auprès de Keï Khosrou, p. 321.</p>
+                        <p n="324">Khosrou donne une fête, p. 324.</p>
+                      </div>
+                    </div>
+                    <div type="textpart" subtype="subsection" n="6" xml:id="HistoireDuCombatDesDouzeChampions">
+                        <head>Histoire du combat des douze champions</head>
+                        <p n="327">Commencement du récit, p. 327.</p>
+                        <p n="329">Afrasiab rassemble une armée, p. 329.</p>
+                        <p n="332">Keï Khosrou envoie Gouderz contre les Touraniens, p. 332.</p>
+                        <p n="337">Guiv porte à Piran un message de Gouderz, p. 337.</p>
+                        <p n="342">Guiv va à Wisehguird pour voir Piran, p. 342.</p>
+                        <p n="344">Les deux armées forment leur ligne de bataille, p. 344.</p>
+                        <p n="351">Bijen demande à Guiv la permission de livrer bataille, p. 351.</p>
+                        <p n="355">Houman demande à Piran la permission de combattre, p. 355.</p>
+                        <p n="357">Houman défie Rehman au combat, p. 357.</p>
+                        <p n="361">Houman provoque Feribourz au combat, p. 361.</p>
+                        <p n="363">Houman provoque Gouderz au combat, p. 363.</p>
+                        <p n="368">Bijen apprend ce qu'a fait Houman, p. 368.</p>
+                        <p n="374">Guiv donne à Bijen la cuirasse de Siawusch, p. 374.</p>
+                        <p n="378">Houman vient combattre Bijen, p. 378.</p>
+                        <p n="383">Houman est tué par la main de Bijen, p. 383.</p>
+                        <p n="387">Nesihen fait une attaque de nuit et y périt, p. 387.</p>
+                        <p n="392">Gouderz demande du secours à Khosrou, p. 392.</p>
+                        <p n="396">Réponse de Khosrou à la lettre de Gouderz, p. 396.</p>
+                        <p n="400">Khosrou équipe une armée, p. 400.</p>
+                        <p n="403">Piran écrit à Gouderz pour demander la paix, p. 403.</p>
+                        <p n="410">Réponse de Gouderz à la lettre de Piran, p. 410.</p>
+                        <p n="420">Piran demande des secours à Afrasiab, p. 420.</p>
+                        <p n="424">Réponse d’Afrasiab à Piran, p. 424.</p>
+                        <p n="428">Bataille rangée entre les deux armées, p. 428.</p>
+                        <p n="433">Combat de Guiv et de Piran. Le cheval de Guiv s'arrête, p. 433.</p>
+                        <p n="438">Gouderz et Piran conviennent du combat des onze champions, p. 438.</p>
+                        <p n="446">Piran adresse la parole aux grands de son armée, p. 446.</p>
+                        <p n="449">Gouderz et Piran choisissent les champions, p. 449.</p>
+                        <p n="454">Combat de Feribourz contre Kelbad, p. 454.</p>
+                        <p n="455">Combat de Guiv contre Guebrui Zereh, p. 455.</p>
+                        <p n="456">Combat de Gourazeh contre Siamek, p. 456.</p>
+                        <p n="457">Combat de Fourouhil contre Zengouleh, p. 457.</p>
+                        <p n="457">Combat de Rehham contre Farman, p. 457.</p>
+                        <p n="459">Combat de Bijen contre Rouïn, p. 459.</p>
+                        <p n="460">Combat de Hedjir contre Sipahram, p. 460.</p>
+                        <p n="461">Combat de Zengueh, fils de Schawehran, contre Aukhast, p. 461.</p>
+                        <p n="462">Combat de Gouruin contre Anderiman, p. 462.</p>
+                        <p n="463">Combat de Zarteh contre Kehrem, p. 463.</p>
+                        <p n="464">Combat de Gouderz contre Piran, p. 464.</p>
+                        <p n="468">Gouderz revient auprès des champions de l'Iran, p. 468.</p>
+                        <p n="472">Lehhak et Ferschidwerd se lamentent sur la mort de Piran, p. 472.</p>
+                        <p n="477">Lehhak et Ferschidwerd partent pour le Touran, p. 477.</p>
+                        <p n="479">Gustehem poursuit Lehhak et Ferschidwerd, p. 479.</p>
+                        <p n="482">Bijen suit les traces de Gustehem, p. 482.</p>
+                        <p n="485">Gustehem tue Lehhak et Ferschidwerd, p. 485.</p>
+                        <p n="488">Bijen trouve Gustehem couché dans la prairie, p. 488.</p>
+                        <p n="491">Keï Khosrou fait élever un mausolée à la mémoire de Piran et des chefs des Touraniens; il fait mettre à mort Guebrui Zereh, p. 491.</p>
+                        <p n="496">Les Touraniens demandent grâce à Khosrou, p. 496.</p>
+                        <p n="499">Bijen ramène Gustehem, p. 499.</p>
+                      </div>
+                      <milestone unit="volume" n="4"/>
+                      <div type="textpart" subtype="subsection" n="7" xml:id="LaGrandeGuerreDeKeiKuosrouContreAfrasiab">
+                        <head>La grande guerre de Keï Kuosrou contre Afrasiab</head>
+                        <p n="1">Louange du sultan Mahmoud, p. 1.</p>
+                        <p n="5">Commencement du récit. Keï Khosrou réunit une armée contre Afrasiab, p. 5.</p>
+                        <p n="15">Afrasiab apprend la mort de Piran et les préparatifs de guerre de Keï Khosrou, p. 15.</p>
+                        <p n="24">Keï Khosrou apprend qu’Afrasiab s’avance pour l’attaquer, p. 24.</p>
+                        <p n="26">Pescheng se présente devant son père Afrasiab, p. 26.</p>
+                        <p n="30">Afrasiab envoie un message à Keï Khosrou, p. 30.</p>
+                        <p n="35">Keï Khosrou répond à Afrasiab, p. 35.</p>
+                        <p n="42">Combat de Khosrou avec Schideh, fils d’Afrasiab, p. 42.</p>
+                        <p n="47">Khosrou tue Schideh, p. 47.</p>
+                        <p n="50">Combat général des deux armées, p. 50.</p>
+                        <p n="59">Fuite d’Afrasiab, p. 59.</p>
+                        <p n="61">Khosrou annonce sa victoire à Kaous, p. 61.</p>
+                        <p n="62">Afrasiab arrive à Gangue Diz, p. 62.</p>
+                        <p n="64">Keï Khosrou passe le Djihoun, p. 64.</p>
+                        <p n="68">Seconde bataille entre Keï Khosrou et Afrasiab, p. 68.</p>
+                        <p n="71">Afrasiab se réfugie à Gangui Bichischt, p. 71.</p>
+                        <p n="76">Afrasiab écrit au Faghfour de la Chine, p. 76.</p>
+                        <p n="78">Keï Khosrou arrive devant Gangue, p. 78.</p>
+                        <p n="80">Djehn vient porter un message d’Afrasiab, p. 80.</p>
+                        <p n="85">Keï Khosrou répond à Djehn, p. 85.</p>
+
+                            <p n="90">Keï Khosrou attaque Afrasiab et s'empare de Gangue Diz, p. 90.</p>
+                            <p n="95">Afrasiab s’enfuit de Gangue, p. 95.</p>
+                            <p n="97">Khosrou protège les femmes d'Afrasiab, p. 97.</p>
+                            <p n="104">Lettre de Keï Khosrou à Kaous pour lui annoncer sa victoire, p. 104.</p>
+                            <p n="105">Khosrou apprend qu'Afrasiab a rejoint l’armée du Faghfour, p. 105.</p>
+                            <p n="108">Lettre d'Afrasiab à Keï Khosrou, p. 108.</p>
+                            <p n="111">Combat entre les Iraniens et les Touraniens, p. 111.</p>
+                            <p n="113">Afrasiab fait une attaque de nuit et est battu par Keï Khosrou, p. 113.</p>
+                            <p n="118">Le Khakan de la Chine envoie un ambassadeur à Keï Khosrou, p. 118.</p>
+                            <p n="119">Afrasiab passe le lac de Zereh, p. 119.</p>
+                            <p n="129">Keï Khosrou envoie à Kaous les captifs et des présents, p. 129.</p>
+                            <p n="128">Réponse de Kaous à la lettre de Keï Khosrou, p. 128.</p>
+                            <p n="130">Keï Khosrou envoie un message au Faghfour de la Chine et au roi du Mekran, p. 130.</p>
+                            <p n="134">Bataille entre Keï Khosrou et le roi du Mekran; mort de celui-ci, p. 134.</p>
+                            <p n="138">Keï Khosrou passe la mer de Zereh, p. 138.</p>
+                            <p n="142">Keï Khosrou arrive à Gangue Diz, p. 142.</p>
+                            <p n="144">Khosrou part de Gangue Diz et se rend à Siawuschgerd, p. 144.</p>
+                            <p n="150">Keï Khosrou s’en retourne du Touran dans l'Iran, p. 150.</p>
+                            <p n="152">Retour de Keï Khosrou auprès de son grand-père, p. 152.</p>
+                            <p n="156">Afrasiab est pris par Houm, de la famille de Feridoun, p. 156.</p>
+                            <p n="159">Afrasiab échappe à Houm, p. 159.</p>
+                            <p n="162">Kaous et Khosrou se rendent auprès de Houm, p. 162.</p>
+                            <p n="165">Afrasiab est pris pour la seconde fois et mis à mort avec Guersiwez, p. 165.</p>
+                            <p n="168">Kaous et Khosrou s’en retournent dans le pays de Fars, p. 168.</p>
+                            <p n="169">Mort de Keï Kaous, p. 169.</p>
+                            <p n="172">Keï Khosrou prend la vie en dégoût, p. 172.</p>
+                            <p n="175">Les grands se plaignent de ce que Khosrou ferme sa cour, p. 175.</p>
+                            <p n="178">Les Iraniens appellent Zal et Rustem, p. 178.</p>
+                            <p n="182">Keï Khosrou voit en rêve le Serosch, p. 182.</p>
+                            <p n="183">Zal fait des représentations à Keï Khosrou, p. 183.</p>
+                            <p n="187">Keï Khosrou répond à Zal, p. 187.</p>
+                            <p n="189">Zal fait des reproches à Keï Khosrou, p. 189.</p>
+                            <p n="192">Réponse de Keï Khosrou et repentir de Zal, p. 192.</p>
+                            <p n="196">Khosrou annonce aux Iraniens ses dernières volontés, p. 196.</p>
+                            <p n="199">Khosrou indique à Gouderz ses dernières volontés, p. 199.</p>
+                            <p n="201">Zal demande à Khosrou une investiture pour Rustem, p. 201.</p>
+                            <p n="203">Keï Khosrou donne une lettre d'investiture à Guiv, p. 203.</p>
+                            <p n="205">Khosrou accorde une investiture à Thous, p. 205.</p>
+                            <p n="206">Keï Khosrou donne la royauté à Lohrasp, p. 206.</p>
+                            <p n="210">Keï Khosrou dit adieu à ses favorites, p. 210.</p>
+                            <p n="219">Keï Khosrou se rend dans la montagne et disparaît dans la neige, p. 219.</p>
+                            <p n="216">Les Pehlewans sont ensevelis sous la neige, p. 216.</p>
+                            <p n="219">Lohrasp apprend la disparition de Keï Khosrou, p. 219.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XIV" xml:id="Lohrasp">
+                            <head>Lohrasp</head>
+                            <p n="223">Lohrasp fonde le temple du feu à Balkh, p. 223.</p>
+                            <p n="224">Guschtasp quitte Lohrasp en colère, p. 224.</p>
+                            <p n="227">Zerir ramène Guschtasp, p. 227.</p>
+                            <p n="231">Guschtasp part pour le Roum, p. 231.</p>
+                            <p n="233">Guschtasp arrive à Roum, p. 233.</p>
+                            <p n="237">Un Dihkan reçoit Guschtasp chez lui, p. 237.</p>
+                            <p n="238">Histoire de Kitaboun, fille du Kaisar, p. 238.</p>
+                            <p n="241">Le Kaisar donne Kitaboun à Guschtasp, p. 241.</p>
+                            <p n="243">Mirin demande en mariage la deuxième fille du Kaisar, p. 243.</p>
+                            <p n="249">Guschtasp tue le loup de Fasikoun, p. 249.</p>
+                            <p n="255">Ahren demande en mariage la troisième fille du Kaisar, p. 255.</p>
+                            <p n="261">Guschtasp tue le dragon, et le Kaisar donne sa fille à Ahren, p. 261.</p>
+                            <p n="265">Guschtasp se distingue dans le cirque, p. 265.</p>
+                            <p n="269">Lettre du Kaisar à Ilias, à qui il demande un tribut, p. 269.</p>
+                            <p n="273">Combat de Guschtasp et d’Ilias, et mort de ce dernier, p. 273.</p>
+                            <p n="278">Le Kaisar exige de Lohrasp un tribut pour l'Iran, p. 278.</p>
+                            <p n="278">Zerir porte au Kaisar un message de Lohrasp, p. 278.</p>
+                            <p n="281">Guschtasp s’en retourne dans l'Iran avec Zerir, et Lohrasp lui abandonne le trône, p. 281.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XV" xml:id="Guschtasp">
+                            <head>Guschtasp</head>
+                            <p n="287">Firdousi voit Dakiki en songe, p. 287.</p>
+                            <p n="288">Lohrasp se retire à Balkh, et Guschtasp monte sur le trône, p. 288.</p>
+                            <p n="290">Zerdouscht paraît et Guschtasp adopte sa religion, p. 290.</p>
+                            <p n="293">Guschtasp refuse à Ardjasp le tribut de l'Iran, p. 293.</p>
+                            <p n="296">Lettre d’Ardjasp à Guschtasp, p. 296.</p>
+                            <p n="299">Ardjasp envoie des messagers à Guschtasp, p. 299.</p>
+                            <p n="301">Zerir répond à Ardjasp, p. 301.</p>
+                            <p n="303">Les envoyés d’Ardjasp s’en retournent avec la réponse de Guschtasp, p. 303.</p>
+                            <p n="307">Guschtasp rassemble son armée, p. 307.</p>
+                            <p n="309">Djasp dévoile à Guschtasp l'issue de la bataille, p. 309.</p>
+                            <p n="317">Guschtasp et Ardjasp mettent en ordre leurs armées, p. 317.</p>
+                            <p n="320">Commencement de la bataille entre les Iraniens et les Touraniens, p. 320.</p>
+                            <p n="322">Mort de Guerami, fils de Djasp, p. 322.</p>
+                            <p n="325">Mort de Zerir, frère de Guschtasp, p. 325.</p>
+                            <p n="327">Zerir est tué par Bidirefsch, p. 327.</p>
+                            <p n="330">Isfendiar apprend la mort de Zerir, p. 330.</p>
+                            <p n="332">Isfendiar attaque Ardjasp, p. 332.</p>
+                            <p n="335">Nestour et Isfendiar tuent Bidirefsch, p. 335.</p>
+                            <p n="337">Ardjasp s'enfuit de la bataille, p. 337.</p>
+                            <p n="339">Isfendiar fait grâce aux Turcs, p. 339.</p>
+                            <p n="341">Guschtasp s’en retourne à Balkh, p. 341.</p>
+                            <p n="343">Guschtasp envoie Isfendiar dans tous les pays pour les convertir à la religion de Zerdouscht, p. 343.</p>
+                            <p n="346">Gurezm calomnie Isfendiar, p. 346.</p>
+                            <p n="349">Djasp arrive auprès d’Isfendiar, p. 349.</p>
+                            <p n="351">Guschtasp fait charger de chaînes Isfendiar, p. 351.</p>
+                            <p n="354">Guschtasp se rend dans le Seistan, et Ardjasp réunit de nouveau son armée, p. 354.</p>
+                            <p n="357">Firdousi fait la critique de Dakiki, p. 357.</p>
+                            <p n="359">L'armée d’Ardjasp arrive à Balkh et tue Lohrasp, p. 359.</p>
+                            <p n="363">Guschtasp apprend la mort de Lohrasp et marche vers Balkh, p. 363.</p>
+                            <p n="367">Guschtasp s'enfuit devant Ardjasp, p. 367.</p>
+                            <p n="370">Djasp se rend auprès d’Isfendiar, p. 370.</p>
+                            <p n="376">Isfendiar voit son frère Ferschidwerd, p. 376.</p>
+                            <p n="380">Isfendiar arrive dans la montagne, auprès de Guschtasp, p. 380.</p>
+                            <p n="389">Guschtasp envoie Isfendiar de nouveau contre Ardjasp, p. 389.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="HistoireDesSeptStations" xml:id="HistoireDesSeptStations">
+                            <head>Histoire des sept stations</head>
+                            <p n="391">Louanges du roi Mahmoud, p. 391.</p>
+                            <p n="393">Première station: Isfendiar tue les deux loups, p. 393.</p>
+                            <p n="398">Deuxième station: Isfendiar tue les lions, p. 398.</p>
+                            <p n="400">Troisième station: Isfendiar tue le dragon, p. 400.</p>
+                            <p n="404">Quatrième station: Isfendiar tue la magicienne, p. 404.</p>
+                            <p n="408">Cinquième station: Isfendiar tue un simourgh, p. 408.</p>
+                            <p n="411">Sixième station: Isfendiar traverse les neiges, p. 411.</p>
+                            <p n="418">Septième station: Isfendiar traverse l’eau et tue Kergsar, p. 418.</p>
+                          </div>
+
+
+                          <div type="textpart" subtype="subsection" n="8" xml:id="IsfendiarChateauAirain">
+                            <head>Isfendiar s’introduit dans le Château d’airain, déguisé en marchand</head>
+                            <p n="423">Isfendiar s’introduit dans le Château d’airain, déguisé en marchand, p. 423.</p>
+                            <p n="428">Isfendiar est reconnu par ses soeurs, p. 428.</p>
+                            <p n="432">Beschouten attaque le château d’airain, p. 432.</p>
+                            <p n="435">Isfendiar tue Ardjasp, p. 435.</p>
+                            <p n="438">Isfendiar tue Kehrem, p. 438.</p>
+                            <p n="443">Lettre d'Isfendiar à Guschtasp et réponse de celui-ci, p. 443.</p>
+                            <p n="446">Retour d'Isfendiar auprès de Guschtasp, p. 446.</p>
+                          </div>
+                          <div type="textpart" subtype="subsection" n="9" xml:id="CombatIsfendiarRustem">
+                            <head>Combat d'Isfendiar contre Rustem</head>
+                            <p n="451">Commencement du récit, p. 451.</p>
+                            <p n="455">Isfendiar demande le trône à son père, p. 455.</p>
+                            <p n="458">Réponse de Guschtasp, p. 458.</p>
+                            <p n="461">Kitaboun donne des conseils à Isfendiar, p. 461.</p>
+                            <p n="464">Isfendiar conduit une armée dans le Zaboulistan, p. 464.</p>
+                            <p n="466">Isfendiar envoie Bahman auprès de Rustem, p. 466.</p>
+                            <p n="470">Bahman rencontre Zal, p. 470.</p>
+                            <p n="472">Bahman s’acquitte de son message, p. 472.</p>
+                            <p n="476">Rustem répond à Bahman, p. 476.</p>
+                            <p n="480">Retour de Bahman, p. 480.</p>
+                            <p n="482">Rustem et Isfendiar se rencontrent, p. 482.</p>
+                            <p n="487">Isfendiar n'invite pas Rustem à diner, p. 487.</p>
+                            <p n="490">Isfendiar fait des excuses à Rustem de ne l'avoir pas invité, p. 490.</p>
+                            <p n="493">Isfendiar déprécie la famille de Rustem, p. 493.</p>
+                            <p n="497">Isfendiar fait l'éloge de sa famille, p. 497.</p>
+                            <p n="500">Rustem se vante de ses hauts faits, p. 500.</p>
+                            <p n="504">Rustem et Isfendiar boivent du vin, p. 504.</p>
+                            <p n="510">Rustem s’en retourne à son palais, p. 510.</p>
+                            <p n="514">Zal donne conseil à Rustem, p. 514.</p>
+                            <p n="518">Combat de Rustem et d’Isfendiar, p. 518.</p>
+                            <p n="523">Les fils d’Isfendiar sont tués par Zewareh et Faramourz, p. 523.</p>
+                            <p n="527">Rustem s’enfuit sur le haut de la montagne, p. 527.</p>
+                            <p n="533">Rustem tient conseil avec sa famille, p. 533.</p>
+                            <p n="535">Le Simourgh indique à Rustem un moyen de salut, p. 535.</p>
+                            <p n="540">Rustem retourne au combat contre Isfendiar, p. 540.</p>
+                            <p n="544">Rustem lance une flèche dans l'oeil d'Isfendiar, p. 544.</p>
+                            <p n="549">Isfendiar charge Rustem de ses dernières volontés, p. 549.</p>
+                            <p n="554">Beschouten amène le cercueil d’Isfendiar à Guschtasp, p. 554.</p>
+                            <p n="560">Rustem renvoie Bahman dans l'Iran, p. 560.</p>
+                          </div>
+                          <div type="textpart" subtype="subsection" n="10" xml:id="AventureRustemScheghad">
+                            <head>Aventure de Rustem et de Scheghad</head>
+                            <p n="564">Commencement du récit, p. 564.</p>
+                            <p n="566">Rustem se rend à Kaboul pour aider son frère Scheghad, p. 566.</p>
+                            <p n="573">Le roi de Kaboul fait creuser des fosses dans la réserve de chasse; Rustem et Zewareh y tombent, p. 573.</p>
+                            <p n="576">Rustem tue Scheghad et meurt, p. 576.</p>
+                            <p n="579">Zal apprend la mort de Rustem; Faramourz apporte le cercueil de son père et le place dans un tombeau, p. 579.</p>
+                            <p n="582">Faramourz marche avec une armée pour venger Rustem et met à mort le roi de Kaboul, p. 582.</p>
+                            <p n="585">La perte de son fils rend folle Roudabeh, p. 585.</p>
+                            <p n="586">Guschtasp abandonne le trône à Bahman, p. 586.</p>
+                          </div>
+                          <milestone unit="volume" n="5"/>
+
+                          <div type="textpart" subtype="section" n="XVI" xml:id="BahmanFilsDIsfendiar">
+                            <head>Bahman, fils d'Isfendiar</head>
+                            <p n="1">Bahman venge la mort d’Isfendiar, p. 1.</p>
+                            <p n="3">Bahman charge Zal de chaînes, p. 3.</p>
+                            <p n="6">Faramourz combat Bahman et perd la vie, p. 6.</p>
+                            <p n="9">Bahman rend la liberté à Zal et s’en retourne dans l'Iran, p. 9.</p>
+                            <p n="11">Bahman épouse sa fille Homaï et lui destine la succession au trône, p. 11.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XVII" xml:id="Homai">
+                            <head>Homaï</head>
+                            <p n="14">Homaï abandonne au cours de l'Euphrate son fils Darab, enfermé dans une boîte, p. 14.</p>
+                            <p n="17">Un blanchisseur élève Darab, p. 17.</p>
+                            <p n="21">Darab demande à la femme du blanchisseur son origine et va à la guerre contre le Roum, p. 21.</p>
+                            <p n="24">Reschnewad apprend la vérité sur Darab, p. 24.</p>
+                            <p n="27">Darab se bat contre l’armée de Roum, p. 27.</p>
+                            <p n="30">Homai reconnaît son fils, p. 30.</p>
+                            <p n="33">Homaï place Darab sur le trône, p. 33.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XVIII" xml:id="Danas">
+                            <head>Danas</head>
+                            <p n="37">Darab fonde la ville de Darabguird, p. 37.</p>
+                            <p n="39">Darab bat l’armée de Schoaïb, p. 39.</p>
+                            <p n="40">Darab combat Pheilekous et épouse sa fille, p. 40.</p>
+                            <p n="43">Darab renvoie Nahid. Elle met au monde Iskender, p. 43.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XIX" xml:id="DaraFilsDeDarab">
+                            <head>Dara, fils de Darab</head>
+                            <p n="49">Mort de Pheilckous et avènement d’Iskender, p. 49.</p>
+                            <p n="52">Iskender se rend auprès de Dara comme son propre ambassadeur, p. 52.</p>
+                            <p n="57">Dara livre bataille à Iskender et est vaincu, p. 57.</p>
+                            <p n="59">Deuxième bataille de Dara contre Iskender, p. 59.</p>
+                            <p n="62">Troisième bataille entre Iskender et Dara, et fuite de Dara dans le Kerman, p. 62.</p>
+                            <p n="65">Lettre de Dara à Iskender pour demander la paix, p. 65.</p>
+                            <p n="67">Dara est assassiné par ses Deslours, p. 67.</p>
+                            <p n="69">Dara communique à Iskender ses dernières volontés et meurt, p. 69.</p>
+                            <p n="75">Iskender écrit une lettre aux grands de l'Iran, p. 75.</p>
+                          </div>
+                          <div type="textpart" subtype="section" n="XX" xml:id="Iskender">
+                            <head>ISKENDER</head>
+                            <p n="79">Commencement du récit, p. 79.</p>
+                            <p n="82">Lettre d’Iskender à Dilaraï, mère de Rouschenck, p. 82.</p>
+                            <p n="86">Iskender épouse Rouschenek, p. 86.</p>
+                            <p n="88">Songe de Keïd, roi de Kanoudj, p. 88.</p>
+                            <p n="92">Réponse de Mihran à Keïd, p. 92.</p>
+                            <p n="97">Iskender marche contre Keïd, p. 97.</p>
+                            <p n="101">Iskender envoie neuf savants pour voir les quatre merveilles de Keïd, p. 101.</p>
+                            <p n="104">Les neuf sages amènent à Iskender les quatre merveilles de Keïd, p. 104.</p>
+                            <p n="105">Iskender met à l'épreuve le sage, le médecin et la coupe de Keïd, p. 105.</p>
+                            <p n="108">Iskender met à l'épreuve le médecin indien, p. 108.</p>
+                            <p n="111">Iskender met à l'épreuve la coupe de Keïd, p. 111.</p>
+                            <p n="112">Lettre d’Iskender à Four l’Indien, p. 112.</p>
+                            <p n="115">Iskender conduit son armée à la guerre contre Four, p. 115.</p>
+                            <p n="120">Combat d'Iskender contre les Indiens et mort de Four, p. 120.</p>
+                            <p n="124">Iskender va en pèlerinage à la Kaaba, p. 124.</p>
+                            <p n="126">Iskender conduit son armée vers le Misr, p. 126.</p>
+                            <p n="128">Lettre d’Iskender à Keidafeh, p. 128.</p>
+                            <p n="130">Le fils de Keïdafeh tombe entre les mains des Roumis, p. 130.</p>
+                            <p n="134">Iskender se rend en ambassadeur auprès de Keïdafeh, p. 134.</p>
+                            <p n="139">Keïdafeh donne un conseil à Iskender, p. 139.</p>
+                            <p n="142">Iskender se met en garde contre Theinousch, p. 142.</p>
+                            <p n="146">Iskender fait une convention avec Keïdafeh et s’en retourne, p. 146.</p>
+                            <p n="153">Iskender se rend dans le pays des Brahmanes, p. 153.</p>
+                            <p n="158">Iskender se rend à la mer d'Occident et au pays de Habesch, p. 158.</p>
+                            <p n="162">Iskender arrive auprès des hommes aux pieds flexibles et tue un dragon, p. 162.</p>
+                            <p n="165">Iskender voit des merveilles dans la ville de Heroum, p. 165.</p>
+                            <p n="171">Iskender marche vers l'Occident, p. 171.</p>
+                            <p n="172">Iskender cherche l’eau de la vie, p. 172.</p>
+                            <p n="174">Iskender converse avec les oiseaux, p. 174.</p>
+                            <p n="176">Iskender voit l'ange Israfil, p. 176.</p>
+                            <p n="178">Iskender construit le rempart de Gog et de Magog, p. 178.</p>
+                            <p n="182">Iskender voit un mort dans un palais de topazes, p. 182.</p>
+                            <p n="183">Iskender voit l'arbre qui parle, p. 183.</p>
+                            <p n="186">Iskender se rend auprès du Faghfour de la Chine, p. 186.</p>
+                            <p n="193">Iskender arrive au pays de Sind et y livre une bataille, p. 193.</p>
+                            <p n="195">Iskender conduit son armée à Babylone, p. 195.</p>
+                            <p n="198">Lettre d'Iskender à Aristalis et réponse de celui-ci, p. 198.</p>
+
+
+                            <p n="201">Lettre d’Iskender à sa mère et ses dernières volontés, p. 201.</p>
+          <p n="203">Iskender meurt à Babylone, p. 203.</p>
+          <p n="206">Lamentations des sages sur Iskender, p. 206.</p>
+          <p n="209">Lamentations de la mère et de la femme d’Iskender, p. 209.</p>
+          <p n="211">Firdousi se plaint de son âge et de son sort, p. 211.</p>
+        </div>
+                          </div>
+
+
+
+                          <div type="textpart" subtype="section" n="XXI" xml:id="DynastieDESAschkanides">
+                            <head>Dynastie DES Aschkanides</head>
+                            <p n="213">Louanges du sultan Mahmoud, p. 213.</p>
+                            <p n="216">Commencement de l’histoire des Aschkanides, p. 216.</p>
+                            <p n="217">Babek voit en songe l'avenir de Sasan, p. 217.</p>
+                            <p n="221">Naissance d’Ardeschir Babekan, p. 221.</p>
+                            <p n="223">Ardeschir va à la cour d’Ardewan, p. 223.</p>
+                            <p n="226">Gulnar voit Ardeschir, et Babek meurt, p. 226.</p>
+                            <p n="228">Ardeschir s'enfuit avec Gulnar, p. 228.</p>
+                            <p n="230">Ardewan apprend la fuite de Gulnar et d’Ardeschir, p. 230.</p>
+                            <p n="234">Ardeschir réunit une armée, p. 234.</p>
+                            <p n="237">Ardeschir combat Bahman et reste vainqueur, p. 237.</p>
+                            <p n="239">Combat d’Ardeschir contre Ardewan et mort d’Ardewan, p. 239.</p>
+                            <p n="243">Ardeschir combat les Kurdes, p. 243.</p>
+                            <p n="247">Histoire du ver d'Heftwad, p. 247.</p>
+                            <p n="251">Ardeschir combat Heftwad et est défait, p. 251.</p>
+                            <p n="254">Schirek, fils de Nouschzad, pille le palais d’Ardeschir, p. 254.</p>
+                            <p n="259">Ardeschir tue le ver d’Heftwad, p. 259.</p>
+                            <p n="263">Ardeschir met à mort Heftwad, p. 263.</p>
+                          </div>
+                          <div type="textpart" subtype="dynasty" n="Sassanides" xml:id="DynastieDESSassanides"><head>DYNASTIE DES SASSANIDES</head>
+                                
+                            <div type="textpart" subtype="section" n="XXII" xml:id="ArdeschirBabekan">
+                              <head>Ardeschir Babekan</head>
+                              <p n="265">Ardeschir monte sur le trône, p. 265.</p>
+                              <p n="266">Aventure d’Ardeschir avec la fille d’Ardewan, p. 266.</p>
+                              <p n="269">Naissance de Schapour, fils d’Ardeschir, p. 269.</p>
+                              <p n="273">Schapour joue à la balle et est reconnu par Ardeschir, p. 273.</p>
+                              <p n="276">Ardeschir se fait prédire son sort par Keïd l’Indien, p. 276.</p>
+                              <p n="279">Schapour épouse la fille de Mihrek, p. 279.</p>
+                              <p n="282">La fille de Mihrek met au monde Ormuzd, fils de Schapour, p. 282.</p>
+                              <p n="285">Ardeschir organise l'administration de son empire, p. 285.</p>
+                              <p n="291">Ardeschir indique ses dernières volontés aux grands de l'Iran, p. 291.</p>
+                              <p n="297">Ardeschir adresse à tous ses derniers avis, p. 297.</p>
+                              <p n="299">Kharrad prononce les louanges d'Ardeschir, p. 299.</p>
+                              <p n="302">Ardeschir abandonne le gouvernement à Schapour, p. 302.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXII" xml:id="SchapourFilsDArdeschir">
+                              <head>bis. Schapour, fils d'Ardeschir</head>
+                              <p n="310">Schapour monte sur le trône, p. 310.</p>
+                              <p n="312">Guerre de Schapour contre les Roumis, p. 312.</p>
+                              <p n="315">Schapour communique à son fils Ormuzd ses dernières volontés, p. 315.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXIII" xml:id="OrmuzdFilsDeSchapour">
+                              <head>Ormuzd, fils de Schapour</head>
+                              <p n="317">Commencement du récit, p. 317.</p>
+                              <p n="319">Dernières volontés et mort d'Ormuzd, p. 319.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXIV" xml:id="BahramFilsDOrmuzd">
+                              <head>Bahram, fils d'Ormuzd</head>
+                              <p n="324">Commencement du récit, p. 324.</p>
+                              <p n="327">Bahram remet le commandement à Bahram, fils de Bahram, et meurt, p. 327.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXV" xml:id="BahramFilsDeBahram">
+                              <head>Bahram, fils de Bahram</head>
+                              <p n="328">Commencement du récit, p. 328.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXVI" xml:id="BahramBahramian">
+                              <head>Bahram Bahramian</head>
+                              <p n="331">Commencement du récit, p. 331.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXVII" xml:id="NersiFilsDeBahram">
+                              <head>Nersi, fils de Bahram</head>
+                              <p n="333">Commencement du récit, p. 333.</p>
+                            </div>
+                            <div type="textpart" subtype="section" n="XXVIII" xml:id="OrmuzdFilsDeNersi">
+                              <head>Ormuzd, fils de Nersi</head>
+                              <p n="336">Commencement du récit, p. 336.</p>
+                            </div>
+
+                            <div type="textpart" subtype="section" n="XIX" xml:id="SchapourDuoulAktaf">
+                                <head>Schapour Duoul Aktaf</head>
+                                <p n="339">Commencement du récit, p. 339.</p>
+                                <p n="342">Thair l’Arabe enlève la fille de Nersi et Schapour le combat, p. 342.</p>
+                                <p n="343">Malikeh, fille de Thair, devient amoureuse de Schapour, p. 343.</p>
+                                <p n="345">Malikeh livre la forteresse à Schapour, et Thair y périt, p. 345.</p>
+                                <p n="348">Schapour va à Roum (Ctésiphon), où le Kaïsar le fait coudre dans une peau d'âne, p. 348.</p>
+                                <p n="353">Une jeune fille délivre Schapour de sa peau d’âne, p. 353.</p>
+                                <p n="357">Schapour et la jeune fille s'enfuient de Roum et arrivent dans l'Iran, p. 357.</p>
+                                <p n="360">Les Iraniens reconnaissent Schapour; celui-ci rassemble autour de lui une armée, p. 360.</p>
+                                <p n="364">Schapour, dans une attaque de nuit, fait prisonnier le Kaisar, p. 364.</p>
+                                <p n="370">Schapour conduit une armée dans le Roum et combat le frère du Kaïsar, p. 370.</p>
+                                <p n="372">Baranousch est placé sur le trône par les Roumis. Sa lettre à Schapour, p. 372.</p>
+                                <p n="379">Baranousch se rend auprès de Schapour et conclut un traité avec lui, p. 379.</p>
+                                <p n="379">Mani paraît et prétend être prophète, p. 379.</p>
+                                <p n="381">Schapour nomme régent son frère Ardeschir, p. 381.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXXI" xml:id="ArdeschirLeBon">
+                                <head>Ardeschir Le Bon</head>
+                                <p n="386">Ardeschir monte au trône et fait une allocution aux chefs de l'Iran, p. 386.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXII" xml:id="SemarourFilsDeSchapour">
+                                <head>Semarour, fils de Schapour</head>
+                                <p n="388">Commencement du récit, p. 388.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXIII" xml:id="BauramFilsDeSchapour">
+                                <head>Bauram, fils de Schapour</head>
+                                <p n="391">Commencement du récit, p. 391.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXIV" xml:id="YezogcugroLeMecuant">
+                                <head>Yezdeguerd Le Méchant</head>
+                                <p n="394">Yezdeguerd monte sur le trône, p. 394.</p>
+                                <p n="396">Naissance de Bahram, p. 396.</p>
+                                <p n="399">Yezdeguerd charge Mondhir et Noman d'élever son fils Bahram, p. 399.</p>
+                                <p n="405">Ce qui arriva à la chasse entre Bahram et une joueuse de luth, p. 405.</p>
+                                <p n="408">Bahram montre sa valeur à la chasse, p. 408.</p>
+                                <p n="409">Bahram retourne auprès de son père Yezdeguerd avec Noman, p. 409.</p>
+                                <p n="413">Yezdeguerd fait enfermer Bahram. Retour de Bahram auprès de Mondhir, p. 413.</p>
+                                <p n="415">Yezdeguerd va à Chous et est tué par un cheval qui sort de l’eau, p. 415.</p>
+                                <p n="419">Les grands placent Khosrou sur le trône, p. 419.</p>
+                                <p n="421">Bahram Gour apprend la mort de son père, p. 421.</p>
+                                <p n="424">Lettre des Iraniens à Bahram et réponse de celui-ci, p. 424.</p>
+                                <p n="427">Bahram Gour se rend à Djehrem, et les Iraniens vont à sa rencontre, p. 427.</p>
+                                <p n="432">Bahram parle aux Iraniens de son aptitude pour la royauté, p. 432.</p>
+                                <p n="435">Bahram saisit la couronne au milieu des lions, p. 435.</p>
+                              </div>
+                      
+
+
+
+
+                              <div type="textpart" subtype="section" n="XXXV" xml:id="BahramGour">
+                                <head>Bahram Gour</head>
+                                <p n="442">Commencement du récit, p. 442.</p>
+                                <p n="446">Bahram Gour rend congé de Mondhir et de Noman et remet aux Iraniens les impôts arriérés, p. 446.</p>
+                                <p n="449">Aventure de Bahram Gour avec Lembek le porteur d’eau, p. 449.</p>
+                                <p n="453">Aventure de Bahram Gour avec Baharam le juif, p. 453.</p>
+                                <p n="457">Bahram Gour donne à Lembek les richesses de Baharam, p. 457.</p>
+                                <p n="459">Aventure de Bahram Gour avec Mihr Bendad, p. 459.</p>
+                                <p n="461">Aventure de Bahram Gour avec Kebroi. Interdiction de l'usage du vin, p. 461.</p>
+                                <p n="463">Bahram Gour lève l’interdiction du vin par suite de l’aventure du petit cordonnier avec un lion, p. 463.</p>
+                                <p n="466">Le grand Mobed de Bahram Gour détruit un bourg et le fait refleurir, p. 466.</p>
+                                <p n="472">Aventure de Bahram Gour et des quatre soeurs, p. 472.</p>
+                                <p n="477">Bahram Gour trouve le trésor de Djemschid, p. 477.</p>
+                                <p n="483">Aventure de Bahram Gour avec un marchand et son apprenti, p. 483.</p>
+                                <p n="487">Bahram Gour tue un dragon. Son aventure avec la femme d’un jardinier, p. 487.</p>
+                                <p n="494">Bahram Gour va à la chasse et épouse les filles du Dihkan Berzin, p. 494.</p>
+                                <p n="502">Bahram montre son habileté à la chasse et épouse la fille d’un joaillier, p. 502.</p>
+                                <p n="518">Aventure de Bahram avec Ferschidwerd, le chef de village, et l’homme qui arrachait les ronces, p. 518.</p>
+                                <p n="527">Bahram Gour va à la chasse et tue des lions, p. 527.</p>
+                                <p n="534">Bahram montre son habileté dans la chasse à l’onagre, p. 534.</p>
+                                <p n="539">Le Khakan de la Chine attaque l'Iran, et les Iraniens lui offrent leur soumission, p. 539.</p>
+                                <p n="544">Bahram Gour attaque le Khakan de la Chine, p. 544.</p>
+                                <p n="547">Bahram élève une colonne pour marquer la frontière entre l'Iran et le Touran, p. 547.</p>
+                                <p n="549">Lettre de Bahram Gour à son frère Nersi et aux Iraniens, p. 549.</p>
+                                <p n="551">Bahram Gour revient dans le pays d'Iran, p. 551.</p>
+                                <p n="553">Bahram Gour écrit des instructions pour ses employés, p. 553.</p>
+                                <milestone unit="volume" n="6"/>
+                                
+                                <p n="1">Bahram Gour envoie son frère Nersi dans le Khorasan et fait venir devant son trône l'envoyé du Kaisar, p. 1.</p>
+                                <p n="3">Questions et réponses de l’envoyé Roumi et des Mobeds de l'Iran, p. 3.</p>
+                                <p n="7">Bahram Gour donne congé à l’envoyé du Kaisar, p. 7.</p>
+                                <p n="9">Bahram adresse aux chefs un discours sur la justice, p. 9.</p>
+                                <p n="13">Babram Gour écrit une lettre à Schenguil, roi de l'Inde, p. 13.</p>
+                                <p n="16">Bahram Gour va dans l'Hindoustan porter sa propre lettre, p. 16.</p>
+                                <p n="18">Réponse de Schenguil à la lettre de Babram, p. 18.</p>
+                                <p n="21">Bahram combat un lutteur à la cour de Schenguil et montre sa bravoure, p. 21.</p>
+                                <p n="24">Schenguil conçoit des soupçons sur la qualité de Bahram et l'empêche de s’en retourner dans l'Iran, p. 24.</p>
+                                <p n="27">Bahram combat un loup et le tue, p. 27.</p>
+                                <p n="30">Bahram tue un dragon, p. 30.</p>
+                                <p n="33">Bahram Gour épouse la fille du roi de l'Inde, p. 33.</p>
+                                <p n="36">Lettre du Faghfour de la Chine et réponse de Bahram, p. 36.</p>
+                                <p n="39">Bahram s'enfuit de l'Inde avec la fille du roi Schenguil, p. 39.</p>
+                                <p n="43">Schenguil poursuit Bahram et apprend qui il est, p. 43.</p>
+                                <p n="45">Les Iraniens vont au devant de Bahram Gour, p. 45.</p>
+                                <p n="49">Schenguil se rend avec sept rois auprès de Bahram Gour, p. 49.</p>
+                                <p n="53">Schenguil s’en retourne de l'Iran dans l’Hindoustan, p. 53.</p>
+                                <p n="55">Bahram fait remise de l’impôt aux propriétaires des terres, p. 55.</p>
+                                <p n="60">Bahram fait venir de l’Inde des Louris, p. 60.</p>
+                                <p n="61">Fin de la vie de Bahram Gour, p. 61.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXXVI" xml:id="YezdeguerdFilsDeBahramGour">
+                                <head>Yezdeguerd, fils de Bahram Gour</head>
+                                <p n="65">Commencement du récit, p. 65.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXXVII" xml:id="HormuzFilsDeYezdeguerd">
+                                <head>Hormuz, fils de Yezdeguerd</head>
+                                <p n="68">Commencement du récit, p. 68.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXVII" xml:id="PirouzFilsDeYezdeguerd">
+                                <head>Pirouz, fils de Yezdeguerd</head>
+                                <p n="70">Pirouz monte sur le trône. Une sécheresse désole l'Iran pendant sept ans, p. 70.</p>
+                                <p n="72">Lettre de Pirouz contre les Touraniens, p. 72.</p>
+                                <p n="74">Lettre de Khouschnevaz à Pirouz, p. 74.</p>
+                                <p n="77">Pirouz tombe dans un fossé et est tué, p. 77.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="XXXIX" xml:id="BalaschFilsDePirouz">
+                                <head>Balasch, fils de Pirouz</head>
+                                <p n="81">Allocution de Balasch aux Iraniens, p. 81.</p>
+                                <p n="82">Lettre de Souferai à Khouschnevaz, p. 82.</p>
+                                <p n="87">Lettre de Souferai et de Kouschnevaz, p. 87.</p>
+                                <p n="92">Kobad revient dans l’Iran, p. 92.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="L" xml:id="KosanFilsDePirouz">
+                                <head>Kosan, fils de Pirouz</head>
+                                <p n="95">Kobad monte sur le trône et fait une allocution aux grands, p. 95.</p>
+                                <p n="97">Les Iraniens rendent Souferaï suspect à Kobad, qui le fait mettre à mort, p. 97.</p>
+                                <p n="102">Les Iraniens mettent Kobad dans les chaînes et placent sur le trône son frère Djamasp, p. 102.</p>
+                                <p n="104">Kobad s'enfuit et prend refuge chez les Heïtaliens, p. 104.</p>
+                                <p n="107">Kobad revient du pays des Heïtaliens. Kesra Nouschirwan vient au monde, et Kobad remonte sur son trône, p. 107.</p>
+                                <p n="109">Kobad adopte la religion de Mazdek, p. 109.</p>
+                                <p n="113">Kesra attaque Mazdek et le fait mettre à mort, p. 113.</p>
+                                <p n="119">Kobad nomme Kesra son successeur, et les grands lui donnent le nom de Nouschirwan, p. 119.</p>
+                                <p n="121">Le poète déplore sa vieillesse, p. 121.</p>
+                              </div>
+                              <div type="textpart" subtype="section" n="LI" xml:id="KesraNouschirwan">
+                                <head>Kesra Nouschirwan</head>
+                                <p n="123">Nouschirwan parle aux chefs de l'Iran, p. 123.</p>
+                                <p n="127">Nouschirwan divise son empire en quatre parties et règle la levée des impôts, p. 127.</p>
+                                <p n="129">Lettre de Nouschirwan à ses employés, p. 129.</p>
+                                <p n="134">Aventure de Babek, Mobed de Kesra, qui passe en revue l’armée, p. 134.</p>
+                                <p n="139">Sur la justice et la sagesse de Nouschirwan, p. 139.</p>
+                                <p n="142">Nouschirwan fait le tour de son empire, p. 142.</p>
+                                <p n="145">Kesra châtie les Alains, les Beloudschi et les Ghilani, p. 145.</p>
+                                <p n="151">Mondhir l’Arabe demande aide contre les iniquités du Kaïsar, p. 151.</p>
+                                <p n="154">Lettre de Nouschirwan et réponse du Kaïsar de Roum, p. 154.</p>
+                                <p n="156">Nouschirwan marche contre le Kaïsar de Roum, p. 156.</p>
+                                <p n="162">Nouschirwan prend des forteresses dans le pays de Roum, p. 162.</p>
+                                <p n="164">Nouschirwan combat Farfourius (Porphyre) le Roumi et s'empare de Kalinius et d’Antioche, p. 164.</p>
+                                <p n="168">Nouschirwan bâtit une ville en imitation d’Antioche et y établit les captifs Roumis, p. 168.</p>
+                                <p n="179">Le Kaïsar de Roum demande la paix à Nouschirwan, p. 179.</p>
+                                <p n="173">Histoire de Nouschzad, fils de Nouschirwan, et de la femme chrétienne, p. 173.</p>
+                                <p n="176">Maladie de Nouschirwan et révolte de Nouschzad, p. 176.</p>
+                                <p n="183">Ram Berzin se prépare à la guerre contre Nouschzad. Conseils que donne Pirouz à Nouschzad, p. 183.</p>
+                                <p n="187">Combat entre Nouschzad et Ram Berzin. Mort de Nouschzad, p. 187.</p>
+                                <p n="190">Nouschirwan a un songe, et Buzurdjmibr se rend à la cour, p. 190.</p>
+                                <p n="194">Buzurdjmibr interprète le songe du roi, p. 194.</p>
+                                <p n="198">Nouschirwan donne une fête aux Mobeds. Conseils de Buzurdjmibr, p. 198.</p>
+                                <p n="202">Deuxième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 202.</p>
+                                <p n="209">Troisième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 209.</p>
+                                <p n="215">Quatrième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 215.</p>
+                                <p n="219">Cinquième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 219.</p>
+                                <p n="323">Sixième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 323.</p>
+                                <p n="228">Septième fête que Nouschirwan donne à Buzurdjmibr et aux Mobeds, p. 228.</p>
+                                <p n="232">Histoire de Mahboud, le Destour de Nouschirwan, p. 232.</p>
+                                <p n="238">On découvre les incantations de Serhan et du Juif, et ils sont tous les deux mis à mort, p. 238.</p>
+                                <p n="240">Nouschirwan fonde la ville de Koursan, p. 240.</p>
+                                <p n="245">Guerre du Khakan de la Chine avec les Heïtaliens, p. 245.</p>
+                                <p n="250">Nouschirwan apprend ce que les Heitaliens ont fait et conduit une armée contre eux, p. 250.</p>
+                                <p n="255">Nouschirwan part pour la guerre contre le Khakan, p. 255.</p>
+                                <p n="258">Lettre du Khakan de la Chine à Nouschirwan, p. 258.</p>
+    
+                                    <p n="262">Réponse de Nouschirwan à la lettre du Khakan, p. 262.</p>
+                                    <p n="265">Le Khakan offre sa fille en mariage à Nouschirwan, p. 265.</p>
+                                    <p n="270">Nouschirwan envoie Mihran Sitad voir la fille du Khakan, p. 270.</p>
+                                    <p n="276">Le Khakan envoie sa fille avec Mihran Sitad chez Nouschirwan, p. 276.</p>
+                                    <p n="281">Nouschirwan conduit son armée à Ctésiphon, p. 281.</p>
+                                    <p n="285">Nouschirwan revient victorieux dans l'Iran, p. 285.</p>
+                                    <p n="288">Le monde trouve du repos sous Nouschirwan, p. 288.</p>
+                                    <p n="291">Buzurdjmihr donne des conseils à Nouschirwan, p. 291.</p>
+                                    <p n="306">Le Radja de l'Inde envoie à Nouschirwan un jeu d'échecs, p. 306.</p>
+                                    <p n="312">Buzurdjmihr invente le jeu du nard (trictrac), et Nouschirwan l'envoie dans l'Inde, p. 312.</p>
+                                    <p n="316">Les sages de l'Inde ne découvrent pas la manière de jouer du nard, p. 316.</p>
+                             
+    </div>
+
+    <div type="textpart" subtype="section" n="XXXVI" xml:id="HistoireDeGauEtDeThalhend">
+        <p n="319">Commencement du récit, p. 319.</p>
+        <p n="324">Gau et Thalhend se disputent le trône, p. 324.</p>
+        <p n="330">Gau et Thalhend se préparent au combat, p. 330.</p>
+        <p n="333">Gau cherche à s'entendre avec Thalhend, p. 333.</p>
+        <p n="339">Bataille entre Gau et Thalhend, p. 339.</p>
+        <p n="346">Deuxième bataille entre Gau et Thalhend. Thalhend meurt sur le dos de son éléphant, p. 346.</p>
+        <p n="350">La mère de Thalhend apprend la mort de son fils et en témoigne un grand deuil, p. 350.</p>
+        <p n="353">On invente les échecs pour consoler la mère de Thalhend, p. 353.</p>
+        <p n="356">Sarzoui apporte de l’Inde le Calila et le Dimna, p. 356.</p>
+        <p n="366">Nouschirwan se met en colère contre Buzurdjmihr et le fait enchaîner, p. 366.</p>
+        <p n="371">Le Kaïsar envoie un écrin fermé, et Buzurdjmihr est mis en liberté pour en deviner le secret, p. 371.</p>
+        <p n="378">Sur la manière de gouverner de Nouschirwan, p. 378.</p>
+        <p n="390">Nouschirwan donne des conseils à son fils Hormuzd, p. 390.</p>
+        <p n="394">Questions que les Mobeds adressent à Nouschirwan, et ses réponses, p. 394.</p>
+        <p n="408">Lettre de Nouschirwan au fils du Kaïsar, et sa réponse, p. 408.</p>
+        <p n="413">Kesra marche contre le Roum et fait un emprunt chez les marchands, p. 413.</p>
+        <p n="417">Les envoyés du Kaïsar arrivent avec des excuses et des offrandes, p. 417.</p>
+        <p n="421">Nouschirwan parle du choix de son fils Hormuzd comme successeur, p. 421.</p>
+        <p n="424">Questions que les Mobeds adressent à Hormuzd, et ses réponses, p. 424.</p>
+        <p n="431">Nouschirwan nomme son fils Hormuzd son successeur, p. 431.</p>
+      </div>
+      <div type="textpart" subtype="section" n="XLII" xml:id="Hormuzd">
+        <head>Hormuzd</head>
+        <p n="437">Commencement du récit, p. 437.</p>
+        <p n="438">Hormuzd monte sur le trône et fait une allocution aux chefs de l'armée, p. 438.</p>
+        <p n="441">Hormuzd met à mort Ized Gushtasp et empoisonne Zerduhischt le Grand Mobed, p. 441.</p>
+        <p n="447">Hormuz met à mort Simah Berzin et Bahram Adermihan, p. 447.</p>
+        <p n="452">Hormuzd revient à la pratique de la justice, p. 452.</p>
+        <p n="456">Le roi Saweh fonde une armée contre Hormuzd, p. 456.</p>
+        <p n="460">Mihran Sitad indique Bahram Djoubineh à Hormuzd, qui l'appelle auprès de lui, p. 460.</p>
+        <p n="465">Bahram Djoubineh arrive chez le roi Hormuzd, p. 465.</p>
+        <p n="468">Hormuzd nomme Bahram Djoubineh Pehlewan de l'armée, p. 468.</p>
+        <p n="473">Bahram Djoubineh part pour combattre le roi Saweh, p. 473.</p>
+        <p n="477">Hormuzd envoie Kharrad Berzin auprès du roi Saweh avec un message perfide, p. 477.</p>
+        <p n="481">Saweh envoie un message à Bahram Djoubineh, p. 481.</p>
+        <p n="485">Saweh envoie un nouveau message à Bahram Djoubineh, p. 485.</p>
+        <p n="488">Réponse de Bahram Djoubineh au roi Saweh, p. 488.</p>
+        <p n="491">Bahram Djoubineh a un songe et dispose son armée, p. 491.</p>
+        <p n="494">Bahram Djoubineh livre bataille au roi Saweh, p. 494.</p>
+        <p n="499">Bahram Djoubineh fait tuer un sorcier, p. 499.</p>
+        <p n="502">Bahram Djoubineh envoie à Hormuzd la tête du roi Saweh et une lettre pour annoncer sa victoire, p. 502.</p>
+        <p n="507">Bahram Djoubineh combat Parmoudeh, fils de Saweh. Fuite de Parmoudeh au château d’Awaseh, p. 507.</p>
+        <p n="513">Parmoudeh demande protection à Bahram Djoubineh, p. 513.</p>
+        <p n="516">Bahram Djoubineh demande à Hormuzd une lettre de protection pour Parmoudeh, p. 516.</p>
+        <p n="518">Bahram Djoubineh se met en colère contre Parmoudeh, p. 518.</p>
+        <p n="525">Le Khakan arrive chez le roi Hormuzd, p. 525.</p>
+        <p n="527">Hormuzd apprend le manque de probité de Bahram Djoubineh et fait un traité avec le Khakan, p. 527.</p>
+        <p n="530">Hormuzd envoie à Bahram une boîte à fuseaux et une robe de femme, p. 530.</p>
+        <p n="533">Bahram a une vision de la fortune qui l’attend, p. 533.</p>
+        <p n="536">Bahram Djoubineh prend des allures de roi, p. 536.</p>
+        <p n="538">Kharrad Berzin avertit Hormuzd de ce que faisait Bahram, p. 538.</p>
+        <p n="542">Bahram explique aux chefs de l'armée son plan de se faire roi. Sa soeur Gordieh lui donne son avis, p. 542.</p>
+        <p n="553">Bahram frappe monnaie au nom de Khosrou Parviz, p. 553.</p>
+        <p n="555">Bahram écrit une lettre à Hormuzd, et Khosrou Parviz s'enfuit de la cour de son père, p. 555.</p>
+        <p n="559">Zin Guschasp va combattre Bahram par ordre de Hormuzd et est tué, p. 559.</p>
+        <p n="565">Gustehem et Benui font aveugler Hormuzd, p. 565.</p>
+      </div> <milestone unit="volume" n="7"/>
+
+      <div type="textpart" subtype="section" n="XLIII" xml:id="KhosrouParviz">
+        <p n="1">Commencement du récit, p. 1.</p>
+        <p n="3">Khosrou monte sur le trône et demande pardon à son père, p. 3.</p>
+        <p n="6">Bahram Djoubineh apprend que Hormuzd a été aveuglé et se met en marche contre Khosrou Parviz, p. 6.</p>
+        <p n="11">Entrevue entre Khosrou Parviz et Bahram Djoubineh, p. 11.</p>
+        <p n="32">Gordich donne des conseils à son frère Bahram, p. 32.</p>
+        <p n="36">Khosrou tient conseil avec ses Sipehdars et ses Mobeds, p. 36.</p>
+        <p n="Lo">Bahram Djoubineh fait une attaque de nuit contre les Iraniens, et Khosrou Parviz s'enfuit, p. Lo.</p>
+        <p n="44">Khosrou s'enfuit vers le Roum, et son père Hormuzd est assassiné, p. 44.</p>
+        <p n="43">Khorsou arrive au Roum, p. 43.</p>
+        <p n="54">Bahram, fils de Siavusch, amène Bendouï devant Bahram Djoubineh, p. 54.</p>
+        <p n="56">Les Iraniens délibèrent avec Bahram sur la royauté et discutent s'ils doivent le placer sur le trône, p. 56.</p>
+        <p n="62">Bahram Djoubineh monte sur le trône, p. 62.</p>
+        <p n="64">Bendouï s’enfuit de chez Bahram, p. 64.</p>
+        <p n="69">Khosrou va au Roum par le désert, et un ermite lui prédit l'avenir, p. 69.</p>
+        <p n="74">Khosrou entre dans le pays de Roum, p. 74.</p>
+        <p n="76">Un ermite prédit l'avenir à Khosrou Parviz, p. 76.</p>
+        <p n="80">Khosrou Parviz envoie une lettre au Kaïsar de Roum, p. 80.</p>
+        <p n="85">Réponse du Kaïsar à la lettre de Khosrou, p. 85.</p>
+        <p n="90">Le Kaïsar écrit de nouveau à Khosrou Parviz, p. 90.</p>
+        <p n="94">Khosrou Parviz écrit une lettre d'alliance et l'envoie au Kaïsar, p. 94.</p>
+        <p n="98">Les Roumis préparent une figure magique et soumettent les Iraniens à une épreuve, p. 98.</p>
+        <p n="103">Kharrad explique au Kaïsar la religion des Hindous, p. 103.</p>
+        <p n="107">Le Kaïsar envoie à Khosrou Parviz une armée et sa fille, p. 107.</p>
+        <p n="111">Khosrou conduit l’armée à Aderbadghan, p. 111.</p>
+        <p n="115">Bahram Djoubineh apprend le retour de Khosrou et adresse une lettre aux grands de l'Iran, p. 115.</p>
+        <p n="119">Bahram Djoubineh se met en marche contre Khosrou Parviz et bat les soumis, p. 119.</p>
+        <p n="126">Les Pehlewans de Khosrou se battent contre Bahram Djoubineh, p. 126.</p>
+        <p n="136">Troisième combat de Khosrou Parviz avec Bahram Djoubineh. Défaite de Bahram, p. 136.</p>
+        <p n="139">Bahram Djoubineh s’enfuit devant Khosrou et se rend auprès du Khakan de la Chine, p. 139.</p>
+        <p n="143">Lettre de Khosrou Parviz au Kaïsar sur sa victoire. Réponse du Kaïsar, p. 143.</p>
+        <p n="146">Neïathous se met en colère contre Bendoui. Mariam fait la paix entre eux, p. 146.</p>
+        <p n="150">Neïathous et les Roumis reviennent de l'Iran auprès du Kaïsar, p. 150.</p>
+        <p n="153">Lamentation de Firdousi sur la mort de son fils, p. 153.</p>
+        <p n="155">Ce qui arriva entre Bahram Djoubineh et le Khakan de la Chine, p. 155.</p>
+        <p n="159">Bahram Djoubineh tue Sekatoureh, p. 159.</p>
+        <p n="162">Une bête fauve tue la fille du Khakan, p. 162.</p>
+        <p n="166">Bahram Djoubineh tue le lion Keppi, p. 166.</p>
+        <p n="169">Khosrou Parviz apprend ce que fait Bahram et écrit une lettre au Khakan, p. 169.</p>
+        <p n="173">Le Khakan de la Chine prépare une armée, p. 173.</p>
+        <p n="175">Khosrou envoie Kharrad, fils de Berzin, auprès du Khakan. Kharrad conspire la mort de Bahram Djoubineh, p. 175.</p>
+        <p n="181">Kharrad, fils de Berzin, envoie Kaloun auprès de Bahram Djoubineh, p. 181.</p>
+        <p n="184">Meurtre de Bahram Djoubineh par Kaloun, p. 184.</p>
+        <p n="190">Le Khakan apprend la mort de Bahram et détruit la maison et la famille de Kaloun. Accueil que fait Khosrou Parviz à Kharrad, p. 190.</p>
+        <p n="192">Lettre du Khakan à Gordieh, soeur de Bahram; réponse de Gordieh, p. 192.</p>
+        <p n="196">Gordieh consulte ses Pehlewans et s’enfuit de Merv, p. 196.</p>
+        <p n="199">Le Khakan envoie Thuvurg à la poursuite de Gordieh, qui le tue, p. 199.</p>
+        <p n="203">Khosrou tue Bendouï pour venger la mort de son père Hormuzd, p. 203.</p>
+        <p n="204">Gustehem se révolte contre Khosrou et épouse Gordieh, p. 204.</p>
+        <p n="208">Gordieh tue Gustehem sur l'instigation de Khosrou Parviz et de Guerdouï, p. 208.</p>
+        <p n="212">Lettre de Gordieh à Khosrou, qui lui offre sa main, p. 212.</p>
+        <p n="214">Gordieh fait preuve de sa valeur auprès de Khosrou Parviz, p. 214.</p>
+        <p n="217">Comment la ville de Reï fut ruinée, p. 217.</p>
+        <p n="221">Khosrou distribue les gouvernements et envoie des armées aux frontières de l'Iran, p. 221.</p>
+        <p n="225">Schirouieh, fils de Khosrou, naît sous de mauvais auspices, p. 225.</p>
+        <p n="227">Khosrou écrit au Kaïsar, qui lui répond en demandant la croix du Messie, p. 227.</p>
+        <p n="234">Khosrou Parviz répond à la lettre du Kaïsar, p. 234.</p>
+        
+        
+        <p n="239">Aventures de Khosrou Parviz et de Schirin. Commencement de l'histoire, p. 239.</p>
+        <p n="240">Khosrou va à la chasse, revoit Schirin et l'envoie dans l'appartement de ses femmes, p. 240.</p>
+        <p n="244">Les grands donnent un conseil au roi, p. 244.</p>
+        <p n="247">Schirin tue Mariam et met Schirouïeh en prison, p. 247.</p>
+        <p n="249">Khosrou construit le trône appelé Thak-dis, p. 249.</p>
+        <p n="255">Histoire de Barbed le musicien, p. 255.</p>
+        <p n="260">Khosrou construit le palais de Madaïn, p. 260.</p>
+        <p n="267">Sur la puissance de Khosrou Parviz, p. 267.</p>
+        <p n="269">Khosrou devient injuste, et l'armée se révolte, p. 269.</p>
+        <p n="270">L'armée iranienne abandonne Khosrou et délivre Schirouieh de sa prison, p. 270.</p>
+        <p n="277">Les grands délivrent Schirouieh de sa prison, p. 277.</p>
+        <p n="280">Khosrou apprend ce qu’a fait l’armée, p. 280.</p>
+        <p n="283">Khosrou Parviz devient le prisonnier de son fils Schirouïeh, p. 283.</p>
+      </div>
+      <div type="textpart" subtype="section" n="LIV" xml:id="Kobad_fils_de_Parviz">
+        <p n="289">Commencement de l’histoire, p. 289.</p>
+        <p n="297">Réponse de Khosrou Parviz à Kobad, p. 297.</p>
+        <p n="315">Complainte de Barbed sur Khosrou, p. 315.</p>
+        <p n="318">Les grands réclament de Schirouï la mort de Khosrou. Meurtre de Khosrou par Mibr Hormuzd, p. 318.</p>
+        <p n="321">Histoire de Schirouich et de Schirin, femme de Khosrou Parviz. Meurtre de Schirouich, p. 321.</p>
+      </div>
+      <div type="textpart" subtype="section" n="LV" xml:id="Ardeschir_fils_de_Schiroui">
+        <p n="330">Ardeschir, fils de Schiroui, monte sur le trône et adresse une allocution aux chefs, p. 330.</p>
+        <p n="331">Guraz désapprouve la prise de possession du trône par Ardeschir et le fait assassiner par Firouz, fils de Khosrou, p. 331.</p>
+      </div>
+      <div type="textpart" subtype="section" n="LVI" xml:id="Guraz_appelé_Ferayin">
+        <p n="335">Guraz s'empare du trône, p. 335.</p>
+        <p n="338">Ferayin périt de la main de Schehran Guraz, p. 338.</p>
+      </div>
+      <div type="textpart" subtype="section" n="XLVI" xml:id="Pourandokht">
+        <p n="340">Pourandokht, p. 340 et 341.</p>
+      </div>
+      <div type="textpart" subtype="section" n="XLVII" xml:id="Azermidokht">
+        <p n="342">Azermidokht, p. 342 et 343.</p>
+      </div>
+      <div type="textpart" subtype="section" n="XLIX" xml:id="Farrukzad">
+        <p n="344">Farrukzad, p. 344 à 346.</p>
+      </div>
+      <div type="textpart" subtype="section" n="L" xml:id="Yezdegird">
+        <p n="346">Commencement de l'histoire, p. 346.</p>
+        <p n="349">Saad, fils de Wakkas, envahit l'Iran. Yezdegird envoie Rustem contre lui, p. 349.</p>
+        <p n="357">Lettre de Rustem à Saad, fils de Wakkas, p. 357.</p>
+        <p n="363">Combat entre Rustem et Saad, fils de Wakkas. Mort de Rustem, p. 363.</p>
+        <p n="366">Yezdegird tient conseil avec les Iraniens et se rend dans le Khorasan, p. 366.</p>
+        <p n="371">Lettre de Yezdegird à Mahoui et aux erzcbans du Khorazan, p. 371.</p>
+        <p n="377">Yezdegird arrive à Thous, où il est reçu par Mahoui Souri, p. 377.</p>
+        <p n="379">Mahoui Souri incite Bijen à faire la guerre à Yezdegird; le roi se réfugie dans un moulin, p. 379.</p>
+        <p n="392">Yezdegird est égorgé par le meunier Khosrou, p. 392.</p>
+        <p n="398">Mahoui Souri monte sur le trône, p. 398.</p>
+        <p n="401">Bijen fait marcher son armée contre Mahoui Souri, p. 401.</p>
+        <p n="404">Bijen livre bataille à Mahoui et le tue, p. 404.</p>
+        <p n="407">Date de l'achèvement du Livre des Rois, p. 407.</p>
+      </div>                   
+    </div>
+                    </body>
+</text>
+</TEI>
