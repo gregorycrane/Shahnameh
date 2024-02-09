@@ -1934,7 +1934,7 @@ They summoned the ambassador to court.
 
 That sage, on hearing that they were advised,
 
-_ Came to the court and asked for the response.
+Came to the court and asked for the response.
 They made him ready an unworthy robe
 
 Of honour and put strangers from the hall.
@@ -9801,7 +9801,7 @@ More rabid and art lost to modesty.<note>Couplet omitted.</note>
 The World-lord maketh kings for justice-sake,
 Or for their parts or on account of birth,
 
-<note>Couplet omitted.</note>
+
 
 <pb n="213"/>
 
@@ -9967,7 +9967,7 @@ My helmet savoureth of the crown, my sword
 Will win the ivory throne, but if a gnat
 Shall war with thee ’twill bring thee from thy throne
 To earth.”
-Khusrau Parwiz replied: ‘' Thou luckless !
+Khusrau Parwiz replied: "Thou luckless !
 Why not be mindful of Gurgin at Rai,
 Whom fortune never succoured in the world,
 And who had not throne, majesty, and state ?
@@ -11759,11 +11759,11 @@ The Rimans all acclaimed him and strewed jewels
 Beneath his feet. Possessed of this fair dwelling
 He rested for a while and wrote to Cesar
 Of that storm, rain, and darksome cloud, then went
-Toward Manwi which he renamed Mint.
+Toward Manwi which he renamed Minu.<note>i.e. Paradise.</note>
 The shrewd and wise, the great and powerful,
 Among its citizens, with priests and monks,
 Went to the king with gifts and offerings,
-Spake of the storm and of that ancient town,”
+Spake of the storm and of that ancient town,<note>Karsan.</note>
 And all said: “‘ We are slaves and bow before
 Khusrau Parwiz’ behest.”
 
@@ -11771,11 +11771,8 @@ He stayed three days,
 And on the fourth when Sol, the world’s light, rese,
 And thrust its bright sword through the clouds, departed
 
-Toward Warigh ;? it was a city’s name,
-And had the true Cross‘ and a hospital.
-
-1 4.e. Paradise. > Karsan.
-‘Spelt also Aurfgh. ‘ Cf. Vol. v. p. 306 and note.
+Toward Warigh ;<note>Spelled also Aurigh.</note> it was a city’s name,
+And had the true Cross<note>Cf. Vol. v. p. 306 and note.</note> and a hospital.
 
 
 <pb n="254"/>
@@ -11830,9 +11827,8 @@ Astounded and confused
 
 
 
-. a
-Fe
-<pb n="255"/> orl
+
+<pb n="255"/> 
 
 Khusrau Parwiz began to make excuse.
 The hermit said: “ Forbear, and question me
@@ -11845,11 +11841,13 @@ And daughter worthy of the crown of state.
 The World-lord, who ne’er sleepeth, will assist thee
 In battle with thy slaves, while in the end
 The miscreant will flee and oft recall
+<milestone unit="calced" n="1909"/>
+
 The days of his success. He will alight
 Far from that field of battle and there dwell ;
 Yet still, though rather than submit to thee
 He will choose exile, they will shed his blood
-At thy behest.” .
+At thy behest.” 
 Khusrau Parwiz replied :—
 ‘God grant it, ancient sage! but tell me this:
 Will it be long ere I obtain the kingship ? ”
@@ -11859,22 +11857,20 @@ As king of kings.”
 “Who of this company,”
 The Shah inquired, “ will bear most toil and care
 On mine account ? ”
-The hermit said: “ Bistam,}!
+The hermit said: “ Bistam,<note>The Arabic form of Gustaham. He was no true Persian and therefore not to be trusted.</note>
 A lofty spirit and a prosperous,
 And thy maternal uncle who, thou knowest,
 Hath made thy lifetime pleasant ; but be ware
 Of that unprofitable man, the source
 Of all thy plaints, affliction, and mishap.”
 The Shah was wrcth and said to Gustaham :—
-‘Thy name revealeth thee! Thy mother called thee
-
-1 The Arabic form of Gustaham. He was no true Persian and therefore not to be trusted.
+"Thy name revealeth thee! Thy mother called thee
 
 
 
-<milestone unit="calced" n="1909"/>
+
+
 <pb n="256"/>
-C. I19Io
 
 
 
@@ -11914,6 +11910,7 @@ Through speech of his, and seek not for a pretext
 
 Against me now that I have sworn to thee.”
 Khusrau Parwiz made answer: ‘ Holy men
+<milestone unit="calced" n="1910"/>
 
 Speak to the point. Withal I have not seen
 
@@ -11962,7 +11959,6 @@ And parle with Cesar. Be ye wary, shrewd,
 
 
 <pb n="258"/>
-C. 1gt!
 
 
 
@@ -11972,10 +11968,13 @@ Exert you to the utmost ’gainst his chiefs,
 For ye must not be worsted: let him know
 That horsemanship proceedeth from Iran,
 While from its Lions there come might and valour.”
+
 The Shah then bade Kharrad, son of Barzin :—
 “Bring hither silk from Chin and black musk; I
 Must write a letter like resplendent Sol
 In jocund Paradise to Cesar, brief
+<milestone unit="calced" n="1911"/>
+
 But to the purpose, such as all men’s hearts
 May recollect. He hath philosophers ;
 Be instant that they hear no foolishness.
@@ -11983,7 +11982,7 @@ They measure not their words in anything ;
 Let them not find a fault in our dispatch.
 When he hath read the letter loose thy tongue ;
 None of them can compete with thee in speech.”
-Then to Balwi :! “ If Cesar speak of us
+Then to Balwi :<note>Reading with P. and below.</note> “ If Cesar speak of us
 In public with regard to an alliance,
 Oath, treaty or affinity, reply
 As sweet as honey for thou art my tongue
@@ -12000,7 +11999,6 @@ They fared with cheerful hearts to Cesar,
 Who when he heard: " Some nobles of fran,
 The envoys of the monarch of the world,
 Have reached Yunan,” sent many troops to meet them.
-1 Reading with P. and below.
 
 
 <pb n="259"/>
@@ -12030,6 +12028,8 @@ Sat down, but still Kharrad, son of Barzin,
 Stood. Cesar said: “A traveller should sit.”
 “The Shah hath not conferred on me the right,”
 He answered, “in thy presence while I hold
+<milestone unit="calced" n="1912"/>
+
 His letter: mine abasement may commend
 Itself to thee and aid mine embassage.”
 Said Cesar: “Speak. What said the prudent prince ? ”
@@ -12044,12 +12044,11 @@ And stars revolving are His work. When He
 
 
 
-<milestone unit="calced" n="1912"/>
 <pb n="260"/>
 
 
 Created servants out of worthless dust
-He gave life first to Gaiumart.1 The race
+He gave life first to Gaiumart.<note>See Vol. i. p. 117 seq.</note> The race
 Went on to Farfdun whom God most favoured
 Of all those noble chieftains. Once obscure
 His stock became illustrious in the world,
@@ -12076,7 +12075,7 @@ And from his tongue and soul there burst a wail.”</p>
 How Cesar answered the Letter of Khusrau Parwiz
 
 He read, his grief increased, the throne appeared
-All mournful? to his eyes, and thus that world-lord
+All mournful<note>Like lapis-lazuli in the original.</note> to his eyes, and thus that world-lord
 Said to Kharrad, son of Barzin: “ That I
 
 Esteem Khusrau Parwiz above myself,
@@ -12085,13 +12084,15 @@ Above my kindred and my fluent soul,
 
 Is not a secret with discerning men.
 
-1 See Vol. i. p. 117 seq. * Like lapis-lazuli in the original.
+ 
 
 
 <pb n="261"/>
 
 
 I have arms, troops, and treasure. Now consider
+<milestone unit="calced" n="1913"/>
+
 What ye require. If he will have mine eyes
 I will not say him nay though they are better
 Than wealth, dinars, and sword.”
@@ -12129,7 +12130,6 @@ And said thus to that priest: " This suppliant
 
 
 
-<milestone unit="calced" n="1913"/>
 <pb n="262"/>
 
 
@@ -12180,7 +12180,7 @@ Of ancient men who bear such things in mind.
 
 
 Vouchsafe to question the wise men of Rum
-If *twas the crow or owl that did the wrong.}
+If *twas the crow or owl that did the wrong.<note>Alluding to a story in the book of Kalfla and Dimna (see Vol. vii., p. 382). The owls, having an ancient grudge against the crows, one of whom had prevented the owl from being elected the king of the cranes, made a treacherous night-attack upon the crows. A counsellor of the king of the crows, acting somewhat as an Haitalian chief is said to have done in the war against Piruz (id. p. 161), succeeded in avenging them.</note>
 Although the Maker hath not left in want
 The Great of Rim mine ancestors withal
 Were men of name, in their own days supreme,
@@ -12209,7 +12209,7 @@ He recked not either good or ill. Tukhar
 Departed from Khusrau Parwiz and came
 To where was Cesar’s court, that man of name.
 
-» Alluding to a story in the book of Kalfla and Dimna (see Vol. vii., p. 382). The owls, having an ancient grudge against the crows, one of whom had prevented the owl from being elected the king of the cranes, made a treacherous night-attack upon the crows. A counsellor of the king of the crows, acting somewhat as an Haitalian chief is said to have done in the war against Piruz (id. p. 161), succeeded in avenging them.
+
 
 
 §17
@@ -12243,7 +12243,7 @@ Until three watches of the night had passed,
 And in conclusion an astrologer
 Spake thus to Cesar: “O illustrious !
 I have consulted these old tables made
-In astrologic wise by Falatun.1
+In astrologic wise by Falatun.<note>Plato.</note>
 Ere long Khusrau Parwiz will have the realm,
 The kingship start afresh, and darksome dust
 Receive him not for eight and thirty years.”
@@ -12252,9 +12252,9 @@ Thereat said Cesar to his minister :—
 “Our doubts are cleared about Khusrau Parwiz.
 What shall we say ? What answer shall we give ? ”
 
-1 Plato.
 
-Go gle
+
+
 <pb n="265"/>
 
 
@@ -12273,7 +12273,9 @@ He wrote forthwith, bestowing praise on praise :—
 On all points bad and good, and have returned,
 Discussion over, to our former view.
 All is arranged and now we will unlock
-Our ancient hoards. Within Kastantaniya!
+<milestone unit="calced" n="1916"/>
+
+Our ancient hoards. Within Kastantaniya<note>Constantinople.</note>
 We have but force enough for garrison,
 But have ta’en order and have requisitioned
 Troops from the other provinces. As these
@@ -12284,7 +12286,7 @@ Arose from sages’ tales about the past,
 How under Shah Shapur, son of Ardshir,
 Our youths’ hearts aged with toil, much ravaging,
 Assault and slaughter and unjust revenge ;
-Then passing to Kubad? and to Hurmuzd,
+Then passing to Kubad<note>Kaikubad in the original.</note> and to Hurmuzd,
 Both reckless of God’s justice, of our cities
 Were nine and thirty turned to bramble-brakes
 By the frdnians, and the waste became
@@ -12293,11 +12295,10 @@ Were carried captive ; so thou must not marvel
 If Rumans mused revenge. Howbeit to owe
 A grudge is not according to our Faith,
 
-‘Constantinople. * Kaikubad in the original.
+ 
 
 
 
-<milestone unit="calced" n="1916"/>
 <pb n="266"/>
 
 
@@ -12342,13 +12343,13 @@ The right way in the Faith. Regarding this
 
 
 <pb n="267"/>
-KHUSRAU PARWI!IZ 267
 
 With wisdom’s eye thou wilt esteem it just.
 Affinity will make alliance sure,
 Such is the precept that we have of God.
 Good sooth, it is a long day since Piruz,
-Or Khishnawaz.! They gave their heads to wind,
+Or Khishnawaz.<note>With a slight change of reading. Mohl translates: <quote xml:lang="fra">Depuis
+Pirouz jusqu’a Khouschnewaz, il s’est passé bien du temps, pendant lequel les deux peuples ont livré leurs tétes au vent.</quote></note> They gave their heads to wind,
 But perish any treaty-breaking king !
 Our Prophet, the Messiah, said thus: ‘ If thou
 Quit justice wisdom warpeth.’ Many a plan
@@ -12371,14 +12372,14 @@ And see therein the heart of one resolved,
 I will dispatch forthwith arms, troops, and money
 To ease thy heart of care. As touching those
 Who are with thee most honoured or renowned,
-And those withal ’gainst whom thou _ harbourest vengeance,”
+And those withal ’gainst whom thou  harbourest vengeance,<note>Or “And him withal,” etc., referring to Bahram Chubina.</note>
 Put manfully such hatred from your hearts.
-Leave their? ill doings to almighty God,
-2 With a slight change of reading. Mohl translates: ‘ Depiis
-Pirouz jusqu’a Khouschnewaz, il s’est passé bien du temps, pendant lequel les deux peuples ont livré leurs tétes au vent.”
+Leave their<note>Or “ his.”</note> ill doings to almighty God,
 
-‘Or“ And him withal,” eéc., referring to Bahram Chubina.
-‘Or “ his.”
+
+
+
+
 
 
 <pb n="268"/>
@@ -12398,7 +12399,7 @@ The vigilant have kept the world from foes.
 The magnates that desire affinity
 Themselves or for their virtuous children ne’er
 Have suffered ill from foemen, and God’s Grace
-Hath magnified them.1_ Now we all court thee,
+Hath magnified them.<note>Couplets transposed.</note> Now we all court thee,
 And deck our tongues to give thee good advice.”
 Whenas the address was dry they sealed the letter
 
@@ -12412,18 +12413,18 @@ He seeketh to abate the ancient feud .
 Between Iran and Rim.”
 
 They answered him :—
-“'Whene’er this feud is o’er no chiefs will seek
+“Whene’er this feud is o’er no chiefs will seek
 The Shéh’s crown, or such numbers live in want.
 If in thy days such righteousness come down
 Men will inscribe thy name on every crown.”
 
-1 Couplets transposed.
 
 
+§ 18
 <pb n="269"/>
 
 
-$18
+
 
 How Khusrau Parwitz answered Cesar about the
 Alliance
@@ -12459,7 +12460,7 @@ Am well content to ask of him a daughter
 Whose mother is both pure and of his race,
 And by so asking illustrate my heart.
 
-Entrust to those [Iranians at thy court,
+Entrust to those Iranians at thy court,
 
 And under thy protection—Gustaham,
 
@@ -12471,6 +12472,7 @@ And high-renowned, when thou dost send the troops.
 I am through mine affinity to thee
 
 As my great family were heretofore.
+<milestone unit="calced" n="1919"/>
 
 The first was Gaiimart, the next Jamshid—
 
@@ -12482,13 +12484,12 @@ From those old monarchs, wearers of the crown,
 
 
 
-<milestone unit="calced" n="1919"/>
 <pb n="270"/>
 
 
 The story runneth on to Kai Kaus,
 And Kai Khusrau, and by the selfsame token
-To mighty Kai Kubad?! whose justice made
+To mighty Kai Kubad<note>Kai Kubad really preceded the two Shahs previously mentioned.</note> whose justice made
 The sheep and wolf akin. Pursue the tale
 To Shah Luhrasp through whom to Shah Gushtasp
 There came the glorious Asfanfiyar,
@@ -12521,7 +12522,7 @@ The letter to Khurshid, son of Kharrad.
 As swift as wind that chieftain rose and mounting
 His chestnut steed sped till he came to Cesar,
 
-1 Kai Kubad really preceded the two Shahs previously mentioned.
+<note>Kai Kubad really preceded the two Shahs previously mentioned.</note>
 
 
 <pb n="271"/>
@@ -12538,6 +12539,8 @@ His letter leaveth us without excuse ;
 All we of Rum and of fran are one.”
 
 The chiefs and sages rose to answer him,
+<milestone unit="calced" n="1920"/>
+
 And said: “ We are but subjects; thou art Cesar,
 The world-lord throned and crowned. Do thou advise,
 Who hast both counsel and authority :
@@ -12567,7 +12570,6 @@ Before her and behind. She was to sit,
 
 
 
-<milestone unit="calced" n="1920"/>
 <pb n="272"/>
 
 
@@ -12598,6 +12600,7 @@ I countenanced him unadvisedly,
 And sent her to his palace. That youth’s soul
 Hath gone to Heaven; she is deeply grieved ;
 Bright day for her is lapis-lazuli ;
+<milestone unit="calced" n="1921"/>
 She will not take my rede or speak a word,
 And our young world hath agéd through her trouble.
 Concern thyself to see her, and employ
@@ -12611,7 +12614,6 @@ With cheerful heart and charged with potent words
 
 
 <pb n="273"/>
-KHUSRAU PARWI!IZ 273
 
 That chief approached the guileful talisman,
 
@@ -12677,10 +12679,10 @@ But there was no improvement.”
 <pb n="274"/>
 
 
-‘°Tis ill hap
+"‘Tis ill hap
 
 For us,” he said, “ to grieve for one in grief.”
-
+<milestone unit="calced" n="1922"/>
 Since these great men had failed he had recourse
 To great Kharrad, son of Barzin. “ Thou art,”
 He said, “ one of these chiefs and thou mayst hear
@@ -12755,6 +12757,8 @@ Both pleasure and enlightenment of mind.”</p>
 
 How Kharrdd, Son of Barzin, expounded the Faith of the Indians and exhorted Caesar
 
+<milestone unit="calced" n="1923"/>
+
 “In what regard,” said Cesar, “‘ do the Indians
 Err from the Path ? Those that are worshippers,
 Are they idolaters or what are they ?”
@@ -12771,7 +12775,6 @@ Of Hind entitleth * Ether’ and hath much
 
 
 
-<milestone unit="calced" n="1923"/>
 <pb n="276"/>
 
 
@@ -12787,7 +12790,7 @@ Withal ye too speak not aright ; hereto
 
 Christ’s life is testimony. Mark’st thou not
 
-What Jesus, son of Mary,! said when he
+What Jesus, son of Mary,<note>"Isa son of Maryam ” in the original.</note> said when he
 
 Was bringing secret things to light ? ‘If one
 
@@ -12799,7 +12802,7 @@ So that thine eyes are darkened by the blows,
 
 Be not enraged or let thy cheek turn pale,
 
-But shut thine eyes and speak no chilling word.’
+But shut thine eyes and speak no chilling word.<note>S. Mat. v. 39, 40. S. Luke, vi. 29.</note>
 
 If thou hast little food let it suffice,
 
@@ -12843,8 +12846,8 @@ To make thereby his Faith contemptible.
 
 His father was an ancient man, his mother
 
-» ' fs4 son of Maryam ” in the original.
-2S, Mat. v. 39, 40. S. Luke, vi. 29.
+
+
 
 
 <pb n="277"/>
@@ -12852,7 +12855,7 @@ His father was an ancient man, his mother
 
 A temple-keeper and a trier out
 
-Of good and ill.!_ Grown ardent and desirous
+Of good and ill.<note>According to the Kuran Mary had been dedicated from the first to the service of God. Zacharias built for her a chamber in the temple and provided for her. SK, 1. 58 and notes.</note> Grown ardent and desirous
 
 Of knowledge, eloquent, instructed, mindful,
 
@@ -12860,7 +12863,8 @@ He made withal disciples by his teaching,
 
 And compassed in his youth his will by shrewdness.
 Thou sayest that he was God’s son and smiled
-When slain upon the gibbet !?, At such things
+When slain upon the gibbet !<note>See p. 190.</note>
+ At such things
 The sage doth smile. If thou art wise fear God,
 Who hath no need of consort and of son,
 
@@ -12899,12 +12903,10 @@ The land from foes. Be curses his, not blessings,
 That seeketh from religion aught but right.”
 
 When Cesar heard this he approved ; the words
-‘According to the Kuran Mary had been dedicated from the first to the service of God. Zacharias built for her a chamber in the temple and provided for her. SK, 1. 58 and notes.
-2 See p. 190.
+
 
 
 <pb n="278"/>
-<milestone unit="calced" n="1925"/>
 
 
 
@@ -12929,12 +12931,11 @@ And uttered many praises: " Cultured be
 
 The country of fran,” he said, “ through thee.”
 
-?</p>
-
-<p>§ 21
+§ 21
 
 How Ceasar sent a Host and his Daughter to Khusrau
 Parwiz
+<milestone unit="calced" n="1925"/>
 
 Now Cesar, when he heard that troops had come,
 And that the world was black with horsemen’s dust,
@@ -12978,7 +12979,7 @@ To be obedient, order her desires,
 To do her duty, to be bountiful,
 As to her food and how to bear herself.
 There was, as reckoned in the Ruman way,
-More than three hundred millions’ worth? of goods.
+More than three hundred millions’ worth<note><cit><quote xml:lang="fra">de dirhems.</quote> <bibl>Mohl.</bibl></cit></note> of goods.
 To every envoy at his court he gave
 A crown inlaid with jewels, robes withal,
 Steeds and dinars and much of all things fitting.
@@ -12991,6 +12992,8 @@ To act as arbiter? Bdalwi withal
 Can keep a secret for he would not sell
 His folk for aught, while none though he live long
 Will see one like Kharrad, son of Barzin,
+<milestone unit="calced" n="1926"/>
+
 Whom God created to solve mysteries.
 He is as bright and faultless as the sun,
 Divine in rede and deed.”
@@ -13000,11 +13003,10 @@ To fix a lucky day for setting forth,
 And started on Bahram with favouring stars
 And auguries. He went himself three stages,
 
-1" de dirhems.” Moh.
 
 
 
-<milestone unit="calced" n="1926"/>
+
 <pb n="280"/>
 
 
@@ -13054,8 +13056,10 @@ Upon the fourth when Sol, the world’s light, shone
 They gat in readiness a choice pavilion,
 And summoned Niyatus, Sarkab, and Kut,
 The bold, with other chiefs both great and small,
-Whom thus the Shah addressed: “‘ What chiefs and
-WalrTiors
+Whom thus the Shah addressed: “‘ What chiefs and warriors
+<milestone unit="calced" n="1927"/>
+
+
 Are here, such men as brandish sword and mace,
 In battle reck not of their lives, and turn not
 From lion or from leopard in the fray ? ”
@@ -13084,9 +13088,7 @@ The din of tymbals went up from the court,
 
 
 
-<milestone unit="calced" n="1927"/>
 <pb n="282"/>
-<milestone unit="calced" n="1928"/>
 
 
 
@@ -13115,6 +13117,8 @@ Sped from the waste to meet him on the way,
 Preceding their own troops. To Gustaham
 The Shah said, seeing them upon the road :—
 “O warrior! two are hurrying o’er the field :
+<milestone unit="calced" n="1928"/>
+
 See who they are and wherefore in such haste.”
 
 He answered: ‘Sure am JI, O king! that he
@@ -13176,13 +13180,14 @@ O’ercome by veneration for the Shah,
 Who, when that loyal liege was satisfied,
 Bade him remount and urged his own steed on
 Across that barren waste until he reached
+<milestone unit="calced" n="1929"/>
+
 Azargashasp. With muttered prayer he entered
 The Fire-fane, with an aching heart. A priest,
 The Zandavasta in his hand, approached
 
 
 
-<milestone unit="calced" n="1929"/>
 <pb n="284"/>
 
 
@@ -13237,7 +13242,7 @@ And Andiyan, the cavalier, and all
 
 That were the living memories of the great.
 
-The letters! ran: “I offer to the Maker
+The letters<note>The word is used here sometimes in the singular and sometimes in the plural. Several copies were made of the letter actually written.</note> ran: “I offer to the Maker
 
 Mine adoration privily that ye
 
@@ -13248,6 +13253,7 @@ To ill on this wise for from verge to centre,
 With this Sasanian race in evidence,
 
 Things worsen through their wrangling and selfseeking.
+<milestone unit="calced" n="1930"/>
 
 Ardshir, sprung from Papak, was first to bring
 
@@ -13293,13 +13299,11 @@ May your Urmuzd prove gracious. Ye possess
 
 A place illustrious in my regard ;
 
-? The word is used here sometimes in the singular and sometimes inthe plural. Several copies were made of the letter actually written.
 
 
 
-<milestone unit="calced" n="1930"/>
+
 <pb n="286"/>
-<milestone unit="calced" n="1931"/>
 
 
 
@@ -13333,15 +13337,16 @@ Revealing all. The world-lord having read
 Assigned the messenger a golden seat,
 And said to him: “O man exceeding wise !
 Speak of Bahram Chubina as one vile
+<milestone unit="calced" n="1931"/>
 In our regard. Thou hast attained thine end,
-But make it not a feather in thy cap.’”?
+But make it not a feather in thy cap.’”<note>By boasting of it.</note>
 
 Then sending for a scribe he had an answer,
 Such as the case required, drawn up at large :—
 “ Brave and exalted chief! we have perused
 Thy letters and been privy with thine envoy.
 
-' By boasting of it.
+
 
 
 <pb n="287"/>
@@ -13377,12 +13382,12 @@ Or thy young day will age. Khusrau Parwiz,
 If he invadeth us, will only find
 The maces and the scimitars of war ;
 But do not thou betray the royal throne,
-Or fortune will beguile thee forwardly.”!
-1 The meaning seems to be :—"' If you remain on the defensive you may rely on the people supporting you against Khusrau Parwiz backed up, as he will be, by foreign troops ; but if you assume the offensive you will throw away this advantage and so betray your own cause.”
+Or fortune will beguile thee forwardly.”<note>The meaning seems to be :—"If you remain on the defensive you may rely on the people supporting you against Khusrau Parwiz backed up, as he will be, by foreign troops ; but if you assume the offensive you will throw away this advantage and so betray your own cause.”</note>
+
+
 
 
 <pb n="288"/>
-<milestone unit="calced" n="1932"/>
 
 
 
@@ -13395,6 +13400,7 @@ And ant and fly were barred from thoroughfare.
 That warring subject said: ‘I fain would scan
 Yon host and see what Ruman cavaliers
 Are like, and if their troops are troops or what.”
+<milestone unit="calced" n="1932"/>
 
 Then with Yalan-sina and with the chief,
 Izid Gashasp, the warriors all mounted
@@ -13434,7 +13440,7 @@ When brave Bahram Chubina saw he drew
 
 His glittering glaive, his heart conceived no fears
 
-Though raging lions’ hearts were rent asunder.}
+Though raging lions’ hearts were rent asunder.<note>Couplet omitted.</note>
 
 He went himself to view the left and right,
 
@@ -13469,7 +13475,9 @@ Advanced to fight. “‘ Earth is an iron mountain,”
 Thou wouldst have said, “‘ heaven lost in foemen’s dust !”
 
 Now when Khusrau Parwiz saw matters thus,
-_ Saw heaven as woof and earth as warp, he prayed
+Saw heaven as woof and earth as warp, he prayed
+
+<milestone unit="calced" n="1933"/>
 Thus in the olden tongue: "O Thou more pure,
 And higher than the high! who but Thyself,
 O holy Judge! can tell which will return
@@ -13477,18 +13485,16 @@ Exulting from the fight to-day ? The spear
 Of him whose fortune halteth hath but thorn
 Or weed for point.”
 
-. Khusrau Parwiz was full
+Khusrau Parwiz was full
 Of care, both heart and soul; the world appeared
 A brake to him, for from among the troops
--Kut, like a dark hill in his iron mail,
+Kut, like a dark hill in his iron mail,
 Brake from the centre to the height and cried :-—
 
-1 Couplet omitted.
 
 
 
 
-<milestone unit="calced" n="1933"/>
 <pb n="290"/>
 
 
@@ -13534,6 +13540,7 @@ One should not laugh in war whereof thou knowest
 
 <pb n="291"/>
 
+<milestone unit="calced" n="1934"/>
 
 Naught but the sleights, and when thou wouldst avenge
 
@@ -13603,13 +13610,11 @@ Ten thousand of the mighty men advancing
 
 
 
-<milestone unit="calced" n="1934"/>
 <pb n="292"/>
-<milestone unit="calced" n="1935"/>
 
 
 
-All prelates,* warriors, and cavaliers,
+All prelates,<note>Cf. Vol. 1. Pp. 373.</note> warriors, and cavaliers,
 Charged so that hills split at the cry of them.
 The clash of arms, the shoutings of the chiefs,
 The blows of scimitar and massive mace,
@@ -13620,7 +13625,8 @@ An army of those Ruman chiefs had fallen.
 Khusrau Parwiz was stricken to the heart,
 And had the wounds of those still living dressed.
 They piled the corpses mountain-high ; men called it
-‘The harvest of Bahram.” Khusrau Parwiz
+"The harvest of Bahram.” Khusrau Parwiz
+<milestone unit="calced" n="1935"/>
 Lost faith in Rumans for he said: ‘ If they
 Bear them like this again know that their host
 Will cease to be and all their swords of steel
@@ -13644,7 +13650,7 @@ When day’s white banner rose aloft the main,
 And when the stars grew hopeless of the dark,
 The drummers went forth from both camp-enclosures
 
-1 Cf. Vol. 1. Pp. 373-
+
 
 
 <pb n="293"/>
@@ -13661,7 +13667,7 @@ Is all cuirass, the spear-heads light the stars! ”
 Whenas Khusrau Parwiz arrayed the centre
 The troops took heart. Gurdwi, that brave aspirant,
 Commanded on the right, and on the left
-A famed Armenian! with cuirass and sword
+A famed Armenian<note>Mausil.</note> with cuirass and sword
 Like Ahriman’s. Sh4pur with Sipansar
 And Andiyan drew tight their loins for battle,
 While close beside the Shah was Gustaham -
@@ -13679,15 +13685,15 @@ This is not Persians’ usage, and thou givest
 Thy body to be slaughtered all for naught.”
 Shapur replied to him: ‘ Thou div-like one!
 Thou hast lost all thy wits in slavery.
+<milestone unit="calced" n="1936"/>
+
 Whose name and token did the letter bear
 Of which thou speak’st in presence of the lords ? ”
 Then great Khusrau Parwiz said to Shapur :—
 
-‘Mausill.
 
 
 
-<milestone unit="calced" n="1936"/>
 <pb n="294"/>
 
 
@@ -13703,7 +13709,7 @@ And in his wrath resolved on fight. The usurper
 Charged all alone upon his elephant
 The centre of the army of the Shah,
 
-Who saw and said to Andiyan: “ Fierce lion !
+Who saw and said to Andiyan: “ Fierce lion<note><cit><quote xml:lang="fra">de sang.</quote> <bibl>Mohl.</bibl></cit></note>
 Shower arrows on yon elephant and make
 Your bows like clouds in Spring.”
 
@@ -13723,7 +13729,7 @@ And shouting charged the centre of the foe—
 The station of the Shah—and pierced it through:
 The standard of the leader disappeared.
 Thence went he toward the foe’s right and outflanked
-. The Persians and the baggage.2 Now Gurdwi
+The Persians and the baggage.<note>Couplet omitted.</note> Now Gurdwi
 Commanded there—a man of valiance
 And of ambition. When he saw his brother
 He strung and drew his bow. Those men of blood
@@ -13731,11 +13737,10 @@ Closed; thou hadst said: ‘They mingle.” Long they strove,
 
 And neither would give way. Bahram Chubina
 
-1 “de sang.” Mohl. * Couplet omitted.
 
+        
 
 <pb n="295"/>
-KHUSRAU PARW!IZ 295
 
 Cried: " Miscreant ! wherefore girdest thou thy loins
 To shed thy brother’s blood ? ”
@@ -13744,6 +13749,8 @@ Gurdwi replied :—
 “Old wolf! hast thou not heard the weighty saw :—
 ‘A brother as a friend is good: forego
 Both skin and vein if he become thy foe.’
+<milestone unit="calced" n="1937"/>
+
 Thou art a man of blood, a miscreant,
 An Ahriman, the Maker’s enemy
 At heart. No one of honour and repute
@@ -13783,7 +13790,6 @@ But if thou art determined choose some comrades ;
 
 
 
-<milestone unit="calced" n="1937"/>
 <pb n="296"/>
 
 
@@ -13791,7 +13797,7 @@ Wreck not thy person on this battlefield.”
 
 Khusrau Parwiz rejoined: “ What thou hast said
 
-Is well, so make thy choice of some to help}
+Is well, so make thy choice of some to help<note>Reading with P.</note>
 
 Out of the army.”
 
@@ -13811,9 +13817,9 @@ The lion and the elephant, Tukhara—
 
 A help in fight and to Yalan-sina
 
-A mortal foe—illustrious Khusrau, ‘
+A mortal foe—illustrious Khusrau, 
 
-And Farrukhzad, Ustad son? of Piruz,
+And Farrukhzad, Ustad son<note>Reading with P.</note> of Piruz,
 
 Who caused his enemies to melt away,
 
@@ -13853,7 +13859,7 @@ And went forth with those fourteen combatants,
 While from the look-out rose a shout forthwith :
 They told Bahram Chubina: “ Troops have come.”
 
-? Reading with P. * Id.
+
 
 
 <pb n="297"/>
@@ -13870,8 +13876,8 @@ Upon this field of vengeance. He hath come
 Attended by a troop like this to battle,
 But it may be to face the crocodile !
 There are not more than twenty cavaliers,
-And not one of them do I recognise ! ’”}
-Then to Izid Gashasp? and to Yalan-sina
+And not one of them do I recognise ! ”<note>Couplet omitted.</note>
+Then to Izid Gashasp<note>Reading with P.</note> and to Yalan-sina
 He said: ‘ Men hide not valour. Four of us
 Will do, for fortune is a greater friend
 To me than to Khusrau Parwiz.”
@@ -13893,19 +13899,19 @@ To view both companies and all exclaimed :—
 “ Why bartereth the great Shah life for crown ?
 Abundant horse are left and yet he goeth
 To fight in person recklessly ! ”
+<milestone unit="calced" n="1939"/>
+
 All raised
 
-1 Couplet omitted. * Reading with P.
 
 
 
-<milestone unit="calced" n="1939"/>
 <pb n="298"/>
 
 
 Their hands to heaven because they deemed him slain.
 Now when Bahram Chubina and his comrades—
-Yaldn-sina and brave Izid Gashasp!—
+Yaldn-sina and brave Izid Gashasp<note>Couplet omitted.</note>—
 Charged, all the comrades of Khusrau Parwiz
 Took flight. Bahram Chubina was the wolf,
 These nobles were the flock and full of dudgeon
@@ -13913,7 +13919,7 @@ When they beheld that div escaped from bonds :
 Howbeit Bandwi, Gurdwi, and Gustaham
 Stayed with the Shah till, with a prayer to God,
 He also, left resourceless, turned his steed,
-Pressed by Izid Gashasp.? “ My fate,” he said,
+Pressed by Izid Gashasp.<note>Couplet omitted.</note> “ My fate,” he said,
 Is on me! Why in folly did I court
 This Doomsday, for the folk have looked upon
 My back in flight ? ”
@@ -13924,7 +13930,7 @@ Approach us: wherefore shouldst thou fight alone ? ’”
 The Shah looked back and saw Bahram Chibina
 The foremost of the four, and then to save
 Himself cut loose his charger’s sable mail.
-His three? companion-horsemen lagged behind ;
+His three<note>Couplet omitted.</note> companion-horsemen lagged behind ;
 His vengeful foe pursued. A narrow gorge
 Confronted him. Behind him warriors three
 Came on like pards. The gorge was barred by rocks.
@@ -13942,7 +13948,6 @@ Then straitened with the scimitar behind,
 The rocks in front, the Shah cried: “ God almighty,
 Who art above the processes of time!
 
-2 Id. * Id. 2 Id,
 
 
 <pb n="299"/>
@@ -13964,6 +13969,8 @@ And then let go his hold.
 “What is thy name ? ”
 Khusrau Parwiz inquired and spake and wept
 By turns. He said: “Surtsh. Thou art in safety ;
+<milestone unit="calced" n="1940"/>
+
 Lament no more. Henceforth Great King art thou,
 And shouldst be naught but holy.”
 Having said,
@@ -13992,13 +13999,11 @@ The just Judge hath done justice unto me ;
 
 
 
-<milestone unit="calced" n="1940"/>
 <pb n="300"/>
-<milestone unit="calced" n="1941"/>
 
 
 
-’Twas not through slackness or through cowardice,!
+’Twas not through slackness or through cowardice,<note><cit><quote xml:lang="fra">que je me suits enfut.</quote> <bibl>Mohl.</bibl></cit></note>
 For cowards show their slackness in the fight.
 I was companionless within the gorge,
 
@@ -14027,6 +14032,7 @@ There was no daylight left. He said: “ All those
 Commanding troops need wisdom, mastery,
 And courage. Seeing how I ply the dart,
 And have the making of a paladin,
+<milestone unit="calced" n="1941"/>
 The brave preferred me to Khusrau Parwiz,
 And I will bring the crown of Nushirwan
 To dust.”
@@ -14036,8 +14042,8 @@ He strung his bow and loosed a whole wood arrow,
 Which in a moment struck the Shah’s belt whence
 It dangled point-arrested by the silk.
 
-‘"que je me suits enfut.”” Mohl.
 
+        
 
 <pb n="301"/>
 
@@ -14083,7 +14089,6 @@ Had little sleep. Bandwi, the ambitious, went
 
 
 <pb n="302"/>
-<milestone unit="calced" n="1942"/>
 
 
 
@@ -14100,6 +14105,7 @@ Between the hosts till close upon the foe,
 And then the herald shouted: "O ye slaves,
 
 In fault yourselves and followers of fortune !
+<milestone unit="calced" n="1942"/>
 
 By God! the Shah will pardon all, e’en those
 
@@ -14148,7 +14154,7 @@ Upon their steeds and girt them for retreat.
 § 27
 <pb n="303"/>
 
-How Khusrau Parwiz sent an Army under Nastuh} after Bahrdm Chibina, and how Bahrdm Chibina captured him and reached the Khan of Chin
+How Khusrau Parwiz sent an Army under Nastuh<note>Reading with P.</note> after Bahrdm Chibina, and how Bahrdm Chibina captured him and reached the Khan of Chin
 
 Whenas the bright sun had arrayed its throne
 Exploring parties went out from the Shah ;
@@ -14156,7 +14162,7 @@ They found the chieftain’s tent unoccupied,
 While of the other tents not many stood.
 
 The scouts came in and told Khusrau Parwiz,
-Who grieved the more about that battlefield.”
+Who grieved the more about that battlefield.<note>Because Bahram Chubfna had escaped.</note>
 He choose three thousand cavaliers in mail
 
 On barded steeds, then bade Nastuh to mount,
@@ -14174,6 +14180,8 @@ Yalan-sina and brave Izid Gashasp
 
 Rode by the soldiers’ side conducting them
 Along those wayless ways and as they went
+<milestone unit="calced" n="1943"/>
+
 Told stories of the Shahs. They saw afar
 
 A ruined hamlet where no chief could dwell,
@@ -14190,16 +14198,14 @@ Dry bread. Yalan-sina then handed him
 
 The sacred twigs who thought not in his grief
 
-» Reading with P.
-‘Because Bahram Chubfna had escaped.
 
 
 
-<milestone unit="calced" n="1943"/>
+
 <pb n="304"/>
 
 
-Of muttering prayer.! They ate, then asked for wine,
+Of muttering prayer.<note>Couplet omitted.</note> They ate, then asked for wine,
 And prayed.
 “ If ye would have wine,” said the crone,
 There is some, and I have too an old gourd,
@@ -14229,12 +14235,7 @@ Laugh at him? None accounteth him a chief.”
 Bahram Chubina said: “ Since his desires
 Have made him quaff wine from a gourd do thou
 Keep barley-bread for him on this old sieve
-Until next barley-harvest.’”?
-
-‘Couplet omitted.
-
-‘4.e. " Since I have been led into wrong-doing by my desires let me continue to fare badly ”—words put into Bahram Chubina’s mouth by the author or redactor of the Romance. This is another instance of the legitimist feeling pervading this portion of the poem.
-See Vol. vi. p. 251.
+Until next barley-harvest.” <note>i.e. " Since I have been led into wrong-doing by my desires let me continue to fare badly ”—words put into Bahram Chubina’s mouth by the author or redactor of the Romance. This is another instance of the legitimist feeling pervading this portion of the poem. See Vol. vi. p. 251.</note>
 
 
 <pb n="305"/>
@@ -14247,6 +14248,8 @@ He found no rest—to vain desires a prey.
 
 Whenas the sun in heaven made secrets clear
 The warlike chieftain had the tabor sounded,
+<milestone unit="calced" n="1944"/>
+
 What troops he had he gathered, and those nobles
 Set forth and came upon a goodly reed-bed,
 
@@ -14282,9 +14285,7 @@ Thy wretched mendicant.”
 
 
 
-<milestone unit="calced" n="1944"/>
 <pb n="306"/>
-<milestone unit="calced" n="1945"/>
 
 
 
@@ -14306,6 +14307,7 @@ To Rai, reposed, then sought the Khan with speed.</p>
 
 How Khusrau Parwiz pillaged the Camp of Bahrém
 Chibina and wrote a _ Letter to Caesar who answered it with a Robe of Honour and Gijts
+<milestone unit="calced" n="1945"/>
 
 Khusrau Parwiz on his side visited
 
@@ -14365,6 +14367,7 @@ Descended from his throne and cried to God :—
 Thy slave triumphant and restored the outcast.”
 
 He lavished alms and provand by the ass-load,
+<milestone unit="calced" n="1946"/>
 And wrote withal an answer like a tree
 In Paradise, beginning: " In the name
 Of God, the Lord of victory, of Grace,
@@ -14384,9 +14387,9 @@ A jewelled cross and throne all royal gems,
 
 
 
-C.
 
-1946
+
+
 <pb n="308"/>
 
 
@@ -14430,7 +14433,8 @@ Had of a truth turned Christian privily.
 § 29
 <pb n="309"/>
 
-How Niydtuis was wroth with Bandwi and how Maryam made Peace between them
+How Niyatus was wroth with Bandwi and how Maryam made Peace between them
+<milestone unit="calced" n="1947"/>
 
 Next day Khusrau Parwiz prepared his throne,
 And donned his crown of state. The festal board
@@ -14445,7 +14449,7 @@ Of audience in the jewelled robes from Rum,
 Advanced with smiles and sat down at the board,
 Bandwi came quickly, sacred twigs in hand.
 The world-lord took them with intent to join
-The other nobles in their muttered prayers,?
+The other nobles in their muttered prayers,<note>See Vol. i. p. 80.</note>
 While Niyatus, on seeing that, threw down
 His bread and all disordered left the board,
 Exclaiming: " Muttered prayer and Cross at once
@@ -14465,11 +14469,10 @@ Niyatus,
 Departing, mounted and returned half drunk
 To camp. He donned his Ruman mail and thought
 
-1 See Vol. i. p. 80.
 
 
 
-<milestone unit="calced" n="1947"/>
+
 <pb n="310"/>
 <milestone unit="calced" n="1948"/>
 
@@ -14484,7 +14487,7 @@ Withal to go like wind to him and say :—
 Smote on the cheek God’s servant. Now if thou
 Wilt send him to me—well. If not, expect
 A tumult of the folk. Thou wilt writhe more
-At me than at the slave! ambitioning
+At me than at the slave<note>Bahram Chubina.</note> ambitioning
 The throne of king of kings.”
 Khusrau Parwiz
 
@@ -14514,7 +14517,7 @@ And say: ‘ Thou quarrelsome, ill-meaning man !
 Hast thou not seen how Cesar hath assisted
 The Shah to majesty, hath fought his battles,
 
-1 Bahram Chutbina.
+
 
 
 <pb n="311"/>
@@ -14545,7 +14548,7 @@ Of ill condition seeketh not for good.
 Bandwi hath ne’er ensued but strife and tumult :
 Make not the world both dark and strait to me ;
 Give not the toil of Cesar to the wind
-In passion; let me have a moment’s jJoy.?
+In passion; let me have a moment’s joy.<note>Two couplets omitted.</note>
 If he hath spoken ill of thy religion
 Expect not wisdom from a foolish man.”
 
@@ -14557,11 +14560,10 @@ When in this strain
 
 Much talk had passed he sought his camp again.
 
-1 Two couplets omitted.
+
 
 
 <pb n="312"/>
-<milestone unit="calced" n="1949"/>
 
 </p>
 
@@ -14570,6 +14572,7 @@ Much talk had passed he sought his camp again.
 How Khusrau Parwiz gave Presents to Niydtus and the
 Rumans, how he dismissed them to Rim, and wrote Patents for the Nobles of fran
 
+<milestone unit="calced" n="1949"/>
 The Shah then bade Kharrad, son of Barzin :—
 
 “Hold a review and call a court. Let all
@@ -14623,9 +14626,9 @@ The portal and approached the Fire his visage
 
 Was hidden by his tears. There he recited
 
-The Zandavasta for a se’nnight’s space,}
+The Zandavasta for a se’nnight’s space,<note>Reading with P.</note>
 
-1 Reading with P.
+
 
 
 <pb n="313"/>
@@ -14654,6 +14657,8 @@ Within the palace built by Nushirwan, .
 
 Who dwelt there much, he had a splendid suite
 Of rooms prepared, the golden throne arrayed,
+<milestone unit="calced" n="1950"/>
+
 And then the conquering, God-fearing world-lord
 Came and sat down upon his grandsire’s seat,
 And bade a scribe and his own minister—
@@ -14688,7 +14693,6 @@ He gave another province to Gurdwi,
 
 
 
-<milestone unit="calced" n="1950"/>
 <pb n="314"/>
 
 
@@ -14721,20 +14725,20 @@ Or ours, and we have bidden the treasurer
 Give food and clothes withal to such as lack.
 <milestone unit="calced" n="1051"/>
 When food is requisite they shall receive
-From him three mans! at dawn upon condition
+From him three mans<note><cit><quote xml:lang="fra">trois man de blé.</quote> <bibl>Mohl.</bibl></cit> Cf. Vol. i. p. 200 note.</note> at dawn upon condition
 That they shall make thanksgiving and shall strive
 To keep the earth in culture.”
 Through his justice
 The world became a Paradise on high,
-1 “trois man de blé.””. Mohl. Cf. Vol. i. p. 200 note.
-
+        
 
 <pb n="315"/>
 
 
 And one may well acclaim Khusrau Parwiz,
 For better is a great king of that kind
-Than one impure albeit sage in mind.}</p>
+Than one impure albeit sage in mind.<note>In the above passage the last couplet of the section is read witb
+P. before the two preceding ones.</note></p>
 
 <p>§ 31
 Firdausi’s Lament for the Death of his Son
@@ -14788,8 +14792,7 @@ Because I loiter. Five and sixty I,
 
 He thirty-seven. He asked not agéd me,
 
-1 In the above passage the last couplet of the section is read witb
-P. before the two preceding ones.
+
 
 
 <pb n="316"/>
@@ -14883,6 +14886,7 @@ Thereafter they prepared two palaces,
 And furnished them with vessels of all kinds.
 
 Slaves, food, and raiment, needful carpeting,
+<milestone unit="calced" n="1953"/>
 
 With serviceable plate of gold and silver,
 
@@ -14896,7 +14900,7 @@ To polo, the assembly, and the chase,
 Remaining in this mind and lauding him.
 
 The Khan possessed a chief who was his friend,
-His help in war and of a stronger nature,!
+His help in war and of a stronger nature,<note><cit><quote xml:lang="fra">un homme de plus haute naissance que le prince.</quote> <bibl>Mohl.</bibl></cit></note>
 
 Named Makatura, by whose means the Khan
 Had won success and fame. He used to visit
@@ -14904,11 +14908,10 @@ The Khan at dawn with fingers on his lips,
 For thus did subjects offer reverence,
 To those illustrious potentates of Chin,
 
-“‘un homme de plus haute naissance que le prince.” Mohl.
+
+        
 
 
-
-<milestone unit="calced" n="1953"/>
 <pb n="318"/>
 
 
@@ -14925,7 +14928,7 @@ At audience-time this Turk thus beareth off
 
 These fifty score dinars! If he receiveth
 
-A mine ’tis not for rendered services,}
+A mine ’tis not for rendered services,<note><cit><quote xml:lang="fra">Que ce soit un cadeau, que ce soit sa paye, faut-il donc que sa part soit tout l’or d’une mine ?</quote> <bibl>Mohl.</bibl></cit></note>
 
 The Khan replied: “ This is a way of ours—
 The glory of our Faith—that all our bravest,
@@ -14958,14 +14961,16 @@ And answer not or, if at all, in wrath.”
 That night passed and at dawn came Makatura
 Before the Khan. That world-lord neither saw him,
 
-Que ce soit un cadeau, que ce soit sa paye, faut-il donc que sa part soit tout l’or d’une mine ?’ d.
 
+        
 
 <pb n="319"/>
 
 
 Nor heard what that bold Turk had got to say,
 Who, angered, raged and glared at him, and cried :—
+<milestone unit="calced" n="1954"/>
+
 “Why is it that to-day I have grown vile,
 My lord? Assuredly this Persian prince,
 Who reached our land with thirty friends, is striving
@@ -14973,7 +14978,7 @@ To turn thee from the right and would consign
 Thine army to the wind.”
 Bahram Chubina
 Replied: "O warrior! why so fierce in talk ?
-J, if the Khan will follow mine advice,
+I, if the Khan will follow mine advice,
 And prudently regard our covenant,
 Will let not thee come hither every morn
 To waste his treasures with impunity.
@@ -15002,12 +15007,10 @@ Forth from the Khan and hurried to his tent.
 
 
 
-<milestone unit="calced" n="1954"/>
 <pb n="320"/>
-- 320 THE SHAHNAMA OF FIRDAUSI</p>
 
 <p>§ 33
-How Makdtira was slain by Bahrédm Chibina
+How Makatura was slain by Bahram Chubina
 
 When night withdrew its sombre skirt, and dawn
 Brake o’er the gloomy mountains, Makatura
@@ -15084,11 +15087,9 @@ King-worthy jewels, and all kinds of gear
 Of war. These from the Khan a messenger
 Bare to Bahram Chubina’s treasurer.
 
-VOL. VITI. x
 
 
 <pb n="322"/>
-<milestone unit="calced" n="1956"/>
 
 </p>
 
@@ -15097,6 +15098,7 @@ How the Lion-ape slew a Daughter of the Khan, how tt was slain by Bahram Chibina
 
 Time passed and peace was tutor night and day.
 There were at that time in the hills of Chin
+<milestone unit="calced" n="1956"/>
 
 Wild animals past count. One was a beast
 Out-bulking horses and upon its head
@@ -15110,12 +15112,12 @@ Two claws resembling those of mighty lions.
 Its roar rose o’er the clouds, it swallowed stones,
 And turned the day of mighty men to gloom.
 
-Folk called it “ Lion-ape: ”! the land was all
+Folk called it “ Lion-ape: ”<note>“Sher-kappf ” which Mohl translates <quote xml:lang="fra">le lion Keppi.</quote></note> the land was all
 Confounded at the ill it wrought. The Khan
 Possessed a moon-like daughter, had the moon
 Two raven locks, two rubious lips, a nose
 
-As ’twere a silvern reed, two smiling cheeks?
+As ’twere a silvern reed, two smiling cheeks <note><cit><quote xml:lang="fra">deux levres</quote> <bibl>Mohl.</bibl></cit>,  but they have just been mentioned.</note>
 
 Of coral, and dark eyes. Her parents used
 
@@ -15129,14 +15131,13 @@ Thus went her daughter to that meadow-land
 With other damsels, wine, and revellers.
 
 The lion-ape descried her from the heights,
-Descended to the plain and gulped her down :°
+Descended to the plain and gulped her down :<note>Cf. Vol. v, p. 233 and note.</note>
 That fair-cheeked damsel ended in a breath.
 
 The Khan heard and his face turned black, his queen
 
-1“ Sher-kappf ” which Mohl translates ‘le lion Keppi.”
-“deux levres ” (Mohl) but they have just been mentioned.
-> Cf. Vol. v, p. 233 and note.
+       
+
 
 
 <pb n="323"/>
@@ -15159,12 +15160,15 @@ Not knowing brave Bahram Chubina’s name !
 He once was Shah within Iran; his crown,
 Out-topped the moon. Chiefs title him * Bahram
 The brave,’ for he hath borne the fame of valour
-From other kings, and now that he hath quitted fran for Chin earth quaketh ’neath his charger.
+From other kings, and now that he hath quitted 
+Iran for Chin earth quaketh ’neath his charger.
 Our sovereign would have him for a chief,
 So setteth on his head a royal crown.”
 
 She thus made answer: “ Since his Grace is such
 Well may we nestle underneath his wings,
+<milestone unit="calced" n="1957"/>
+
 And well may I request a boon of him ;
 He will not act with slackness like the Khan,
 But venge me on the monster when he heareth
@@ -15185,7 +15189,6 @@ A lion-ape hath battened on my child,
 
 
 
-<milestone unit="calced" n="1957"/>
 <pb n="324"/>
 
 
@@ -15233,6 +15236,7 @@ Now every Spring it visiteth that meadow
 
 
 <pb n="325"/>
+<milestone unit="calced" n="1958"/>
 
 
 In quest of prey. No youth or paladin
@@ -15305,9 +15309,7 @@ Sent up his battle-cry, and smote the rocks
 
 
 
-<milestone unit="calced" n="1958"/>
 <pb n="326"/>
-<milestone unit="calced" n="1959"/>
 
 
 
@@ -15338,6 +15340,7 @@ Upon that lofty mountain-top and speared
 The creature's loins ; the flints were dyed with blood.
 
 Then reaching for his scimitar he clave
+<milestone unit="calced" n="1959"/>
 
 The monster’s form in twain, cut off its head,
 
@@ -15457,7 +15460,7 @@ A thing incredible to upright folk,
 And not approved by me. Thou hast forgotten
 Perchance his conduct when thou went’st in fear
 Because of him. He lashed thee many times
-Upon the head—a thing that none commend.!
+Upon the head—a thing that none commend.<note>See p. 144.</note>
 Thou shouldest not make barren thine own fame,
 And barter thy tranquillity to him.
 When they deliver this let thine advice,
@@ -15473,7 +15476,7 @@ To-morrow morning ask for the reply.”
 
 The envoy came in haste; he had not slept
 
-1 See p. I44.
+
 
 
 <pb n="329"/>
@@ -15491,13 +15494,15 @@ Thou unto slaves expressions such as thine.
 It fitteth not thine ancient family
 To disallow the greatness 6f the great,
 Or not to make the lowly know his place.
+<milestone unit="calced" n="1961"/>
+
 Mine are the whole of Chin and of Turan,
-_ And the Haitalian crown. I ne’er broke faith ;
+And the Haitalian crown. I ne’er broke faith ;
 Suggest it not. To break my pledge when I
 Have ta’en Bahram Chubina by the hand
 Will make men call me base-born. I fear none
 Save holy God, but as for thee -if greatness
-_ Increase with thee so also should thy wisdom.”
+Increase with thee so also should thy wisdom.”
 
 He set his seal thereto and told the envoy :—
 “Companion with the wind.”
@@ -15521,10 +15526,8 @@ At first and, after, to what ends he used
 
 
 
-<milestone unit="calced" n="1961"/>
 <pb n="330"/>
 
-C..10902_.
 
 
 
@@ -15556,6 +15559,7 @@ Inglorious Khusrau Parwiz, and may
 
 No top or toe be left him! I took service
 That I might root out the Sasanians.”
+<milestone unit="calced" n="1962"/>
 
 The Khan, on hearing, pondered and his heart
 Was like a wood with thoughts. He summoned all
@@ -15621,12 +15625,12 @@ And with Turan, and with their divers tongues.”
 
 
 <pb n="332"/>
-<milestone unit="calced" n="1963"/>
 
 
 
 He oped his treasury and brought forth such jewels,
 Such scimitars and golden belts, as made
+<milestone unit="calced" n="1963"/>
 Kharrad astound and secretly invoke
 The name of God. With these he left for Chin,
 Crossed the Jihtn and took unwonted paths,
@@ -15664,7 +15668,6 @@ They have drunk bane instead of antidote.
 
 
 <pb n="333"/>
-- KHUSRAU PARWIZ 333
 
 Our present Shah is of thy kin; he joyeth
 And sorroweth as thou dost wax and wane.
@@ -15681,6 +15684,7 @@ Be one like thee he knoweth well the sky ! ”
 The Khan assigned him lodging in the palace,
 And seat anear the throne, then bade him bring
 The gifts and give all to the treasurer.
+<milestone unit="calced" n="1964"/>
 
 The Khan said: “ Mayst thou lack not worldly wealth.
 If thou wilt take a present of me speak
@@ -15707,7 +15711,6 @@ As with the Shahs he did, regarding neither
 
 
 
-<milestone unit="calced" n="1964"/>
 <pb n="334"/>
 <milestone unit="calced" n="1965"/>
 
@@ -15727,7 +15730,7 @@ I am no miscreant and treaty-breaker
 Because the shroud of such must be the dust.”
 
 Kharrad, son of Barzin, on hearing that,
-Knew that his novelty was out of date,}
+Knew that his novelty was out of date,<note>The remainder of this page in C, should perhaps be omitted.</note>
 And made reply: “ O thou of royal race !
 Why dost thou think to speak such words ? The Shah
 Is better than Bahram Chubina is
@@ -15748,6 +15751,7 @@ Is my supporter and my son-in-law
 How can I draw back from my covenant ? ”
 
 Again Kharrdd was foiled and took to guile.
+<milestone unit="calced" n="1965"/>
 He thought: ‘ The Khan is not concerned for us,
 Because Bahram Chubina hath suggested fran to him. My words are willow’s fruit.”
 
@@ -15755,7 +15759,7 @@ In black despair about the Khan he turned,
 
 He had no choice, toward the queen and sought
 
-' The remainder of this page in C, should perhaps be omitted.
+
 
 
 <pb n="335"/>
@@ -15776,10 +15780,10 @@ Kharrdad, son of Barzin, on hearing this,
 Discerned no top or bottom to his cares.
 There was an agéd Turkman, named Kulitin,
 Whom other Turkmans scorned. He dressed in sheepskin,
-And lived withal on millet.1. Makatura
+And lived withal on millet.<note>On millet bread—a sign of poverty. Cf. p. 337.</note> Makatura
 Was of his kindred, so he railed against
 Bahram Chubina, ever cherishing
-Revenge at heart and cursing him.? Kharrad
+Revenge at heart and cursing him.<note>Two couplets omitted.</note> Kharrad
 Sent to invite Kulun to his famed mansion,
 Gave him dinars and drachms, clothes, much to eat,
 Invited him to feasts and seated him
@@ -15795,12 +15799,11 @@ Would be a crown upon my lady’s head,
 And all the more so as her daughter aileth.”
 Kharrad replied: ‘ I have that knowledge too,
 
-» On millet bread—a sign of poverty. Cf. p. 337.
-‘Two couplets omitted.
+
+
 
 
 <pb n="336"/>
-<milestone unit="calced" n="1966"/>
 
 
 
@@ -15808,6 +15811,7 @@ And, as thou say’st, will take the case in hand.”
 The steward hastened to the queen and said :—
 
 “ A learned leech hath arrived.”
+<milestone unit="calced" n="1966"/>
 
 “Live and enjoy,”
 She answered. “Scratch not thou thy head but bring him.”
@@ -15828,7 +15832,7 @@ And said: “‘ Take this unworthy recompense,
 And ask what more thou wilt.”
 He said: " Keep these,
 
-And I will ask my guerdon when I please.’</p>
+And I will ask my guerdon when I please.<note>There is no break here in the original.</note></p>
 
 <p>§ 37
 How Bahrédm Chibina was slain by Kulun as Kharrdd,
@@ -15840,13 +15844,13 @@ Bahram Chubina, for his part, arrayed
 His army like a pheasant’s wing and marched
 
 To Marv. Then one came to the Khan to say :—
-“‘ Let none pass to fran from Turkistaén
-
-‘There is no break here in the original.
+“Let none pass to fran from Turkistaén
 
 
 
-™ ~Zinee
+
+
+
 
 <pb n="337"/>
 
@@ -15875,23 +15879,23 @@ Then speed as though thou wouldst roll up the earth.
 Thou must get access to Bahram Chubina,
 And bide thy time at Marv. Don thy black sheepskin,
 Provide a knife, and go. Note heedfully
-The twentieth! of the month and on that day
+The twentieth<note>“ The day Bahram ” in the original.</note> of the month and on that day
 Approach this man world-famous for he holdeth
 That day ill-omened as I have observed
+<milestone unit="calced" n="1967"/>
+
 For many a year. He will admit not then
 The public and wear but brocade of Rum.
-Say: ° From the daughter of the Khan I bring
+Say: 'From the daughter of the Khan I bring
 The mighty chief a message.’ Keep thy knife
 Unsheathed within thy sleeve till he shall bid thee
 Approach alone and as thou dost say thus :—
 ‘The noble lady said: “‘ When thou dost tell
 
-1 “ The day Bahram ” in the original.
-VOL. VIII. ¥
 
 
 
-<milestone unit="calced" n="1967"/>
+
 <pb n="338"/>
 
 
@@ -15905,12 +15909,12 @@ And thou wilt suffer not for slaying him.
 If they slay thee . . . well thou hast seen the world,
 And hast approved its weal and woe. Besides
 Thou wilt have had revenge and done what use
-Enjoineth,} but indeed none will concern
+Enjoineth,<note>Cf. p. 335.</note> but indeed none will concern
 Himself about thee at that time to harm thee,
 While if thou scapest slaying thou hast bought
 The world and paid for it, the conquering Shah
 Will give to thee a city and withal
-A share in this world.’”?
+A share in this world.” <note>In C. the new section begins here.</note>
 To that sage Kulun
 
 Made answer: “ Need I any further guide ?
@@ -15935,7 +15939,7 @@ She asked Kharrad, son of Barzin, for seal-clay,
 Went to that drunken sleeper’s couch forthwith
 From her apartments, presently impressed
 
-1 Cf. p. 335. * In C. the new section begins here.
+
 
 
 <pb n="339"/>
@@ -15944,10 +15948,12 @@ From her apartments, presently impressed
 The clay upon the signet, came, and gave it
 To her petitioner. That scribe gave thanks
 Therefor, then went and passed it to the elder.
-Kultn received that seal, sped pheasant-like,!
+<milestone unit="calced" n="1968"/>
+
+Kulun received that seal, sped pheasant-like,<note>Cf. Vol. vii. p. 88 note.</note>
 And came to Marv, unmarked. He tarried there
 Until the twentieth of the month—the day
-That was unlucky for Bahram Chubina,?
+That was unlucky for Bahram Chubina,<note>Cf. p. 337.</note>
 
 Who was at home attended by one slave,
 
@@ -15987,13 +15993,11 @@ Kulun rejoined :—-
 “ I have a message only and will speak not
 With others by.”
 Bahram Chubfna said :—
-‘Cf. Vol. vii. p. 88 note. *C/. p. 337.
+ 
 
 
 
-<milestone unit="calced" n="1968"/>
 <pb n="340"/>
-<milestone unit="calced" n="1969"/>
 
 
 
@@ -16019,6 +16023,7 @@ About Bahram Chubina. He still bled,
 And groaned. His cheeks were lapis-lazuli.
 His sister too had come to him forthwith.
 She tore her hair, laid on her lap his head,
+<milestone unit="calced" n="1969"/>
 Then wailed and cried right bitterly : “‘ Brave horseman !
 
 The lion used to flee the woods before thee !
@@ -16039,9 +16044,6 @@ Now alien, friendless, helpless, and alone
 
 
 <pb n="341"/>
-‘
-
-KHUSRAU PARWiz 341
 
 We live despised in other men’s domains,
 I said to him: ‘oO captain of the host !
@@ -16081,19 +16083,20 @@ He mounted heavenward to look upon
 The circling Sky and course of sun and moon,
 
 But fell into the deep beyond Sari,
-Headforemost.1 In like manner hath the Diy
+Headforemost.<note>Cf. Vol. ii. p. 102 seq.</note> In like manner hath the Diy
 Caused me to err and docked my hand from good.
 
-‘Cf. Vol. ii. p. 102 seq.
+
 
 
 <pb n="342"/>
 
 
-‘ Thine is the royal diadem,’ he said,
+‘Thine is the royal diadem,’ he said,
 ‘From Aries to Pisces all is thine.’
 I do repent mine evil deeds. God’s pardon
 Were gracious to me. Thus was destiny
+<milestone unit="calced" n="1970"/>
 Writ o’er my head; why should I mourn the past ?
 The water riseth o'er me; grief and joy
 Are both as wind to me: ‘twas written thus ;
@@ -16116,10 +16119,10 @@ Ne’er come between you twain. Abide not long
 Within this hostile territory. I
 Came hither and am weary of the place.
 Go and present you to Khusrau Parwiz,
-Speak and hear him.? If he shall pardon you
+Speak and hear him.<note>Couplet omitted.</note> If he shall pardon you
 Hail not another as your sun and moon.
 Take many greetings from me to Gurdwi,
-And tell him what hath chanced.22 Make me my charnel
+And tell him what hath chanced.<note>Two couplets omitted.</note> Make me my charnel
 
 Within fran, and wreck my palace here.
 Much trouble have I suffered through the Khan,
@@ -16127,7 +16130,6 @@ And have not found him gracious for one day.
 It was no guerdon for my toils to have
 A div dispatched to slay me, yet in truth,
 
-‘Couplet omitted. * Two couplets omitted.
 
 
 <pb n="343"/>
@@ -16147,6 +16149,8 @@ Whate’er was wise and right.”
 
 He gave his sister
 Much good advice, embraced her darling head,
+<milestone unit="calced" n="1971"/>
+
 And laid his mouth against her ear, his eyes
 Suffused with blood, and he gave up the ghost.
 All wept him bitterly and lived in sorrow.
@@ -16173,7 +16177,6 @@ And what his gory had entailed on him,
 
 
 
-<milestone unit="calced" n="1971"/>
 <pb n="344"/>
 
 
@@ -16234,13 +16237,13 @@ Throughout the land of Chin in mourning weeds,
 For he had loved Bahram Chubina’s deeds.
 
 
-§ 89
+§ 39
 <pb n="345"/>
 
 How Khusrau Parwiz had Tidings of the Slaying of
-Bahrém Chiubina and honoured Kharrdd, Son of
+Bahrém Chiubina and honoured Kharrdd, Son of Barzin
 
-Barzin
+<milestone unit="calced" n="1972"/>
 
 Now when Kharrad, son of Barzin, approached
 
@@ -16282,7 +16285,7 @@ Some hundred thousand, out before his feet
 
 On such wise that they grew as high as he.
 
-The Shah said: “ Whoso turneth from the way!
+The Shah said: “ Whoso turneth from the way<note>Reading with P.</note>
 
 Shall have his day bedimmed although he be
 
@@ -16299,20 +16302,16 @@ A man would have thy face lack radiancy
 
 Then let him as Bahram Chubina be.”
 
-1 Reading with P.
 
 
 
-<milestone unit="calced" n="1972"/>
+
 <pb n="346"/>
-<milestone unit="calced" n="1973"/>
 
 </p>
 
 <p>§ 40
-How the Khan sent his Brother to Gurdya, the Sister of
-Bahrdm Chibina, with a_ Letter touching her
-Brother's Death and asking her in Marriage as his Queen, and her Answer
+How the Khan sent his Brother to Gurdya, the Sister of Bahrdm Chibina, with a Letter touching her Brother's Death and asking her in Marriage as his Queen, and her Answer
 
 Now when the Khan’s heart was relieved and Chin
 
@@ -16325,6 +16324,7 @@ And gladdened through Bahram Chubina’s prowess.
 Now why have I allowed the hero’s kin
 
 To bide in so much weakness and contempt ?
+<milestone unit="calced" n="1973"/>
 
 I shall be blamed by all that hear thereof,
 
@@ -16460,6 +16460,7 @@ A man experienced, left Marv joyfully.
 § 41
 <pb n="349"/>
 How Gurdya consulted her Nobles and fled from Marv
+<milestone unit="calced" n="1975"/>
 
 Then at her leisure that young, prudent dame
 Consulted with her counsellors and said :—
@@ -16505,9 +16506,7 @@ He will both hear and grant my fair appeal.”
 
 
 
-<milestone unit="calced" n="1975"/>
 <pb n="350"/>
-<milestone unit="calced" n="1976"/>
 
 
 
@@ -16525,6 +16524,7 @@ And chose eleven hundred and three score,
 Each one of whom would face ten cavaliers
 In fight. She furnished drachms and then returning
 To her abode harangued her warlike powers :—
+<milestone unit="calced" n="1976"/>
 “ He that hath ever seen a stirrup-strap
 Is not perturbed because of ups and downs.
 He feareth not a murderous multitude
@@ -16567,7 +16567,7 @@ Swift as the wind, her host upon its way.</p>
 
 <p>§ 42
 
-How the Khan received Tidings of the Flight of Gurdya and how he sent Tuwurg' with an Army after her, and how Gurdya slew Tuwurg
+How the Khan received Tidings of the Flight of Gurdya and how he sent Tuwurg<note>Reading with P.</note> with an Army after her, and how Gurdya slew Tuwurg
 
 A number of deserters from her force
 
@@ -16581,6 +16581,8 @@ Have sought for my protection. Realm and host
 Will laugh for ever at thy court’s disgrace.”
 
 The chieftain’s cheek, when he had heard the words,
+<milestone unit="calced" n="1977"/>
+
 Grew white with anger, and he answered: " Haste,
 And lead an army forth. Observe what road
 Those troops have taken. When thou reachest them
@@ -16591,11 +16593,10 @@ Hath any knowledge of our usages ;
 Their fear perchance hath turned us into foes.
 Speak with all unction and entreat them well ;
 
-» Reading with P.
 
 
 
-<milestone unit="calced" n="1977"/>
+
 <pb n="352"/>
 
 
@@ -16652,7 +16653,8 @@ Attempt it not although thou wilt not wed.’
 Join words together unto this effect,
 And if she will not take advice use bonds
 For her and all that have supported her.
-This is too much !’ ’”!
+This is too much !’ ”<note><cit><quote xml:lang="fra">Arrange les affairs de cette maniere, et si un conseil du Khakan ne te suffit pas, fais un traité. Quiconque croit le Khakan capable de faire ce que ¢u crains, dépasse ce qu’il est permis de dire</quote> <bibl>Mohl.</bibl></cit></note>
+<milestone unit="calced" n="1978"/>
 
 She answered: “ Let us quit
 The field and troops, and I will answer thee
@@ -16679,13 +16681,11 @@ Slew, overthrew, and wounded many a man,
 Pursued the foe two leagues and left few mounted.
 The whole plain was a-stream with blood that day,
 This man was headless, that head-downward lay.
-
-1‘ Arrange les affairs de cette mani¢re, et si un conseil du Khakan ne te suffit pas, fais un traité. Quiconque croit le Khakan capable de faire ce que ¢u crains, dépasse ce qu’il est permis de dire.” Mohl.
-VOL. VIII. 7
+        
 
 
 
-<milestone unit="calced" n="1978"/>
+
 § 43
 <pb n="354"/>
 How Gurdya wrote to Gurdwt
@@ -16779,7 +16779,6 @@ And, thou hadst said : “‘ Companioning the wind.”
 
 
 <pb n="356"/>
-<milestone unit="calced" n="1989"/>
 
 
 
@@ -16792,6 +16791,7 @@ He reached the mountains of Amul, drew up
 His army in that forest, thence made raids,
 
 And thus began a system of revenge.
+<milestone unit="calced" n="1989"/>
 
 He found a living for all workless men,
 
@@ -16812,7 +16812,7 @@ That brave Bahram Chiubfna’s days were done,
 
 And that Gurdya with many troops had fled
 
-That fierce chief,! that a host had followed her
+That fierce chief,<note>The Khan.</note> that a host had followed her
 
 To take revenge, and how she had entreated
 
@@ -16836,7 +16836,7 @@ And wiped blood from his eyelids with his sleeve.
 
 He lighted weeping from his steed at sight
 
-Of Yalan-sina and IIzid Gashasp,?
+Of Yalan-sina and Izid Gashasp,<note>Reading with P.</note>
 
 And said: “ The Shah hath slain Bandwi; his day
 
@@ -16852,7 +16852,6 @@ When absent!’ Now upon the earliest chance
 
 The Shah, true to the instincts of his race,
 
-1 The Khan. * Reading with P. oe eee ee
 
 <pb n="357"/>
 
@@ -16875,6 +16874,8 @@ He spake in earnest to Gurdya, recounting
 Bahram Chubina’s acts. She was o’ercome
 By what he said, and felt that he was right.
 All joined him and his clouded counsels cleared.
+<milestone unit="calced" n="1981"/>
+
 “Doth not,” thus said he to Yalan-sina,
 ‘This lady talk of marriage and desire
 Its honours ? ”
@@ -16895,7 +16896,6 @@ Like a fresh apple, for he saw in this
 
 
 
-<milestone unit="calced" n="1981"/>
 <pb n="358"/>
 
 
@@ -16925,7 +16925,7 @@ And wine they sent all strangers from the hall,
 And holding conclave with Gurdwi the Shah
 Discussed affairs and said: “I have dispatched
 Great forces to Amul to take revenge,
-And all have come back wounded and in bonds,!
+And all have come back wounded and in bonds,<note>i.e, in a state of disability.</note>
 Have come back full of sorrow and dismay.
 There is one plan—a trifle when compared
 With crown and throne. Although Bahram Chubina
@@ -16935,15 +16935,17 @@ A letter must be written to Gurdya,
 Like wine-streams in the garth of Paradise,
 To say: ‘ Thou hast been friendly and hast helped me
 
-1 ¢.e, in a state of disability. ee ae eee
+
 
 <pb n="359"/>
 
 
 In all things everywhere. Much time hath passed
 While my heart’s secret was not on my tongue,
+<milestone unit="calced" n="1982"/>
+
 But now the time for speaking hath arrived
-Because Gurdwi is as myself to me.}
+Because Gurdwi is as myself to me.<note>i.e. “I may speak now that thy brother is mine own dearest fricnd and so there is safe communication.”</note>
 Look out for some expedient to abate
 This foul affliction and put Gustaham
 Beneath the stones; then both my heart and home
@@ -16975,13 +16977,11 @@ Soon end as thou wouldst wish. The plan 1s perfect.”
 Khusrau Parwiz, on hearing this, rejoiced,
 And thought his cares wind, asked his treasurer
 
-‘te. “IT may speak now that thy brother is mine own dearest fricnd and so there is safe communication.”
 
 
 
-<milestone unit="calced" n="1982"/>
+
 <pb n="360"/>
-<milestone unit="calced" n="1983"/>
 
 
 
@@ -17001,6 +17001,8 @@ Heed not the consequences of their acts.
 Well, he hath gone and we shall follow him,
 Confiding in the justice of our God.
 My wife, on coming, will enlighten thee.
+<milestone unit="calced" n="1983"/>
+
 Swerve not from what she saith or thou wilt make
 Thy fortune’s visage wan.”
 He put the letter
@@ -17071,6 +17073,8 @@ And sat at ease among her counsellors.
 She wrote a letter to the Shah concerning
 
 His friends and foes, first praised those that eschew
+<milestone unit="calced" n="1984"/>
+
 Revenge, then said: “ The bidding of the Shah
 Hath been obeyed as loyal hearts would wish,
 
@@ -17079,7 +17083,6 @@ That great host hath dispersed. What further orders
 
 
 
-<milestone unit="calced" n="1984"/>
 <pb n="362"/>
 
 
@@ -17090,7 +17093,7 @@ When the letter reached
 Khusrau Parwiz he joyed in her the more.
 The mighty Lion sought a messenger,
 High-starred, an honest man and shrewd of soul,
-And wrote a letter like the Artang of Chin,?
+And wrote a letter like the Artang of Chin,<note>Arzhang in the original. See Vol. li. p. 19 note.</note>
 With many blessings in it, summoning
 The noble lady to the court, and in it
 Called her the Diadem upon the moon.
@@ -17139,9 +17142,8 @@ While robes of honour, coin, and much beside
 
 He showered upon the comrades of his bride.
 
-' Arzhang in the original. See Vol. li. p. 19 note. ee er. a Saw snail
 
-OD EN ®
+
 § 48
 <pb n="363"/>
 
@@ -17156,7 +17158,9 @@ And gird thy loins as thou wast girded then.”
 
 “O Shah!” she thus made answer, “ live for ever,
 And be souls nourished by the sight of thee.
-Command thy men to bring a charger here,
+<milestone unit="calced" n="1935"/>
+
+Command thy men to bring a charger here.
 
 A saddle and choice lasso and a bow,
 A spear and helmet and a warrior’s mail,
@@ -17175,7 +17179,7 @@ In height a silver column as she walked.
 Gurdya approached the Shah and bade a slave
 Bring coat of mail and Ruman casque. She quitted
 Her seat and came forth with her loins girt up
-And spear in hand.! That all-accomplished dame
+And spear in hand.<note>Couplet omitted.</note> That all-accomplished dame
 Drew nigh a black steed by the Shah’s command,
 Set on the ground the butt-end of her spear,
 And vaulted to the saddle swift as wind.
@@ -17183,13 +17187,11 @@ She chose her field of action in the pleasance,
 Wheeled her about on all sides right and left,
 And pierced the dark clouds with her battle-cries.
 
-> Couplet omitted.
 
 
 
-<milestone unit="calced" n="1935"/>
+
 <pb n="364"/>
-<milestone unit="calced" n="1986"/>
 
 
 
@@ -17222,6 +17224,7 @@ Would have declined, and in the sight of all
 Quaffed to the Shah and drained it at a draught ;
 She knocked the dust out of that golden stream !
 The Shah in wonder said: " O warrior-moon !
+<milestone unit="calced" n="1986"/>
 I have about the world four generals,
 Who have it in command to guard my life.
 Each hath twelve thousand men—franians
@@ -17252,7 +17255,8 @@ Sought only the ascendant, but one night,
 As he was drinking wine among his sages,
 His magnates and experienced officers,
 There was a cup in use among the guests,
-Graved with the name Bahram.! The Shah bade throw
+Graved with the name Bahram.<note>The cup had belonged to, or the name on it suggested, Bahram
+Chubina.</note> The Shah bade throw
 
 The cup away whereat they all began
 To curse Bahram, the cup, and him that wrought it.
@@ -17270,15 +17274,14 @@ The king replied: “ I want one ill-disposed
 And of low birth to act as marchlord there,
 One who Is coarse of speech and ignorant.”
 
-’ The cup had belonged to, or the name on it suggested, Bahram
-Chubina.
+
 
 
 <pb n="366"/>
 
 
-‘Do thou, O king! ” the minister rejoined,
-‘’ Characterize the wretch, and I will seek,
+"Do thou, O king! ” the minister rejoined,
+"Characterize the wretch, and I will seek,
 
 And bring him, otherwise we have no guide.”
 Khusrau Parwiz replied: “I want a gabbler,
@@ -17296,7 +17299,7 @@ The archimages
 Were all amazed that he should speak of such,
 And all made search about the world, amidst
 The cities, and among the great and small.
-One day a man brought one such to the Shah,!
+One day a man brought one such to the Shah,<note>Two couplets omitted.</note>
 Who said: ‘ Tell thine ill deeds in fitting terms.”
 
 The man replied: “ I cease not to do ill,
@@ -17323,7 +17326,7 @@ Where’er he went he took with him a guide,
 While in the front of them a herald walked,
 Proclaiming: “ If I see a gutter left,
 
-1 Two couplets omitted.
+
 
 
 <pb n="367"/>
@@ -17355,6 +17358,7 @@ And not a soul regarded their distress.</p>
 <p>§ 50
 
 How Gurdya made Sport before Khusrau Parwiz and how he gave Rai to her
+<milestone unit="calced" n="1988"/>
 
 Thus was it till the month of Farwardin,
 
@@ -17391,9 +17395,7 @@ He told his sister: " Thou must tell the Shah.
 
 
 
-<milestone unit="calced" n="1988"/>
 <pb n="368"/>
-<milestone unit="calced" n="1989"/>
 
 
 
@@ -17421,6 +17423,8 @@ Khusrau Parwiz laughed out at his wife’s words,
 And said: “ Thou saucy shatterer of hosts !
 I give to thee the city and the lands.
 Send thither presently some upright man,
+<milestone unit="calced" n="1989"/>
+
 And call back that malignant one from Rai,
 Like Ahriman, that loathly infidel.”
 The lady’s fortune waxed continually
@@ -17454,7 +17458,7 @@ But be content with his own rank and fortune.
 He chose moreover of the men of name
 Out of Iran twelve thousand warlike horsemen
 That they might march forth to Zabulistan
-(They left a rose-garth for a gloomy land)}
+(They left a rose-garth for a gloomy land)<note><cit><quote xml:lang="fra">Ce pays a ferre nuire.</quote> <bibl>Mohl.</bibl></cit></note>
 And said to them: “ If any one shall turn
 Out of the way, not keeping his own place,
 Restore him to the path with courteousness,
@@ -17466,17 +17470,14 @@ Out of the host he called twelve thousand others,
 All magnates valorous and fond of fight,
 And having given to them much advice
 Dispatched them to the route of the Alans,
-And charged them with the gate-way of the West?
+And charged them with the gate-way of the West<note>See Vol. i. p. 16.</note>
 So that no enemy might pass thereby.
 He bade the chiefs: " Be watchful and God guard you.”
 He chose and sent twelve thousand warriors more,
-Such as were fit, to Khurasan, exhorting,
-1'Ce pays a ferre nuire.”  Mohl. * Darband. Sce Vol. i. p. 16.
-VOL. VIII. 2A
 
+        
 
 <pb n="370"/>
-<milestone unit="calced" n="1990"/>
 
 
 
@@ -17484,6 +17485,7 @@ And greatly charging: “‘ From Haital to Chin
 Let none set foot upon our land save those,
 Devoted and attached to me, that are
 Admitted with my knowledge and command.
+<milestone unit="calced" n="1990"/>
 In all the provinces I have full hoards
 Available to all. When ye have need
 
@@ -17549,6 +17551,7 @@ Narrated to him stories of the past,
 
 While in the fourth the Shah received the envoys
 Of other potentates and wrote his answers
+<milestone unit="calced" n="1991"/>
 
 To those exalted chiefs. With robes of honour
 The envoys, gratified and satisfied,
@@ -17571,22 +17574,20 @@ Parwiz informed Cesar
 When he had reigned five years he had no peer,
 
 And in the sixth year Cesar’s daughter bare him
-An infant like the moon. °*Twas not the custom
-To give the call to prayers! in infants’ ears
+An infant like the moon. 'Twas not the custom
+To give the call to prayers<note>i.e. to proclaim loudly.</note> in infants’ ears
 
 If delicately nurtured. Fathers spake
 
-1 4.e. to proclaim loudly.
 
 
 
-<milestone unit="calced" n="1991"/>
+
 <pb n="372"/>
-<milestone unit="calced" n="1992"/>
 
 
 
-One name into their ears—a private one!—
+One name into their ears—a private one<note>As a precaution against evil influences. Sometimes children were left un-named for a similar reason. Cf. Vol. 1. pp. 8, 177, 179 and CMN, p. 36 seq.</note> —
 The other name was publicly announced.
 The Shah in private called his son Kubad,
 But publicly Shirwi of glorious race.
@@ -17614,15 +17615,16 @@ The chieftains all resorted to the archmage,
 And held discourse at large to ascertain
 What had befallen the illustricus Shah,
 And why he gave not audience to his lieges.
+<milestone unit="calced" n="1992"/>
 The high priest sought the Shah, on hearing this,
 And told the army’s words. He answered thus :—
 “Fate troubleth me, and I am all concern
 About the process of the turning sky
 Through what the astrologers have said.”
 
-1 As a precaution against evil influences. Sometimes children were left un-named for a similar reason. Cf. Vol. 1. pp. 8, 177, 179 and CMN, p. 36 seg. eee eee we oe
+
 <pb n="373"/>
-KHUSRAU PARWIz 373
+
 
 He bade
 The treasurer: « Bring forth the painted silk
@@ -17654,7 +17656,7 @@ So, as I do myself, live happily,
 
 For joy and high estate pertain to thee.”
 
-Go gle
+
 § 53
 <pb n="374"/>
 
@@ -17700,7 +17702,7 @@ Of coral, fitting for the use of kings,
 
 With gold and silver effigies of beasts
 
-With gems for eyes,! with robes of beaver-skins,
+With gems for eyes,<note>Cf. Vol. vii. p. 36.</note> with robes of beaver-skins,
 
 With silk from Chin, and with a golden laver
 
@@ -17719,7 +17721,7 @@ Unmatched in wisdom. Thus with cameleers
 Ten caravans went laden with dinars.
 
 When tidings reached the conquering Shah: “ An envoy
-1 Cf. Vol. vii. p. 36.
+
 
 
 <pb n="375"/>
@@ -17749,6 +17751,8 @@ May none behold the day whereon thy will
 Is frustrate ; be thy name writ on the sun.
 May this world never lack thy head and crown,
 This land thy host. From Cesar salutation,
+<milestone unit="calced" n="1994"/>
+
 From us praise to this famous king of earth.
 May all be dark to one that joyeth not,
 In his alliance. We have come from Rum
@@ -17766,7 +17770,6 @@ Such pains ;” then to Kharrad, son of Barzin :—
 
 
 
-<milestone unit="calced" n="1994"/>
 <pb n="376"/>
 
 
@@ -17819,13 +17822,13 @@ No holy mother e’er bare such a son.
 
 When Faridin gave to fraj fran,
 
-And took supremacy from Rum and Chin,?
+And took supremacy from Rum and Chin,<note>Shirwi (Sherwi) from "sher,” a lion.</note>
 
 He from the first acclaimed fraj and purged
 His heart from guile and gloom. Thou hast no want,
 
-2 Shirwi (Sherwi) from ‘ sher,’” a lion.
-‘Rum and Chin (Tur4n) were the portions of Salm and Tur, the elder brothers of [raj. See Vol. i. p. 189.
+
+
 
 
 <pb n="377"/>
@@ -17844,11 +17847,12 @@ Of their race e’er saw trouble. Tax and tribute
 They laid on foes, and their ill-wishers bare,
 
 As oxen do, their burdens. Since the days
+<milestone unit="calced" n="1995"/>
 
 Of Nushirwan (may wisdom make him young
 For evermore !), whose peer hath never been,
 And ne’er will be, as Shah—the prudent king
-By whom was reared a bulwark from the deep,?
+By whom was reared a bulwark from the deep,<note>See Vol. vii. p. 239.</note>
 So that they freed the whole wood of Narwan
 From Turkmans and the folk reposed, so freed
 A vast expanse from enemies amid
@@ -17861,7 +17865,7 @@ Girt up their loins before him—from the sea
 
 Of Chin up to the land of the Khazars,
 
-And from Armenia to the Eastern? gate,
+And from Armenia to the Eastern<note>From Cesar’s point of view.</note> gate,
 
 The nobles of Haital, Chach, Turkistan,
 
@@ -17885,13 +17889,11 @@ Of no account to him. Among thy treasures
 There is the Cross of Christ : observe and ye
 Will find it so. It hath been there for long.
 
-2 See Vol. vii. p. 239. * From Cesar’s point of view.
+ 
 
 
 
-<milestone unit="calced" n="1995"/>
 <pb n="378"/>
-<milestone unit="calced" n="1996"/>
 
 
 
@@ -17917,6 +17919,7 @@ And privily possessed both Salm and Tur ;
 Our realm will rest from forays and all feuds.
 Our wives and children have been carried off,
 In every way our hearts have been distressed,
+<milestone unit="calced" n="1996"/>
 But our affinity hath calmed the world,
 And all insensate passions are appeased.
 May the Creator bless thee and thy land.”
@@ -17966,7 +17969,7 @@ And I am gratified that they proceed
 
 From sages eminent. I have received
 
-Thy splendid? treasure sent and only wish
+Thy splendid<note>Reading with P.</note> treasure sent and only wish
 
 That thou hadst less concerned thyself. Since God,
 The holy Ruler of the world, hath raised
@@ -17987,7 +17990,7 @@ Than any other chief in child, in land,
 And virtuous kin. The other chiefs all turned
 Their backs on me and passed me by as vile,
 
-' Reading with P.
+
 
 
 <pb n="380"/>
@@ -17995,7 +17998,8 @@ Their backs on me and passed me by as vile,
 
 But thou didst take the place of sire to me,
 
-<milestone unit="calced" n="1997"/>, And more. I recognise that thou hast been
+<milestone unit="calced" n="1997"/>
+And more. I recognise that thou hast been
 A father noble and benevolent.
 Next, what thou sayest of the holy Faith.
 About your Sundays, fastings, and thanksgivings,
@@ -18051,13 +18055,14 @@ And heedeth not my words. She is at ease
 And joyful, triumphing in this voung Tree
 Of royalty. The World-lord help thee ever ;
 May fortune’s head be always on thy lap.”
+<milestone unit="calced" n="1998"/>
 
 They sealed the Ietter with the royal signet,
 Kharrad, son of Barzin, took charge thereof,
 And then they oped the doors of treasure-hoards
 Collected by the Shah for many a day,
 And in the first place eight score money-bags,
-For coins which Persians call “ paidawasis,”}
+For coins which Persians call “ paidawasis,”<note>See Vol. vil. p. 95 note.</note>
 They filled till they were hard as stones with jewels,
 Then sealed them tightly. Every bag was worth,
 According to the reckoning on the roll,
@@ -18072,11 +18077,10 @@ While of the native produce of each land,
 Of Hindtstan and Chin, Barbar and Misr,
 And raiment from Shustar—all that the chiefs
 
-' See Vol. vil. p. 95 note.
 
 
 
-<milestone unit="calced" n="1998"/>
+
 <pb n="382"/>
 
 
@@ -18097,8 +18101,7 @@ The embassy went on its way rejoicing,
 While all the mighty men called down upon
 That prowest king of earth their benison.
 
-THE STORY OF KHUSRAU PARWIZ
-SHIRIN</p>
+<head>THE STORY OF KHUSRAU PARWIZ AND SHIRIN</head>
 
 <p>§ 55
 The Prelude
@@ -18121,7 +18124,7 @@ In vain as yet in any Persian book,
 And if one were to cancel each false strain
 In sooth five hundred barely would remain.
 
-. That one—a bounteous king and of such worth
+That one—a bounteous king and of such worth
 
 And lustre mid the monarchs of the earth—
 Should disregard these histories is due
@@ -18129,12 +18132,14 @@ To slanderers and mine ill fortune too.
 
 
 
-AND
+
 <pb n="383"/>
 
 
 They envied this my work and with the king
 They have prevailed to spoil my marketing ;
+<milestone unit="calced" n="1999"/>
+
 But when the royal potentate shall read
 
 My pleasant histories with all good heed
@@ -18154,11 +18159,11 @@ The tale of grief and joy he needs must tell,
 Taste all the bitter and the salt as well,
 
 For youths though knowing and of noble birth
-Can only by experience compass worth.”!</p>
+Can only by experience compass worth.”<note>There is no break in the original here.</note></p>
 
 <p>§ 56
 
-How Khusrau Parwiz loved Shirin, how they parted, how he met her again while hunting and sent her to his Bower?
+How Khusrau Parwiz loved Shirin, how they parted, how he met her again while hunting and sent her to his Bower<note>Part of this heading is not in the original.</note>
 
 Khusrau Parwiz like other paladins,
 
@@ -18166,7 +18171,7 @@ While yet his father lived, was young and bold,
 And had for mate Shirfn who was to him
 
 As his bright eyes. He cared for none beside
-Among the fair and daughters of the night,?
+Among the fair and daughters of the night,<note><cit><quote xml:lang="fra">les filles des grands.</quote> <bibl>Mohl.</bibl></cit></note>
 But parted from her for a while when he
 
 Came to be king and had to roam the world
@@ -18174,19 +18179,16 @@ Unrestingly, for all his work was then
 
 To fight Bahram Chubina while the Fair
 
-1 There is no break in the original here.
-‘Part of this heading is not in the original.
-2 ‘les filles des grands.” Mohl.
 
 
+        
 
-<milestone unit="calced" n="1099"/>
+
 <pb n="384"/>
-<milestone unit="calced" n="2000"/>
 
 
 
-Wept day and night o’er his defect in love.!
+Wept day and night o’er his defect in love.<note>The section in the original ends here.</note>
 
 It was so that one day he willed to hunt,
 And all things were prepared as in the times
@@ -18200,11 +18202,12 @@ Their coats of mail. Seven hundred falconers
 Came next with royal falcons, sparrow-hawks,
 And gos-hawks, while behind them mounted men—
 Three hundred keepers of the cheetahs—fared,
-And pards and lions chained three score and ten, |
+And pards and lions chained three score and ten, 
 All harnessed with brocade of Chin, all trained,
 And furnished with gold muzzles. For the deer-hunt
 There were eight hundred hounds with golden leashes.
 Behind them came, to harp on hunting-days,
+<milestone unit="calced" n="2000"/>
 Two thousand minstrels all on camel-back,
 And crowned with gold. Five hundred camels went
 Ahead, and ’twas their special task to bear
@@ -18223,11 +18226,10 @@ Lest any sudden blast might scatter dust
 Upon that Shah of glorious lineage.
 Three hundred youthful princes rode with him,
 
-? The section in the original ends here.
+
 
 
 <pb n="385"/>
-KHUSRAU PARWIz 385
 
 Arrayed in yellow, red, and violet.
 The king of kings had with him Kawa’s standard, ore crown and earrings, royal cloth of gold,
@@ -18238,7 +18240,7 @@ Now Shirin, on hearing :—
 Hath come,” put on a yellow vest musk-scented,
 And made her Visage like pomegranate-blooms.
 She wore a red robe of brocade from Rum
-. With patterns jewelled on a ground of gold,
+With patterns jewelled on a ground of gold,
 And placed upon her head a royal crown
 Set with the jewels of a paladin.
 She left her jocund hall, went on the roof,
@@ -18249,7 +18251,7 @@ At sight of him she rose, showed all her height,
 And spake to him with Sweetness of the past.
 The twin Narcissi bathed the Cercis-bloom,
 The first all languishment, the last all health,
-All tears! and beauty, eagerly she cried
+All tears<note>Or “ sheen.”</note> and beauty, eagerly she cried
 Thus in the olden tongue: “O Shéh! Great Lion !
 O framed to be leader of the host !
 O blesséd hero, lion-conqueror !
@@ -18258,19 +18260,18 @@ Of blood once stanched by looking on Shirin ?
 Where all those days which once we turned to nights,
 Tears in our hearts and eyes, smiles on our lips ? cre are our loves, our troth, our bonds, our oaths ? ”
 E’en as she spake she shed blood-drops of gall
-Upon her guise of lapis-lazuli,2
+Upon her guise of lapis-lazuli,<note><cit><quote xml:lang="fra">sur son visage en deuil.</quote> <bibl>Mohl.</bibl></cit></note>
+<milestone unit="calced" n="2001"/>
+
 And when he heard and looked and saw Shirin
 He wept for her, his face hued like the sun.
 He sent a led horse all betrapped with gold,
 
-‘Or “ sheen,” * “sur son visage en deuil.”” Mohl.
-VOL. VIII, 2B
+
+        
 
 
 
-C.
-
-2001
 <pb n="386"/>
 
 
@@ -18283,7 +18284,7 @@ He went back to the city joyfully.
 They decked it and the roads because the Shah
 Was coming from the chase; the trumpet-calls,
 And sounds of singing, ravelled all the air,
-And thus the royal Fruit of that tall Bough!
+And thus the royal Fruit of that tall Bough<note>The Sasanian race. <cit><quote xml:lang="fra">Lorsque cet homme 4 la stature royale et aux membres pulssants.</quote> <bibl>Mohl.</bibl></cit></note>
 Passed through the city to his lofty home,
 While from his bower Shifrin came forth and kissed
 His feet and hands and head. At that time spake
@@ -18312,44 +18313,55 @@ And full of care, distress, and malisons.
 For three days none approached him. On the fourth,
 When the world’s Lustre shone, he sent and called
 
-1 The Sdsanian race. " Lorsque cet homme 4 la stature royale et aux membres pulssants.’” Mohl.
+        
+
 
 
 <pb n="387"/>
-KHUSRAU PARWiz 387
 
-The chiefs and set them on the nobles’ Seats.
-
-He said to them: « For days I have not seen you,
+The chiefs and set them on the nobles’ seats.
+He said to them: ‘‘ For days I have not seen you,
 And grieve thereat. I am concerned for fear
-
 Of your concernment and solicitous
+About your dealings.”</p>
 
-About your dealings.”
+<p>Thus he spake but none
+Replied ; they simply held their tongues, but those
+Agerieved and angry looked at the high priest,
+Who seeing this rose to his feet and thus
+Addressed Khusrau Parwiz: “ O righteous judge!
+Thou hast in youth’s day come to be the king,
+Hast seen from fortune much of good and ill,
+<milestone unit="calced" n="2002"/>
 
-Although his father called Dard his brother,
-While Failakis was wont to call him son.2
+And heard how in the world no stint thereof
+Ariseth from the deeds of those in power ;
+How when a noble race hath been defiled
+Defiled too are the mighty sprung therefrom.
+Know this, that never hath a noble son
+Laid hands upon his father’s life<note>Blood in the Original.</note> unless
+His mother had befouled the seed and smirched
+Her offspring. Thus Zahhak, the Arab, slew
+His sire and brought ill on Jamshid’s head, thus
+Sikandar, who poured out Dara’s blood, brought
+So great a fire of feud upon ourselves
+Although his father called Dara his brother,
+While Failakus was wont to call him son.<note>In this and the Preceding line the Pronouns refer to Sikandar.</note>
 When sire is pure and mother virtueless
 Know that no holy son will come to birth.
-None seeketh for uprightness in Perverseness
+None seeketh for uprightness in perverseness
 If he is fain to fill his sleeves with right.
-
-Our hearts are sad because a potent diy
-
+Our hearts are sad because a potent div
 Is now the great king’s mate, for had there been
-No other woman in frén e’en then
-
+No other woman in Iran e’en then
 How could Khusrau Parwiz thus honour her ?
 If but Shirin were absent from his bower
 
-' Blood in the Original,
-‘In this and the Preceding line the Pronouns refer to Sikandar,
 
 
 
-C. 2c02
+
 <pb n="388"/>
-<milestone unit="calced" n="2003"/>
 
 
 
@@ -18387,13 +18399,15 @@ Is this and wherefore is it set before me ?”
 “ And so polluteth him that seeth it.”
 
 When he had spoken thus men took the bowl,
+<milestone unit="calced" n="2003"/>
+
 Passed it from hand to hand, cleansed it of blood,
 And scoured it out with water and with sand.
 Then when that noisome bow! had been made bright
 And clean, the washer filled it full of wine,
 
 And sprinkled it with musk and with rose-water.
-The bowl] shone out sun-bright. Khusrau Parwiz
+The bowl shone out sun-bright. Khusrau Parwiz
 Said to the archmage: “ Verily the bowl
 Appeareth otherwise ! ”
 
@@ -18441,7 +18455,6 @@ Had been deceased one year.
 
 
 <pb n="390"/>
-<milestone unit="calced" n="2004"/>
 
 
 
@@ -18455,8 +18468,9 @@ It happened that the archimage one morn
 Went to his patron’s and returning found
 Shirwf as usual occupied in sport,
 Saw that he had in front of him Kalila
-And Dimna! but that the fierce youth was holding
+And Dimna<note>See Vol. vii. pp. 382, 423.</note> but that the fierce youth was holding
 In his left hand a wolf’s claw cut and dried,
+<milestone unit="calced" n="2004"/>
 And in his right a buffalo’s horn, and these
 He beat together as the humour took him.
 Such actions, pastime, and behaviour
@@ -18464,7 +18478,7 @@ Vexed the archmage’s heart who boded ill
 From that wolf’s claw, the buffalo’s horn, and manners
 Of that rude youth, and was in great concern
 At what might happen through that ill-disposed
-And luckless prince in times to come for he |
+And luckless prince in times to come for he 
 Had seen the horoscope and made inquiries
 Of minister and treasurer. He sought
 The high-priest and reported thus to him :—-
@@ -18481,7 +18495,7 @@ And when Shirwi had gotten stalwart limbs,
 The Great King was displeased because the child
 Was lusty grown but not as he desired.
 
-1 See Vol. vii. pp. 382, 423.
+
 
 
 <pb n="391"/>
@@ -18528,6 +18542,8 @@ And from the Arabs carried off the style
 
 Of kingship, on Mount Damawand there dwelt
 A man who was distinguished by the Shah.
+<milestone unit="calced" n="2005"/>
+
 His name was Jahn, son of Barzin, a power
 Within the realm, and for that Shah renowned
 He made a throne and studded it with gems,
@@ -18539,13 +18555,12 @@ And pair of earrings on him, and had written
 
 
 
-<milestone unit="calced" n="2005"/>
 <pb n="392"/>
 
 
 On his behalf a patent for Sarf,
 And for Amul. The coast-lands thus assigned
-Resembled Paradise. When Farfduin
+Resembled Paradise.<note>Cf. Vol. ii. p. 27.</note> When Farfduin
 Bestowed Iran upon fraj—the youngest
 Of his illustrious sons—he gave withal
 Three things—this very throne, the ox-head mace
@@ -18580,7 +18595,7 @@ Concealed and handed down full many a shard.
 Thus was it till Ardshir began his reign,
 And then the name e’en had grown obsolete.
 
-1Cf. Vol. ii. p. 27.
+
 
 
 <pb n="393"/>
@@ -18591,6 +18606,8 @@ Not as he would, and had small joy therein.
 He died and left it as thereafter did
 Those that succeeded. When Khusrau Parwiz
 Sat on the throne and all the chiefs were loyal
+<milestone unit="calced" n="2006"/>
+
 They spake about that other royal throne,
 And its past history. Thus said the Shah :—
 ‘Ye chiefs! I ask a favour of my lieges
@@ -18616,21 +18633,17 @@ Men out of Rum, Pars, and Baghdad. The Shah
 Commanded all to labour earnestly
 To have the throne completed in two years,
 And when it was set up high fortune shone.
-The height thereof was five score royal cubits?
+The height thereof was five score royal cubits<note>A royal cubit=a fathom.</note>
 If thou wilt add thereto three score and ten;
 The breadth six score for twas less broad than high.
 A different carpet was laid down each morning
-Throughout the month,* and seven score thousand plaques
-
-' A royal cubit=a fathom. * Couplet omitted.
+Throughout the month,<note>Couplet omitted.</note> and seven score thousand plaques
 
 
 
-<milestone unit="calced" n="2006"/>
+
 <pb n="394"/>
-C.
 
-2007
 
 
 
@@ -18644,7 +18657,7 @@ Its lamp in Aries the desert lay
 Behind the throne which fronted garden-wards,
 But when Sol raged in Leo then the back
 
-Was turned toward it ;! in the month of Tir—
+Was turned toward it ;<note>The sun.</note> in the month of Tir—
 The time for fruit and festival—the throne
 Stood fronting toward the garden and the fruits
 To catch their scents ; in Winter, in the days
@@ -18652,9 +18665,10 @@ Of wind and wet, none felt them seated thus ;
 The top was all shut in right royally
 
 With beaver-skins and sables. A thousand balls
-Withal of gold and silver glowed like brands?
+Withal of gold and silver glowed like brands<note><cit><quote xml:lang="fra">Les valets de garde-robe faisaient chauffer au feu, etc</quote> <bibl>Mohl.</bibl></cit></note>
 Upon the fire, each five and twenty score
 Miskals in weight and coral-hued with heat.
+<milestone unit="calced" n="2007"/>
 
 One half was in the fire, the other half
 
@@ -18684,8 +18698,8 @@ They lit the night like Venus in the sky.
 
 Upon the throne-steps were three rows of seats
 
-' The sun.
-“ Les valets de garde-robe faisaient chauffer au feu,” etc. Mohl.
+        
+
 
 
 <pb n="395"/>
@@ -18727,15 +18741,15 @@ All strung with jewels held by golden threads.
 
 A map of heaven was inscribed thereon
 
-Where Saturn, Mars, Sol, Jupiter,! and Venus,
+Where Saturn, Mars, Sol, Jupiter,<note>Reading with P.</note> and Venus,
 
 With Mercury and shining Luna, showed
 
 The fortunes of the Shah ; there too appeared
 
-The Seven Climes, and peers of Pars and Rum ;?
+The Seven Climes, and peers of Pars and Rum ;<note>Reading with P.</note>
 
-The seven and forty Shéhs,? their faces, thrones,
+The seven and forty Shéhs,<note>Khusrau Parwiz himself was only the forty-third Shah. Shah, however, may be used here in a more general sense so as to embrace Siyawush, Asfandiy4r, and others. Mohl has “ quarante-huit.”</note> their faces, thrones,
 
 And crowns, were shown, those of the kings of kings,
 
@@ -18749,20 +18763,21 @@ One New Year at Urmuzd of Farwardin
 
 He came before the monarch of fran,
 
-And brought that royal carpet to the Shgh :
+
+<milestone unit="calced" n="2008"/>
+And brought that royal carpet to the Shah :
 
 The nobles let him pass. He laid it down
 
 On New Year’s Day. The Shah's joy was complete.
-‘Reading with P. * Id.
-‘Khusrau Parwiz himself was only the forty-third Shah. Shah, however, may be used here in a more general sense so as to embrace
-Siy4wush, Asfandiy4r, and others. Mohl has “ quarante-huit.”
 
 
 
-C.
 
-2008
+
+
+
+
 <pb n="396"/>
 
 
@@ -18833,7 +18848,8 @@ A boon—the merest trifle. When the world-lord
 
 Shall come to revel hither give to me
 
-The means of seeing him, myself unseen.”?
+The means of seeing him, myself unseen.”<note>Couplet omitted.</note>
+<milestone unit="calced" n="2009"/>
 Mardwi replied: “‘ I will; my love for thee
 
 Shall oust reflection.” :
@@ -18853,7 +18869,7 @@ And went to where the Shah would be who had
 
 Each Spring a fresh spot for his festival.
 
-There was a verdant cypress full? of leaf,
+There was a verdant cypress full<note>Gashan. Firdausi might have used this adjective as a thymeword in his alleged competition with the three poets (see Vol. iii. p. 15) but preferred the more erudite Pashan.</note> of leaf,
 
 Whose branches, like the battle of Pashan,
 
@@ -18875,15 +18891,12 @@ Its crimson made the crystal disappear.
 
 Now when the sun turned sallow, but abode
 
-1 Couplet omitted.
-
-‘Gashan. Firdausi might have used this adjective as a thymeword in his alleged competition with the three poets (see Vol. ui. p-. 15) but preferred the more erudite Pashan.
 
 
 
-<milestone unit="calced" n="2009"/>
+
+
 <pb n="398"/>
-<milestone unit="calced" n="2910"/>
 
 
 
@@ -18893,7 +18906,7 @@ And sang a royal ditty. In that tree
 He sang a lay so charming that the Shah,
 That man of wakeful fortune, was amazed.
 The melody which that sweet voice gave forth
-Was that which now thou callest Dadafrid.}
+Was that which now thou callest Dadafrid.<note>“The Source of Justice.”</note>
 The company were in astonishment,
 And everyone had his own view thereon.
 The playing made Sarkash like one insane ;
@@ -18911,18 +18924,20 @@ Then the cup-bearer brought another cup,
 And as the king received it from the youth,
 So fair of face, the minstrel preluded
 In other fashion and forthwith began
-A different song—that called Paikar-1-Gurd,?
-A name suggested by the words. The minstrel |
-Sang and the Shah gave ear, drank to the voice, |
+A different song—that called Paikar-1-Gurd,<note>‘The Battle of the Brave.’ This and the preceding are musical terms.</note>
+A name suggested by the words. The minstrel 
+Sang and the Shah gave ear, drank to the voice, 
 And bade: “ Produce this man and all within
-The garden.” |
-So they searched the garden through, !
+The garden.” 
+So they searched the garden through, 
 And carried lights beneath the trees, but saw
+<milestone unit="calced" n="2010"/>
+
 Naught but the willows and the cypresses,
 And pheasants pacing underneath the rose.
 
-' “The Source of Justice.”
-‘The Battle of the Brave.’ This and the preceding are musical terms.
+
+
 
 
 <pb n="399"/>
@@ -18933,7 +18948,7 @@ The king of kings called for another cup,
 And raised his head to hear the voice. Again
 There came the singing to another tune
 
-Upon the harp—the tune called Sabz dar sabz,}
+Upon the harp—the tune called Sabz dar sabz,<note>“Green on green,” anticipating Marvell's “green thought in a green shade.” Also a musical term.</note>
 
 A melody employed in magic arts.
 
@@ -18941,14 +18956,14 @@ On hearing it Khusrau Parwiz arose,
 
 And that adorner of the garth demanded
 
-A cup of wine that held a man.? He drank
+A cup of wine that held a man.<note>See Vol. i. p. 290 note.</note> He drank
 
 The sparkling wine off at a draught and cried :—
 “ An angel this, all musk and ambergris,
 
 For if he were a div he would not sing,
 
-Or know to play the harp !° Find out the player.
+Or know to play the harp !<note>In the earher parts of the Shahnama divs sometimes are represented as being accomplished. See Vol. i. p. 127, Vol. ii. p. 31.</note> Find out the player.
 Search all the garden and the flower-beds
 
 To left and right, for I will fill his mouth
@@ -18978,16 +18993,14 @@ Thy harp is banished from this company.”
 Then while Barbad sang on the monarch quaffed,
 And drained the Jewelled cup until his head
 
-' “Green on green,” anticipating Marvell's “‘ green thought in a green shade.” Also a musical term.
 
-‘See Vol. i. p. 290 nole.
 
-> In the earher parts of the Shahnama divs sometimes are represented as being accomplished. See Vol. i. p. 127, Vol. i. p. 31.
+
+
+
 
 
 <pb n="400"/>
-Cc. 2011
-
 
 
 Inclined to sleep, whereat with watered pearls
@@ -19024,8 +19037,9 @@ And all of Faith, of counsel, and sound lore
 Will sing my praise when I shall be no more.</p>
 
 <p>§ 61
-How Khusrau Parwiz built the Palace! of Mad@in
+How Khusrau Parwiz built the Palace<note>City in text</note> of Mad@in
 
+<milestone unit="calced" n="2011"/>
 I will retell the tale of Mada’in,
 
 Tell of the palace of Khusrau Parwiz.
@@ -19042,11 +19056,9 @@ Out of fran, Ahwaz, and from the Ruimans.
 
 Of these he next chose thirty and from them
 
-1 City in text.
 
 
 <pb n="401"/>
-KHUSRAU PARWIZ yor
 
 Two Rimans and one Persian, from which three
 They chose a Riman matchless in the world.
@@ -19068,7 +19080,7 @@ And said: " For this thing I am competent.”
 
 Ten royal cubits deep he excavated,
 
-(A royal cubit is five common ones)?
+(A royal cubit is five common ones)<note>Reading with P. and T.</note>
 
 And laid foundations made of stone and mortar
 To form a solid basis. When the walls
@@ -19098,8 +19110,7 @@ And having sealed it gave it to the keeper ;
 Then going to the court said to the Shah :—
 “The palace-walls have risen to the moon,
 
-1 Reading with P. and T.
-VOL. VIII, 2C
+
 
 
 <pb n="402"/>
@@ -19178,6 +19189,8 @@ And with the Shah’s own representative
 Tried the wall’s height and found that it had sunk
 Seven cubits. Then they carried to the Shah
 The line. The expert’s comrade made report.
+<milestone unit="calced" n="2013"/>
+
 The Ruman then spake thus: “ If I had carried
 The buildings to their height no wall, O Shah!
 No vaulting and no work had stood, and I
@@ -19202,7 +19215,6 @@ Hung from the ceiling of the cupola,
 
 
 
-<milestone unit="calced" n="2013"/>
 <pb n="404"/>
 
 
@@ -19289,7 +19301,6 @@ From Chin and Rum and every peopled clime
 
 
 <pb n="406"/>
-<milestone unit="calced" n="2015"/>
 
 
 
@@ -19308,40 +19319,41 @@ The wingéd eagle, royal falcon, hawk,
 Pard, lion, and stream-haunting crocodile
 
 Submitted to him willingly : his mind
+<milestone unit="calced" n="2015"/>
 
 Was bright as Sol. The first of all his treasures,
 
 Amassed from Chin, Bulghar, from Rum, and Rus,
 
-Was called “ ’Arts ” ;} the next of watered pearls,
+Was called “ ’Arts ” ;<note>The Bride.</note> the next of watered pearls,
 
 And in an edifice a bowshot high,
 
-Was named “ Khazra *? by chiefs and Arab sages ;
+Was named “ Khazra "<note>The Green.</note> by chiefs and Arab sages ;
 
-The next was known as “ Bar’ and lord and liege
+The next was known as “ Bar"<note>Perhaps " The Spring... (of Khusrau).”</note> and lord and liege
 
 Have never looked upon its like; the next
 
-Was great Shadward‘ which minstrels celebrate ;
+Was great Shadward<note>The Throne</note> which minstrels celebrate ;
 
-The next was that which men called “‘ Bad Awar °’;5
+The next was that which men called “‘ Bad Awar";<note>Windfall, i.e. composed of jetsam. Cf. ZT, it. 305.</note>
 
 They strove to estimate it but they failed.
 
 The next whereof thou hearest speak thou callest
 
-“Diba-i-Khusraui,”® and next the famed
+“Diba-i-Khusraui,”<note>Brocade of Khusrau.</note> and next the famed
 
 Hoard of Afrasiyab; none hath possessed
 
 Its like by sea or land; another hoard
 
-Was that entitled " Sukhta ”’ and its lustre
+Was that entitled " Sukhta ”<note>Weighed.</note> and its lustre
 
 Illumed the realm. Sarkash was of his minstrels ;
 
-So was Barbad ; that market never failed |
+So was Barbad ; that market never failed 
 
 Khusrau Parwiz, and in his golden bower
 
@@ -19351,15 +19363,12 @@ He had twelve hundred elephants of war ;
 
 Thou wouldst have said: “‘ Earth hath not room for them.”
 
-The war-steeds in the stables of the king |
+The war-steeds in the stables of the king 
 
-Were six and forty thousand, while of camels |
+Were six and forty thousand, while of camels 
 
-Red-haired® there were ten thousand, and none then
-» The Bride. * The Green. *# Perhaps " The Spring... (of
-‘ The Throne. Khusrau).” Cf. NT, p. 355, mote.
-‘Windfall, t.e. composed of jetsam. Cf. ZT, it. 305.
-‘Brocade of Khusrau. 7. Weighed. * The best sort.
+Red-haired<note>The best sort.</note> there were ten thousand, and none then
+
 
 <pb n="407"/>
 
@@ -20456,7 +20465,7 @@ Seq., 51 Seq., 230, 232, 245,
 Nushirwan, 44 seq. marches against Nushfrwan,
 40
 
-_ attacks Hurmuzd, 93 retakes cities, 93 makes peace with Hurmuzd,
+attacks Hurmuzd, 93 retakes cities, 93 makes peace with Hurmuzd,
 95 welcomes Khusrau Parwiz,
 257
 
@@ -21110,7 +21119,7 @@ Chubina to, 207 takes counsel, 202 marches to meet Bahram
 Chiibina, 203 interview of, with Bahram
 
 Chiibina, 204 seg. attacked by Turk and saved by Gustaham, 220 dissuaded from Making a
-_ *hight-attack, 22 troops of, tampered with by am Chibina, 226 sends away his baggage, 228 combat of, with Bahram
+*hight-attack, 22 troops of, tampered with by am Chibina, 226 sends away his baggage, 228 combat of, with Bahram
 
 Chibina, 228, 229 retreats to, and holds, the bridge of Nahrawan, 228 worsts Yalan-sina, 229 flees to Taisafin, 229 counselled by Hurmuzd, 230
 Prepares to flee, 2 31 takes refuge in a Shrine,
@@ -21884,7 +21893,7 @@ WOR
 
 ———
 Original from
-_ UNIVERSITY OF MICHIGAN poi or ineet hee deal ide Pad Wd ist iH sivtovt lot
+UNIVERSITY OF MICHIGAN poi or ineet hee deal ide Pad Wd ist iH sivtovt lot
 
 Ai awe
 
