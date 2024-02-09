@@ -14225,7 +14225,7 @@ How all his troops deserted to the Shah,
 And how the chief fled hostless.”
 “Pious dame ! ”
 He answered, “ say if he hath acted wisely
-Or followed his desires.” |
+Or followed his desires.” 
 “ Famed man!” she said,
 “ How is it that the Div hath dimmed thine eyes ?
 Dost thou not know that since Bahram Chubina,
@@ -14565,9 +14565,7 @@ Much talk had passed he sought his camp again.
 
 <pb n="312"/>
 
-</p>
-
-<p>§ 80
+§ 30
 
 How Khusrau Parwiz gave Presents to Niydtus and the
 Rumans, how he dismissed them to Rim, and wrote Patents for the Nobles of fran
@@ -17629,7 +17627,7 @@ Through what the astrologers have said.”
 He bade
 The treasurer: « Bring forth the painted silk
 With script therein,”
-; The treasurer produced,
+The treasurer produced,
 The archmage scanned heart-straitened, and was mute,
 
 Why then should any sage suggest such things ?
@@ -19401,7 +19399,7 @@ Might and the diadem of empiry,
 Were not sufficient for him but he must
 Raise from Iran and from Turan the dust !
 
-8 63
+§ 63
 
 How Khusrau Parwiz turned from Justice, how the
 Chiefs revolted, and how Gurdz called in Caesar
@@ -19456,6 +19454,8 @@ Parwiz and how the Chiefs released Shirwt from Bonds
 
 The king, on hearing, took this grave case lightly.
 He recognised the practice of Guraz
+<milestone unit="calced" n="2017"/>
+
 In prompting warlike Cesar and recalled him,
 But he excused himself and disregarded
 The royal letter, for the villain feared
@@ -19463,7 +19463,7 @@ Khusrau Parwiz, the court, and all the chiefs.
 The king of kings sat with the Great and all
 That were the men of leading in Iran.
 He plunged his heart in thought and sought at large
-- Among all manner of expedients,
+Among all manner of expedients,
 And when a bright thought came to him he wrote
 Thus to Guraz: “I quite approve thy conduct,
 And have commended thee before the lords.
@@ -19487,10 +19487,8 @@ Reply :—
 
 
 
-<milestone unit="calced" n="2017"/>
 
 <pb n="410"/>
-<milestone unit="calced" n="2018"/>
 
 
 
@@ -19519,6 +19517,7 @@ Now when that scribe had read the letter over
 The monarch’s countenance became like pitch,
 And thus he said in private to his troops :—
 “ Guraz intended to destroy us all !
+<milestone unit="calced" n="2018"/>
 The king of kings with countless elephants
 And treasure, and three hundred thousand men,
 Was minded to involve me in his net:
@@ -19535,7 +19534,6 @@ In pain and vengeance is estranged from me.”
 
 
 <pb n="411"/>
-KHUSRAU PARWI!Z 41l
 
 When Cesar was aware of this and saw
 That letter he selected from his host
@@ -19583,7 +19581,7 @@ Young and old
 <pb n="412"/>
 
 
-Advanced as far as Khurra-i-Ardshir,!
+Advanced as far as Khurra-i-Ardshir,<note>Khurra-i-Ardshir was a district in Pars. Bih-Ardshfr (Seleucia) must be meant.</note>
 
 <milestone unit="calced" n="2019"/>
 Advanced until they reached the river-bank,
@@ -19635,7 +19633,7 @@ All that are disaffected in this wise,
 
 Else all of you that have transgressed shall see
 
-' Khurra-i-Ardshir was a district in Pars. Bih-Ardshfr (Seleucia) must be meant.
+
 
 
 
@@ -19653,6 +19651,8 @@ None inefficient ; why then fear the Shah,
 Whose troops are scattered through the world ? I note
 At court no great man to illuminate
 His star and moon. Despise my words and fear not
+<milestone unit="calced" n="2020"/>
+
 My threats, but curse me and the exalted Shah.”
 The hearers knew: ‘ The fortune of the king
 
@@ -19665,7 +19665,7 @@ For mine own life.”
 Khusrau Parwiz perceived :—
 “This knave will cause both blood and tears to flow,”
 
-But fearful of his brother! answered not,
+But fearful of his brother<note>Rustam, the brother of Farrukhzad not of Khusrau Parwiz as given in the Genealogical Table of the Sasanians in Vol. vi. p. 3.</note> answered not,
 And hid the truth; for Rustam had revolted
 Where he was stationed with ten thousand swordsmen,
 And holding Farrukhzad disloyal too
@@ -19679,11 +19679,10 @@ Attempting to pervert them, man by man,
 From their obedience to the Shah. He told
 Them all and they agreed: “ Another Shah
 
-» Rustam, the brother of Farrukhzad not of Khusrau Parwiz as given in the Genealogical Table of the Sasanians in Vol. vi. p. 3.
 
 
 
-<milestone unit="calced" n="2020"/>
+
 
 <pb n="414"/>
 
@@ -19702,7 +19701,7 @@ And will cause least dispute. He must be seated
 Upon the throne as Shah and o’er his crown
 Dinars be showered. Then we shall fare anew;
 We have drunk bitter and we shall drink sweet,
-For since Shirwi,! the shrewd and eldest-born,
+For since Shirwi,<note>Cf. p. 193.</note> the shrewd and eldest-born,
 
 Is now in prison we shall need no other.”
 
@@ -19713,6 +19712,7 @@ Then Farrukhzad went out to mect Tukhar
 With many troops. They met and much talk passed
 In public and in private. Farrukhzad,
 Moreover, loosed his tongue and told the ills
+<milestone unit="calced" n="2021"/>
 Wrought by Khusrau Parwiz. He said: “‘ The host
 By valour and by counsel will restore
 The sovereignty.”
@@ -19728,9 +19728,9 @@ I would that none should look on crown and throne.
 The fatal time was when he grew unjust,
 And joyed in the injustice of his slaves.”
 
-When Farrukhzad heard this? he chose Tukhar,
+When Farrukhzad heard this<note>Reading with P.</note> he chose Tukhar,
 
-1 Cf. p. 193. * Reading with P.
+
 
 
 
@@ -19778,16 +19778,16 @@ Would joy in them.”
 
 
 <pb n="416"/>
-C.
 
-2022
+
+
 
 
 
 Shirwi remained in tears
 
 And consternation. Should he quit the prison ?
-
+<milestone unit="calced" n="2022"/>
 Now Farrukhzad meanwhile was at the gates,
 And suffered none to pass to tell the Shah,
 But acted as sole chamberlain. When Sol
@@ -19853,6 +19853,7 @@ She answered him: “ For ever live:
 Far from thee ever be the evil eye.
 Plan in thy wisdom something for thyself :
 Ne’er may the foeman have of thee his will.
+<milestone unit="calced" n="2023"/>
 As soon as it is light that ruseful one
 Will turn toward the palace past all doubt.”
 
@@ -19866,15 +19867,11 @@ His golden buckler on a bough where none
 Was like to pass and with a heavy sword
 Beneath his knee sat on the flowery sward.
 
-VOL. VIII. 2D
 
- oe
 
-C.
 
-2023
 <pb n="418"/>
-. 2024
+
 
 </p>
 
@@ -19925,6 +19922,8 @@ The king by sight. The Sun-faced bade his slave :-—
 That cantle had on it five studs of gold
 Enriched with jewelry. The king then spake
 Thus to the gardener: " These studs will prove
+<milestone unit="calced" n="20234"/>
+
 Of use to-day. Go thou to the bazar,
 
 
@@ -19971,7 +19970,6 @@ His features are the age’s cynosure,”
 
 
 <pb n="420"/>
-<milestone unit="calced" n="2025"/>
 
 
 
@@ -19989,6 +19987,7 @@ Would dare breathe cold on him.”
 Then Farrukhzad
 Went to the Shah with troops from court, advanced
 Alone and spake at large. Khusrau Parwiz
+<milestone unit="calced" n="2025"/>
 Gave ear to him. He said: “ If now the Shah
 Will grant me audience, and will excuse
 My conduct, I will come and tell the truth
@@ -20070,6 +20069,7 @@ Be made his keeper with a thousand horsemen.”
 When thus the sky revolved above his head
 
 His reign had lasted eight and thirty years.
+<milestone unit="calced" n="2026"/>
 
 It was the day of Dai of month Azar,
 
@@ -20088,7 +20088,6 @@ Who gave one year’s pay from the treasury,
 
 
 
-<milestone unit="calced" n="2026"/>
 <pb n="422"/>
 
 
