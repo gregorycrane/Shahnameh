@@ -1,254 +1,1264 @@
 <TEI>
-  <text>
-    <body>
-      <div type="textpart" subtype="section" n="1">
-        <p><term>AAISHMA DAÉVA</term>, demon, iii, 272 = <term>Asmodeus</term> probably, iii, 272.</p>
-        <p><term>Abän</term>, genius, iii, 287, 328.</p>
-        <p><term>'Abbas</term>, Arab chief.</p>
-        <p><ref>'Abbas</ref> attacks Hurmuzd, viii, 93.</p>
-        <p><term>'Abbasids</term>.</p>
-        <p>Muhammadan dynasty, vi, 327.</p>
-        <p>Rise of the <ref>'Abbasids</ref>, i, 13.</p>
-        <p>Fall of the <ref>'Abbasids</ref>, i, 14.</p>
-        <p><term>Abbreviations</term>, General List of, ix, 135.</p>
-        <p><term>Abdaas</term>, bishop, vi, 372.</p>
-        <p><term>Abraham</term>, patriarch, vi, 65.</p>
-        <p><term>Abtin</term>, mythical Iranian hero.</p>
-        <p>Legend of <ref>Abtin</ref>, ix, 53, 103.</p>
-        <p>Zahhäk slays <ref>Abtin</ref>, i, 145.</p>
-        <p>Faridun avenges <ref>Abtin</ref>, i, 151, 153.</p>
-        <p>Mythological origin of <ref>Abtin</ref>, i, 170, 171, 172, 174.</p>
-        <p><term>Abü-'A Muhammad</term>, Persian poet.</p>
-        <p>Shahnama of <ref>Abü-'A Muhammad</ref>, i, 69.</p>
-        <p><term>Abû Bakr</term>, the first Khalifa (A.D. 632-4).</p>
-        <p>Begins war with Persian Empire, ix, 66.</p>
-        <p><term>Abi Dulaf</term>, friend of Firdausi.</p>
-        <p>Assists Firdausi, i, 35.</p>
-        <p>Reciter of the Shahnama, i, 39.</p>
-        <p><term>Abú'l 'Abbās Fazl bin Ahmad</term>, minister of Mahmūd and perhaps a patron of Firdausi, i, 30, 100, iv, 141.</p>
-        <p>Account of <ref>Abú'l 'Abbās Fazl bin Ahmad</ref>, i, 36.</p>
-        <p>Disgrace of <ref>Abú'l 'Abbās Fazl bin Ahmad</ref> may have affected Firdausi, i, 37.</p>
-        <p><term>Abú'l Fazl</term>, minister under the Samanids, father of <term>Abu 'Ali al Bal'ami</term> who translated Tabari, vii, 430.</p>
-        <p>Patron of <term>Rüdagi</term>, vii, 383.</p>
-        <p><term>Abú'l Kasim</term> (Firdausi, q.v.), i, 24, 38, 99, 112, iv, 140, v, 89, 119, vi, 20, 207, viii, 28.</p>
-        <p><term>Abu'l Kasim of Gurgan</term>, shaikh, iii, 191.</p>
-        <p>Dream of <ref>Abu'l Kasim of Gurgan</ref> about Firdausi, iii, 191.</p>
-        <p><term>Abu Muzaffar</term>. See Nasr.</p>
-        <p><term>Abu Mansür bin Abdu'r Razzak</term>, prince of Tus, i, 67 seq., vi, 16.</p>
-        <p>Shahnama of <ref>Abu Mansür bin Abdu'r Razzak</ref>, vi, 16 probably compiled by Magi for him, i, 69, viii, 71, 73. Importance of this for Firdausi, viii, 73.</p>
-        <p><term>Abu Mansur bin Muhammad</term>, son of the above (?), i, 139.</p>
-        <p>Praise of <ref>Abu Mansur bin Muhammad</ref>, i, 110.</p>
-        <p>Advice of <ref>Abu Mansur bin Muhammad</ref> to Firdausi, i, 111.</p>
+  <text><body>
+    <div><head>A</head>
+    <div type="textpart" subtype="section" n="1">
+      <p><term>AAISHMA DAÉVA</term>, demon, iii, 272</p>
+      <p><ref>AAISHMA DAÉVA</ref> is probably Asmodeus, iii, 272</p>
+      <p><term>Abän</term>, genius, iii, 287, 328</p>
+      <p><term>'Abbas</term>, Arab chief.</p>
+      <p><ref>'Abbas</ref> attacks Hurmuzd, viii, 93.</p>
+      <p><term>'Abbasids</term>.</p>
+      <p>Muhammadan dynasty, vi, 327.</p>
+      <p>Rise of the <ref>'Abbasids</ref>, i, 13.</p>
+      <p>Fall of the <ref>'Abbasids</ref>, i, 14.</p>
+      <p>General List of Abbreviations, ix, 135.</p>
+      <p><term>Abdaas</term>, bishop, vi, 372</p>
+      <p><term>Abraham</term>, patriarch, vi, 65</p>
+      <p><term>Abtin</term> (Aptya, Athwya), mythical Iranian hero, husband of Faranak and father of Faridun, ix, 53, 103</p>
+      <p>Legend of <ref>Abtin</ref>, i, 145</p>
+      <p>Zahhäk slays <ref>Abtin</ref>, i, 151, 153</p>
+      <p>Faridun avenges <ref>Abtin</ref>, i, 170</p>
+      <p>Mythological origin of <ref>Abtin</ref>, i, 171, 172, 174</p>
+      <p><term>Abü-'A Muhammad</term>, Persian poet.</p>
+      <p>Shahnama of <ref>Abü-'A Muhammad</ref>, i, 69</p>
+      <p><term>Abû Bakr</term>, the first Khalifa (A.D. 632-4), i, 12, ix, 76</p>
+      <p><ref>Abû Bakr</ref> begins war with Persian Empire, ix, 66</p>
+      <p><term>Abi Dulaf</term>, friend of Firdausi, i, 35</p>
+      <p><ref>Abi Dulaf</ref> assists Firdausi, i, 35</p>
+      <p><ref>Abi Dulaf</ref>, reciter of the Shahnama, i, 39</p>
+      <p><term>Abú'l ’Abbās Fazl bin Ahmad</term>, minister of Mahmūd and perhaps a patron of Firdausi, i, 30, 100, iv, 141</p>
+      <p>Account of <ref>Abú'l ’Abbās Fazl bin Ahmad</ref>, i, 36</p>
+      <p>Disgrace of <ref>Abú'l ’Abbās Fazl bin Ahmad</ref> may have affected Firdausi, i, 37</p>
+      <p><term>Abú'l Fazl</term>, minister under the Samanids, father of Abu 'Ali al Bal’ami who translated Tabari, vii, 430</p>
+      <p>Patron of Rüdagi, vii, 383</p>
+      <p><term>Abú'l Kasim</term> (Firdausi, q.v.), i, 24, 38, 99, 112, iv, 140, v, 89, 119, vi, 20, 207, viii, 28</p>
+      <p><term>Abü'l Kasim of Gurgan</term>, shaikh, iii, 191</p>
+      <p>Dream of <ref>Abü'l Kasim of Gurgan</ref> about Firdausi, iii, 191</p>
+      <p><term>Abu Mansur bin Abdu'r Razzak</term>, prince of Tus, i, 67 seq., vi, 16</p>
+      <p>Shahnama of <ref>Abu Mansur bin Abdu'r Razzak</ref>, vi, 16</p>
+      <p>Probably compiled by Magi for <ref>Abu Mansur bin Abdu'r Razzak</ref>, i, 69, viii, 71, 73</p>
+      <p>Importance of <ref>Abu Mansur bin Abdu'r Razzak</ref> for Firdausi, viii, 73.</p>
+      <p><term>Abu Mansur bin Muhammad</term>, son of the above (?), i, 139.</p>
+      <p>Praise of <ref>Abu Mansur bin Muhammad</ref>, i, 110.</p>
+      <p>Advice of <ref>Abu Mansur bin Muhammad</ref> to Firdausi, i, 111.</p>
+    </div>
+    <div type="textpart" subtype="section" n="2">
+      <p><term>Abu Raihan Muhammad</term>. See Albiruni.</p>
+      <p><term>Abu Talib</term>, uncle of Muhammad, i, 12</p>
+      <p><term>Abu Ubaida</term>, Arab general, ix, 66.</p>
+      <p><ref>Abu Ubaida</ref> supersedes Khalid in Syria, ix, 66</p>
+      <p><term>Abu ‘Ubaida</term>, Arab general, ix, 67</p>
+      <p><ref>Abu ‘Ubaida</ref> made commander in Persian campaign, ix, 67</p>
+      <p><ref>Abu ‘Ubaida</ref> is slain, ix, 67</p>
+      <p>Accession of a Shah, ceremony at, vi, 409</p>
+      <p><term>Achaemenids</term>, the first historical Persian dynasty, i, 64, v, 10, 281, vi, 194, 197, 198</p>
+      <p><term>Akhshunwar</term>. See Akhshunwar.</p>
+      <p><term>'Ad</term>, father of Shaddad, q.v. Arab tribe, viii, 276</p>
+      <p><term>'Adan</term>, seaport and territory in southern Arabia, vi, 386</p>
+      <p><term>Azar</term>. See Azar.</p>
+      <p><term>Adarbād</term>, son of Mahraspand, Zoroastrian Saint, v, 16 note</p>
+      <p>Ordeal of <ref>Adarbād</ref>, v, 16 note</p>
+      <p><term>Aden</term>. See 'Adan.</p>
+      <p><term>Adonis</term>, iv, 315</p>
+      <p><term>Ægean Sea</term>, vi, 204</p>
+      <p><term>Afrasiyab</term>, son of Pashang, ruler of Turan and one of the arch-enemies of Iran, 142-153, i, 42, 55, 72, 91, 111, 113, 114, 116 seg., 120, 179, 181, 198 seq., 118, 127, 149, 184, 180, 242 seq., 257 Seq., 283, 280, 288, 322 seq., 335, 347 seq., 360 seq., 369, 373, 380, 381, 386, 392 seq., 401 Seq., iii, 8, 12, 13, 15, 23, 26, 27, 29, 40, 42, 47, 73, 76 Seq., 100, 108, 123, 134, 130, 143, 140, 152, 153, 164, 165, 176, 183, 185, 193, 200 seq., 207 Seq., 211, 213, 218, 223, 228, 241, 260 seq., 268, 271, 277 seq., 285, 295, 305, 300, 329, 333, 337, 339, 340 seq., IV. 7, 8, 17, 19 seq., 25, 29, 46, 56, 58 seg., 65, 66, 70, 75, seq., 83, 89, 93, 94, 96, 103, 108, 110, 113, 117, 328, 129, 145, 146, 150 seq., 192 Seq., 235, 252, 253, 273, 287, 289, 294 v, 12, 13, 21, 44, 62, 176, 203, 208, vi, 15, 79, 177, 249 and note, VII, 330, 335, 337, 359, VIII, 242, 260, 349, IX, 25, 103</p>
+      <p>One of the Zoroastrian triad of evil, i, 59 and note</p>
+      <p>Mythological origin of <ref>Afrasiyab</ref>, i, 337</p>
+      <p>First mention of <ref>Afrasiyab</ref> in Shahnama, i, 342</p>
+      <p><ref>Afrasiyab</ref> advocates war with Naudar, i, 343</p>
+      <p>Forbidden by Pashang to invade Iran, i, 343</p>
+      <p><ref>Afrasiyab</ref> sends Shamasas and Khazarwan to invade Sistan, i, 345</p>
+      <p><ref>Afrasiyab</ref> marches to Dahistan, i, 346</p>
+      <p><ref>Afrasiyab</ref> writes to Pashang, i, 346</p>
+      <p><ref>Afrasiyab</ref> encourages Barman to challenge the Iranians to single combat, i, 347</p>
+      <p><ref>Afrasiyab</ref> rewards Barman, i, 348</p>
+      <p><ref>Afrasiyab</ref> fights with Naudar, i, 348 and seq.</p>
+      <p><ref>Afrasiyab</ref> encounters Naran, i, 350</p>
+      <p><ref>Afrasiyab</ref> victorious, i, 350, 352</p>
+      <p><ref>Afrasiyab</ref> beleaguers Naudar in Dahistan, i, 353</p>
+      <p><ref>Afrasiyab</ref> sends Kurukhan to attack Pars, i, 353</p>
+      <p><ref>Afrasiyab</ref> takes Naudar and other chiefs prisoners, i, 355</p>
+      <p><ref>Afrasiyab</ref> hears of the death of Barman and bids Wisa pursue Karan, i, 356</p>
+      <p><ref>Afrasiyab</ref> hears of the Turkman defeats, i, 362</p>
+      <p><ref>Afrasiyab</ref> sends for, and slays, Naudar, i, 362</p>
+      <p><ref>Afrasiyab</ref> spares the other captives at Ighriras' request, i, 363</p>
+      <p><ref>Afrasiyab</ref> imprisons the captives at Sari, i, 363</p>
+      <p><ref>Afrasiyab</ref> advances to Rai, i, 363</p>
+      <p><ref>Afrasiyab</ref> wroth with, and slays, Ighriras, i, 367</p>
+      <p><ref>Afrasiyab</ref> fights with Zal, i, 368</p>
+      <p>Pashang's wrath with <ref>Afrasiyab</ref>, i, 374</p>
+      <p><ref>Afrasiyab</ref> invades Iran, i, 374 seq., 381</p>
+      <p><ref>Afrasiyab</ref> sends Kulun to intercept Rustam, i, 382</p>
+      <p><ref>Afrasiyab</ref> fights with Arabs for Iran and takes it, ii, 92</p>
+      <p>King of Turan and Chin, ii, 99</p>
+      <p>Expelled from Iran by Kai Kaus and Rustam, ii, 101</p>
+      <p><ref>Afrasiyab</ref> fights with the Seven Warriors, ii, 111 seq.</p>
+      <p>Nearly taken prisoner by Rustam, ii, 14, 116, 354, iii, 242, 250 and note</p>
+      <p>Plot of <ref>Afrasiyab</ref> against Suhrab and Rustam, ii, 129</p>
+      <p>Gifts of <ref>Afrasiyab</ref> to Suhrab, ii, 130</p>
+      <p>Identical with Astyages in legend, ii, 191</p>
+      <p>Invades Iran, ii, 224 seq.</p>
+      <p>Dream of <ref>Afrasiyab</ref>, ii, 232, 243, 297, iv, 170, 267</p>
+      <p><ref>Afrasiyab</ref> determines to sue for peace and sends hostages, ii, 235 seq.</p>
+      <p><ref>Afrasiyab</ref> receives Zanga and consults Piran, ii, 253 seq.</p>
+      <p><ref>Afrasiyab</ref> sends Piran to welcome Siyawush, ii, 258</p>
+      <p><ref>Afrasiyab</ref> plays at polo with Siyawush, ii, 264</p>
+      <p><ref>Afrasiyab</ref> marries Farangis to Siyawush, ii, 275</p>
+      <p><ref>Afrasiyab</ref> recalls Siyawush from Gang-dizh, ii, 285</p>
+      <p><ref>Afrasiyab</ref> sends Garsiwaz to Siyawushgird, ii, 289</p>
+      <p><ref>Afrasiyab</ref> deceived by Garsiwaz respecting Siyawush, ii, 296 seq.</p>
+      <p><ref>Afrasiyab</ref> sends Garsiwaz to summon Siyawush and Farangis to court, ii, 300 seq.</p>
+      <p><ref>Afrasiyab</ref> attacks, takes, and has Siyawush executed, ii, 314 seq.</p>
+      <p>Appealed to by Farangis, ii, 317</p>
+      <p>Ill-treatment of Farangis by <ref>Afrasiyab</ref>, ii, 320, 322</p>
+      <p>Appeal of Piran to <ref>Afrasiyab</ref>, ii, 324</p>
+      <p><ref>Afrasiyab</ref> spares Farangis and her son Kai Khusrau, ii, 325, 327</p>
+      <p>Interview of <ref>Afrasiyab</ref> with Kai Khusrau, ii, 332</p>
+      <p><ref>Afrasiyab</ref> sends Surkha against the Iranians, ii, 344</p>
+      <p><ref>Afrasiyab</ref> marches to avenge Surkha, ii, 348</p>
+      <p><ref>Afrasiyab</ref> fights with Tus, ii, 353</p>
+      <p>Rescue of <ref>Afrasiyab</ref> from Rustam by Human, ii, 354</p>
+      <p><ref>Afrasiyab</ref> crosses the sea of Chin, ii, 356</p>
+      <p><ref>Afrasiyab</ref> consults Piran about Kai Khusrau, ii, 356</p>
+      <p><ref>Afrasiyab</ref> returns, ii, 362</p>
+      <p>Vengeance of <ref>Afrasiyab</ref> on Iran, ii, 363</p>
+      <p><ref>Afrasiyab</ref> pursues Kai Khusrau, ii, 388 seq.</p>
+      <p><ref>Afrasiyab</ref> disgraces Piran, ii, 390</p>
+      <p><ref>Afrasiyab</ref> turns back at the Jihun, ii, 394</p>
+      <p>Kai Khusrau's oath to take vengeance on <ref>Afrasiyab</ref>, iii, 21</p>
+      <p><ref>Afrasiyab</ref> hears of the approach of the Iranian host, iii, 71</p>
+      <p><ref>Afrasiyab</ref> bids Piran gather troops, iii, 71, 79</p>
+      <p><ref>Afrasiyab</ref> numbers the host, iii, 79</p>
+      <p>Loss of kindred of <ref>Afrasiyab</ref> in battle, iii, 94</p>
+      <p><ref>Afrasiyab</ref> rewards Piran, iii, 106</p>
+      <p><ref>Afrasiyab</ref> reinforces Piran, iii, 118</p>
+      <p><ref>Afrasiyab</ref> announces to chiefs the defeat of his host, iii, 242</p>
+      <p><ref>Afrasiyab</ref> exhorted by his host to continue the war, iii, 243, 249</p>
+      <p><ref>Afrasiyab</ref> makes his preparations, iii, 243, 250</p>
+      <p><ref>Afrasiyab</ref> sends Farghar to spy on Rustam, iii, 250</p>
+      <p><ref>Afrasiyab</ref> consults with Shida, iii, 250</p>
+      <p><ref>Afrasiyab</ref> describes Rustam, iii, 251</p>
+      <p><ref>Afrasiyab</ref> receives Farghar’s report, iii, 253</p>
+      <p><ref>Afrasiyab</ref> consults with Piran, iii, 253</p>
+      <p><ref>Afrasiyab</ref> bids Piran continue the war, iii, 254</p>
+      <p><ref>Afrasiyab</ref> sends Shida to summon Puladwand, iii, 255</p>
+      <p><ref>Afrasiyab</ref> consults Puladwand, iii, 256</p>
+      <p><ref>Afrasiyab</ref> interferes in the fight between Rustam and Puladwand, iii, 263</p>
+      <p><ref>Afrasiyab</ref> withdraws to Chin and Machin, iii, 265</p>
+      <p><ref>Afrasiyab</ref> goes in pursuit of Rustam and is defeated, iii, 280</p>
+      <p><ref>Afrasiyab</ref> hears of the case of Bizhan and Manizha, iii, 301</p>
+      <p><ref>Afrasiyab</ref> consults Kurakhan, iii, 301</p>
+      <p><ref>Afrasiyab</ref> sends Garsiwaz to search Manizha’s palace, iii, 301</p>
+      <p><ref>Afrasiyab</ref> sentences Bizhan to death, iii, 304</p>
+      <p><ref>Afrasiyab</ref> respites Bizhan, iii, 308</p>
+      <p><ref>Afrasiyab</ref> imprisons Bizhan, iii, 309</p>
+      <p><ref>Afrasiyab</ref> disgraces Manizha, iii, 309</p>
+      <p><ref>Afrasiyab</ref> escapes from Rustam, iii, 348</p>
+      <p><ref>Afrasiyab</ref> bids Piran prepare for war, iii, 349</p>
+      <p><ref>Afrasiyab</ref> arrays the host against Rustam, iii, 350</p>
+      <p><ref>Afrasiyab</ref> flees from Rustam, iii, 352</p>
+      <p><ref>Afrasiyab</ref> goes to Khallukh, iv, 10</p>
+      <p><ref>Afrasiyab</ref> addresses his nobles, iv, 10</p>
+      <p><ref>Afrasiyab</ref> sends Shida to Kharazm, iv, 11.</p>
+      <p><ref>Afrasiyab</ref> reinforces Piran against Iran, iv, 11</p>
+      <p><ref>Afrasiyab</ref> receives tidings from Piran, iv, 77</p>
+      <p>= king of Gang, iv, 134</p>
+      <p>Kai Khusrau’s great war with <ref>Afrasiyab</ref>, iv, 135 seq.</p>
+      <p><ref>Afrasiyab</ref> encamped at Baigand (Kunduz), iv, 151</p>
+      <p><ref>Afrasiyab</ref> hears ill tidings of Piran and of the host, iv, 151</p>
+      <p>Distress of <ref>Afrasiyab</ref>, iv, 152</p>
+      <p><ref>Afrasiyab</ref> swears to be avenged on Kai Khusrau, iv, 152</p>
+      <p><ref>Afrasiyab</ref> hears of the advance of Kai Khusrau, iv, 153</p>
+      <p><ref>Afrasiyab</ref> harangues and equips his host, iv, 153</p>
+      <p><ref>Afrasiyab</ref> patrols the Jihun with boats, iv, 153</p>
+      <p><ref>Afrasiyab</ref> holds a council, summons Kurakhan, and crosses the Jihun, iv, 154</p>
+      <p><ref>Afrasiyab</ref> sends Kurakhan with half the host to Bukhara, iv, 154</p>
+      <p><ref>Afrasiyab</ref> marches to Amu, iv, 154</p>
+      <p><ref>Afrasiyab</ref> encamps in Gilan, iv, 155</p>
+      <p><ref>Afrasiyab</ref> arrays his host, iv, 155</p>
+      <p><ref>Afrasiyab</ref> takes his post at the centre, iv, 155</p>
+      <p><ref>Afrasiyab</ref> gives Shida command of the left wing, iv, 155</p>
+      <p><ref>Afrasiyab</ref> sends Jahn to guard Shida’s rear, iv, 155</p>
+      <p><ref>Afrasiyab</ref> gives a grandson command of the right wing, iv, 156</p>
+      <p>Commands to Gurdgir, Nastuh, Ighriras, and Garsiwaz, iv, 156</p>
+      <p><ref>Afrasiyab</ref> proposes to invade Nimruz, iv, 156</p>
+      <p><ref>Afrasiyab</ref> reviews the host and prepares to encounter Kai Khusrau, iv, 158</p>
+      <p><ref>Afrasiyab</ref> urged by Shida not to delay the attack, iv, 159</p>
+      <p>Reply of <ref>Afrasiyab</ref>, iv, 160</p>
+      <p><ref>Afrasiyab</ref> wishes to meet Kai Khusrau in single combat, iv, 161</p>
+      <p><ref>Afrasiyab</ref> sends Shida on an embassage to Kai Khusrau, iv, 161</p>
+      <p><ref>Afrasiyab</ref> hears of Shida’s death, iv, 176</p>
+      <p>Grief of <ref>Afrasiyab</ref>, iv, 176</p>
+      <p><ref>Afrasiyab</ref> commands in person against Kai Khusrau, iv, 179</p>
+      <p><ref>Afrasiyab</ref> sends Jahn to the left, iv, 180</p>
+      <p><ref>Afrasiyab</ref> reinforced by Garsiwaz, iv, 181</p>
+      <p><ref>Afrasiyab</ref> forced by Garsiwaz and Jahn to quit the field, iv, 182</p>
+      <p><ref>Afrasiyab</ref> returns to camp, iv, 183</p>
+      <p><ref>Afrasiyab</ref> abandons his camp and recrosses the Jihun, iv, 184</p>
+      <p><ref>Afrasiyab</ref> joins forces with Kurakhan, iv, 186</p>
+      <p><ref>Afrasiyab</ref> stays at Bukhara, iv, 186</p>
+      <p><ref>Afrasiyab</ref> withdraws to Gang-bihisht, iv, 187</p>
+      <p><ref>Afrasiyab</ref> reinforced by Kakula, iv, 188</p>
+      <p><ref>Afrasiyab</ref> sends troops to Chach, iv, 188</p>
+      <p><ref>Afrasiyab</ref> under Tawurg desertward, iv, 188</p>
+      <p><ref>Afrasiyab</ref> marches to meet Kai Khusrau, iv, 190</p>
+      <p>And return, iv, 193</p>
+      <p><ref>Afrasiyab</ref> hears that Rustam is advancing, iv, 194</p>
+      <p><ref>Afrasiyab</ref> fails in attempt to surprise Rustam and withdraws to Gang-bihisht, iv, 194 seq.</p>
+      <p><ref>Afrasiyab</ref> asks aid from the Faghfur, iv, 196</p>
+      <p><ref>Afrasiyab</ref> prepares Gang-bihisht for a siege, iv, 197</p>
+      <p><ref>Afrasiyab</ref> besieged in Gang-bihisht, iv, 198, 208 seq.</p>
+      <p><ref>Afrasiyab</ref> offers terms of peace to Kai Khusrau, iv, 203</p>
+      <p><ref>Afrasiyab</ref> rallies his troops at the storming of Gang-bihisht, iv, 209</p>
+      <p><ref>Afrasiyab</ref> escapes, iv, 211</p>
+      <p><ref>Afrasiyab</ref> gets possession of the treasures of Piran, iv, 210</p>
+      <p><ref>Afrasiyab</ref> arrays his host to fight with Kai Khusrau, iv, 220</p>
+      <p><ref>Afrasiyab</ref> offers Kai Khusrau peace or single combat, iv, 221</p>
+      <p><ref>Afrasiyab</ref> fights a general engagement against Kai Khusrau, iv, 223, 226</p>
+      <p><ref>Afrasiyab</ref> defeated and escapes by flight, iv, 227</p>
+      <p>Army of <ref>Afrasiyab</ref> surrenders to Kai Khusrau, iv, 228</p>
+      <p><ref>Afrasiyab</ref> takes refuge at Gang-dizh, iv, 230</p>
+      <p>Captive kindred of <ref>Afrasiyab</ref> sent to Kai Kaus by Kai Khusrau, iv, 232</p>
+      <p>Kai Kaus on <ref>Afrasiyab</ref>, iv, 237</p>
+      <p>Khusrau's inquiries concerning <ref>Afrasiyab</ref>, iv, 247</p>
+      <p><ref>Afrasiyab</ref> hears of Kai Khusrau’s approach and quits Gang-dizh, iv, 248</p>
+      <p><ref>Afrasiyab</ref> searched for by Kai Khusrau, iv, 248</p>
+      <p>Fears of the Iranians concerning <ref>Afrasiyab</ref>, iv, 249</p>
+      <p>Kai Khusrau takes counsel with Kai Kaus about <ref>Afrasiyab</ref>, iv, 258</p>
+      <p><ref>Afrasiyab</ref> commands the centre, iv, 190</p>
+      <p><ref>Afrasiyab</ref> hears of Kurakhan’s defeat</p>
+      <p>Wanderings and wretched plight of <ref>Afrasiyab</ref>, iv, 259</p>
+      <p><ref>Afrasiyab</ref> takes refuge in a cave near Barda’, iv, 259</p>
+      <p>Lament of <ref>Afrasiyab</ref>, overheard by Hum, iv, 260</p>
+      <p>Capture of <ref>Afrasiyab</ref> by Hum, iv, 261</p>
+      <p>Darmesteter on <ref>Afrasiyab</ref>, iv, 136</p>
+      <p><ref>Afrasiyab</ref> pitied and unbound by Hum, iv, 262</p>
+      <p><ref>Afrasiyab</ref> escapes into lake Urumiah, iv, 262 and note</p>
+      <p><ref>Afrasiyab</ref> attracted by the voice of Garsiwaz, iv, 265</p>
+      <p><ref>Afrasiyab</ref> holds converse with Garsiwaz, iv, 266</p>
+      <p>Recapture of <ref>Afrasiyab</ref> by Hum, iv, 266</p>
+      <p><ref>Afrasiyab</ref> slain by Kai Khusrau, iv, 268</p>
+      <p><ref>Afrasiyab</ref>, daughter of =Farangis, iv, 304</p>
+      <p>Khan of Chin descended from <ref>Afrasiyab</ref>, VI, 334</p>
+      <p>Hoard of <ref>Afrasiyab</ref>, VIII, 148, 406</p>
+      <p><term>Africa</term>, vi, 30</p>
+      <p><term>Afrigh</term>, king of Khirazm, ii, 190</p>
+      <p><term>'Afrit</term>, genie, i, 42</p>
+      <p><term>Agani</term>, Sargon I of, v, 293</p>
+      <p><term>Age</term>, old, Firdausi’s lament over his, ii, 336</p>
+      <p>Golden Age. See Golden.</p>
+      <p><term>Aghracratha</term> (Ighriras, q.v.), iv, 137</p>
+      <p><term>Aghrérad</term> (Ighriras, q.v.), i, 338</p>
+      <p>Aghriras. See Ighriras.</p>
+      <p><term>Agni</term>, Vedic personification of fire, ii, 25</p>
+      <p><term>Ahdnamak</term> (Andarznamak), Pahlavi treatise, vi, 257</p>
+      <p><term>Ahinad</term>, son of Isma'il, Samanid, vi, 383</p>
+      <p><term>Ahmad</term>, son of Sahl, lord of Marv, v, 260, 201</p>
+      <p>Ahmad, Fazl son of 'Abbas l'azl. See Abul 'Abbas Fazl.</p>
+      <p><term>Ahmad Hasan Maimandi</term>, minister of Mahmud, i, 32, 39, 45</p>
+      <p><term>Ahmad ibn Muhammad</term>, patron of Firdausi, i, 29</p>
+      <p><term>Ahran</term>, Roman chief, 154, iv, 342 Seq., 353</p>
+      <p>Bidden by Caesar to slay the dragon of Mount Sakila, iv, 342</p>
+      <p>Takes counsel with Mirin, iv, 342</p>
+      <p>Referred by Mirin to Hishwi, iv, 344</p>
+      <p>Required by Gushtasp to furnish him with arms, iv, 345</p>
+      <p>Goes with Gushtasp and Hishwi to Mount Sakila, iv, 346</p>
+      <p>Hishwi and <ref>Ahran</ref> welcome Gushtasp on his return, iv, 347</p>
+      <p>Gives gifts to Gushtasp, iv, 347</p>
+      <p>Has the dead dragon conveyed to Caesar's court, iv, 348</p>
+      <p>Marries Caesar's daughter, iv, 348</p>
+      <p>Mirin and <ref>Ahran</ref> display their accomplishment on the riding-ground, iv, 349</p>
+      <p>Caesar’s wrath with Mirin and <ref>Ahran</ref>, iv, 351</p>
+      <p>Mirin and <ref>Ahran</ref> send a scornful message to Caesar, iv, 353</p>
+      <p>Set to guard the baggage, iv, 355</p>
+      <p><term>Ahriman</term>, the Zoroastrian Evil Principle, sometimes used metaphorically, i, 5, 6, 50, 134, 138, 159, 194, 205, 218, 236, 238, 241, 245, 287, 315, 360; ii, 34, 42, 43, 51, 53, 56, 78, 160, 208, 214, 217, 250, 260, 303, 315, 324, 358, 361, 374 Seq., 405 seg.; iii, 17, 123, 214, 228, 251, 266, 275, 277, 287, 293, 294, 300, 303, 304, 314, 316, 318, 338; iv, 23, 41 seq., 45, 46, 89, 103, 124, 128, 130, 162, 163, 179, 206, 243, 272, 288, 342, 348, 352; v, 17, 33, 36, 45, 50, 90, 99, 103, 122, 123, 125, 147, 177, 198, 206, 246, 251, 276; vi, 106, 112, 206, 240, 281, 290, 299, 318, 384; vii, 89, 233, 205, 271, 290, 312, 323, 334, 359, 366, 367, 369; viii, 19, 21, 22, 86, 87, 176, 177, 198, 210, 219, 243, 293, 333, 304, 421; ix, 8, 18, 73, 74, 79, 91.</p>
+      <p>Envies Gaiumart, i, 118</p>
+      <p>Son of (the Black Div), i, 119</p>
+      <p>Surish warns Gaiumart against <ref>Ahriman</ref>, i, 119</p>
+      <p>Ridden by Tahmuras, i, 125, 127</p>
+      <p>= Zahhak, i, 162</p>
+      <p>= Salm and Tur, i, 104</p>
+      <p>As third <ref>Ahriman</ref>=Afrasiyab, i, 366</p>
+      <p>Faith of <ref>Ahriman</ref>, ii, 358; vi, 281, 290</p>
+      <p>Idolater, viii, 54</p>
+      <p>=Bandwi or Gustaham, viii, 89</p>
+      <p>=Kharrad, son of Barzin, viii, 111</p>
+      <p>=Bahram Chubina, viii, 295</p>
+      <p><term>Ahuna Vairya</term>, Zoroastrian sacred formula, v, 17</p>
+      <p><term>Ahura Mazda</term> (Urmuzd), the Zoroastrian Good Principle, i, 116, 235; ii, 25, 81; iv, 137</p>
+      <p><term>Ahwaz</term>, city and province (Khuzistan, Susiana), i, 286; vi, 35, 199, 298, 357; vii, 197, 198, 201, 214, 224; viii, 400, 402</p>
+      <p><term>Airân-vêgô</term> (Iran-vej q.v.), ii, 189</p>
+      <p><term>Akem Manau</term>, Zoroastrian demon, iii, 271, 272</p>
+      <p>Akuman—Akwân, iii, 272</p>
+      <p>Assails Zarduhsht, v, 17</p>
+      <p><term>Akesines</term> (Chinab), Indian river, vi, 31, 64</p>
+      <p><term>Akhäst</term>, Turanian hero, iv, 105</p>
+      <p>Chosen to fight with Zanga, iv, 97</p>
+      <p>Slain by Zanga, iv, 106</p>
+      <p><term>Akhshunwar</term> (Achshunwar), Haitalian king, vii, 160</p>
+      <p><term>Akki</term>, foster-father of Sargon I of Agani, v, 293</p>
+      <p><term>Aknaton</term>, Pharaoh, lover of peace like Yazdagird, son of Shapur, vi, 371</p>
+      <p><term>'Akr Babil</term>, prison, viii, 194, 196</p>
+      <p>Akuman. See <term>Akem Manau</term>.</p>
+      <p><term>Akwan</term>, div, iii, 270 seg., 280 seq., 284, 309</p>
+      <p>Story of <ref>Akwan</ref>, iii, 271</p>
+      <p>Professor Nöldeke on <ref>Akwan</ref>, iii, 271</p>
+      <p>Firdausi on <ref>Akwan</ref>, iii, 273, 281</p>
+      <p>Boulder of <ref>Akwan</ref>, iii, 271, 276, 309, 343, 344, 347</p>
+      <p>Removed from pit's mouth by Rustam, iii, 345</p>
+      <p><ref>Akwan</ref> appears in the form of an onager, iii, 273 seq.</p>
+      <p>Pursued by Rustam, iii, 275</p>
+      <p>Foils Rustam, iii, 276</p>
+      <p>Takes Rustam at a disadvantage, iii, 276</p>
+      <p>Offers Rustam a choice of deaths, iii, 277</p>
+      <p>Outwitted by Rustam, iii, 277</p>
+      <p>Slain by Rustam, iii, 281</p>
+      <p>Described by Rustam, iii, 282</p>
+      <p><term>Al</term>, place, ix, 93</p>
+      <p><term>Alans</term> (Alani), people, now the Ossetes of the Caucasus, i, 141, 167, 217; iv, 14, 60, 65, 301; vi, 395; vii, 369</p>
+      <p>Invade Iran, i, 19</p>
+      <p>Castle of the <ref>Alans</ref>, i, 223</p>
+      <p>Taken by Karan, i, 223, seq.</p>
+      <p>Castellan of <ref>Alans</ref>, duped by Karan, i, 224</p>
+      <p>Monarch of <ref>Alans</ref>, vi, 395</p>
+      <p>Niushirwan’s dealings with <ref>Alans</ref>, vii, 216, 239 seq.</p>
+      <p>King of=<term>Khusrau Parwiz</term>, viii, 208, 209, 213</p>
+      <p><term>Alar</term>, a village in Ardshir-Khurra, vi, 205</p>
+      <p><term>Albiruni</term>, Abu Raihan Muhammad, Oriental author and chronologist (A.D. 973-1048), ii, 189</p>
+      <p>Account of Alfir (Gangdizh?) by <ref>Albiruni</ref>, ii, 190</p>
+      <p><term>Alburz</term>, mountain-range south of the Caspian, also mythical range (Hara-berezaiti) surrounding the earth, i, 4, 71, 145, 158, 235, 248, 250, 277, 298, 351, 373; ii, 11, 23, 27, 79, 96, 144, 336, 401; iii, 120; iv, 130; v, 202; vii, 177; ix, 95</p>
+      <p>Faridun taken by his mother to <ref>Alburz</ref>, i, 152</p>
+      <p>Zal cast away, and found, upon <ref>Alburz</ref>, i, 241 seq.</p>
+      <p>Kai Kubad brought by Rustam from <ref>Alburz</ref>, i, 382 seq.</p>
+      <p>Kai Kaus’ buildings on <ref>Alburz</ref>, ii, 81</p>
+      <p><term>Aleppo</term> (Chalybon - Beroea), city in northern Syria, vii, 218; viii, 41</p>
+      <p><term>Alexander I</term>, king of Epirus, Italian expedition of, vi, 12</p>
+      <p>Attributed to Alexander the Great, vi, 12</p>
+      <p><term>Alexander the Great</term> (Sikandar), B.C. 356-323, son of Philip II of Macedon and his queen Olympias, i, 14, 49; ii, 8 seg.; iv, 314; v, 30; vi, 193, 194, 204, 252, 253, 373; vii, 383</p>
+      <p>Barrier of <ref>Alexander the Great</ref>, i, 16; vi, 78</p>
+      <p>Legend of <ref>Alexander the Great</ref> in the Quran, vi, 78</p>
+      <p>Persecutor of Zoroastrianism, i, 15, 59, 61, 63, 338</p>
+      <p>Paternity of <ref>Alexander the Great</ref>, i, 55 and note; vi, 16, 18</p>
+      <p>One of the Zoroastrian triad of evil, i, 59 and note</p>
+      <p>Said to have burnt the Zoroastrian scriptures, i, 63</p>
+      <p>Zoroastrianism under <ref>Alexander the Great</ref>, i, 63</p>
+      <p>Era of <ref>Alexander the Great</ref>, ii, 190</p>
+      <p>Accompanied by experts to the East, vi, 11</p>
+      <p>Romance of <ref>Alexander the Great</ref>, origin and growth of, vi, 12 seq.</p>
+      <p>Diagram to illustrate <ref>Alexander the Great</ref>, vi, 84</p>
+      <p>Muhammad’s references to <ref>Alexander the Great</ref> in the Quran, vi, 15, 77</p>
+      <p>Persian national hero, how <ref>Alexander the Great</ref> became, vi, 15</p>
+      <p>Cities founded by <ref>Alexander the Great</ref>, vi, 13, 18</p>
+      <p>Name, Persian legend of his, vi, 19</p>
+      <p>Aristotle, tutor of <ref>Alexander the Great</ref>, vi, 29</p>
+      <p>Letter to <ref>Alexander the Great</ref>, vi, 68</p>
+      <p>Correspondence about the succession with <ref>Alexander the Great</ref>, vi, 81</p>
+      <p><term>Alexander the Great</term>, Roxana (Rushanak) and, vi, 30, 32</p>
+      <p>Reign of, first years of, in history and romance, vi, 30</p>
+      <p>Darius’ banquet, his flight from <ref>Alexander the Great</ref>, vi, 30</p>
+      <p>His pursuit of Darius, vi, 31</p>
+      <p>Murderers of Darius, his treatment of them in history and romance, vi, 32, 33</p>
+      <p>Daughter of Darius, marries <ref>Alexander the Great</ref>, vi, 33</p>
+      <p>Fakirs and <ref>Alexander the Great</ref>, vi, 61</p>
+      <p>Calanus and <ref>Alexander the Great</ref>, vi, 61</p>
+      <p>Porus and <ref>Alexander the Great</ref>, historical account of, vi, 63</p>
+      <p>His visit to the camp of Porus, vi, 64</p>
+      <p>Iron steeds, his device of, vi, 64</p>
+      <p>Stature of <ref>Alexander the Great</ref>, vi, 64</p>
+      <p>Cleophis and <ref>Alexander the Great</ref>, vi, 65</p>
+      <p>His visit to the Oasis of Ammon, vi, 65</p>
+      <p>Candace (Kaidafa) and <ref>Alexander the Great</ref>, vi, 65 seq.</p>
+      <p>Antigonus (Naitkün), assumes name of <ref>Alexander the Great</ref>, vi, 66</p>
+      <p>Plutarch’s Life of <ref>Alexander the Great</ref>, vi, 67</p>
+      <p>Brahmans, visit of <ref>Alexander the Great</ref> to the, vi, 67</p>
+      <p>Indus mistaken for the Nile by <ref>Alexander the Great</ref>, vi, 68</p>
+      <p>Marvels of his return-journey, vi, 69</p>
+      <p>Admiral of <ref>Alexander the Great</ref> (Nearchus), vi, 69</p>
+      <p>Amazons and <ref>Alexander the Great</ref>, vi, 12, 72</p>
+      <p>Legend of <ref>Alexander the Great</ref>, vi, 72</p>
+      <p>Gloom and Fount of Life, legend of his expedition to, in the Pseudo-Callisthenes, vi, 74 seq.</p>
+      <p>Andreas, his cook, legend of <ref>Alexander the Great</ref>, vi, 76</p>
+      <p>In the Quran, vi, 77</p>
+      <p>Will of <ref>Alexander the Great</ref>, vi, 81</p>
+      <p>Death of <ref>Alexander the Great</ref>, vi, 82</p>
+      <p>Dispute over his place of interment, vi, 82</p>
+      <p>Corpse of <ref>Alexander the Great</ref>, taken to Memphis, vi, 82</p>
+      <p><ref>Alexander the Great</ref> interred at Alexandria, vi, 82</p>
+      <p>Tomb of <ref>Alexander the Great</ref>, vi, 82</p>
+      <p>Mas'udi on <ref>Alexander the Great</ref>, vi, 82</p>
+      <p>S. Chrysostom on <ref>Alexander the Great</ref>, vi, 82</p>
+      <p>Wars on the death of <ref>Alexander the Great</ref>, vi, 197</p>
+      <p><term>Alexander</term>, son of Alexander the Great and Cleophis (?), vi, 65</p>
+      <p><term>Alexandria</term> (Iskandariya q.v.), city and sea-port in Egypt, vi, 13, 15, 17, 83</p>
+      <p>Founded by <ref>Alexander the Great</ref>, vi, 13</p>
+      <p>Pseudo-Callisthenes originated at <ref>Alexandria</ref>, vi, 13</p>
+      <p><ref>Alexander the Great</ref> buried at <ref>Alexandria</ref>, vi, 82</p>
+      <p>His tomb at <ref>Alexandria</ref>, vi, 82</p>
+      <p>Mas'udi on <ref>Alexandria</ref>, vi, 82</p>
+      <p>S. Chrysostom on <ref>Alexandria</ref>, vi, 82</p>
+      <p><term>Alfir</term> (Gangdizh?), palace-fortress of the capital of Kharazm, ii, 190</p>
+      <p>Al Hadr. See <term>Hatra</term>.</p>
+      <p><term>'Ali</term>, husband of Fatima, daughter of Muhammad, and fourth Khalifa (A.D. 656—661)</p>
+      <p>Muhammad on <ref>'Ali</ref>, i, 12, 106</p>
+      <p>Cult of <ref>'Ali</ref>, i, 13</p>
+      <p>Known as “the Lion”, i, 13, 107</p>
+      <p>Assassination of <ref>'Ali</ref>, i, 13</p>
+      <p>Firdausi’s references to <ref>'Ali</ref>, i, 24, 37, 40, 41, 106, 107; ii, 337 and note</p>
+      <p><term>'Ali</term>, the Dailamite, friend and helper of Firdausi, i, 35; ix, 121</p>
+      <p>Transcriber of the Shahnama, i, 39</p>
+      <p><term>Alif</term>, terminal, Firdausi's use of, iii, 283</p>
+      <p>Al Iskandarius. See <term>Halai</term>.</p>
+      <p><term>Al Khidr</term> (Khidr), the Green Prophet, vi, 78 and note</p>
+      <p><term>Alkis</term>, Turanian hero, ii, 114</p>
+      <p><term>Alkus</term>, fights with, and worsts, Zawara, ii, 115</p>
+      <p>Slain by Rustam, ii, 115</p>
+      <p><term>Allah</term>, Muhammadan name of the Deity, i, 50</p>
+      <p><term>Al Mansur</term>, 'Abbasid Khalifa (A.D. 754-775), founder of Baghdad, vi, 254</p>
+      <p><term>Almas</term>, river, iii, 251</p>
+      <p><term>Alp-Arselan</term> (Arslan), Seljuk Sultan (A.D. 1063-1073), ii, 219 note</p>
+      <p><term>Alptigin</term>, founder of the Ghaznavid dynasty, i, 20</p>
+      <p><term>Altuniya</term>, place, ix, 92</p>
+      <p><term>Alwa</term>, Rustam’s spear-bearer, slain by Kamus, iii, 188</p>
+      <p><term>Alwa</term>, Iranian hero, probably identical with the above, v, 166</p>
+      <p>Slain by Nush Azar, v, 226</p>
+      <p><term>Amasis</term>, Pharaoh, viii, 193</p>
+      <p><term>Amazons</term>, their disputed visit to Alexander the Great, vi, 12, 72</p>
+      <p>Origin of <ref>Amazons</ref>, vi, 71</p>
+      <p>Described, vi, 153 seq.</p>
+      <p>Sikandar’s correspondence with, and visit to <ref>Amazons</ref>, vi, 153 seq.</p>
+      <p><term>Ambar</term> (Anbar, Piruz-Shapur), city on the left bank of the Euphrates some forty miles west of Baghdad, founded by Shapur son of Urmuzd (Sapor II.) The word means “granaries.” vi, 327; viii, 188</p>
+      <p>Foundation of, attributed to the Azdites, i, 11</p>
+      <p><term>Ambassadors</term>, instances of kings and chiefs going in person as ambassadors or spies, vi, 325</p>
+      <p><term>Ambuth</term>, place, iii, 41</p>
+      <p><term>Amen-Ra</term>, Egyptian god personated by Nectanebus, vi, 16</p>
+      <p><term>Ameshaspentas</term>, the, personifications of good qualities in Zoroastrian theology, iii, 271; v, 15 Seq.</p>
+      <p><term>Amida</term> (Diyarbakr), city on the upper Tigris, vi, 187</p>
+      <p><term>Amin</term>, 'Abbasid Khalifa, (A.D. 809-813), i, 14</p>
+      <p><term>Ammianus Marcellinus</term> (4th century A.D.) Roman historian, v, 13</p>
+      <p><term>Andariman</term>, Turanian hero, ii, 264; iv, 26; v, 29</p>
+      <p>Fights with Gustaham, iv, 87</p>
+      <p>Steed of <ref>Andariman</ref>, slain by Hajir, iv, 87</p>
+      <p>Rescued by the Turkmans, iv, 87</p>
+      <p>Chosen to fight with Gurgin, iv, 97</p>
+      <p>Slain by Gurgin, iv, 104</p>
+      <p><term>Andariman</term> (Vandaremaini), brother of Arjasp, v, 12, 141, 155</p>
+      <p>Commands one wing of the host, v, 46</p>
+      <p>Executed by Asfandiyar, v, 158</p>
+      <p><term>Andarznamak</term> (Ahdnamak), Pahlavi treatise, vi, 257</p>
+      <p><term>Andiv</term>, country, viii, 313</p>
+      <p><term>Andiyan</term>, Iranian warrior, viii, 225, 257, 259, 260, 293, 294, 296</p>
+      <p>Deceived by Caesar's talisman, viii, 273</p>
+      <p>Bahram Chubina writes to <ref>Andiyan</ref>, viii, 285</p>
+      <p>Receives Kirman, viii, 313</p>
+      <p><term>Andreanticus</term>, sea, vi, 77</p>
+      <p><term>Andreas</term>, Alexander the Great’s cook, vi, 76 seq.</p>
+      <p>In Quran, vi, 77</p>
+      <p><term>Androphagoi</term>, the, iii, 101</p>
+      <p><term>Anestres Castri</term>=Nushirwan, vii, 333</p>
+      <p><term>Angora</term>. See 'Ammuriya.</p>
+      <p><term>Angra Mainyu</term>=Ahriman, ii, 28</p>
+      <p><term>Animals</term>, domestication of, i, 126</p>
+      <p><term>Ant</term>, the, Firdausi’s plea for, i, 201 and note</p>
+      <p><term>Antakiya</term> (Antioch), city in Syria on the Orontes, viii, 41</p>
+      <p>Taken by Nushirwan, vii, 218, 258 seq.</p>
+      <p><term>Antigonus</term> (Naitkun), name assumed by Alexander the Great in legend, vi, 66</p>
+      <p>Antioch. See Antakiya.</p>
+      <p>New Antioch, vii, 218, 259</p>
+      <p><term>Antiochus</term>, Macedonian general, vi, 76</p>
+      <p><term>Antiochus Sidetes</term>, ii, 80, 81</p>
+      <p><term>Aogemaidae</term>, Pahlavi treatise, iv, 136</p>
+      <p><term>Antipater</term>, regent in Macedonia for Alexander the Great, vi, 82</p>
+      <p><term>Aphrodite</term>, goddess, iv, 315</p>
+      <p><term>Apollo</term>, god, and the Python, vi, 203</p>
+      <p><term>Apologues</term>, i, 242, 265, 285; iii, 332; iv, 18, 21, 28, 47; vi, 310; ix, 86</p>
+      <p><term>Apothegms</term>, i, 259, 260; ii, 157, 158, 170, 224, 254, 273, 298, 300, 313, 315, 330, 357, 383; iii, 53, 91, 96, 167, 188, 212, 260, 277, 301, 316, 341, 348, 350, 351; iv, 13, 32, 33, 38, 39, 59, 93, 108, 121, 131, 268; v, 78, 105, 168, 214, 242, 249, 250, 265; vi, 50, 303, 343; vii, 17, 18, 20, 42, 270, 277, 296, 301, 403; viii, 119, 166, 206, 215, 221, 235, 295; ix, 87, 88, 110</p>
+      <p><term>Apprentice</term>, a merchant's, entertains, and finds favour with, Bahram Gur, vii, 40 seq.</p>
+      <p><term>Apries</term> (Pharaoh-Hophra, B.C. 589-570), vi, 16</p>
+      <p><term>Apsheron</term>, peninsula on the western shore of the Caspian, i, 58, note</p>
+      <p>Aptya. See <term>Abtin</term>.</p>
+    </div>
+    <div type="textpart" subtype="section" n="1">
+      <p><term>Arab</term>, <term>Arabs</term>, pages 162, 163, volume II, pages 79, 81, 99; volume III, page 14; volume IV, page 14; volume V, page 313; volume VI, pages 66, 171, 209, 254, 321 and following, 377, 385, 390, 398, 402, 406; volume VII, pages 10, 107, 201, 219, 244, 245, 247; volume VIII, pages 67, 94, 188, 190, 191, 208, 230, 241, 250, 251; volume IX, pages 3, 5, 25, 60, 69, 70, 72, 75 and following, 79, 89, 92, 94 and following, 114, 117.</p>
+      <p>migration of <ref>Arabs</ref> northward, volume I, page 11.</p>
+      <p>raids of <ref>Arabs</ref> into Persian territory, volume I, page 12; volume VI, pages 17, 21, 322.</p>
+      <p>domination of <ref>Arabs</ref> over Iran, volume I, page 12 and following.</p>
+      <p><term>Arab</term> king equals Mardas, volume I, page 135.</p>
+      <p><ref>Arab</ref> equals Zahhak, volume I, pages 139, 275.</p>
+      <p>rebellion of <ref>Arabs</ref> against Kai Kaus, volume II, page 83.</p>
+      <p><term>Afrasiyab</term> fights with <ref>Arabs</ref> for Iran, volume II, page 92.</p>
+      <p>Darab demands tribute from <ref>Arabs</ref>, volume VI, page 22.</p>
+      <p><term>Arab</term> steed, volume I, pages 243, 251, 290; volume VI, page 380; volume VIII, pages 126, 302; volume IX, page 11.</p>
+      <p><term>Arab</term> cymbal, volume VI, page 244.</p>
+      <p><term>Arab</term> invasion of, volume VIII, pages 72, 93; volume IX, pages 3, 65 and following.</p>
+      <p><ref>Arabs</ref> withdraw, volume VIII, page 96.</p>
+      <p><term>Arab</term> sage, sages, volume VII, page 406.</p>
+      <p>quoted, volume VII, page 277.</p>
+      <p><term>Arab</term> tribes, volume IX, page 65.</p>
+      <p>triumph of <ref>Arabs</ref> over Dhü Kar, volume IX, page 66.</p>
+      <p><term>Arab</term> chieftain, incites Abi Bakr to invade Persia, volume IX, page 66.</p>
+      <p><ref>Arabs</ref> concentrate at Kädisiya, volume IX, page 67.</p>
+      <p>booty found by <ref>Arabs</ref> at Ctesiphon (?), volume IX, page 68.</p>
+      <p><ref>Arabs</ref> annex Mesopotamia, volume IX, page 68.</p>
+      <p><ref>Arabs</ref> annex Khuzistan, volume IX, page 68.</p>
+      <p><term>Arab</term> equals 'Umar, volume IX, page 72.</p>
+      <p><term>Arab</term> equals Sa'ad, volume IX, page 84.</p>
+      <p><ref>Arabs</ref> defeated, volume IX, page 85.</p>
+      <p>Nushirwan’s dream of <ref>Arabs</ref>, volume VIII, pages 66 and following, volume IX, page 92.</p>
+  </div>
+  <pb n="202"/>
+  <div type="textpart" subtype="section" n="2">
+      <p><term>Arabia</term>, volume II, page 100; volume VI, pages 70, 72, 200, 355; volume VII, page 24.</p>
+      <p>trade of <ref>Arabia</ref>, ancient, volume I, page 11.</p>
+      <p>Iran and <ref>Arabia</ref>, the portion of Iran, volume I, page 189.</p>
+      <p>Shapur son of Urmuzd’s expedition to <ref>Arabia</ref>, volume VI, page 322.</p>
+  </div>
+  <div type="textpart" subtype="section" n="3">
+      <p><term>Arabian</term>, <term>Arabians</term>, volume VI, pages 378, 388; volume IX, pages 74, 85.</p>
+      <p><term>Arabian Faith</term>, volume VI, page 95.</p>
+      <p><term>Arabian Nights</term>, volume I, page 51; volume VI, pages 71, 78, 250; volume VII, page 317.</p>
+      <p>provenance of <ref>Arabian Nights</ref>, volume VI, page 250; volume VII, page 3.</p>
+      <p>quoted, volume VI, page 73.</p>
+  </div>
+  <div type="textpart" subtype="section" n="4">
+      <p><term>Arabic</term>, language, volume I, page 32; volume VI, pages 147, 205; volume VIII, page 73; volume IX, page 81.</p>
+      <p>infrequent in Shahnama, volume I, page 47.</p>
+      <p>versions of Pahlavi texts, volume VI, pages 255 and following.</p>
+      <p>Fables of Bidpai (Kalila and Dimna) translated into <ref>Arabic</ref>, volume VII, pages 382, 430.</p>
+      <p><term>Tabari</term>. See <ref>Tabari</ref>.</p>
+  </div>
+  <div type="textpart" subtype="section" n="5">
+      <p><term>Arachosia</term>, the district about Kandahar, volume VI, page 32.</p>
+      <p><term>Aragan (Ramkubad)</term>, town, volume VII, page 188.</p>
+      <p><term>Aral Sea</term>, volume I, page 57 note; volume III, page 10.</p>
+      <p><term>Arar tree</term>, volume VI, page 19.</p>
+      <p><term>Aras (Araxes)</term>, river in Azerbaijan, volume V, pages 13, 14.</p>
+      <p>confused with the Oxus, volume I, pages 71, 370.</p>
+  </div>
+  <div type="textpart" subtype="section" n="6">
+      <p><term>Arash</term>, king of the Khüzians, volume IV, pages 146, 148.</p>
+      <p><term>Arash</term>, son of Kai Kubäd. See <ref>Kai Arash</ref>.</p>
+      <p><term>Arash</term>, Ashkanian king, volume VI, pages 197, 210.</p>
+      <p><term>Arash</term>, Iranian chief, volume VI, page 394.</p>
+      <p><term>Arash</term>, city. See <ref>Hulwan</ref>.</p>
+  </div>
+  <div type="textpart" subtype="section" n="7">
+      <p><term>Arastalis (Aristotle)</term>, pages 160, volume VI, page 35.</p>
+      <p>counsels Sikandar, volume VI, page 179.</p>
+      <p>sentences of <ref>Arastalis (Aristotle)</ref>, over the coffin of Sikandar, volume VI, page 185.</p>
+      <p><term>Arästi</term>, uncle of Zarduhsht (Zoroaster), volume V, page 17.</p>
+  </div>
+  <div type="textpart" subtype="section" n="8">
+      <p><term>Araxes (Aras)</term>, battle of, volume VIII, page 70.</p>
+      <p><term>Arayish-i-Rum (Hierapolis)</term>, city in northern Syria, west of the Euphrates and north of Aleppo, volume VII, pages 217, 218, 254; volume VII, page 188.</p>
+      <p>taken by Nushirwan, volume VII, page 255.</p>
+  </div>
+  <div type="textpart" subtype="section" n="9">
+      <p><term>Arba</term>, river, volume VIII, pages 194, 195.</p>
+      <p><term>Archer</term>, volume IV, page 179.</p>
+      <p>constellation, volume V, page 86.</p>
+      <p><term>Archery</term>, across volumes I, II, III, IV, V, VI, VII, detailed pages provided.</p>
+  </div>
+  <div type="textpart" subtype="section" n="10">
+      <p><term>Archimages</term>, pages 141, 168, 170, 176.</p>
+      <p><term>Architect</term>, Roman, and Khusrau Parwiz, volume VIII, pages 401 and following.</p>
+      <p><term>Architecture</term>, invention of, volume I, pages 129, 133.</p>
+      <p><term>Archscribe</term>. See <ref>Izid Gashasp</ref> and <ref>Mihran</ref>.</p>
+  </div>
+  <div type="textpart" subtype="section" n="11">
+      <p><term>Ard</term>, day, volume I, page 88; volume II, page 287; volume IV, page 252; volume VI, pages 298, 390 and note; volume VII, page 112; volume IX, pages 70, 122.</p>
+      <p>Shahnama finished on the day of <ref>Ard</ref>, volume I, page 24.</p>
+  </div>
+  <div type="textpart" subtype="section" n="12">
+      <p><term>Ardabil (Badan - Pirüz)</term>, city in Azerbaijan, across volumes II, IV, VI, VIII, detailed pages provided.</p>
+  </div>
+  <div type="textpart" subtype="section" n="13">
+      <p><term>Ardawan</term>, Bahram, Artabanus III or IV, the last Ashkanian (Parthian) king, pages 160, 161, volume VI, pages 3, 205, 214 and following, 254 and following; volume VIII, pages 214, 285.</p>
+      <p>Macrinus, his war and treaty with, volume I, page 81.</p>
+      <p>effect of, on Persian coinage, volume I, page 81.</p>
+      <p>=Bahram, volume VI, pages 197, 210.</p>
+      <p>status of <ref>Ardawan</ref>, in Persian tradition, volume VI, page 201.</p>
+</div>
 
+<p><term>Ardawän</term>, daughter of page 167, volume VI, page 202.</p>
+<p>marries <term>Ardshir Papakan</term>, volume VI, pages 202, 229.</p>
+<p>incited by her brother <term>Bahman</term> to poison <ref>Ardshir Papakan</ref>, volume VI, page 259.</p>
+<p>condemned to death, volume VI, page 260.</p>
+<p>Saved by <ref>Ardshir Papakan</ref>'s minister, volume VI, page 260.</p>
+<p>gives birth to <term>Shapur</term>, volume VI, page 261.</p>
+<p>restored to favour, volume VI, page 265.</p>
+<p>writes to <term>Papak</term>, volume VI, page 21.</p>
+<p>Summons <ref>Ardshir Papakan</ref> to court, volume VI, page 214.</p>
+<p>receives gifts from <ref>Ardshir Papakan</ref>, volume VI, page 215.</p>
+<p>highly esteems <ref>Ardshir Papakan</ref>, volume VI, page 215.</p>
+<p>sons of <ref>Ardawän</ref>, volume VI, pages 215, 255, 267.</p>
+<p>their fate, volume VI, pages 228, 229 and note, 259.</p>
+<p>disgraces <ref>Ardshir Papakan</ref>, volume VI, page 216.</p>
+<p><ref>Ardshir Papakan</ref> intrigues with slave-girl of <ref>Ardawän</ref>, page 160, volume VI, pages 201, 217 and following.</p>
+<p>eldest son of <ref>Ardawän</ref> made ruler of Pars, volume VI, page 218 and note.</p>
+<p>consults the astrologers, volume VI, page 218.</p>
+<p><ref>Ardshir Papakan</ref>, vainly pursued by <ref>Ardawän</ref>, volume VI, pages 221 and following.</p>
+<p>returns to Rai, volume VI, page 223.</p>
+<p>writes to his son about <ref>Ardshir Papakan</ref>, volume VI, page 223.</p>
+<p><ref>Ardshir Papakan</ref> marches against <ref>Ardawän</ref>, volume VI, page 227.</p>
+<p>Prepares to encounter <ref>Ardshir Papakan</ref>, volume VI, page 227.</p>
+<p>defeated, captured by Khar-rad, and slain by <ref>Ardshir Papakan</ref>, volume VI, page 228.</p>
+<p>buried by Tabak, volume VI, page 229.</p>
+<p>palace of <ref>Ardawän</ref> at Rai Spared (?) by <ref>Ardshir Papakan</ref>, volume VI, page 229 and note.</p>
+<p><term>Ardawän</term>, secretary of, slain by <term>Shapur</term>, volume VI, page 256.</p>
+<p><ref>Ardawän</ref> equals Mihrak-Mithrak equals Madik (2), volume VI, page 256.</p>
+<div type="textpart" subtype="section" n="16">
+  <p><term>Ardibihisht</term>, ameshaspenta, volume III, pages 286, 328.</p>
+  <p>month of <ref>Ardibihisht</ref>, volume I, page 82; volume V, pages 16, 39, 92 note.</p>
+</div>
+<div type="textpart" subtype="section" n="17">
+  <p><term>Ardshir</term>, son of Bizhan, goes with Zarfr to Rin, volume IV, page 360.</p>
+  <p>hails Gushtäsp as Shah, volume IV, page 362.</p>
+</div>
+<div type="textpart" subtype="section" n="18">
+  <p><term>Ardshir</term>, son of Gushtäsp, pages 755, volume V, pages 26, 51.</p>
+  <p>death of <ref>Ardshir</ref>, foretold by Jâmasp, volume V, page 49.</p>
+  <p>slain, volume V, page 57.</p>
+</div>
+<div type="textpart" subtype="section" n="19">
+  <p><term>Ardshir</term>, Iranian hero, perhaps the son of Bizhan, supra.</p>
+  <p>tells Nastür where to find Zarir, volume V, page 67.</p>
+  <p>takes Fardmarz prisoner, volume V, page 288.</p>
+</div>
+<div type="textpart" subtype="section" n="20">
+  <p><term>Ardshir (Bahman)</term>, Shah, volume VI, pages 213, 271 and note.</p>
+  <p>meaning of <ref>Ardshir</ref>, volume V, page 259 and note.</p>
+</div>
+<div type="textpart" subtype="section" n="21">
+  <p><term>Ardshir (Artaxerxes II)</term>, brother of Shäpür, Sasanian Shah, page 163, volume VI, pages 3, 328.</p>
+  <p>Shapur arranges for the succession with <ref>Ardshir</ref>, volume VI, page 360 and following.</p>
+  <p>title of <ref>Ardshir</ref>, volume VI, page 364.</p>
+  <p>abdication of <ref>Ardshir</ref>, volume VI, page 364.</p>
+  <p>high priest Pirüz, volume VII, pages 179 and following.</p>
+  <p>released by Khushnawaz, volume VII, page 180.</p>
+</div>
+<div type="textpart" subtype="section" n="22">
+  <p><term>Ardshir</term>, high priest temp., Nüshirwän, volume VII, pages 304, 333, 337, 342.</p>
+  <p>discourse of <ref>Ardshir</ref>, volume VII, page 305.</p>
+  <p>questions Büzurjmihr, volume VII, page 308.</p>
+</div>
+<div type="textpart" subtype="section" n="23">
+  <p><term>Ardshir Khurra</term> (Khurra-i-Ardshir), city, (Gur or Jur, now Firüzäbäd), and district in Pars, volume VI, pages 199, 205, 206, 229 and note, 231, 241, 245; volume VII, page 206; volume VIII, pages 251, 252, 412 and note.</p>
+  <p><ref>Ardshir Khurra</ref>, city, <ref>Ardshir Papakan</ref> builds a Fire-temple in, volume VI, page 230.</p>
+  <p>makes irrigation-works in <ref>Ardshir Khurra</ref>, volume VI, page 230.</p>
+  <p>meaning of <ref>Ardshir Khurra</ref>, volume VI, page 290 note.</p>
+</div>
+<div type="textpart" subtype="section" n="24">
+  <p><term>Ardshir Papakan (Artaxerxes I)</term>, Shah and founder of the Sasanian dynasty, pages 160, 161; volume I, page 42; volume II, page 10; volume V, page 10; volume VI, pages 193, 209 note, 213 and following, 294 and following, 303, 307, 315, 322, 325, 405; volume VII, pages 79, 185, 212; volume VIII, pages 191, 214, 222, 265, 270, 285, 392, 393; volume IX, pages 105, 109, 111. Notes on <ref>Ardshir Papakan</ref>, volume VI, pages 193 and following, 254 and following.</p>
+  <p>founds a new national dynasty, restores Zoroastrianism, and collects its scriptures, volume I, page 62 and following.</p>
+  <p>genealogical table of his descendants, volume VI, page 3.</p>
+  <p>rise of, compared to that of Cyrus the Great, volume VI, page 194.</p>
+  <p>Tabari’s account of <ref>Ardshir Papakan</ref>, volume VI, page 198.</p>
+  <p>legend of Cyrus the Great transferred to <ref>Ardshir Papakan</ref>, volume VI, page 195.</p>
+  <p>birth of <ref>Ardshir Papakan</ref>, volume VI, page 213.</p>
+  <p>summoned to court by <term>Ardawan</term>, volume VI, page 214.</p>
+  <p>equipped by <term>Papak</term>, volume VI, page 214.</p>
+  <p>presents gifts to <ref>Ardawan</ref>, volume VI, page 215.</p>
+  <p><ref>Ardawan</ref> favours <ref>Ardshir Papakan</ref>, volume VI, page 215.</p>
+  <p>prowess of <ref>Ardshir Papakan</ref> in the chase, volume VI, page 215.</p>
+  <p>disgraced, volume VI, page 216.</p>
+  <p>writes to <ref>Papak</ref>, volume VI, page 216.</p>
+  <p>advised by <ref>Papak</ref>, volume VI, page 216.</p>
+  <p>intrigues with <term>Gulnär</term>, volume VI, pages 217 and following.</p>
+  <p>hears from <ref>Gulnär</ref> of the presage of the astrologers, volume VI, page 219.</p>
+  <p>flees with <ref>Gulnär</ref> to Pars, volume VI, pages 220 and following.</p>
+  <p>followed by the divine Grace in the form of a mountain-sheep, volume I, page 374; volume VI, pages 221 and following.</p>
+</div>
+<div type="textpart" subtype="section" n="25">
+  <p><ref>Ardshir Papakan</ref>, adherents flock to, volume VI, page 223.</p>
+  <p>addresses his supporters, volume VI, page 224.</p>
+  <p>founds a city, volume VI, pages 202, 224.</p>
+  <p>receives promises of help, volume VI, page 224.</p>
+  <p>joined by <term>Tabak</term>, volume VI, page 225.</p>
+  <p><ref>Tabak</ref> and <ref>Ardshir Papakan</ref>, defeat <term>Bahman</term>, son of <term>Ardawän</term>, volume VI, page 226.</p>
+  <p>marches from Pärs against <ref>Ardawan</ref>, volume VI, page 227.</p>
+  <p>defeats and slays <ref>Ardawan</ref>, volume VI, page 228.</p>
+  <p>as recorded in Karnamak, volume VI, page 202.</p>
+  <p>gives the spoil to the troops, volume VI, page 229.</p>
+  <p>spares (?) <ref>Ardawän</ref>'s palace at Rai, volume VI, page 229 and note.</p>
+  <p><ref>Tabak</ref> counsels <ref>Ardshir Papakan</ref>, volume VI, page 229.</p>
+  <p>marriage of <ref>Ardshir Papakan</ref>, with <ref>Ardawan</ref>’s daughter, volume VI, pages 202, 229, 259.</p>
+  <p>returns to Pars, volume VI, page 229.</p>
+  <p>builds Khurra-i-Ardshir, volume VI, page 229 and note.</p>
+  <p>irrigation-works of <ref>Ardshir Papakan</ref>, at Khurra-i-Ardshir, volume VI, page 230.</p>
+  <p>war of <ref>Ardshir Papakan</ref>, with the Kurds, volume VI, pages 196, 230 and following.</p>
+  <p>and <term>Haftwäd</term>, volume VI, pages 236 and following.</p>
+  <p>message sent by arrow to <ref>Ardshir Papakan</ref>, volume VI, page 238.</p>
+  <p>worsted by <ref>Haftwad</ref> and entertained and counselled by two youths, volume VI, pages 239 and following.</p>
+  <p>slays <term>Mihrak</term>, volume VI, page 241.</p>
+  <p>marches to attack the Worm, volume VI, page 241.</p>
+  <p>gives instructions to <term>Shahrgir</term>, volume VI, page 241.</p>
+  <p>stratagem of <ref>Ardshir Papakan</ref>, against the Worm, volume VI, page 242.</p>
+  <p>slays the Worm and its attendants, volume VI, page 244.</p>
+  <p>summons <ref>Shahrgir</ref>, volume VI, pages 244 and note.</p>
+  <p>takes <ref>Haftwad</ref>'s stronghold, volume VI, page 244.</p>
+</div>
+<pb n="205"/>
+<div type="textpart" subtype="section" n="26">
+  <p><ref>Ardshir Papakan</ref>, defeats and slays <term>Haftwad</term> and <term>Shahwi</term>, volume VI, page 245.</p>
+  <p>carries off the spoil, volume VI, page 245.</p>
+  <p>builds a Fire-temple, volume VI, page 245.</p>
+  <p>rewards the two youths, volume VI, page 245.</p>
+  <p>invasion of Kirman by <ref>Ardshir Papakan</ref>, volume VI, pages 205, 245.</p>
+  <p>goes to Taisafün, volume VI, page 245.</p>
+  <p>principles of government of <ref>Ardshir Papakan</ref>, volume VI, pages 250, 273 and following, 286 and following.</p>
+  <p>Reign of <ref>Ardshir Papakan</ref>, page 161, volume VI, pages 254 and following.</p>
+  <p>Note on <ref>Ardshir Papakan</ref>, volume VI, page 254.</p>
+  <p>length of reign, volume VI, page 254.</p>
+  <p>Tabari on <ref>Ardshir Papakan</ref>, volume VI, page 254.</p>
+  <p>coins of <ref>Ardshir Papakan</ref>, volume VI, pages 256, 257, 205.</p>
+  <p>Shapur crowned by <ref>Ardshir Papakan</ref>, volume VI, page 257.</p>
+  <p>cities of <ref>Ardshir Papakan</ref>, volume VI, page 257.</p>
+  <p>prophecy of <ref>Ardshir Papakan</ref>, volume VI, page 257.</p>
+  <p>enthroned at Baghdad, volume VI, page 258.</p>
+  <p>title of King of kings of <ref>Ardshir Papakan</ref>, volume VI, pages 193, 199, 254, 258, 273.</p>
+  <p>inaugural address of <ref>Ardshir Papakan</ref>, volume VI, page 258.</p>
+  <p>daughter of <ref>Ardawän</ref> and <ref>Ardshir Papakan</ref>, stories of, volume VI, page 255.</p>
+  <p>plot of, with her brother <term>Bahman</term>, to poison <ref>Ardshir Papakan</ref>, volume VI, page 259.</p>
+  <p>discovers plot against him, volume VI, page 2.</p>
+  <p>consults his minister, volume VI, page 260.</p>
+  <p>condemns the daughter of <ref>Ardawan</ref> to death, volume VI, page 260.</p>
+  <p>minister of <ref>Ardshir Papakan</ref> saves daughter of <ref>Ardawan</ref> and mutilates himself, volume VI, pages 196, 261.</p>
+  <p><term>Shapur</term>, son of <ref>Ardshir Papakan</ref>, born, volume VI, page 261.</p>
+  <p>hears about <ref>Shapur</ref> from his minister, volume VI, page 202.</p>
+  <p>recognises and acknowledges <ref>Shapur</ref>, volume VI, page 2064.</p>
+  <p>restores the daughter of <ref>Ardawan</ref> to favour, volume VI, page 265.</p>
+  <p>rewards his minister, volume VI, page 265.</p>
+  <p>makes a new coinage in honour of his minister, volume VI, pages 256, 205.</p>
+  <p>builds Jund-i-Shapur, volume VI, page 266.</p>
+</div>
+<div type="textpart" subtype="section" n="27">
+  <p><ref>Ardshir Papakan</ref>, harassed by wars, consults <term>Kaid</term>, volume VI, page 266.</p>
+  <p>wroth at <ref>Kaid</ref>’s advice, volume VI, page 267.</p>
+  <p>seeks in vain for the daughter of <term>Mihrak</term>, volume VI, page 268.</p>
+  <p>referred to, volume VI, page 270.</p>
+  <p>discovers <term>Urmuzd</term>, volume VI, page 271.</p>
+  <p>counsels <ref>Urmuzd</ref>, volume VI, page 280.</p>
+  <p>calls and counsels <term>Shapur</term>, volume VI, pages 286 and following.</p>
+  <p>Church and State, his views on, volume VI, pages 250 and following, 286.</p>
+  <p>duration of his dynasty, volume VI, pages 252, 257, 289.</p>
+  <p>death of <ref>Ardshir Papakan</ref>, volume VI, page 291.</p>
+  <p>Baluchistan, his failure to conquer, volume VII, page 242.</p>
+  <p>Nard, invention of, attributed to <ref>Ardshir Papakan</ref>, volume VII, page 382.</p>
+  <p>True Cross in treasury of <ref>Ardshir Papakan</ref>, volume VIII, page 350.</p>
+</div>
 
+<div type="textpart" subtype="section" n="28">
+  <p><term>Ardshir</term>, son of Shirwi, Shah, page 175, volume IX, pages 43 and following.</p>
+  <p>makes <term>Piruz</term> general, volume IX, page 44.</p>
+  <p>entertains <ref>Piruz</ref> at feast, volume IX, page 48.</p>
+  <p>death of <ref>Ardshir</ref>, volume IX, page 49.</p>
+  <p>treasury of <ref>Ardshir</ref>, squandered by <term>Guraz</term>, volume IX, page 53.</p>
+</div>
+<div type="textpart" subtype="section" n="29">
+  <p><term>Aregal-aspa</term>. See <ref>Arjasp</ref>.</p>
+</div>
+<div type="textpart" subtype="section" n="30">
+  <p><term>Aries</term>, constellation, across volumes I, II, IV, V, VIII, detailed pages provided.</p>
+</div>
+<div type="textpart" subtype="section" n="31">
+  <p><term>Ariobarzanes</term>, the murderer of Darius Codomanus, volume VI, page 32.</p>
+  <p><term>Ariobarzanes</term>, satrap, volume VI, page 32 and note.</p>
+</div>
+<div type="textpart" subtype="section" n="32">
+  <p><term>Arish</term>, legendary Iranian archer, volume V, page 62; volume VII, page 234 and note; volume VIII, pages 75, 219 and note; volume IX, page 25.</p>
+</div>
+<div type="textpart" subtype="section" n="33">
+  <p><term>Aristobulus</term>, Greek writer, temp. Alexander the Great, volume VI, page 12.</p>
+</div>
+<div type="textpart" subtype="section" n="34">
+  <p><term>Aristotle (Arastälis)</term>, Greek philosopher, lived B.C. 384-322.</p>
+</div>
+<pb n="206"/>
+<div type="textpart" subtype="section" n="35">
+  <p><term>Aristotle</term>, Alexander the Great’s tutor, volume VI, page 29.</p>
+  <p>letter to <ref>Aristotle</ref>, volume VI, page 68.</p>
+  <p>correspondence with, about the succession, volume VI, pages 81, 83.</p>
+  <p>silk-worm, his account of, volume VI, page 204.</p>
+</div>
+<div type="textpart" subtype="section" n="36">
+  <p><term>Arjasp</term>, Turanian hero, volume II, page 264; volume IV, page 26.</p>
+</div>
+<pb n="204"/>
 
-        <p><term>Abt' Raihan Muhammad</term>. See <term>Albirüni</term>.</p>
-        <p><term>Abu Talib</term>, uncle of Muhammad, i, 12.</p>
-        <p><term>Abu' Ubaida</term>, Arab general, ix, 66. Supersedes Khalid in Syria, ix, 66.</p>
-        <p><term>Abu ‘Ubaida</term>, Arab general, ix, 67. Made commander in Persian campaign, ix, 67. Slain, ix, 67.</p>
-        <p><term>Accession of a Shäh</term>, ceremony at, vi, 409.</p>
-        <p><term>Achaemenids</term>, the first historical Persian dynasty, i, 64, v, 10, 281, vi, 194, 197, 198.</p>
-        <p><term>Achshunwar</term>. See <term>Akhshunwar</term>.</p>
-        <p><term>’Ad</term>, father of <term>Shaddad</term>. Arab tribe, viii, 276.</p>
-        <p><term>'Adan</term>, seaport and territory in southern Arabia, vi, 386.</p>
-        <p><term>Adar</term>. See <term>Azar</term>.</p>
-        <p><term>Adarbäd</term>, son of <term>Mahraspand</term>, Zoroastrian Saint, v, 16 note. Ordeal of, v, 16 note.</p>
-        <p><term>Aden</term>. See <term>'Adan</term>.</p>
-        <p><term>Adonis</term>, iv, 315.</p>
-        <p><term>Ægean sea</term>, vi, 204.</p>
-        <p><term>Afrasiyab</term>, son of <term>Pashang</term>, ruler of Turan and one of the arch-enemies of Iran, various references across texts.</p>
-        <p>One of the Zoroastrian triad of evil, i, 59 and note.</p>
-        <p>Mythological origin of, i, 337.</p>
-        <p>First mention of, in Shahnama, i, 342.</p>
-        <p>Advocates war with Naudar, i, 343.</p>
-        <p>Forbidden by <ref>Pashang</ref> to invade Iran, i, 343.</p>
-        <p>Sends Shamasas and Khazarwan to invade Sistan, i, 345.</p>
-        <p>Marches to Dahistan, i, 346.</p>
-        <p>Writes to <ref>Pashang</ref>, i, 346.</p>
-        <p>Encourages Barman to challenge the Iranians to single combat, i, 347.</p>
-        <p>Rewards Barman, i, 348.</p>
-        <p>Fights with Naudar, i, 348 and seq.</p>
-        <p>Encounters Naran, i, 350.</p>
-        <p>Victorious, i, 350, 352.</p>
-        <p>Beleaguers Naudar in Dahistan, i, 353.</p>
-        <p>Sends Kurukhan to attack Pars, i, 353.</p>
-        <p>Takes Naudar and other chiefs prisoners, i, 355.</p>
-        <p>Hears of the death of Barman and bids Wisa pursue Karan, i, 356.</p>
-        <p>Hears of the Turkman defeats, i, 362.</p>
-        <p>Sends for, and slays, Naudar, i, 362.</p>
-        <p>Spares the other captives at Ighriras’ request, i, 363.</p>
-        <pb n="193"/>
-        <p>Imprisons the captives at Sari, i, 363.</p>
-        <p>Advances to Rai, i, 363.</p>
-        <p>Wroth with, and slays, Ighriras, i, 367.</p>
-        <p>Fights with Zal, i, 368.</p>
-        <p>Pashang’s wrath with, i, 374.</p>
-        <p>Invades Iran, i, 374 seq., 381.</p>
-        <p>Sends Kulun to intercept Rustam, i, 382.</p>
-        <p>Fights with Arabs for Iran and takes it, ii, 92.</p>
-        <p>King of Turan and Chin, ii, 99.</p>
-        <p>Expelled from Iran by Kai Kaus and Rustam, ii, 101.</p>
-        <p>Fights with the Seven Warriors, ii, 111 seq.</p>
-        <p>Nearly taken prisoner by Rustam, ii, 114, 116, 354, iii, 242, 250 and note.</p>
-        <p>Plot of, against Suhrab and Rustam, ii, 129.</p>
-        <p>Gifts of, to Suhrab, ii, 130.</p>
-        <p>Identical with Astyages in legend, ii, 191.</p>
-        <p>Referred to, ii, 322, 347, 394, iii, 206, iv, 145, 150, 194.</p>
-        <p>Invades Iran, ii, 224 seq.</p>
-        <p>Dream of, ii, 232, 243, 297, iv, 170, 267.</p>
-        <p>Determines to sue for peace and sends hostages, ii, 235 seq.</p>
-        <p>Receives Zanga and consults Piran, ii, 253 seq.</p>
-        <p>Sends Piran to welcome Siyawush, ii, 258.</p>
-        <p>Plays at polo with Siyawush, ii, 264.</p>
-        <p>Marries Farangis to Siyawush, ii, 275.</p>
-        <p>Recalls Siyawush from Gang-dizh, ii, 285.</p>
-        <p>Sends Garsiwaz to Siyawushgird, ii, 289.</p>
-        <p>Deceived by Garsiwaz respecting Siyawush, ii, 296 seq.</p>
+<div type="textpart" subtype="section" n="37">
+  <p><term>Arjasp (Aregat-aspa)</term>, king of Turan, pages 155, 156, volume I, page 61; volume II, pages 9, 29; volume III, page 109; volume V, pages 9, 11 and following, 20, 22, 24 and following, 29, 31, 51 and following, 89, 98, 99, 107 and following, 116, 141, 142, 159, 167, 171, 172, 180, 206; volume VII, pages 330, 335, 337, 359; volume VIII, pages 95, 104, 148; volume IX, page 104. Hoard of <ref>Arjasp</ref>, volume VIII, page 148.</p>
+  <p>in receipt of tribute from <term>Gushtasp</term>, volume V, page 32.</p>
+  <p>hears of <ref>Gushtasp</ref>’s resolve not to pay tribute, summons, and harangues his priests, volume V, page 36.</p>
+  <p>sends <term>Bidirafsh</term> and <term>Namkhast</term> to <ref>Gushtasp</ref>, volume V, pages 37, 40.</p>
+  <p>receives <ref>Gushtasp</ref>’s answer and calls out the host, volume V, page 45.</p>
+  <p>gives one wing to <term>Kubram</term>, volume V, page 46.</p>
+  <p>the other to <term>Andarimän</term>, volume V, page 46.</p>
+  <p>the chief command to <term>Gurgsar</term>, volume V, page 46.</p>
+  <p>banner to <ref>Bidirafsh</ref>, volume V, page 46.</p>
+  <p>vanguard to <term>Khashash</term>, volume V, page 46.</p>
+  <p>rear to <term>Hushdiv</term>, volume V, page 46.</p>
+  <p>marches against Iran, volume V, page 46.</p>
+  <p>defeat of <ref>Arjasp</ref>, foretold by <term>Jamasp</term>, volume V, page 52.</p>
+  <p>gives one wing to <ref>Bidirafsh</ref>, volume V.</p>
+  <p>the other to <ref>Gurgsar</ref>, volume V, page 56.</p>
+  <p>centre to <ref>Namkhast</ref>, volume V, page 56.</p>
+  <p>takes the rear himself, volume V, page 56.</p>
+</div>
+<div type="textpart" subtype="section" n="38">
+  <p><ref>Arjasp</ref>, gives <term>Kuhram</term> the command in chief, volume V, page 56.</p>
+  <p>thrice offers rewards to any that will fight <term>Zarir</term>, volume V, pages 61, 62.</p>
+  <p>offer of <ref>Arjasp</ref>, accepted by <ref>Bidirafsh</ref>, volume V, page 62.</p>
+  <p>calls for <ref>Bidirafsh</ref> to fight <term>Nastur</term>, volume V, page 69.</p>
+  <p>fights with the Iranians, volume V, page 71.</p>
+  <p>defeat of <ref>Arjasp</ref>, volume V, page 72.</p>
+  <p>proclaimed by <ref>Gushtasp</ref>, volume V, page 75.</p>
+  <p>hears of <term>Asfandiyar</term>’s imprisonment and of <ref>Gushtasp</ref>’s absence in Sistan, volume V, page 86.</p>
+  <p>Summons his chiefs, volume V, page 86.</p>
+  <p>sends <term>Sitüh</term> as spy to Iran, volume V, page 86.</p>
+  <p>on receiving <ref>Sitüh</ref>’s report calls out the host, volume V, page 87.</p>
+  <p>sends <ref>Kuhram</ref> to attack Balkh, volume V, page 90.</p>
+  <p>marches against <ref>Gushtasp</ref>, volume V, pages 94.</p>
+  <p>commands the centre, volume V, page 95.</p>
+  <p>defeats <ref>Gushtasp</ref> and beleaguers him on a mountain, volume V, page 96.</p>
+  <p><term>Asfandiyar</term>’s vow of, and prayer for, vengeance on <ref>Arjasp</ref>, volume V, pages 103, 104.</p>
+  <p>hears of <ref>Asfandiyar</ref>’s arrival, volume V, page 108.</p>
+  <p>proposes to retreat, volume V, page 108.</p>
+  <p>sends away the spoil of Balkh, volume V, page 108.</p>
+  <p>five sons of <ref>Arjasp</ref>, volume V, page 108.</p>
+  <p>persuaded by <ref>Gurgsar</ref> to remain and fight, volume V, pages 105, 109.</p>
+  <p>makes <ref>Gurgsar</ref> leader of the host, volume V, page 109.</p>
+  <p>arrays the host, volume V, page 109.</p>
+  <p>commands the centre, volume V, page 109.</p>
+  <p>surveys the battlefield from a height, volume V, page 110.</p>
+  <p>prepares for flight if needful, volume V, page 110.</p>
+</div>
+<pb n="207"/>
+<div type="textpart" subtype="section" n="39">
+  <p><ref>Arjasp</ref>, dismayed at <ref>Asfandiyar</ref>’s prowess, reproaches <ref>Gurgsar</ref>, volume V, page 111.</p>
+  <p>hears of <ref>Gurgsar</ref>'s capture and flees, volume V, page 112.</p>
+</div>
+<div type="textpart" subtype="section" n="40">
+  <p><ref>Arjasp</ref>, entertains <ref>Asfandiyar</ref> disguised as a merchant, volume V, page 145.</p>
+  <p>questions <ref>Asfandiyar</ref>, volume V, page 146.</p>
+  <p>allows <ref>Asfandiyar</ref> to entertain the Turkman chiefs, volume V, page 149.</p>
+  <p>prepares to attack <term>Bishütan</term>, volume V, page 151.</p>
+</div>
+<div type="textpart" subtype="section" n="41">
+  <p><ref>Arjasp</ref>, bids <term>Kuhram</term> prepare for war, volume V, page 151.</p>
+  <p>sends out <term>Turkhan</term> with troops to reconnoitre, volume V, page 151.</p>
+  <p>hears from <ref>Kuhram</ref> that <ref>Asfandiyar</ref> has come, volume V, page 152.</p>
+  <p>bids the Turkmans march out in force, volume V, page 152.</p>
+  <p>palace of <ref>Arjasp</ref>, attacked by <ref>Asfandiyar</ref>, volume V, page 153.</p>
+  <p>arms and encounters <ref>Asfandiyar</ref>, volume V, pages 153, 154.</p>
+  <p>beheaded by <ref>Asfandiyar</ref>, volume V, page 154.</p>
+  <p>palace of <ref>Arjasp</ref>, fired and his women carried off by <ref>Asfandiyar</ref>, volume V, pages 154, 162.</p>
+  <p>head of <ref>Arjasp</ref>, thrown from the ramparts of the Brazen Hold, volume V, page 157.</p>
+  <p>sons of <ref>Arjasp</ref>, grieve for, volume V, page 157.</p>
+  <p><ref>Asfandiyar</ref> takes the treasure of <ref>Arjasp</ref>, volume V, page 161.</p>
+  <p>Khan of Chin descended from <ref>Arjasp</ref>, volume VII, page 334.</p>
+</div>
+<div type="textpart" subtype="section" n="1">
+  <p><term>Arjuna</term>, one of the five Pandavas (Indian mythology), iv, 138, 139.</p>
+  <p><term>Ark</term>, 158.</p>
+  <p><term>Arman</term>, Armenia or district in Azarbaijan, vii, 263.</p>
+  <p><term>Armanf</term>, Iranian chief, ix, 74.</p>
+  <p><term>Armenia</term> (<ref>Arman</ref>, <ref>Irman</ref>), country, iii, 12; vi, 202, 203; vii, 153, 224; viii, 93, 96, 184, 193, 202, 377.</p>
+  <p><term>Armenia</term>, Roman, vii, 187.</p>
+  <p><term>Armenian</term>, <term>Armenians</term> (<ref>Irmanians</ref>), iii, 286; viii, 188, 189, 195, 226, 248, 282.</p>
+  <p>Version of the Pseudo-Callisthenes, vi, 14.</p>
+  <p>Armenian-like, viii, 254.</p>
+  <p>Armenian=Mausil, viii, 293 and note.</p>
+  <p><term>Armin</term>, son of Kai Kubad. See Kai Armin.</p>
+  <p><term>Arnawaz</term>, sister of Jamshid, wife of Zahhak and Faridun, and mother of Iraj, i, 142 married to Zahhak, i, 146 seq. counsels Zahhak as to his dream, i, 148. Faridun meets <ref>Arnawaz</ref>, i, 162. Zahhak tries to kill <ref>Arnawaz</ref>, i, 167. son of <ref>Arnawaz</ref> by Faridun, i, 177.</p>
+  <p><term>Mathew Arnold</term>, his "Sohrab and Rustum", ii, 118.</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+  <p><term>Arran</term>, the modern Karabagh, the region between the Kur and Aras rivers, i, 9.</p>
+  <p><term>Arrian</term>, Greek historian (A.D. 96-180), vi, 31, 68. Anabasis of <ref>Arrian</ref>, vi, 12. Indica of <ref>Arrian</ref>, vi, 12. Caspian Gates of <ref>Arrian</ref>, vi, 32. on the stature of Porus, vi, 64. Ichthyophagi of <ref>Arrian</ref>, vi, 69 seq. Alexander and the Amazons, vi, 72. death of Alexander, vi, 82.</p>
+  <p>Arrow-shots, three famous, viii, 75. Bahram Chübina’s, viii, 126.</p>
+  <p><term>Arsaces</term>, name of the founder and other kings of the Parthian (Ashkanian) dynasty, vi, 197.</p>
+  <p><term>Arsacid</term>, <term>Arsacids</term>, dynastic title of the above, iii, 9; vi, 205, 255; vii, 156, 185, 212. imperial system of the <ref>Arsacids</ref>, vi, 198. some of <ref>Arsacids</ref> escape from Ardashir Papakan to Armenia, vi, 203.</p>
+  <pb n="208"/>
+  <p><term>Arsacid</term>, rivalry of, with Sasanians, viii, 73.</p>
+  <p><term>Arshalas</term>, murderer of Darius Codomanus, vi, 32.</p>
+  <p><term>Arses</term>, Shah (B.C. 338-336), vi, 29.</p>
+  <p><term>Arslan Jazib</term>, one of Mahmud’s generals, i, 100 referred to, i, 114.</p>
+  <p><term>Artabanus III</term> (II according to some reckonings), Parthian king (A.D. 10-40), iii, 9, 10. <term>Artabanus</term>, son of above, iii, 9. <term>Artabanus</term>, Persian captain of the guard temp. Xerxes, v, 282. Rustam and <ref>Artabanus</ref>, v, 282.</p>
+  <p><term>Artabanus III or IV</term> (Ardawan q.v.), vi, 201.</p>
+  <p><term>Artang</term>, the house of the heresiarch Mani, ii, 19 and note; vii, 355 and note; viii, 172 and note, 362 and note.</p>
+  <p><term>Artaxerxes Longimanus</term>, Shah, v, 281, 282. Bahman and <ref>Artaxerxes Longimanus</ref>, v, 282.</p>
+  <p><term>Artaxerxes Mnemon</term>, Shah, i, 59.</p>
+  <p><term>Artaxerxes Ochus</term>, Shah (B.C. 359-338), vi, 18 note, 29. Nectanebus II conquered by <ref>Artaxerxes Ochus</ref>, vi, 29. murdered, vi, 29.</p>
+  <p><term>Artaxerxes I</term>, Sasanian Shah. See Ardshir Papakan.</p>
+  <p><term>Artaxerxes II</term> (Ardshir brother of Shapur), Sasanian Shah, vi, 363.</p>
+  <p><term>Arts</term>, invention of the. See Gaiumart, Hushang, Tahmuras, and Jamshid.</p>
+  <p><term>Arus</term>, treasure, viii, 406 and note, ix, 20.</p>
+  <p><term>Arwand</term> (Dijla, Tigris), ii, 392, 404; vi, 329; viii, 90; ix, 85, 92. Faridun’s crossing of the <ref>Arwand</ref>, i, 160.</p>
+  <p><term>Arzhang</term>, a div and commander of the troops of Mazandaran, i, 143; ii, 43, 44, 56 seq., 63, 64; v, 203. put in charge of Kai Kaus and his troops when taken prisoners, ii, 41. slain by Rustam, ii, 57. dungeon of <ref>Arzhang</ref>, iii, 309.</p>
+  <p><term>Arzhang</term>, Turanian hero, i, 148, iii, 76, 77. challenges the Iranians, iii, 119. slain, iii, 120.</p>
+  <p><term>Arzhang</term>, Mani the heresiarch’s house. See Artang.</p>
+  <p><term>Aryan</term>, <term>Aryans</term>, race, iii, 10 and note, iv, 137. race, i, 7. early seats of <ref>Aryans</ref>, i, 7. meaning of <ref>Aryans</ref>, i, 7. organization of <ref>Aryans</ref>, i, 7. primitive religion of <ref>Aryans</ref>, i, 7. belief in magic of <ref>Aryans</ref>, i, 8. division of <ref>Aryans</ref>, i, 8. India and Iran conquered by <ref>Aryans</ref>, i, 8. Indian <ref>Aryans</ref>, their relations with the Iranians, i, 15.</p>
+  <p><term>Arzu</term>, daughter of Sarv and wife of Salm, i, 188 and note referred to, i, 178 seq.</p>
+  <p><term>Arzu</term>, daughter of Mahiyar the jeweller, vii, 59, 61 referred to, vii, 55, 56, 58 sings to Bahram Gur, vii, 60. Bahram Gur woos and weds <ref>Arzu</ref>, vii, 61 seq. meaning of <ref>Arzu</ref>, vii, 65 note.</p>
+  <p><term>Ascalon</term>, city in Palestine, v, 292.</p>
+  <p><term>Asclepias acida</term>, plant. See Homa.</p>
+</div>
+<div>            <div type="textpart" subtype="section" n="1">
+  <p><term>Asfandiyar</term> (Spento-data, Spandat), mythical Iranian hero, son of Shah Gushtasp, and the rival in legend of Rustam.</p>
+  <p>Pages: 155-157, i, 42, 55; ii, 29; v, 9, 10, 12, 24 seq., 29, 30, 41 seq., 45, 49, 69 seq., 90 seq., 258, 259, 201, 279, 281 seq., 289, 290, 293; vi, 15, 49, 55, 200, 213, 224, 242, 251, 271; viii, 95, 104 and note, 171, 270, 332, 395 note; ix, 25, 26 note, 104.</p>
+  <p>Invulnerability of <ref>Asfandiyar</ref>, v, 19.</p>
+  <p>Sisters of <ref>Asfandiyar</ref>, 156, v, 20, 22.</p>
+  <p>Carried off by the Turkman, v, 93, 100, 171.</p>
+  <p>Rescued by <ref>Asfandiyar</ref>, v, 153, 162.</p>
+  <p>Lament over <ref>Asfandiyar</ref>, v, 252 seq.</p>
+  <p>Marriage of <ref>Asfandiyar</ref> with Humai, v, 22, 77.</p>
+  <p>Ignored by Firdausi, v, 22.</p>
+  <p>Birth of <ref>Asfandiyar</ref>, v, 32.</p>
+  <p>Answers, in conjunction with Zarir and Jamasp, Arjasp’s letter, v, 42.</p>
+  <p>Triumph of <ref>Asfandiyar</ref> over Arjasp foretold by Jamasp, v, 52.</p>
+  <p>Given command of one wing, v, 65.</p>
+  <p>Hears his father’s offer of the crown and throne, v, 55.</p>
+  <p>Addresses his five brothers as the avenger of Zarir, v, 66.</p>
+  <p>Slays Bidirafsh, v, 70.</p>
+  <p>Presents the head of Bidirafsh and the steed of Zarir to Gushtasp, v, 71.</p>
+  <p>Divides the host, v, 71.</p>
+  <p>Attacks, with Nastur and Nush Azar, the Turkman, v, 71.</p>
+  <p>Grants quarter to the Turkman, v, 72.</p>
+  <p>Made chief ruler of Iran under Gushtasp and sent by him to convert the world, v, 76.</p>
+  <p>Rests from his labours, v, 77.</p>
+  <p>Makes Farshidward governor of Khurasan, v, 77.</p>
+  <p>Reports the success of his administration to Gushtasp, v, 77.</p>
+  <p>Slandered by Gurazm, v, 78.</p>
+  <p>Recalled to court, v, 80 seq.</p>
+  <p>Sons of <ref>Asfandiyar</ref>, 157, v, 80, 81.</p>
+  <p>Resigns his host to Bahman, v, 82.</p>
+  <p>Arraigned by Gushtasp, v, 83.</p>
+  <pb n="209"/>
+  <p><term>Asfandiyar</term>, put in bonds, v, 84.</p>
+  <p>Sent to Gumbadan, v, 84.</p>
+  <p>Solaced by Bahman and others, v, 85.</p>
+  <p>Jamasp advises Gushtasp to release <ref>Asfandiyar</ref>, v, 97.</p>
+  <p>Hears of arrival of Jamasp, v, 98, 99.</p>
+  <p>Parley of <ref>Asfandiyar</ref> with Jamasp, v, 99 seq.</p>
+  <p>Eight and thirty brothers of <ref>Asfandiyar</ref>, v, 101, 103, 111, 160.</p>
+  <p>Bids Jamasp send for blacksmiths, v, 101.</p>
+  <p>Breaks his bonds himself, v, 102, 206.</p>
+  <p>Calls for his steed and arms, v, 102.</p>
+  <p>Sets off with Jamasp, Bahman, and Nush Azar, v, 103.</p>
+  <p>Vow of <ref>Asfandiyar</ref>, v, 103.</p>
+  <p>Laments over Farshidward, v, 104.</p>
+  <p>Prays that he may avenge Farshidward on Arjasp, v, 104.</p>
+  <p>Shrouds Farshidward, v, 105.</p>
+  <p>Sees and addresses the corpse of Gurazm, v, 105.</p>
+  <p>Passes the Turkman trenches and defeats the outposts, v, 106.</p>
+  <p>Interview of <ref>Asfandiyar</ref> with Gushtasp, v, 106.</p>
+  <p>Receives the promise of the crown and undertakes to deliver Gushtasp, v, 107.</p>
+  <p>Arrays and leads the host, v, 109.</p>
+  <p>Attacks the Turkman, v, 110.</p>
+  <p>Defeats Kuhram, v, 110.</p>
+  <p>Takes Gurgsar prisoner, v, 111.</p>
+  <p>Defeats Arjasp, v, 112, 206.</p>
+  <p>Grants quarter to the Turkman, v, 113.</p>
+  <p>Distributes the spoil, v, 114.</p>
+  <pb n="210"/>
+  <p><term>Asfandiyar</term>, undertakes to rescue his sisters from the Turkman, v, 115.</p>
+  <p>Prepares to invade Turan, v, 115.</p>
+  <p>Seven Stages (Haft Khwan) of <ref>Asfandiyar</ref>, ii, 29; v, 27, 118, 119, 121, 135, 162; viii, 171.</p>
+  <p>Story of <ref>Asfandiyar</ref>, 156, v, 116 seq.</p>
+  <p>Compared with Rustam’s, v, 117.</p>
+  <p>Rivalry in legend between Rustam and <ref>Asfandiyar</ref>, v, 116.</p>
+  <p>Quits Balkh and goes, with Gurgsar as guide, to Turan, v, 120.</p>
+  <p>Offers the kingdom of the Turkman to Gurgsar in return for faithful service, v, 120.</p>
+  <p>Questions Gurgsar, v, seq., 124, 125, 128, 131, 134, 139, 141.</p>
+  <p>During his adventures in the Seven Stages, leaves Bishutan in command, v, 122, 124, 126, 129, 132 note, 144.</p>
+  <p>Praised by Bishutan and the host, v, 123, 125, 131, 133.</p>
+  <p>Scythed chariot made by <ref>Asfandiyar</ref>, v, 126.</p>
+  <p>Revived by Bishtan after encountering the dragon, v, 127.</p>
+  <p>Song of <ref>Asfandiyar</ref>, v, 129.</p>
+  <p>Amulet given to <ref>Asfandiyar</ref> by Zardusht, v, 130.</p>
+  <p>Encourages the Iranians to persevere, v, 136.</p>
+  <p>Prays for deliverance from the snow, v, 138.</p>
+  <p>Leaves the baggage behind, v, 138.</p>
+  <p>Reproaches Gurgsar for giving false information, v, 139, 140.</p>
+  <p>Offers to make Gurgsar captain of the Brazen Hold if he will be a trusty guide, v, 140.</p>
+  <p>Guided by Gurgsar crosses ford with host, v, 140.</p>
+  <p>Cursed by Gurgsar, v, 141.</p>
+  <p>Slays Gurgsar, v, 141.</p>
+  <p>Surveys the Brazen Hold, v, 142.</p>
+  <p>Captures, questions, and slays two Turkman, v, 142.</p>
+  <p>Bishutan and <ref>Asfandiyar</ref>, consult, v, 143.</p>
+  <p>Stratagem of <ref>Asfandiyar</ref> to take the Brazen Hold, v, 116, 143.</p>
+  <p>Disguised as a merchant, interviews Arjasp, v, 145.</p>
+  <p>Assumes the name of Kharrad, v, 146.</p>
+  <p>Questioned by Arjasp, v, 146.</p>
+  <p>Trades as a merchant in the Brazen Hold, v, 147.</p>
+  <p>Meets his sisters, v, 147.</p>
+  <p>Gives a banquet to the Turkman chiefs, v, 149.</p>
+  <p>Surprises the Brazen Hold, v, 152 seq.</p>
+  <p>Provides for his sisters’ safety, v, 153.</p>
+  <p>Attacks the palace of Arjasp, v, 153.</p>
+  <p>Encounters Arjasp, v, 154.</p>
+  <p>Beheads Arjasp, v, 154.</p>
+  <p>Fires Arjasp’s palace, v, 154.</p>
+  <p>Carries off the women, v, 154.</p>
+  <p>Quits the Brazen Hold and leaves Sawa in charge, v, 154.</p>
+  <p>Joins Bishutan, v, 155.</p>
+  <p>Pursues Kuhram to the Brazen Hold, v, 156.</p>
+  <p>Encounters and takes Kuhram prisoner, v, 157.</p>
+  <p>Grants no quarter to the Turkman, v, 158.</p>
+  <p>Puts to death Andariman and Kuhram, v, 158.</p>
+  <p>Announces his victory to Gushtasp, v, 159.</p>
+  <p>Disposes of the spoil, v, 161.</p>
+  <pb n="211"/>
+  <p><term>Asfandiyar</term>, carries off his sisters, the womenfolk of Arjasp, and others from the Brazen Hold, v, 162.</p>
+  <p>Sets fire to, and dismantles, the Brazen Hold, v, 162.</p>
+  <p>Sends his sons homeward by different routes, v, 162.</p>
+  <p>Returns himself by the Seven Stages, v, 162.</p>
+  <p>Picks up his left baggage, v, 162.</p>
+  <p>Hunts while waiting for his sons, v, 162.</p>
+  <p>Rejoined by his sons, v, 163.</p>
+  <p>Welcome of <ref>Asfandiyar</ref> on his return to Iran, v, 163.</p>
+  <p>Banquets with Gushtasp, v, 164.</p>
+  <p>Fight of <ref>Asfandiyar</ref> with Rustam, Story of, 156.</p>
+  <p>Recited by Nadr, son of Harith, at Mecca, v, 166.</p>
+  <p>Complains to his mother of Gushtasp's treatment of him, v, 107.</p>
+  <p>Counselled by his mother, v, 108, 175.</p>
+  <p>Fate of <ref>Asfandiyar</ref> foretold by Jamasp, v, 109.</p>
+  <p>Recounts his deeds before Gushtasp, v, 170.</p>
+  <p>Promised the throne by Gushtasp when he has brought Rustam and his kin in bonds to court, v, 173, 174.</p>
+  <p>Meets with an ill omen on starting for Zabulistan, v, 177.</p>
+  <p>Consults with Bishutan, v, 178.</p>
+  <p>Sends Bahman on an embassy, v, 179 seq.</p>
+  <p>Message of <ref>Asfandiyar</ref> to Rustam, v, 179.</p>
+  <p>Receives Rustam’s answer from, and is wroth with, Bahman, v, 191.</p>
+  <p>Converses of Rustam with Bishutan, v, 192.</p>
+  <pb n="212"/>
+  <p><term>Asfandiyar</term>, goes attended to meet Rustam, v, 192.</p>
+  <p>Parleys with Rustam, v, 192 seq.</p>
+  <p>Declines Rustam's invitation to visit him, v, 193.</p>
+  <p>Invites Rustam to a feast, v, 195.</p>
+  <p>Repents of having invited Rustam, v, 196.</p>
+  <p>Counselled by Bishutan to keep on friendly terms with Rustam, v, 196, 217.</p>
+  <p>Does not summon Rustam to the feast, v, 197.</p>
+  <p>Wrangles with Rustam, v, 195 seq.</p>
+  <p>Does not assign Rustam his proper seat at the feast, v, 200.</p>
+  <p>Remonstrated with by Rustam, v, 200.</p>
+  <p>Bids Bahman resign his own seat to Rustam, v, 200.</p>
+  <p>Vilifies Zal and Rustam, v, 201.</p>
+  <p>Recounts his lineage, v, 205.</p>
+  <p>His exploits, v, 205.</p>
+  <p>His capture of a hill-fort, v, 200.</p>
+  <p>Tries a handgrip with Rustam, v, 205.</p>
+  <p>Challenges Rustam, v, 209.</p>
+  <p>Astonished at Rustam’s prowess at the board, v, 210.</p>
+  <p>Declines Rustam's overtures, v, 211 seq.</p>
+  <p>Calls Zabulistan "Babble-stead," v, 210.</p>
+  <p>Parodies Rustam's address to royal tent-enclosure, v, 216.</p>
+  <p>Arms for fight with Rustam, v, 223.</p>
+  <p>Refuses Rustam’s suggestion of a general engagement, v, 224.</p>
+  <p>Informed by Bahman of the slaying of Nush Azar and Mihr-i-Nush, v, 227.</p>
+  <p>Enraged with Rustam, v, 228.</p>
+  <p>Wounds Rustam and Rakhsh, v, 229.</p>
+  <p>Jeers at Rustam, v, 229.</p>
+  <p>Calls upon Rustam to surrender, v, 230.</p>
+  <p>Returns to camp, laments for Nush Azar and Mihr-i-Nush, and sends their corpses to Gushtasp with a message, v, 232.</p>
+  <p>Converses with Bishutan of the fight with Rustam, v, 232, 240.</p>
+  <p>Simurgh instructs Rustam how to overcome <ref>Asfandiyar</ref>, v, 237 seq.</p>
+  <p>Branch of tamarisk fatal to <ref>Asfandiyar</ref>, v, 239 and note.</p>
+  <p>Summoned by Rustam to fight and becomes despondent, v, 240.</p>
+  <p>Rustam’s final effort for peace with <ref>Asfandiyar</ref>, v, 241 seq.</p>
+  <p>Bahman and Bishutan hear of the overthrow of <ref>Asfandiyar</ref>, v, 244.</p>
+  <p>Address of <ref>Asfandiyar</ref> to Bishutan, v, 245.</p>
+  <p>Rustam bewails <ref>Asfandiyar</ref>, v, 246.</p>
+  <p>Confides Bahman to Rustam, v, 248.</p>
+  <p>Foretells evil for Rustam, v, 248.</p>
+  <p>Gives his last charge to Bishutan, v, 249.</p>
+  <p>Death of <ref>Asfandiyar</ref>, v, 250.</p>
+  <p>Rustam laments over <ref>Asfandiyar</ref>, v, 250.</p>
+  <p>Corpse of <ref>Asfandiyar</ref> sent to Gushtasp by Rustam, v, 251.</p>
+  <p>Funeral procession of <ref>Asfandiyar</ref>, conducted by Bishutan, v, 251.</p>
+  <p>Lamentations over <ref>Asfandiyar</ref>, v, 252 seq.</p>
+  <p>Corpse of <ref>Asfandiyar</ref> displayed by Bishutan, v, 253.</p>
+  <p>Rustam writes to Gushtasp to excuse himself in the matter of <ref>Asfandiyar</ref>, v, 250.</p>
+  <p>Xerxes and <ref>Asfandiyar</ref>, v, 282.</p>
+  <p>Bahman on the vengeance due for <ref>Asfandiyar</ref>, v, 283.</p>
+  <p>Referred to, v, 288.</p>
 
+  <p><term>Asfandiyar-nama</term> (Spand-dât-nama), v, 26, 27.</p>
+  <p><term>Ashemaogha</term>, vii, 188.</p>
+  <p><term>Ashi Vanguhi</term>, the genius of piety, iv, 137.</p>
+  <p><term>Ashk</term>, presumed founder of the Ashkanian (Parthian) dynasty, vi, 197, 210.</p>
+  <p>Meaning of <ref>Ashk</ref>, vi, 197.</p>
+  <p><term>Ashkabus</term>, Turanian hero, 148: iii, 183, 186, 207, 268.</p>
+  <p>Challenges the Iranians, iii, 179.</p>
+  <p>Ruhham worsted by <ref>Ashkabus</ref>, iii, 179.</p>
+  <p>Rustam’s fight with <ref>Ashkabus</ref>, iii, 109, 179 seq.</p>
+  <p>Referred to, viii, 75.</p>
+  <p>Parleys with Rustam, iii, 180.</p>
+  <p>Slain by Rustam, iii, 181.</p>
+  <p><term>Ashkanian</term>, <term>Ashkanians</term>, race and dynasty, i, 49; iii, 9, 11; v, 10, 282; vi, 196, 209; viii, 214.</p>
+  <p>Duration of rule, vi, 193.</p>
+  <p>Times, Firdausi’s lack of materials for, vi, 193.</p>
+  <p>Surviving traditions of <ref>Ashkanians</ref>, transferred to other dynasties, vi, 194.</p>
+  <p>Importance of <ref>Ashkanians</ref>, vi, 194.</p>
+  <p>Genealogy of <ref>Ashkanians</ref>, vi, 197.</p>
+  <p><term>Ashkash</term>, Iranian hero, iii, 33, 34, 89, 347, 350, 352; iv, 13, 57, 61, 65.</p>
+  <p>Rustam and <ref>Ashkash</ref> go to rescue Bizhan, iii, 334.</p>
+  <p>Conveys baggage toward Iran, iii, 346.</p>
+  <p>Kai Khusrau sends <ref>Ashkash</ref> to Kharazm, iv, 15.</p>
+  <p>Shida defeated by <ref>Ashkash</ref>, iv, 60, 72.</p>
+  <p>Troops of <ref>Ashkash</ref> recalled, iv, 145.</p>
+  <p>Sent with a host to Zam, iv, 157.</p>
+  <p>Pillage of Makran by <ref>Ashkash</ref>, stopped by Kai Khusrau, iv, 243.</p>
+  <pb n="213"/>
+  <p><term>Ashkash</term>, appointed governor of Makran, iv, 244.</p>
+  <p>Kai Khusrau welcomed by <ref>Ashkash</ref> on his return from Gangdizh, iv, 251.</p>
+  <p><term>Ashtad</term>, Iranian chief, ix, 11 seq.</p>
+  <p>Chosen to visit Khusrau Parwiz at Taisaftin, ix, 9.</p>
+  <p>And Kharrad parley with Galinush, ix, 11.</p>
+  <p>Visit Khusrau Parwiz, ix, 12.</p>
+  <p>Report to Shirwi, ix, 27.</p>
+  <p><term>Asia</term>, iv, 315, v, 293, viii, 187.</p>
+  <p>Minor, vi, 30; viii, 193, 194.</p>
+  <p>Central, vi, 73.</p>
+  <p><term>Asmodeus</term>, demon, iii, 272.</p>
+  <p><term>Asoka</term>, Indian king (B.C. 264-228-7), i, 15.</p>
+  <p><term>Asp</term>, as Persian termination, ii, 9.</p>
+  <p><term>Assurbanipal</term>, Assyrian king, and Khusrau Parwiz, reigns of compared, viii, 193.</p>
+  <p><term>Assyria</term>, v, 292.</p>
+  <p><term>Assyrians</term>, i, 10.</p>
+  <p>Invasions of Iran by <ref>Assyrians</ref>, i, 10.</p>
+  <p><term>Astawadh</term>. See Haftwad.</p>
+  <p><term>Astivihad</term>, demon, iv, 137.</p>
+  <p><term>Astrolabe</term>, i, 104, 188, 310 note; ii, 215, 273; iv, 158, 297; vi, 376; vii, 353; ix, 73.</p>
+  <p><term>Astrologer</term>, <term>Astrologers</term>, <term>Astrology</term>, i, 104, 188, 255, 310 and note; ii, 233, 284, 409; iv, 27, 158, 159, 279, 284, 334, 335; v, 48, 108 seq., 203; vi, 108, 109, 114, 132, 195, 198, 201, 218, 227, 377; ix, 73.</p>
+  <p>Importance of <ref>Astrology</ref> in Shahnama, i, 52.</p>
+  <p>Consulted by Faridun, i, 194; Minuchihr, i, 251, 307; Zal, i, 255; Sam, i, 278; Kai Kaus, ii, 103, 215, 217; Afrasiyab, ii, 273; iv, 158; Siyawush, ii, 282; Rustam, ii, 219; Kai Khusrau, iv, 158; Human, v, 310.</p>
+  <p>Consulted by Sikandar, vi, 180; Ardawan, vi, 218; Yazdagird, son of Shapur, vi, 375 seq., 390; Bahram Gur, vii, 144, 145; Khan of Chin, vii, 353; Talhand, vii, 408, 413, 418; Khusrau Parwiz, viii, 372.</p>
+  <p><term>Astyages</term> (Istuvegu), king of the Medes (Manda q.v., B.C. 584-550) conquered by Cyrus, i, 18; vi, 194.</p>
+  <p>Identified by Armenian historians with Zahhak, i, 72, 144.</p>
+  <p>Mandane and <ref>Astyages</ref>, legend of, ii, 190.</p>
+  <p>Afrasiyab and <ref>Astyages</ref>, in legend, ii, 191.</p>
+  <p><term>Asura</term>. See Ahura.</p>
+  <p><term>Atbara</term>, tributary of the Nile, vi, 65.</p>
+  <p><term>Athenaeus</term>, Greek writer (2nd-3rd centuries A.D.), iv, 316.</p>
+  <p>Deipnosophistae of <ref>Athenaeus</ref>, ii, 10.</p>
+  <p>Quoted, iv, 314.</p>
+  <p><term>Athens</term>, schools of, closed by Justinian, vii, 280.</p>
+  <p><term>Athravans</term>, priests of the Cult of Fire, i, 56.</p>
+  <p><term>Athwya</term>. See Abtin.</p>
+  <p><term>Atkinson, James</term>, on the Shahnama, vi, 250.</p>
+  <p><term>Atossa</term>, wife of Cambyses and Darius Hystaspis, v, 11.</p>
+  <p>=Hutaosa, wife of Gushtasp (?), v, 11.</p>
+  <p><term>Atropatene</term> (Azerbaijan q.v.), i, 9, 61.</p>
+  <p>Primitive seat of fire-worship, i, 56.</p>
+  <p>Sub-kingdom in Parthian times, vi, 198.</p>
+  <p><term>Attock</term>, town on the Indus in northern India, vi, 52.</p>
+  <p><term>Aurand</term>, father of Shah Luhrasp, v, 205.</p>
+  <p><term>Aurval-aspa</term> (Luhrasp q.v.), iv, 316; v, 11.</p>
+  <p><term>Autumnal equinox</term>, iv, 313. Kai Luhrasp crowned at <ref>Autumnal equinox</ref>, iv, 313.</p>
+  <p><term>Avars</term>, Caucasian tribe, viii, 194.</p>
+  <p><term>Avasta</term>. See Zandavasta.</p>
+  <p><term>Avidius Cassius</term>, Roman general, vi, 291 note.</p>
+  <p><term>Awa</term>, Iranian hero, iv, 149.</p>
+  <p><term>Awaza</term>, stronghold, 170, viii, 134, 138.</p>
+  <p><term>Axumite</term>, Ethiopian, dynasty, viii, 24 note.</p>
+  <p><term>Ayas</term>, region, v, 61, 74, 107.</p>
+  <p><term>Ayin Gashasp</term> (Yazdanbakhsh), Iranian noble, 171, viii, 75, 150 note, 222.</p>
+  <p>Hurmuzd consults <ref>Ayin Gashasp</ref>, viii, 174, 177.</p>
+  <p>And the prisoner, story of <ref>Ayin Gashasp</ref>, viii, 177 seq.</p>
+  <p>Marches to Hamadan, viii, 178.</p>
+  <p>Consults a seer, viii, 178.</p>
+  <p>Murdered, viii, 181.</p>
+  <p>Avenged by Bahram Chubina, viii, 181.</p>
+  <p>Troops of <ref>Ayin Gashasp</ref>, disperse, viii, 181.</p>
+  <p><term>Azad Sarv</term>, Firdausi’s authority for the Story of Rustam and Shaghad, v, 260 seq.</p>
+  <p><term>Azad Sarv</term>, archmage and agent of Nushirwan, v, 261, vii, 283 and note.</p>
+  <p>Goes to Marv, vii, 283.</p>
+  <p>Discovers Buzurjmihr, vii, 293.</p>
+  <p>Returns with Buzurjmihr to Court, vii, 283.</p>
+  <p><term>Azada</term>, Roman slave-girl, vi, 382.</p>
+  <p>Goes hunting with Bahram Gur, vi, 382.</p>
+  <p>Tries to shame Bahram Gur in his marksmanship, vi, 383.</p>
+  <p>Slain by Bahram Gur, vi, 384 and note.</p>
+  <p><term>Azar</term> (Azerbaijan q.v.), ii, 195.</p>
+  <p><term>Azar</term>, genius, iii, 287, 328.</p>
+  <p><term>Azar</term> (Adar), month and day, i, 88, 89; vi, 411; viii, 244, 421; ix, 17.</p>
+  <p><term>Azar Abadagan</term> (Azarakhsh, Azargashasp q.v.), Fire-temple at Shiz (Takht-i-Sulaiman) near the southeastern border of Azerbaijan, not at Tabriz with which the place has been wrongly identified (NT, Pp. 100, note), 172, iv, 259; vii, 86, 224, 362; viii, 282; ix, 74.</p>
+  <p>Importance of <ref>Azar Abadagan</ref>, i, 61.</p>
+  <p>Visited by Kai Khusrau, iii, 20.</p>
+  <p>Kai Khusrau and Kai Kaus go on a pilgrimage to <ref>Azar Abadagan</ref>, iv, 258.</p>
+  <p>Khatun, wife of Khan, sent to serve at <ref>Azar Abadagan</ref>, vii, 5.</p>
+  <p>Bahram Gur visits <ref>Azar Abadagan</ref>, vii, 86, 94.</p>
+  <p>Nushirwan visits <ref>Azar Abadagan</ref>, vii, 250, 363.</p>
+  <p><term>Azar Afriz</term>, third son of Asfandiyar, v, 81.</p>
+  <p><term>Azarakhsh</term> (Azargashasp, Azar Abadagan q.v.), Fire-temple, i, 61. Importance of <ref>Azarakhsh</ref>, i, 61.</p>
+  <p><term>Azarbaijan</term> (Atropatene q.v.), province in northwestern Persia, i, 9, 61; ii, 336; iv, 136; v, 16; vi, 198, 203; vii, 160, 214. Meaning of <ref>Azarbaijan</ref>, i, 56.</p>
+  <p><term>Azargashasp</term>, spirit of the lightning, i, 73, 248, 309, 349; ii, 57, 294, 345; iii, 23, 53, 72, 92, 97, 114, 194, 276, 327; iv, 84, 100, 147, 175, 275, 307, 300; vi, 381; vii, 21, 79, 232; viii, 46, 122, 152, 176, 245, 256, 415.</p>
+  <p>Temple of <ref>Azargashasp</ref> (Azar Abadagan q.v.), iv, 136, 258, 259; vii, 89, 250, 317, 365; viii, 08, 184, 210 and note. Visited by Kai Khusrau, iii, 20.</p>
+  <pb n="215"/>
+  <p><term>Azargashasp</term>, temple of. Kai Khusrau and Kai Kaus go on a pilgrimage to, iv, 258.</p>
+  <p>Referred to, iv, 264. =Gushasp q.v., vi, 212 and note.</p>
+  <p>Bahram Gur visits <ref>Azargashasp</ref>, vii, 86, 139.</p>
+  <p>High priest of <ref>Azargashasp</ref> converts Sapinud to Zoroastrianism, vii, 139.</p>
+  <p>Nushirwan visits <ref>Azargashasp</ref>, vii, 250, 363.</p>
+  <p>Khusrau Parwiz visits, viii, 283, 307, 312. Azargashasp, viii, 296.</p>
+  <p><term>Azar Makan</term>, father of Farrukhzad, viii, 408.</p>
+  <p><term>Azarmdukht</term>, Shah, 175, v, 294; ix, 56, 59, 69.</p>
+  <p>Reproaches Kubdad, ix, 7. End of <ref>Azarmdukht</ref>, ix, 59, 60.</p>
+  <p><term>Azarnarsi</term>, son of Hurmuzd son of Narsi, vi, 318.</p>
+  <p><term>Azdites</term>, Arab tribe, i, 11.</p>
+  <p><term>Azhi</term>, Azi (Dahaka, Zahhak q.v.), i, 142; ii, 81.</p>
+  <p><term>BABAK</term>, Tribal King. See Papak.</p>
+  <p><term>Babak</term>, muster-master of Nushirwan.</p>
+  <p>Bidden to enrol the host, vii, 230.</p>
+  <p>Insists on Nushirwan’s attendance for enrolment, vii, 231.</p>
+  <p>Asks pardon of the Shah, vii, 232.</p>
+  <p><term>Babar</term>, founder of the Mogul dynasty in India.</p>
+  <p>Resolutions of, as to wine-drinking, vii, 75 note.</p>
+  <p><term>Babblestead</term>, nonce name given by Asfandiyar to Zabulistan, v, 216.</p>
+  <p><term>Babr-i-Bayan</term>, a surcoat of leopard or tiger skin worn by Rustam in battle, ii, 184, 186.</p>
+  <p>Referred to, iii, 278.</p>
+  <p><term>Babylon</term> (Babil, gate of the god), city on the left bank of the Euphrates, now represented by the modern Hillah on the right bank, ii, 80; iii, 286; vi, 17, 31, 81, 83; viii, 194, 249; ix, 65, 92.</p>
+  <p>Hanging gardens of, v, 293.</p>
+  <p>Sikandar marches toward, vi, 176, 178.</p>
+  <p>Prodigious birth at, vi, 81, 180.</p>
+  <p>Sikandar sickens at, vi, 181.</p>
+  <p>Dies at, vi, 81, 183.</p>
+  <p>Zahhak king of, ix, 65.</p>
+  <p><term>Babylonia</term>, ii, 80, 81.</p>
+  <p><term>Babylonian</term>, vi, 254.</p>
+  <p>Script, vi, 320.</p>
+  <p><term>Bacchus</term>, Saint and Martyr, viii, 188.</p>
+  <p><term>Bactria</term>, region between the Hindu Kush and the Oxus, vi, 32, 198.</p>
+  <p>Bactrian plains, iii, 10.</p>
+  <p>Camels, viii, 47; ix, 93.</p>
+  <p><term>Badakshan</term>, region south of the Upper Oxus and east of Balkh, famous for its rubies, iv, 65, 192.</p>
+  <p>Signet-ring of, i, 300.</p>
+  <p>Gem of, vi, 382 and note.</p>
+  <p><term>Badan-Piruz</term> (Shahram - Piruz, Ardabil q.v.), city built by Shah Piruz in Azerbaijan, 266, vii, 160, 163.</p>
+  <p><term>Badar</term>, Badr, battle of, ii, 337 note, v, 166.</p>
+  <p><term>Bad Awar</term>, treasure viii, 406, and note, ix, 20.</p>
+  <p><term>Baeton</term>, Greek writer, temp. Alexander the Great, vi, 12.</p>
+  <p><term>Baghdad</term>, city on the Tigris, founded by the ’Abbasid Khalifa Al Mansur as his capital in A.D. 762 on the site of an old Babylonian city (Baghdadu), i, 14, 160; iii, 35; iv, 147, 250; v, 28; vi, 254, 290, 322, 327; vii, 83 and note; viii, 109 note, 112, 174, 193, 203, 393; ix, 68.</p>
+  <p>Ardshir Papakan enthroned at, vi, 258.</p>
+  <p>Yazdagird quits, ix, 88.</p>
+  <p>Persian settlement of, ix, 67.</p>
+  <p>Raided by Arabs, ix, 67.</p>
+  <p><term>Bagiz</term>, vi, 32.</p>
+  <p><term>Bagoas</term>, vi, 29.</p>
+  <p><term>Bahar</term>, district in Turkistan where Siyawushgird was built, ii, 286.</p>
+  <p><term>Bahman</term> (Vohu Manau), ameshaspenta, iii, 286, 327; v, 16; vi, 362 and note.</p>
+  <p>Yasht, Pahlavi Text, vii, 188.</p>
+  <p>Month and day, iv, 81 note, v, 310; vii, 31 and note.</p>
 
+</div>
 
-        <p><term>Afrasiyab</term>, sends Garsiwaz to summon Siyawush and Farangis to court, ii, 300 seq.</p>
-        <p>Attacks, takes, and has Siyawush executed, ii, 314 seq.</p>
-        <p>Appealed to by Farangis, ii, 317.</p>
-        <p>Ill-treatment of Farangis by, ii, 320, 322.</p>
-        <p>Referred to, iv, 204.</p>
-        <p>Appeal of Piran to, ii, 324.</p>
-        <p>Referred to, iv, 205.</p>
-        <p>Spares Farangis, ii, 325, and her son Kai Khusrau, ii, 327.</p>
-        <p>Interview of, with Kai Khusrau, ii, 332.</p>
-        <p>Referred to, iv, 205.</p>
-        <p>Sends Surkha against the Iranians, ii, 344.</p>
-        <p>Marches to avenge Surkha, ii, 348.</p>
-        <p>Fights with Tus, ii, 353.</p>
-        <p>Rescue of, from Rustam by Human, ii, 354.</p>
-        <p>Crosses the sea of Chin, ii, 356.</p>
-        <p>Consults Piran about Kai Khusrau, ii, 356.</p>
-        <p>Returns, ii, 362.</p>
-        <p>Vengeance of, on Iran, ii, 363.</p>
-        <p>Pursues Kai Khusrau, ii, 388 seq.</p>
-        <p>Disgraces Piran, ii, 390.</p>
-        <p>Turns back at the Jihun, ii, 394.</p>
-        <p>Kai Khusrau’s oath to take vengeance on, iii, 21.</p>
-        <p>Hears of the approach of the Iranian host, iii, 71.</p>
-        <p>Bids Piran gather troops, iii, 71, 79.</p>
-        <p>Numbers the host, iii, 79.</p>
-        <p>Loss of kindred of, in battle, iii, 94.</p>
-        <p>Rewards Piran, iii, 106.</p>
-        <p>Reinforces Piran, iii, 118.</p>
-        <pb n="194"/>
-        <p>Announces to host, iii, 242.</p>
-        <p>Exhorted by his host to continue the war, iii, 243, 249.</p>
-        <p>Makes his preparations, iii, 243, 250.</p>
-        <p>Sends Farghar to spy on Rustam, iii, 250.</p>
-        <p>Consults with Shida, iii, 250.</p>
-        <p>Describes Rustam, iii, 251.</p>
-        <p>Receives Farghar’s report, iii, 253.</p>
-        <p>Consults with Piran, iii, 253.</p>
-        <p>Bids Piran continue the war, iii, 254.</p>
-        <p>Sends Shida to summon Puladwand, iii, 255.</p>
-        <p>Consults Puladwand, iii, 256.</p>
-        <p>Interferes in the fight between Rustam and Puladwand, iii, 263.</p>
-        <p>Withdraws to Chin and Machin, iii, 265.</p>
-        <p>Goes in pursuit of Rustam and is defeated, iii, 280.</p>
-        <p>Hears of the case of Bizhan and Manizha, iii, 301.</p>
-        <p>Consults Kurakhan, iii, 301.</p>
-        <p>Sends Garsiwaz to search Manizha’s palace, iii, 301.</p>
-        <p>Sentences Bizhan to death, iii, 304.</p>
-        <p>Respites Bizhan, iii, 308.</p>
-        <p>Imprisons Bizhan, iii, 309.</p>
-        <p>Disgraces Manizha, iii, 309.</p>
-        <p>Escapes from Rustam, iii, 348.</p>
-        <p>Bids Piran prepare for war, iii, 349.</p>
-        <p>Arrays the host against Rustam, iii, 350.</p>
-        <p>Flees from Rustam, iii, 352.</p>
-        <p>Goes to Khallukh, iv, 10.</p>
-        <p>Addresses his nobles, iv, 10.</p>
+</div>
+<div><head>B</head>
 
+</div>
+</div>
+  </body></text>
 
-
-
-
-
-
-        <p><term>Afrasiyab</term> sends Shida to Kharazm, iv, 11.</p>
-        <p><term>Piran</term> against Iran, iv, 11. Afrasiyab reinforces and bids him break off negotiations with Giv, iv, 20.</p>
-        <p>Afrasiyab receives tidings from Piran, iv, 77.</p>
-        <p>King of Gang, iv, 134.</p>
-        <p>Kai Khusrau’s great war with Afrasiyab, iv, 135 seq.</p>
-        <p>Encamped at Baigand (Kunduz), iv, 151.</p>
-        <p>Hears ill tidings of Piran and of the host, iv, 151.</p>
-        <p>Distress of Afrasiyab, iv, 152.</p>
-        <p>Swears to be avenged on Kai Khusrau, iv, 152.</p>
-        <p>Hears of the advance of Kai Khusrau, iv, 153.</p>
-        <p>Harangues and equips his host, iv, 153.</p>
-        <p>Patrols the Jihun with boats, iv, 153.</p>
-        <p>Holds a council, summons Kurakhan, and crosses the Jihun, iv, 154.</p>
-        <p>Sends Kurekhan with half the host to Bukhara, iv, 154.</p>
-        <p>Marches to Amul, iv, 154.</p>
-        <p>Encamps in Gilan, iv, 155.</p>
-        <p>Arrays his host, iv, 155.</p>
-        <p>Takes his post at the centre, iv, 155.</p>
-        <p>Gives Shida command of the left wing, iv, 155.</p>
-        <p>Sends Jahn to guard Shida’s rear, iv, 155.</p>
-        <p>Gives a grandson command of the right wing, iv, 156.</p>
-        <p>Commands to Gurdgir, Nastuh, Ighriras, and Garsiwaz, iv, 156.</p>
-        <p>Proposes to invade Nimruz, iv, 156.</p>
-        <p>Reviews the host and prepares to encounter Kai Khusrau, iv, 158.</p>
-        <p>Urged by Shida not to delay the attack, iv, 159.</p>
-        <p>Reply of Afrasiyab, iv, 160.</p>
-        <p>Wishes to meet Kai Khusrau in single combat, iv, 161.</p>
-        <p>Sends Shida on an embassage to Kai Khusrau, iv, 161.</p>
-        <pb n="195"/>
-        <p>Hears of Shida’s death, iv, 176.</p>
-        <p>Grief of Afrasiyab, iv, 176.</p>
-        <p>Commands in person against Kai Khusrau, iv, 179.</p>
-        <p>Sends Jahn to the left, iv, 180.</p>
-        <p>Reinforced by Garsiwaz, iv, 181.</p>
-        <p>Forced by Garsiwaz and Jahn to quit the field, iv, 182.</p>
-        <p>Returns to camp, iv, 183.</p>
-        <p>Abandons his camp and recrosses the Jihun, iv, 184.</p>
-        <p>Joins forces with Kurakhan, iv, 186.</p>
-        <p>Stays at Bukhara, iv, 186.</p>
-        <p>Withdraws to Gang-bihisht, iv, 187.</p>
-        <p>Reinforced by Kakula, iv, 188.</p>
-        <p>Sends troops to Chach, iv, 188.</p>
-        <p>Under Tawurg desertward, iv, 188.</p>
-        <p>Marches to meet Kai Khusrau, iv, 190 and return, iv, 193.</p>
-        <p>Hears that Rustam is advancing, iv, 194.</p>
-        <p>Fails in attempt to surprise Rustam and withdraws to Gang-bihisht, iv, 194 seq.</p>
-        <p>Asks aid from the Faghfur, iv, 196.</p>
-        <p>Prepares Gang-bihisht for a siege, iv, 197.</p>
-        <p>Besieged in Gang-bihisht, iv, 198, 208 seq.</p>
-        <p>Offers terms of peace to Kai Khusrau, iv, 203.</p>
-        <p>Rallies his troops at the storming of Gang-bihisht, iv, 209.</p>
-        <p>Escapes, iv, 211.</p>
-        <p>Gets possession of the treasures of Piran, iv, 210.</p>
-        <p>Arrays his host to fight with Kai Khusrau, iv, 220.</p>
-        <p>Offers Kai Khusrau peace or single combat, iv, 221.</p>
-        <p>Fights a general engagement against Kai Khusrau, iv, 223, 226.</p>
-        <p>Defeated and escapes by flight, iv, 227.</p>
-        <p>Army of, surrenders to Kai Khusrau, iv, 228.</p>
-        <p>Takes refuge at Gang-dizh, iv, 230.</p>
-        <p>Captive kindred of, sent to Kai Kaus by Kai Khusrau, iv, 232.</p>
-        <p>Kai Kaus on Afrasiyab, iv, 237.</p>
-        <p>Khusrau's inquiries concerning Afrasiyab, iv, 247.</p>
-        <p>Hears of Kai Khusrau’s approach and quits Gang-dizh, iv, 248.</p>
-        <p>Searched for by Kai Khusrau, iv, 248.</p>
-        <p>Fears of the Iranians concerning Afrasiyab, iv, 249.</p>
-        <p>Kai Khusrau takes counsel with Kai Kaus about Afrasiyab, iv, 258.</p>
-        <p>Commands the centre, iv, 190.</p>
-        <p>Hears of Kurakhan’s defeat, wanderings and wretched plight of Afrasiyab, iv, 259.</p>
-        <p>Takes refuge in a cave near Barda’, iv, 259.</p>
-        <p>Lament of Afrasiyab, overheard by Hum, iv, 260.</p>
-        <p>Capture of Afrasiyab, by Hum, iv, 261.</p>
-        <p>Darmesteter on Afrasiyab, iv, 136.</p>
-        <p>Pitied and unbound by Hum, iv, 262.</p>
-        <p>Escapes into lake Urumiah, iv, 262 and note.</p>
-        <p>Attracted by the voice of Garsiwaz, iv, 265.</p>
-        <p>Holds converse with Garsiwaz, iv, 266.</p>
-        <p>Recapture of Afrasiyab, by Hum, iv, 266.</p>
-        <p>Slain by Kai Khusrau, iv, 268.</p>
-      </div>
-    </body>
-  </text>
-</TEI>
+  </TEI>
