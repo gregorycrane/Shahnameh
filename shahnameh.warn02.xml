@@ -76,14 +76,14 @@
     <text>
  <body>
 
-<div type="textpart" subtype="shah11" n="Kaikubad"><head><persName>Kai Kubad</persName> (cont.)</head>
-<div type="textpart" subtype="part" n="11"><head>XI: <persName>Kai Kubad</persName>: he reigned one hundred years</head>
+<div type="textpart" subtype="reign" n="11"><head>XI. <persName>Kai Kubad</persName>: he reigned one hundred years</head>
+
 <pb n="11"/>
 <div type="textpart" n="argument"><head>Argument</head>
 
 <p><persName>Kai Kubad</persName> ascends the throne, and defeats the <rs type="ethnic">Turanians</rs>. <persName>Rustam</persName> in this his first campaign greatly distinguishes himself, and nearly takes <persName>Afrasiyab</persName> prisoner. <persName>Pashang</persName>, the father of <persName>Afrasiyab</persName> and ruler of <placeName>Turan</placeName>, sues for peace and terms are arranged. <persName>Kai Kubad</persName> rewards <persName>Zal</persName>, <persName>Rustam</persName>, and others for their services, and makes <placeName>Istakhr</placeName> his capital. At the end of a long and glorious reign he dies after appointing his son <persName>Kai Kaus</persName> as his successor.</p>
-
 </div>
+
 <div type="textpart" n="intro"><head>Note</head>
 
 <p><persName>Kai Kubad</persName> is mentioned at least twice in the Zandavasta, where he appears under the name of Kavata, or Kavi Kavata, and the name of his son <persName>Kai Kaus</persName> appears both there and in the Vedas, We have no accounts of <persName>Kai Kubad</persName>’s ancestry in the poem beyond the vague statement that he was descended from <persName>Faridun</persName>.<ref target="n.11.1"/> He is described indeed as being brought by <persName>Rustam</persName> from Mount <placeName>Alburz</placeName>—the great mythical range which was supposed to encircle the earth. According to the Bundahish, <persName>Kai Kubad</persName>, like <persName>Darab</persName> after him, was exposed at birth and was found and adopted by <persName>Zav</persName>, the son of <persName>Tahmasp</persName>, the ninth Shah.<ref target="n.11.2"/> The same authority describes him as reigning for fifteen years.<ref target="n.11.3"/></p>
@@ -770,11 +770,12 @@
 </div>
 </div>
 <pb n="25"/>
-<div type="textpart" n="XII"><head>XII: <persName>Kai Kaus</persName>: he reigned one hundred and fifty years</head>
+<div type="textpart" subtype="reign" n="12"><head>XII. <persName>Kai Kaus</persName>: he reigned one hundred and fifty years</head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" n="argument">
+    <head>Argument</head>
 
-<p><persName>Kai Kaus</persName> on ascending the throne abandons the path of wisdom. He invades <placeName>Mazandaran</placeName> and is taken prisoner, but is rescued by <persName>Rustam</persName>. He wars against the king of <placeName>Hamavaran</placeName>, whose daughter he marries, and is taken prisoner again, this time by treachery. <persName>Rustam</persName> again rescues him. Afterward he attempts to fly to heaven, and is a third time saved by <persName>Rustam</persName>. The poet then tells two episodic stories, that of the Seven Warriors, and that of <persName>Suhrab</persName>, in both of which <persName>Rustam</persName> takes a leading part. We next learn what evil came of the marriage of <persName>Kai Kaus</persName> with the daughter of the king of <placeName>Hamavaran</placeName> as exemplified in the tragic tale of <persName>Siyawush</persName>. The poet then tells how <persName>Rustam</persName> took vengeance on <persName>Afrasiyab</persName> for the execution of <persName>Siyawush</persName>, how <persName>Giv</persName> went to <placeName>Turan</placeName> in quest of <persName>Kai Khusrau</persName>, the son of <persName>Siyawush</persName>, and how <persName>Kai Khusrau</persName> became joint Shah with <persName>Kai Kaus</persName>.</p>
+<p><persName>Kai Kaus</persName> on ascending the throne abandons the path of wisdom. He invades <placeName>Mazandaran</placeName> and is taken prisoner, but is rescued by <persName>Rustam</persName>. He wars against the king of <placeName>Hamavaran</placeName>, whose daughter he marries, and is taken prisoner again, this time by treachery. <persName>Rustam</persName> again rescues him. Afterward he attempts to fly to heaven, and is a third time saved by <persName>Rustam</persName>. The poet then tells two episodic stories, that of the Seven Warriors, and that of <persName>Suhrab</persName>, in both of which <persName>Rustam</persName> takes a leading part. We next learn what evil came of the marriage of <persName>Kai Kaus</persName> with the daughter of the king of <placeName>Hamavaran</placeName> as exemplified in the tragic tale of <persName>Siyawush</persName>. The poet then tells how <persName>Rustam</persName> took vengeance on <persName>Afrasiyab</persName> for the execution of <persName>Siyawush</persName>, how <persName>Giv</persName> went to <placeName>Turan</placeName> in quest of <persName>Kai Khusrau</persName>, the son of <persName>Siyawush</persName>, and how <persName>Kai Khusrau</persName> became joint Shah with <persName>Kai Kaus</persName>.</p></div>
 
 <div type="textpart" n="intro"><head>Note</head>
 
@@ -807,10 +808,9 @@ reference to his attempt to fly to heaven the remainder of his legend is lost so
 
 
 </div>
-</div>
-</div>
-</div>
-<div type="textpart" n="Kaikaus"><head><persName>Kai Kaus</persName></head>
+
+
+
 <pb n="27"/>
 
  <div type="textpart" subtype="part" n="1"><head>Part I: the war with <placeName>Mazandaran</placeName>.</head>
@@ -9413,7 +9413,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </div>
 <pb n="188"/>
 
-<div type="textpart" n="16siavosh"><head>Part IV: the story of <persName>Siyawush</persName></head>
+<div type="textpart" subtype="part" n="4"><head>Part IV: the story of <persName>Siyawush</persName></head>
 
 <div type="textpart" n="argument"><head>Argument</head>
 

@@ -630,7 +630,7 @@ Accordingly <persName>Gaiumart</persName>, the first <rs type="role">Shah</rs> i
 <note n="1">DZA, ii. 200.</note>
 </p>
 <pb n="117"/>
-<div type="textpart"  subtype="shah" n="1"><head>I. GAIUMART:  HE REIGNED FOR THIRTY YEARS</head>
+<div type="textpart"  subtype="reign" n="1"><head>I. GAIUMART:  HE REIGNED FOR THIRTY YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><persName>Gaiumart</persName>, the first <rs type="role">Shah</rs> and the first ruler of the world, incurs the envy of <rs type="divinity">Ahriman</rs>, who sends a host of divs to attack him, commanded by <rs type="divinity">the Black Div</rs>—the son of <rs type="divinity">Ahriman</rs>. <persName>Siyamak</persName>, the son of <persName>Gaiumart</persName>, with an army encounters <rs type="divinity">the Black Div</rs> and is slain, but is avenged by his son <persName>Hushang</persName>, who succeeds to the throne on the death of his grandfather.</p>
 </div>
@@ -763,9 +763,9 @@ The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</r
 <lb/>Is this world: good and ill abide with none.
 </p></div></div>
 <pb n="122"/>
-<div type="textpart"  subtype="shah" n="2"><head>II. HUSHANG: HE REIGNED FORTY YEARS</head>
+<div type="textpart"  subtype="reign" n="2"><head>II. HUSHANG: HE REIGNED FORTY YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
-<p><lb/><persName>Hushang</persName> succeeds bis grandfather Gaiiumart as <rs type="role">Shah</rs>. He is a great culture-hero, and invents the arts of working in metals, irrigation, agriculture, etc. He introduces the use of domestic animals and discovers fire. He institutes its worship, and founds the feast of Sada.</p>
+<p><lb/><persName>Hushang</persName> succeeds bis grandfather <persName>Gaiumart</persName> as <rs type="role">Shah</rs>. He is a great culture-hero, and invents the arts of working in metals, irrigation, agriculture, etc. He introduces the use of domestic animals and discovers fire. He institutes its worship, and founds the feast of Sada.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
 <p><persName>Hushang</persName>—the Haoshyangha of the <rs type="title">Zandavasta</rs>—is, according to the older authorities, the first <rs type="role">Shah</rs> of the Pishdadian dynasty, and the grandson, not the son, of <persName>Siyamak</persName>. <persName>Siyamak</persName> and his wife Nashak produced a pair named Fravak and Fravakain, who produced in their turn fifteen pairs. Of these, nine pairs proceeded on the back of the ox Sarsaok through the ocean—the chain of rivers, lakes, seas, and gulfs surrounding the central clime in the old cosmogony—to the other six climes and stayed there, while the other six pairs, of whom <persName>Hushang</persName> and his wife
@@ -841,7 +841,7 @@ Guzhak were one, remained to people the central clime within which <placeName>Ir
 </div>
 </div>
 <pb n="125"/>
-<div type="textpart"  subtype="shah" n="3"><head>III. TAHMURAS: TAHMURAS, THE BINDER OF THE DIV, REIGNED THIRTY YEARS</head>
+<div type="textpart"  subtype="reign" n="3"><head>III. TAHMURAS: TAHMURAS, THE BINDER OF THE DIV, REIGNED THIRTY YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/><persName>Tahmuras</persName>, the son of <persName>Hushang</persName>, continues his father's work as a eulture-hero, in the domestication of animals, the invention of weaving, etc., conquers and enslaves <rs type="divinity">Ahriman</rs>, and defeats the divs, whose lives he spares on condition that they shall teach him the art of writing.
 </p>
@@ -933,7 +933,7 @@ The reader will note the reappearance of <rs type="divinity">the Black Div</rs> 
 </div>
 </div>
 <pb n="129"/>
-<div type="textpart"  subtype="shah" n="4"><head>IV. JAMSHID: HE REIGNED SEVEN HUNDRED YEARS.</head>
+<div type="textpart"  subtype="reign" n="4"><head>IV. JAMSHID: HE REIGNED SEVEN HUNDRED YEARS.</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/><persName>Jamshid</persName> succeeds his father <persName>Tahmuras</persName> as <rs type="role">Shah</rs>, and becomes the greatest and most famous of the culture-heroes. He continues the work of his predecessors, makes additions of his own, and introduces the luxuries and refinements of life. He divides mankind into four castes or classes. He travels over the world, and is the first to cross the sea in ships. He aspires to the dominion of the air, obtains it, and lives in ever closer communion with God.
 <lb/><rs type="divinity">Ahriman</rs> is rendered powerless for ill, disease and death cease, and the world passes through the Golden Age. At length, spoiled by success, <persName>Jamshid</persName> comes to think himself God, and orders that divine honours shall be paid to himself alone. The <rs type="ethnic">Grace</rs> of God abandons him. <rs type="divinity">Ahriman</rs> is unchained and incites <persName>Zahhak</persName>, who has become his instrument, to make war on <persName>Jamshid</persName>, and the latter is slain.</p>
@@ -1305,7 +1305,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 </div>
 </div>
 <pb n="141"/>
-<div type="textpart"  subtype="shah" n="5"><head>V. ZAHHAK: HE REIGNED A THOUSAND YEARS</head>
+<div type="textpart"  subtype="reign" n="5"><head>V. ZAHHAK: HE REIGNED A THOUSAND YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/>With the accession of <persName>Zahhak</persName> evil becomes triumphant everywhere. He practises and encourages black arts, idolatry, and human sacrifice. He has a warning dream concerning his destined conqueror <persName>Faridun</persName>, whom he strives in vain to capture. At length the people, driven to exasperation by <persName>Zahhak</persName>, revolt to <persName>Faridun</persName> at the instigation of <persName>Kawa</persName> the smith. <persName>Faridun</persName> and <persName>Zahhak</persName> meet, and the latter is taken prisoner.</p>
 </div>
@@ -2266,7 +2266,7 @@ o'er that bright city rose a cloud of dust
 </div>
 </div>
 <pb n="171"/>
-<div type="textpart"  subtype="shah" n="6"><head>VI. FARIDUN: HIS REIGN WAS FIVE HUNDRED YEARS</head>
+<div type="textpart"  subtype="reign" n="6"><head>VI. FARIDUN: HIS REIGN WAS FIVE HUNDRED YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/><persName>Faridun</persName>, when firmly established on the throne, marries his three so to the three daughters of <persName>Sarv</persName>, king of <placeName>Yaman</placeName>,and subsequently
 dividing the earth into three parts gives one to each of his sons.
@@ -4465,7 +4465,7 @@ o'er hill and plain ?</q></p>
 </div>
 </div>
 <pb n="234"/>
-<div type="textpart"  subtype="shah" n="7"><head>VII. MINUCHIHR: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
+<div type="textpart"  subtype="reign" n="7"><head>VII. MINUCHIHR: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/>After describing the accession of <persName>Minuchihr</persName>, the poet proceeds to tell the story of <persName>Zal</persName>, the son of <persName>Sam</persName>, how, being born with white hair, he was in consequence exposed by his father on Mount
 <lb/><placeName>Alburz</placeName>, how he was found and brought up by the <rs type="title">Simurgh</rs>, how in after years he and his father became reconciled, and how he rose to greatness. The poet also tells of the loves of <persName>Zal</persName> and
@@ -8051,7 +8051,7 @@ where'er his charger's coat shall run with sweat
 </div>
 </div>
 <pb n="337"/>
-<div type="textpart"  subtype="shah" n="8"><head>VIII. NAUDAR: HE REIGNED FOR SEVEN YEARS</head>
+<div type="textpart"  subtype="reign" n="8"><head>VIII. NAUDAR: HE REIGNED FOR SEVEN YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/><persName>Naudar</persName> rules oppressively and the people revolt, but <persName>Sam</persName> succeeds in restoring order. <persName>Pashang</persName>, the king of <placeName>Turan</placeName>, however,
 takes the opportunity of the death of <persName>Minuchihr</persName> to send an
@@ -9175,7 +9175,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 </div>
 </div>
 <pb n="369"/>
-<div type="textpart"  subtype="shah" n="9"><head>IX. ZAV, THE SON OF TAHMASP: HE REIGNED FIVE YEARS</head>
+<div type="textpart"  subtype="reign" n="9"><head>IX. ZAV, THE SON OF TAHMASP: HE REIGNED FIVE YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p><lb/>After the execution of <persName>Naudar</persName> the throne remains for a while
 vacant, his sons <persName>Tus</persName> and <persName>Gustaham</persName> being considered unworthy
@@ -9295,7 +9295,7 @@ Drought and famine are frequent phenomena in the table-land of <placeName>Iran</
 <lb/>Of <persName>Zav</persName>, the righteous worldlord, passed away.</p>
 </div></div>
 <pb n="373"/>
-<div type="textpart"  subtype="shah" n="10"><head>X. GARSHASP: HIS REIGN WAS NINE YEARS</head>
+<div type="textpart"  subtype="reign" n="10"><head>X. GARSHASP: HIS REIGN WAS NINE YEARS</head>
 <div type="textpart" n="argument"><head>Argument</head>
 <p>On the death of <persName>Zav</persName> his son <persName>Garshasp</persName> succeeds to the throne,
 and <persName>Afrasiyab</persName> seizes the opportunity to renew the war. Garshdasp
