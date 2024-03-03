@@ -50,7 +50,7 @@
         </fileDesc>
         <encodingDesc>
             <refsDecl n="CTS">
-                <cRefPattern n="chapter"
+                <cRefPattern n="section"
                          matchPattern="(\w+).(\w+)"
                          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
                     <p>This pointer pattern extracts Book and Chapter</p>
@@ -93,9 +93,10 @@
 
 
 
-<div type="textpart" subtype="chapter" n="1">
-<milestone unit="vullers" n="V.298"/>
+<div type="textpart" subtype="section" n="1">
+
 <head>How <persName>Kai Kubad</persName> ascended the Throne and warred against <placeName>Turan</placeName></head>
+<milestone unit="vullers" n="V.298"/>
 <p>
 
 
@@ -167,7 +168,7 @@
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 <head>How <persName>Rustam</persName> fought with <persName>Afrasiyab</persName></head>
 <p>
 
@@ -323,7 +324,7 @@
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>How <persName>Afrasiyab</persName> came to his Father</head>
 <p>
 
@@ -502,7 +503,7 @@
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Pashang</persName> sued to <persName>Kai Kubad</persName> for Peace</head>
 <p>
 
@@ -681,7 +682,7 @@
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>How <persName>Kai Kubad</persName> came to <placeName>Istakhr</placeName> of <placeName>Pars</placeName></head>
 <p>
 
@@ -869,7 +870,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </div>
 
 
-<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
 <head>The Prelude</head>
 <p>
 
@@ -933,7 +934,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 <head>How <persName>Kaus</persName> sat upon the Throne and was tempted to invade <placeName>Mazandaran</placeName></head>
 <p>
 
@@ -1202,7 +1203,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>How <persName>Zal</persName> gave Counsel to <persName>Kaus</persName></head>
 <p>
 
@@ -1320,7 +1321,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Kaus</persName> went to <placeName>Mazandaran</placeName></head>
 <p>
 
@@ -1487,7 +1488,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>The Message of <persName>Kai Kaus</persName> to <persName>Zal</persName> and <persName>Rustam</persName></head>
 <p>
 
@@ -1615,7 +1616,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="6">
 <head>The seven courses of <persName>Rustam</persName></head>
 <head>The First Course: How <rs type="horse">Rakhsh</rs> fought with a Lion</head>
 
@@ -1675,7 +1676,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="section" n="7">
 <head>The second course: How <persName>Rustam</persName> found a Spring</head>
 <p>
 
@@ -1762,7 +1763,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="section" n="8">
 <head>The third course: how <persName>Rustam</persName> fought with a <rs type="mythologicalcreature">Dragon</rs></head>
 <p>
 
@@ -1901,7 +1902,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="section" n="9">
 <head>The fourth course: how <persName>Rustam</persName> slew a Witch</head>
 <p>
 
@@ -2004,7 +2005,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="section" n="10">
 <head>The fifth course: How <persName>Rustam</persName> took <rs type="divinity">Ulad</rs> captive</head>
 <p>
 
@@ -2232,7 +2233,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="section" n="11">
 <head>The sixth course: <persName>Rustam</persName> fought with the <rs type="divinity">Div</rs> <rs type="divinity">Arzhang</rs></head>
 <p>
 
@@ -2328,7 +2329,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="section" n="12">
 <head>The seventh course: how <persName>Rustam</persName> slew the White <rs type="divinity">Div</rs></head>
 <p>
 
@@ -2505,7 +2506,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="section" n="13">
 <head>How <persName>Kaus</persName> wrote to the King of <placeName>Mazandaran</placeName></head>
 <p>
 
@@ -2690,7 +2691,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="14">
+<div type="textpart" subtype="section" n="14">
 <head>How <persName>Rustam</persName> went on an Embassy to the King of <placeName>Mazandaran</placeName></head>
 <p>
 
@@ -2908,7 +2909,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="15">
+<div type="textpart" subtype="section" n="15">
 <head>How <persName>Kaus</persName> fought with the King of <placeName>Mazandaran</placeName></head>
 <p>
 
@@ -3236,7 +3237,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="16">
+<div type="textpart" subtype="section" n="16">
 <head>How <persName>Kaus</persName> returned to the Land of <placeName>Iran</placeName> and <sic>farewelled</sic> <persName>Rustam</persName></head>
 <p>
 
@@ -3444,7 +3445,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </div>
 
 
-<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
 <head>How <persName>Kai Kaus</persName> warred with the King of <placeName>Hamavaran</placeName></head>
 
 <milestone unit="vullers" n="V.379"/><p>
@@ -3620,7 +3621,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 <head>How <persName>Kaus</persName> asked to Wife <persName>Sudaba</persName>, the Daughter of the King of <placeName>Hamavaran</placeName></head>
 <p>
 
@@ -3755,7 +3756,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>How the King of <placeName>Hamavaran</placeName> made <persName>Kaus</persName> Prisoner</head>
 <p>
 
@@ -3958,7 +3959,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Afrasiyab</persName> invaded the Land of <placeName>Iran</placeName></head>
 <p>
 
@@ -4030,7 +4031,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>How <persName>Rustam</persName> sent a Message to the King of <placeName>Hamavaran</placeName></head>
 <p>
 
@@ -4161,7 +4162,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="6">
 <head>How <persName>Rustam</persName> fought with Three Kings and delivered <persName>Kaus</persName></head>
 <p>
 
@@ -4322,7 +4323,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="section" n="7">
 <head>How <persName>Kaus</persName> sent a Message to <persName>Afrasiyab</persName></head>
 <p>
 
@@ -4452,7 +4453,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="section" n="8">
 <head>How <persName>Kaus</persName> ordered the World</head>
 <p>
 
@@ -4523,7 +4524,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="section" n="9">
 <head>How <persName>Kaus</persName>, beguiled by <rs type="divinity">Iblis</rs>, ascended the Sky</head>
 <p>
 
@@ -4635,7 +4636,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="section" n="10">
 <head>How <persName>Rustam</persName> brought back <persName>Kaus</persName></head>
 <p>
 
@@ -4749,7 +4750,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="section" n="11">
 <head>How <persName>Rustam</persName> went with the Seven Warriors to the Hunting-ground of <persName>Afrasiyab</persName></head>
 <p>
 
@@ -4944,7 +4945,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="section" n="12">
 <head>How <persName>Rustam</persName> fought with the <rs type="ethnic">Turanians</rs></head>
 <p>
 
@@ -5057,7 +5058,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="section" n="13">
 <head>How <persName>Pilsam</persName> fought with the <rs type="ethnic">Iranians</rs></head>
 <p>
 
@@ -5280,7 +5281,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="14">
+<div type="textpart" subtype="section" n="14">
 <head>How <persName>Afrasiyab</persName> fled from the Battlefield</head>
 <p>
 
@@ -5381,7 +5382,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </div>
 
 
-<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
 <milestone unit="vullers" n="V.433"/>
 <head>The Prelude</head>
 <p>
@@ -5450,7 +5451,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 <head>How <persName>Rustam</persName> went to the Chase</head>
 <p>
 
@@ -5524,7 +5525,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 <pb n="122"/>
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>How <persName>Rustam</persName> came to the City of <placeName>Samangan</placeName></head>
 <p>
 
@@ -5594,7 +5595,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Tahmina</persName>, the Daughter of the King of <placeName>Samangan</placeName>, came to <persName>Rustam</persName></head>
 <p>
 
@@ -5742,7 +5743,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>The Birth of <persName>Suhrab</persName></head>
 <p>
 
@@ -5828,7 +5829,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="6">
 <head>How <persName>Suhrab</persName> chose his Charger</head>
 <p>
 
@@ -5918,7 +5919,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="section" n="7">
 <head>How <persName>Afrasiyab</persName> sent <persName>Bahman</persName> and <persName>Human</persName> to <persName>Suhrab</persName></head>
 <p>
 
@@ -6045,7 +6046,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="section" n="8">
 <head>How <persName>Suhrab</persName> came to <placeName>White Castle</placeName></head>
 <p>
 
@@ -6137,7 +6138,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="section" n="9">
 <head>How <persName>Suhrab</persName> fought with <persName>Gurdafrid</persName></head>
 <p>
 
@@ -6341,7 +6342,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="section" n="10">
 <head>The Letter of <persName>Gazhdaham</persName> to <persName>Kaus</persName></head>
 <p>
 
@@ -6435,7 +6436,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="section" n="11">
 <head>How <persName>Suhrab</persName> took <placeName>White Castle</placeName></head>
 <p>
 
@@ -6498,7 +6499,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="section" n="12">
 <head>How <persName>Kaus</persName> wrote to <persName>Rustam</persName> and summoned him from <placeName>Zabulistan</placeName></head>
 <p>
 
@@ -6743,7 +6744,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="section" n="13">
 <head>How <persName>Kaus</persName> was <sic>wroth</sic> with <persName>Rustam</persName></head>
 <p>
 
@@ -7038,7 +7039,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="14">
+<div type="textpart" subtype="section" n="14">
 <head>How <persName>Kaus</persName> and <persName>Rustam</persName> led forth the Host</head>
 <p>
 
@@ -7109,7 +7110,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="15">
+<div type="textpart" subtype="section" n="15">
 <head>How <persName>Rustam</persName> slew <persName>Zhanda Razm</persName></head>
 <p>
 
@@ -7294,7 +7295,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="16">
+<div type="textpart" subtype="section" n="16">
 <head>How <persName>Suhrab</persName> asked <persName>Hajir</persName> the Names of the Chiefs of <placeName>Iran</placeName></head>
 <p>
 
@@ -7714,7 +7715,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="section" n="17">
 <head>How <persName>Suhrab</persName> attacked the Army of <persName>Kaus</persName></head>
 <p>
 
@@ -7933,7 +7934,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="18">
+<div type="textpart" subtype="section" n="18">
 <head>How <persName>Rustam</persName> fought with <persName>Suhrab</persName></head>
 <p>
 
@@ -8096,7 +8097,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="19">
+<div type="textpart" subtype="section" n="19">
 <head>How <persName>Rustam</persName> and <persName>Suhrab</persName> returned to Camp</head>
 <p>
 
@@ -8311,7 +8312,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="20">
+<div type="textpart" subtype="section" n="20">
 <head>How <persName>Suhrab</persName> overthrew <persName>Rustam</persName></head>
 <p>
 
@@ -8522,7 +8523,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="21">
+<div type="textpart" subtype="section" n="21">
 <head>How <persName>Suhrab</persName> was slain by <persName>Rustam</persName></head>
 <p>
 
@@ -8817,7 +8818,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="22">
+<div type="textpart" subtype="section" n="22">
 <head>How <persName>Rustam</persName> asked <persName>Kaus</persName> for an Elixir</head>
 <p>
 
@@ -8894,7 +8895,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="23">
+<div type="textpart" subtype="section" n="23">
 <head>How <persName>Rustam</persName> lamented for <persName>Suhrab</persName></head>
 <p>
 
@@ -9046,7 +9047,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="24">
+<div type="textpart" subtype="section" n="24">
 <head>How <persName>Rustam</persName> returned to <placeName>Zabulistan</placeName></head>
 <p>
 
@@ -9207,7 +9208,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="25">
+<div type="textpart" subtype="section" n="25">
 <head>How <persName>Suhrab</persName>’s Mother received the Tidings of his Death</head>
 <p>
 
@@ -9476,7 +9477,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
 <milestone unit="vullers" n="V.523"/>
 <head>The Prelude</head>
 <p>
@@ -9535,7 +9536,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 <head>The Story of the Mother of <persName>Siyawush</persName></head>
 <p>
 
@@ -9705,7 +9706,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>The Birth of <persName>Siyawush</persName></head>
 <p>
 
@@ -9806,7 +9807,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Siyawush</persName> arrived from <placeName>Zabulistan</placeName></head>
 <p>
 
@@ -9903,7 +9904,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>The Death of the Mother of <persName>Siyawush</persName></head>
 <p>
 
@@ -9960,7 +9961,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="6">
 <head>How <persName>Sudaba</persName> fell in Love with <persName>Siyawush</persName></head>
 <p>
 
@@ -10074,7 +10075,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="section" n="7">
 <head>How <persName>Siyawush</persName> visited <persName>Sudaba</persName></head>
 <p>
 
@@ -10276,7 +10277,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="section" n="8">
 <head>How <persName>Siyawush</persName> visited the Bower the second Time</head>
 <p>
 
@@ -10505,7 +10506,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="section" n="9">
 <head>How <persName>Siyawush</persName> visited the Bower the third Time</head>
 <p>
 
@@ -10560,7 +10561,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="section" n="10">
 <head>How <persName>Sudaba</persName> beguiled <persName>Kaus</persName></head>
 <p>
 
@@ -10702,7 +10703,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="section" n="11">
 <head>How <persName>Sudaba</persName> and a Sorceress devised a Scheme</head>
 <p>
 
@@ -10818,7 +10819,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="section" n="12">
 <head>How <persName>Kaus</persName> inquired into the Matter of the Babes</head>
 <p>
 
@@ -10999,7 +11000,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="section" n="13">
 <head>How <persName>Siyawush</persName> passed through the Fire</head>
 <p>
 
@@ -11202,7 +11203,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="14">
+<div type="textpart" subtype="section" n="14">
 <head>How <persName>Siyawush</persName> begged <persName>Sudaba</persName>’s Life of his Father</head>
 <p>
 
@@ -11344,7 +11345,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="15">
+<div type="textpart" subtype="section" n="15">
 <head>How <persName>Kaus</persName> heard of the Coming of <persName>Afrasiyab</persName></head>
 <p>
 
@@ -11473,7 +11474,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="16">
+<div type="textpart" subtype="section" n="16">
 <head>How <persName>Siyawush</persName> led forth the Host</head>
 <p>
 
@@ -11629,7 +11630,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="section" n="17">
 <head>The Letter of <persName>Siyawush</persName> to <persName>Kai Kaus</persName></head>
 <p>
 
@@ -11683,7 +11684,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="18">
+<div type="textpart" subtype="section" n="18">
 <head>The Answer of <persName>Kai Kaus</persName> to the Letter of <persName>Siyawush</persName></head>
 <p>
 
@@ -11798,7 +11799,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="19">
+<div type="textpart" subtype="section" n="19">
 <head>How <persName>Afrasiyab</persName> had a Dream and was afraid</head>
 <p>
 
@@ -11890,7 +11891,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="20">
+<div type="textpart" subtype="section" n="20">
 <head>How <persName>Afrasiyab</persName> inquired of the Sages concerning his Dream</head>
 <p>
 
@@ -11979,7 +11980,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="21">
+<div type="textpart" subtype="section" n="21">
 <head>How <persName>Afrasiyab</persName> took Counsel with the Nobles</head>
 <p>
 
@@ -12129,7 +12130,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="22">
+<div type="textpart" subtype="section" n="22">
 <head>How <persName>Garsiwaz</persName> came to <persName>Siyawush</persName></head>
 <p>
 
@@ -12247,7 +12248,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="23">
+<div type="textpart" subtype="section" n="23">
 <head>How <persName>Siyawush</persName> made a Treaty with <persName>Afrasiyab</persName></head>
 <p>
 
@@ -12389,7 +12390,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="24">
+<div type="textpart" subtype="section" n="24">
 <head>How <persName>Siyawush</persName> sent <persName>Rustam</persName> to <persName>Kaus</persName></head>
 <p>
 
@@ -12470,7 +12471,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="25">
+<div type="textpart" subtype="section" n="25">
 <head>How <persName>Rustam</persName> <sic>guve</sic> the Message to <persName>Kaus</persName></head>
 <p>
 
@@ -12636,7 +12637,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="26">
+<div type="textpart" subtype="section" n="26">
 <head>How <persName>Kaus</persName> sent <persName>Rustam</persName> to <placeName>Sistan</placeName></head>
 <p>
 
@@ -12677,7 +12678,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="27">
+<div type="textpart" subtype="section" n="27">
 <head>The Answer of <persName>Kaus</persName> to the Letter of <persName>Siyawush</persName></head>
 <p>
 
@@ -12788,7 +12789,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="28">
+<div type="textpart" subtype="section" n="28">
 <head>How <persName>Siyawush</persName> took Counsel with <persName>Bahram</persName> and <persName>Zanga</persName></head>
 
 <milestone unit="vullers" n="V.582"/><p>
@@ -12973,7 +12974,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="29">
+<div type="textpart" subtype="section" n="29">
 <head>How <persName>Zanga</persName> went to <persName>Afrasiyab</persName></head>
 <p>
 <lb/>So <persName>Zanga</persName>, with a hundred noble horsemen,
@@ -13114,7 +13115,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="30">
+<div type="textpart" subtype="section" n="30">
 <head>How <persName>Afrasiyab</persName> wrote to <persName>Siyawush</persName></head>
 <p>
 
@@ -13220,7 +13221,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="31">
+<div type="textpart" subtype="section" n="31">
 <head>How <persName>Siyawush</persName> gave up the Host to <persName>Bahram</persName></head>
 <p>
 
@@ -13457,7 +13458,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="32">
+<div type="textpart" subtype="section" n="32">
 <head>The Interview of <persName>Siyawush</persName> with <persName>Afrasiyab</persName></head>
 <p>
 
@@ -13560,7 +13561,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="33">
+<div type="textpart" subtype="section" n="33">
 <head>How <persName>Siyawush</persName> displayed his Prowess before <persName>Afrasiyab</persName></head>
 <p>
 
@@ -13819,7 +13820,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="34">
+<div type="textpart" subtype="section" n="34">
 <head>How <persName>Afrasiyab</persName> and <persName>Siyawush</persName> went to the Chase</head>
 <p>
 
@@ -13906,7 +13907,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="35">
+<div type="textpart" subtype="section" n="35">
 <head>How <persName>Piran</persName> gave his Daughter to <persName>Siyawush</persName></head>
 <p>
 <lb/>One day <persName>Piran</persName> conversed with <persName>Siyawush</persName>
@@ -14001,7 +14002,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="36">
+<div type="textpart" subtype="section" n="36">
 <head>How <persName>Piran</persName> spake to <persName>Siyawush</persName> about <persName>Farangis</persName></head>
 <p>
 
@@ -14077,7 +14078,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="37">
+<div type="textpart" subtype="section" n="37">
 <head>How <persName>Piran</persName> spake with <persName>Afrasiyab</persName></head>
 <p>
 
@@ -14199,7 +14200,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="38">
+<div type="textpart" subtype="section" n="38">
 <head>The Wedding of <persName>Farangis</persName> and <persName>Siyawush</persName></head>
 <p>
 
@@ -14299,7 +14300,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="39">
+<div type="textpart" subtype="section" n="39">
 <head>How <persName>Afrasiyab</persName> bestowed a Province on <persName>Siyawush</persName></head>
 <p>
 
@@ -14437,7 +14438,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="40">
+<div type="textpart" subtype="section" n="40">
 <head>How <persName>Siyawush</persName> built <placeName>Gang</placeName>-<sic>dizh</sic></head>
 <p>
 
@@ -14575,7 +14576,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="41">
+<div type="textpart" subtype="section" n="41">
 <head>How <persName>Siyawush</persName> discoursed with <persName>Piran</persName> about the Future</head>
 <p>
 
@@ -14739,7 +14740,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="42">
+<div type="textpart" subtype="section" n="42">
 <head>How <persName>Afrasiyab</persName> sent <persName>Piran</persName> into the Provinces</head>
 <p>
 
@@ -14765,7 +14766,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="43">
+<div type="textpart" subtype="section" n="43">
 <head>How <persName>Siyawush</persName> built <placeName>Siyawushgird</placeName></head>
 <p>
 
@@ -14856,7 +14857,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="44">
+<div type="textpart" subtype="section" n="44">
 <head>How <persName>Piran</persName> visited <persName>Siyawush</persName></head>
 <p>
 
@@ -14982,7 +14983,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="45">
+<div type="textpart" subtype="section" n="45">
 <head>How <persName>Afrasiyab</persName> sent <persName>Garsiwaz</persName> to <persName>Siyawush</persName></head>
 <p>
 
@@ -15080,7 +15081,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="46">
+<div type="textpart" subtype="section" n="46">
 <head>The Birth of Farad the Son of <persName>Siyawush</persName></head>
 <p>
 
@@ -15160,7 +15161,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="47">
+<div type="textpart" subtype="section" n="47">
 <head>How <persName>Siyawush</persName> played at Polo</head>
 <p>
 
@@ -15382,7 +15383,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="48">
+<div type="textpart" subtype="section" n="48">
 <head>How <persName>Garsiwaz</persName> returned and spake Evil before <persName>Afrasiyab</persName></head>
 <p>
 
@@ -15637,7 +15638,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="49">
+<div type="textpart" subtype="section" n="49">
 <head>How <persName>Garsiwaz</persName> returned to <persName>Siyawush</persName></head>
 <p>
 
@@ -15907,7 +15908,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="50">
+<div type="textpart" subtype="section" n="50">
 <head>The Letter of <persName>Siyawush</persName> to <persName>Afrasiyab</persName></head>
 <p>
 
@@ -15990,7 +15991,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="51">
+<div type="textpart" subtype="section" n="51">
 <head>How <persName>Afrasiyab</persName> came to fight with <persName>Siyawush</persName></head>
 <p>
 
@@ -16063,7 +16064,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="52">
+<div type="textpart" subtype="section" n="52">
 <head>How <persName>Siyawush</persName> had a Dream</head>
 <p>
 
@@ -16156,7 +16157,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="53">
+<div type="textpart" subtype="section" n="53">
 <head>The Parting Words of <persName>Siyawush</persName> to <persName>Farangis</persName></head>
 <p>
 
@@ -16298,7 +16299,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="54">
+<div type="textpart" subtype="section" n="54">
 <head>How <persName>Siyawush</persName> was taken by <persName>Afrasiyab</persName></head>
 <p>
 
@@ -16552,7 +16553,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="55">
+<div type="textpart" subtype="section" n="55">
 <head>How <persName>Farangis</persName> <sic>bewailed</sic> herself before <persName>Afrasiyab</persName></head>
 <p>
 
@@ -16665,7 +16666,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="56">
+<div type="textpart" subtype="section" n="56">
 <head>How <persName>Siyawush</persName> was slain by <persName>Gurwi</persName></head>
 <p>
 
@@ -16834,7 +16835,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="57">
+<div type="textpart" subtype="section" n="57">
 <head>How <persName>Piran</persName> saved <persName>Farangis</persName></head>
 <p>
 
@@ -16955,7 +16956,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="58">
+<div type="textpart" subtype="section" n="58">
 <head>The Birth of <persName>Kai Khusrau</persName></head>
 <p>
 
@@ -17117,7 +17118,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="59">
+<div type="textpart" subtype="section" n="59">
 <head>How <persName>Piran</persName> entrusted <persName>Kai Khusrau</persName> to the Shepherds</head>
 <p>
 
@@ -17219,7 +17220,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="60">
+<div type="textpart" subtype="section" n="60">
 <head>How <persName>Piran</persName> brought <persName>Kai Khusrau</persName> before <persName>Afrasiyab</persName></head>
 <p>
 
@@ -17397,7 +17398,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="61">
+<div type="textpart" subtype="section" n="61">
 <head>How <persName>Kai Khusrau</persName> went to <persName>Siyawush</persName></head>
 <p>
 
@@ -17506,7 +17507,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </div>
 
 
-<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
 <head><persName>Firdausi</persName>'s Lament over his old Age</head>
 
 <milestone unit="vullers" n="V.680"/><p>
@@ -17572,7 +17573,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="2">
 
 <milestone unit="vullers" n="V.681"/>
 <head>How <persName>Kaus</persName> heard of the Case of <persName>Siyawush</persName></head>
@@ -17616,7 +17617,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="3">
 <head>How <persName>Rustam</persName> came to <persName>Kaus</persName></head>
 <p>
 
@@ -17704,7 +17705,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="4">
 <head>How <persName>Rustam</persName> slew <persName>Sudaba</persName> and led forth the Host</head>
 <p>
 
@@ -17802,7 +17803,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="5">
 <head>How <persName>Faramarz</persName> slew <persName>Warazad</persName></head>
 <p>
 
@@ -17903,7 +17904,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="6">
 <head>How <persName>Surkha</persName> led his Troops to fight with <persName>Rustam</persName></head>
 <p>
 
@@ -18151,7 +18152,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="section" n="7">
 <head>How <persName>Afrasiyab</persName> led forth the Host to avenge his Son</head>
 <p>
 
@@ -18272,7 +18273,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="section" n="8">
 <head>How <persName>Pilsam</persName> was slain by <persName>Rustam</persName></head>
 <p>
 
@@ -18456,7 +18457,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="section" n="9">
 <head>How <persName>Afrasiyab</persName> fled from <persName>Rustam</persName></head>
 <p>
 
@@ -18585,7 +18586,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="section" n="10">
 <head>How <persName>Afrasiyab</persName> sent Khusrau to <placeName>Khutan</placeName></head>
 <p>
 
@@ -18702,7 +18703,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="section" n="11">
 <head>How <persName>Rustam</persName> reigned over <placeName>Turan</placeName> for Seven Years</head>
 <p>
 
@@ -18804,7 +18805,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="section" n="12">
 <head>How <persName>Zawara</persName> went io the Hunting-ground of <persName>Siyawush</persName></head>
 <p>
 
@@ -18851,7 +18852,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="section" n="13">
 <head>How <persName>Rustam</persName> harried the Land of <placeName>Turan</placeName></head>
 <p>
 
@@ -18930,7 +18931,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="14">
+<div type="textpart" subtype="section" n="14">
 <head>How <persName>Rustam</persName> returned to <placeName>Iran</placeName></head>
 <p>
 <lb/>The matchless <persName>Rustam</persName> heard the words with shame,
@@ -19006,7 +19007,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="15">
+<div type="textpart" subtype="section" n="15">
 <head>How <persName>Gudarz</persName> had a Dream of <persName>Kai Khusrau</persName></head>
 <p>
 
@@ -19126,7 +19127,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="16">
+<div type="textpart" subtype="section" n="16">
 <head>How <persName>Giv</persName> went to <placeName>Turan</placeName> in Quest of <persName>Kai Khusrau</persName></head>
 <p>
 
@@ -19300,7 +19301,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="section" n="17">
 <head>The Finding of <persName>Kai Khusrau</persName></head>
 <p>
 
@@ -19506,7 +19507,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="18">
+<div type="textpart" subtype="section" n="18">
 <head>How <persName>Giv</persName> and <persName>Kai Khusrau</persName> went to <placeName>Siyawushgird</placeName></head>
 <p>
 
@@ -19580,7 +19581,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="19">
+<div type="textpart" subtype="section" n="19">
 <head>How <persName>Kai Khusrau</persName> won <rs type="horse">Bihzad</rs></head>
 <p>
 <lb/>The valiant chieftain mounted on his steed
@@ -19722,7 +19723,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="20">
+<div type="textpart" subtype="section" n="20">
 <head>How <persName>Farangis</persName> went with <persName>Kai Khusrau</persName> and <persName>Giv</persName> to <placeName>Iran</placeName></head>
 <p>
 
@@ -19783,7 +19784,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="21">
+<div type="textpart" subtype="section" n="21">
 <head>How <persName>Kulbad</persName> and <persName>Nastihan</persName> fled from <persName>Giv</persName></head>
 <p>
 
@@ -19920,7 +19921,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="22">
+<div type="textpart" subtype="section" n="22">
 <head>How <persName>Piran</persName> pursued <persName>Kai Khusrau</persName></head>
 <p>
 
@@ -20018,7 +20019,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="23">
+<div type="textpart" subtype="section" n="23">
 <head>How <persName>Piran</persName> contended with <persName>Giv</persName></head>
 <p>
 
@@ -20149,7 +20150,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="24">
+<div type="textpart" subtype="section" n="24">
 <head>How <persName>Piran</persName> was taken by <persName>Giv</persName></head>
 
 <milestone unit="vullers" n="V.733"/><p>
@@ -20250,7 +20251,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="25">
+<div type="textpart" subtype="section" n="25">
 <head>How <persName>Farangis</persName> delivered <persName>Piran</persName> from <persName>Giv</persName></head>
 <p>
 
@@ -20338,7 +20339,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="26">
+<div type="textpart" subtype="section" n="26">
 <head>How <persName>Afrasiyab</persName> found <persName>Piran</persName> on the Way</head>
 <p>
 
@@ -20485,7 +20486,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="27">
+<div type="textpart" subtype="section" n="27">
 <head>How <persName>Giv</persName> disputed with the Toll-man</head>
 <p>
 
@@ -20567,7 +20568,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="28">
+<div type="textpart" subtype="section" n="28">
 <head>How <persName>Kai Khusrau</persName> crossed the <placeName>Jihun</placeName></head>
 <p>
 
@@ -20731,7 +20732,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="29">
+<div type="textpart" subtype="section" n="29">
 <head>How <persName>Kai Khusrau</persName> came to <placeName>Ispahan</placeName></head>
 <p>
 
@@ -20883,7 +20884,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="30">
+<div type="textpart" subtype="section" n="30">
 <head>How <persName>Kai Khusrau</persName> came to <persName>Kaus</persName></head>
 
 <milestone unit="vullers" n="V.747"/><p>
@@ -21043,7 +21044,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="31">
+<div type="textpart" subtype="section" n="31">
 <head>How <persName>Tus</persName> refused Allegiance to <persName>Kai Khusrau</persName></head>
 <p>
 <lb/><persName>Kishwad</persName> possessed a palace at <placeName>Istakhr</placeName>—
@@ -21178,7 +21179,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="32">
+<div type="textpart" subtype="section" n="32">
 <head>How <persName>Gudarz</persName> was <sic>wroth</sic> with <persName>Tus</persName></head>
 <p>
 
@@ -21258,7 +21259,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="33">
+<div type="textpart" subtype="section" n="33">
 <head>How <persName>Gudarz</persName> and <persName>Tus</persName> went before <persName>Kaus</persName> on the Matter of the Kingship</head>
 <p>
 
@@ -21382,7 +21383,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="34">
+<div type="textpart" subtype="section" n="34">
 <head>How <persName>Tus</persName> and <persName>Fariburz</persName> went to the Castle of <persName>Bahman</persName> and came back foiled</head>
 <p>
 
@@ -21434,7 +21435,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="35">
+<div type="textpart" subtype="section" n="35">
 <head>How <persName>Kai Khusrau</persName> went to the Castle of <persName>Bahman</persName> and took it</head>
 <p>
 
@@ -21582,7 +21583,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="36">
+<div type="textpart" subtype="section" n="36">
 <head>How <persName>Kai Khusrau</persName> returned in Triumph</head>
 <p>
 
@@ -21691,7 +21692,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 </div>
 
-<div type="textpart" subtype="chapter" n="37">
+<div type="textpart" subtype="section" n="37">
 <head>How <persName>Kaus</persName> set Khusrau upon the Throne of Kingship</head>
 <p>
 
