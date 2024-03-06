@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>The Shahnama of Firdausi, done into English by Arthur George Warner, MA, and Edmond Warner, BA</title>
-                <sponsor>Tufts University</sponsor>
-                <funder>Mellon Foundation</funder>
-                <principal>Gregory Crane</principal>
-                <respStmt>
-                    <persName>Gregory Crane</persName>
-                    <resp>OCRd the text and added initial TEI XML and corrections</resp>
-                </respStmt>
-            </titleStmt>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Shahnama of Firdausi, done into English by Arthur George Warner, MA, and Edmond Warner, BA</title>
+<sponsor>Tufts University</sponsor>
+<funder>Mellon Foundation</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd the text and added initial TEI XML and corrections</resp>
+</respStmt>
+</titleStmt>
 
-            <publicationStmt>
-                <authority>Tufts University</authority>
-                <idno type="filename">https://archive.org/details/shahnama01firduoft https://archive.org/details/shahnama02firduoft https://archive.org/details/shahnama03firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama05firduoft https://archive.org/details/shahnama06firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama0;firduoft https://archive.org/details/shahnama08firduoft https://archive.org/details/shahnama09firduoft </idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</licence>
-                </availability>
-                <date>2024</date>
-                <publisher>Tufts University</publisher>
-                <pubPlace>Medford, MA, USA</pubPlace>
-            </publicationStmt>
+<publicationStmt>
+<authority>Tufts University</authority>
+<idno type="filename">https://archive.org/details/shahnama01firduoft https://archive.org/details/shahnama02firduoft https://archive.org/details/shahnama03firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama05firduoft https://archive.org/details/shahnama06firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama0;firduoft https://archive.org/details/shahnama08firduoft https://archive.org/details/shahnama09firduoft </idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</licence>
+</availability>
+<date>2024</date>
+<publisher>Tufts University</publisher>
+<pubPlace>Medford, MA, USA</pubPlace>
+</publicationStmt>
 
-            <sourceDesc>
-                <listBibl xml:lang="la">
-                    <biblStruct>
-                        <monogr>
-                            <editor>
-                                <persName>
-                                    <name xml:lang="en">Innes, Gordon, 1924- : URI http://viaf.org/viaf/62788921</name>
-                                </persName>
-                            </editor>
-                            <author>Firdousi, Abū-al Qāsem, 0940-1020: URI http://viaf.org/viaf/101359236</author>
-                            <author>Arthur George Warner: URI https://viaf.org/viaf/214979921</author>
-                            <author>Edmond Warner: URI http://viaf.org/viaf/107122180</author>
-                            <title>Shahnama of Firdausi</title>
-                            <imprint>
-                                <publisher>Kegan Paul Trench, Trübner and co</publisher>
-                                <pubPlace>London</pubPlace>
-                                <date>1908</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                </listBibl>
-            </sourceDesc>
+<sourceDesc>
+<listBibl xml:lang="la">
+<biblStruct>
+<monogr>
+<editor>
+<persName>
+<name xml:lang="en">Innes, Gordon, 1924- : URI http://viaf.org/viaf/62788921</name>
+</persName>
+</editor>
+<author>Firdousi, Abū-al Qāsem, 0940-1020: URI http://viaf.org/viaf/101359236</author>
+<author>Arthur George Warner: URI https://viaf.org/viaf/214979921</author>
+<author>Edmond Warner: URI http://viaf.org/viaf/107122180</author>
+<title>Shahnama of Firdausi</title>
+<imprint>
+<publisher>Kegan Paul Trench, Trübner and co</publisher>
+<pubPlace>London</pubPlace>
+<date>1908</date>
+</imprint>
+</monogr>
+</biblStruct>
+</listBibl>
+</sourceDesc>
 
-        </fileDesc>
-        <encodingDesc>
-            <refsDecl n="CTS">
-                <cRefPattern n="chapter"
-                         matchPattern="(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
-                    <p>This pointer pattern extracts Book and Chapter</p>
-                </cRefPattern>
-                <cRefPattern n="book"
-                         matchPattern="(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
-                    <p>This pointer pattern extracts Book</p>
-                </cRefPattern>
-            </refsDecl>
-            <p>The following text is encoded in accordance with EpiDoc standards and with the
-                CTS/CITE Architecture.</p>
-        </encodingDesc>
+</fileDesc>
+<encodingDesc>
+<refsDecl n="CTS">
+<cRefPattern n="chapter"
+matchPattern="(\w+).(\w+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts Book and Chapter</p>
+</cRefPattern>
+<cRefPattern n="book"
+matchPattern="(\w+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
+<p>This pointer pattern extracts Book</p>
+</cRefPattern>
+</refsDecl>
+<p>The following text is encoded in accordance with EpiDoc standards and with the
+CTS/CITE Architecture.</p>
+</encodingDesc>
 
-        <profileDesc>
-            <langUsage>
-                <language ident="en">English</language>
-                <language ident="grc">Ancient Greek</language>
-            </langUsage>
-        </profileDesc>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="grc">Ancient Greek</language>
+</langUsage>
+</profileDesc>
 
-    </teiHeader>
-    <text>
-        <body>
+</teiHeader>
+<text>
+<body>
 <pb n="5"/>
 <div type="textpart" subtype="dynasty" n="KAIANIAN"><head>THE KAIANIAN DYNASTY (Continued)</head>
 
@@ -86,7 +86,7 @@
 <div type="textpart" subtype="part" n="6"><head>THE BATTLE OF THE TWELVE RUKHS</head>
 
 <div type="textpart" n="argument"><head>Argument</head>
-        <p>Afrasyiab and Kai Khusrau continue the war with renewed vigour, Piran and Gudarz being in chief command on the Tiranian and Iranian sides respectively. After some abortive negotiations the campaign opens, Human and Bizhan fight in single combat,
+<p>Afrasyiab and Kai Khusrau continue the war with renewed vigour, Piran and Gudarz being in chief command on the Tiranian and Iranian sides respectively. After some abortive negotiations the campaign opens, Human and Bizhan fight in single combat,
 and the former is slain. A general engagement between the two hosts follows, but the result is indecisive and both generals send for reinforcements. In the interval they arrange a combat of eleven champions a side in which the Iranians are completely victorious, all the Turdnians, including Piran himself, being slain with the exception of Gurwi—the executioner of Siy4wush—who is taken alive by Giv. Kai Khusrau comes up, and Lahhdk and
 Farshidward—Piran’s two surviving brothers—abandon their army and take to flight. They are pursued and captured by Gustaham,
 who is himself severely wounded but is saved by Bizhan and eured by Kai Khusrau, to whom also the Tiranian army capitulates, and Gurwi is put to death.
@@ -119,11 +119,11 @@ hand he becomes fey, as Bahrdm did on a previous occasion.<ref n="2"/>
 </p>
 <p>§ 14. Shabihang (Sirius) is given elsewhere as the name of
 Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> Shabahang seems used metri causé for Shabrang. One would gather from another passage, taken alone, that Bizhan used Giv’s steed in the battle with Human.<ref n="5"/>
- <note n="1">See Vol. i. p. 45.</note>
- <note n="2">See Vol. iii. p. 95.</note>
- <note n="3">Id. p. 313.</note>
- <note n="4">Id. and pp. 296 and 302.</note>
- <note n="5">See p. 45.</note>
+<note n="1">See Vol. i. p. 45.</note>
+<note n="2">See Vol. iii. p. 95.</note>
+<note n="3">Id. p. 313.</note>
+<note n="4">Id. and pp. 296 and 302.</note>
+<note n="5">See p. 45.</note>
 <pb n="9"/></p></div>
 <div type="textpart" subtype="section" n="1"><head>The Prelude</head>
 <p><lb/>
@@ -354,8 +354,8 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <lb/>And said: <q>O hero of illustrious race!
 <lb/>Go with a mountain-like array. Select it
 <lb/>Out of the host, and lead thy seasoned horsemen
- <note n="1"><q>la route du nord</q> (Mohl).</note>
- <note n="2">The future Shah.</note>
+<note n="1"><q>la route du nord</q> (Mohl).</note>
+<note n="2">The future Shah.</note>
 <pb n="15"/>
 <lb/>To rob the Turkmans of the breath of life.</q></p>
 <p>
@@ -813,7 +813,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Of name and eager for the fight—remained
 <lb/>Embattled face to face: thou wouldst have said :—
 <lb/><q>No one’s lip moveth!</q> Quoth Gudarz: <q>If I
- <note n="1">Reading with P.</note>
+<note n="1">Reading with P.</note>
 <pb n="27"/>
 <lb/>Yield to the foe my station, and advance,
 <lb/>They will assail my rear; I shall but grasp
@@ -893,7 +893,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Will own no love or consanguinity,
 <lb/>His dam shall be the dust, his sire the sea.</q>
 <lb/>Yet, O my son, impetuous in thy speech !
- <note n="1">After his captivity in Part V.</note>
+<note n="1">After his captivity in Part V.</note>
 <pb n="29"/>
 <lb/>Loose not thy tongue against thy grandsire thus,
 <lb/>For he is wiser and experienced,
@@ -2940,7 +2940,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Their powers for that encounter. Arrows showered
 <lb/>Like rain descending from a darksome cloud.
 <lb/>The world was like a winter’s night<ref n="1"/> for murk,
- <note n="1">More literally <q> Like night (in the month) of Bahman.</q></note>
+<note n="1">More literally <q> Like night (in the month) of Bahman.</q></note>
 <pb n="82"/>
 <lb/>But what a murk! Its rain was shafts and swords!
 <lb/>The earth was iron with the horses' hoofs,
@@ -3095,7 +3095,7 @@ impetuous Lions, brandishers of spears,
 <lb/>They went,
 <lb/>Lahhak and Farshidward, to challenge Giv,
 <lb/>And brave Lahhak thrust at his girdle, hoping
- <note n="1">Cf. EHI, i. 537, and the passages there quoted,</note>
+<note n="1">Cf. EHI, i. 537, and the passages there quoted,</note>
 <pb n="86"/>
 <lb/>To bring him from his saddle headlong down.
 <lb/>The coat of mail was shivered by the shock
@@ -3210,7 +3210,7 @@ impetuous Lions, brandishers of spears,
 <p>
 <lb/><q>My son!</q>
 <lb/>Gudarz replied, <q>my hand will take his life
- <note n="1">See p. 7.</note>
+<note n="1">See p. 7.</note>
 <pb n="89"/>
 <lb/>Assuredly, and in God’s strength shall I
 <lb/>Avenge on him my seventy sons beloved.</q></p>
@@ -3520,7 +3520,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Might meet thee in the fight ; and now that thou
 <lb/>Hast come there is no room for tarrying,
 <lb/>So let us twain, with our hoar heads, contend
- <note n="1">Cf. Vol. ii., p. 363.</note>
+<note n="1">Cf. Vol. ii., p. 363.</note>
 <pb n="97"/>
 <lb/>Upon this battlefield. Do thou now choose
 <lb/>A band of champions to encounter mine,
@@ -3559,7 +3559,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And all were ready for revenge and strife.
 <lb/>The generals, as much opposed by duty
 <lb/>As by religion, were athirst for blood,
- <note n="1">Id, p. 119.</note>
+<note n="1">Id, p. 119.</note>
 <pb n="98"/>
 <lb/>And sware together not to quit the field
 <milestone unit="vullers" n="1234"/>
@@ -4963,7 +4963,7 @@ eet eel Mele et
 </div>
 </div>
 <div type="textpart" subtype="part" n="7"><head>THE GREAT WAR OF KAI KHUSRAU WITH AFRASIYAB</head>
-    <div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" n="argument"><head>Argument</head>
 <p>
 The poet begins with an elaborate prelude wherein he eulogizes
 Mahmud and then continues his story of the reign as follows:
@@ -4993,10 +4993,10 @@ Afrasiy4b is induced to come forth from the water by a stratagem,
 and is put to death with his brother Garsiwaz. Most of these incidents appear in the older authorities but, as Darmesteter has pointed out,<ref n="5"/> not in the connexion in which they appear in the
 Shahnama. In these the story may be pieced together thus:
 Afrasyiab, we are told, made his residence in Mount Bakyir.<ref n="6"/> We learn from the Aogemaidé—a Pahlavi discourse on death—that
- <note n="1">See Vol. i. p. 367.</note>
- <note n="2">See Vol. ii. p. 38 seg.</note>
- <note n="3">Jd. p. 80. </note>
- <note n="4">Properly Chijast. </note>
+<note n="1">See Vol. i. p. 367.</note>
+<note n="2">See Vol. ii. p. 38 seg.</note>
+<note n="3">Jd. p. 80. </note>
+<note n="4">Properly Chijast. </note>
 <note n="5">See DZA, ii. 66, note. SDS i 225 </note>
 <note n="6">WPT, 1.38.</note>
 <pb n="137"/>
@@ -5112,7 +5112,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>To serve God and his sovereign is his part.
 <lb/>With this wise, upright minister for friend
 <lb/>My far-extending labour reached its end.
-<lb/>I framed. this story of the days of yore, ,
+<lb/>I framed. this story of the days of yore, 
 <lb/>Selected from the book of men of lore,
 <lb/>That it in mine old age might yield me fruit,
 <lb/>Give me a crown, dinars, and high repute,
@@ -7376,7 +7376,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The valiant Jahn, lost in astonishment,
 <lb/>Removed his royal helm and drawing nigh
 <milestone unit="vullers" n="1331"/>
- 
+
 <lb/>Did reverence, and said: <q>O famous king!
 <lb/>Be goodness aye thy partner through the world,
 <lb/>Be prosperous in our land, and may the hearts
@@ -9811,7 +9811,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And full of joy departed from the Fane.</p></div>
 <div type="textpart" subtype="section" n="43"><head>How Kéits and Khusrau came to Him </head>
 <milestone unit="vullers" n="1392"/>
- 
+
 <p>
 <lb/>The monarch of the world in grave concern
 <lb/>Went instantly to Him who, when he saw
@@ -11711,8 +11711,8 @@ in the Snow
 <pb n="314"/>
 <div type="textpart" subtype="shah" n="14"><head>XIV. LUHRASP: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
 
-    <div type="textpart" n="argument"><head>Argument</head>
-        <p>Gushtasp, the son of Luhrisp, dissatisfied with his position at the court of his father who, mindful of his obligations to Kai Khusrau, reserves his chief favours for the descendants of Kai Kaus, quits Iran in dudgeon and takes refuge in the land of Rum,
+<div type="textpart" n="argument"><head>Argument</head>
+<p>Gushtasp, the son of Luhrisp, dissatisfied with his position at the court of his father who, mindful of his obligations to Kai Khusrau, reserves his chief favours for the descendants of Kai Kaus, quits Iran in dudgeon and takes refuge in the land of Rum,
 where Caesar’s daughter falls in love with him and marries him. Gushtasp achieves great quests in his adopted country and, returning to Iran, is reconciled to his father who resigns the throne in his favour.
 </p>
 </div>
@@ -11737,7 +11737,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <p>§§ 14 and 15. The Khazars, who dwelt between the Caucasus and the Don and Volga rivers, had frequent political relations with the Eastern Roman, the Sasdnian, and the Muhammadan empires till they were absorbed by Russia in Firdaust’s lifetime.</p>
 <p> The principal Irénian characters of this reign—Luhrdsp himself, Gushtasp, and Zarir—appear in the Zandavasta as Aurvat-aspa, Vistaspa, and Zairi-vairi respectively, but the allusions to them in that work are concerned with the events recorded in the next reign, that of Gushtasp, which will appear in Vol. V. of this translation.</p></div>
 <div type="textpart" subtype="section" n="1"><head>How Luhrdésp built a Fire-temple at Balkh</head>
-    <p>
+<p>
 <lb/>Now when Luhrasp sat on the ivory throne,
 <lb/>And donned the crown that brighteneth the heart,
 <lb/>He praised the Maker and besought Him much,
