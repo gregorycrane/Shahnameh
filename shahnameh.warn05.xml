@@ -75,16 +75,16 @@
     </teiHeader>
     <text>
         <body>
-<pb n="8"/>
-<div type="textpart" subtype="dynasty" n="KAIANIAN"><head>THE KAIANIAN DYNASTY (Continued)</head>
+
+<div type="textpart" subtype="dynasty" n="Kaianian-d"><head>THE KAIANIAN DYNASTY (Continued)</head>
+
+    <pb n="5.8"/>
 
 
-
-<pb n="9"/>
-<div type="textpart" subtype="shah" n="15"><head>XV. GUSHTASP: HE REIGNED ONE HUNDRED AND TWENTY
+<div type="textpart" subtype="reign" n="15"><head>XV. GUSHTASP: HE REIGNED ONE HUNDRED AND TWENTY
     YEARS</head>
 
-    <div type="textpart" n="argument"><head>Argument</head>
+    <div type="textpart" subtype="argument"><head>Argument</head>
 <p>
 The advent of Zarduhsht is described. Gushtasp is converted,
 and war ensues between him and the Turanian king Arjasp.
@@ -94,7 +94,7 @@ sends him to bring Rustam in chains to court, with tragic results to all parties
 Bahman, the son of Asfandiyar, and dies.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
-<p>
+<p><pb n="5.9"/>
 The reign of Gushtasp falls naturally into four Parts. It is not, however, so divided, as indicated by the independent numbering of the couplets of each Part, either in the Vullers-Landauer text, from which our translation is made, or in that of Mohl. In
 Macan’s edition the couplets are not numbered. The division into Parts is a convenient arrangement. We have adopted it in the present instance, and propose to do so in future cases when the reign is long and the subject-matter lends itself to such treatment.
 </p><p>
@@ -104,7 +104,7 @@ inasmuch as Gushtasp, having embittered the life of his own father,<ref n="1"/> 
 There is the question, too, as to the position that he occupies ene
 <note n="1">See Vol. iv. p. 318 seq.</note>
 <note n="2">See pp. 66, 97, 107, 114.</note>
-<pb n="10"/>
+<pb n="5.10"/>
 from the standpoint of history. We have the account of the advent of Zarduhsht (Zoroaster), his preaching and the consequent conversion of Gushtasp, and, what renders this still more interesting, not in Firdausi’s own words but in those of his contemporary Dakiki, whose untimely death gave Firdausi the great opportunity of his life—one of which he was prompt to avail himself, Here, too, for the first time, we are enabled to compare the Shaihnama with an extant Pahlavi version of the same subject-matter, und can see for ourselves how closely Dakiki followed his authorities, just as later on we shall be enabled to compare
 Firdausi’s own work with a similar extant Pahlavi version, when we come to the Ashkanian dynasty and the account therein given of the rise to power of Ardshir Paipakdin, the founder of the
 Sdisdnian dynasty. Here, too, the great champion of priestly tradition—Asfandiyar—is introduced and brought face to face with the great hero of popular tradition—Rustam. In this reign, too,
@@ -117,7 +117,7 @@ Khusrau, Luhrasp, and Gushtasp. The Achaemenids, as is well known, ruled in a do
 With the death of Cambyses, the son of Cyrus, the elder line came to an end. The rightful heir, so to speak, was the head of the younger line—Hystaspes—a man, as later events showed,
 not lacking in vitality and courage, for as Governor of Parthia he maintained the cause of his house energetically during the troublous times that followed the accession of his more famous son, Darius I., to the throne. Why Hystaspes stood aside in favour of his son it is difficult to see, but the facts, if we leave out of account the reign of Cambyses, seem clearly reproduced in legendary form in the Shahnéma. Kai Khusrau, before his passing, appointed a distant, little-known Kaidnian collateral—
 Luhrasp—to succeed him, but Luhrdsp was overshadowed completely by his more famous son, Gushtasp, in whose favour ultimately he retired. In a time of stress later on, however, he is represented as fighting gallantly. Again, the period ushered in
-<pb n="11"/>
+<pb n="5.11"/>
 by the death of Cambyses was one of great religious and politica disturbance. Magism became very prominent in the person of the false Smerdis, and, whatever interpretation we put upon the statement in the BihistGn inscription, that he destroyed the temples of the gods and that Darius restored them,<ref n="1"/> it is evident that some grave religious question was at stake. Further, the accession of Darius was the signal for a series of revolts extending over several years and involving nearly the whole empire. It was only after a most desperate struggle that the genius of Darius triumphed, Among his other enemies, he had to contend against the northern foe—the Scythians—and later on led a famous expedition against them to the banks of the Danube. These three features of his reign—the religious question, civil war, and wars with the Scythians—are all indicated in a legendary form in the reign of Gushtasp. The religious question is very prominent, the civil war is represented by the fact that the leaders on both sides have Persian names,<ref n="2"/> while the wars themselves are waged against a northern foe. Again, the information that we possess seems to indicate that Darius was the Constantine the Great of his time,
 and changed his religion in the course of his reign<ref n="3"/> just as
 Gushtasp is represented as doing in the Shahnama. Zarduhsht
@@ -135,7 +135,7 @@ Zarduhsht (Zoroaster) and his subsequent war with Arjasp. It is partly extant.<r
 <note n="3">Id. i. 59.</note>
 <note n="4">WPT, v. 71, note.</note>
 <note n="5">DZA, i. xxxvi, ii. 324 seq.</note>
-<pb n="12"/>
+<pb n="5.12"/>
 overcome and put to flight Arjasp and others.<ref n="1"/> His triumph over them also is recorded.<ref n="2"/></p>
 <p>
 Zarir, Gushtdsp’s brother, appears as Zairi-vairi, and is represented as offering up sacrifices that he may overcome Arjasp.<ref n="3"/></p>
@@ -174,7 +174,7 @@ Andariman, who appear in the Zandavasta as Aregat-aspa and
 <note n="12">DZA, ii. 95 and note.</note>
 <note n="13">Vol. i. p. 142.</note>
 <note n="14">Id. iv. 137.</note>
-<pb n="13"/>
+<pb n="5.13"/>
 
 Vandaremaini respectively, praying for victory over Gushtiisp and
 Zarir.<ref n="1"/> It should be mentioned, however, that Arjasp is not called a Turanian, as Afrasiyab is,<ref n="2"/> but a Hvyaona.<ref n="3"/> Who the
@@ -210,7 +210,7 @@ Perhaps the best interpretation divides the word into <q>zar</q> and eet ens ee 
 <note n="13">WPT, i. 86.</note>
 <note n="14">JZ, 211 and note, 220, 221.</note>
 <note n="15">See Vol. i. p. 63.</note>
-<pb n="14"/>
+<pb n="5.14"/>
 <q>ushtra.</q> The reader may be reminded, that Sam, on recovering his outcast son, gave him the name of Zal-i-zar or Zal the old.<ref n="1"/>
 <q>Ushtra</q> is the ancient form of the modern <q> ushtar,</q> camel.
 Zarathushtra therefore seems to inean <q> Old Camel,</q> or <q> He whose camels are old.</q> For reasons sufficiently weighty at the time when the Shahnima was written, the account given of him in that poem is of the briefest, and it is proposed therefore to amplify it from other traditional sources. According to these he was born in B.C, 660—the year of the accession of Shah Gushtasp.<ref n="2"/>
@@ -228,7 +228,7 @@ Zarduhsht thus became known to future times as Zarathushtra
 <note n="8">Id. 192.</note>
 <note n="9">WPT, v. 18 seq.</note>
 <note n="10">Id. 19, note.</note>
-<pb n="15"/>
+<pb n="5.15"/>
 Spitéma. Urmuzd, it should be stated, had begun, in consultation with the ameshaspentas, to make arrangements for his birth 5970
 years before it occurred.<ref n="1"/> The procedure involved being somewhat complex,<ref n="2"/> it will suffice to say that the maideh Dughdhévd was in due course espoused to Pourushaspa,<ref n="3"/> that for three days before the Prophet came into the world the village was all luminous with the divine Glory to the great terror of the inhabitants,<ref n="4"/> and that the babe was born laughing, to the discomfiture of the seven midwives that were in attendance.<ref n="5"/> Dughdhdévd was fifteen years old when her son was born, and from that moment the divine Glory, which had encompassed her from her birth,
 passed to him.<ref n="6"/> The situation seems to have been altogether too much for Pourushaspa, who appears to have felt and acted just as
@@ -251,7 +251,7 @@ he and his brothers asked their father to bestow portions upon them, and he did 
 <note n="10">Id. 40 seq.</note>
 <note n="11">Id. 126,</note>
 <note n="12">Td. 144.</note>
-<pb n="16"/>
+<pb n="5.16"/>
 raiment, and from this Zarduhsht selected and assumed the girdle — symbolical act like that of the assumption of the sacred cord by the twice-born in India. At the age of twenty he left his parents' house without their permission, and began the years of preparation that was to end in divine illumination later on. Of this period little is recorded except that he went about doing good, helping the weak and aged, and in times of scarcity giving his father’s fodder to feed other men’s cattle, which were so hungry that, as the original record puts it, they constantly ate off each other's tails.<ref n="1"/> He is said also to have abandoned worldly desires,
 but this did not prevent his marrying, partly, as it would seem,
 to please his parents. He showed, however, his good sense by asking to see the face of the proposed bride before espousing her.
@@ -271,7 +271,7 @@ so that in time to come the faithful also might be enabled to endure the like fo
 <note n="4">JZ, 41, 197.</note>
 
 <note n="5">WPT, v. 154 seq. In the reign of Shdptir, son of Urmuzd (Sapor II. A.D. 309-379), the saintly Adarbéd, son of Mahraspand, underwent the ordeal of having molten metal poured upon his breast and came out of it triumphant. DZA, i., xlvi.; WPT, iii. 171, and note.</note>
-<pb n="17"/>
+<pb n="5.17"/>
 attempting in the first instance to convert the assembled Kavigs and Karaps. He appealed to them to accept the religion of
 Urmuzd, to forego demon-worship, and to adopt the principle of next of kin marriages. With regard to this last article, it’is difficult to rise superior to inherited taboos and not feel a certain sympathy with Zarduhsht’s hearers when we read that at this point they rushed upon him and strove to put him to death.<ref n="1"/>
 We may, however, acquit Zarduhsht, or at least the Zarathushtra of the Gathas, of ever having advocated such a doctrine, first on the general principle that it never would have occurred to one who not yet had made a single disciple, it being a device far more suitable to a Faith in extremis, and secondly, because it is not advocated in the Gdthas themselves. Next of kin marriages, of course, occurred in ancient times between exalted, almost divine,
@@ -296,7 +296,7 @@ Vairya, and foiled the tempter.<ref n="8"/> Another trial, against which
 <note n="8">DZA, i. 209 seq.</note>
 
 
-<pb n="18"/>
+<pb n="5.18"/>
 Urmuzd had warned him, was still to come. One of the medicinemen of the old religion assumed the form of the female ameshaspenta Sapanddarmad, and accosted him. Now Zarduhsht had had opportunities of seeing the true Sapandarmad, and knew that she was in all respects well formed and lovely while her impersonator would be fair in front but hideous behind. He therefore bade the temptress turn herself round. After protesting vainly,
 she did so; her falsity became evident, and the phantasm was annihilated.<ref n="1"/> Inspired by Urmuzd, Zarduhsht now determined on a bold step---that of attempting to convert Shah Gushtasp to the Faith. The <q>terrible conflict,</q> as tradition culls it, that ensued lasted two years,<ref n="2"/> for the Evangelist was opposed desperately by the medicine-men whom he found in possession at that monarch’s court.<ref n="3"/> We may lay the scene at Balkh. The first interview between Zarduhsht and Gushtdasp seems to have taken place on the riding-ground. At first, as the expression
 <q>terrible conflict</q> implies, the Prophet came off badly. The king, it is true, was inclined to give ear to him, but his opponents, fearful lest he should prevail with Gushtasp, induced the latter to imprison him and leave him to starve to death.<ref n="4"/>
@@ -310,7 +310,7 @@ The legs of the king’s favourite black horse were drawn up into the animal’s
 <note n="3">Id. 64.</note>
 <note n="4">Id. 64 seq.</note>
 <note n="5">Id, xx. seq., where a summary is given of the work, the whole of which, translated by Eastwick, is to be found in Wilson’s <title>Parsi Religion,</title> referred to as WPR.</note>
-<pb n="19"/>
+<pb n="5.19"/>
 Zarduhsht to be a true prophet ; that Asfandiyar should become the champion of the true religion ; that Zarduhsht should have facilities for converting the queen; and that his false accusers should be punished. It need hardly be added that with the restoration of the fourth leg the steed became as well as ever.<ref n="1"/> We learn from the same authority that Gushtasp, eager perhaps to avail himself to the utmost of such a unique opportunity, made in his turn four requests of Zarduhsht. These were, that the king’s future doom should be revealed to him; that he should become invulnerable; that he should know both the past and the future; and that he should be undying till the Resurrection.
 Zarduhsht said that he would pray that these boons should be granted, but that the king must be content to ask only one of the four, whichever he preferred, for himself, and leave the other three for others. Gushtasp agreed to this; Zarduhsht withdrew to his own abode, and spent the night in prayer. The next morning a great marvel happened. Four heavenly messengers, two of them being ameshaspentas, sent by Urmuzd, arrived at court and exhorted Gushtasp to be firm in the Faith proclaimed to him by Zarduhsht, to cherish that Prophet, and to obey him in all things. The king swooned on his throne, but on his recovery promised full obedience to the divine injunctions, and the angelic band departed. Zarduhsht then prepared to perform the Darin.
 In the present day this is a ceremony held on behalf of some particular person, who is mentioned by name in the course of it,
@@ -326,7 +326,7 @@ From this point, as easily may be imagined, the cause of the good religion began
 <note n="3">WPR, 509 seq.</note>
 <note n="4">The reader that desires farther information about the Prophet of Iran should consult Professor A. V. Williams Jackson’s <title> Zoroaster,</title> referred to in the notes as JZ.</note>
 </p></div>
-<pb n="20"/>
+<pb n="5.20"/>
 <div type="textpart" subtype="part" n="1">
 <head>THE COMING OF ZARDUHSHT AND THE WAR WITH ARJASP</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
@@ -346,7 +346,7 @@ Professor Noldeke says,<ref n="1"/> we know very little, and nothing with certai
 
 <note n="1">NIN, § 16.</note>
 
-<pb n="21"/>
+<pb n="5.21"/>
 He appears, however, to have flourished during the reign of the
 Sdmdnid ruler, Mansur I. (4.D. 961-976), to whom and to his successor, Nuh II. (4.p. 976-997), he wrote eulogies still extant.<ref n="1"/>
 Doubtlessly he was a Persian by birth, and, if we can trust his own statement, a Zoroastrian as well.<ref n="2"/> He had a considerable reputation, not undeserved, as a poet in his own day,<ref n="3"/> and died;
@@ -363,7 +363,7 @@ when, in the reign of Kai Khusrau, we heard last of the political relations betw
 <note n="5">NIN, § 17. See pp. 64, 68.</note>
 <note n="6">E.g. "Paighú"=Turkman, and <q>tigin</q> = brave.</note>
 <note n="7">Can it be that a legend now lost dealt with the fortunes of some viceroy, appointed by Kai Khusrau to administer Tardn, and the descendants of such viceroy? He or they in the days of Luhrdsp may have obtained the predominance and been handed down by tradition as <q> Arjésp.</q> This would account for the Iranian character of that word, and explain and justify the outbreak of the War of the Religion.</note>
-<pb n="22"/>
+<pb n="5.22"/>
 as tributary to Turan, and the latter is under the rule of a powerfulking, This was all right from Dakiki’s point of view, because he started on that assumption, but it is hard to believe that Firdausi,
 looking before and after as he must have done, would have rendered no explanation of, or made no reference to, the new state of affairs if he had been the author of this part of the poem. Again, in
 Dakiki, who doubtlessly follows his authorities, Asfandiyar marries his sister Humai. Firdausi ignores this, and deliberately prefers to make a fine scene of his own less convincing in consequence.
@@ -384,7 +384,7 @@ as Firdausi put it on another occasion.<ref n="3"/> Lack of opportunity for revi
 <note n="2">Of. Vol. iii. p. 285.</note>
 <note n="3">Id, i. 109.</note>
 <note n="4">See p. 87.</note>
-<pb n="23"/>
+<pb n="5.23"/>
 Several reasons may be given. First, by so doing he paid off his debt :—
 <quote><l>He was my pioneer, and he alone!<ref n="1"/></l></quote>
 Secondly, it got Firdausi himself out of a difficulty. The epoch of the advent of Zarduhsht was a dangerous one to treat in those days of fanaticism. The dead poet was beyond the reach of offended Muhammadan orthodoxy, so his work, the insertion of which was justified on the plea of a dream—a portent not lightly to be disregarded in those days—was substituted for what the living poet would have had to write or leave a serious omission in the poem. Thirdly, Firdausi’s real opinion of Dakiki’s literary ability was in all probability higher than he thought it politic to accentuate in close proximity to such a dangerous topic.
@@ -394,7 +394,7 @@ have played the part of the dog in the manger, obstructing
 Firdausi{ without having the needful qualities or opportunities for the accomplishment of a task of such magnitude himself, The two poets, however, par nobile fratrum as they were in genius and in enthusiasm, had one other excellent point in common. They followed their authorities in all essential particulars, and did not
 <note n="1">p. 88.</note>
 <note n="2">p. 88.</note>
-<pb n="24"/>
+<pb n="5.24"/>
 invent on their own account. So far as Dakiki is concerned, this will be shown in what follows.</p>
 <p>
 The Shahnama may be described as a great river-—the outcome of many tributaries. The greatest of these undoubtedly is the prose compilation of ancient legend known as the Bastin-ndma, or
@@ -413,7 +413,7 @@ in Z; Bidirafsh and Némkhist, son of Hazdrdin, in D. In both,
 Zarir, the captain of the Iranian host, obtains Gushtasp’s permission to answer Arjasp’s letter, and does so, accepting the arbitrament of war; the envoys return to Arjasp, and the monarchs prepare for battle. In both, Gushtasp calls upon Jamasp, his chief minister, to foretell the issue of the coming fight; under protest Jimdsp does so, and the king is so perturbed that he
 <note n="1">Vol, i. p. 66 seq.</note>
 
-<pb n="25"/>
+<pb n="5.25"/>
 announces his intention of not allowing his nearest and dearest to go upon the battlefield; but when Jamasp points out the ills which in that event will befall frin, he resigns himself to the inevitable. In both, Arjasp and Gushtasp take up their posts of survey, and the fight begins ; Zarir displays great valour; Arjasp in alarm offers his daughter’s hand and high office to any one who will fight Zarir; Bidirafsh volunteers, and kills Zarir from behind.
 In both, Gushtasp on the hill-top forebodes the death of Zarir, and offers his daughter Humai in marriage to any one that will avenge him; Zarir’s son (Bastvar in Z, Nastur in D)<ref n="1"/> obtains a steed from the master of the horse, goes forth to the battlefield, finds his father lying dead, laments over him, fights and returns to
 Gushtasp, who equips and sends him forth again. In both, he fights so bravely that Arjasp compares him to Zarir, dispatches
@@ -433,7 +433,7 @@ we may say, Z is on a much smaller scale than D, by whom letters, speeches, and 
 
 <note n="1">Cf. p. 12.</note>
 <note n="2">See p. 13.</note>
-<pb n="26"/>
+<pb n="5.26"/>
 prophesying that Zarir will be killed by Vidrafsh, adds that
 Nam-khast will slay Pit-khusrau, another brother, and Frashdkart,
 a son, of Gushtasp’s, and further, that twenty-two of his other sons and brothers will perish, In the account of the actual fighting, however, only the death of Zarir is recorded. In D,
@@ -449,7 +449,7 @@ Spand-dit already dominant, and in D he is still more so. He and Jaimasp are ass
 To account for this predominance, therefore, we must assume still another source—an Asfandiyar-nima, or, as it would be called in Pahlavi, a Spand-dit-ndma—with at least three branches, all represented in their latest forms in the Shahnama. To sum up and illustrate what has been said above, a diagram is appended,
 <note n="1">See Vol. iv. p. 314.</note>
 <note n="2">See Vol. iv. p. 314 and 329 seq.</note>
-<pb n="27"/>
+<pb n="5.27"/>
 which, however, in view of the ravages wrought by time, must be regarded as somewhat theoretical.<ref n="1"/>
 
 <figure><p>Stemma.</p></figure>
@@ -459,7 +459,7 @@ which, however, in view of the ravages wrought by time, must be regarded as some
 
 
 <note n="1">See on the Yatkdr-i-Zariran generally, GYZ, without the help of which the latter portion of this note could not have been written.</note>
-<pb n="28"/>
+<pb n="5.28"/>
 making a new departure in policy, etc., is common enough in the
 Shahnama. We have an instance at the beginning of this section.
 At all events, the Cypress of Kishmar rivals Gushtdsp’s Black
@@ -475,7 +475,7 @@ Gushtasp raised over the Cypress of Kishmar a lofty palace has been interpreted 
 <note n="2">STD, i. 306 seq.</note>
 <note n="3">HRVP, p. 332.</note>
 <note n="4">HRVP, p. 324.</note>
-<pb n="29"/>
+<pb n="5.29"/>
 Persia at the present day a semi-sacred character is attached to some of the large trees, which have platforms built round them where the villagers sit and smoke in the evenings.<ref n="1"/>
 </p><p>
 § 8 The Kuhram mentioned here and in § 11 is no doubt the same person, though variously described as the brother and son of Arjasp. Firdausi makes him the latter. A Kuhram and an Andarimdn appear among the Turanian heroes as far back as the reign of Kai Kaus,<ref n="2"/> and are among those slain in <q>The
@@ -499,7 +499,7 @@ Gushtdsp</q>; and there is a tradition that when the Iranians were hard pressed 
 <note n="5">GYZ, p. 50.</note>
 <note n="6">p. 48.</note>
 <note n="7">See p. 94.</note>
-<pb n="30"/>
+<pb n="5.30"/>
 adjacent mountains which received in consequence the name of
 <q> Madofryat </q> or <q> Come-to-help.</q><ref n="1"/> </p>
 <p>§21. The Gloom, or Land of Darkness, here referred to, will be met with again in the next volume under the reign of Sikandar
@@ -528,7 +528,7 @@ Mountain,</q> to whom we are indebted for the vogue of the word
 <note n="6">JZ, p. 215.</note>
 <note n="7">Vol. i, p. 236.</note>
 <note n="8">SM, p. 290 and note,</note>
-<pb n="31"/>
+<pb n="5.31"/>
 <lb/>Who giveth all a portion of his store,
 <lb/>Shall from today for fourscore years and five
 <lb/>Behold his travail wane, his treasury thrive,
@@ -564,7 +564,7 @@ upon the Throne
 <lb/>The woollen raiment of a devotee—
 <lb/>The garniture wherein to worship wisdom—
 <lb/>Put off his armlets, let his hair grow long,
-<pb n="32"/>
+<pb n="5.32"/>
 <lb/>And set himself to serve the all-just Judge.
 <lb/>Upstanding in His presence thirty years,
 <lb/>Such is the way that men should serve the Lord,
@@ -601,7 +601,7 @@ upon the Throne
 <lb/>And since he would not hear was doomed to chains,
 <lb/>He took too tribute from the Shah each year,
 <lb/>But why should one pay tribute to his peer ?
-<pb n="33"/></p></div>
+<pb n="5.33"/></p></div>
 <div type="textpart" subtype="section" n="3"><head>How Zarduhsht appeared and how Gushtasp accepted his Evangel</head>
 <p><lb/>
 
@@ -640,7 +640,7 @@ upon the Throne
 <lb/>Who used to vanquish mighty elephants ;
 <lb/>The Shah, his father, now grown old at Balkh,
 
-<pb n="34"/>
+<pb n="5.34"/>
 
 <lb/>To whose heart worldly things were bitterness ;
 <lb/>The mighty chiefs from all the provinces,
@@ -680,7 +680,7 @@ upon the Throne
 <lb/>Commanded too a picture to be drawn
 <lb/>Of Faridun armed with the ox-head mace,
 <lb/>And limned there all the potentates. Consider
-<pb n="35"/>
+<pb n="5.35"/>
 <lb/>If other ever had such puissance.
 <lb/>When that famed hall of gold had grown thus goodly
 <lb/>He had its walls inlaid with precious stones,
@@ -717,7 +717,7 @@ upon the Throne
 <q>'Tis not accordant to our Faith for thee
 <lb/>To pay a tribute to the prince of Chin,
 <lb/>Nor consonant with custom and religion,
-<pb n="36"/>
+<pb n="5.36"/>
 
 <lb/>Moreover I can not assent thereto,
 <lb/>For no one of our Shahs in days of yore
@@ -760,7 +760,7 @@ upon the Throne
 
 <lb/>The chief among the nobles of Iran,
 <lb/>The most illustrious son of Shah Luhrasp,
-<pb n="37"/>
+<pb n="5.37"/>
 <lb/>He whom the Iranians call Gushtasp, hath bound
 <lb/>The cincture round his loins, as hath withal
 <lb/>His brother, that courageous cavalier,
@@ -798,7 +798,7 @@ upon the Throne
 <lb/>The other named Namkhast<ref n="2"/> —a sorcerer—
 <note n="1">I.e. Without a banner.</note>
 <note n="2">i.e. Covetous of honour.</note>
-<pb n="38"/>
+<pb n="5.38"/>
 <lb/>Whose thoughts were ever bent upon destruction.
 <lb/>The monarch wrote a fair and goodly letter
 <lb/>To that illustrious sovereign and convert :—
@@ -837,7 +837,7 @@ upon the Throne
 <lb/>In preference to the offspring of Jamshid,
 <note n="1">Paigha.</note>
 <note n="2">Kai Khusrau.</note>
-<pb n="39"/>
+<pb n="5.39"/>
 <milestone unit="vullers" n="1504"/>
 <lb/>So that, like Kai Khusrau—the man of vengeance—
 <lb/>Thou wast more glorious than the other Kaians.
@@ -875,7 +875,7 @@ upon the Throne
 <lb/>But if thou wilt accept not this my counsel,
 <lb/>Then shalt thou feel my heavy iron bonds,
 <note n="1"><cit><quote xml:lang="fra">des chevaux aux couleurs de bon augure</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="40"/>
+<pb n="5.40"/>
 <milestone unit="vullers" n="1505"/>
 <lb/>For I will follow in a month or twain
 <lb/>This letter and will desolate thy realm,
@@ -911,7 +911,7 @@ upon the Throne
 <lb/>Attend to what he sayeth in reply,
 <lb/>And, having heard the answer every whit,
 <lb/>Kiss ye the ground before him and depart.</q>
-<pb n="41"/>
+<pb n="5.41"/>
 <lb/>Then Bidirafsh, the vengeful, left the presence,
 <lb/>And bare his banner forth toward famous Balkh,
 <lb/>While with him fared Namkhast, his headstrong comrade—
@@ -949,7 +949,7 @@ upon the Throne
 <lb/><q>What do ye say? How will the matter end ?
 <lb/>How very ill-advised was amity
 <note n="1">Paight.</note>
-<pb n="42"/>
+<pb n="5.42"/>
 <lb/>With one who hath so small a stock of wisdom !
 <lb/>My race is from Iraj of holy birth,
 <lb/>While he is sprung from Tur, the sorcerer.
@@ -958,7 +958,7 @@ upon the Throne
 <lb/>And now let him that is the most possest
 <lb/>Of reputation speak before the rest.</q>
 </p></div>
-<div type="textpart" subtype="section" n="7"><head>§7 How Zarir made Answer to Arjasp</head>
+<div type="textpart" subtype="section" n="7"><head>How Zarir made Answer to Arjasp</head>
 <milestone unit="vullers" n="1508"/>
 <p>
     <lb/>Whenas the sovercign had spoken thus,
@@ -989,7 +989,7 @@ upon the Throne
 <lb/>And with that prosperous minister, Jamasp,
 <lb/>Departed with stern hearts and frowning looks,
 <note n="1">tigin.</note>
-<pb n="43"/>
+<pb n="5.43"/>
 <lb/>And wrote a letter to Arjasp the foul—
 <lb/>A fit response. Zartir, chief of the host,
 <lb/>Took it still open, bare it to the Shah,
@@ -1024,7 +1024,7 @@ upon the Throne
 <lb/>His speech, sent for his general, greeted him,
 <lb/>Put in his charge the ambassadors, and said :—
 <note n="1">Of the Wolf-heads—the name of a tribe.</note>
-<pb n="44"/>
+<pb n="5.44"/>
 <lb/><q>See them beyond the borders of Iran.</q>
 </p><p>
 <lb/>The envoys left the presence of Gushtasp,
@@ -1067,7 +1067,7 @@ upon the Throne
 <lb/>All upright in their stature and their speech,
 <note n="1">Paight. </note>
 <note n="2">Paight.</note>
-<pb n="45"/>
+<pb n="5.45"/>
 <lb/>All worthy of the empire and the throne,
 <lb/>All worthy of the treasure, crown, and host,
 <lb/>All spearmen and all swordsmen, all of them
@@ -1108,7 +1108,7 @@ upon the Throne
 <milestone unit="vullers" n="1512"/>
 <lb/>The monarch had two brothers—Ahrimans—
 <note n="1">tigin.</note>
-<pb n="46"/>
+<pb n="5.46"/>
 <lb/>One hight Kuhram, Andarimdn the other,
 <lb/>Who both received drums, elephants, and standards,
 <lb/>Bedecked with yellow, red, and violet.
@@ -1143,7 +1143,7 @@ upon the Throne
 <lb/>The palaces, and razed trees, root and branch.
 <lb/>That king of infidels led forth his host,
 <lb/>With vengeful heart, against the Iranian coast.
-<pb n="47"/></p></div>
+<pb n="5.47"/></p></div>
 <div type="textpart" subtype="section" n="9"><head>How Gushtasp assembled his Troops</head>
 <p>
 <lb/>As soon as tidings came to Shah Gushtasp :—
@@ -1183,7 +1183,7 @@ upon the Throne
 <lb/>The drums and trumpets, loaded up the baggage,
 <lb/>And ordered to be borne before the host
 <lb/>The conquering standard of the glorious Shahs.
-<pb n="48"/>
+<pb n="5.48"/>
 <lb/>He led the troops to battle with Arjasp—
 <lb/>An army such as none had ever seen.
 <lb/>None could discern the daylight or the moon
@@ -1217,7 +1217,7 @@ upon the Throne
 <lb/>How will the battle go from first to last,
 <lb/>And which of us will meet disaster here ?</q>
 <note n="1">See p. 19.</note>
-<pb n="49"/>
+<pb n="5.49"/>
 <milestone unit="vullers" n="1515"/>
 <lb/>The old Jaémasp was grieved, with rueful looks
 <lb/>He said: <q>I would to God that He, the Just,
@@ -1259,7 +1259,7 @@ upon the Throne
 <lb/>And fling whoe'er opposeth in the dust,
 <lb/>Unhorsing of the Turkman cavaliers
 
-<pb n="50"/>
+<pb n="5.50"/>
 <lb/>A number greater than the tale of stars,
 <lb/>Yet in the end be slain and his good name
 <lb/>Erased. The monarch’s son, the great Shidasp,
@@ -1298,7 +1298,7 @@ upon the Throne
 <lb/>With hands that have been stretched out o'er the foe,
 <lb/>Nivzar, the chosen horseman, will go forth,
 <lb/>The world-lord’s son, will overthrow three score
-<pb n="51"/>
+<pb n="5.51"/>
 <lb/>Of foemen, and display the mastery
 <lb/>Of paladins ; but in the end the Turkmans
 <lb/>Will smite him with their arrows and will fling
@@ -1337,7 +1337,7 @@ upon the Throne
 <lb/>Will lie in wait for him upon the road,
 <lb/>And bar it like a maddened elephant,
 <note n="1"><cit><quote xml:lang="fra">le roi du peuple qui demeure sous des tentes</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="52"/>
+<pb n="5.52"/>
 <lb/>While grasping in his hand a venomed sword.
 <lb/>As prince Zarir returneth from the fight,
 <lb/>And thou wouldst say: <q>He cometh from a feast,</q>
@@ -1376,7 +1376,7 @@ upon the Throne
 <lb/>And scatter them abroad in utter ruin,
 <lb/>While in the end the king of Chin will flee
 <lb/>Before Asfandiyar, that glorious Kaian,
-<pb n="53"/>
+<pb n="5.53"/>
 <lb/>And in his flight will make toward Turén,
 <lb/>Heart-broken and in tears, and cross the waste
 <lb/>With but a scanty following, while the Shah
@@ -1417,7 +1417,7 @@ upon the Throne
 <lb/>I will not burn mine agéd mother’s heart.
 <lb/>I will forbid his going to the fight,
 <lb/>And give the host to glorious Gurazm.
-<pb n="54"/>
+<pb n="5.54"/>
 <lb/>Those of blood Kaian with my youthful sons,
 <lb/>Who all are as my body and my soul,
 <lb/>Now will I call before me, will prevent
@@ -1445,7 +1445,7 @@ upon the Throne
 <lb/>To fight the ambitious monarch of Chigil ;
 <lb/>Oppressed with thought he gat no sleep that night,
 <lb/>And was all eagerness for war and fight.</p></div>
-<div type="textpart" subtype="section" n="11"><head>§ 11 How Gushtasp and Arjasp arrayed their Hosts</head>
+<div type="textpart" subtype="section" n="11"><head>How Gushtasp and Arjasp arrayed their Hosts</head>
 <p>
 <lb/>Gushtasp, according to Jamasp’s advice,
 <lb/>When morning breathed and starlight disappeared,
@@ -1454,7 +1454,7 @@ upon the Throne
 <lb/>Is wafted houseward by the breath of dawn,
 <lb/>Dispatched according to the Iranian custom
 <lb/>His scouts on every side. A cavalier
-<pb n="55"/>
+<pb n="5.55"/>
 <lb/>Approached and said: <q>O monarch of the world!
 <lb/>The enemy is nigh. So great a host
 <lb/>Ne'er came before from Turkistan or Chin.
@@ -1494,7 +1494,7 @@ upon the Throne
 <lb/>In like wise ranged his forces and dispatched
 <lb/>A hundred thousand horsemen of Khallukh,
 <lb/>All brave and tried, to Bidirafsh, who had,
-<pb n="56"/>
+<pb n="5.56"/>
 
 <lb/>As general, the drums and golden standard,
 <lb/>Entrusting one wing of the host to him,
@@ -1531,7 +1531,7 @@ upon the Throne
 </p><p>
 <lb/>They put the bards thereon, and then he mounted.
 <note n="1">Reading with P.</note>
-<pb n="57"/>
+<pb n="5.57"/>
 <lb/>Whenas they set the battle in array,
 <lb/>And champion challenged champion, first they sent
 <lb/>A shower of arrows like a springtide hail,
@@ -1571,7 +1571,7 @@ upon the Throne
 <lb/>Fell. Woe for that brave, noble warrior,
 <lb/>Who died and nevermore beheld his sire !
 <lb/>The next to sally forth was prince Shidasp,
-<pb n="58"/>
+<pb n="5.58"/>
 <lb/>One like the moon, a man of royal mien.
 <lb/>He, seated on a steed like indigo,
 <lb/>Fleet as gazelle and huge as elephant,
@@ -1609,7 +1609,7 @@ upon the Throne
 <lb/><q>Who of you,</q> said he, <q>is of lion-heart
 <lb/>To come against my life-destroying spear ?
 <lb/>And where is that o'erweening sorcerer,
-<pb n="59"/>
+<pb n="5.59"/>
 <lb/>Namkhast by name, the son of Hazaran?</q><ref n="1"/>
 <lb/>Namkhast went forth to him: thou wouldst have said :—
 <lb/><q>That charger hath a mountain on its back !</q>
@@ -1649,7 +1649,7 @@ upon the Throne
 <note n="1">Reading with P. </note>
 <note n="2">Cf. Vol. i. p. 157. </note>
 <note n="3">Jamasp.</note>
-<pb n="60"/>
+<pb n="5.60"/>
 <lb/>Immediately went forth Nastur, the Lion,
 <lb/>A warrior, Kaian-born, son of Zarir.
 <lb/>He slew a countless multitude of foes,
@@ -1687,7 +1687,7 @@ upon the Throne
 <lb/>Engaged in every quarter of the field,
 <lb/>And raised the dust-clouds from earth’s face. Two se'nnights
 <lb/>Passed in that fight for not a horseman slept,
-<pb n="61"/>
+<pb n="5.61"/>
 <milestone unit="vullers" n="1527"/>
 <lb/>The earths<ref n="1"/> were filled with slain and wounded men, 
 <lb/>The passage of the wind was barred by dust,
@@ -1723,7 +1723,7 @@ upon the Throne
 <lb/>Man-like, alone, and compass world-renown ?
 <lb/>I will bestow on him my daughter's hand,
 <note n="1">Cf. Vol. ii. p. 15 and note.</note>
-<pb n="62"/>
+<pb n="5.62"/>
 <milestone unit="vullers" n="1529"/>
 <lb/>And give to him the conduct of my host.</q>
 </p><p>
@@ -1763,7 +1763,7 @@ upon the Throne
 <lb/>And fling him to the dust before the king,
 <lb/>Let me be leader of this countless host.</q>
 <note n="1">tigin.</note>
-<pb n="63"/>
+<pb n="5.63"/>
 <lb/>Thereat Arjasp rejoiced, praised Bfdirafsh,
 <lb/>Gave his own steed and saddle to that chief,
 <lb/>And therewithal a keen two-headed dart
@@ -1802,7 +1802,7 @@ upon the Throne
 </p><p>
 <lb/>Thus fared the world’s king
 <lb/>Till one, whose eyes poured blood-drops, came and said :—
-<pb n="64"/>
+<pb n="5.64"/>
 <lb/><q>The Turkman horsemen wretchedly have slain
 <lb/>Thy Moon, the guardian of thy crown and host,
 <lb/>Him that was paladin of paladins—
@@ -1840,7 +1840,7 @@ upon the Throne
 </p><p>
 <lb/>But not a man came forward from the host,
 <lb/>And not a single warrior left his post.
-<pb n="65"/></p></div>
+<pb n="5.65"/></p></div>
 <div type="textpart" subtype="section" n="15"><head>How Asfandiyar heard of the Slaying of Zarir</head>
 <p>
 <lb/>Thereafter tidings reached Asfandiyar :—
@@ -1878,7 +1878,7 @@ upon the Throne
 <lb/>And count not heads. Put not your trust in flight,
 <lb/>And be not terrified at combating.
 
-<pb n="66"/>
+<pb n="5.66"/>
 <milestone unit="vullers" n="1532"/>
 <lb/>In battle let your lances' points be low,
 <lb/>Strive for a space and quit you manfully.
@@ -1914,7 +1914,7 @@ upon the Throne
 <lb/>He came, bent modestly before his sire,
 <lb/>And then, as 'twere a div escaped from bond,
 <note n="1">One of Asfandiyar’s brothers,</note>
-<pb n="67"/>
+<pb n="5.67"/>
 <lb/>Bestrode a stately grey, like blast on rose-leaves
 <lb/>Fell on the foe, slew, and beheaded them,
 <lb/>While all that saw him died of fright. Nastur,
@@ -1954,7 +1954,7 @@ upon the Throne
 <lb/>And thus addressed it: <q>O my shining Moon,
 <lb/>The lustre of my heart and eyes and soul!
 <lb/>What toil and trouble hadst thou in my nurture,
-<pb n="68"/>
+<pb n="5.68"/>
 <lb/>And whom didst thou commit me to in dying ?
 <lb/>Since Shah Luhrasp bestowed the host upon thee,
 <lb/>And gave Gushtasp the throne and diadem,
@@ -1999,7 +1999,7 @@ upon the Throne
 </p><p>
 
 <lb/>The noble minister addressed the Shah,
-<pb n="69"/>
+<pb n="5.69"/>
 <lb/>And said: <q>Thou shouldst not go upon the field.
 <milestone unit="vullers" n="1535"/>
 <lb/>Give to Nastur the steed that thou wouldst mount,
@@ -2008,7 +2008,7 @@ upon the Throne
 <lb/>The vengeance that is owing for his sire.</q>
 </p></div>
 
-<div type="textpart" subtype="section" n="17"><head>§17. How Nastir and Asfandiyar slew Bidirafsh</head>
+<div type="textpart" subtype="section" n="17"><head>How Nastir and Asfandiyar slew Bidirafsh</head>
 <p>
 <lb/>The Shah then gave his steed Bihzdd, his helm
 <lb/>Of steel, and sable breastplate to Nastur,
@@ -2038,7 +2038,7 @@ upon the Throne
 <lb/>And urged his charger in this selfsame way ?
 <lb/>Where is the chosen warrior Bidirafsh ?
 <lb/>Ho! summon him before me, and right soon.</q>
-<pb n="70"/>
+<pb n="5.70"/>
 <lb/>Then Bidirafsh went forth at once, he bare
 <lb/>The violet flag, was mounted on the charger
 <lb/>Of prince Zarir, and wore the prince’s mail.
@@ -2074,7 +2074,7 @@ upon the Throne
 <lb/>Hath overthrown the foe, gone forth, and brought
 <lb/>The dun steed back !</q>
 <note n="1">The sword is mentioned in Jamasp’s prophecy (p. 52), but elsewhere we are told that Zarir was slain by a double-headed dart (p. 63). The discrepancy may be due to lack of revision (p. 22).</note>
-<pb n="71"/>
+<pb n="5.71"/>
 </p><p>
 <lb/>The prince, that valiant horseman,
 <lb/>Brought to the Shah Zarir’s horse and presented
@@ -2111,7 +2111,7 @@ upon the Throne
 <lb/>Advanced with his own chiefs and warriors.
 <lb/>Asfandiyar, the hero-slayer, couched
 <lb/>His lance against those divs of Turkman race,
-<pb n="72"/>
+<pb n="5.72"/>
 <lb/>And sewed them breast to back till he had slain
 <lb/>Full many a haughty chief. Although the Khan
 <lb/>Saw none to aid, and none who dared oppose
@@ -2148,7 +2148,7 @@ upon the Throne
 <milestone unit="vullers" n="1539"/>
 <lb/>Of anguish, scorn, and strait, make no more prisoners,
 <lb/>Put none in bonds, and let all bloodshed cease ;
-<pb n="73"/>
+<pb n="5.73"/>
 <lb/>Charge not, nor trample on the slain. Go round
 <lb/>And reckon up the wounded. By Zarir’s soul,
 <lb/>Make no more prisoners, and tarry not
@@ -2187,7 +2187,7 @@ upon the Throne
 <lb/>He laid upon their biers, and gave command
 <lb/>To count the slain and carry off the wounded.
 <lb/>They searched the battlefield, the plains, and mountains,
-<pb n="74"/>
+<pb n="5.74"/>
 <milestone unit="vullers" n="1540"/>
 <lb/>The waste and ways. Of soldiers of Iran
 <lb/>Were thirty thousand slain; of nen of name
@@ -2224,7 +2224,7 @@ upon the Throne
 <lb/>Pass through Ayds and through Khallukh, and slay
 <lb/>All that thou takest to avenge thy sire.</q>
 <note n="1">I.e. Asfandiyar. Cf. p. 22.</note>
-<pb n="75"/>
+<pb n="5.75"/>
 </p><p>
 
 <milestone unit="vullers" n="1541"/>
@@ -2263,7 +2263,7 @@ upon the Throne
 <lb/>Of slave-boys and of steeds caparisoncd ;
 <lb/>The king of Barbaristan and kings of Hind
 <lb/>Sent tribute too as did the kings of Sind.
-<pb n="76"/>
+<pb n="5.76"/>
 </p></div>
 <div type="textpart" subtype="section" n="21"><head>How Gushtasp sent Asfandiyar to all the Provinces, and how the Folk received from him the good Religion</head>
 <p>
@@ -2304,7 +2304,7 @@ upon the Throne
 <lb/>Of God, the All-provider. When folk learned
 <lb/>About the good Faith they received its rites,
 <lb/>Adorned themselves therewith, and sought instruction.
-<pb n="77"/>
+<pb n="5.77"/>
 <lb/>They burned the idols on their thrones, they kindled
 <lb/>The Fire in stead thereof, and all dispatched
 <lb/>This letter to the Shah: <q>We have accepted
@@ -2344,7 +2344,7 @@ upon the Throne
 <lb/>And no one is in Jack of gold and silver.
 <lb/>The world hath grown as bright as Paradise
 <note n="1">See p. 16.</note>
-<pb n="78"/>
+<pb n="5.78"/>
 <milestone unit="vullers" n="1545"/>
 <lb/>And populous, and all the fields are tilled ;
 <lb/>Our cavaliers have made it all their own,
@@ -2384,7 +2384,7 @@ upon the Throne
 <lb/>A slave that is disloyal to his lords
 <lb/>Should be beheaded as his just reward.</q></q>
 <note n="1">Cf. p 12.</note>
-<pb n="79"/>
+<pb n="5.79"/>
 </p><p>
 
 <lb/>Gushtasp asked what the riddler meant, and said :—
@@ -2432,7 +2432,7 @@ upon the Throne
 </p><p>
 
 <lb/>In dudgeon he began to hate his son ;
-<pb n="80"/>
+<pb n="5.80"/>
 <lb/>He quaffed no wine withal, forwent his pleasures,
 <lb/>Refused the feast, and heaved deep, chilling sighs ;
 <lb/>He could not sleep for thinking all that night,
@@ -2471,7 +2471,7 @@ upon the Throne
 <lb/>And doughty cavaliers, the eldest hight
 <lb/>Bahman,<ref n="1"/> the second Mihr-i-Nush, the third
 <note n="1">The future Shah.</note>
-<pb n="81"/>
+<pb n="5.81"/>
 <lb/>Azar Afriz—a wary warrior—
 <lb/>The youngest Nuish Azar; 'twas he that built
 <lb/>The Fane of Fire. Bahman said to his father,
@@ -2520,7 +2520,7 @@ upon the Throne
 <lb/>Informing him with frankness of the case,
 <lb/>And saying: <q>The Div hath led the Shah astray.</q>
 
-<pb n="82"/>
+<pb n="5.82"/>
 </p><p>
 
 <lb/>Asfandiyar said to that man of wisdom :—
@@ -2560,7 +2560,7 @@ upon the Throne
 <lb/>He seated all the archmages and then summoned
 <lb/>The royal swordsman. With extended hands
 <lb/>The hero came, approached the presence, did
-<pb n="83"/>
+<pb n="5.83"/>
 <lb/>Obeisance, and stood slave-like with bent head
 <lb/>And folded arms. The king of kings addressed
 <lb/>The archmages, chiefs, and leaders of the host.
@@ -2601,7 +2601,7 @@ upon the Throne
 </p><p>
 
 <lb/>The world-lord answered : <q> Here there is a son
-<pb n="84"/>
+<pb n="5.84"/>
 <lb/>Who hath designs upon his father’s life.
 <lb/>Him will I bind as well he hath deserved,
 <lb/>And on such wise as none hath bound another.</q>
@@ -2639,7 +2639,7 @@ upon the Throne
 <lb/>While seared and sore that gallant paladin
 <lb/>Lived for a space in straitest custody,
 <lb/>And ever and anon wept bitterly.
-<pb n="85"/></p></div>
+<pb n="5.85"/></p></div>
 <div type="textpart" subtype="section" n="25"><head>How Gushtasp went to Sistan and how Arjasp arrayed his Host the second Time</head>
 <p>
 
@@ -2678,7 +2678,7 @@ upon the Throne
 
 <lb/>Heard that his sire was prisoned by the Shah,
 <lb/>And for no fault, Asfandiyar’s brave meiny
-<pb n="86"/>
+<pb n="5.86"/>
 <lb/>Came grieving to him with the Kaian princes,
 <lb/>Fulfilled with tribulation and dismay,
 <lb/>And raised his spirits with their minstrelsy,
@@ -2721,7 +2721,7 @@ upon the Throne
 <lb/>Take heedful note, and roam through all the land.</q>
 </p><p>
 <lb/>The spy set forth upon his way and went
-<pb n="87"/>
+<pb n="5.87"/>
 <lb/>To chosen Balkh, the dwelling of the Shah.
 <lb/>He saw not Shah Gushtasp therein but found
 <lb/>Luhrasp, the devotee; he thereupon
@@ -2757,7 +2757,7 @@ upon the Throne
 <lb/>But here have I transcribed them that the king
 <lb/>May know how inartistic verses ring.
 <note n="1"><cit><quote xml:lang="fra">Lorsque ce livre tomba entre mes mains, il me manquait un mois pour avoir soixante ans</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="88"/>
+<pb n="5.88"/>
 <lb/>Both jewellers have each a gem to sell ;
 <lb/>Now let the Shah give ear to what they tell.
 <lb/>If thou canst speak but in Dakik{’s vein
@@ -2797,7 +2797,7 @@ upon the Throne
 <lb/>To shed a lustre on the royal throne—
 <lb/>A matter of much discontent to me,
 <lb/>But silence was the only remedy.
-<pb n="89"/>
+<pb n="5.89"/>
 <lb/>I had before mine eyes a garth of trees,
 <lb/>A dwelling-place for such as live at ease,
 <lb/>But not a portal opened on that same,
@@ -2824,7 +2824,7 @@ upon the Throne
 <lb/>May his throne flourish ever and still be
 <lb/>The rapture of the spirits of the free!</p></div>
 
-<div type="textpart" subtype="section" n="27"><head>§ 27 How the Host of Arjasp marched to Balkh and how Luhrasp was slain</head>
+<div type="textpart" subtype="section" n="27"><head>How the Host of Arjasp marched to Balkh and how Luhrasp was slain</head>
 <p>
 <lb/>Now will we tell the warfare of Arjasp
 <lb/>Afresh and by our insight clear the garth
@@ -2832,7 +2832,7 @@ upon the Throne
 <lb/>Had set forth with his host toward Sistan,
 <lb/>And gave commandment that Kuhram, the swordsman,
 <lb/>Should lead the troops before him, for Kuhram
-<pb n="90"/>
+<pb n="5.90"/>
 <lb/>Was eldest-born to him and raised his head
 <lb/>O'er radiant Sol. Arjasp said : <q>Choose thee horsemen
 <lb/>War-worthy from the host and haste to Balkh,
@@ -2873,7 +2873,7 @@ upon the Throne
 <lb/>Thou art supreme o'er time’s vicissitudes,
 <lb/>Thou art almighty, wise, and merciful,
 <lb/>The Master of the shining sun. Preserve
-<pb n="91"/>
+<pb n="5.91"/>
 <lb/>My Faith, my person, and mine energies,
 <lb/>My watchful heart and intellect withal,
 <lb/>So that I may not perish in their hands
@@ -2916,7 +2916,7 @@ upon the Throne
 <lb/>But when they raised the helmet from his head,
 <lb/>And saw his ruddy cheek, his camphor hair,
 <lb/>And heavenly visage livid now with iron,
-<pb n="92"/>
+<pb n="5.92"/>
 <lb/>All marvelled at the miracle, exclaiming :— :
 <lb/><q>To think that one so old should sword it thus!
 <lb/>Had but Asfandiyar himself come hither
@@ -2948,7 +2948,7 @@ upon the Throne
 <lb/>Who slew that priest himself I know not I.<ref n="2"/>
 <note n="1">Nash Azar. See p. 93.</note>
 <note n="2">Reading with P. Cf. p. 15. Zarduhsht is said to have been seventy-seven at the time of his death on the day Khurshid of the month Ardibihisht, i.e. on May 1, 583 B.C. WPT, v. 165, and xxx.</note>
-<pb n="93"/></p></div>
+<pb n="5.93"/></p></div>
 <div type="textpart" subtype="section" n="28"><head>How Gushtasp heard of the Slaying of Luhrdsp and led his Army toward Balkh</head>
 <p>
 
@@ -2986,7 +2986,7 @@ upon the Throne
 <lb/>Take not so grave a matter easily.
 <lb/>If there were nothing but Humai's dishonour
 *T would stir a sage’s heart, and furthermore
-<pb n="94"/>
+<pb n="5.94"/>
 <lb/>There is thine other daughter, Bih Afrid,
 <lb/>Till then kept hidden from a breath of air,
 <lb/>Whom they have taken from her golden throne,
@@ -3027,7 +3027,7 @@ upon the Throne
 <lb/>Son of Zarir—the chief; while at the centre
 <lb/>Gushtasp, the world-lord, overlooked his powers.
 <lb/>Kundur was stationed on the Turkman right
-<pb n="95"/>
+<pb n="5.95"/>
 <lb/>With infantry behind him with the baggage ;
 <lb/>Kuhram, the swordsman, on the left; Arjasp
 <lb/>Was at the centre with the main. The din
@@ -3062,7 +3062,7 @@ upon the Throne
 <lb/>Had eight and thirty sons, bold mountaineers
 <lb/>And horsemen on the plain; all were laid low;
 <lb/>The Shah’s good fortune darkened at a blow.
-<pb n="96"/>
+<pb n="5.96"/>
 <milestone unit="vullers" n="1563"/></p></div>
 <div type="textpart" subtype="section" n="29"><head>How Gushtasp was put to Flight by Arjasp</head>
 <p>
@@ -3098,7 +3098,7 @@ upon the Throne
 </p><p>
 <lb/>The Shah replied : <q>Whatever secret thing
 <note n="1">There is a play of words in the original between khar (thorns) and khara (flint).</note>
-<pb n="97"/>
+<pb n="5.97"/>
 <lb/>Thou knowest, tell it to me and be brief;
 <lb/>My head may touch the clouds, but heaven’s changes
 <lb/>I cannot ’scape.</q>
@@ -3144,7 +3144,7 @@ upon the Throne
 <lb/>And foemen will uproot the Kaian Tree,
 <lb/>On thee, if thou shalt come, I will bestow
 
-<pb n="98"/>
+<pb n="5.98"/>
 <lb/>Crown, treasure, and whate'er I have amassed
 <lb/>By toil, and will devote myself to prayer
 <lb/>Thenceforth as did my sire Luhrasp, the world-lord.
@@ -3183,7 +3183,7 @@ upon the Throne
 <lb/>Said great Asfandiyar: <q>The traveller,
 <lb/>Since he is unattended, is but lowly.
 <lb/>In sooth he is a warrior from Iran,
-<pb n="99"/>
+<pb n="5.99"/>
 <lb/>And cometh unto us with some dispatch ;
 <lb/>My sire hath put that helmet on his head
 <lb/>In apprehension of our valiant foes.</q>
@@ -3225,7 +3225,7 @@ upon the Throne
 <lb/>Of pious Shah Luhrasp, slain by the Turkmans
 <lb/>In battle, and of those God-fearing priests,
 <lb/>
-<pb n="100"/>
+<pb n="5.100"/>
 <lb/>Who had the Zandavasta in their hands,
 <lb/>Of whom four score were slaughtered—archimages
 <lb/>And sages pure of heart, quenched in whose blood
@@ -3267,7 +3267,7 @@ upon the Throne
 <lb/>With tearful eyes and unfed lips; the Turkmans
 <lb/>Beleaguer him; henceforth thou wilt not see
 <lb/>His head and crown. The Maker will condemn
-<pb n="101"/>
+<pb n="5.101"/>
 <lb/>Thy disregard of love and Faith. Thy brethren,
 <milestone unit="vullers" n="1568"/>
 <lb/>For thou hadst eight and thirty—Mountain-pards,
@@ -3311,7 +3311,7 @@ upon the Throne
 </p><p>
 
 <lb/>Jamasp fetched blacksmiths, and they brought with them
-<pb n="102"/>
+<pb n="5.102"/>
 <lb/>Their heavy hammers and their files of steel.
 <lb/>They filed the rings, the rivets, and the chains,
 <lb/>And all the bridge-like fetters made in Rum.
@@ -3349,7 +3349,7 @@ upon the Throne
 </p><p>
 <lb/>He sent for smiths, the prowest in their trade,
 <lb/>Who came, repaired his arms, and hauberks made.
-<pb n="103"/></p></div>
+<pb n="5.103"/></p></div>
 <div type="textpart" subtype="section" n="31"><head>How Asfandiyar saw his Brother Farshidward</head>
 <p>
 <lb/>Night came like vengeful Ahriman, the bells
@@ -3385,7 +3385,7 @@ upon the Throne
 <lb/>I will convert the erring to the Faith,
 <lb/>And will lay low the heads of sorcerers,
 <lb/>While in God’s presence will I stand and worship ;
-<pb n="104"/>
+<pb n="5.104"/>
 <lb/>None ever shall behold mc take mine ease.</q>
 </p><p>
 <lb/>He spake thus and urged on his battle-steed
@@ -3428,7 +3428,7 @@ upon the Throne
 <lb/>With heart all vengeance and with head distraught
 <lb/>He laid his brother’s corpse upon the saddle,
 <lb/>Then mounted to the heights, his brother’s body
-<pb n="105"/>
+<pb n="5.105"/>
 <lb/>Bound on the bay, and said: <q>What at this present
 <lb/>Can I achieve for thee, how raise thy charnel ?
 <milestone unit="vullers" n="1573"/>
@@ -3468,7 +3468,7 @@ upon the Throne
 <lb/>And such that heaven was aghast thereat.
 <lb/>A trench had been constructed round about,
 <lb/>More than an arrow’s flight in width. This ditch
-<pb n="106"/>
+<pb n="5.106"/>
 <lb/>He managed with a hundred shifts to cross,
 <lb/>And reined his steed toward the level ground.
 </p><p>
@@ -3510,7 +3510,7 @@ upon the Throne
 <lb/>Befalleth evil men for their ill deeds.
 <lb/>Now by the Ruler of the world I swear,
 <lb/>Who knoweth all things open and concealed,
-<pb n="107"/>
+<pb n="5.107"/>
 <lb/>That if I prosper and o'ercome the foe
 <lb/>I will bestow the realm, the crown, and throne
 <lb/>On thee, establish many a shrine, and give thee
@@ -3551,7 +3551,7 @@ upon the Throne
 <lb/>With glorious Asfandiyar and set
 <lb/>His eyes a-stream in telling of the blood
 <lb/>Of all those valiant youths that had been slain
-<pb n="108"/>
+<pb n="5.108"/>
 <lb/>Upon the battlefield, whose princely heads
 <lb/>Were now encircled by a crown of gore.
 <lb/>That very night the tidings reached Arjasp :—
@@ -3593,7 +3593,7 @@ upon the Throne
 <lb/>Its fortune all astound, the Shah himself
 <lb/>Is all consumed with grief, his sons are slain,
 <lb/>And who hath come except Asfandiyar
-<pb n="109"/>
+<pb n="5.109"/>
 <lb/>To help him? Yet thou break’st thy soldiers' hearts,
 <lb/>And woundest by thy words without a battle!
 <lb/>Wise kings fear not, poltroons cause ruin. No mace
@@ -3639,7 +3639,7 @@ upon the Throne
 <lb/>Arjasp on his side ranked his troops; the stars
 <lb/>Saw not the plain for spears and blue steel swords ;
 <lb/>The air was full of silken flags, The centre,
-<pb n="110"/>
+<pb n="5.110"/>
 <lb/>Where was Arjasp, seemed ebony; Kuhram
 <lb/>Was on the right with trumpets and with tymbals,
 <lb/>And on the left the monarch of Chigil,
@@ -3685,7 +3685,7 @@ upon the Throne
 <lb/>He charged against the right wing of the foe,
 <lb/>And slaughtered eight score of the warriors.
 <lb/>Kuhram, when he beheld it, showed his back.
-<pb n="111"/>
+<pb n="5.111"/>
 <lb/>Asfandiyar exclaimed: <q>Thus I avenge
 <lb/>My grandsire whom my father loved so well,</q>
 </p><p>
@@ -3728,7 +3728,7 @@ upon the Throne
 <lb/>And, having set a halter round his neck,
 <lb/>Dragged him along the ground before the lines,
 <lb/>With blood-foam on his lips, toward the camp,
-<pb n="112"/>
+<pb n="5.112"/>
 <lb/>Dispatched him to the Shah’s safe custody—
 <lb/>That conquering monarch of the golden helm—
 <lb/>And said: <q> Keep this man in the camp-enclosure
@@ -3771,7 +3771,7 @@ upon the Throne
 <lb/>And host encountered host. Dust, stones, and grass
 <lb/>Were saturate with gore, and had a mill
 <lb/>Been standing there the blood had driven it.
-<pb n="113"/>
+<pb n="5.113"/>
 <lb/>The plain was all bestrewn with feet and trunks,
 <lb/>With severed heads and fists still grasping swords,
 <lb/>While still the cavaliers of war charged on,
@@ -3811,7 +3811,7 @@ upon the Throne
 <lb/>Just as he was, back to the camp-enclosure,
 <lb/>And went to the encampment of Arjasp—
 <note n="1"><cit><quote xml:lang="fra">pour le séparer</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="114"/>
+<pb n="5.114"/>
 <lb/>The slayer of Luhrasp—distributed
 <lb/>The spoils midst horse and foot, committed all
 <lb/>The captives taken to his chiefs, and slew
@@ -3847,7 +3847,7 @@ upon the Throne
 <lb/>I am not fain to sit upon the throne
 <lb/>And rule in person. I will go in quest
 <lb/>Of vengeance on Arjasp, spare neither field
-<pb n="115"/>
+<pb n="5.115"/>
 <lb/>Nor fell within Turan, and will restore
 <lb/>My sisters from their bondage to their thrones
 <lb/>All through the fortune of the exalted Shah,
@@ -3879,7 +3879,7 @@ upon the Throne
 <lb/>From palace plainward went Asfandiyar,
 <lb/>And saw an army ready dight for war.
 </p></div></div>
-<pb n="116"/>
+<pb n="5.116"/>
 <div type="textpart" subtype="part" n="2">
 <head>THE STORY OF THE SEVEN STAGES</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
@@ -3903,7 +3903,7 @@ Brazen Hold.<ref n="5"/> We should notice further that though the parallel exped
 <note n="4">Id. iii. 334 seq. </note>
 <note n="5">p. 143 seq.</note>
 
-<pb n="117"/>
+<pb n="5.117"/>
 name,<ref n="1"/> yet the priestly redactors of the latter’s legend have taken care that his achievements should be attended with more pomp and circumstance than his rival’s. Thus Rustam goes alone to Mazandaran,<ref n="2"/> but Asfandiyar, whose princely rank has to be recognised, makes his expedition to Turan accompanied by his brother and minister—Bishutan—and an army. This, however,
 is not allowed to militate against the merit of his exploits,
 When an adventure has to be achieved, the hero sets forth alone,
@@ -3930,12 +3930,12 @@ Simurgh; on the contrary, it kept the great bird alive so that it might compass 
 <note n="10">Id. 76. </note>
 <note n="11">p. 141. </note>
 <note n="12">p. 131.</note>
-<pb n="118"/>
+<pb n="5.118"/>
 aid the next, and declared Rustam’s lot therein to be an unhappy one. This conflict between the legends of the two heroes is typified in the story of their personal encounter in Part III,
 and we shall gather from Firdausi’s splendid version of it, <quote>the deepest conflict of soul in the poem and one of the profoundest in all national epics,</quote> as Professor Noldeke justly calls it,<ref n="1"/> that after centuries probably of unconscious give and take the conflicting claims of the two protagonists were compromised, and their combined legend settled down into the marvellous equilibrium which now characterizes it.
 </p>
 </div>
-<div type="textpart" subtype="section"><head>§ 1 The Praise of Mahmud the great King</head>
+<div type="textpart" subtype="section" n="1"><head>The Praise of Mahmud the great King</head>
 <p>
     <milestone unit="vullers" n="1584"/>
 
@@ -3965,7 +3965,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>I weep for love of you, not wrath or pain.</q>
 <note n="1">NIN, § 35. Cf. too, § 30. </note>
 <note n="2">Cf. Vol. ii, p. 19 note.</note>
-<pb n="119"/>
+<pb n="5.119"/>
 <lb/>Earth hath no laughter while the heaven is dry.
 <lb/>I do not call our great king’s hand the sky,
 <lb/>Which only giveth forth its rains in spring,
@@ -3990,7 +3990,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Now list to what an ancient sage hath told, 
 <lb/>And learn the legend of the Brazen Hold.
 </p></div>
-<div type="textpart" subtype="section"><head>§ 2 THE FIRST STAGE</head>
+<div type="textpart" subtype="section" n="2"><head>THE FIRST STAGE</head>
     <p>
 <lb/>How Asfandiyar slew two Wolves
 <lb/>A rustic bard hath spread the board and there
@@ -3998,7 +3998,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>He took within his hand a cup of gold,
 <lb/>And of Gushtasp and of the Brazen Hold,
 <lb/>And of the doings of Asfandiyar,
-<pb n="120"/>
+<pb n="5.120"/>
 <lb/>His journey and the counsels of Gurgsar,
 <lb/>Spake thus :—Now when embittered, tongue and soul,
 <lb/>Asfandiyar reached Balkh he left his sire,
@@ -4039,7 +4039,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <p><lb/><q>O kind and glorious Asfandiyar !</q>
 </p><p>
 <lb/>Gurgsar replied, <q>three roads lead hence to what
-<pb n="121"/>
+<pb n="5.121"/>
 <lb/>Arjasp hath titled <q> Battlestead.</q> One route
 <lb/>Will take thy troops three months, the second two.
 <lb/>The first hath water, grass, and towns, and chiefly
@@ -4079,7 +4079,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>The chieftain answered :—
 <lb/><q>If thou art with me thou shalt see the heart
-<pb n="122"/>
+<pb n="5.122"/>
 <lb/>And strength of Ahriman. What, sayest thou,
 <lb/>Will meet me first? What must I fight for passage ?</q>
 </p><p>
@@ -4119,7 +4119,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And like grim elephants and keen for fight
 <lb/>Made at him from the plain. The hero strung
 <lb/>His bow and, roaring like a rending lion,
-<pb n="123"/>
+<pb n="5.123"/>
 <lb/>Rained arrows down upon those Ahrimans,
 <lb/>And hardily employed the horsemen’s sleights.<ref n="1"/>
 <lb/>The steel-tipped shafts disabled both the beasts,
@@ -4155,7 +4155,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Partook of victuals and called out for wine.
 <note n="1"><cit><quote xml:lang="fra">et se précipita dans le danger qui jusque-là avait accablé tous les cavaliers</quote> <bibl>Mohl.</bibl></cit>.</note>
 <note n="2"><cit><quote xml:lang="fra">Un endroit pur de sang</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="124"/>
+<pb n="5.124"/>
 </p></div>
 <div type="textpart" subtype="section" n="3"><head>THE SECOND STAGE: How Asfandiyar slew two Lions</head>
 <p>
@@ -4194,7 +4194,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>He went his way, and drawing near the lions
 <lb/>Turned all the world to darkness in their hearts.
-<pb n="125"/>
+<pb n="5.125"/>
 <lb/>There were a lion and a lioness,
 <lb/>And bravely both came forth to fight with him,
 <lb/>The lion first. He smote it with his sword ;
@@ -4230,7 +4230,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And made a shift to over-pass these bales,
 <lb/>But know’st not what will come on thee tomorrow.
 <lb/>Have mercy then upon thy wakeful fortune,
-<pb n="126"/>
+<pb n="5.126"/>
 <lb/>For when tomorrow thou shalt reach the stage
 <lb/>A greater task by far confronteth thee.
 <lb/>There will encounter thee an awesome dragon,
@@ -4271,7 +4271,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Of noble stock, and sped toward the dragon.
 <lb/>Afar it heard the rumble and beheld
 <lb/>The prancing of the battle-steeds. It came,
-<pb n="127"/>
+<pb n="5.127"/>
 <lb/>Like some black mountain, and thou wouldst have said :-—
 
 <lb/><q>The sun and moon are darkened.</q> Its two eyes
@@ -4309,7 +4309,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>The water, plunged therein, and bathed, bespeaking
 <lb/>A change of raiment from his treasurer.
 <lb/>Then in the presence of all-holy God
-<pb n="128"/>
+<pb n="5.128"/>
 <lb/>He wallowed in the dust and wept, exclaiming :—
 <lb/><q>Who could have slain that dragon if the World-lord
 <lb/>Had not assisted him ?</q>
@@ -4347,7 +4347,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Thy name to dust.</q>
 </p><p>
 <lb/>The atheling replied :—
-<pb n="129"/>
+<pb n="5.129"/>
 <lb/><q>Tomorrow, knave! thou shalt recount my prowess,
 <lb/>For I will break the warlocks' backs and hearts,
 <lb/>So will I maul that witch, and trample down
@@ -4390,7 +4390,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <l>The longing of mine own is won.</l>
 </lg></quote>
 
-<pb n="130"/>
+<pb n="5.130"/>
 <lb/>Now when she heard Asfandiyar the witch
 <lb/>Grew like a rose in springtide, saying thus :—
 <lb/><q>The mighty Lion cometh to the toils
@@ -4429,7 +4429,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>Within the chain
 <lb/>There was a fetid hag, calamitous,
-<pb n="131"/>
+<pb n="5.131"/>
 <lb/>With head and hair like snow, and black of face.
 <milestone unit="vullers" n="1597"/>
 <lb/>With trenchant sword he smote her on the head,
@@ -4465,7 +4465,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And doth exalt her o'er the Pleiades.</q>
 
 <lb/>And now what marvel shall I see next stage,
-<pb n="132"/>
+<pb n="5.132"/>
 <lb/>Judged by the standard of this witch ?</q>
 </p><p>
 <lb/>He answered :—
@@ -4508,7 +4508,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>A peak stayed in its shadow break and steed,
 <note n="1"><cit><quote xml:lang="fra">Il a deux petits qui sont grands comme lui</quote> <bibl>Mohl.</bibl></cit>. </note>
 <note n="2">Bishutan.</note>
-<pb n="133"/>
+<pb n="5.133"/>
 <lb/>Absorbed in contemplation. The Simurgh
 <lb/>Marked from the mount the box, the troops behind it,
 <lb/>And all their trumpeting, and, swooping down
@@ -4546,7 +4546,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And mighty men applauded him. Anon
 <lb/>Gurgsar heard tidings of that famed chief's triumph,
 <lb/>Quaked, paled, and fared with tears and heart all anguish.
-<pb n="134"/>
+<pb n="5.134"/>
 <milestone unit="vullers" n="1600"/>
 <lb/>The world’s king had the tent-enclosure pitched,
 <lb/>His joyous warriors round him. Then to dine
@@ -4583,7 +4583,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>At last thy way through to the plain beyond
 <lb/>The next stage will be thirty leagues across,
 °
-<pb n="135"/>
+<pb n="5.135"/>
 <milestone unit="vullers" n="1601"/>
 <lb/>An arid wilderness of dust and sand,
 <lb/>Which birds and ants and locusts traverse not.
@@ -4622,7 +4622,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Thou wilt return victorious thou mayst go
 <lb/>Light-hearted to the Shah, while if thou marchest
 <note n="1">An impalpable powder used for the eyes.</note>
-<pb n="136"/>
+<pb n="5.136"/>
 
 
 <lb/>To war elsewhere the whole state of Iran
@@ -4665,7 +4665,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Beheld his eyes all wrath, and went before him
 <milestone unit="vullers" n="1603"/>
 <lb/>To make excuses: <q>Let the prince forgive 
-<pb n="137"/>
+<pb n="5.137"/>
 <lb/>Our fault if he see fit. Oh! may our souls
 <lb/>And -bodies be thy ransom, such hath been,
 <lb/>And will remain, our covenant with thee.
@@ -4706,7 +4706,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <milestone unit="vullers" n="1604"/>
 <lb/>The tents and tent-enclosure were soaked through,
 <lb/>And not a man could stand or stir for cold.
-<pb n="138"/>
+<pb n="5.138"/>
 <lb/>The air was woof, the snow was like the warp;
 <lb/>The chief, resourceless, called to Bishutan :-—
 <lb/><q>This plight of ours is one with misery.
@@ -4747,7 +4747,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Drew o'er its head its yellow veil, and when
 <lb/>The west became like flower of fenugreek,
 <lb/>The warriors, having loaded up the beasts,
-<pb n="139"/>
+<pb n="5.139"/>
 <lb/>Marched with the king of men. Now in the night
 <lb/>A sound of cranes came from the sky above.
 <lb/>Asfandiyar was wrathful at the sound,
@@ -4783,7 +4783,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>That fell Gurgs4r—both seared of heart and fettered.
 <lb/><q>Base villain!</q> said the prince, <q> why hast thou used
 <lb/>This snake-like subtlety? Didst thou not say :-—
-<pb n="140"/>
+<pb n="5.140"/>
 <lb/><q>Here thou wilt find no water, and the sun
     <milestone unit="vullers" n="1606"/>
     <lb/>Will burn thee up</q>? Why didst thou make out water
@@ -4826,7 +4826,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Along the barrels of their beasts of burden,
 <lb/>They all plunged in. The host and baggage reached
 <lb/>Land, and reforming to the left and mght
-<pb n="141"/>
+<pb n="5.141"/>
 <lb/>Marched till the Brazen Hold was ten leagues off.
 <milestone unit="vullers" n="1607"/>
 <lb/>The captain of the host sat down to meat,
@@ -4866,7 +4866,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Gat on his steed, girt up his warrior-loins
 <lb/>In wrath, and mounted on a height to view
 <lb/>The hold. He saw a mighty iron rampart
-<pb n="142"/>
+<pb n="5.142"/>
 <lb/>Extending over forty leagues by three,
 <lb/>But saw not any earth or water there.
 <milestone unit="vullers" n="1608"/>
@@ -4904,7 +4904,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>They spake. His Indian sword the chieftain drew,
 <lb/>And put to death the simple-minded two.
-<pb n="143"/></p></div>
+<pb n="5.143"/></p></div>
 <div type="textpart" subtype="section" n="9"><head>How Asfandiyar went to the Brazen Hold in the</head>
 <p>
 <lb/>Guise of a Merchant
@@ -4941,7 +4941,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>That folk will hail thee as Asfandiyar.</q>
 </p><p>
 <lb/>He called the head-man of the cameleers,
-<pb n="144"/>
+<pb n="5.144"/>
 <lb/>Caused him to kneel to Bishutan, and said :—
 <lb/><q>Bring me a hundred beasts with ruddy hair,
 <lb/>Beasts fit to carry burdens, sound and strong.</q>
@@ -4982,7 +4982,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>He loaded
 <note n="1">I.e., Who will give us an opportunity of buying at a lower price than usual.</note>
-<pb n="145"/>
+<pb n="5.145"/>
 <lb/>One of the camels and himself proceeded-
 <lb/>To see how he could make his market quickly.
 <lb/>He took a goblet filled with royal gems,
@@ -5022,7 +5022,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And keep his goods in safety. They departed,
 <lb/>And led the camels, after loading them.
 <note n="1"><cit><quote xml:lang="fra">un magasin aux approches du palace</quote> <bibl>Mohl.</bibl></cit>.</note>
-<pb n="146"/>
+<pb n="5.146"/>
 <lb/>A shrewd man asked: <q> What is inside the chests?</q>
 </p><p>
 <lb/>A cameleer replicd: <q>Our wits, for we
@@ -5068,7 +5068,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Both of Asfandiyar and of Gurgsar ?</q>
 </p><p>
 <lb/>He said: <q> My gracious lord! folk speak of them,
-<pb n="147"/>
+<pb n="5.147"/>
 <lb/>Each as his fancy is: <q> Asfandiyar,</q>
 <lb/>Said one, <q>is in revolt for injuries
 <lb/>Inflicted by his sire.</q> Another said :—
@@ -5105,7 +5105,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Were running with the torrents from their eyes.
 <lb/>The hapless ones began to question him—
 <lb/>That wealthy man of merchandise—and said :—
-<pb n="148"/>
+<pb n="5.148"/>
 <lb/><q>May all thy days and nights be prosperous,
 <lb/>The nobles be before thee as thy slaves !
 <lb/>What tidings hast thou from Iran, brave chief:
@@ -5146,7 +5146,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>His heaving breast, and visage like the sun.
 <lb/>The process of the world astonished him,
 <lb/>He bit his lips in dudgeon and addressed
-<pb n="149"/>
+<pb n="5.149"/>
 <lb/>His sisters thus: <q>Restrain your tongues awhile,
 <lb/>For hither have I come to war and win
 <lb/>Renown by toil. Can any’s sleep be sweet
@@ -5189,7 +5189,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 </p><p>
 <lb/>Then said Asfandiyar: <q> King, hero, sage
 <lb/>The high-priest and the ruler of the world!
-<pb n="150"/>
+<pb n="5.150"/>
 <lb/>My house is small, thy palace is too grand.
 <lb/>The rampart of the hold will do for us;
 <lb/>'Tis early summer. [ will light a fire,
@@ -5229,7 +5229,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And bright Sol gloomed with dust. The troops were all
 <lb/>In mail and helm, their livers seethed with blood.
 <note n="1"><cit><quote xml:lang="fra">c'est-a-dire le bras d'un page</quote> <bibl>Mohl.</bibl></cit>. Cf. p. 164.</note>
-<pb n="151"/>
+<pb n="5.151"/>
 <lb/>When news spread in the hold: <q>A host hath come,
 <lb/>And all the world is hidden by dark dust,</q>
 </p><p>
@@ -5271,7 +5271,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>When Nish Azar beheld him on the field
 <lb/>He clapped his hand upon his sword and drew it ;
 <lb/>He cut Turkhan asunder at the waist,
-<pb n="152"/>
+<pb n="5.152"/>
 <lb/>And filled Kuhram’s heart with dismay and anguish ;
 <lb/>Then in like fashion fell upon the centre,
 <lb/>Where great and small were all alike to him,
@@ -5307,7 +5307,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>When they had eaten he supplicd to cach
 <lb/>Three cups of wine, which gladdened them, and said :—
 <note n="1">I.e., at the battle fought in that neighbourhood, when Asfandiyar delivered Gushtasp from his perilous position on the mountain, where he was beleaguered by Arjasp. See p. 106 seq.</note>
-<pb n="153"/>
+<pb n="5.153"/>
 <lb/><q>This night is one of bale. Hence we may well
 <lb/>Win fame. Put forth your powers. Quit you like men,
 <lb/>And from calamities make God your refuge.</q>
@@ -5348,7 +5348,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>And Ruman helm, a bright glaive in his hand,
 <lb/>The war-cry on his lips and rage at heart.
 <lb/>Asfandiyar rushed from the palace-gate,
-<pb n="154"/>
+<pb n="5.154"/>
 <lb/>And, clutching with his hand a glittering sword,
 <lb/>Cried to Arjasp: <q>Now will this merchantman
 <lb/>Supply thee with a sword that cost dinars.
@@ -5389,7 +5389,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>I and my noble warriors, to the plain,
 <lb/>Secure the gate against the Turkman troops,
 <lb/>And may my good star aid me. When ye think
-<pb n="155"/>
+<pb n="5.155"/>
 <lb/>That I have joined our noble troops outside,
 <lb/>Then let the watchmen from the look-out ery :—
 <lb/><q>Blessed be the head and crown of Shah Gushtasp.</q>
@@ -5426,7 +5426,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Can be the cause? Let us consult, for who
 <lb/>Would dare to bawl thus by the monarch’s couch
 <lb/>And after dark? What tricks might such an one
-<pb n="156"/>
+<pb n="5.156"/>
 <lb/>Play in the day of battle and thus bring
 <lb/>Our nobles into straits! So send and have
 <lb/>His head cut off, whoever he may be.
@@ -5466,7 +5466,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Had had their day. Ascending to the ramparts
 <lb/>The warriors of Asfandiyar inside
 <note n="1">In the sense of <cit><quote><l>No fairy takes nor witch hath power to charm.</l></quote> <bibl>Hamlet, i. 1.</bibl></cit></note>
-<pb n="157"/>
+<pb n="5.157"/>
 <lb/>The hold flung down therefrom the severed head
 <lb/>Of brave Arjasp—the king that slew Luhrdsp.
 <lb/>The Turkmans fought no longer, from their host
@@ -5503,7 +5503,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>A wondrous feat—and dashed him to the ground
 <lb/>While all the Iranian army roared applause.
 <lb/>They bound his hands and bore him off in shame,
-<pb n="158"/>
+<pb n="5.158"/>
 <lb/>And all his splendid armament dispersed.
 <lb/>Then maces fell like hail, the earth was full
 <lb/>Of Turkmans, and the air was charged with death ;
@@ -5540,7 +5540,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>No man of name was left in any place,
 <lb/>And not a horseman in Turan or Chin.
 <note n="1">Kuhram.</note>
-<pb n="159"/>
+<pb n="5.159"/>
 <lb/>Thou wouldst have said: <q>There rose a murky cloud,
 <lb/>And poured down fire upon the battlefield.</q>
 </p><p>
@@ -5576,7 +5576,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>No longer bear; the lion and wolf devour
 <lb/>The brains, and lusty pards the hearts, of men.
 <lb/>Oh! may the crown of Shah Gushtasp illume
-<pb n="160"/>
+<pb n="5.160"/>
 <lb/>The sky, and Shah Luhraésp make earth a rosebed.</q>
 </p><p>
 <lb/>They set the signet of Asfandiyar
@@ -5618,7 +5618,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Or fight with chieftains, saving for revenge,
 <lb/>Because the bloodshed hath surpassed all bounds
 <lb/>In this thy wreak for eight and thirty brothers.
-<pb n="161"/>
+<pb n="5.161"/>
 <lb/>But in that, though thy grandsire in old age
 <lb/>Had banished craft and ill will from his heart,
 <lb/>Since they shed his blood thou hast shed theirs too,
@@ -5655,7 +5655,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Three hundred with the native stufis of Chin,
 <lb/>With hides both raw and tanned and painted silks
 
-<pb n="162"/>
+<pb n="5.162"/>
 <lb/>He furnished litters with brocaded curtains,
 <lb/>And carried off from Chin two troops of girls,
 <lb/>With cheeks like spring and tall as cypress-trees,
@@ -5696,7 +5696,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>He whiled away two weeks with hawks and chectahs,
 <lb/>Distressed with travail and the longsome road,
 
-<pb n="163"/>
+<pb n="5.163"/>
 <lb/>And kept a watch for his three noble sons,
 <lb/>Whose long delay in coming angered him,
 <lb/>But when the armies and the sons arrived
@@ -5736,7 +5736,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>Thence went they to the palace of the Shah
 <lb/>In popularity with all the world.
 <lb/>Gushtadsp prepared the palace and the throne ;
-<pb n="164"/>
+<pb n="5.164"/>
 <lb/>His great good fortune made his heart rejoice.
 <lb/>They spread the banquet in the halls. The Shah
 <lb/>Said to the chamberlain: <q>Invite the lords,</q>
@@ -5780,7 +5780,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>The garth is strewn with rose-leaves and each hill
 <lb/>With tulip and with hyacinth, and still
 <note n="1">Cf. p. 150.</note>
-<pb n="165"/>
+<pb n="5.165"/>
 <lb/>The nightingale complaineth in the close,
 <lb/>And at its plaining burgeoneth the rose.
 <lb/>At night it never ceaseth to complain ;
@@ -5805,7 +5805,7 @@ and we shall gather from Firdausi’s splendid version of it, <quote>the deepest
 <lb/>A-nights the cloud with Rustam’s voice doth flaw
 <lb/>The heart of elephant and lion’s claw.</p></div>
 </div>
-<pb n="166"/>
+<pb n="5.166"/>
 <div type="textpart" subtype="part" n="3"><head>THE STORY OF ASFANDIYAR'S FIGHT WITH RUSTAM</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
 
@@ -5828,13 +5828,13 @@ to the compromise arrived at in Iranian legend between the conflicting claims of
 <note n="1">RK, 284. </note>
 <note n="2">p. 116 seq.</note>
 
-<pb n="167"/>
+<pb n="5.167"/>
 the Alwa previously recorded to have been slain by Kamas.<ref n="1"/>
 They are both warriors and natives of Zdbulistin, and the function of both is the same—to give the enemy a temporary triumph which is counteracted by the intervention of a stronger champion.
 Alwa reappears as we are dealing with a different legend.
 </p>
 </div>
-<div type="textpart" subtype="section" n="1"><head>§ 1 How Asfandiyar ambitioned the Throne and how Gushtasp took Counsel with the Astrologers<ref n="2"/></head>
+<div type="textpart" subtype="section" n="1"><head>How Asfandiyar ambitioned the Throne and how Gushtasp took Counsel with the Astrologers<ref n="2"/></head>
 <p>
 <lb/>I heard a story from the nightingale,
 <lb/>Which it reciteth from the lays of old,
@@ -5864,7 +5864,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>I swear by God, who stayeth up the sky,
 <note n="1">Vol. iii. p. 188.</note>
 <note n="2">This heading is not in the original, which has merely "The Beginning of the Story."</note>
-<pb n="168"/>
+<pb n="5.168"/>
 <lb/>That I will place the crown on mine own head,
 <lb/>And give the land and treasure to the people,
 <lb/>Will make thee lady of Iran and do
@@ -5906,7 +5906,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>He called Jamasp and all Luhrasp’s diviners.
 <lb/>They came, their tablets on their breasts, and he
 <lb/>Inquired about the brave Asfandiyar :—
-<pb n="169"/>
+<pb n="5.169"/>
 <lb/><q>Is he to have long life? Will he abide
 <lb/>In peace, prosperity, and all delights ?
 <lb/>Is he to wear the crown of king of kings,
@@ -5947,7 +5947,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>His death will be within Zabulistan,
 <lb/>And at the hands of Zal’s heroic son !</q>
 <note n="1">Jamasp.</note>
-<pb n="170"/>
+<pb n="5.170"/>
 <lb/>The Shah replied: <q>Give this affair due weight.
 <lb/>If I resign to him the imperial throne,
 <lb/>The treasure, and the crown of majesty,
@@ -5986,7 +5986,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Began to vent his grievances, and said :—
 <lb/><q>O Shah! live evermore. Upon the earth
 <lb/>The Grace of God is thine. Through thee are love
-<pb n="171"/>
+<pb n="5.171"/>
 <lb/>And justice manifest, and crown and throne
 <lb/>Adorned. A slave am I to thee, my sire!
 <lb/>And run to do thy will. Thou knowest how
@@ -6026,7 +6026,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Upon the field of battle; and the Shah
 <lb/>Himself in flight before the Turkmans, writhing
 <lb/>At having put Asfandiyar in bonds—
-<pb n="172"/>
+<pb n="5.172"/>
 <lb/>Is not thy heart on fire at things like these,
 <lb/>And all this travail, gricf, and misery ?</q>
 
@@ -6065,7 +6065,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Till now thou hast been better than thy word :
 <lb/>The Maker of the world be thine ally.
 <lb/>I sce not at this present anywhere
-<pb n="173"/>
+<pb n="5.173"/>
 <lb/>A public or a private foe. What man
 <lb/>Shall catch thy name and shall not writhe thereat ?
 <lb/>Did I say writhe? Nay verily not live!
@@ -6104,7 +6104,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Thou shouldst speak measured words. Fight with the king
 <lb/>Of Chin and send dust from his warriors,
 <lb/>But wherefore fight against an agéd man,
-<pb n="174"/>
+<pb n="5.174"/>
 <lb/>Whom Kai Kaus dubbed <q> Lion-capturer </q>?
 <lb/>From Minitchihr as far as Kai Kubad
 <lb/>The whole state of Iran rejoiced in him.
@@ -6148,7 +6148,7 @@ Alwa reappears as we are dealing with a different legend.
 <note n="2">Id. p. 86 seq. </note>
 <note n="3">Id. p. 200 seq. </note>
 
-<pb n="175"/>
+<pb n="5.175"/>
 <lb/>Wouldst rid thee of Asfandiyar; thou art
 <lb/>Concerned about the throne of empiry,
 <lb/>And wouldst be quit of me. Let crown and throne
@@ -6186,7 +6186,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And wilt put Rustam, son of Zal, in chains,
 <lb/>That master of the mace and scimitar !
 <lb/>Now hear of all things whit thy mother saith :—
-<pb n="176"/>
+<pb n="5.176"/>
 <lb/>Rush not to evil and endeavour it not.
 <lb/>That cavalier of elephantine might
 <lb/>Disdaineth battle with the river Nile,
@@ -6229,7 +6229,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>He ne'er will hear unfriendly words from me.</q>
 </p><p>
 <lb/>His mother’s eyes rained blood, she tore her hair,
-<pb n="177"/>
+<pb n="5.177"/>
 <lb/>And cried: <q>O mighty, raging Elephant !
 <lb/>Strength maketh thee too prodigal of life.
 <lb/>Thou art no match for elephantine Rustam,
@@ -6267,7 +6267,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And he himself not lose the Grace of God.
 <lb/>The warriors cut its head off on the spot,
 
-<pb n="178"/>
+<pb n="5.178"/>
 <lb/>And turned forthwith the presage on the camel.
 <lb/>Though vexed about the beast, Asfandiyar
 <lb/>Affected to disdain the evil omen,
@@ -6308,7 +6308,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>My gloomy soul, by graciously allowing me
 <lb/>To bind him, he shall not experience
 <lb/>For his discretion any harm from me.
-<pb n="179"/>
+<pb n="5.179"/>
 <lb/>I wish him well if he will think no ill.</q></p>
 <p><lb/><q>That is the proper course,</q> said Bishutan,
 <lb/><q>Hold thereunto and seek the hurt of none.</q></p></div>
@@ -6343,7 +6343,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Will be our couch, our spirit wing to God.
 <lb/>Those that know Him will toil to serve the Shahs.
 <lb/>And now let us appraise thee faithfully
-<pb n="180"/>
+<pb n="5.180"/>
 <lb/>Without exaggeration or default,
 <lb/>For thou hast lived through countless years and seen
 <lb/>Full many a king on earth. Thou know’st that 'tis
@@ -6382,7 +6382,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And everything is his from east to west,
 <lb/>His from Turan as far as Sind and Rum;
 <note n="1">Reading with C and P.</note>
-<pb n="181"/>
+<pb n="5.181"/>
 <lb/>The whole world is a bit of wax to him.
 <lb/>Among the spearmen of the desert too
 <lb/>Full many cavaliers come to his court;
@@ -6421,7 +6421,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And by that noble Lion my father’s life,
 <lb/>I swear that I will make the Shah repent,
 <lb/>And cause the moon and stars to shine again.
-<pb n="182"/>
+<pb n="5.182"/>
 <lb/>Moreover Bishutan will bear me witness
 <lb/>That, having mind and wisdom for my guides,
 <lb/>I oftentimes have tried to pacify
@@ -6458,7 +6458,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Upon a sable steed with golden trappings.
 <lb/>Behind him are attendant cavaliers,
 <lb/>And he hath passed in safety o'er the stream.</q>
-<pb n="183"/>
+<pb n="5.183"/>
 <lb/>Zal mounted on his saddle instantly,
 <lb/>With lasso in the straps and mace in hand,
 <lb/>Then coming to the watch-tower saw Bahman,
@@ -6502,7 +6502,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Bahman alighted smiling, and the twain
 <lb/>Exchanged their greetings. Earnestly Zal pleaded :-=
 <lb/><q>Wait here, there is no colour for such haste.</q>
-<pb n="184"/>
+<pb n="5.184"/>
 <lb/>Bahman rejoined: <q> Not thus must we delay,
 <lb/>And slight the mission of Asfandiyar.</q>
 </p><p>
@@ -6541,7 +6541,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And heard the rumble that it made withal.
 <lb/>He shouted: <q> Paladin and cavalier !
 <lb/>A stone is rolling from the mountain-top !</q>
-<pb n="185"/>
+<pb n="5.185"/>
 <lb/>But Rustam to Zawara’s wonderment
 <lb/>Ne'er moved nor laid aside the onager ;
 <lb/>He waited till the stone was close to him,
@@ -6583,7 +6583,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Set forth for Rustam’s camp. Now when Bahman
 <lb/>Was seated he gave Abner iP for himself
 <lb/>And for the Shah and the Iranians,
-<pb n="186"/>
+<pb n="5.186"/>
 <lb/><q>Asfandiyar,</q> he then went on to say,
 <lb/><q>Hath journeyed from the court as quick as fire
 <lb/>And, as the Shah, victorious and exalted,
@@ -6627,7 +6627,7 @@ Alwa reappears as we are dealing with a different legend.
 </p><p>
 <lb/>He gave another to Bahman, and said :—
 <lb/><q>Take this and drink it unto whom thou wilt.</q>
-<pb n="187"/>
+<pb n="5.187"/>
 <lb/>Bahman was frayed thereat, and so Zawara
 <lb/>First took a draught thereof and said to him :—
 <lb/><q>O scion of the Shah! may wine and drinker
@@ -6663,7 +6663,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>To have no wish to utter aught amiss.
 <lb/>Thy servant used to joy in all that said :—
 <lb/><q>No mother’s son is like Asfandiyar.
-<pb n="188"/>
+<pb n="5.188"/>
 <lb/>In courage, wisdom, enterprise, and counse]
 <lb/>He will be greater than his ancestors.</q>
 
@@ -6702,7 +6702,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Fierce elephants' necks and flung them to the Nile,
 <lb/>Forbear unseemly words to me and keep
 <lb/>Thy mischiefs to afflict the Div’s heart. Say not
-<pb n="189"/>
+<pb n="5.189"/>
 <lb/>What no one e'er hath said, use not thy courage
 <lb/>To encage the wind. The mighty cannot pass
 <lb/>Through fire at all, nor, save they swim, through water ;
@@ -6740,7 +6740,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>I will not separate my reins from thine,
 <lb/>And we will go to him in company.
 <lb/>By asking pardon I will soothe his wrath,
-<pb n="190"/>
+<pb n="5.190"/>
 <lb/>And kiss him on the head and feet and eyes.
 <lb/>Then will I ask the great but unjust Shah :—
 <lb/><q>Why should these hands of mine be put in bonds ?</q></q>
@@ -6779,7 +6779,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Because I have not a white day with him,
 <note n="1">I.e. Rudaba.</note>
 <note n="2">Vol. ii. p. 83.</note>
-<pb n="191"/>
+<pb n="5.191"/>
 <lb/>Thou knowest that my twisted lasso bringeth
 <lb/>The heads of savage elephants to bonds.</q></q>
 </p><p>
@@ -6820,7 +6820,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Should not confide in women; furthermore
 <lb/>The employ of children in affairs of moment
 <lb/>As messengers is neither brave nor valiant.
-<pb n="192"/>
+<pb n="5.192"/>
 <lb/>Where ever hast thou looked on warriors,
 <lb/>Who hast heard not a charger’s tramp? By making
 <lb/>An elephant of war of Rustam thou
@@ -6861,7 +6861,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Blest are the people of Iran, the slaves
 <lb/>Of thine unsleeping fortune and thy throne.
 <lb/>Tll-starred is he who seeketh thee in fight:
-<pb n="193"/>
+<pb n="5.193"/>
 <lb/>From throne and fortune he will come to dust.
 <lb/>May all foes' hearts be filled with fear of thee,
 <lb/>And thine ill-wishers' riven, may thy fortune
@@ -6903,7 +6903,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Or with the nobles of that warlike land.
 <lb/>Act so that thou mayst take of fortune’s fruit ;
 
-<pb n="194"/>
+<pb n="5.194"/>
 <lb/>Go;thou the way the monarch biddeth thee.
 <lb/>Delay not thou to put thy fect in fetters ;
 <lb/>Those of the king of kings are no disgrace,
@@ -6941,7 +6941,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>One that would last for ever, that a leader,
 <lb/>One high-born and a chieftain such as thou art,
 <note n="1">The night of the day on which Rustam should be brought before the Shah.</note>
-<pb n="195"/>
+<pb n="5.195"/>
 <lb/>A noble Lion and a mighty man,
 <milestone unit="vullers" n="1660"/>
 <lb/>Should come not for a while to mine abode,
@@ -6984,7 +6984,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And sit down with thy kinsmen at the board.</q>
 </p><p>
 <lb/>Hurt and concerned he mounted, hurried home,
-<pb n="196"/>
+<pb n="5.196"/>
 <lb/>Beheld the face of Zal, the son of Sam,
 <lb/>The son of Narfman, and said: <q>Famed chief!
 <lb/>I have been visiting Asfandiyar,
@@ -7020,7 +7020,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>What Faith and honour bid, the laws of God,
 <lb/>And thine own sire’s intent. Restrain thyself,
 <lb/>Do life no hurt, and hear thy brother’s words.
-<pb n="197"/>
+<pb n="5.197"/>
 <milestone unit="vullers" n="1662"/>
 <lb/>I heard what Rustam said: his greatness matched 
 <lb/>His courage, and thy fetters will not gall him.
@@ -7063,7 +7063,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>To treat us with such superciliousness
 <milestone unit="vullers" n="1663"/>
 <lb/>As to invite and then not summon us,
-<pb n="198"/>
+<pb n="5.198"/>
 <lb/>Hope for no good from him.</q>
 </p><p>
 <lb/>He spake. They decked
@@ -7102,7 +7102,7 @@ Alwa reappears as we are dealing with a different legend.
 <milestone unit="vullers" n="1664"/>
 
 <lb/>Was thought unworthy of the summoning!
-<pb n="199"/>
+<pb n="5.199"/>
 <lb/>Thy promise is a promise and no more.
 <lb/>Attend to what I say, and be not hasty
 <lb/>Without a cause with one advanced in years.
@@ -7139,7 +7139,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>That in these latter days I have beheld
 <lb/>My peer—a glorious Shoot who will take vengeance
 <lb/>On infidels amid the world’s applause.</q>
-<pb n="200"/>
+<pb n="5.200"/>
 <milestone unit="vullers" n="1665"/>
 <lb/>Then smiling on him said Asfandiyar :—
 <lb/><q>O son of Sdm, the horseman! thou wast hurt
@@ -7180,7 +7180,7 @@ Alwa reappears as we are dealing with a different legend.
 <p>
 <lb/>Then thus to Rustam spake Asfandiyar :—
 <lb/><q>O lion-hearted chieftain of renown !
-<pb n="201"/>
+<pb n="5.201"/>
 <lb/>Now I have heard a tale from archimages,
 <lb/>The mighty men and sages wise of heart,
 <lb/>That Zal is one of evil race, a d{v
@@ -7218,7 +7218,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Thus many years passed o'er him ; he became
 <lb/>A Cypress, one whose head was out of reach ;
 <lb/>It put forth branches and its fruit was Rustam,
-<pb n="202"/>
+<pb n="5.202"/>
 <lb/>Who by his manhood, skill, and mien thus scaled
 <lb/>The sky, in such wise seized on royalty,
 <lb/>Increased in power, and took to villainy.</q></p></div>
@@ -7253,7 +7253,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Would scorch the vultures' feathers in mid-air,
 <note n="1">See Vol. i. p. 382 seq. </note>
 <note n="2">Reading with C.</note>
-<pb n="203"/>
+<pb n="5.203"/>
 <lb/>And suck in elephants with its breath. Glad hearts
 <lb/>Were saddened at the thought thereof.: And next,
 <lb/>There was a fearful and malicious dfv,
@@ -7293,7 +7293,7 @@ Alwa reappears as we are dealing with a different legend.
 <note n="1">See Vol. i. pp. 172, 296. </note>
 <note n="2">See Vol. ii. 356.  </note>
 <note n="3">See Vol. ii. 30 seq.</note>
-<pb n="204"/>
+<pb n="5.204"/>
 <lb/>Pulad,<ref n="1"/> son of Ghundi, or Bid or Sanja.
 <lb/>Moreover for our monarch’s sake I slew
 <lb/>My wise and valiant boy.<ref n="2"/> There hath not been
@@ -7331,7 +7331,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Thy pains, thy combats, and anxieties.
 <note n="1">Ulad in the text, but cf. Vol. iv. p. 296, note. </note>
 <note n="2">Id. ii. 172.</note>
-<pb n="205"/>
+<pb n="5.205"/>
 <lb/>Now hearken to the gests that I have done,
 <lb/>Whereby I raised my head above the noble.
 <lb/>Twas for the Faith that first I girt my loins,
@@ -7369,7 +7369,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Then later on, when through Gurazm’s words
 <lb/>My father bound and banned me from the feast,
 <lb/>Ill reached Luhrasp by reason of my bonds:
-<pb n="206"/>
+<pb n="5.206"/>
 
 <lb/>The Turkmans hid the earth. Then to the hold
 <lb/>Of Gumbadan the veteran Jamasp
@@ -7409,7 +7409,7 @@ Alwa reappears as we are dealing with a different legend.
 
 <lb/>Victorious through the just, the only God,
 <note n="1">Cf. p. 33.</note>
-<pb n="207"/>
+<pb n="5.207"/>
 <lb/>I came again in such case to Iran
 <lb/>That we had no foe left in all the world,
 <lb/>And not a Brahman in his idol-house.
@@ -7445,7 +7445,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Slew in the fight that folk’s king, and made void
 <note n="1">Vol. ii. p. 44 seq. </note>
 <note n="2">Id. 88 seq.</note>
-<pb n="208"/>
+<pb n="5.208"/>
 <lb/>Their famous throne. The monarch of the world—
 <lb/>Kaus himself—was captive and his heart
 <lb/>Was stricken by anxiety and travail.
@@ -7487,7 +7487,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>He squeezed the hand of Rustam as he spake,
 <lb/>But yet the youth made not the old man writhe ;
 <note n="1">Reading with P.</note>
-<pb n="209"/>
+<pb n="5.209"/>
 <lb/>Though gall exuded from his finger-nails
 <lb/>Good sooth the hero writhed not with the pain.
 <lb/>Then Rustam grasped the prince’s hand in his,
@@ -7527,7 +7527,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Behold the rush and pulsing of the fight.
 <lb/>Tomorrow when I come upon the field,
 
-<pb n="210"/>
+<pb n="5.210"/>
 <lb/>And in the battle man opposeth man,
 <lb/>I will unhorse thee with a firm embrace,
 <lb/>And carry thee away to glorious Zal,
@@ -7566,7 +7566,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>And prate of Kai Kaus. </q>
 </p><p>
 <lb/>The drawer brought
-<pb n="211"/>
+<pb n="5.211"/>
 <lb/>A goblet filled with wine of ancient vintage,
 <lb/>And Rustam drank it to the king of kings ;
 <lb/>He drained that golden fountain dusty-dry.
@@ -7608,7 +7608,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Moreover do not glorify thyself;
 <lb/>Go home and fit thee for tomorrow’s work.
 <lb/>Thou shalt perceive that in the ranks of war
-<pb n="212"/>
+<pb n="5.212"/>
 <lb/>I am the same as in my revelry.
 <lb/>Attack me not upon the battlefield ;
 <lb/>Hear mine advice; go not about to fight.
@@ -7650,7 +7650,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Past doubting, wisdom’s self would take my life.</q>
 </p><p>
 <lb/>Then to that haught man thus he spake: <q> Concern
-<pb n="213"/>
+<pb n="5.213"/>
 <lb/>Hath made my visage wan. Why speak so much
 <lb/>Of bonds? I fear that thou wilt suffer hurt
 <lb/>Therefrom unless the will of heaven be other:
@@ -7689,7 +7689,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>When proud Asfandiyar had heard these words
 <lb/>He thus returned reply: <q>O noble Rustam!
 <lb/>Mark well the saying of a sage of yore,
-<pb n="214"/>
+<pb n="5.214"/>
 
 <lb/>What time he married wisdom to his soul :—
 <lb/><q>An aged deceiver is a fool indeed
@@ -7729,7 +7729,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/><q>The swords of warriors on the battlefield
 <lb/>Will ne'er avail against Asfandiyar.</q>
 <lb/>Tomorrow thou shalt sce my pointed spear,
-<pb n="215"/>
+<pb n="5.215"/>
 <lb/>As well as somewhat of my horsemanship,
 <lb/>And afterward thou wilt not seek to fight
 <lb/>Upon the battlefield with men renowned.</q>
@@ -7767,7 +7767,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/><q>Why art thou angry with the tent-enclosure,
 <lb/>Thou well-advised ? Well might a man of sense
 <lb/>Bestow upon Zabulistan the name
-<pb n="216"/>
+<pb n="5.216"/>
 
 
 <lb/>Of <q> Babblestead.</q> Why need a guest abuse
@@ -7810,7 +7810,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>From our just Shah’s behest. When Rustam cometh
 <note n="1">See Vol. i. pp. 134, 139. </note>
 <note n="2">See Vol. ii. p. 102 seq.</note>
-<pb n="217"/>
+<pb n="5.217"/>
 <lb/>Upon the field tomorrow I will dim
 <lb/>His day.</q>
 </p><p>
@@ -7851,7 +7851,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Yea into nay through any words of thine?
 <lb/>If thou hast fears about my person
 <note n="1">Of the court, i.e. my own people are turning against me.</note>
-<pb n="218"/>
+<pb n="5.218"/>
 <lb/>Now will relieve thee of them. No one dieth
 <milestone unit="vullers" n="1685"/>
 
@@ -7892,7 +7892,7 @@ Alwa reappears as we are dealing with a different legend.
 <note n="1">Cf. Vol. i. p. 70.</note>
 <note n="2">Reading with C and P.</note>
 
-<pb n="219"/>
+<pb n="5.219"/>
 <lb/>Oh! what a battlefield is this, for roaring
 <lb/>Two Lions, valiant both, will meet in battle!
 <lb/>And how now will Asfandiyar proceed,
@@ -7931,7 +7931,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>As soon as he departeth from the Hirmund
 <lb/>Mount lofty Rakhsh and, feeling no misgivings,
 <lb/>Attend Asfandiyar upon his journey
-<pb n="220"/>
+<pb n="5.220"/>
 <lb/>That thou mayst see the Shah’s face once again.
 <lb/>How shall he act ill when he seeth thee ?
 <lb/>Will wrong become the monarch of Iran?</q></p>
@@ -7972,7 +7972,7 @@ Alwa reappears as we are dealing with a different legend.
 <note n="2">Id. 95 seq.</note>
 <note n="3">Id. iii. 188, </note>
 <note n="4">Id. 230.</note>
-<pb n="221"/>
+<pb n="5.221"/>
 <lb/>Will cut off his retreat, clutch him amain
 <lb/>About the waist, and hug him from the saddle,
 <lb/>Bestow on him the kingship of Gushtasp,
@@ -8011,7 +8011,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>No man advanced in years should speak like that ;
 <lb/>Haunt not the portal of thine evil star.
 <lb/>Now have I told thee what my counsel is,
-<pb n="222"/>
+<pb n="5.222"/>
 |</q>
 </p><p>
 <lb/>As thou dost know, O leader of the people
@@ -8053,7 +8053,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>But still I fear that we shall come to blows,
 <lb/>And after that I know not what will be.
 <lb/>Remain thou here and keep the troops in hand ;
-<pb n="223"/>
+<pb n="5.223"/>
 <lb/>I go to see what fortune will bring forth.
 <lb/>If I shall find him wroth then by that token
 <lb/>I shall not call chiefs from Zabulistan,
@@ -8095,7 +8095,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>That thou hadst said: <q>The world hath done with feastings.</q>
 </p><p>
 <lb/>As they drew near, the old man and the young,
-<pb n="224"/>
+<pb n="5.224"/>
 <lb/>Both noble Lions and both paladins,
 <lb/>Their steeds neighed; thou hadst said: <q>The field is rent!</q>
 </p><p>
@@ -8136,7 +8136,7 @@ Alwa reappears as we are dealing with a different legend.
 <lb/>Will go toward the stable riderless,
 <lb/>Or if the charger of the challenger
 <lb/>Will turn toward Rustam’s halls without its lord.</q>
-<pb n="225"/>
+<pb n="5.225"/>
 <lb/>The combatants agreed that none should aid.
 <milestone unit="vullers" n="1692"/>
 <lb/>Long while they fought together with their spears,
@@ -8171,7 +8171,7 @@ and Fardmurz
 <lb/>It was to fight with Rustam that ye came,
 <lb/>Came to the gullet of the Crocodile.
 <note n="1">Reading with P.</note>
-<pb n="226"/>
+<pb n="5.226"/>
 <lb/>Ye would bind Rustam’s hands! No sitting still
 <lb/>For us on such a field !</q>
 </p><p>
@@ -8212,7 +8212,7 @@ and Fardmurz
 <lb/>His foeman’s head, who came from steed to dust.
 <lb/>Zawara spurred his warhorse, neared, and cried
 <note n="1">See Vol. ii. p. 100, note.</note>
-<pb n="227"/>
+<pb n="5.227"/>
 <lb/>
 <lb/>To Nush Azar: <q>Him hast thou slain and now
 <lb/>Stand fast thyself! Ido not call Alwa
@@ -8252,7 +8252,7 @@ and Fardmurz
 <lb/>Thou fightest here while we are in distress,
 <lb/>Our youths and princes shrouded by the dust.
 <note n="1">Reading with P.</note>
-<pb n="228"/>
+<pb n="5.228"/>
 
 <lb/>Eternal shame will rest upon our race
 <lb/>Through what these fools have done.</q>
@@ -8295,7 +8295,7 @@ and Fardmurz
 <lb/>Henceforth may dare to shed his master’s blood.
 <lb/>If thou survivest I will bind thy hands,
 <lb/>And carry thee forthwith before the Shah ;
-<pb n="229"/>
+<pb n="5.229"/>
 <lb/>But if thou diest by mine arrow-points
 <lb/>Take it in vengeance for my noble sons.</q>
 </p><p>
@@ -8331,7 +8331,7 @@ and Fardmurz
 <lb/>Why hast thou fled away and scaled the heights
 <note n="1">Six couplets omitted. </note>
 <note n="2">See p. 19.</note>
-<pb n="230"/>
+<pb n="5.230"/>
 <lb/>Because thou heard’st a mighty Lion’s voice ?
 <lb/>Art thou not he that caused the divs to wail,
 <lb/>And singed wild beasts with flashes from his sword ?
@@ -8374,7 +8374,7 @@ and Fardmurz
 <lb/>But if thou wilt fight on then make thy will,
 <lb/>Appointing somebody to be the marchlord,
 <lb/>And ask God’s pardon for thine own ill-doing ;
-<pb n="231"/>
+<pb n="5.231"/>
 <lb/>It may be that He will forgive thy faults,
 <lb/>And guide thee when thou quit’st this Wayside Inn.</q>
 </p><p>
@@ -8415,7 +8415,7 @@ and Fardmurz
 </p><p>
 <lb/>Asfandiyar was gazing after him,
 <lb/>And, having seen him reach the farther bank,
-<pb n="232"/>
+<pb n="5.232"/>
 <lb/>Exclaimed : <q>They say that he is not a man!
 <lb/>He is a mighty, raging Elephant!</q>
 </p><p>
@@ -8459,7 +8459,7 @@ and Fardmurz
 <lb/>Saw Rustam like an elephant in stature
 <lb/>And mien I offered praise to holy God,
 <lb/>The Author of our hopes and of our fears,
-<pb n="233"/>
+<pb n="5.233"/>
 <lb/>Who in His providence had formed him thus.
 <lb/>Praise be to Him, the Maker of the world!
 <lb/>What actions once were Rustam’s, he that used
@@ -8476,7 +8476,7 @@ and Fardmurz
 <lb/>But still methinketh, when he reacheth home,
 <lb/>His soul will quit it and to Saturn roam.</q>
 <note n="1">The same collocation of consonants means "breath" and "tail" in Persian. Mohl renders <quote xml:lang="fra">qui a saisi sur la plaine la queue des léopards.</quote> Rustam, however, seems to be compared to a dragon drawing in its prey with its breath. Cf. p. 127 for a similar passage, where Mohl translates <quote xml:lang="fra">Les chevaux cherchaient il se soustraire Vattaque du dragon; mais il aspira avec son souffic et les engloutit ainsi que le chariot,</quote> and where the same expression is used of Asfandiyar himself in the preceding couplet: <quote> He drew his breath.</quote> Similarly in Gurgsar's account of the same dragon (p. 126), Mohl translates <quote xml:lang="fra">qui attire avec son haleine le poisson de la mer.</quote> When, however, Asfandiyar subsequently speaks of his adventure with this dragon to Gurgsar (p. 128), Mohl translates: <quote xml:lang="fra">O homme vil de corps et sans valeur, regarde ce vaillant dragon qui enveloppait ses victimes avec sa queue, il attirait avec sa queue l'éléphant</quote>. Again, in the account of Gushtdsp’s encounter with a dragon (vol iv. p. 346), he translates: <quote xml:lang="fra">Quand le dragon vit sa haute stature, il essaya de l'attirer vers lui avec sa queue.</quote> Mohltherefore wavers. The mode of defence adoptcd by the two heroes-——a long sword in one case and a chariot bristling with sword-blades in the other—seems intended to counteract what appears to be somewhat a characteristic of the eastern dragon. <cit><quote>From Candahar is reported a Mussulman legend, which relates that in pagan times the king of Candahar found himself compelled to promise a young girl every day toa dragon. Accordingly a maiden mounted on a camel was daily sent to the monster. As soon as the camel arrived within a certain distance of the cavern where the dragon dwelt, the latter inhaled its breath with such force that its prey was inevitably drawn into its throat.</quote>  <bibl>HLP, iii. 56.</bibl></cit></note>
-<pb n="234"/>
+<pb n="5.234"/>
 </p></div>
 <div type="textpart" subtype="section" n="24"><head>How Rustam took Counsel with his Kin</head>
 <p>
@@ -8514,7 +8514,7 @@ and Fardmurz
 <lb/>Or e'er a bit of silk upon his head!
 <note n="1">Reading with P. </note>
 <note n="2">Vol. ii, p. 60.</note>
-<pb n="235"/>
+<pb n="5.235"/>
 <lb/>However oft too I excuse myself,
 <lb/>That I may warm that stony heart of his,
 <lb/>He only seeketh to disgrace me more
@@ -8551,7 +8551,7 @@ and Fardmurz
 <lb/>Consumed therein a portion of the feather.<ref n="1"/>
 <lb/>Whenas the first watch of the night had passed
 <note n="1">Cf. Vol. i. pp. 246, 320.</note>
-<pb n="236"/>
+<pb n="5.236"/>
 <lb/>Thou wouldst have said: <q>The face of air is darkened !</q>
 </p><p>
 <lb/>And gazing from the eminence Zal saw it
@@ -8594,7 +8594,7 @@ and Fardmurz
 <lb/>When Rustam
 <lb/>Came to the height to that sagacious bird
 <lb/>She said: <q>O mighty, raging Elephant!
-<pb n="237"/>
+<pb n="5.237"/>
 <lb/>By hand of whom hast thou grown thus distressed ?
 <lb/>Why didst thou seek to fight Asfandiyar ?
 <lb/>Why kindle thine own breast ?</q>
@@ -8637,7 +8637,7 @@ and Fardmurz
 <lb/>Because he is a warrior and a prince,
 <lb/>A holy man who hath the Grace of God.
 <lb/>If thou wilt make a covenant with me,
-<pb n="238"/>
+<pb n="5.238"/>
 <lb/>Be penitent for having sought the fight,
 <lb/>And seek not triumph o'er Asfandiyar,
 <lb/>The work of war or moment of revenge,
@@ -8678,7 +8678,7 @@ and Fardmurz
 </p><p>
 <lb/>When he heard he girt his loins
 <note n="1">Rustam’s speech is inserted from C. Both V and P omit it.</note>
-<pb n="239"/>
+<pb n="5.239"/>
 <lb/>And, mounting, fared until he reached the sea,<ref n="1"/>
 <lb/>And saw the air all dark with the Simurgh.
 <lb/>When Rustam had arrived beside the waters
@@ -8713,7 +8713,7 @@ and Fardmurz
 <lb/>As one of little worth, string up thy bow,
 <lb/>And set thereon this shaft of tamarisk,
 <note n="1">Of Chin, according to C; or the legend may owe somewhat to Zoroastrian mythology (see Vol. i. p. 235); or the lake of Sistan may be intended. Asfandiyar’s fate lay in Sistan, and it seems fitting that both the fatal shaft and the uscr of it should come from that neighbourhood. The tamarisk, with its long, slender branches, grows there, and is the only shrub that aspires to be called a tree in that otherwise treeless region.</note>
-<pb n="240"/>
+<pb n="5.240"/>
 <lb/>This fosterling of bane. Aim at his eyes,
 <lb/>Straight, with both hands as one that worshippeth
 <lb/>The tamarisk, and Destiny will bear
@@ -8751,7 +8751,7 @@ and Fardmurz
 <lb/>While as for Rakhsh, his mount, its breast was hidden
 <lb/>By arrow-hcads! Now I have heard that Zal,
 <lb/>The devotee of sorcerers, extendeth
-<pb n="241"/>
+<pb n="5.241"/>
 <lb/>E'er to the sun his practices, surpasseth
 <lb/>All warlocks in his wrath, and sorteth not
 <lb/>With wisdom.</q>
@@ -8792,7 +8792,7 @@ and Fardmurz
 <lb/>Come then and see the place of mine abode,
 <lb/>For thou hast lost all power upon my life.
 
-<pb n="242"/>
+<pb n="5.242"/>
 <lb/>I will unlock the door of ancient treasures,
 <lb/>Which I have gotten me in my long day,
 <lb/>And load them on mine own beasts. Give thou them
@@ -8833,7 +8833,7 @@ and Fardmurz
 <lb/>Go to the presence of the wreakful Shah ;
 <lb/>But, O my prince! put vengeance from thy heart,
 <lb/>Make not thyself an ambush for the Div.
-<pb n="243"/>
+<pb n="5.243"/>
 <lb/>Thou hast another power than that of bonds;
 <lb/>Thou art my monarch and thou servest God.
 <lb/>Doth ill become thee, for thy bonds vous shame me
@@ -8873,7 +8873,7 @@ and Fardmurz
 <lb/>The tamarisk-shaft as the Simurgh had bidden ;
 <lb/>He struck Asfandiyar full in the eyes,
 <lb/>And all the world grew dark before that chief;
-<pb n="244"/>
+<pb n="5.244"/>
 <lb/>The straight-stemmed Cypress bent, intelligence
 <lb/>And Grace abandoned him. The pious prince
 <lb/>Fell prone, his bow of Chach dropped from his hands.
@@ -8916,7 +8916,7 @@ and Fardmurz
 <lb/><q>What chief or noble knoweth this world’s secrets
 <lb/>Since an Asfandiyar, who for the Faith
 <lb/>So bravely drew the scimitar of vengeance,
-<pb n="245"/>
+<pb n="5.245"/>
 <lb/>Who purged the world of foul idolatry,
 <lb/>And never set his hand to work injustice,
 <lb/>Hath perished in the heyday of his youth ?
@@ -8956,7 +8956,7 @@ and Fardmurz
 <lb/>So grievously my slaughter. Where are now
 <lb/>Hiushang, Jamshid, and Farfdin? They came
 <lb/>From wind and vanished in a breath! Thus too
-<pb n="246"/>
+<pb n="5.246"/>
 
 <lb/>Have mine own ancestors, pure-born, elect,
 <lb/>And high and holy, gone and left their room
@@ -8996,7 +8996,7 @@ and Fardmurz
 <lb/>And grip, I left the pettle in despair
 <lb/>I sought a shift in r ne extremity
 <lb/>To save my head from him for good and all.
-<pb n="247"/>
+<pb n="5.247"/>
 <lb/>I set his destiny upon my bow,
 <lb/>And when his day had come I shot the arrow.
 <lb/>Had fortune been with him how could a shaft
@@ -9034,7 +9034,7 @@ and Fardmurz
 <lb/><q>The slayer of Asfandiyar shall be
 <lb/>The prey of fortune, while he liveth see
 <lb/>Both pain and stress, and pass to misery :</q></q>
-<pb n="248"/>
+<pb n="5.248"/>
 <lb/>Thus spake Asfandiyar to Rustam, saying :—
 <lb/><q>Thou art not author of mine evil fortune.
 <lb/>This was my fate; what was to be hath been ;
@@ -9077,7 +9077,7 @@ and Fardmurz
 <lb/>Replied to him: <q>O ancient paladin !
 <lb/>Know this, and God Himself will bear me witness
 <lb/>Who is my leader to the good religion,
-<pb n="249"/>
+<pb n="5.249"/>
 <lb/>That in despite of all thy noble acts,
 <lb/>And of thy head exalted by brave deeds,
 <lb/>Thy fame now hath been turned to infamy,
@@ -9118,7 +9118,7 @@ and Fardmurz
 <lb/><q>This time 'twas Death that challenged me to fight,
 <lb/>And mail is only wind before his:arrows,
 <lb/>For they would penetrate a mount of steel.
-<pb n="250"/>
+<pb n="5.250"/>
 <lb/>O loving mother! follow me with speed ;
 <lb/>Grieve not for my sake nor aggrieve thy soul.
 <lb/>Show not thy face unveiled before the folk,
@@ -9162,7 +9162,7 @@ and Fardmurz
 <lb/>And, soon being set on prey and waxen tall,
 <lb/>Will fall upon its feeder first of all</q> ?
 <lb/>Both sides will be perturbed by evil wrath,
-<pb n="251"/>
+<pb n="5.251"/>
 <lb/>Whence first the ill will come upon Iran,
 <lb/>Since such a monarch as Asfandiyar
 <lb/>Was slain; then thou wilt see thine own ill day,
@@ -9178,7 +9178,7 @@ and Fardmurz
 <lb/>But do not thou provoke the evil eye.</q>
 </p></div>
 
-<div type="textpart" subtype="section" n="29"><head>§ 29. How Bishutan bare the Coffin of Asfandiyar to Gushtasp</head>
+<div type="textpart" subtype="section" n="29"><head>How Bishutan bare the Coffin of Asfandiyar to Gushtasp</head>
 <p>
 <lb/>Then Rustam made a goodly iron coffin ;
 <lb/>He draped the outside with brocade of Chin,
@@ -9199,7 +9199,7 @@ and Fardmurz
 <lb/>Before the cavalcade went Bishutan.
 <lb/>Asfandiyar’s black chargerjhad been docked,
 <lb/>Both mane and tail, its saddle was reversed,
-<pb n="252"/>
+<pb n="5.252"/>
 <lb/>And from it there were hung his battle-mace,
 <lb/>His famous helm withal, surtout and quiver
 <lb/>And head-piece. They set forward, but Bahman
@@ -9241,7 +9241,7 @@ and Fardmurz
 <lb/>When Bishutan came weeping onthis way,
 <lb/>And after him the coffin and black steed,
 <lb/>The women hung on him, wept tears of blood,
-<pb n="253"/>
+<pb n="5.253"/>
 <lb/>And cried: <q> Undo this narrow coffin’s lid,
 <lb/>Let us too see the body of the slain.</q>
 </p><p>
@@ -9282,7 +9282,7 @@ and Fardmurz
 <lb/>To keep thy throne thou giv’st thy son to slaughter,
 <lb/>And may thine eye behold not crown and fortune.
 <lb/>The world is full of foes and evil men,
-<pb n="254"/>
+<pb n="5.254"/>
 <lb/>Thy crown will not endure eternally,
 <lb/>Abuse will be thy portion in this world,
 <lb/>And inquisition at the Judgment Day.</q>
@@ -9324,7 +9324,7 @@ and Fardmurz
 <lb/>Upon the Turkmans and restored thy sway ?
 <lb/>But thou didst bind him at a slanderer’s words
 <lb/>With heavy yoke and iron bars and lasso.
-<pb n="255"/>
+<pb n="5.255"/>
 <lb/>While he was in his bonds Luhrasp was slain,
 <lb/>And all the army’s fortune overthrown.
 <lb/>When from Khallukh Arjasp arrived at Balkh
@@ -9363,7 +9363,7 @@ and Fardmurz
 </p><p>
 <lb/>The mother took her son’s rede and therewith
 <note n="1">See p. 92 and note.</note>
-<pb n="256"/>
+<pb n="5.256"/>
 <lb/>Resigned her to the justice of the Lord.
 <lb/>For one year afterward in every dwelling
 <lb/>Were wailing and lament throughout Iran ;
@@ -9399,7 +9399,7 @@ and Fardmurz
 <lb/>Outshineth even mine own Jupiter.
 <lb/>I have instructed him in kingly parts,
 <note n="1">Reading with P.</note>
-<pb n="257"/>
+<pb n="5.257"/>
 <lb/>And paid the debt of thy son’s last request
 <lb/>With wisdom, If the Shah will undertake
 <lb/>To pardon me, and to forget the past,
@@ -9440,7 +9440,7 @@ and Fardmurz
 <lb/>Than royal Grace and state. Jamasp, aware
 <lb/>That both for good and ill the sovereignty
 
-<pb n="258"/>
+<pb n="5.258"/>
 <lb/>Would come upon Bahman, said to Gushtasp :—
 <lb/><q>OQ Shah most worshipful! regard Bahman.
 <lb/>He hath the teaching that his father wished,
@@ -9481,7 +9481,7 @@ and Fardmurz
 <lb/>And two gold cups a-brim with precious stones,
 <lb/>All these he gave Bahman, and they that bore them
 <lb/>Accounted for them to his treasurer.
-<pb n="259"/>
+<pb n="5.259"/>
 <lb/>The matchless Rustam journeyed with Bahman
 <lb/>Two stages, then dispatched him to the Shah.
 <lb/>The face of Shah Gushtésp was dim with tears
@@ -9516,7 +9516,7 @@ and Fardmurz
 <note n="1">Ardshir is a shortened form of Artakhshathra, i.e. <gloss>great king</gloss>, but in native etymology was explained to mean <gloss>angry lion.</gloss></note>
 <note n="2">See p. 281.</note>
 </p></div></div>
-<pb n="260"/>
+<pb n="5.260"/>
 <div type="textpart" subtype="part" n="4"><head>THE STORY OF RUSTAM AND SHAGHAD</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
 <p>The poet tells how he came to hear the story of the death of
@@ -9536,7 +9536,7 @@ whose reign will appear in a later volume of this translation, had on one occasi
 <note n="3">See Vol. i. p. 178.</note>
  
 
-<pb n="261"/>
+<pb n="5.261"/>
 Azad Sarv, who went to Marv and was the means of introducing
 Buazurjmihr, the future chief minister, to the notice of the Shah.
 It is not at all unlikely that Firdausi, having on the present occasion to refer to a tradition emanating from Marv, used Sarv,
@@ -9550,7 +9550,7 @@ Sistan takes place.
 —eg. Rustam and Zawara,<ref n="10"/>  Gushtasp and Zarir,<ref n="11"/>  and Asfandiyar and Bishutan.<ref n="12"/></p> 
 </div>
 
-<div type="textpart" subtype="section" n="prelude"><head>The Prelude</head>
+<div type="textpart" subtype="section" n="1"><head>The Prelude</head>
 <p>
 <milestone unit="vullers" n="1729"/>
 <lb/>The tale of Rustam’s slaying I present
@@ -9569,7 +9569,7 @@ Sistan takes place.
 <note n="10">Vol. ii. pp. 110, 115. </note>
 <note n="11">Vol. iv. pp. 321, 362, and p. 65.</note>
 <note n="12">Parts II. and III.</note>
-<pb n="262"/>
+<pb n="5.262"/>
 <lb/>A paladin in form and face was he,
 <lb/>And storied in the royal legendry.
 <lb/>His head was full of speech, his heart of lore,
@@ -9607,7 +9607,7 @@ Sistan takes place.
 <lb/>The hand of evil and the gate of feud,
 <lb/>Restraining him that doth presumptuously,
 <lb/>However overweening he may be,
-<pb n="263"/>
+<pb n="5.263"/>
 <lb/>While bountifully largessing the sage
 <lb/>That heedeth the prescriptions of his age.
 <lb/>I raise him in this world a monument,
@@ -9643,7 +9643,7 @@ Sistan takes place.
 <lb/>Both from Kabul and from Kashmir, alike
 <lb/>The worshippers of God and of the Fire—
 <lb/>Went with their Ruman tables in their hands,
-<pb n="264"/>
+<pb n="5.264"/>
 <lb/>And each one took the aspect of the sky
 <lb/>As to its favour toward the little child.
 <lb/>The gazers found a portent in the stars,
@@ -9684,7 +9684,7 @@ Sistan takes place.
 <lb/>Of his high birth bestowed on him a daughter,
 <lb/>And with that noble daughter sent besides
 <lb/>Fit presents from the spacious treasury,
-<pb n="265"/>
+<pb n="5.265"/>
 <lb/>And guarded him, as he were some fresh apple,
 <lb/>That ill might not befall him from the stars.
 <lb/>The nobles of Iran and Hindustén
@@ -9719,7 +9719,7 @@ Sistan takes place.
 <lb/>Prepare a festival, invite the nobles,
 <lb/>And call for wine and harp and minstrelsy.
 <note n="1">Mohl’s view is that the tribute was merely a nominal one—an empty ox-skin, worth one drachm—but in the latter part of the poem at all events ox-skins of coin frequently are mentioned in connexion with the payment of tribute, and it seems on the whole more likely that this particular ox-skin resembled the others and was not an empty one. Mohl’s <quote>de la valeur d'un dirhem</quote> is hardly justified by the original, which rather means <quote>in the matter of the money,</quote> i.e. of the tribute.</note>
-<pb n="266"/>
+<pb n="5.266"/>
 <lb/>While we are in our cups speak coldly to me,
 <lb/>And then insult me. I, dishonoured thus,
 <milestone unit="vullers" n="1733"/>
@@ -9760,7 +9760,7 @@ Sistan takes place.
 <lb/>By race from Sam, the son of Narfman,
 <lb/>And neither Rustam’s brother nor his kin.
 <lb/>Zal, son of Sam, hath never mentioned thee ;
-<pb n="267"/>
+<pb n="5.267"/>
 <lb/>How then shall such an one be called thy brother ?
 <lb/>Thou art slave-born, a menial at his gate,
 <lb/>And Rustam’s mother would not own thy claim.</q>
@@ -9802,7 +9802,7 @@ Sistan takes place.
 <lb/>When Rustam heard it he was wroth, and said :—
 <lb/><q>No matter lieth hidden for all time.
 <lb/>Have no more thought of him or of his realm,
-<pb n="268"/>
+<pb n="5.268"/>
 <lb/>And may his crown and sovereignty both perish.
 <lb/>I will destroy him for his words and wring
 <lb/>His heart and eyes, will seat thee on his throne
@@ -9840,7 +9840,7 @@ and how Rustam and Zawara fell therein
 <lb/>Among the troops. They honeycombed the chase
 <lb/>With pits, arranging them beneath the rides,
 <lb/>And in them set haft-downward hunting-spears,
-<pb n="269"/>
+<pb n="5.269"/>
 <lb/>Swords, double-headed darts, and scimitars,
 <lb/>And made a shift to mask the openings
 <lb/>That neither man nor eye of beast might see them.
@@ -9880,7 +9880,7 @@ and how Rustam and Zawara fell therein
 <lb/>I have a district where on plain and hill
 <lb/>Game throngeth. Wild sheep, onager, gazelle
 <lb/>Fill all the waste. One with a speedy steed
-<pb n="270"/>
+<pb n="5.270"/>
 <lb/>Will capture there gazelle and onager ;
 <lb/>One should not overlook that pleasant place.</q>
 </p><p>
@@ -9920,7 +9920,7 @@ and how Rustam and Zawara fell therein
 <lb/>And sword ; no pluck availed; escape was none;
 <lb/>And so the haunches of the mighty Rakhsh,
 <lb/>And Rustam’s legs and bosom, were impaled ;
-<pb n="271"/>
+<pb n="5.271"/>
 <lb/>Yet in his manhood he uplifted him,
 <lb/>And from the bottom bravely gained the brim.</p></div>
 <div type="textpart" subtype="section" n="4"><head>How Rustam slew Shaghad and died</head>
@@ -9958,7 +9958,7 @@ and how Rustam and Zawara fell therein
 <lb/>Surpasseth not Jamshid’s, and he was sawn
 <lb/>Asunder by a foe,<ref n="1"/> or Faridun's,
 <note n="1">Vol. i. p. 140.</note>
-<pb n="272"/>
+<pb n="5.272"/>
 <lb/>Or Kai Kubad’s—those mighty, high-born Shahs—
 <lb/>And when had come the time of Siyawush
 <lb/>Gurwi, the son of Zira, cut his throat.<ref n="1"/>
@@ -9999,7 +9999,7 @@ and how Rustam and Zawara fell therein
 <lb/>But Rustam had not left him time to suffer,
 <lb/>And cried: <q>Now God be praised, and I have known Him
 <note n="1">Vol. ii. 321.</note>
-<pb n="273"/>
+<pb n="5.273"/>
 <lb/>Through all my years, that even when my soul
 <lb/>Hath reached my lips day hath not turned to night
 <lb/>O'er my revenge, but He hath given me strength
@@ -10036,7 +10036,7 @@ and how Rustam and Zawara fell therein
 <lb/>From his instructor that a Lion like Rustam
 <lb/>Had died in dust and through a Fox’s words?
 
-<pb n="274"/>
+<pb n="5.274"/>
 <lb/>Why died I not before them wretchedly ?
 <lb/>Why am I left as their memorial ?
 <milestone unit="vullers" n="1741"/>
@@ -10078,7 +10078,7 @@ and how Rustam and Zawara fell therein
 <lb/>With golden nails and ivory ornaments.
 <lb/>The apertures were all sealed up with pitch,
 <lb/>Which they o'erlgid with musk and spicery.
-<pb n="275"/>
+<pb n="5.275"/>
 <lb/>They drew Zawara’s body from the pit,
 <lb/>Washed it, sewed up the gashes that they found,
 <lb/>And placed it in a shroud made of brocade.
@@ -10117,7 +10117,7 @@ and how Rustam and Zawara fell therein
 <lb/>In sooth such things are worthless in thy sight.
 <lb/>Be happy now in jocund Paradise,
 <lb/>For God compacted thee of manliness
-<pb n="276"/>
+<pb n="5.276"/>
 <lb/>And justice.</q>
 </p><p>
 <lb/>Having closed the charnel’s door
@@ -10155,7 +10155,7 @@ slew the King of Kdbul
 
 <lb/>Came forth and charged the centre of the foe,
 <lb/>The world was darkened by the horsemen’s dust,
-<pb n="277"/>
+<pb n="5.277"/>
 <lb/>The monarch of Kabul was taken captive,
 <lb/>And all his mighty armament dispersed.
 <lb/>The warriors of Zébulistan like wolves
@@ -10193,8 +10193,8 @@ slew the King of Kdbul
 <lb/>With bosoms lacerate and-full of pain.
 <note n="1">See p. 272.</note>
 </p></div>
-<pb n="278"/>
-<div type="textpart" subtype="section" n="7"><head>§ 7. How Rudaba lost her Wits through Mourning for Rustam</head>
+<pb n="5.278"/>
+<div type="textpart" subtype="section" n="7"><head>How Rudaba lost her Wits through Mourning for Rustam</head>
 <p>
 <lb/>For one year there was mourning in Sistan,
 <lb/>And all the folk were clad in black and blue.
@@ -10231,7 +10231,7 @@ slew the King of Kdbul
 <milestone unit="vullers" n="1746"/>
 <lb/>As soon as she awoke she asked for food,
 <lb/>And they provided her abundantly.
-<pb n="279"/>
+<pb n="5.279"/>
 <lb/>When sense returned to her she said to Zal :—
 <lb/><q>That word of thine consorted well with wisdom ;
 <lb/>Grief at a death and feast and festival
@@ -10267,7 +10267,7 @@ slew the King of Kdbul
 <lb/>As Shah for six score years and never seen
 <lb/>My peer; and now do thou bestir thyself,
 <lb/>Be just to every one and, being just,
-<pb n="280"/>
+<pb n="5.280"/>
 <lb/>Exempt from grief. Make glad and keep the wise
 <lb/>Near thee, but make the world dark to thy foes,
 <lb/>And follow right for that ne'er causeth loss.
@@ -10299,7 +10299,7 @@ slew the King of Kdbul
 </div>
 </div>
 
-<pb n="281"/>
+<pb n="5.281"/>
 <div type="textpart" subtype="reign" n="16"><head>XVI. BAHMAN, SON OF ASFANDIYAR: HE REIGNED NINETY-NINE YEARS</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
 <p>Bahman, on ascending the throne, announces his purpose of taking vengeance on the family of Rustam for the death of Asfandiyar. He marches against Ziibulistin, takes Zal and Faramarz prisoners, pardons the former but executes the latter. He then returns home, marries his own daughter Humai, arranges the succession to the throne, and dies.
@@ -10316,7 +10316,7 @@ the only traditional Iranian ruler available. Luhrisp and Gushtésp on one side,
 
 <note n="1">NIN, § 12.</note>
 
-<pb n="282"/>
+<pb n="5.282"/>
 
 <l>He held his sceptre like a pedant’s wand</l>
 <l>To lash offence, and with long arms and hands</l>
@@ -10343,7 +10343,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <note n="2">NIN, § 12, note,</note>
 <note n="3">See MHP, i, 528 seq. Cf. too JZ, 133, 160.</note>
 <note n="4">See too Vol. ii. p. 3.</note>
-<pb n="283"/></p></div>
+<pb n="5.283"/></p></div>
 <div type="textpart" subtype="section" n="1"><head>How Bahman sought Revenge for the Death of Asfandiyar</head>
 <p>
     <milestone unit="vullers" n="1748"/>
@@ -10380,7 +10380,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>But will come forward, like Shah Faridin
 <lb/>(And while such men exist all will be well)
 <note n="1">See pp. 226, 227.</note>
-<pb n="284"/>
+<pb n="5.284"/>
 <lb/>Who made Zahhik, in that he slew Jamshid,
 <lb/>To cease among the warriors of the world.
 <lb/>For vengeance Minuchihr led from Amul
@@ -10421,7 +10421,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>With dust of troops whereof there marched along
 <lb/>Sword-wielding horsemen five score thousand strong.
 <note n="1">Vol. i. p. 215 seq.</note>
-<pb n="285"/></p></div>
+<pb n="5.285"/></p></div>
 <div type="textpart" subtype="section" n="2"><head>How Bahman put Zal in Bonds</head>
 <p>
 <lb/>Now when Bahman was drawing nigh the Hirmund
@@ -10459,7 +10459,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>As well as of the mightiest of thy host.
 <note n="1">Nush Zad seems to be variant of Mihr-i-Nash. </note>
 <note n="2">Reading with P,</note>
-<pb n="286"/>
+<pb n="5.286"/>
 <lb/>Now miserably hath he passed away,
 <lb/>And all Zabulistan is full of tumult.
 <lb/>If now thou wilt:forbear to war with us,
@@ -10500,7 +10500,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>With money and with jewels in the rough,
 <lb/>With thrones and tapestries, whate'er there was,
 <lb/>With golden tissue and with golden crowns,
-<pb n="287"/>
+<pb n="5.287"/>
 <lb/>With silvern tissue and with belts and earrings.
 <lb/>They took the Arab horses trapped with gold,
 <lb/>The Indian scimitars with golden sheaths,
@@ -10536,7 +10536,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>With trenchant sword, brought Doomsday on the foe.
 <lb/>The men of Bust, the warriors of Zébul,
 <lb/>The gallant swordsmen of Kabulistdn,
-<pb n="288"/>
+<pb n="5.288"/>
 <lb/>Had not a horseman left upon the field,
 <lb/>No chief was left of all those men of name,
 <lb/>For one by one they turned their backs in flight,
@@ -10574,7 +10574,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>Did he not go Nimruz-ward for a bier,
 <note n="1">Ardshir in the original. See p. 282. </note>
 <note n="2">Reading with C and P.</note>
-<pb n="289"/>
+<pb n="5.289"/>
 <lb/>And did not Rustam too when at Kabul
 <lb/>Go to the chase and perish in a pit ?
 <lb/>While thou dost live, O king of pure descent !
@@ -10615,7 +10615,7 @@ Another will be found in the next volume in the portion dealing with the Ashkani
 <lb/>Zal hath been captive, and thy son slain vilely
 <lb/>By showers of arrows! Oh! may none e'er see
 
-<pb n="290"/>
+<pb n="5.290"/>
 <lb/>Another day like this, and may the earth
 <lb/>Be void of offspring from Asfandiyar.</q>
 </p><p>
@@ -10653,7 +10653,7 @@ appointed his Successor
 <lb/>He took her for his wife, which in the Faith
 <note n="1">See p. 288, note.</note>
 <note n="2">The name may mean <gloss>Born of the seed</gloss> or if=Chihr Azad, <gloss>Of noble seed</gloss> or <gloss>Of noble mien.</gloss></note>
-<pb n="291"/>
+<pb n="5.291"/>
 <lb/>That thou call’st olden was a goodly deed.
 <lb/>Humaii, that heart-refreshing shining Moon,
 <lb/>In course of time grew pregnant by the Shah.
@@ -10693,7 +10693,7 @@ appointed his Successor
 <lb/>Now turn I to Humai to tell her case
 <lb/>When she, Bahman deceased, assumed his place.
 </p></div></div>
-<pb n="292"/>
+<pb n="5.292"/>
 <div type="textpart" subtype="reign" n="17"><head>XVII. HUMAI: SHE REIGNED THIRTY-TWO YEARS</head>
 <div type="textpart" subtype="argument"><head>ARGUMENT</head>
 <p>Humai, in order to keep the throne for herself, casts away her son, when an infant, in an ark on the Euphrates. The babe is found by a launderer, adopted by him and his wife, and named
@@ -10709,7 +10709,7 @@ Hyapates and Hydaspes. Then Ninus himself became infatuated
 
 <note n="1">Herodotus, Book I. c. 105.</note>
 
-<pb n="293"/>
+<pb n="5.293"/>
 with her, Onnes hung himself, and Semiramis became queen. By
 Ninus she had a son named Ninyas. When Ninus died he left her the throne. Her career as supreme ruler was magnificent rather than moral. She governed all Asia as far eastward as the Indus, and was the reputed builder of Babylon, its hanging gardens, and the temple of Bel. In fact all great achievements of building or engineering in those parts were attributed to her.
 After a reign of forty-two years, and at the age of sixty-two, she resigned the throne to her son Ninyas, and either made away with herself by suicide or else turned into a dove and flew off in company with a flock of those birds. Such in brief is a legend that was much in vogue in the days when Ktesias was court physician in Persia between the years B.C. 417 and B.C 398. He recorded it in his Persica, Diodorus epitomised it in his Bibliotheca, Books I. and II., and through his epitome it has come down to us. The legend has been given here because it seems not unlikely that in
@@ -10727,7 +10727,7 @@ Remus, the twin sons of the Vestal Silvia, were set afloat on the
 <note n="2">MM, ii. 123. </note>
 <note n="3">The Euphrates.</note>
 <note n="4">RP, v. 3.</note>
-<pb n="294"/>
+<pb n="5.294"/>
 <lb/>Tiber in a trough, and afterward brought up by a shepherd and his wife.<ref n="1"/> There is too the case of Moses and of others.
 </p><p>
     Humai appears in the Zandavasta as <quote>the holy Huma.</quote><ref n="2"/> She is the earliest of the three queens or female Shahs that, according to the partly legendary, partly historical, dynastic scheme of the
@@ -10764,7 +10764,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Procured for nurse a woman of free birth,
 <note n="1">Livy, Book I. c. 4. </note>
 <note n="2">DZA, ii. 224.</note>
-<pb n="295"/>
+<pb n="5.295"/>
 <lb/>Pure, full of modesty, and other virtues,
 <lb/>And privily made o'er to her the babe,
 <lb/>That Shoot so flourishing and full of promise,
@@ -10803,7 +10803,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>They carried forth the ark, without a word,
 <lb/>And, hasting from Humai, set it adrift
 <lb/>Upon the stream of the Fardt. Two men
-<pb n="296"/>
+<pb n="5.296"/>
 <lb/>Ran after it to notice how the suckling
 <lb/>Fared on the stream. The ark went like a boat,
 <lb/>And those that watched had to bestir themselves.
@@ -10838,7 +10838,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Whereon I beat the clothes and rinse them out
 <lb/>When I have finished cleaning them, I spied
 <lb/>'An ark, and hidden in it was a babe—
-<pb n="297"/>
+<pb n="5.297"/>
 <milestone unit="vullers" n="1761"/>
 <lb/>A little one that thou wilt love at sight
 <lb/>As soon as ever I uncover it.
@@ -10875,7 +10875,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Let wisdom be thy counsellor therein.</q></p>
 <p><lb/><q>Good wife!</q> the launderer answered, <q> hoarded jewels
 <note n="1">Dar ab=in water. According to Tabari (ZT, i. 509) Humai, hearing that her son had been found by a miller, sent for the latter, inquired about the babe, and said, "Dér,"" i.e. "Take him." Hence the form "Dara." Both forms occur in the text, and both etymologies are of course worthless, The ancient form of the word was "Dérayavahusb."</note>
-<pb n="298"/>
+<pb n="5.298"/>
 <lb/>And dust are one to me. 'Tis best for us
 <lb/>To quit this city, move out to the plains,
 <lb/>Relieved from straits and hardship, and reside
@@ -10916,7 +10916,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Yea, all combined against him and were worsted !
 <lb/>The launderer grumbled at these escapades,
 <lb/>Which made the outlook gloomy for the shop,
-<pb n="299"/>
+<pb n="5.299"/>
 <lb/>And said: <q> Now beat these clothes upon the stone ;
 <lb/>'Tis no disgrace to thee to learn a craft,</q>
 </p><p>
@@ -10957,7 +10957,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>To play at polo, shoot with bow and arrow,
 <lb/>And outwit foes, till he attained such might
 <lb/>That leopards would not close with him in fight.
-<pb n="300"/>
+<pb n="5.300"/>
 </p></div>
 <div type="textpart" subtype="section" n="3"><head>How Darab questioned the Launderer’s Wife about his</head>
 <p>
@@ -10998,7 +10998,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Quite unrelated to the quality.
 <lb/>What wealth we have is all derived from thine;
 <lb/>Through thee we rose from low to high estate.
-<pb n="301"/>
+<pb n="5.301"/>
 <lb/>We are but slaves and thine is to command:
 <lb/>What wilt thou? We are thine both soul and body.</q>
 </p><p>
@@ -11041,7 +11041,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>When many troops had gathered, and the muster
 <lb/>Had been completed, glorious Humai,
 <lb/>Accompanied by well affected chiefs,
-<pb n="302"/>
+<pb n="5.302"/>
 <lb/>Came from the palace to review the host,
 <lb/>To count the numbers, and go through the names
 <lb/>Upon the registers. She tarried long
@@ -11080,7 +11080,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>With thunderings and lightnings, rain and turmoil,
 <lb/>Brake o'er the host and troubled Rashnawad ;
 <lb/>The earth was flooded and the welkin roared ;
-<pb n="303"/>
+<pb n="5.303"/>
 <lb/>Men everywhere were fleeing from the downpour,
 <lb/>And making for some shelter on the waste.
 <lb/>Darab, like others, was discomfited,
@@ -11122,7 +11122,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>And make him hear.</q>
 </p><p>
 <lb/>They cried : <q> Awake, thou sleeper !
-<pb n="304"/>
+<pb n="5.304"/>
 <lb/>Arouse thee from thy slumber on the dust.</q>
 </p><p>
 <lb/>He mounted, and at once the vault fell in!
@@ -11161,7 +11161,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>And to that messenger he said: <q> Bring hither,
 <lb/>As swift as wind, both Mars and Venus, bring
 <lb/>The launderer, his wife, and signet-ring.</q>
-<pb n="305"/></p></div>
+<pb n="5.305"/></p></div>
 <div type="textpart" subtype="section" n="5"><head>How Darab fought against the Host of Rum</head>
 <p>
 <lb/>This said, he broke up camp and marched on Rum.
@@ -11199,7 +11199,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>And darkened with their dust the rising sun ;
 <lb/>But when Darab advancing led the charge,
 
-<pb n="306"/>
+<pb n="5.306"/>
 <lb/>And gave his fleet steed rein, there tarried not
 <lb/>A single man before the Raman lines,
 <lb/>While of the warrior-swordsmen few survived.
@@ -11236,7 +11236,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <note n="1">See Vol. i. pp. 373, 378.</note>
 <note n="2">No doubt the Labarum of the army is meant. The true Cross ws taken at the capture of Jerusalem by Khusrau Parwiz (Chosroes II.), A.D. 614, and carried off to Persia, whence it was recovered b Heraclius on the conclusion of peace in A,D. 628, BGDF, ii. 300 v. 70, 93.</note>
 
-<pb n="307"/>
+<pb n="5.307"/>
 <lb/>And for form’s sake retained a spear himself,
 <milestone unit="vullers" n="1770"/>
 <lb/>Dispatching all the rest to Rashnawad,
@@ -11274,7 +11274,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <p>
 <lb/>Thence they departed homeward joyfully,
 <lb/>Darab, the worshipful, and Rashnawad,
-<pb n="308"/>
+<pb n="5.308"/>
 
 <lb/>Who halted when he reached the ruined vault,
 <lb/>Whereunder he had seen Darab asleep.
@@ -11315,7 +11315,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>She knew that, on the day when she reviewed
 <lb/>The troops, the gracious youth, whom she had marked
 <lb/>Of mighty stature and with cheeks like spring,
-<pb n="309"/>
+<pb n="5.309"/>
 <lb/>Could be none other than her son indeed—
 <lb/>A noble and a fruitful Branch of hers.
 </p><p>
@@ -11351,7 +11351,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>And for one se'nnight gave no audience.
 <lb/>She caused a golden throne to be prepared,
 <note n="1">See Vol. i. p. 123.</note>
-<pb n="310"/>
+<pb n="5.310"/>
 <lb/>With two seats made of lapis lazuli
 <lb/>And turquoise, with a crown all royal gems,
 <lb/>A pair of armlets, a bejewelled torque,
@@ -11389,7 +11389,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Still harpest thou upon a single fault ?
 <lb/>May He that made the world approve of thee,
 <lb/>And anguish fill the hearts of all thy foes.
-<pb n="311"/>
+<pb n="5.311"/>
 <lb/>This story shall be my memorial,
 <lb/>And ne'er grow obsolete upon the roll.</q>
 </p><p>
@@ -11431,7 +11431,7 @@ that intervened between the deposition of Khusrau Parwiz and the accession of Ya
 <lb/>Came with his wife apace. They said to him :—
 <lb/><q>Blest be thy sitting on the Kaian throne,
 - O monarch of the world! and be the hearts
-<pb n="312"/>
+<pb n="5.312"/>
 <lb/>Of all thy foes plucked out.</q>
 </p><p>
 <lb/>Darab bade bring

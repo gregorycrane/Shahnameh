@@ -2,12 +2,13 @@
 <text>
 
 <body>
-<div><head>XLI. NUSHIRWAN: HE REIGNED FORTY-EIGHT YEARS (continued)</head>
+    <div type="textpart" subtype="dynasty" n="Sasanian-c"><head>IV. THE SASANIAN DYNASTY (continued)</head>
+<div type="textpart" subtype="reign" n="41b"><head>NUSHIRWAN: HE REIGNED FORTY-EIGHT YEARS (continued)</head>
 <div><head>PART V. THE FALL AND RESTORATION TO FAVOUR OF BUZURJMIHR, AND THE WISDOM OF NUSHIRWAN</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
-<p><pb n="3"/>Buzurjmihr, while in attendance upon the Shah during a hunting-expedition, has a premonition of coming trouble and immediately afterwards falls under the Shah’s displeasure, and is disgraced. Conscious of his own rectitude he refuses to own that he is in fault and is treated with increasing rigour till the Shah has need of his services to expound a problem proposed by Caesar, but with his sight greatly impaired by his sufferings.</p>
+<p><pb n="8.3"/>Buzurjmihr, while in attendance upon the Shah during a hunting-expedition, has a premonition of coming trouble and immediately afterwards falls under the Shah’s displeasure, and is disgraced. Conscious of his own rectitude he refuses to own that he is in fault and is treated with increasing rigour till the Shah has need of his services to expound a problem proposed by Caesar, but with his sight greatly impaired by his sufferings.</p>
 
 <p>The rest of the Part is taken up with an account of the wisdom of Nushirwan as shown in his replies to questioners and in his letter of advice to his son Hurmuzd.</p>
 </div>
@@ -27,7 +28,7 @@
 </div>
 
 <div type="textpart" subtype="section" n="1"><head>How Nishirwan was wroth with Buzurjmihr and ordered him to be put in Ward</head>
-<p><pb n="4"/><milestone unit="calced" n="1751"/>
+<p><pb n="8.4"/><milestone unit="calced" n="1751"/>
 <lb/>Consider now the case of Buzurjmihr,
 <lb/>Who from the dust rose to the circling sphere,
 <lb/>Which will exalt one to the clouds on high,
@@ -59,7 +60,7 @@
 <lb/>At that adventure Buzurjmihr aghast
 <lb/>Mused at the process of the turning sky.
 </p><p>
-<pb n="5"/>
+<pb n="8.5"/>
 </p><p>
 <lb/>He understood: <q>My fall, my day of wrath,
 <lb/>My season of dismay, are hard at hand!</q>
@@ -101,7 +102,7 @@
 <lb/><q>It chanced this very day that Nushirwan
 
 
-<pb n="6"/>
+<pb n="8.6"/>
 
 <lb/>Looked so on me, his bondslave, that I said:—
 <lb/><q>There is an end for me of food and sleep!</q>
@@ -140,7 +141,7 @@
 <lb/><q>My station both in public and in private
 <lb/>Far bettereth the monarch of the world’s.</q>
 </p><p>
-<pb n="7"/>
+<pb n="8.7"/>
 </p><p>
 <lb/>The servitor returned with this response,
 <lb/>But counted as he went the grains of dust.
@@ -184,7 +185,7 @@
 <lb/>If not the deathsman with his trenchant sword
 <lb/>Shall show thee Doomsday in that thou hast said
 
-<pb n="8"/>
+<pb n="8.8"/>
 <lb/>That jail and nails and cage, and pit and bonds
 <lb/>Are better than the throne of Nushirwan.</q></q>
 </p><p>
@@ -216,7 +217,7 @@
 
 <div type="textpart" subtype="section" n="2"><head>How the Ambassador of Caesar came to Nushirwan with a locked Casket and how Buzurjmihr was set at large to declare its Contents</head>
 <p>
-<lb/><pb n="9"/>Now in those days it chanced that Caesar sent
+<lb/><pb n="8.9"/>Now in those days it chanced that Caesar sent
 <lb/>An envoy with a letter to the Shah,
 <lb/>With gifts, with presents, and a padlocked casket,
 
@@ -271,7 +272,7 @@
 <lb/>Because high heaven above us so ordained
 
 <lb/>That thou shouldst have affliction at our hands.
-<lb/><pb n="10"/>
+<lb/><pb n="8.10"/>
 <lb/><milestone unit="calced" n="1755"/>
 <lb/>Thy tongue excited my displeasure: thou
 <lb/>Hast been the author of thine own oppression.
@@ -307,7 +308,7 @@
 <lb/>That wise man vigilant informed the sage
 <lb/>Of all things that were hidden from his eyes,
 <lb/>And he as feeling for his way rejoined:—
-<pb n="11"/>
+<pb n="8.11"/>
 <lb/><q>Ask if this Moon be wedded.</q>
 <lb/>Said the lady:—
 <lb/><q>I have a spouse and child withal at home.</q>
@@ -357,7 +358,7 @@
 <lb/>And made the right the business of my soul,
 
 <lb/>I will declare the casket’s whole contents,
-<lb/><pb n="12"/>
+<lb/><pb n="8.12"/>
 <lb/>And lay no hand on it or on its lock.
 
 <lb/>Although mine eyes be dim my heart is bright;
@@ -401,7 +402,7 @@
 <lb/>Praise to the Master of the sun and moon,
 <lb/>Who showeth to the soul the path to knowledge,
 <lb/>And knoweth all things manifest and hidden;
-<lb/><pb n="13"/>
+<lb/><pb n="8.13"/>
 <lb/>I covet knowledge, He is past all need.<note>Reading with P.</note>
 <milestone unit="calced" n="1757"/>
 
@@ -444,7 +445,7 @@
 <lb/>So let the heart of Nushirwan, the Shah,
 <lb/>Rejoice exempt from pain and grief for ever.
 <lb/>Exalted though the Shah be yet his state
-<lb/><pb n="14"/>
+<lb/><pb n="8.14"/>
 <lb/>Is made more gracious by his minister.
 <lb/>The chase, war, pleasure, largess, justice, feast,
 <lb/>These are the business of the king of kings.
@@ -494,7 +495,7 @@
 <lb/>Another archmage said to him: <q>Be blest,
 
 <lb/>And sheltered from all ill on every side!
-<lb/><pb n="15"/>
+<lb/><pb n="8.15"/>
 
 <lb/>The captain of the host went from Gurgan
 
@@ -536,7 +537,7 @@
 <lb/><q>‘Sell each chief for a cup of wine and ask
 <lb/>No more because we do not lack their goods.
 <lb/>I will require their jewels, purses, slaves,
-<lb/><pb n="16"/>
+<lb/><pb n="8.16"/>
 <lb/>And gold and silver with the scimitar.</q>
 </p><p>
 <lb/>They told him: <q>Of the rich men of the city
@@ -579,7 +580,7 @@
 <lb/>But since my teeth came, and my back grew straight,
 <lb/>My quest is flesh because I have grown strong.</q>
 <lb/>Another said: <q>I own that thou art mighty,
-<lb/><pb n="17"/>
+<lb/><pb n="8.17"/>
 <lb/>Our better both in counsel and in knowledge,
 <lb/>But how hast thou surpassed the kings of kings,
 <lb/>And made the whole world watch thy policy?</q>
@@ -613,7 +614,7 @@
 <lb/>And good or evil, to the court. Gashasp
 <lb/>Is both illustrious and old: ’twere well
 <lb/>That justice be administered by him.</q>
-<lb/><pb n="18"/>
+<lb/><pb n="8.18"/>
 <lb/>The Shah replied: <q>Gashasp, though far from want,
 <lb/>Is still possessed by greed. Choose some one else,
 <lb/>Who toileth not upon his own behalf,
@@ -659,7 +660,7 @@
 <lb/>With all men, and munificent and holy.
 
 <lb/>What hath Mihrak, that ancient servant, done
-<lb/>To have his pay reduced, his visage wan?</q><pb n="19"/>
+<lb/>To have his pay reduced, his visage wan?</q><pb n="8.19"/>
 </p><p>
 <lb/>The Shah replied: <q>Mihrak hath grown too bold,
 <lb/>Relying on his former services.
@@ -702,7 +703,7 @@
 <lb/>On hearing how the archimages claimed
 <lb/>The money from the officer, commanded:—
 <lb/><q>Press not for what is spent: give him too something
-<lb/>Out of the treasury.</q><pb n="20"/>
+<lb/>Out of the treasury.</q><pb n="8.20"/>
 </p>
 <p>
 <lb/>Another said:—
@@ -740,7 +741,7 @@
 <lb/>He replied:—
 <lb/><q>Thank God that we inspire alarm in none.
 <lb/>Be it ours to tender yet more carefully
-<lb/>Both innocent and guilty.</q><pb n="21"/>
+<lb/>Both innocent and guilty.</q><pb n="8.21"/>
 </p>
 <p>
 <lb/>Said another:—
@@ -796,7 +797,7 @@
 <lb/>He thus returned reply: <q>The open hand
 <lb/>Doth start a man afresh, both leaf and bough.
 <lb/>The world-lord, when a worshipper of God,
-<pb n="22"/>
+<pb n="8.22"/>
 
 <lb/>Hath at his disposition all the world,
 <lb/>But we have seen it niggard to the mean,
@@ -850,7 +851,7 @@
 <lb/>He thus made answer: <q>I associate
 <lb/>With sage and archimage, for when the voice
 <lb/>Of Ahriman is at our ears our hearts
-<pb n="23"/>
+<pb n="8.23"/>
 
 
 <lb/>Grow void of counsel and our brains of sense.</q>
@@ -902,7 +903,7 @@
 </p>
 <p>
 <lb/>One said: <q>O Shah of sunlike Grace to whom
-<pb n="24"/>
+<pb n="8.24"/>
 
 <lb/>Time will bring forth no peer! we see a suitor
 <lb/>Attending court each morn, and that affairs
@@ -950,7 +951,7 @@
 </div>
 
 <div type="textpart" subtype="section" n="4"><head>Nushirwan’s Letter of Counsel to his Son Hurmuz</head>
-<p><pb n="25"/>
+<p><pb n="8.25"/>
 <lb/>Now read the letter of Shah Nushirwan,
 <lb/>And muse upon it in thine ardent soul.
 <lb/>He said: <q>This letter grateful to the heart,
@@ -985,7 +986,7 @@
 <lb/>That people should bless thee because the sage
 
 
-<pb n="26"/>
+<pb n="8.26"/>
 
 <milestone unit="calced" n="1765"/>
 
@@ -1026,7 +1027,7 @@
 <lb/>And hold him as thy body and thy soul.
 
 
-<pb n="27"/>
+<pb n="8.27"/>
 
 
 <lb/>In matters great and small pay no regard
@@ -1072,7 +1073,7 @@
 <lb/>Thy name will never want for majesty.
 
 
-<pb n="28"/>
+<pb n="8.28"/>
 
 
 <lb/>Now be the Maker of the world thy refuge,
@@ -1110,7 +1111,7 @@
 <lb/>Who from a volume in the ancient tongue
 
 
-<pb n="29"/>
+<pb n="8.29"/>
 
 
 <lb/>Saith that an archmage asked of Nushirwan:—
@@ -1153,7 +1154,7 @@
 <lb/><q>A sage possessed of Grace,</q> replied the Shah,
 
 
-<pb n="30"/>
+<pb n="8.30"/>
 
 
 <lb/>Will take the whole world underneath his wing.
@@ -1195,7 +1196,7 @@
 <lb/>For they speak</q><note>Reading with P.</note><q>largely to the point and leave
 
 
-<pb n="31"/>
+<pb n="8.31"/>
 
 
 <lb/>Their memory in the world. Next is the speech
@@ -1229,7 +1230,7 @@
 <lb/>Compare not wealth with knowledge.</q>
 </p>
 
-<pb n="32"/>
+<pb n="8.32"/>
 
 <p>
 <lb/>Said the archmage:—
@@ -1279,7 +1280,7 @@
 <lb/>Hath ever sought for the supremacy,
 
 
-<pb n="33"/>
+<pb n="8.33"/>
 
 
 <lb/>But at my chastening washed his hands of ill.
@@ -1325,7 +1326,7 @@ They ever grew forgetful of their fame,
 But fame hath triumphed o’er the cup with me,
 
 
-<pb n="34"/>
+<pb n="8.34"/>
 My spirit is beforehand with the time.</q></p>
 <p>
 
@@ -1368,7 +1369,7 @@ My spirit is beforehand with the time.</q></p>
 <lb/>Who if he sought it would be full of fear.
 
 
-<pb n="35"/>
+<pb n="8.35"/>
 
 
 <lb/>Then as for what thou said’st about good deeds,
@@ -1409,7 +1410,7 @@ My spirit is beforehand with the time.</q></p>
 <lb/>The sage is ever cheerful.</q>
 </p>
 
-<pb n="36"/>
+<pb n="8.36"/>
 
 <p>
 <lb/><q>Which of us,</q>
@@ -1445,7 +1446,7 @@ My spirit is beforehand with the time.</q></p>
 <lb/>The archmage said, <q>so that the man who giveth
 
 
-<pb n="37"/>
+<pb n="8.37"/>
 
 
 <lb/>May be exalted and great?</q>
@@ -1495,7 +1496,7 @@ My spirit is beforehand with the time.</q></p>
 <lb/><q>That great king,</q> this was Nushirwan’s reply,
 
 
-<pb n="38"/>
+<pb n="8.38"/>
 
 
 <lb/><q>Who is a worshipper of God and pure,
@@ -1544,7 +1545,7 @@ My spirit is beforehand with the time.</q></p>
 </q>
 </p>
 
-<pb n="39"/>
+<pb n="8.39"/>
 
 <p>
 <lb/><q>Be drunk not with the pleasures of the day.
@@ -1585,7 +1586,7 @@ My spirit is beforehand with the time.</q></p>
 </q>
 </p>
 
-<pb n="40"/>
+<pb n="8.40"/>
 
 <p>
 <lb/><q>For increase from a friend is laudable,
@@ -1620,9 +1621,9 @@ My spirit is beforehand with the time.</q></p>
 
 <div><head>PART VI: THE SHAH’S LAST YEARS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
-<p><pb n="41"/>The poet tells of the last war of Nushirwan against Rum and of the Shah’s transaction with a shoemaker, the appointment of his son Hurmuzd as his successor after that prince had been questioned by Buzurjmihr, the Shah’s testament and last counsels to his son, his dream of the advent of Muhammad, and the death of the Shah and of Buzurjmihr.</p>
+<p><pb n="8.41"/>The poet tells of the last war of Nushirwan against Rum and of the Shah’s transaction with a shoemaker, the appointment of his son Hurmuzd as his successor after that prince had been questioned by Buzurjmihr, the Shah’s testament and last counsels to his son, his dream of the advent of Muhammad, and the death of the Shah and of Buzurjmihr.</p>
 </div>
 <div><head>NOTE</head>
 
@@ -1634,7 +1635,7 @@ Syria, recorded in the Shahnama by the mention of Halab
 Antioch. The Romans, under Marcian (Batarun), the prefect of the East, besieged Nisibis, held by the Persians ever since its cession to Shapur, son of Hurmuz (Sapor II.), by Jovian in A.D. 363. Nushirwan raised the siege, drove the Romans into the stronghold of Dara on the foot-hills of Mount Masius, and besieged them there. After a gallant defence the fortress fell late in A.D. 573.<note n="1">For Dara see GDF. v. 86 and note.</note> Mount Masius seems to be the Mount
 Talikan of the Shahnama, the scene of one of Gushtasp’s exploits during his exile in Rum.<note n="2">See Vol. iv. p. 342 seq.</note> Justin on this resigned the direction
 
-<pb n="42"/> of affairs to Tiberius who to gain time purchased a temporary suspension of hostilities from the Persians. This is represented in the Shahnama as the conclusion of peace and as a triumph for Nushirwan but historically the war was still in progress at the time of his death four years later, and the
+<pb n="8.42"/> of affairs to Tiberius who to gain time purchased a temporary suspension of hostilities from the Persians. This is represented in the Shahnama as the conclusion of peace and as a triumph for Nushirwan but historically the war was still in progress at the time of his death four years later, and the
 Great King, shortly before the end of his reign, had to make a somewhat hasty and ignominious retirement to Ctesiphon.<note n="3">RSM, p. 437.</note></p>
 
 <p>§ 2. We have already met with the cobbler or shoemaker, introduced as characteristic of a type, in the Shahnama.<note n="4">See Vol. vii. pp. 24, 260.</note></p>
@@ -1658,16 +1659,16 @@ a mountain. Another tradition says that Mount Hira intervened between the two ha
 But whenever they see a miracle they turn aside and say,
 
 
-This is well-devised magic.</q><note n="7">RK, p. 74.</note>
+<q>This is well-devised magic.</q></q><note n="7">RK, p. 74.</note>
 </p><p>
 The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 </p>
 </div>
 
 <div type="textpart" subtype="section" n="1"><head>How Nushirwan made ready to war against Caesar
-<lb/>It is recorded in the ancient book</head>
-<p><pb n="43"/>
-
+</head>
+<p><pb n="8.43"/>
+    <lb/>It is recorded in the ancient book
 <lb/>From the recital of a truthful sage
 <lb/>That when news came from Rum to this fair land
 <lb/>For Nushirwan, the world-lord: <q>Mayst thou live,
@@ -1700,7 +1701,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>He made the journey in all haste to Caesar,
 
 
-<pb n="44"/>
+<pb n="8.44"/>
 
 
 <lb/>And, when he reached the court, they gave him entry;
@@ -1741,7 +1742,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>With us—our words of grief and joy alike:
 
 
-<pb n="45"/>
+<pb n="8.45"/>
 
 
 <lb/>Our weal and woe shall not remain concealed.
@@ -1784,7 +1785,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>And skin. By holy God, by sun and moon,
 
 
-<pb n="46"/>
+<pb n="8.46"/>
 
 
 <lb/>By crown and throne and by Azargashasp,
@@ -1819,7 +1820,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>He set forth from 'Ammuriya<note n="1">Cf. Vol. vi. p. 23 and note.</note> to Halab;
 
 
-<pb n="47"/>
+<pb n="8.47"/>
 
 
 <lb/>The world was filled with tumult, bruit, and din.
@@ -1863,7 +1864,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>Some Bactrian camels on the road and take
 
 
-<pb n="48"/>
+<pb n="8.48"/>
 
 
 <lb/>Out of the treasures of Mazandaran
@@ -1919,7 +1920,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 
 
 <p>He brought his balance,
-<pb n="49"/>
+<pb n="8.49"/>
 
 <lb/>Weights, and the drachms, but asked no bond in writing.
 <lb/>He weighed the coin, the envoy’s task was done.
@@ -1959,7 +1960,7 @@ The Sura in which the quotation occurs is known as <q>THE MOON.</q>
 <lb/>Now this boot-seller, if the Shah will hear,
 <lb/>Made one request. He said, for so the envoy
 
-<pb n="50"/>
+<pb n="8.50"/>
 
 
 <lb/>Reporteth : <q>May the world-lord mate with wisdom.
@@ -2000,7 +2001,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 
 <div type="textpart" subtype="section" n="3"><head>How the Envoys of Caesar came to Nushirwan with Apologies and Presents</head>
 
-<p><pb n="51"/>
+<p><pb n="8.51"/>
 <lb/>Whenas from Pisces Sol displayed its crown,
 <lb/>And flung a robe of ivory o’er the earth,
 <lb/>The scouts returning from the trench-edge came
@@ -2032,7 +2033,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>Hath all the age’s wisdom for his own,
 
 
-<pb n="52"/>
+<pb n="8.52"/>
 
 
 <lb/>And straighteneth Caesar’s back. The Khan of Chin,
@@ -2079,7 +2080,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/><q>The matter resteth with my minister.</q>
 </p>
 
-<pb n="53"/>
+<pb n="8.53"/>
 
 <p>
 <lb/>Then all the Romans went before that archmage,
@@ -2107,7 +2108,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/><milestone unit="calced" n="1781"/>
 </p>
 
-<pb n="54"/>
+<pb n="8.54"/>
 
 <p>
 <lb/>The Shah departed thence toward Taisafun
@@ -2167,7 +2168,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>Old man! when three score years and one have past,
 
 
-<pb n="55"/>
+<pb n="8.55"/>
 
 
 <lb/>Wine, cup, and rest grow savourless at last,
@@ -2212,7 +2213,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>Should be to clothe him in the robe of justice,
 
 
-<pb n="56"/>
+<pb n="8.56"/>
 
 
 <lb/>Display compassion to the mendicants,
@@ -2259,7 +2260,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>All that observe the way of understanding,
 
 
-<pb n="57"/>
+<pb n="8.57"/>
 
 
 <lb/>Prove ye his knowledge and thereby present
@@ -2307,7 +2308,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>To them in that same order. Bring to bear
 
 
-<pb n="58"/>
+<pb n="8.58"/>
 
 
 <lb/>High-mindedness and justice for, if thou
@@ -2352,7 +2353,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>What is the most unstable of them all?
 
 
-<pb n="59"/>
+<pb n="8.59"/>
 
 
 <lb/>Who is the tyrant that is unashamed,
@@ -2402,7 +2403,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>Would make a fool of wisdom. Then the sage
 
 
-<pb n="60"/>
+<pb n="8.60"/>
 
 
 <lb/>Inquired for whom ’tis goodlier to seek
@@ -2447,7 +2448,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>A tyrant if he acteth shamelessly.
 
 
-<pb n="61"/>
+<pb n="8.61"/>
 
 
 <lb/>As for the man whose very trade is lies,
@@ -2495,7 +2496,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>The wind had dried that paper wrought in Chin
 
 
-<pb n="62"/>
+<pb n="8.62"/>
 
 
 <lb/>They set a seal of musk thereon. The Shah,
@@ -2541,7 +2542,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>And full of toil and trouble, pain and bale.
 
 
-<pb n="63"/>
+<pb n="8.63"/>
 
 
 <lb/>Whenever thou art joying therein and when
@@ -2581,7 +2582,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>And list the sage’s rede in weal and woe.
 
 
-<pb n="64"/>
+<pb n="8.64"/>
 
 
 <lb/>Ill must not compass thee about, for ill
@@ -2624,7 +2625,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>God grant that thou mayst not forget my words
 
 
-<pb n="65"/>
+<pb n="8.65"/>
 
 
 <lb/>Though thou be far removed from my sight.
@@ -2668,7 +2669,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>That court will be conducted otherwise,
 
 
-<pb n="66"/>
+<pb n="8.66"/>
 
 
 <lb/>And none will have e’en access unto us.
@@ -2706,7 +2707,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>And oped his lips to none on that affair,
 
 
-<pb n="67"/>
+<pb n="8.67"/>
 
 
 <lb/>But when the sun unveiled its countenance,
@@ -2747,7 +2748,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>And fill the world with warriors. Then will cease
 
 
-<pb n="68"/>
+<pb n="8.68"/>
 
 
 <lb/>The observation of the feast of Sada,
@@ -2784,7 +2785,7 @@ pain.<note n="1">Two couplets omitted.</note></p>
 <lb/>Then Buzurjmihr: <q>O Shah! why mourn therefor?
 
 
-<pb n="69"/>
+<pb n="8.69"/>
 
 
 <lb/>What matter this world’s griefs and joys to thee
@@ -2808,10 +2809,10 @@ pain.<note n="1">Two couplets omitted.</note></p>
 </div>
 </div>
 </div>
-<div><head>XLII. HURMUZD, THE SON OF NUSHIRWAN: HE REIGNED TWELVE<note n="1">Fourteen according to P.</note> YEARS</head>
+<div type="textpart" subtype="reign" n="42"><head>HURMUZD, THE SON OF NUSHIRWAN: HE REIGNED TWELVE<note n="1">Fourteen according to P.</note> YEARS</head>
 
-<div><head>ARGUMENT</head>
-<p><pb n="70"/>Hurmuzd, on succeeding to the throne, makes fair promises but soon belies them and puts to death his father’s ministers. Afterwards, perturbed by a prophecy, he repents, and two stories are told of his even-handed justice.
+<div type="textpart" subtype="argument"><head>Argument</head>
+<p><pb n="8.70"/>Hurmuzd, on succeeding to the throne, makes fair promises but soon belies them and puts to death his father’s ministers. Afterwards, perturbed by a prophecy, he repents, and two stories are told of his even-handed justice.
 War breaks out and Bahram Chubina comes upon the scene.
 He is appointed commander-in-chief and defeats the Turks under King Sawa and his son Parmuda, but after having been shamefully insulted by the Shah he rebels—a course strongly opposed by his sister Gurda. He contrives to make Hurmuzd suspicious of his own son Khusrau Parviz who escapes. Hurmuzd is dethroned and blinded, and
 Khusrau Parviz returns.</p>
@@ -2822,7 +2823,7 @@ Khusrau Parviz returns.</p>
 <div><head>NOTE</head>
 <p>Hurmuzd (Hormisdas IV., A.D. 578-590) may not have been so black as he has been painted but his reign, to say the least of it, stands in melancholy contrast to that of his father whose precepts he disregarded, whose system of administration he did his best to overturn, whose trusted ministers he put to death, and whose practice of personally leading his troops he made no attempt to emulate.<note n="2">RSM, p. 473.</note> He had the good fortune to possess a general at once brave, able, and apparently quite loyal whom he treated with the basest and most insolent ingratitude, wrecking his own
 
-<pb n="71"/> reign thereby and inflicting many wounds upon his country.
+<pb n="8.71"/> reign thereby and inflicting many wounds upon his country.
 The romantic history of that general, as told in the Shahnama, is one of the finest passages in the poem, and the poet was fortunate in having such to lay before his readers as he was nearing the end of his great undertaking.<note n="3">See p. 96 seq.</note></p>
 
 <p>Makh, the marchlord of Hardt, who seems to have been known as Khurdasani in accordance to Persian custom in such matters, appears to be the father of, or identical with, one of the four compilers of the prose Shahnama for
@@ -2834,7 +2835,7 @@ In the Introduction to the present Translation the name of this particular compi
 <p>Buzurjmihr seems to be identical with Buzurjmihr who, we were told at the end of the last reign,<note n="9">p. 69.</note> died within a month of Nushirwan. According to Masudi Buzurjmihr survived to be the chief minister of Khusrau Parviz who after thirteen years of reign disgraced him and treated him even worse than Nushirwan is said to have done on one occasion,<note n="10">p. 4 seq., MM, ii. 224.</note> the two accounts no doubt being variants of the same story.
 Firdausi tells us that one of the three scribes was young,<note n="11">p. 81.</note> and that Buzurjmihr was a youth at his lessons when he first attracted Nushirwan’s attention,<note n="12">Vol. vii. p. 283. Cf. p. 313.</note> He need not have been an old man at the time of that Shah’s death. The probability is, however, that he was executed along with other ministers by Hurmuzd as the text seems to imply.</p>
 
-<pb n="72"/>
+<pb n="8.72"/>
 
 
 <p>The account in the Shahnama and in Oriental historians of these wars seems much exaggerated. The war with Rum was nothing new: it had been going on from the days of Nushirwan and was not specially active at the moment. The Arab and Khazar invasions require further confirmation and the latter, it may be suggested, was merely a patriotic invention to cover up an unfortunate incident that befell the Persians South of the Caucasus after the conclusion of the war with the Turks (p. 76). This last war has generally been taken to have been waged between the
@@ -2853,11 +2854,11 @@ Gurgin<note n="17">ZT, ii. 252.</note>—all important indications to the studen
 Shahnama. Rai was the traditional seat of Arsacid power.<note n="18">Vol. vi. pp. 201, 215, 223.</note> Shapur of Rai, an army-chief, who was called in by Kubad to overthrow Sifarai of the race of Kawa, also was a Mihran and descended from Mihrak.<note n="19">Vol. vii. pp. 185, 192.</note> The Mihran clan played an important part in Sasanian times and the name often recurs.<note n="20">Id.</note>
 Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n="21">Vol. iii. p. 289 seq.</note> The point is this. The words Milad, Mihrak, and Mihran are closely allied, probably mere variants, are reminiscent of Parthian times and under the Sasanian Dynasty represent the vanquished Arsacid element.<note n="22">Vol. iii. p. 11. vi. 256, vii. 156.</note> That element recovered sufficiently to exercise much political power as in the case of the Mihrans.</p>
 
-<pb n="73"/>
+<pb n="8.73"/>
 
 <p>A Ruhham of that stock is said to have been influential in placing Piruz upon the throne.<note n="1">Vol. vii. p. 156.</note> If they could not be kings themselves, they aspired to be king-makers and ministers. There was rivalry between them and families of purer Iranian stock, and the Shahs, as in the instance given above, availed themselves of it to serve their own ends. Such rivalry, however, was a subsidiary matter; the great antagonism between Arsacid and Sasanian, though latent, still persisted and is indicated plainly enough in the course of the story of Bahram Chubina.</p>
 
-<p>Noldeke’s account of that story, which is a blend of history and romance, is briefly as follows. It was compiled in Pahlavi shortly before the end of the Sasanian Dynasty, about the beginning of the reign of Yazdagird III., A.D. 632, and was translated into Arabic by a certain Jabala bin Salim of whom nothing more is known save that he was <quote>the writer of Hisham</quote> who can be no other than the Arabic historian Hisham Ibn Al-Kalbi. Hisham died about A.D. 820. The story thus became known to the Muhammadans and was woven into the general presentment of Sasanian history.<note n="2">NT, p. 474.</note> We may add that Tabari, who was born some eighteen years after Hisham’s death and died A.D. 923, gives the historical nucleus of the story in his history. The redactor of his work into Persian (A.D. 963) states that as his Arabic authority has not given the life of Bahram Chubina in its entirety he gives it from the book of the history of Persia where he found it more complete.<note n="3">ZT, ii. 253.</note> This version agrees very closely with Firdausi’s. Both are derived from the Persian Book of Kings in one or another of its later forms. Which the redactor of Tabari used we cannot say, but Firdausi, we may assume, used the modern Persian prose Shahnama of Abd Mansur<note n="4">See Vol. i. p. 67.</note> for which a new translation of the story had been made from the <pb n="74"/> original Pahlavi.<note n="5">NT, p. 475.</note> This may account for the difference in some of the proper names that exists between Firdausi’s version and that in the Persian Tabari. In this and some other respects the latter is of decided help to the understanding of the former. Attention will be called to such matters in subsequent notes.</p>
+<p>Noldeke’s account of that story, which is a blend of history and romance, is briefly as follows. It was compiled in Pahlavi shortly before the end of the Sasanian Dynasty, about the beginning of the reign of Yazdagird III., A.D. 632, and was translated into Arabic by a certain Jabala bin Salim of whom nothing more is known save that he was <quote>the writer of Hisham</quote> who can be no other than the Arabic historian Hisham Ibn Al-Kalbi. Hisham died about A.D. 820. The story thus became known to the Muhammadans and was woven into the general presentment of Sasanian history.<note n="2">NT, p. 474.</note> We may add that Tabari, who was born some eighteen years after Hisham’s death and died A.D. 923, gives the historical nucleus of the story in his history. The redactor of his work into Persian (A.D. 963) states that as his Arabic authority has not given the life of Bahram Chubina in its entirety he gives it from the book of the history of Persia where he found it more complete.<note n="3">ZT, ii. 253.</note> This version agrees very closely with Firdausi’s. Both are derived from the Persian Book of Kings in one or another of its later forms. Which the redactor of Tabari used we cannot say, but Firdausi, we may assume, used the modern Persian prose Shahnama of Abd Mansur<note n="4">See Vol. i. p. 67.</note> for which a new translation of the story had been made from the <pb n="8.74"/> original Pahlavi.<note n="5">NT, p. 475.</note> This may account for the difference in some of the proper names that exists between Firdausi’s version and that in the Persian Tabari. In this and some other respects the latter is of decided help to the understanding of the former. Attention will be called to such matters in subsequent notes.</p>
 
 <p>It is evident that the redactors of the Pahlavi original into Arabic or Persian took good care to leave little repugnant to Muhammadan Faith or morals. Even the statement in Tabari and its Persian version that Gurdya was the wife as well as the sister of Bahram Chubina<note n="6">NT, p. 279. ZT, ii. 303.</note> disappears in Firdausi.</p>
 
@@ -2870,7 +2871,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 <p>According to the Persian Tabari, Hurmuzd, on hearing of the invasion of Sawa Shah, sent Kharad, son of Barzin, with an escort to him to delay his advance while the expedition under the command of Bahram Chubina was being got ready. The envoy managed to keep Sawa at Balkh for a whole year.<note n="12">ZT, ii. 259.</note></p>
 
 
-<p>Faghfur, or Faghfur of Chin, hitherto in the Shahnama a <pb n="75"/> dynastic title, here appears as the name of the younger son of Sawa perhaps to add to the latter's importance. In the Persian Tabari the governor of Khurasan takes the part here played by Faghfur.<note n="1">ZT, ii. 259.</note></p>
+<p>Faghfur, or Faghfur of Chin, hitherto in the Shahnama a <pb n="8.75"/> dynastic title, here appears as the name of the younger son of Sawa perhaps to add to the latter's importance. In the Persian Tabari the governor of Khurasan takes the part here played by Faghfur.<note n="1">ZT, ii. 259.</note></p>
 
 <p>In the Persian Tabari, Bahram Chubina has the dream while dozing on horseback after having been engaged in arraying the troops all night, and in the same authority bars the road of retreat with five hundred horse,<note n="2">ZT, ii. 261.</note> while the only sorcery is in connection with the dream.</p>
 
@@ -2886,7 +2887,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 
 <p>The Shahnama here seems to confuse Izid Gashasp with the scribe of that name executed by Hurmuzd.<note n="10">p. 83.</note> It is clear from the Persian Tabari that the person consulted by the Shah about Bahram Chubina was his confidant and minister Ayin Gashasp who in the Persian Tabari<note n="11">ZT, ii. p. 266.</note> is named Yazdanbakhsh. Izid and Yazdan both mean God which also caused confusion and when it became hopeless the form Ayin Gashasp was adopted to get out of the difficulty.</p>
 
-<p>§§ 19-21. <pb n="76"/>The definite accusation of withholding some of the booty made by the archscribe (Mihran) against Bahram Chubina is absent in the Persian Tabari which merely gives the vague insinuation of the minister Yazdanbakhsh which rouses suspicion in Hurmuzd’s mind and causes him to send Mardanshah back to the commander-in-chief with a chain, distaff-case, and cotton, and an insulting letter.<note n="12">ZT, ii. p. 266.</note> A similar insult is recorded to have been offered by the Empress Sophia to the exarch Narses when he was superseded and bidden return to his place among the maidens of the palace where a distaff should again be placed in his hand.<note n="13">GDF, v. 336.</note></p>
+<p>§§ 19-21. <pb n="8.76"/>The definite accusation of withholding some of the booty made by the archscribe (Mihran) against Bahram Chubina is absent in the Persian Tabari which merely gives the vague insinuation of the minister Yazdanbakhsh which rouses suspicion in Hurmuzd’s mind and causes him to send Mardanshah back to the commander-in-chief with a chain, distaff-case, and cotton, and an insulting letter.<note n="12">ZT, ii. p. 266.</note> A similar insult is recorded to have been offered by the Empress Sophia to the exarch Narses when he was superseded and bidden return to his place among the maidens of the palace where a distaff should again be placed in his hand.<note n="13">GDF, v. 336.</note></p>
 
 <p>The treatment of Bahram Chubina by Hurmuzd, though foolish enough in any circumstances, was not quite so unreasonable and motiveless as it appears to be in the accounts of oriental writers. In A.D. 589 after the successful conclusion of Bahram Chubina’s expedition Hurmuzd conceived the idea of renewing the Lazic war which his father had abandoned in A.D. 562,<note n="14">Vol vii, p. 215.</note> and sent Bahram Chubina to conduct the campaign. That chief, however, was defeated by the Romans in a battle on the Araxes and his disgrace followed.<note n="15">NT, p. 272 note. RSM, p. 469.</note></p>
 
@@ -2898,7 +2899,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 
 <p>In the Persian Tabari, Bahram Chubina sends Hurmuzd twelve thousand hangers with bent points to represent all his twelve thousand troops.<note n="4">ZT, ii. 267.</note></p>
 
-<p>Bahram Chubina is here described as the son of Gashasp. <pb n="77"/> Tabari makes him the son of Bahram-Gushnasp,<note n="5">NT, p. 270.</note> the Persian version of Bahram,<note n="6">ZT, ii. 252.</note> and Mas'udi of the nickname—Chubin.<note n="7">MM, ii. 213. Cf. p. 98 note.</note></p>
+<p>Bahram Chubina is here described as the son of Gashasp. <pb n="8.77"/> Tabari makes him the son of Bahram-Gushnasp,<note n="5">NT, p. 270.</note> the Persian version of Bahram,<note n="6">ZT, ii. 252.</note> and Mas'udi of the nickname—Chubin.<note n="7">MM, ii. 213. Cf. p. 98 note.</note></p>
 
 <p>Izid Gashasp is regarded as dealing with both sides because of the malicious speech that he is represented to have made about Bahram Chubina.<note n="8">p. 150 and note.</note></p>
 
@@ -2930,7 +2931,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 <lb/>Thy blossoms for thy flaunting bravery.</q>
 <lb/>Sweet Spring, my charmer! whither hast thou fled,
 
-<pb n="78"/>
+<pb n="8.78"/>
 
 <lb/>And left the glories of the garden dead?
 <lb/>Howbeit Autumn hath a scent of thine,
@@ -2965,7 +2966,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 <lb/>With bounty, justice, and right conduct. Know
 <lb/>That good and evil never are concealed
 
-<pb n="79"/>
+<pb n="8.79"/>
 
 <lb/>From Him who is the Maker of the world.
 <lb/>
@@ -3017,7 +3018,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 <lb/>Of former Shahs,<note n="1">Reading with P.</note> and when his heart is prompted
 <lb/>To mercy sow not thou the seed of guile
 
-<pb n="80"/>
+<pb n="8.80"/>
 
 <lb/>Upon the earth. The spurner of our counsel
 <lb/>Will throw away the benefits of fortune.
@@ -3052,7 +3053,7 @@ Gurgin, son of Milad, was the villain of the story of Bizhan and Manizha.<note n
 <div type="textpart" subtype="section" n="3"><head>How Hurmuzd slew Izid Gashasp, Zarduhsht,
 Simadh Barzin and Bahram Azarmidokht, his
 Father's Ministers<note n="1">The heading in the original seems to have been carelessly compiled. The one above has been adopted to suit the account in the text.</note></head>
-<p><pb n="81"/>
+<p><pb n="8.81"/>
 <lb/>The Shah ruled well until he felt secure
 <lb/>And had attained his ends but then he raged,
 <lb/>Displayed his evil nature, left the path
@@ -3078,7 +3079,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Of scribe Izid Gashasp it was as though
 <lb/>His own heart had been arrow-pierced.
 
-<pb n="82"/>
+<pb n="8.82"/>
 
 <lb/>Now when
 <lb/>Izid Gashasp had passed a day untended,
@@ -3125,7 +3126,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Until words failed them. Then the board was spread
 <lb/>Before those holy men who next began
 
-<pb n="83"/>
+<pb n="8.83"/>
 
 <lb/>To mutter prayers with sacred twigs in hand,
 <lb/>And afterwards Izid Gashasp in whispers
@@ -3162,7 +3163,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The high priest glanced thereat and looked again.
 <lb/>There was an ill surmise in his pure heart:—
 
-<pb n="84"/>
+<pb n="8.84"/>
 
 <lb/><q>His remedy is poison in that dish!</q>
 <lb/>
@@ -3213,7 +3214,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Tears fell from his eyelashes down his cheeks.
 </p>
 
-<pb n="85"/>
+<pb n="8.85"/>
 
 <p>
 <lb/><q>Go, tell Hurmuzd,</q> he said: <q>Thy fortune changeth.
@@ -3255,7 +3256,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>About Simah Barzin: make answer boldly.
 <lb/>I shall inquire: <q>What is this friend of thine,
 
-<pb n="86"/>
+<pb n="8.86"/>
 
 <lb/>An evil man or one that serveth God?</q>
 <milestone unit="calced" n="1797"/>
@@ -3305,7 +3306,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>But villainy and thus produceth strife.</q>
 </p>
 
-<pb n="87"/>
+<pb n="8.87"/>
 
 <p>
 <lb/>Simah Barzin, on hearing this, replied:—
@@ -3345,7 +3346,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Simah Barzin by slaying him within
 
 
-<pb n="88"/>
+<pb n="8.88"/>
 
 
 <lb/>The prison of the thieves yet gat thereby
@@ -3387,7 +3388,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Be ever young! Dispatch and bring it me
 <lb/>Ere night be past.</q>
 </p>
-<pb n="89"/>
+<pb n="8.89"/>
 
 <milestone unit="calced" n="1799"/>
 <p>
@@ -3437,7 +3438,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>He will o’erthrow me,</q> heard out his abuse,
 <lb/>And sent him back to prison where next night,
 
-<pb n="90"/> 
+<pb n="8.90"/> 
 
 <lb/>What time the moon rose o’er the mountain-tops,
 <lb/>The deathsman slew him. At the court no sage
@@ -3483,7 +3484,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>On orchards, then the horse’s tail and ears
 <lb/>Must be cut off and the thief's head be set
 
-<pb n="91"/>
+<pb n="8.91"/>
 
 <lb/>Upon the stake.</q><note>Two couplets omitted.</note>
 <lb/>He had a son beloved,
@@ -3525,7 +3526,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Whose father was the captain of the host,
 <lb/>Saw, as he went along, a vine well laden
 
-<pb n="92"/>
+<pb n="8.92"/>
 
 <lb/>With unripe grapes and bade his servant haste
 <lb/>To cut and take some bunches to his cook.
@@ -3561,7 +3562,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Thou wouldst have said: <q> Earth hath no room for them.</q>
 <lb/>The desert from Harat to the Marvrud<note n="1">Reading with P.</note>
 <lb/>Was thick as warp and woof with soldiery,
-<pb n="93"/>
+<pb n="8.93"/>
 <lb/>And as he led them on to Marv the earth
 <lb/>Was hidden by the dust-clouds of the host.
 <milestone unit="calced" n="1802"/>
@@ -3598,7 +3599,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>And he repented slaying those archmages,
 <lb/>And alienating wise men from his court.
 <lb/>He saw no counsellor, and he had need
-<pb n="94"/>
+<pb n="8.94"/>
 <lb/>Of wise advisers, so he sent and summoned
 <lb/>The Iranians to full session in the palace,
 <lb/>And made discovery of all the matter,
@@ -3635,7 +3636,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>For troops exalt a monarch. Summon too
 <lb/>The muster-master that he may account
 <lb/>The number fit for service.</q>
-<pb n="95"/>
+<pb n="8.95"/>
 <lb/>With the roll
 <lb/>The muster-master came before the Shah,
 <lb/>Whose army numbered five score thousand men,
@@ -3671,7 +3672,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Withdrew and did no scath upon Iran.
 <lb/>The king, when Caesar had withdrawn, prepared
 <lb/>To war with the Khazars. He formed a host,
-<pb n="96"/>
+<pb n="8.96"/>
 <milestone unit="calced" n="1804"/>
 <lb/>Whose dust-clouds blotted day, and sent it thither
 <lb/>To fire those fields and fells, led by Kharrad—
@@ -3704,7 +3705,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>He answered: <q> If the Shah shall ask of me
 <lb/>I will reveal it.</q> </q>
 <lb/>Then the king of kings
-<pb n="97"/>
+<pb n="8.97"/>
 <lb/>Commanded that a noble should set forth
 <lb/>In haste and fetch the old man from his palace
 <lb/>Upon a litter. When that ancient came,
@@ -3741,7 +3742,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>And that pure daughter quit the monarch’s palace.
 <lb/>Among those daughters her it was I chose ;
 <lb/>I heeded not the others. Said the Khan :—
-<pb n="98"/>
+<pb n="8.98"/>
 <lb/><q>Select another; all the five are fair
 <lb/>And worshipful,</q> and this was my response :—
 <lb/><q>My choice is made; to choose again were fatal.</q>
@@ -3776,7 +3777,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>On hearing this. He gave the Crown of all
 <lb/>His daughters unto Nushirwan while I
 <lb/>Received her on the Shah's behalf. This done
-<pb n="99"/>
+<pb n="8.99"/>
 <lb/>I hied me home, the Khan producing for us
 <lb/>Such wealth of jewels from his treasury
 <lb/>That we were put to it to carry them.
@@ -3814,7 +3815,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Apply, methinketh, to Bahram Chubina,
 <lb/>Son of Gashasp, a noble, well skilled horseman
 <lb/>To whom thou gavest Ardabil and Barda
-<pb n="100"/>
+<pb n="8.100"/>
 <lb/>Where he became marchlord with drums and troops.</q>
 <lb/>The Shah dispatched a speedy cameleer
 <lb/>To bid Bahram Chubina dally not
@@ -3849,7 +3850,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The warrior
 <lb/>Replied: <q>We may not make a peace with him,
 <lb/>For, since he fain would fight, to sue for peace
-<pb n="101"/>
+<pb n="8.101"/>
 <lb/>Will mean defeat for us; the foe moreover
 <lb/>Will be emboldened if he see thee weak.
 <lb/>To proffer feast in war-time is to make
@@ -3886,7 +3887,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Will bring us gain or loss.</q>
 <lb/>On hearing this
 <lb/>The Shah smiled and the court grew bright, and then
-<pb n="102"/>
+<pb n="8.102"/>
 <lb/>The veterans left the presence with full hearts,
 <lb/>And talking with Bahram Chubina said:—
 <lb/><q>Henceforth if he shall speak with thee be modest,
@@ -3921,7 +3922,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>As one renowned in war. He made one hight
 <lb/>Yalan-sina—a man of vengeful breast—<note>Sina.</note>
 <lb/>Chief of the warrior-chiefs to go before
-<pb n="103"/>
+<pb n="8.103"/>
 <milestone unit="calced" n="1809"/>
 <lb/>The ranks on battle-days, to wheel his steed,
 <lb/>Proclaim his ancestry, and set on strife
@@ -3957,7 +3958,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>I know not how such numbers can avail
 <lb/>Upon the day of fight, and thou hast chosen,
 <lb/>Instead of youthful sworders, men of forty!</q>
-<pb n="104"/>
+<pb n="8.104"/>
 <lb/>The chief replied: <q>Well-starred and courteous Shah!
 <lb/>The saying of the mighty thou hast heard,
 <lb/>Who ruled the world as Shahs in days of old:—
@@ -3992,7 +3993,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>In dread too of the voice of calumny,
 <lb/>And loss of fame, he shirketh not the fight.
 <lb/>Moreover wife and child and family
-<pb n="105"/>
+<pb n="8.105"/>
 <lb/>Irk not the feelings of a veteran.
 <lb/>A young man is deceived by outward show,
 <lb/>And when he should have patience he is rash.
@@ -4028,7 +4029,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Of all our race the man whose name was Rustam,
 <lb/>The paladin, the conqueror of the world,
 <lb/>Triumphant and of ardent soul. Thou holdest
-<pb n="106"/>
+<pb n="8.106"/>
 <lb/>His flag. Mayst thou be conquering and loyal <note>Reading with P.</note>
 <lb/>Thou art a second Rustam to my thoughts
 <lb/>In courage, prowess, and obedience.</q>
@@ -4062,7 +4063,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Of Taisafun the army marched, their leader
 <lb/>Bahram Chubina. ’Twas a prudent, brave,
 <lb/>And dauntless host, and wary as a lion
-<pb n="107"/>
+<pb n="8.107"/>
 <lb/>Was their commander. When he had departed
 <lb/>The monarch of the world himself withdrew,
 <lb/>Was privy with his archimage<note>Ayin Gashasp.</note> and said:—
@@ -4098,7 +4099,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Bahram Chubina, quitting Taisafun,
 <lb/>Led on the host himself. In front appeared,
 <lb/>And far from him, one that purveyed sheep’s heads,
-<pb n="108"/>
+<pb n="8.108"/>
 <lb/>Which rose above a clean draped wicker tray.
 <lb/>The chieftain urged his horse and, strange to tell!
 <lb/>Pierced one head with his spear, rode off with it
@@ -4136,7 +4137,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The messenger returned and gave
 <lb/>The warrior’s answer to the Shah and he
 <lb/>Was satisfied. That envoy’s toil was vain.
-<pb n="109"/>
+<pb n="8.109"/>
 <lb/>At dawn the captain of the host led on
 <lb/>The troops and called God’s blessing down on them.
 <lb/>He marched to Khuzistan: <note>This seems to imply that he started from Pars. Later on he says (p. 112) that he started from Baghdad, i.e., from the neighbourhood of Taisafun (Ctesiphon) where the troops were stationed (p. 90). Baghdad itself was not then in existence.</note> the troops harmed none.
@@ -4166,7 +4167,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Led on his host well ordered and they marched
 <lb/>Toward Damaghan.
 <lb/>The Shah was full of care
-<pb n="110"/>
+<pb n="8.110"/>
 <lb/>At Sawa’s army, elephants, and treasures,<note>Two couplets omitted.</note>
 <lb/>And spake thus to Kharrad, son of Barzin,
 <lb/>One night at rise of moon: <q>Prepare to go
@@ -4206,7 +4207,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Returned in all haste to king Sawa, saying:—
 <lb/><q>A force hath reached the desert of Harat,
 <lb/>Commanded by a famous chief.</q>
-<pb n="111"/>
+<pb n="8.111"/>
 <lb/>King Sawa,
 <lb/>Concerned what course to take, called from the tent
 <lb/>The envoy of the Shah and rated him:—
@@ -4241,7 +4242,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>March they?</q>
 <lb/>The horseman went like dust and cried:—
 <lb/><q>Who are your chiefs and leader, noble sirs!
-<pb n="112"/>
+<pb n="8.112"/>
 <lb/>And champion in the combat, for Faghfur,
 <lb/>Who is king Sawa’s heart and eyes, would see him
 <lb/>Without attendance?</q>
@@ -4276,7 +4277,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 </div>
 
 <div type="textpart" subtype="section" n="9"><head>How King Sawa sent a Message to Bahram Chubina and his Answer</head>
-<pb n="113"/>
+<pb n="8.113"/>
 <p>
 <lb/>He sent thereafter to Bahram Chubina
 <lb/>A fluent elder, saying: <q>Go and tell
@@ -4309,7 +4310,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/><q>Say: <q>If thou wouldst do right act openly.
 <lb/>If friendship with the monarch of the world
 <lb/>Be secretly thy wish I will receive thee
-<pb n="114"/>
+<pb n="8.114"/>
 <lb/>On this march as a guest and pledge myself
 <lb/>To grant thee thy desires. I will bestow
 <lb/>On thy troops gold and silver, crowns and girdles
@@ -4349,7 +4350,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>That proud monarch’s envoy
 <lb/>Came to Bahram Chubina and delivered
 <lb/>Those biting words which yet were what he wished.
-<pb n="115"/>
+<pb n="8.115"/>
 <lb/>On hearing he informed the man: <q>Thy lord
 <lb/>Must hear my answer: <q>If I am so mean
 <lb/>That meanness covereth my head with shame,
@@ -4382,7 +4383,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The trumpets blared. Now when Bahram Chubina
 <lb/>Heard that a host had come, and plains and vales
 <lb/>Were yellow, red, and black, he bade his men
-<pb n="116"/>
+<pb n="8.116"/>
 <lb/>Mount and rode forth in armour, mace in hand.
 <lb/>Behind him lay Harat, before a host
 <lb/>Of swordsmen. He drew up the wings. The troops
@@ -4418,7 +4419,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 </p>
 </div>
 <div type="textpart" subtype="section" n="11"><head>How King Sawa sent another Message to Bahram Chubina and his Answer</head>
-<pb n="117"/>
+<pb n="8.117"/>
 <p>
 <lb/>Then from the champaign of Harat he sent
 <lb/>Again a warrior of eloquence,
@@ -4449,7 +4450,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>And thy life also lieth in my hands
 <milestone unit="calced" n="1819"/>
 <lb/>As well I know. If I lead on my troops
-<pb n="118"/>
+<pb n="8.118"/>
 <lb/>They will not let pass ant and gnat. Withal
 <lb/>I have a thousand barded elephants
 <lb/>Whose scent affrayeth horsemen. Who will come
@@ -4482,12 +4483,12 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Thy puny force to fight with me to-day.
 <lb/>Thou shalt receive no further messages
 <lb/>If thou art retrograde to my desires.</q>
-<pb n="119"/>
+<pb n="8.119"/>
 <lb/>The envoy spake, the chieftain heard and made
 <lb/>A grim response: <q>O man of evil mark!
 <lb/>Among the magnates and the eminent
 <lb/>None reverenceth a monarch profitless
-<pb n="120"/>
+<pb n="8.120"/>
 <lb/>And wordy. From thy talk from first to last
 <lb/>I have perceived thee confident in speech.
 <lb/>The man whose day is ending seeketh prowess
@@ -4523,7 +4524,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The divs seduced thy heart so that thou camest
 <lb/>To fight the Shah and thou wilt writhe beneath
 <lb/>God’s chastisement and for thine evil deeds.
-<pb n="121"/>
+<pb n="8.121"/>
 <lb/>Again, thou sayest: <q>I have among my lieges
 <lb/>Great men possessed of crowns and coronets,
 <lb/>And all the cities of the world are mine.</q>
@@ -4593,7 +4594,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>For nevermore will such a task confront thee.</q>
 <lb/><q>Thy city,</q> said Bahram Chubina, <q>yieldeth
 <lb/>No valour save thy sample, for all there
-<pb n="122"/>
+<pb n="8.122"/>
 <lb/>Sell fish from Summer-time<note>Tammuz</note> till snow-storms come.
 <milestone unit="calced" n="1822"/>
 <lb/>Thy work is net and pond; thou art no man
@@ -4630,7 +4631,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>The archscribe<note>Mihran. See p. 106.</note> of the king of kings and said:—
 <lb/><q>This is beyond thy power and thus to mock
 <lb/>At fortune cannot prosper. Of the troops
-<pb n="123"/>
+<pb n="8.123"/>
 <lb/>Upon this field we are the one white hair,
 <lb/>Note, on a sable ox! No soil or stream,
 <lb/>Or hill is visible, so many are
@@ -4667,7 +4668,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>He mounted with his ox-head mace in hand.<note>Two couplets omitted.</note>
 <lb/>King Sawa thus addressed his host: <q>Begin
 <lb/>Your incantations that the Iranians
-<pb n="124"/>
+<pb n="8.124"/>
 <lb/>May quail in heart and eye, and no disaster
 <lb/>Befall yourselves.</q>
 <lb/>Then all the sorcerers
@@ -4695,7 +4696,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Before the Lord of earth, the glorious chiefs,
 <lb/>And nobles?</q>
 </p>
-<pb n="125"/>
+<pb n="8.125"/>
 <p>
 <lb/>Then he made toward the right,
 <lb/>As ’twere a lusty lion famishing,
@@ -4751,7 +4752,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>They pierced the elephants’ trunks, and dale and plain
 
 
-<pb n="126"/>
+<pb n="8.126"/>
 
 
 <lb/>Grew like a pool of blood. The elephants
@@ -4791,7 +4792,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Bediademed was gone, gone golden throne,
 
 
-<pb n="127"/>
+<pb n="8.127"/>
 
 
 <lb/>And golden crown. :
@@ -4830,7 +4831,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>What slain Iranians it is ours to mourn.</q>
 </p>
 
-<pb n="128"/>
+<pb n="8.128"/>
 
 <p>
 <lb/>He went through all the tents. One man of worship
@@ -4870,7 +4871,7 @@ Father's Ministers<note n="1">The heading in the original seems to have been car
 <lb/>Might prove of service in the stress of fight,</q>
 </p>
 
-<pb n="129"/>
+<pb n="8.129"/>
 
 <p>
 <lb/>But said again: <q>What did king Sawa profit
@@ -4911,7 +4912,7 @@ Victory, and the Head of King Sawa, to Hurmuz, and his Answer</head>
 <lb/>When night had curled its locks and sent thereby
 <lb/>The eye to sleep, and when the Ebon Veil
 <lb/>Bahram Gur probably is meant.
-<pb n="130"/>
+<pb n="8.130"/>
 <lb/>Appeared, the world had respite from the drum.
 <lb/>Meanwhile the wheel of heaven turned apace
 <lb/>In view of darksome night and hurried on
@@ -4948,7 +4949,7 @@ Victory, and the Head of King Sawa, to Hurmuz, and his Answer</head>
 <lb/>To march against Parmuda with the host.
 <lb/>The dromedary started, and a guide
 <lb/>Led on the cavaliers who toiled and trod
-<pb n="131"/>
+<pb n="8.131"/>
 <lb/>The way that quickly they might see the Shah,
 <lb/>And greet him from the paladin and chiefs.
 <lb/>Upon their side the Turks all destitute
@@ -4989,7 +4990,7 @@ Victory, and the Head of King Sawa, to Hurmuz, and his Answer</head>
 <lb/>Was sitting on his throne and holding forth
 <lb/>Concerning his own fortune to the court:—
 <lb/><q>Strange! that no tidings of Bahram Chubina
-<pb n="132"/>
+<pb n="8.132"/>
 <lb/>Have reached our court! What say ye, and henceforth
 <lb/>What shall we do? We must advise thereon.</q>
 <lb/>Now as he spake the words the chamberlain
@@ -5027,7 +5028,7 @@ Victory, and the Head of King Sawa, to Hurmuz, and his Answer</head>
 <lb/>But the more part to his own servitors,
 <lb/>And sent the Fanes of Fire another third,
 <lb/>There to be given over to the priests
-<pb n="133"/>
+<pb n="8.133"/>
 <lb/>To grace the Feasts of New Year and of Sada.
 <lb/>With what was left men sought out and repaired
 <lb/>The ruined sites and caravansaries
@@ -5062,7 +5063,7 @@ Victory, and the Head of King Sawa, to Hurmuz, and his Answer</head>
 <lb/>Except the wealth pertaining to king Sawa,
 <lb/>The impure of heart; this he dispatched with horsemen,
 <lb/>Famed veterans of his kin, who bore it all
-<pb n="134"/>
+<pb n="8.134"/>
 <lb/>To court what while the chieftain went his way,
 <lb/>He and his army, to renew the fray.</p>
 
@@ -5098,7 +5099,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Will turn to blood. At night, when it is dark,
 <lb/>Make we a camisade and banish care
 <lb/>And terror from our hearts.</q>
-<pb n="135"/>
+<pb n="8.135"/>
 <lb/>Now when Parmiuda
 <lb/>Returned to camp he canvassed schemes for fight,
 <lb/>And said: <q>It is an excellence of theirs
@@ -5133,7 +5134,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Bahram Chubina was aware thereof,
 <lb/>And of the plan and purpose of Parmida,
 <lb/>He thus addressed Yalan-sina: <q>O chieftain!
-<pb n="136"/>
+<pb n="8.136"/>
 <lb/>Break us a passage through the garden-wall.</q>
 </p>
 <p>
@@ -5171,7 +5172,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>O’ertook the foe and roaring like a lion
 <lb/>Cried to Parmida: <q>O thou runaway!
 <lb/>Mix not henceforth with warriors. Thou’rt no man
-<pb n="137"/>
+<pb n="8.137"/>
 <lb/>Of battle but a very child: ’tis fit
 <lb/>Thou suck thy mother’s milk.</q>
 </p>
@@ -5209,7 +5210,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Bahram Chubina,
 <lb/>On hearing this, turned back, for that curst foe
 <lb/>Had grown so gracious. When the troops had rested,
-<pb n="138"/>
+<pb n="8.138"/>
 <lb/>And come to king Parmiuda’s camp, they fared
 <lb/>About the field, cut off the chieftains’ heads,
 <lb/>And heaped them till the pile grew mountain-like:
@@ -5245,7 +5246,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Bahram Chubina stayed before the hold
 <lb/>Three days but sent at sun-rise on the fourth
  
-    <pb n="139"/>
+    <pb n="8.139"/>
     
 <lb/>This message to Parmiuda as the chief
 <lb/>Both of the realm and race: <q>O noble king
@@ -5283,7 +5284,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>The messenger arriving told his message,
 <lb/>Which when Parmida, the ambitious, heard
 <lb/>He answered: <q>Say: <q>If so thou canst forbear
-    <pb n="140"/>
+    <pb n="8.140"/>
     
     
 <lb/>To search out this world’s secrets. Thou perchance
@@ -5324,7 +5325,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>If I shall come to thee forthwith I fear
 <lb/>That thou wilt make an end of me. Thou art
 <lb/>A slave; I am a king. Shall I abase me
-<pb n="141"/>
+<pb n="8.141"/>
 <lb/>Before a thrall? I will not come to battle
 <lb/>Without a host or those that wish me well
 <lb/>Will call me mad; but it is no disgrace
@@ -5357,7 +5358,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>The reader, saying: <q>I thank my God and praise Him
 <lb/>Three watches of the night in that the Khan
 <lb/>Of Chin is now our subject and high heaven
-<pb n="142"/>
+<pb n="8.142"/>
 <lb/>Our crown. He raised his head to touch the sky,
 <lb/>And thought himself the monarch of the world;
 <lb/>But now this leader who attacked our coasts
@@ -5395,7 +5396,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>The Maker aideth thee. Spy out the foe,
 <lb/>And if he hath a stronghold let thy guards
 <lb/>Seize and consume it through thy glorious fortune,
-<pb n="143"/>
+<pb n="8.143"/>
 <lb/>And world-illuming presages. If thou
 <lb/>Hast need of further troops they shall be thine,
 <lb/>And there shall be addition to thy treasures.
@@ -5425,7 +5426,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>The wealth therein made ready to depart.
 <lb/>Descending from the hold the proud Parmuda
 <lb/>Bestrode his charger swift as flying dust,
-<pb n="144"/>
+<pb n="8.144"/>
 <lb/>And set forth with his troops without regard
 <lb/>To bold Bahram Chubina who chagrined
 <lb/>Thereat, and though his captive was a king,
@@ -5461,7 +5462,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>His temper is his great calamity.</q>
 <lb/>The two departed to Bahram Chubina
 <lb/>With pallid cheeks and counsel on their tongues,
-<pb n="145"/>
+<pb n="8.145"/>
 <lb/>And told him: <q>Thou hast given to the winds
 <lb/>Thy toil! Oh! be that noble head of thine
 <lb/>Unfilled with fire!</q>
@@ -5497,7 +5498,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>To what end did I deck for thee my heart,
 <lb/>Attempt to do thee kindness in the world,
 <lb/>And wrote its lord a letter hiding all
-<pb n="146"/>
+<pb n="8.146"/>
 <lb/>Thine own shortcomings?</q> <q>That,</q> the Khan rejoined,
 <lb/><q>Is past, and all the past hath turned to wind.
 <lb/>By God! I do not owe thee any grudge,
@@ -5537,7 +5538,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Thy wrath and quit that path because the Khan
 <lb/>Saith well, so list to him and think no ill,
 <lb/>For had cool words ne’er passed the hearts of neither
-<pb n="147"/>
+<pb n="8.147"/>
 <lb/>Would have been pained.</q> <q>This ill-conditioned one,</q>
 <lb/>Bahram Chubina said, <q>would join his sire.</q>
 <lb/>The Khan said: <q>Wrong me not. Reft as I am
@@ -5571,7 +5572,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Until three watches of the night had passed
 <lb/>They blacked much paper but they had not done.
 <lb/>There was not room to move for precious things,
-<pb n="148"/>
+<pb n="8.148"/>
 <lb/>Hoards of the era of Afrasiyab,
 <lb/>And of Arjasp, so ancient yet unspent,
 <lb/>Gold coins and jewels won from sea and mine
@@ -5606,7 +5607,7 @@ King Sawa, and overcame him, and how Parmida took Refuge in the Hold of Awdza</h
 <lb/>Select a thousand warriors from the host,
 <lb/>And take the booty to the monarch’s gate.
 <lb/>The warriors having mounted on their steeds,
-<pb n="149"/>
+<pb n="8.149"/>
 <lb/>Izid Gashasp bore off that mass of spoil,
 <lb/>And full of joy and merriment they took
 <lb/>A hundred caravan-loads to Iran.
@@ -5643,7 +5644,7 @@ Treasures sent by Bahram Chubina</head>
 <lb/>And having welcomed set him in the presence,
 <lb/>Repenting of the past hostility.
 <lb/>They lodged him fitly in the pleasant palace
-<pb n="150"/>
+<pb n="8.150"/>
 <lb/>Prepared for him and brought whate’er he needed.
 <lb/>A scribe was charged to lodge the retinue
 <lb/>Hard by. The Shah, on hearing of the wealth
@@ -5678,7 +5679,7 @@ Treasures sent by Bahram Chubina</head>
 <lb/>Who art observant and of ardent mind!
 <lb/>When at a feast the theme is such know there
 <lb/>Will likewise be but ill-conditioned fare.</q> <note>With changes of reading Mohl translates: <cit><quote xml:lang="fra">sache que les mets d'une féte ou c’est le mot corneille (<foreign>djoubin</foreign>) qui forme le refrain doivent étre étranges.</quote> <bibl>Mohl</bibl></cit></note>
-<pb n="151"/>
+<pb n="8.151"/>
 <lb/>The Shah became suspiciously inclined
 <lb/>On hearing this; misdoubtings filled his mind.
 </p>
@@ -5711,7 +5712,7 @@ Chubina and made a Compact with the Khan</head>
 <lb/>And justice have become corrupt.</q> This said,
 <lb/>He called the Khan and having seated him
 <lb/>Upon the famous throne they feasted there
-<pb n="152"/>
+<pb n="8.152"/>
 <lb/>Till night spread out her musky tresses black.
 <milestone unit="calced" n="1843"/>
 <lb/>Then said the Shah: <q>If thou wilt league with me
@@ -5745,7 +5746,7 @@ Chubina and made a Compact with the Khan</head>
 <lb/>Rode forth to meet him with the Iranian chiefs.
 <lb/>He stored provisions where the Khan would pass
 <lb/>In town and village, station, hill, and plain,
-<pb n="153"/>
+<pb n="8.153"/>
 <lb/>And hurried on in shame at his ill temper
 <lb/>To make excuse in person. When he saw
 <lb/>Parmida he did reverence but the Khan
@@ -5780,7 +5781,7 @@ Women’s Raiment</head>
 <lb/>And yet thou sittest on the vault of heaven?
 <lb/>Hast thou forgot my pains, troops, toil, and treasure?
 <lb/>Thou keepest not the way of paladins,
-<pb n="154"/>
+<pb n="8.154"/>
 <lb/>But raisest thy head skyward. Thou hast turned
 <lb/>From my behest and acted otherwise.
 <lb/>Here is the robe of honour meet for thee,
@@ -5815,7 +5816,7 @@ Women’s Raiment</head>
 <lb/>Had access to the Shah. Since I left court
 <lb/>In haste with but few troops all men have witnessed
 <lb/>My deeds, my sorrows and my toils and hardships.
-<pb n="155"/>
+<pb n="8.155"/>
 <lb/>If these toils are rewarded by a shame
 <lb/>That is the portion of the infamous
 <lb/>I will complain of circling heaven to God
@@ -5852,7 +5853,7 @@ Women’s Raiment</head>
 <lb/>He said: <q>Forbear:
 <lb/>The Shah is source of honour to his troops;
 <lb/>His slaves are we; he giveth, we receive.</q>
-<pb n="156"/>
+<pb n="8.156"/>
 <lb/>The Iranians said: <q>We will not arm henceforth;
 <lb/>We will not have him in Iran as Shah,
 <lb/>Or, as our general, Bahram Chubina.</q>
@@ -5885,7 +5886,7 @@ Women’s Raiment</head>
 <lb/>The porch alone. Izid Gashasp the while
 <lb/>Abode without and held the noble steed.
 <lb/>Behind him hurrying came Yalan-sina
-<pb n="157"/>
+<pb n="8.157"/>
 <lb/>Armed on a swift horse. Brave Izid Gashasp
 <lb/>Said: <q>Lion! enter thou and find out whither
 <lb/>Our chief, the heroic captain of the host,
@@ -5922,7 +5923,7 @@ Women’s Raiment</head>
 <lb/>They led the chargers to the place assigned.
 <lb/>Bahram Chubina, when he left the lady,
 <lb/>Spake thus: <q>May Jupiter espouse thy crown.</q>
-<pb n="158"/>
+<pb n="8.158"/>
 <lb/>She answered: <q>Be victorious and ever
 <lb/>Of patient heart and wise.</q> <note>Couplet omitted.</note> <q>Go thou! the throne
 <lb/>And the Iranian diadem are thine.
@@ -5956,7 +5957,7 @@ Women’s Raiment</head>
 <milestone unit="calced" n="1848"/>
 <lb/>The next day, when the uplands silvered over,
 <lb/>And when yon yellow shining Lamp appeared,
-<pb n="159"/>
+<pb n="8.159"/>
 <lb/>Bahram Chubina spread a carpeting
 <lb/>Made of brocade of Chin, and thou hadst said
 <lb/>That earth had turned to sky. Throughout the palace
@@ -5991,7 +5992,7 @@ Women’s Raiment</head>
 <lb/>Back to Bahram Chubina so that he
 <lb/>Might slay the innocent. The paladin
 <lb/>Said: <q>Doer of div’s work! why didst thou quit me
-<pb n="160"/>
+<pb n="8.160"/>
 <lb/>Without my leave?</q> <q>O paladin!</q> he answered,
 <lb/><q>Kharrad, son of Barzin, made me afraid.
 <lb/>He said: 'We may not tarry; thy delay
@@ -6023,7 +6024,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>And sighed as he remembered what the archmage
 <lb/>And fortune-teller had said: <q>Bahram Chubina
 <lb/>Will turn him from thy throne.</q><note n="1">See pp. 107, 108.</note>
-<pb n="161"/>
+<pb n="8.161"/>
 <lb/>Forthwith he summoned
 <lb/>The high priest, set Kharrad, son of Barzin,
 <lb/>Within the room and said to him: <q>Relate
@@ -6061,7 +6062,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>And asked Kharrad, son of Barzin: <q>What say
 <lb/>The troops there of that lady?</q>
 <lb/>He replied:—
-<pb n="162"/>
+<pb n="8.162"/>
 <lb/><q>As for that crownéd lady, all the troops
 <lb/>Call her, O king! 'Bahram Chubina’s Luck,'
 <lb/>Which will be very great and glorious.</q>
@@ -6097,7 +6098,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/><q>Be vigilant and let your minds be clear
 <milestone unit="calced" n="1851"/>
 <lb/>Because Kharrad, son of Barzin, hath told
-<pb n="163"/>
+<pb n="8.163"/>
 <lb/>Our secrets to the king. Let each consult
 <lb/>His safety and conspire with me to-day.
 <lb/>If I send none to watch our enemies
@@ -6130,7 +6131,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>Hath showered from his lashes tears of blood,
 <lb/>And trifles grow in moment when we keep
 <lb/>Our secrets from the men of understanding.
-<pb n="164"/>
+<pb n="8.164"/>
 <lb/>I have myself my privy griefs and I
 <lb/>Will tell them to the sages of the world.
 <lb/>Ye all are conversant with these affairs,
@@ -6167,7 +6168,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>With much to say and full of instances
 <lb/>She came forth to that conclave, and her brother
 <lb/>Kept silence, when he heard her voice, from word
-<pb n="165"/>
+<pb n="8.165"/>
 <lb/>And answer, and the Iranians too were silent
 <lb/>For fear of harm. Thus Gurdya addressed
 <lb/>The troops: <q>Illustrious men who seek for guidance!
@@ -6201,7 +6202,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>About this seeking after throne and treasure?
 <lb/>Will majesty result or pain and grief?</q>
 <lb/>He laughed that such a case should be discussed,
-<pb n="166"/>
+<pb n="8.166"/>
 <lb/>Then tossing up his finger-ring replied:—
 <lb/><q>As long as this remaineth in the air
 <lb/>So long shall it be servant to the Shah;
@@ -6237,7 +6238,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>Great Hamdan Gashasp
 <lb/>Thus spake: <q>Prized by the great! why dost thou dread
 <lb/>Ills not yet come and question of the crown
-<pb n="167"/>
+<pb n="8.167"/>
 <lb/>Of kingship? Act and leave the rest to God.
 <lb/>Why reach out for the date if thou dost fear
 <milestone unit="calced" n="1854"/>
@@ -6277,7 +6278,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>Thereat but girt their loins to serve. They sought
 <lb/>Their sovereigns’ weal and rendered hearty service.
 <lb/>They were no strangers to the throne and crown,
-<pb n="168"/>
+<pb n="8.168"/>
 
 <lb/>But worthy of their greatness by descent.
 <lb/>I speak first of the case of Shah Kaus,<note>See Vol. ii. p. 102 seq.</note>
@@ -6312,7 +6313,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>And crown are for the Shah. Although Kubad
 <lb/>Is little he will grow; we may not put
 <lb/>The wolf within the lion’s wood. To make
-<pb n="169"/>
+<pb n="8.169"/>
 <lb/>A Shah without blood royal is to give
 <lb/>His kindred to the winds.</q> Now when Kubad
 <lb/>Reached manhood he perceived that Sufrayai
@@ -6350,7 +6351,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>Revenge upon their foes. Wilt thou repay
 <lb/>His good with ill? Know ‘twill recoil on thee.
 <lb/>Design not evil, brother! It will bring
-<pb n="170"/>
+<pb n="8.170"/>
 <lb/>Ill on thine own head. Make not greed the lord
 <lb/>O’er wisdom else the sages will not call thee
 <lb/>A man of piety. Although a woman,
@@ -6389,7 +6390,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 </p><p>
 
 
-<pb n="171"/>
+<pb n="8.171"/>
 <lb/><q>The Black Div spreadeth out,</q> said Gurdya,
 <lb/><q>A net upon thy path. Destroy us<note>Reading with P.</note> not,
 <lb/>Both soul and body. I perceive in thee
@@ -6425,7 +6426,7 @@ Doings, and how Bahram Chubina sent a Frail of Swords to Hurmuz</head>
 <lb/>They drank much wine to him and cried: <q>May
 <lb/>Rai
 <lb/>Be prosperous since such a chief as thou
-<pb n="172"/>
+<pb n="8.172"/>
 <lb/>Ariseth thence, and may God fashion more
 <lb/>Like thee.</q>
 <lb/>At night they went their several ways;
@@ -6460,7 +6461,7 @@ sent it to Hurmuzd
 <milestone unit="calced" n="1858"/>
 <lb/>By whom a gracious answer was returned:—
 <lb/><q>I for my part term thee magnanimous.</q>
-<pb n="173"/>
+<pb n="8.173"/>
 <lb/>He sent Bahram Chubina gifts that cheered
 <lb/>The heart.
 <lb/>This matter done, Bahram Chubina
@@ -6491,7 +6492,7 @@ sent it to Hurmuzd
 <lb/>Bahram Chubina chose a prudent envoy,
 <lb/>Strong as the blest Surush.<note>The previous section ends here in the original.</note> He wrote withal
 <lb/>A blustering letter and discoursed at large
-<pb n="174"/>
+<pb n="8.174"/>
 <lb/>About Parmida and king Sawa’s host,
 <lb/>How he and his own troops had fought, the gift
 <lb/>That had been given to him by the Shah—
@@ -6525,7 +6526,7 @@ sent it to Hurmuzd
 <lb/>Hurmuzd made answer: <q>Presently will I
 <lb/>Remove this upstart.</q>
 <lb/>That ambitious lord
-<pb n="175"/>
+<pb n="8.175"/>
 <lb/>Thus answered him: <q>May none prevail without thee.</q>
 <lb/>They called one privily by night and set him
 <lb/>Before the Shah who said: <q>Perform my bidding,
@@ -6557,7 +6558,7 @@ sent it to Hurmuzd
 <lb/>Sought for the traces of that well-loved prince;<note>Three couplets omitted.</note>
 <lb/>All went, both troops and chiefs, to make him Shah.
 <lb/>They said: <q>O prince! crown, throne, and helm befit thee,
-<pb n="176"/>
+<pb n="8.176"/>
 <lb/>And from Iran and desert of the spearmen,
 <lb/>As many of the swordsmen and brave leaders,
 <lb/>As thou mayst wish, will come to thee. Thy Grace
@@ -6592,7 +6593,7 @@ sent it to Hurmuzd
 </div>
 
 <div type="textpart" subtype="section" n="28"><head></head>
-<pb n="177"/>
+<pb n="8.177"/>
 <p>
 <milestone unit="calced" n="1861"/>
 <lb/>Then to Ayin Gashasp thus spake the Shah:—
@@ -6624,7 +6625,7 @@ sent it to Hurmuzd
 <lb/>Ayin Gashasp obeyed.
 </p>
 <p>
-<pb n="178"/>
+<pb n="8.178"/>
 <lb/>There was a captive,
 <lb/>And fellow-citizen of his, within
 <lb/>The royal prison, eager for release.
@@ -6653,7 +6654,7 @@ sent it to Hurmuzd
 <lb/>Of ill, that villain, thief, and murderer,
 <lb/>And then Ayin Gashasp led forth the host,
 
-<pb n="179"/>
+<pb n="8.179"/>
 <lb/>And marched like wind as far as Hamadan,
 <lb/>Where he encamped and asked: <q>Is any one
 <lb/>Skilled in astrology or presages
@@ -6668,7 +6669,7 @@ sent it to Hurmuzd
 <lb/>Her prophecies will surely come to pass.</q>
 </p>
 <p>
-<pb n="180"/>
+<pb n="8.180"/>
 <lb/>Ayin Gashasp, on hearing this, dispatched
 <lb/>One with a horse for her and when she came
 <lb/>He asked her how the Shah fared and of him
@@ -6684,7 +6685,7 @@ sent it to Hurmuzd
 <lb/>Looked at the general and went his way.
 </p>
 <p>
-<pb n="181"/>
+<pb n="8.181"/>
 <lb/>The ancient dame inquired: <q>What man is that?
 <lb/>A blow of his will make one weep for thee.
 <lb/>Thy dear life lieth in his hand, and may
@@ -6779,7 +6780,7 @@ sent it to Hurmuzd
 </div>
 
 <div type="textpart" subtype="section" n="29"><head>How Hurmuzd grieved, refused Audience to the Iranians, and was blinded by Bandwi and Gustaham.</head>
-<p><pb n="182"/>
+<p><pb n="8.182"/>
 <lb/>When tidings reached the king of that famed hero,
 <lb/>Ayin Gashasp, he shut the gate of audience
 <lb/>For grief; none saw him too with wine in hand;
@@ -6810,7 +6811,7 @@ sent it to Hurmuzd
 <lb/>Appeared Bandwi and Gustaham in mail
 <lb/>With troops in arms. The cavaliers forthwith,
 
-<pb n="183"/>
+<pb n="8.183"/>
 <lb/>All unabashed, rode hot-foot to the court,<note>Couplet omitted.</note>
 <lb/>And gallant Gustaham harangued the troops:—
 <lb/><q>This is no trivial case, for if ye join
@@ -6848,9 +6849,9 @@ sent it to Hurmuzd
 </div>
 
     
-    <div type="textpart" subtype="section" n="80"><head>How Khusrau Parwiz heard of the Blinding of Hurmuzd</head>
+    <div type="textpart" subtype="section" n="30"><head>How Khusrau Parwiz heard of the Blinding of Hurmuzd</head>
     
-    <p><pb n="184"/>
+    <p><pb n="8.184"/>
         <milestone unit="calced" n="1866"/>
 <lb/>Then Gustaham sent to Azargashasp
 <lb/>One with two roadsters to Khusrau Parwiz
@@ -6887,7 +6888,7 @@ sent it to Hurmuzd
 <lb/>The general joy—went out to welcome him,
 <lb/>Then going to the dwelling of the Shah
 <lb/>Discoursed at large, and he approved their words.
-    <pb n="185"/>
+    <pb n="8.185"/>
     
 <lb/>They set an ivory throne upon the dais
 <lb/>With golden torque and with a sumptuous crown
@@ -6900,10 +6901,10 @@ sent it to Hurmuzd
 </div>
 
 
-<div><head>XLIII. KHUSRAU PARWIZ: HE REIGNED THIRTY-EIGHT YEARS</head>
+<div type="textpart" subtype="reign" n="43"><head>KHUSRAU PARWIZ: HE REIGNED THIRTY-EIGHT YEARS</head>
 
-<div><head>ARGUMENT</head>
-<p><pb n="186"/>
+<div type="textpart" subtype="argument"><head>Argument</head>
+<p><pb n="8.186"/>
 The deposition of <name>Hurmuz</name> leaves <name>Khusrau Parwiz</name> and
 <name>Bahram Chubina</name> rivals for the throne. After abortive negotiations <name>Khusrau Parwiz</name> is compelled to flee to <name>Rum</name> and
 <name>Hurmuz</name> is put to death. On the way to <name>Rum</name> <name>Khusrau Parwiz</name>
@@ -6915,7 +6916,7 @@ Parwiz</name> to avenge his father puts to death <name>Bandwi</name> whose broth
 True Cross but is refused. The poet then tells of the case of the fair <name>Shirin</name>, who murders <name>Marvan</name>, and that of <name>Barbad</name>, the minstrel, and of the greatness of <name>Khusrau Parwiz</name>. <name>Shirwi</name> is imprisoned, but the troops at length revolt and release him.
 <name>Khusrau Parwiz</name> is dethroned and put in ward.</p></div>
 
-<pb n="187"/>
+<pb n="8.187"/>
 
 <div><head>NOTE</head>
 <p>
@@ -6950,7 +6951,7 @@ probably about represents the share of responsibility that
 
 <p><name>Firdausi</name>’s description of <name>Khusrau Parwiz</name>’ place of refuge is somewhat grandiloquent. It appears to have been a hermitage<note n="8">ZT, ii. 280.</note> or monastery.<note n="9">NT, p. 281.</note></p>
 
-<pb n="188"/>
+<pb n="8.188"/>
 
 <p>§§ 12. For the wife of Bahram, son of Siyawush, see above.</p>
 
@@ -6974,7 +6975,7 @@ Pp. 497 and note.</note> In the <title>Shahnama</title> the hermit—<name>Sergi
 <p>§17. The terms on which the Emperor <name>Maurice</name> agreed to help <name>Khusrau Parwiz</name> included the cession of <place>Dara</place>, <place>Martyropolis</place>, and perhaps <place>Nisibis</place>.<note n="7">NT, p. 285 note, RSM, p. 482 and note, GDF, v. 375 and note.</note> Western authorities are silent about the marriage of the Emperor’s daughter <name>Maryam</name> to
 <name>Khusrau Parwiz</name>, but <name>Nöldeke</name> points out that <name>Shirwi</name>'s preeminence at the Persian court is best explained by the assumption that his mother was a princess. <name>Shirin</name>, who naturally was antagonistic to him in the interests of her own son, <name>Mardanshah</name>, was unable to prevail against him.<note n="8">NT, p. 283 note, RSM, P. 504 note.</note></p>
 
-<pb n="189"/> 
+<pb n="8.189"/> 
 
 <p>§§ 19-20. These are not in the Persian <name>Tabari</name>.</p>
 
@@ -7010,7 +7011,7 @@ to the <orgName>Turks</orgName>.</p>
 
 <p>§27. The Persian <name>Tabari</name> lays the scene with the carline in the neighbourhood of <place>Hamadan</place>. Thence <name>Bahram Chubina</name> proceeds to <place>Rai</place> and <place>Damghan</place>. He then defeats a mountain-chief named <name>Keran</name> and takes him prisoner but releases him.<note n="2">ZT, ii. p. 296 seq.</note></p>
 
-<pb n="190"/>
+<pb n="8.190"/>
 
 <p>§ 30. According to <orgName>Sasanian</orgName> usage <name>Khusrau Parwiz</name> inaugurates his reign by visiting the Fire-temple at <place>Shiz</place>.<note n="3">Vol. i. p. 60.</note></p>
 
@@ -7033,7 +7034,7 @@ The events that led up to it are given at length in <name>Tabari</name>. It will
 <place>Hira</place>, and <name>Ijas bin Kabisa</name><note>Cf. p. 188.</note> was appointed the Persian governor by the Shah who ordered him to collect and dispatch to the
 Persian court all <name>Nu’man</name>’s effects. The Arab chief, <name>Hani bin Mas’ud</name>, who had been entrusted with them refused to give them up. <name>Khusrau Parwiz</name> instructed <name>Ijas</name> to enforce compliance, and the battle of <place>Dhu Kar</place>, in which the Persians were overthrown, followed. Where <place>Dhu Kar</place> was is not clear but it was not far from the <place>Euphrates</place> and <place>Kufa</place>, and had an all the year round water-supply which made it a great resort of the Arab tribes in the summer at which season the battle was fought. The Arabs celebrated their victory with songs of triumph, and its results and those of the Persian policy that
 
-<pb n="191"/>
+<pb n="8.191"/>
 led up to it were very important. The destruction of the dynasty of the princes of <place>Hira</place>, which had formed a buffer state between the Persians and the Arabs, was a political blunder. The defeat was a display of weakness on the part of the Persians in a region at no great distance from their own capital. It gave the Arabs independence, encouraged them to make raids into Persian territory, and was a glorious and stimulating memory with which tradition soon associated
 <name>Muhammad</name> himself when the time came for the great Arab invasion of <place>Iran</place>. For these reasons the battle called for some notice here although there is no mention of it in the <title>Shahnama</title>.
 It was fought some time between A.D. 604-610.<note>See for the above generally NT, p. 310 seq. and notes, ZT, ii. 309 seq.</note></p>
@@ -7054,7 +7055,7 @@ A.D. 591. <name>Gustaham</name> rebelled shortly afterwards and held out till ab
 The statement that <name>Jesus</name> laughed upon the Cross is a corollary from the notion, common among the Gnostics, that he was not really crucified but someone in his stead. The more accurate form of the statement would be that quoted in <name>Photius</name> from a work called <q>The Journeys (or Circuits) of the Apostles</q> (<title xml:lang="grc">Ἀποστόλων Περίοδοι</title>) viz. that <name>Christ</name> was not crucified but another in his place, and that therefore he laughed at the crucifiers (<quote xml:lang="grc">τὸν Χριστὸν μὴ σταυρωθῆναι ἀλλ᾽ ἕτερον ἀντ᾽ αὐτῶν, καί
 καταγελᾷν διὰ τόυτο τῶν σταυρούντων</quote>),<note>DBP, cod. 114.</note> <name>Muhammad</name> in the <name>Kuran</name>
 
-<pb n="192"/> 
+<pb n="8.192"/> 
 
 adopted this view which of course became the belief of his followers: <quote>They slew him not, and they crucified him not, but it was made to appear so to them.</quote><note>RK, p. 551 and note. Cf. SK, l. 62 and notes, 116 and notes.</note></p>
 
@@ -7063,11 +7064,11 @@ This is affirmed also in some accounts quoted by <name>Mir Khand</name> accordin
 After <name>Khusrau Parwiz</name> became Shah she got the ring conveyed to him, and he carried her off to <place>Mada’in</place> in great state.<note>RM, Pt. 1. Vol. ii. p. 399.</note> If
 <name>Shirin</name> really managed to retain her influence over <name>Khusrau Parwiz</name> for the best part of a lifetime, she must have been possessed of a very exceptional personality. The devotion to her of her lover, <name>Farhad</name>, is celebrated in <name>Nizami</name>’s poem of
 <q><title>Khusrau and Shirin</title></q> (A.D. 1180). <name>Farhad</name>, famous for his architectural and engineering skill, seems to be an historical character. To him with some probability may be attributed the responsibility for <name>Khusrau Parwiz</name>’ triumphal arch at <place>Takht-i-Bustan</place> near <place>Kirmanshah</place> and his palace at <place>Mashita</place>
-(<place>Mashetta</place>) some twenty-five miles due east of the northern end of the Dead Sea. The date of the construction of this palace, of which the exquisitely carved stone facade is now in the Kaiser Friedrich Museum at Berlin, however, is still disputed.<note>A general view of the ruins, as they were, and a detail of the ornamentation, are given in RSM, p. 594 seq.</note> <name>Farhad</name> is not mentioned in the <title>Shahnama</title>. In the Persian <name>Tabari</name> <name>Shirin</name> is stated to have been a Greek, to have predeceased <name>Khusrau Parwiz</name>, and to have been loved by <name>Farhad</name>, but it is not said that she was in love with him.<note>ZT, ii. 304.</note>
+(<place>Mashetta</place>) some twenty-five miles due east of the northern end of the Dead Sea. The date of the construction of this palace, of which the exquisitely carved stone facade is now in the Kaiser Friedrich Museum at Berlin, however, is still disputed.<note>A general view of the ruins, as they were, and a detail of the ornamentation, are given in RSM, p. 594 seq.</note> <name>Farhad</name> is not mentioned in the <title>Shahnama</title>. In the Persian <name>Tabari</name>, <name>Shirin</name> is stated to have been a Greek, to have predeceased <name>Khusrau Parwiz</name>, and to have been loved by <name>Farhad</name>, but it is not said that she was in love with him.<note>ZT, ii. 304.</note>
 </p><p>
 <name>Firdausi</name> does not suggest that she was of other than Persian
 
-<pb n="193"/> 
+<pb n="8.193"/> 
 
 origin, and she is said to have been a native of <place>Khuzistan</place>.<note>NT, p. 283 note.</note>
 </p><p>
@@ -7090,7 +7091,7 @@ Khusrau</place> whose façade and vast hall on the left bank of the
 </p>
 <p>The account given by <name>Firdausi</name> of the causes that led to the fall of <name>Khusrau Parwiz</name> and of the fall itself may be amplified from other authorities thus:—In A.D. 626 the <orgName>Sasanian Empire</orgName>, though it had suffered shrewd blows in the previous
 
-<pb n="194"/> 
+<pb n="8.194"/> 
 campaigns of <name>Heraclius</name>, was still after nearly a quarter of a century of warfare far from being worsted. It was not <name>Khusrau Parwiz</name> but <name>Heraclius</name> that made several vain attempts to bring about peace. The Persian army under <name>Shahrbaraz</name>
 (the <name>Gurdz</name> of <name>Firdausi</name>) still occupied <place>Chalcedon</place>, divided only by a mile, but an impassable mile, of sea from <place>Constantinople</place>.
 The Persians had good cause to deplore their lack of sea-power.
@@ -7103,7 +7104,7 @@ Nevertheless, he retreated thither, abandoning <place>Dastagird</place> to its f
 At <place>Bih-Ardshir</place> the Shah armed his personal attendants etc. and sent them to reinforce the defeated Persian army which had made no effective stand since the battle of <place>Nineveh</place>. These combined forces, with two hundred elephants, took up their position on the river <place>Arba</place>, a short distance from <place>Ctesiphon</place> and broke down the bridges.<note n="5">CTC, p. 498.</note> On January 11th A.D. 628
 <name>Heraclius</name> advanced from <place>Dastagird</place>, which he had devastated,
 
-<pb n="195"/> 
+<pb n="8.195"/> 
 and three days later encamped within twelve miles of the <place>Arba</place>.
 He sent <name>George</name>, the leader of the Armenian contingent, to reconnoitre the Persian position and on his report retreated northwards to the neighbourhood of <place>Lake Urumiah</place> where he passed the rest of the Winter. Shortly before he had made another of his appeals to <name>Khusrau Parwiz</name> for an accommodation: <q>I follow thee and am instant for peace, for I do not of mine own will consume Persia with fire but because I am forced thereto by thee. Now therefore let us throw down our arms and welcome peace. Let us put out the fire before all is burned.</q> The Shah refused the offer to the exasperation of his people<note n="6">CTC, p. 498.</note> with whom he was already very unpopular because, according to <name>Tabari</name>, he despised them and treated their great men without regard, had given the barbarian <name>Farrukhanzad</name>, son of <name>Sumai</name>, power over them, and ordered the execution of the captives, and intended to put to death the
 Persian troops defeated by <name>Heraclius</name>.<note n="7">NT, p. 356. The prisoners are said to have numbered 36,000.</note> He had also, it seems, sent instructions for the putting to death of the Persian general
@@ -7112,7 +7113,7 @@ Romans. <name>Heraclius</name> informed <name>Shahrbaraz</name> who falsified th
 <name>Heraclius</name>, and decided to quit <place>Chalcedon</place> and return home.<note n="8">CTC, i. 497.</note>
 <name>Khusrau Parwiz</name> also had managed to offend his native Christian subjects. In earlier days he had been disposed favourably towards them, and we have seen how he placed himself under the special protection of S. <name>Sergius</name>,<note n="9">p. 188.</note> while his wife, <name>Shirin</name>, was a Christian of the <orgName>Nestorian</orgName> persuasion. She was, however, lured over to the <orgName>Monophysites</orgName> and used her influence against the <orgName>Nestorians</orgName> who in consequence were not allowed to choose a <title>Catholicus</title>. A very highly esteemed <orgName>Nestorian</orgName> named <name>Yazdin</name> was chief tax-collector. After his death <name>Khusrau Parwiz</name> seized his property and did not bestow by way of compensation the vacant post on <name>Yazdin</name>’s son, <name>Shamta</name>, who also was a <orgName>Nestorian</orgName> and afterwards took a prominent part in the revolt against the Shah. Towards the end of the reign the <orgName>Monophysites</orgName> also had cause for complaint against
 
-<pb n="196"/>
+<pb n="8.196"/>
 
 <name>Khusrau Parwiz</name>. Generally speaking, too, all Christians must have been horrified at the sack of <place>Jerusalem</place> and the carrying off of the True Cross.<note>See for the above NT, pp. 357, 383 and notes.</note> There was therefore no lack of discontent throughout the army and nation generally. The retreat of <name>Heraclius</name>, however, at a moment when the state seemed threatened with imminent peril, might have staved off matters for a while had it not been for the question of the succession. It is said that <name>Khusrau Parwiz</name> when he fled from
 <place>Dastagird</place> to <place>Ctesiphon</place> was suffering from dysentery and wished to secure the crown for his son <name>Mardanshah</name>, the offspring of <name>Shirin</name>.<note>CTC. 1. 499.</note> <name>Shirwi</name>, the Shah’s eldest son, who
@@ -7130,7 +7131,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/><q>Another to the fishes in the sea ;</q>
 
 </p>
-<pb n="197"/>
+<pb n="8.197"/>
 <p>
 <milestone unit="calced" n="1867"/>
 
@@ -7166,7 +7167,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Your hearts to obey and covenant with us
 <lb/>To observe three things in all contingencies:
 <lb/>To harm not holy men, not to rebel,
-<pb n="198"/>
+<pb n="8.198"/>
 <lb/><q>And to abstain from others’ goods for why</q>
 <lb/><q>The pang will pass to him that did the wrong,</q>
 <lb/><q>Whene’er it chanced, and sold his heart for naught.</q>
@@ -7198,7 +7199,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>With full heart and with face all wet with tears:—
 <lb/><q>My father, fortune’s mate, thou memory
 <lb/>Of Nushirwan! thou know’st that none had pricked
-<pb n="199"/>
+<pb n="8.199"/>
 <lb/>Thy finger had I been but there to help thee.
 <lb/>See what thou wilt command me; grief hath come
 <lb/>Upon thee and my heart is full. If now
@@ -7238,7 +7239,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Skilled in the feast withal, I will dispatch
 <lb/>Such ever new to thee. Be no whit sad,</q>
 </p>
-<pb n="200"/>
+<pb n="8.200"/>
 <p>
 <q><lb/>And hold not thou the action Gustaham’s;
 <lb/>Tis God’s because of senseless words and deeds.
@@ -7272,7 +7273,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Bahram Chubina heard how fortune dealt
 <lb/>With that famed king: <q>They set the searing irons
 
-<pb n="201"/>
+<pb n="8.201"/>
 
 <lb/>To his bright eyes, and those two Lamps, those twin
 <lb/>Narcissi of his garth, are dead, his son
@@ -7314,7 +7315,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>In royal fashion, hunteth on the plain
 <lb/>With cheetahs, knoweth but the usages
 
-<pb n="202"/>
+<pb n="8.202"/>
 
 <lb/>Of Shahs, and readeth all the book of Dimna.<note>The Fables of Bidpai. See Vol. vii. p. 382.</note></q>
 <lb/>Khusrau Parwiz said to his minister:—
@@ -7359,7 +7360,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The impious and unthankful have no wisdom.
 <lb/>If now the king will hear the old sage’s words,
 
-<pb n="203"/>
+<pb n="8.203"/>
 <lb/>And fix his heart’s eye on them, he will eat
 <lb/>Their fruit when they have passed within his heart.</q>
 <lb/>The Shah replied: <q>Were I to write this down
@@ -7397,7 +7398,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And when night, frighted by the sword of day
 <lb/>Had fled dry-lipped and quaking, rose the din
 
-<pb n="204"/>
+<pb n="8.204"/>
 
 <lb/>Of tymbals from both camps and Sol led forth
 <lb/>To war. Then at the Shah’s command Bandwi
@@ -7441,7 +7442,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thus met, one cheerful and the other grim.
 
 
-<pb n="205"/>
+<pb n="8.205"/>
 
 <lb/>The world-lord rode an ivory grey and wore
 <lb/>A gold and jewelled crown; his robe from Chin
@@ -7485,7 +7486,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He chose himself a narrow battlefield,
 <lb/>The troops in wonder watching him, and thence
 
-<pb n="206"/>
+<pb n="8.206"/>
 
 <lb/>Went on to Nahrawan and there confronted
 <lb/>The glorious Great with certain of Iran,
@@ -7532,7 +7533,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And with a leader eager for the fray,
 <lb/>Such as Bahram Chubina is—a man
 <lb/>Grim as a lusty div—and militants
-<pb n="207"/>
+<pb n="8.207"/>
 <milestone unit="calced" n="1874"/>
 <lb/>Like ravening wolves, I will, with your consent,
 <lb/>So that disgrace may not attach to me,
@@ -7581,7 +7582,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <p>
 <lb/>When brave Bahram Chubina heard
 
-<pb n="208"/>
+<pb n="8.208"/>
 
 <lb/>He gave his black-tailed, piebald steed the rein,
 <lb/>Saluted from his seat, paused, and replied:—
@@ -7624,7 +7625,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Of the Alans thou takest but one side
 <lb/>Of my descent unless I am unworthy</q>
 </p>
-<pb n="209"/>
+<pb n="8.209"/>
 <p>
 <q><lb/>Of kingship and the cap of power
 <lb/>As having for my grandsire Nushirwan,
@@ -7670,7 +7671,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>A height before thee higher than Bistun,
 <lb/>And if a king shall ever come of thee</q>
 </p>
-<pb n="210"/>
+<pb n="8.210"/>
 <p>
 <q><lb/>The Egyptian thorn will bear. Thy heart is full
 <lb/>Of thoughts of rule but we shall see what God
@@ -7709,7 +7710,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Those of the scions of Bahram and others
 <lb/>That shall be brought to me as prisoners</q>
 </p>
-<pb n="211"/>
+<pb n="8.211"/>
 <p>
 <q><lb/>Will I make servants of the glorious Fire,
 <lb/>And glad the hearts of priest and archimage.</q>
@@ -7755,7 +7756,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thy sire, that world-lord friendly to the Faith,
 <lb/>Who ne’er blew cold on anyone, thou knewest not</q>
 </p>
-<pb n="212"/>
+<pb n="8.212"/>
 <p>
 <lb/><q>To prize but flungest vilely from the throne,
 <lb/>And thou wouldst fain be world-lord after him,
@@ -7798,7 +7799,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The World-lord maketh kings for justice-sake,
 <lb/>Or for their parts or on account of birth,
 
-<pb n="213"/>
+<pb n="8.213"/>
 
 <lb/>Bestowing kingship on the worthiest,
 <lb/>The wisest or the least injurious.
@@ -7837,7 +7838,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <lb/>Thy spells, thy guile, and plotting. If God will
 <lb/>I will make dark in vengeance for the Shah
-<pb n="214"/>
+<pb n="8.214"/>
 
 <lb/>Bright Sol to thee. Now who deserveth crown,
 <lb/>And if not I who is there?</q>
@@ -7880,7 +7881,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Of this unstable world? Inform me truly,
 <lb/>Choose the good path and shun perversity.</q>
 </p>
-<pb n="215"/>
+<pb n="8.215"/>
 <p>
 <lb/>Bahram Chubina hearing changed his ground,
 <lb/>And said: <q>I am Bahram, the warrior,
@@ -7925,7 +7926,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thy friends are hostile, being thine in word,
 <lb/>But mine in heart. The Khan is mine ally
 
-<pb n="216"/>
+<pb n="8.216"/>
 
 <lb/>With all the armies of Iran and Chin,
 <lb/>For I am just and kindly with a hand
@@ -7970,7 +7971,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The great Mihran Sitad came and informed
 <lb/>The monarch of the age about thee, thus
 
-<pb n="217"/>
+<pb n="8.217"/>
 
 <lb/>Exalting thee from darksome dust, but thou
 <lb/>Hast lost sight of that day! He furnished thee
@@ -8006,7 +8007,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thine to one half the realm. Then in this world
 <lb/>Thou wilt be happy, all at ease, and far
 
-<pb n="218"/>
+<pb n="8.218"/>
 <milestone unit="calced" n="1882"/>
 
 <lb/>From hurt of foes, and when this Wayside Inn
@@ -8046,7 +8047,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Will bide with thee because thou hast not name,
 <lb/>Or Grace or goods. When thou didst overcome
 
-<pb n="219"/>
+<pb n="8.219"/>
 
 <lb/>King Sawa all the troops believed that they
 <lb/>Would never see defeat, they were so drunk
@@ -8092,7 +8093,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thou comest of bad-natured, worthless men,
 <lb/>And spring’st not from Sasan.</q>
 </p>
-<pb n="220"/>
+<pb n="8.220"/>
 <p>
 <lb/><q>The shepherdship,</q>
 <lb/>Bahram Chubina answered, <q>of Sasan
@@ -8130,7 +8131,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <p>
         <lb/>The Shah’s head ’scaped from harm, while brave Bandwi
         <lb/>Strung up his bow and with his arrows robbed
-    <pb n="221"/>
+    <pb n="8.221"/>
         <lb/>The air of light. He loosed a poplar shaft
         <lb/>Against the Turk; that battle-seeker fled,
         <lb/>And to that miscreant said Bahram Chubina:—
@@ -8171,7 +8172,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>But as it is his sire is living, the throne
         <lb/>Of sovereignty is still in place yet thou
 
-    <pb n="222"/>
+    <pb n="8.222"/>
    
         <lb/>Must interfere! How it will end I know not,
         <lb/>But all night long mine eyes are filled with blood.
@@ -8211,7 +8212,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>And troops could dare to eye this land of ours
         <lb/>It had been Sawa, prince of Chin, none else,
 
-    <pb n="223"/>
+    <pb n="8.223"/>
 
         <lb/>Who marched upon the country of Iran;
         <lb/>But holy God made thee his opposite,
@@ -8253,7 +8254,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>The youthful king for his part
         <lb/>Recrossed the bridge of Nahrawan, rejoicing,
         <lb/>Called all the captains of the host, set those
-    <pb n="224"/>
+    <pb n="8.224"/>
         <lb/>Entitled by their rank beside the throne
         <lb/>Of sovereignty, and said: <q>Good-hearted chiefs,
         <lb/>Adept and veteran! of this my kingship
@@ -8294,7 +8295,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/><q>O king! why put such confidence in fight?
         <lb/>A camisade may alienate thy troops.
   
-    <pb n="225"/>
+    <pb n="8.225"/>
  
         <lb/>Thy soldiers and the soldiers of the foe
         <lb/>Are one in heart and body; on one side
@@ -8336,7 +8337,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/><q>What tidings have ye of your kith and kin?
         <lb/>Send to them, ye that have such—men at one
 
-    <pb n="226"/>
+    <pb n="8.226"/>
 
         <lb/>With you in word and Faith. If they will come
         <lb/>And do my will, and stake their lives as pledges
@@ -8378,7 +8379,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Bahram Chubina told them: <q>When the drum
         <lb/>Shall beat at cock-crow raise the battle-cry,
 
-    <pb n="227"/>
+    <pb n="8.227"/>
 
         <lb/>Attack and crown the nobles’ heads with blood.</q>
     </p>
@@ -8426,7 +8427,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <p>
         <lb/><q>O noble prince! may this world yearn in love
 
-    <pb n="228"/>
+    <pb n="8.228"/>
 
         <lb/>For thee. Thy troops are gone, abide not thou,
         <lb/>For none is left to aid thee.</q>
@@ -8467,7 +8468,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Pursued all hotly by Bahram Chubina,
         <lb/>His head all vengeance and his heart all strife.
         <lb/>Khusrau Parwiz, when he perceived this, stopped
-    <pb n="229"/>
+    <pb n="8.229"/>
         <lb/>Upon the bridge and summoned to his presence
         <lb/>The veteran Gustaham. <q>Bring me my bow,</q>
         <lb/>He said; <q>’tis mine interpreter in war.</q>
@@ -8504,7 +8505,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </div>
 
 <div type="textpart" subtype="section" n="8"><head>How Khusrau Parwiz went to his Sire and fled to Rum, and how Hurmuzd was slain</head>
-    <p><pb n="230"/>
+    <p><pb n="8.230"/>
         <lb/>Thence weeping blood and liver-pierced he went
         <lb/>Before his sire, gave greeting, tarried long,
         <lb/>And said: <q>The cavalier, the paladin,
@@ -8541,7 +8542,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Wouldst quit this land depart with speed for Rum,
         <lb/>And tell to Caesar what this slave in straits
 
-    <pb n="231"/>
+    <pb n="8.231"/>
 
         Hath said. He will assist thee with his treasure
         <lb/>And troops. In that land are both men and stores,
@@ -8594,7 +8595,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Our dust, the host's flag is too far away.
         <lb/>Thy friends all say there is no cause for haste
         <lb/>Because Bahram Chubina, when he reacheth
-    <pb n="232"/>
+    <pb n="8.232"/>
         The palace, will at once give to Hurmuzd
         <lb/>The crown and throne, will sit as minister
         <lb/>Beside him, and will angle to some purpose
@@ -8641,7 +8642,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Seek not for profit from a stock like this
         <lb/>Because the quest will bring thee naught but pain.
     </p>
-    <pb n="233"/>
+    <pb n="8.233"/>
     <p>
         When thus Hurmuzd’s days ended and the throne,
         <lb/>That happy seat, remained unfilled, forthwith
@@ -8677,7 +8678,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>With battlements of viewless height. Folk called it
         <lb/><q>The House of God</q>—a shrine, a blesséd spot,
         <lb/>With bishops and a metropolitan,
-    <pb n="234"/>
+    <pb n="8.234"/>
         <lb/>A place for penitents. He there addressed
         <lb/>A holy man: <q>What food is there to hand?</q>
         <lb/>A bishop said: <q>There are unleavened loaves
@@ -8717,7 +8718,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>He rejoined:—
         <lb/><q>I will devise escape for thee, O king!
 
-    <pb n="235"/>
+    <pb n="8.235"/>
    
         <lb/>In this strait, though I shall have sacrificed
         <lb/>My life to save the monarch of the world.</q>
@@ -8756,7 +8757,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Bandwi, when certain that the troops
         <lb/>Had taken him to be the Shah himself,
         <lb/>Went from the roof, donned his own clothes with speed,
-    <pb n="236"/>
+    <pb n="8.236"/>
         <lb/>Then fearlessly returned and said: <q>Young braves!
         <lb/>To whom shall I address me as your chief
         <lb/>Because I have a message from the Shah
@@ -8795,7 +8796,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Bahram said to his chiefs, <q>or else of moment.
         <lb/>If we shall press him much he may be wroth
         <lb/>And fall on us. He is a host himself,
-    <pb n="237"/>
+    <pb n="8.237"/>
         <lb/>A world-aspirant, shrewd and valorous.
         <lb/>If he be slain in fight Bahram Chubina
         <lb/>Will send to dust from us. 'Tis best to wait
@@ -8830,7 +8831,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>To take him as he is with mind unclouded
     <lb/>Before the paladin to tell whatever
     <lb/>He knoweth of the Shah and either lose
-    <pb n="238"/>
+    <pb n="8.238"/>
     <lb/>His head or keep his crown.</q>
     <lb/>Then to Bandwi :—
     <lb/><q> Discuss this question with Bahram Chubina,
@@ -8871,7 +8872,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     </p></div>
 
     <div type="textpart" subtype="section" n="11"><head>How Bahram Chubina summoned the Magnates of Iran, how they discussed his Pretensions to the Kingship, and how he acceded to the Throne</head>
-        <pb n="239"/>
+        <pb n="8.239"/>
         <p>
         <lb/>When Sol unsheathed its sword, and when its veil
         <lb/>Of yellow showed, Bahram Chubina sent
@@ -8901,7 +8902,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Shahrén Guraz, a hoary warrior,
         <lb/>A chieftain eminent—and answered thus :—
         <lb/><q>Thou art a benefactor to the world,
-        <pb n="240"/>
+        <pb n="8.240"/>
         <milestone unit="calced" n="1898"/>
         <lb/>Illustrious prince! Hadst thou not been at Rai
         <lb/>No one had matched king Sawa when he reached
@@ -8939,7 +8940,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Then he spake
         <lb/>Thus to Bahram Chubina: <q>Blest be thou,
         <lb/>And may the sight of thee sustain the world.
-        <pb n="241"/>
+        <pb n="8.241"/>
         <lb/>If these my words find favour and if God,
         <lb/>The Conqueror, assist us live for ever
         <lb/>As our blest Shah, and be the hands and tongues
@@ -8977,7 +8978,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>The world the course of time is manifest.
         <lb/>Start from Zahhak, the Arab, who was both
         <lb/>Unjust and foul of Faith. He slew Jamshid,
-        <pb n="242"/>
+        <pb n="8.242"/>
         <lb/>That overweening one, and seized the world
         <lb/>Unjustly. Holy men grieved that a div
         <lb/>Was Shah till Faridun, that glorious king,
@@ -9012,7 +9013,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>A woman of the lineage of the Shahs
         <lb/>I will behead her with the trenchant sword,
         <lb/>And let the breath of death pass over her.<note n="2">Couplet inserted from P.</note>
-        <pb n="243"/>
+        <pb n="8.243"/>
         <lb/>I will not wait for one to claim the realm,
         <lb/>And caracole amidst the cavaliers.</q>
         <lb/>Whenas the chiefs possessed by Ahriman<note n="3">Reading with P.</note>
@@ -9050,7 +9051,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Within the palace of Bahram Chubina;
             <lb/>Upon that golden state they placed a seat,
             <lb/>And oped the court. He took his place as Shah,
-            <pb n="244"/>
+            <pb n="8.244"/>
             <lb/>And donned the royal crown. The scribe then brought
             <lb/>The declaration of his sovereignty
             <lb/>Inscribed upon the costly painted silk,
@@ -9085,7 +9086,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 
 <div type="textpart" subtype="section" n="12"><head>How Bandwi plotted with Bahram, the Son of Siyavush, to slay Bahram Chubina, and how Bandwi fled from Bond</head>
-    <pb n="245"/>
+    <pb n="8.245"/>
     <p>
     <lb/>For seventy days Bandwi, like a cheetah bound,
     <lb/>Was in the prison of Bahram Chubina,
@@ -9116,7 +9117,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <milestone unit="calced" n="1902"/>
     <lb/>Thou wilt ask him to spare my life, not slight
     <lb/>What so importeth me, lest he be led
-    <pb n="246"/>
+    <pb n="8.246"/>
     <lb/>By what the Iranians say and harm befall me.</q>
     <lb/>He spake, then calling for the Zandavasta
     <lb/>He caused Bandwi to swear, who took the roll,
@@ -9153,7 +9154,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Musk-hued, turned bright and dawn laid hand thereon
     <lb/>Bahram said to Bandwi: <q>If my heart fail not,
     <lb/>What time Bahram Chubina playeth polo
-    <pb n="247"/>
+    <pb n="8.247"/>
     <lb/>To-day I have engaged me with five friends
     <lb/>To slay him.</q>
     <lb/>Calling for a coat of mail
@@ -9191,7 +9192,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>They pressed along the road to Ardabil.
     <lb/>Bahram Chubina, when he left the ground,
     <lb/>Trailed in his wrath his robe in blood, then ordered
-    <pb n="248"/>
+    <pb n="8.248"/>
     <lb/>Mahrwi to guard Bandwi. The people said:—
     <lb/><q>Fret not for him, O king! for when he heard
     <lb/>News of this slaying verily he took
@@ -9228,7 +9229,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Each carried with him what he could toward where
     <lb/>Mausil, the Armenian, dwelt along a road
     <lb/>Infested by wild beasts and waterless.
-    <pb n="249"/>
+    <pb n="8.249"/>
     <lb/>Bandwi perceived a camp-enclosure pitched,
     <lb/>Saw that it was Mausil’s, found streams and food,
     <lb/>And hurried forward to that fertile spot
@@ -9266,7 +9267,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <milestone unit="calced" n="1905"/>
     <lb/>But mounting presently departed thence,
     <lb/>And girding up his royal loins pressed on
-    <pb n="250"/>
+    <pb n="8.250"/>
     <lb/>Until he came to the Farat; no rest
     <lb/>Saw he in his own realm. His followers,
     <lb/>Both old and young, were famished. Then they spied
@@ -9303,7 +9304,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>See that ye give to them the fairest hopes.</q>
     <lb/>His comrades blessed him, saying: <q>O thou pure
     <lb/>Of heart and Faith! bright be thy heart and jocund
-    <pb n="251"/>
+    <pb n="8.251"/>
     <lb/>Thy lot, and may the just Judge give thee back
     <lb/>The throne. He hath bestowed on thee such Grace
     <lb/>And mien that love and justice are increased
@@ -9341,7 +9342,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Upon the way is so much to the good,</q>
     <lb/>The Shah replied. The merchant loosed his bales
     <lb/>Of cheap and costly wares, brought provand forth,
-    <pb n="252"/>
+    <pb n="8.252"/>
     <lb/>And sat himself upon the ground, invoking
     <lb/>A blessing on the king. The eating done,
     <lb/>The hospitable merchant brought the Shah
@@ -9376,7 +9377,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/><q>Our troops are few, send provand, succour us,
     <lb/>And treat us not in this high-handed wise.</q>
     <lb/>They scorned his words, his troops were weak and famished,
-    <pb n="253"/>
+    <pb n="8.253"/>
     <lb/>When suddenly there rose a murky cloud,
     <lb/>Which roared like some great warrior-lion; a storm
     <lb/>Swept o’er the place; from every quarter came
@@ -9413,7 +9414,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>And thrust its bright sword through the clouds, departed
         <lb/>Toward Warigh;<note n="11">Spelled also Aurigh.</note> it was a city’s name,
         <lb/>And had the true Cross<note n="12">Cf. Vol. v. p. 306 and note.</note> and a hospital.
-        <pb n="254"/>
+        <pb n="8.254"/>
         <milestone unit="calced" n="1908"/>
         <lb/>Upon the waste he saw a hermitage;
         <lb/>He heard the hermit’s voice, approached, and asked:—
@@ -9452,7 +9453,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Before thy slave.</q>
         </p><p>
         <lb/>Astounded and confused
-        <pb n="255"/>
+        <pb n="8.255"/>
         <lb/>Khusrau Parwiz began to make excuse.
         <lb/>The hermit said: <q>Forbear, and question me
         <lb/>Of what will be. As to thy coming hither
@@ -9487,7 +9488,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Of all thy plaints, affliction, and mishap.</q>
         <lb/>The Shah was wroth and said to Gustaham:—
         <lb/><q>Thy name revealeth thee! Thy mother called thee
-        <pb n="256"/>
+        <pb n="8.256"/>
         <lb/>Bistam but thou proclaimest in the fight
         <lb/>Thyself a Gustaham!</q>
         <lb/>Then to the hermit:—
@@ -9525,7 +9526,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Ill from thee ever, and thou catchest not
         <lb/>At guile or folly, yet high heaven’s process
         <lb/>May make thee harmful and no wonder too,
-        <pb n="257"/>
+        <pb n="8.257"/>
         <lb/>For when God willeth wit and wisdom swerve.</q>
         <lb/>Then said he to the hermit: <q>Be thou glad
         <lb/>In heart and prosperous.</q>
@@ -9560,7 +9561,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Put on your tunics gold-inwoven from Chin,
         <lb/>Be one in heart and honesty, depart,
         <lb/>And parle with Caesar. Be ye wary, shrewd,
-        <pb n="258"/>
+        <pb n="8.258"/>
         <lb/>Attentive, bland, and courteous. If he goeth
         <lb/>Upon the Ground for archery or polo
         <lb/>Exert you to the utmost ’gainst his chiefs,
@@ -9597,7 +9598,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Who when he heard: <q>Some nobles of Iran,
 <lb/>The envoys of the monarch of the world,
 <lb/>Have reached Yunan,</q> sent many troops to meet them.
-<pb n="259"/>
+<pb n="8.259"/>
 <lb/>He decked a palace with brocade of Rum,
 <lb/>The pattern jewelled on a ground of gold,
 <lb/>And sitting on the famous ivory throne
@@ -9634,7 +9635,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Soul, wisdom, love. He bade and heaven was,
 <lb/>For He is over space and time. The sphere
 <lb/>And stars revolving are His work. When He
-<pb n="260"/>
+<pb n="8.260"/>
 <lb/>Created servants out of worthless dust
 <lb/>He gave life first to Gayomart. The race
 <lb/>Went on to Fereydun whom God most favoured
@@ -9668,7 +9669,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Esteem Khusrau Parwiz above myself,
     <lb/>Above my kindred and my fluent soul,
     <lb/>Is not a secret with discerning men.
-    <pb n="261"/>
+    <pb n="8.261"/>
     <lb/>I have arms, troops, and treasure. Now consider
     <milestone unit="calced" n="1913"/>
     <lb/>What ye require. If he will have mine eyes
@@ -9703,7 +9704,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Then Caesar cleared the audience-room and sat
         <lb/>Deliberating with his counsellor,
         <lb/>And said thus to that priest: <q>This suppliant
-        <pb n="262"/>
+        <pb n="8.262"/>
         <lb/>Hath made choice of ourselves to refuge with:
         <lb/>What shall we do that he may gather strength,
         <lb/>And feel no more his subject’s insolence?</q>
@@ -9741,7 +9742,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>Those chosen world-lords, men of holiness,
         <lb/>Made wars with justice or unjustly; ask
         <lb/>Of ancient men who bear such things in mind.
-        <pb n="263"/>
+        <pb n="8.263"/>
         <lb/>Vouchsafe to question the wise men of Rome
         <lb/>If 'twas the crow or owl that did the wrong.<note n="15">Alluding to a story in the book of Kalila and Dimna (see Vol. vii., p. 382). The owls, having an ancient grudge against the crows, one of whom had prevented the owl from being elected the king of the cranes, made a treacherous night-attack upon the crows. A counsellor of the king of the crows, acting somewhat as an Hephtalite chief is said to have done in the war against Piruz (id. p. 161), succeeded in avenging them.</note>
         <lb/>Although the Maker hath not left in want
@@ -9789,7 +9790,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>The kingship, like his father, it were well
             <lb/>In all ways that he go hence with a host,
             <lb/>And so not contemplate revenge at heart.</q>
-            <pb n="264"/>
+            <pb n="8.264"/>
             <lb/>The prudent minister, on hearing this,
             <lb/>Gave orders and the readers of the stars
             <lb/>Came with their ancient tablets and consulted
@@ -9804,7 +9805,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Thereat said Caesar to his minister:—
             <lb/><q>Our doubts are cleared about Khusrau Parwiz.
             <lb/>What shall we say? What answer shall we give?</q>
-            <pb n="265"/>
+            <pb n="8.265"/>
             <lb/><q>Let us apply a salve,</q> he made reply.
             <lb/><q>If he betake him to the Khan’s domains,
             <lb/>Get aid from him, perceive himself secure,
@@ -9840,7 +9841,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Were carried captive; so thou must not marvel
             <lb/>If Romans mused revenge. Howbeit to owe
             <lb/>A grudge is not according to our Faith,
-            <pb n="266"/>
+            <pb n="8.266"/>
             <lb/>And God forbid that we should practise ill.
             <lb/>We know no better thing than uprightness,
             <lb/>And lack of all deceit and knavery.
@@ -9878,7 +9879,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>He may not think of vengeance for Iraj:
             <lb/>Then earth will rest from war and strife, and seek
             <lb/>The right way in the Faith. Regarding this
-            <pb n="267"/>
+            <pb n="8.267"/>
             <lb/>With wisdom’s eye thou wilt esteem it just.
             <lb/>Affinity will make alliance sure,
             <lb/>Such is the precept that we have of God.
@@ -9909,7 +9910,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>And those withal ’gainst whom thou harbourest vengeance,
             <lb/>Put manfully such hatred from your hearts.
             <lb/>Leave their ill doings to almighty God,
-            <pb n="268"/>
+            <pb n="8.268"/>
             <milestone unit="calced" n="1918"/>
             <lb/>And be not masterful with friend or foe.
             <lb/>If thou wouldst have victorious fortune hold thee
@@ -9943,7 +9944,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             </div>
 
             <div type="textpart" subtype="section" n="18"><head>How Khusrau Parwiz answered Caesar about the Alliance</head>
-                <p><pb n="269"/>
+                <p><pb n="8.269"/>
                 <lb/>Now when they had approved this policy
                 <lb/>Khusrau Parwiz put strangers forth and called
                 <lb/>For inkhorn, pen, and silk of Chin, and bade
@@ -9974,7 +9975,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>A source of hope and terror to the world—
                 <lb/>Then followed others of the glorious stock,
                 <lb/>Great men in wisdom and in royalty.
-                <pb n="270"/>
+                <pb n="8.270"/>
                 <lb/>The story runneth on to Kai Kaus,
                 <lb/>And Kai Khusrau, and by the selfsame token
                 <lb/>To mighty Kai Kubad whose justice made
@@ -10009,7 +10010,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>The letter to Khurshid, son of Kharrad.
                 <lb/>As swift as wind that chieftain rose and mounting
                 <lb/>His chestnut steed sped till he came to Caesar,
-                <pb n="271"/>
+                <pb n="8.271"/>
                 <lb/>And gave the message of Khusrau Parwiz.
                 <lb/>Then Caesar, having snapped the band and read
                 <lb/>The words of that exalted Shah, commanded
@@ -10042,7 +10043,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>In trailing raiment on a goodly throne
     <lb/>With handmaids on both sides of her and slaves
     <lb/>Before her and behind. She was to sit,
-    <pb n="272"/>
+    <pb n="8.272"/>
     <lb/>That moon-faced one in silence, to appear
     <lb/>A woman weeping, and from time to time
     <lb/>To raise one hand and dash her tears away.
@@ -10080,7 +10081,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>He said: <q>I will: it may be I
     <lb/>Shall banish this affection from her breast.</q>
     <lb/>With cheerful heart and charged with potent words
-    <pb n="273"/>
+    <pb n="8.273"/>
     <lb/>That chief approached the guileful talisman,
     <lb/>Which bowed to greet him as he neared its throne.
     <lb/>Illustrious Gustaham sat humbly down,
@@ -10117,7 +10118,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Went back to Caesar, that just judge, and said:—
     <lb/><q>We spake and gave advice as best we could,
     <lb/>But there was no improvement.</q>
-    <pb n="274"/>
+    <pb n="8.274"/>
     <lb/><q>'Tis ill hap
     <lb/>For us,</q> he said, <q>to grieve for one in grief.</q>
     <milestone unit="calced" n="1922"/>
@@ -10154,7 +10155,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Our eyes. Our Shah when he shall hear will smile
     <lb/>With open lips and show his silvern teeth.</q>
     <lb/>Said Caesar: <q>Live for ever! Thou art fit
-    <pb n="275"/>
+    <pb n="8.275"/>
     <lb/>To be the minister of kings. I have
     <lb/>A wondrous chamber in my palace, one
     <lb/>Cannot imagine aught more marvellous.
@@ -10188,7 +10189,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>That in the air there is a fire ordained
         <lb/>By God, whose word is law, which fire the sage
         <lb/>Of India entitleth 'Ether' and hath much
-        <pb n="276"/>
+        <pb n="8.276"/>
         <lb/>Of worth and interest to say thereon,
         <lb/>As thus: when earthly and etherial fires
         <lb/>Combine man’s sin is purged; they must be kindled
@@ -10224,7 +10225,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>And having slain him set him on the gibbet
         <lb/>To make thereby his Faith contemptible.
         <lb/>His father was an ancient man, his mother
-        <pb n="277"/>
+        <pb n="8.277"/>
         <lb/>A temple-keeper and a trier out
         <lb/>Of good and ill. Grown ardent and desirous
         <lb/>Of knowledge, eloquent, instructed, mindful,
@@ -10259,7 +10260,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>That seeketh from religion aught but right.</q>
        
         <lb/>When Caesar heard this he approved; the words
-        <pb n="278"/>
+        <pb n="8.278"/>
         <lb/>Seemed profitable to him, and he said:—
         <lb/><q>The Maker made thee foremost of the great;
         <lb/>One needs must hearken to thy pure discourse.
@@ -10294,7 +10295,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>He had four gilded litters too made ready,
             <lb/>Their curtains decorate with royal gems,
             <lb/>And forty others made of ebony
-            <pb n="279"/>
+            <pb n="8.279"/>
             <lb/>All jewelled like the eye of chanticleer.
             <lb/>Then came three hundred moon-faced waiting-maids
             <lb/>All colour and perfume, five hundred slave-boys
@@ -10330,7 +10331,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>To fix a lucky day for setting forth,
             <lb/>And started on Bahram with favouring stars
             <lb/>And auguries. He went himself three stages,
-            <pb n="280"/>
+            <pb n="8.280"/>
             <lb/>And then resigned the conduct of the host,
             <lb/>Bade Maryam come to him, conversed with her
             <lb/>At large, and said: <q>Be ware of putting off
@@ -10366,7 +10367,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Beheld the face of Maryam through her veil,
             <lb/>Saluted her and kissed her hand, rejoicing
             <lb/>To look upon the Fair. He bore her off
-            <pb n="281"/>
+            <pb n="8.281"/>
             <lb/>To his encampment where he gave his Moon
             <lb/>A bower and passed three days in converse with her.
             <lb/>Upon the fourth when Sol, the world’s light, shone
@@ -10399,7 +10400,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Upon the seventh day that comely Shah
             <lb/>Arrayed his host as ’twere the turning sky,
             <lb/>The din of tymbals went up from the court,
-            <pb n="282"/>
+            <pb n="8.282"/>
             <lb/>And air grew ebon with the dust of troops.
             <lb/>He chose a force of Persians and set out
             <lb/>Toward Azar Abadagan. There passed
@@ -10436,7 +10437,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>He gave Bandwi a welcome and observed:—
             <lb/><q>I said that I should find thee hid in dust.</q>
             <lb/>He told the Shah all that had chanced to him,
-            <pb n="283"/>
+            <pb n="8.283"/>
             <lb/>His ruse of putting on the royal robes,
             <lb/>And all Bahram Chubina’s clemency.
             <lb/>Khusrau Parwiz wept greatly at the tale,
@@ -10473,7 +10474,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
             <lb/>Azargashasp. With muttered prayer he entered
             <lb/>The Fire-fane, with an aching heart. A priest,
             <lb/>The Zandavasta in his hand, approached
-            <pb n="284"/>
+            <pb n="8.284"/>
             <lb/>The pious Shah who, loosing from his loins
             <lb/>His golden belt, flung jewels on the Fire,
             <lb/>And in his prayers outdid the priest himself.
@@ -10504,7 +10505,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>Aspiring, sage, fair-famed—Dara Panah—
                 <lb/>Then called a scribe of note whom he instructed
                 <lb/>To write him letters of great charge to all
-                <pb n="285"/>
+                <pb n="8.285"/>
                 <lb/>The valiant leaders—Gustaham, Bandwi,
                 <lb/>Gurdwi, the warrior (for he had won
                 <lb/>That name from all the other chiefs), Shapur,
@@ -10539,7 +10540,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>When they shall bring this letter unto you
                 <lb/>May your Urmuzd prove gracious. Ye possess
                 <lb/>A place illustrious in my regard;
-                <pb n="286"/>
+                <pb n="8.286"/>
                 <lb/>The breast and sleeves are all one with the shirt;
                 <lb/>Our place for rest and sleep by dark or day
                 <lb/>Is one, and when ye join me ye will brighten
@@ -10577,7 +10578,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>Such as the case required, drawn up at large:—
                 <lb/><q>Brave and exalted chief! we have perused
                 <lb/>Thy letters and been privy with thine envoy.
-                <pb n="287"/>
+                <pb n="8.287"/>
                 <lb/>In word we battle for Khusrau Parwiz,
                 <lb/>But sre to thee like new Spring in our hearts.
                 <lb/>When thou hast led thine army hither who
@@ -10609,7 +10610,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
                 <lb/>The maces and the scimitars of war;
                 <lb/>But do not thou betray the royal throne,
                 <lb/>Or fortune will beguile thee forwardly.</q><note>The meaning seems to be: <q>If you remain on the defensive you may rely on the people supporting you against Khusrau Parwiz backed up, as he will be, by foreign troops; but if you assume the offensive you will throw away this advantage and so betray your own cause.</q></note>
-                <pb n="288"/>
+                <pb n="8.288"/>
                 <lb/>Their words were vain; he bade the host assemble;
                 <lb/>He loaded up the baggage, called to horse,
                 <lb/>Struck up the drums, and led the army forth.
@@ -10643,7 +10644,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Earth was an iron mountain. At the neighing
     <lb/>Of chargers and the shouting of the hosts
     <lb/>The desert fled for shelter to the hills.
-    <pb n="289"/>
+    <pb n="8.289"/>
     <lb/>When brave Bahram Chubina saw he drew
     <lb/>His glittering glaive, his heart conceived no fears
     <lb/>Though raging lions’ hearts were rent asunder.
@@ -10678,7 +10679,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>A brake to him, for from among the troops
     <lb/>Kut, like a dark hill in his iron mail,
     <lb/>Brake from the centre to the height and cried:—
-    <pb n="290"/>
+    <pb n="8.290"/>
     <lb/><q>Illustrious monarch! point me out the slave,
     <lb/>The doer of div’s work, ’gainst whom thou foughtest
     <lb/>When in Iran and fleddest while he triumphed.
@@ -10713,7 +10714,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>While valiant Niyatus frown-blinded raged
     <lb/>Because the Shah had laughed, and said: <q>Great sir!
     <lb/>One should not laugh in war whereof thou knowest
-    <pb n="291"/>
+    <pb n="8.291"/>
     <milestone unit="calced" n="1934"/>
     <lb/>Naught but the sleights, and when thou wouldst avenge
     <lb/>Thine ancestors I see thy heart asleep.
@@ -10750,7 +10751,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>And sorely stricken; their patricians wept;
     <lb/>They all were tearful and dispirited.
     <lb/>Ten thousand of the mighty men advancing
-    <pb n="292"/>
+    <pb n="8.292"/>
     <lb/>All prelates, warriors, and cavaliers,
     <lb/>Charged so that hills split at the cry of them.
     <lb/>The clash of arms, the shoutings of the chiefs,
@@ -10784,7 +10785,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>When day’s white banner rose aloft the main,
     <lb/>And when the stars grew hopeless of the dark,
     <lb/>The drummers went forth from both camp-enclosures
-    <pb n="293"/>
+    <pb n="8.293"/>
     <lb/>With elephants and clarions. There rose
     <lb/>The sound of pipes and horns, the trumpeting
     <lb/>Of elephants, and clash of brazen cymbals.
@@ -10818,7 +10819,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Whose name and token did the letter bear
     <lb/>Of which thou speak’st in presence of the lords?</q>
     <lb/>Then great Khusrau Parviz said to Shapur:—
-    <pb n="294"/>
+    <pb n="8.294"/>
     <lb/><q>That letter was to match with his designs;
     <lb/>I and the other nobles of the host
     <lb/>Will compensate thee for it. In due season
@@ -10853,7 +10854,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>He strung and drew his bow. Those men of blood
     <lb/>Closed; thou hadst said: <q>They mingle.</q> Long they strove,
     <lb/>And neither would give way. Bahram Chubina
-    <pb n="295"/>
+    <pb n="8.295"/>
     <lb/>Cried: <q>Miscreant! wherefore girdest thou thy loins
     <lb/>To shed thy brother’s blood?</q>
     <lb/>Gurdwi replied:—
@@ -10891,7 +10892,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Said Gustaham: <q>O king!
     <lb/>Conspire not thou against thine own sweet life;
     <lb/>But if thou art determined choose some comrades;
-    <pb n="296"/>
+    <pb n="8.296"/>
     <lb/>Wreck not thy person on this battlefield.</q>
     <lb/>Khusrau Parviz rejoined: <q>What thou hast said
     <lb/>Is well, so make thy choice of some to help<note n="4">Reading with P.</note>
@@ -10930,7 +10931,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>They told Bahram Chubina: <q>Troops have come.</q>
     </p>
 
-    <pb n="297"/>
+    <pb n="8.297"/>
 <p>
 <lb/>That vigilant aspirant gat to horse
 <lb/>With lasso in the straps and sword in hand.
@@ -10968,7 +10969,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>To fight in person recklessly!</q>
 <milestone unit="calced" n="1939"/>
 <lb/>All raised
-<pb n="298"/>
+<pb n="8.298"/>
 <lb/>Their hands to heaven because they deemed him slain.
 <lb/>Now when Bahram Chubina and his comrades—
 <lb/>Yalan-sina and brave Izid Gashasp<note n="3">Couplet omitted.</note>—
@@ -11004,7 +11005,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Then straitened with the scimitar behind,
 <lb/>The rocks in front, the Shah cried: <q>God almighty,
 <lb/>Who art above the processes of time!
-<pb n="299"/>
+<pb n="8.299"/>
 <lb/>Thou art my succour in my helpless strait:
 <lb/>I cry not unto Mercury and Saturn.</q>
 <lb/>Or ever from the mountain rose that cry
@@ -11042,7 +11043,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He came to her, informed her of that marvel,
 <lb/>And thus he said: <q>O spouse of Caesar’s line!
 <lb/>The just Judge hath done justice unto me;
-<pb n="300"/>
+<pb n="8.300"/>
 <lb/>'Twas not through slackness or through cowardice,
 <note>
     <cit><quote xml:lang="fra">que je me suis enfui.</quote> <bibl>Mohl.</bibl></cit>
@@ -11080,7 +11081,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He strung his bow and loosed a whole wood arrow,
 <lb/>Which in a moment struck the Shah’s belt whence
 <lb/>It dangled point-arrested by the silk.
-<pb n="301"/>
+<pb n="8.301"/>
 <lb/>A slave that saw came and extracted it
 <lb/>From the brocade. The Shah’s spear struck his foe
 <lb/>Upon the belt which was of mail and broke not,
@@ -11115,7 +11116,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Rose o’er the darksome hills, both hosts withdrew,
 <lb/>The sentries challenged, bells rang, and the troops
 <lb/>Had little sleep. Bandwi, the ambitious, went
-<pb n="302"/>
+<pb n="8.302"/>
 <lb/>Between the hosts, chose from the troops a chief—
 <lb/>A herald fluent, with a goodly voice—
 <lb/>Bade him to mount upon his Arab steed,
@@ -11151,7 +11152,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="27"><head>How Khusrau Parwiz sent an Army under Nastuh<note>Reading with P.</note> after Bahram Chubina, and how Bahram Chubina captured him and reached the Khan of Chin</head>
 <p>
-<pb n="303"/>
+<pb n="8.303"/>
 <lb/>Whenas the bright sun had arrayed its throne
 <lb/>Exploring parties went out from the Shah;
 <lb/>They found the chieftain’s tent unoccupied,
@@ -11180,7 +11181,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>All tattered, and set out upon the sieve
 <lb/>Dry bread. Yalan-sina then handed him
 <lb/>The sacred twigs who thought not in his grief
-<pb n="304"/>
+<pb n="8.304"/>
 <lb/>Of muttering prayer.<note>Couplet omitted.</note> They ate, then asked for wine,
 <lb/>And prayed.
 <lb/><q>If ye would have wine,</q> said the crone,
@@ -11212,7 +11213,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Have made him quaff wine from a gourd do thou
 <lb/>Keep barley-bread for him on this old sieve
 <lb/>Until next barley-harvest.</q><note>i.e., <quote>Since I have been led into wrong-doing by my desires let me continue to fare badly</quote>—words put into Bahram Chubina’s mouth by the author or redactor of the Romance. This is another instance of the legitimist feeling pervading this portion of the poem. See Vol. vi. p. 251.</note>
-<pb n="305"/>
+<pb n="8.305"/>
 <lb/>Having eaten
 <lb/>He passed withal the night there in his tunic,
 <lb/>His shoulders on his breastplate, but sleep came not:
@@ -11252,7 +11253,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </p>
 
 <p>
-    <pb n="306"/>
+    <pb n="8.306"/>
     <lb/>Bahram Chubina
     <lb/>Replied: <q>I would not carry from the field
     <lb/>Of fight such men as thee. I will not sever
@@ -11286,7 +11287,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Assembled, and he called a scribe to write
 <lb/>A letter out on silk from Shah to Caesar,
 <lb/>Detailing what had passed in that campaign.
-<pb n="307"/>
+<pb n="8.307"/>
 <lb/>He first praised God—the Source of manliness,
 <lb/>Of prowess, and success, then said: <q>In secret
 <lb/>Much hath God favoured me. I and my host
@@ -11324,7 +11325,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>A hundred camel-loads of gold dinars,
 <lb/>As well as many pearls and precious stones,
 <lb/>A jewelled cross and throne all royal gems,
-<pb n="308"/>
+<pb n="8.308"/>
 <lb/>A green robe shot with gold whereof the fringe
 <lb/>Was finished off with jewels. With the gifts
 <lb/>And offerings went four philosophers
@@ -11363,7 +11364,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <div type="textpart" subtype="section" n="29"><head>How Niyatus was wroth with Bandwi and how Maryam made Peace between them</head>
 <milestone unit="calced" n="1947"/>
 <p>
-<pb n="309"/>
+<pb n="8.309"/>
 <lb/>Next day Khusrau Parwiz prepared his throne,
 <lb/>And donned his crown of state. The festal board
 <lb/>Was spread within the rosary. <q>Invite,</q>
@@ -11393,7 +11394,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Niyatus,
 <lb/>Departing, mounted and returned half drunk
 <lb/>To camp. He donned his Ruman mail and thought
-<pb n="310"/>
+<pb n="8.310"/>
 <milestone unit="calced" n="1948"/>
 <lb/>To mar that feast. The Ruman cavaliers,
 <lb/>All eager for the fray, set face to where
@@ -11429,7 +11430,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And say: <q>Thou quarrelsome, ill-meaning man!
 <lb/>Hast thou not seen how Caesar hath assisted
 <lb/>The Shah to majesty, hath fought his battles,
-<pb n="311"/>
+<pb n="8.311"/>
 <lb/>Hath made affinity and league with him,
 <lb/>And furnished men and means and hoarded treasures?
 <lb/>Wilt thou destroy affinity and league,
@@ -11468,7 +11469,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <div type="textpart" subtype="section" n="30"><head>How Khusrau Parwiz gave Presents to Niyatus and the Rumans, how he dismissed them to Rum, and wrote Patents for the Nobles of Iran</head>
 
 <p>
-<pb n="312"/> <milestone unit="calced" n="1949"/>
+<pb n="8.312"/> <milestone unit="calced" n="1949"/>
 <lb/>The Shah then bade Kharrad, son of Barzin:—
 <lb/><q>Hold a review and call a court. Let all
 <lb/>The Ruman troops be mustered, young and old.
@@ -11497,7 +11498,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The portal and approached the Fire his visage
 <lb/>Was hidden by his tears. There he recited
 <lb/>The Zandavasta for a se’nnight’s space,<note>Reading with P.</note>
-<pb n="313"/>
+<pb n="8.313"/>
 <lb/>And humbly danced attendance on the Fire,
 <lb/>Departing on the eighth day for the feast
 <lb/>Of Sada was at hand. As he had promised
@@ -11535,7 +11536,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And gave him all the country of Kirman
 <lb/>Because Khusrau Parwiz esteemed him great.
 <lb/>He gave another province to Gurdwi,
-<pb n="314"/>
+<pb n="8.314"/>
 <lb/>And sealed the letter with the golden seal.
 <lb/>He gave Balwi the town of Chach and sent
 <lb/>The patent with an ivory throne. He counted
@@ -11570,7 +11571,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>To keep the earth in culture.</q>
 <lb/>Through his justice
 <lb/>The world became a Paradise on high,
-<pb n="315"/>
+<pb n="8.315"/>
 <lb/>And one may well acclaim Khusrau Parwiz,
 <lb/>For better is a great king of that kind
 <lb/>Than one impure albeit sage in mind.<note>In the above passage the last couplet of the section is read with
@@ -11605,7 +11606,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Good sooth! he looketh for me wrathfully
 <lb/>Because I loiter. Five and sixty I,
 <lb/>He thirty-seven. He asked not agéd me,
-<pb n="316"/>
+<pb n="8.316"/>
 <lb/>But hurried off alone. I stayed to see
 <lb/>The outcome of my labours. May God grace
 <lb/>Thy soul with light and wisdom’s breastplate place
@@ -11618,7 +11619,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <div type="textpart" subtype="section" n="32"><head>The Story of Bahram Chubina and the Khan of Chin</head>
 <milestone unit="calced" n="1952"/>
 <p>
-<pb n="317"/>
+<pb n="8.317"/>
 <lb/>Tell now old tales, tell of Bahram Chubina.
 <lb/>When he drew near the country of the Turks,
 <lb/>Toward the Lions and the Khan, there went
@@ -11677,7 +11678,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The Khan at dawn with fingers on his lips,
 <lb/>For thus did subjects offer reverence,
 <lb/>To those illustrious potentates of Chin,
-<pb n="318"/>
+<pb n="8.318"/>
 <lb/>And each time from the veteran monarch’s treasure
 <lb/>Would carry fifty score dinars away.
 <lb/>Bahram Chubina marked this for a while,
@@ -11698,7 +11699,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </p>
 
 <p>
-    <pb n="319"/>
+    <pb n="8.319"/>
     <lb/>Bahram Chubina,
     <lb/>The world-aspirant, said: <q>O king of men!
     <lb/>Thou hast made him a master o’er thyself.
@@ -11755,7 +11756,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="33"><head>How Makatura was slain by Bahram Chubina</head>
 <p>
-<pb n="320"/>
+<pb n="8.320"/>
 <lb/>When night withdrew its sombre skirt, and dawn
 <lb/>Brake o’er the gloomy mountains, Makatura
 <lb/>Put on his battle-armour and went forth,
@@ -11788,7 +11789,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Bahram Chubina cried, <q>thou hast not slain me;
 <lb/>Depart not to thy tent. Thy say is said;
 <lb/>Stop and hear my reply and, if thou livest
-<pb n="321"/>
+<pb n="8.321"/>
 <lb/>When thou hast heard it, go.</q>
 <lb/>With that he chose
 <lb/>A breastplate-piercing shaft of poplar-wood,
@@ -11821,7 +11822,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>King-worthy jewels, and all kinds of gear
 <lb/>Of war. These from the Khan a messenger
 <lb/>Bare to Bahram Chubina’s treasurer.
-<pb n="322"/>
+<pb n="8.322"/>
 </p>
 </div>
 
@@ -11857,7 +11858,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>That fair-cheeked damsel ended in a breath.
 
 <lb/>The Khan heard and his face turned black, his queen
-<pb n="323"/>
+<pb n="8.323"/>
 <lb/>Tore out her hair: they mourned the maid for years,
 <lb/>As if they had been burning in fierce flames,
 <lb/>And sought to slay the monster and relieve
@@ -11896,7 +11897,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>A lion-ape hath battened on my child,
 <lb/>’Twere shame for us to tell it; it would disgrace
 
-<pb n="324"/>
+<pb n="8.324"/>
 <lb/>My stock. Bahram Chubina knoweth not
 <lb/>That that terrific monster will make budge
 <lb/>An iron mountain with its breath. Although
@@ -11933,7 +11934,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Came from the mountain that ferocious monster,
 <lb/>And gulped down her that was our very Eye.
 <lb/>Now every Spring it visiteth that meadow
-<pb n="325"/>
+<pb n="8.325"/>
 <milestone unit="calced" n="1958"/>
 <lb/>In quest of prey. No youth or paladin
 <lb/>Of any name is left in this our city
@@ -11970,7 +11971,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Armed with his coiled up lasso, plied his bow
 <lb/>And strung it, called on God who giveth good,
 <lb/>Sent up his battle-cry, and smote the rocks
-<pb n="326"/>
+<pb n="8.326"/>
 <lb/>Until they flashed again. The lion-ape
 <lb/>Was in a pool. It wallowed and came forth,
 <lb/>For when the monster's fell was soaked no shaft
@@ -12007,7 +12008,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>As was their custom they made ready robes
     <lb/>Of honour, many crowns and belts. The Khan
     <lb/>Said to Bahram Chubina: <q>These bestow
-    <pb n="327"/>
+    <pb n="8.327"/>
     <lb/>On such fravashis as are worthy of them.</q>
     <lb/>Bahram Chubina took to feast and chase,
     <lb/>Untroubled by the passing on of time;
@@ -12023,7 +12024,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="35"><head>How Khusrau Parwiz heard of the Case of Bahram Chubina and wrote a Letter to the Khan, and how he replied</head>
 <p>
-<pb n="328"/>
+<pb n="8.328"/>
 <lb/>Thus matters fared till tidings reached Iran,
 <lb/>Reached the great monarch of the brave: <q>A kingship
 <lb/>And treasure greater than thine own are now
@@ -12073,7 +12074,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>By sending us that slave, his feet in fetters;
 <lb/>Else I dispatch an army from Iran,
 <lb/>And for Turan turn daylight into gloom.</q>
-<pb n="329"/>
+<pb n="8.329"/>
 <lb/>Now when the letter reached the Khan, and he
 <lb/>Had heard the intention of Khusrau Parwiz,
 <lb/>He told the envoy: <q>When thou com’st to court
@@ -12116,7 +12117,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Hence to the Khan to speak and hear his views,
 <lb/>Inform him what Bahram Chubina was
 <lb/>At first and, after, to what ends he used
-<pb n="330"/>
+<pb n="8.330"/>
 <lb/>His leadership, and having ordered all
 <lb/>Was fain to make a bondslave of his lord.
 <lb/>If this be not accomplished in one month
@@ -12157,7 +12158,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </p>
 
 <p>
-    <pb n="331"/>
+    <pb n="8.331"/>
     <lb/>Bahram Chubina’s heart
     <lb/>Revived when this he heard; he laughed and changed
     <lb/>In bearing. All the warriors agreed
@@ -12183,7 +12184,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="36"><head>How Khusrau Parwiz sent Kharrad, Son of Barzin, to the Khan and how he schemed to slay Bahram Chubina</head>
 <p>
-<pb n="332"/>
+<pb n="8.332"/>
 <lb/>Now when the great king heard: <q>The wolf hath come
 <lb/>Outside the wood, and bold Bahram Chubina
 <lb/>Hath brought a host that robbeth heaven of lustre,</q>
@@ -12228,7 +12229,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Continue till we reach Asfandiyar.
 <lb/>Their share of this world was the charnel-house;
 <lb/>They have drunk bane instead of antidote.
-<pb n="333"/>
+<pb n="8.333"/>
 <lb/>Our present Shah is of thy kin; he joyeth
 <lb/>And sorroweth as thou dost wax and wane.
 <lb/>His great-grandsire upon the mother’s side,
@@ -12265,7 +12266,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Although he doth thee many a kindly office,
 <lb/>Yet will he break faith with thee in the end
 <lb/>As with the Shahs he did, regarding neither
-<pb n="334"/>
+<pb n="8.334"/>
 <milestone unit="calced" n="1965"/>
 <lb/>The Shah nor God. If to the Shah thou wilt
 <lb/>Dispatch him thou wilt raise up to the moon
@@ -12281,7 +12282,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </p>
 
 <p>
-    <pb n="335"/>
+    <pb n="8.335"/>
     <lb/>Kharrad, son of Barzin, on hearing that,
     <lb/>Knew that his novelty was out of date,
     <lb/>And made reply: <q>O thou of royal race!
@@ -12338,7 +12339,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Would be a crown upon my lady’s head,
     <lb/>And all the more so as her daughter aileth.</q>
     <lb/>Kharrad replied: <q>I have that knowledge too,
-    <pb n="336"/>
+    <pb n="8.336"/>
     <lb/>And, as thou say’st, will take the case in hand.</q>
     <lb/>The steward hastened to the queen and said:—
     <lb/><q>A learned leech hath arrived.</q>
@@ -12367,7 +12368,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="37"><head>How Bahram Chibina was slain by Kulun as Kharrad, Son of Barzin, had planned</head>
 <p>
-<pb n="337"/>
+<pb n="8.337"/>
 <lb/>Bahram Chubina, for his part, arrayed
 <lb/>His army like a pheasant’s wing and marched
 <lb/>To Marv. Then one came to the Khan to say:
@@ -12407,7 +12408,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Unsheathed within thy sleeve till he shall bid thee
 <lb/>Approach alone and as thou dost say thus:
 <lb/><q>The noble lady said: <q>When thou dost tell
-<pb n="338"/>
+<pb n="8.338"/>
 <lb/>The secret in his ear hide it from others.</q></q>
 <lb/>When he shall say: <q>What is the secret? Tell me,</q>
 <lb/>Approach him quickly, slit his navel, rise,
@@ -12443,7 +12444,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>She asked Kharrad, son of Barzin, for seal-clay,
 <lb/>Went to that drunken sleeper’s couch forthwith
 <lb/>From her apartments, presently impressed
-<pb n="339"/>
+<pb n="8.339"/>
 <lb/>The clay upon the signet, came, and gave it
 <lb/>To her petitioner. That scribe gave thanks
 <lb/>Therefor, then went and passed it to the elder.
@@ -12465,7 +12466,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>My message to the crowned and famous chief.</q>
 </p>
 
-<p><pb n="340"/>
+<p><pb n="8.340"/>
     <lb/>The noble chamberlain made haste, went in,
     <lb/>Came to the entrance of the warrior’s chamber,
     <lb/>And said: <q>A scurvy-looking messenger,
@@ -12519,7 +12520,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Who filled the ocean suddenly with dust?
     <lb/>Who hurled this moving Mountain to the abyss?
     <lb/>Now alien, friendless, helpless, and alone
-    <pb n="341"/>
+    <pb n="8.341"/>
     <lb/>We live despised in other men’s domains,
     <lb/>I said to him: <q>O captain of the host!
     <lb/>Uproot thou not the sprout of loyalty,
@@ -12558,7 +12559,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>The circling Sky and course of sun and moon,
         <lb/>But fell into the deep beyond Sari,
         <lb/>Headforemost. In like manner hath the Div
-        <pb n="342"/>
+        <pb n="8.342"/>
 
         <lb/>Caused me to err and docked my hand from good.
         <lb/><q>Thine is the royal diadem,</q> he said,
@@ -12596,7 +12597,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
         <lb/>And have not found him gracious for one day.
         <lb/>It was no guerdon for my toils to have
         <lb/>A div dispatched to slay me, yet in truth,
-        <pb n="343"/>
+        <pb n="8.343"/>
 
         <lb/>If he shall hear of this, he will not know
         <lb/>What he should think. None save Iranians
@@ -12629,7 +12630,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </div>
 <div type="textpart" subtype="section" n="38"><head>How the Khan had Tidings of Bahram Chubina’s Death and how he destroyed the House and Family of Kulun</head>
 <p>
-<pb n="344"/>
+<pb n="8.344"/>
 <lb/>When tidings came about Bahram Chubina,
 <lb/>And what his glory had entailed on him,
 <lb/>And when his letter too arrived, and when
@@ -12665,7 +12666,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <div type="textpart" subtype="section" n="39"><head>How Khusrau Parwiz had Tidings of the Slaying of Bahram Chibina and honoured Kharrad, Son of Barzin</head>
 
 <p>
-<pb n="345"/>
+<pb n="8.345"/>
 <milestone unit="calced" n="1972"/>
 <lb/>Now when Kharrad, son of Barzin, approached C. 197
 <lb/>Khusrau Parwiz and told what he had done,
@@ -12702,7 +12703,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="40"><head>How the Khan sent his Brother to Gurdya, the Sister of Bahram Chubina, with a Letter touching her Brother's Death and asking her in Marriage as his Queen, and her Answer</head>
 <p>
-<pb n="346"/>
+<pb n="8.346"/>
 <milestone unit="calced" n="1973"/>
 <lb/>Now when the Khan’s heart was relieved and Chin
 <lb/>Was all like clay with gore he said one day:—
@@ -12733,7 +12734,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>From God’s decree. This was assigned to him,
 <lb/>And all through the perverse Div’s sorcery.
 <lb/>I hold to my first pledge and will keep faith.</q>
-<pb n="347"/>
+<pb n="8.347"/>
 <lb/>Convey a separate letter to Gurdya:—
 <lb/><q>O holy lady of unsullied skirt!
 <lb/>Thou art all uprightness and kindliness,
@@ -12770,7 +12771,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Of women that both counsel and console.
 <lb/>The young man spake, the lady of the skirt
 <lb/>Unsullied heard him but made choice of silence.
-<pb n="348"/>
+<pb n="8.348"/>
 <lb/>Thereafter, when she had perused the letter,
 <lb/>And all the words of the imperious Khan,
 <lb/>She made her wisdom and her knowledge mates,
@@ -12813,7 +12814,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="41"><head>How Gurdya consulted her Nobles and fled from Marv</head>
 <p>
-<pb n="349"/>
+<pb n="8.349"/>
 <milestone unit="calced" n="1975"/>
 <lb/>Then at her leisure that young, prudent dame
 <lb/>Consulted with her counsellors and said:—
@@ -12846,7 +12847,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>That he might ope my matter to the Shah,
 <lb/>And tell my toil and care. God helping me,
 <lb/>He will both hear and grant my fair appeal.</q>
-<pb n="350"/>
+<pb n="8.350"/>
 <lb/>They said: <q>Thou art for life our youthful lady
 <lb/>In Chin and in Iran. An iron mountain
 <lb/>Could not displace thee, and thou guidest heroes
@@ -12884,7 +12885,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>They shouted: <q>We are lieges and obey.</q>
 <lb/>This understood, they rose and made them ready
 <lb/>For war with Chin. Izid Gashasp, the chief,
-<pb n="351"/>
+<pb n="8.351"/>
 <lb/>And Yalan-sina mounted with the troops,
 <lb/>Who all said: <q>Better perish with renown
 <lb/>Than live and let the men of Chin prevail.</q>
@@ -12920,7 +12921,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Hath any knowledge of our usages;
 <lb/>Their fear perchance hath turned us into foes.
 <lb/>Speak with all unction and entreat them well;
-<pb n="352"/>
+<pb n="8.352"/>
 <lb/>Encourage them by loving-kindliness;
 <lb/>But if they offer armed resistance play
 <lb/>The man and let there be no dallying;
@@ -12958,7 +12959,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The Lion and the chosen cavalier.
 <lb/>He said: <q>I will requite the favour done
 <lb/>If only thou wilt listen to my words.</q>
-<pb n="353"/>
+<pb n="8.353"/>
 <lb/>He said to me: <q>Haste unto her and say:—
 <lb/><q>If what I spake was not acceptable
 <lb/>Know that my words were not imperative,
@@ -12998,7 +12999,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="43"><head>How Gurdya wrote to Gurdwi</head>
 <p>
-<pb n="354"/>
+<pb n="8.354"/>
 <lb/>Victorious she drew toward Iran,
 <lb/>She drew toward the monarch of the brave,
 <lb/>But halted for a short time at Amwi
@@ -13029,7 +13030,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Addressed his upright minister: <q>How long
 <lb/>Shall I conceal my thoughts? Shall my sire’s slayer
 <lb/>For ever be about me as a kinsman?
-<pb n="355"/>
+<pb n="8.355"/>
 <lb/>Now that I have the power and feel aggrieved
 <lb/>What should result?</q>
 <lb/>They spread the board and quaffed,
@@ -13051,7 +13052,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="45"><head>How Gustaham rebelled against Khusrau Parwiz and took Gurdya to Wife</head>
 <p>
-<pb n="356"/>
+<pb n="8.356"/>
 <lb/>When Gustaham heard this he summoned all
 <lb/>His scattered troops, set forth upon the march,
 <lb/>And passing by Sarakhs and by Amul
@@ -13100,7 +13101,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Out at Bandwi’s feet and lamented him
 <lb/>When absent!</q> Now upon the earliest chance
 <lb/>The Shah, true to the instincts of his race,
-<pb n="357"/>
+<pb n="8.357"/>
 <lb/>Hath severed from Bandwi both hands and feet!
 <lb/>So now what hope can ye have in the Shah,
 <lb/>For never came fruit from the willow’s bough?
@@ -13137,7 +13138,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Gave her to Gustaham—a gallant hero
 <lb/>Of royal lineage—who tended her
 <lb/>Like a fresh apple, for he saw in this
-<pb n="358"/>
+<pb n="8.358"/>
 <lb/>His exaltation nothing of a fall.
 <lb/>The armies sent forth by Khusrau Parwiz
 <lb/>Found their old fortune altogether changed,
@@ -13171,7 +13172,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Like wine-streams in the garth of Paradise,
 <lb/>To say: <q>Thou hast been friendly and hast helped me
 
-<pb n="359"/>
+<pb n="8.359"/>
 
 <lb/>In all things everywhere. Much time hath passed
 <lb/>While my heart’s secret was not on my tongue,
@@ -13209,7 +13210,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Khusrau Parwiz, on hearing this, rejoiced,
 <lb/>And thought his cares wind, asked his treasurer
 
-<pb n="360"/>
+<pb n="8.360"/>
 
 <lb/>For paper, chose words redolent of musk,
 <lb/>And wrote a letter like a garden full
@@ -13250,7 +13251,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>She called her five,
 <lb/>And stationed them by Gustaham’s bed-chamber.
 
-<pb n="361"/>
+<pb n="8.361"/>
 
 <lb/>She read to them the letter of the Shah,
 
@@ -13300,7 +13301,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And through the fortune of the valiant world-lord
 <lb/>That great host hath dispersed. What further orders
 
-<pb n="362"/>
+<pb n="8.362"/>
 
 <lb/>Hast thou to give? What further wilt thou hang
 <lb/>On thy slave’s earring?</q>
@@ -13345,7 +13346,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="48"><head>How Gurdya showed her Accomplishment before Khusrau Parwiz</head>
 <p>
-<pb n="363"/>
+<pb n="8.363"/>
 <lb/>Two se’nnights passed away. <q>By sun and moon,
 <lb/>By throne and casque,</q> he said to her, <q>narrate
 <lb/>Thy battle with the soldiers of the Khan,
@@ -13376,7 +13377,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Wheeled her about on all sides right and left,
 <lb/>And pierced the dark clouds with her battle-cries.
 
-<pb n="364"/>
+<pb n="8.364"/>
 
 <lb/>She told the Shah: <q>What time I fought Tuwurg
 <lb/>I was an angry Wolf as I am now.</q>
@@ -13414,7 +13415,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Henceforth thou art their overseer for thou
 <lb/>Dost toil and care for what is thine. I wish
 
-<pb n="365"/>
+<pb n="8.365"/>
 
 <lb/>To hear no word of them from any one,
 <lb/>Or young or old, save thee.</q>
@@ -13447,7 +13448,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And of low birth to act as marchlord there,
 <lb/>One who is coarse of speech and ignorant.</q>
 
-<pb n="366"/>
+<pb n="8.366"/>
 
 <lb/><q>Do thou, O king!</q> the minister rejoined,
 <lb/><q>Characterize the wretch, and I will seek,
@@ -13486,7 +13487,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>While in the front of them a herald walked,
 <lb/>Proclaiming: <q>If I see a gutter left,
 
-<pb n="367"/>
+<pb n="8.367"/>
 
 <lb/>Or cat within a house, I will set fire
 <lb/>To house and field, and stone the inmates’ heads.</q>
@@ -13524,7 +13525,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And sought in his concern a remedy.
 <lb/>He told his sister: <q>Thou must tell the Shah.
 
-<pb n="368"/>
+<pb n="8.368"/>
 
 <lb/>See if thou canst devise a scheme to make
 <lb/>His heart indifferent in this regard.</q>
@@ -13563,7 +13564,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thereafter when the Shah’s hand was extended,
 <lb/>When all folk wished him well, when other kings
 
-<pb n="369"/>
+<pb n="8.369"/>
 
 <lb/>Were subject to him, and his other lieges
 <lb/>Had been enriched, he chose out of Iran
@@ -13599,7 +13600,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He bade the chiefs: <q>Be watchful and God guard you.</q>
 <lb/>He chose and sent twelve thousand warriors more,
 
-<pb n="370"/>
+<pb n="8.370"/>
 
 <lb/>And greatly charging: <q>From Haital to Chin
 <lb/>Let none set foot upon our land save those,
@@ -13639,7 +13640,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He also made division of each month
 <lb/>In four parts that life might be pleasurable:
 
-<pb n="371"/>
+<pb n="8.371"/>
 
 <lb/>One for the riding-ground, for archery,
 <lb/>And polo with some noble to record;
@@ -13676,7 +13677,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>To give the call to prayers<note>i.e. to proclaim loudly.</note> in infants’ ears
     <lb/>If delicately nurtured. Fathers spoke
 
-    <pb n="372"/>
+    <pb n="8.372"/>
 
     <lb/>One name into their ears—a private one<note>As a precaution against evil influences. Sometimes children were left unnamed for a similar reason. Cf. Vol. 1. pp. 8, 177, 179 and CMN, p. 36 seq.</note> —
     <lb/>The other name was publicly announced.
@@ -13713,7 +13714,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>About the process of the turning sky
     <lb/>Through what the astrologers have said.</q>
 
-    <pb n="373"/>
+    <pb n="8.373"/>
 
     <lb/>He bade
     <lb/>The treasurer: <q>Bring forth the painted silk
@@ -13757,7 +13758,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="53"><head>How Caesar wrote a Letter to Khusrau Parviz, sent Gifts, and asked for the Cross of Christ</head>
     <p>
-    <lb/><pb n="374"/>
+    <lb/><pb n="8.374"/>
 
     <lb/>Now Caesar, when the letter reached him, saw
     <lb/>The superscription of Khusrau Parviz,
@@ -13790,7 +13791,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Ten caravans went laden with dinars.
     <lb/>When tidings reached the conquering Shah: <q>An envoy
     <lb/>
-    <lb/><pb n="375"/>
+    <lb/><pb n="8.375"/>
     <lb/>From Caesar draweth nigh,</q> he bade Farrukh,
     <lb/>A loyal marchlord, ruler of Nimruz,
     <lb/>High-born, a warrior, and the army’s Lustre,
@@ -13830,7 +13831,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>The gifts and said to him: <q>There needed not
     <lb/>Such pains;</q> then to Kharrad, son of Barzin:—
     <lb/>
-    <lb/><pb n="376"/>
+    <lb/><pb n="8.376"/>
     <lb/><q>Read out this letter to the company.</q>
     <lb/>The scribe, an eloquent and heedful man,
     <lb/>Scanned the address and said: <q>Tis <q>to the great,
@@ -13865,7 +13866,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>He from the first acclaimed Iran and purged
     <lb/>His heart from guile and gloom. Thou hast no want,
     <lb/>
-    <lb/><pb n="377"/>
+    <lb/><pb n="8.377"/>
     <lb/>Thy fortune prospereth, and thou wouldst say
     <lb/>That God bestoweth majesty and charm
     <lb/>And manhood upon thee and robbeth others
@@ -13903,7 +13904,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>There is the Cross of Christ: observe and ye
     <lb/>Will find it so. It hath been there for long.
     <lb/>
-    <lb/><pb n="378"/>
+    <lb/><pb n="8.378"/>
     <lb/>Now let the Shah restore it and so doing
     <lb/>Confer a favour on us great and small;
     <lb/>Then all the world will bless him, saying thus:—
@@ -13942,7 +13943,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>The appointed dwelling, then rejoined the Shah,
     <lb/>And companied that worshipper of God
     <lb/>
-    <lb/><pb n="379"/>
+    <lb/><pb n="8.379"/>
     <lb/>At feast and entertainment, wine and chase.
     <lb/>On this wise with the Shah a month they spent
     <lb/>In all good fellowship and much content.
@@ -13975,7 +13976,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Than any other chief in child, in land,
     <lb/>And virtuous kin. The other chiefs all turned
     <lb/>Their backs on me and passed me by as vile,
-    <pb n="380"/>
+    <pb n="8.380"/>
     <lb/>But thou didst take the place of sire to me,
     <milestone unit="calced" n="1997"/>
     <lb/>And more. I recognise that thou hast been
@@ -14012,7 +14013,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Upon Maryam’s account! Demand of me
     <lb/>Whatever else thou wilt: the way is open.
     <lb/>I look with admiration on thy gifts,
-    <pb n="381"/>
+    <pb n="8.381"/>
     <lb/>For which thou hast encountered so much toil,
     <lb/>And have bestowed them on Shirwi that so
     <lb/>I might inaugurate his treasury.
@@ -14049,7 +14050,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>While of the native produce of each land,
     <lb/>Of Hindustan and Chin, Barbar and Misr,
     <lb/>And raiment from Shustar—all that the chiefs
-    <pb n="382"/>
+    <pb n="8.382"/>
     <lb/>Esteem—he sent three hundred camel-loads
     <lb/>To noble Caesar. He gave Khanagi
     <lb/>A grander robe of honour than he gave
@@ -14082,7 +14083,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>And lustre mid the monarchs of the earth—
     <lb/>Should disregard these histories is due
     <lb/>To slanderers and mine ill fortune too.
-    <pb n="383"/>
+    <pb n="8.383"/>
     <lb/>They envied this my work and with the king
     <lb/>They have prevailed to spoil my marketing;
     <milestone unit="calced" n="1999"/>
@@ -14114,7 +14115,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Came to be king and had to roam the world
     <lb/>Unrestingly, for all his work was then
     <lb/>To fight Bahram Chubina while the Fair
-    <pb n="384"/>
+    <pb n="8.384"/>
     <lb/>Wept day and night o’er his defect in love.<note>The section in the original ends here.</note>
     <lb/>It was so that one day he willed to hunt,
     <lb/>And all things were prepared as in the times
@@ -14151,7 +14152,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Lest any sudden blast might scatter dust
     <lb/>Upon that Shah of glorious lineage.
     <lb/>Three hundred youthful princes rode with him,
-    <pb n="385"/>
+    <pb n="8.385"/>
     <lb/>Arrayed in yellow, red, and violet.
     <lb/>The king of kings had with him Kawa’s standard, ore crown and earrings, royal cloth of gold,
     <lb/>A golden girdle, armlets, and a torque,
@@ -14186,7 +14187,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>And when he heard and looked and saw Shirin
     <lb/>He wept for her, his face hued like the sun.
     <lb/>He sent a led horse all betrapped with gold,
-    <pb n="386"/>
+    <pb n="8.386"/>
     <lb/>And forty honest eunuchs, men of Rum,
     <lb/>To bear her to his golden bower, his house
     <lb/>Begemmed, then went to hunt with hawks and cheetahs.
@@ -14217,7 +14218,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>And full of care, distress, and malisons.
     <lb/>For three days none approached him. On the fourth,
     <lb/>When the world’s Lustre shone, he sent and called
-    <pb n="387"/>
+    <pb n="8.387"/>
     <lb/>The chiefs and set them on the nobles’ seats.
     <lb/>He said to them: <q>For days I have not seen you,
     <lb/>And grieve thereat. I am concerned for fear
@@ -14255,7 +14256,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>No other woman in Iran e’en then
     <lb/>How could Khusrau Parviz thus honour her?
     <lb/>If but Shirin were absent from his bower
-    <pb n="388"/>
+    <pb n="8.388"/>
     <lb/>His face would be resplendent everywhere.
     <lb/>Thine ancestors, those wise and upright men,
     <lb/>Ne’er would have thought of this.</q>
@@ -14303,7 +14304,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>The bowl shone out sun-bright. Khusrau Parviz
     <lb/>Said to the archmage: <q>Verily the bowl
     <lb/>Appeareth otherwise!</q>
-    <pb n="389"/>
+    <pb n="8.389"/>
     </p>
     <p>
     <lb/>The archmage said:—
@@ -14341,7 +14342,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Kept her own counsel, and Khusrau Parviz
     <lb/>Gave her the gilded chamber when Maryam
     <lb/>Had been deceased one year.
-    <pb n="390"/>
+    <pb n="8.390"/>
     <lb/>Now when Shirwi
     <lb/>Was sixteen years of age, and in his stature
     <lb/>O’ertopped the men of thirty, his sire brought
@@ -14378,7 +14379,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>And when Shirwi had gotten stalwart limbs,
     <lb/>The Great King was displeased because the child
     <lb/>Was lusty grown but not as he desired.
-    <pb n="391"/>
+    <pb n="8.391"/>
     <lb/>The monarch’s mind, which else had been all smiles,
     <lb/>Was pained thereat, and he confined the youth
     <lb/>To his own palace with a foster-brother,
@@ -14415,7 +14416,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>When that grand throne was finished, and bestowed
 <lb/>Drachms thirty thousand with a golden crown,
 <lb/>And pair of earrings on him, and had written
-<pb n="392"/>
+<pb n="8.392"/>
 <lb/>On his behalf a patent for Sari,
 <lb/>And for Amul. The coast-lands thus assigned
 <lb/>Resembled Paradise.<note>Cf. Vol. ii. p. 27.</note> When Faridun
@@ -14451,7 +14452,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Concealed and handed down full many a shard.
 <lb/>Thus was it till Ardshir began his reign,
 <lb/>And then the name e’en had grown obsolete.
-<pb n="393"/>
+<pb n="8.393"/>
 <lb/>He found no traces and so made another,
 <lb/>Not as he would, and had small joy therein.
 <lb/>He died and left it as thereafter did
@@ -14487,7 +14488,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The breadth six score for twas less broad than high.
 <lb/>A different carpet was laid down each morning
 <lb/>Throughout the month,<note>Couplet omitted.</note> and seven score thousand plaques
-<pb n="394"/>
+<pb n="8.394"/>
 <lb/>Of gold with patterns fashioned of turquoise
 <lb/>Were set upon the throne, while every nail
 <lb/>And clamp were solid silver; each of them
@@ -14523,7 +14524,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Was there whose value none could estimate:
 <lb/>They lit the night like Venus in the sky.
 <lb/>Upon the throne-steps were three rows of seats
-<pb n="395"/>
+<pb n="8.395"/>
 <lb/>Enriched with gems. From one row to the next
 <lb/>There were four steps of gold inlaid with Jewels.
 <lb/>One row, whose ornaments were shaped like heads
@@ -14557,7 +14558,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And brought that royal carpet to the Shah:
 <lb/>The nobles let him pass. He laid it down
 <lb/>On New Year’s Day. The Shah's joy was complete.
-<pb n="396"/>
+<pb n="8.396"/>
 <lb/>That carpet gave an opportunity
 <lb/>For mirth: they called for wine and minstrelsy.
 </p>
@@ -14592,7 +14593,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The keeper of the door, on hearing this,
 <lb/>Refused the new musician audience,
 <lb/>And so Barbad, whenever he approached,
-<pb n="397"/>
+<pb n="8.397"/>
 <lb/>Found his employment and his profit nil.
 <lb/>When he despaired of being heard he sought
 <lb/>The royal pleasance with his harp. The gardener,
@@ -14627,7 +14628,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The world-lord took the liquor from the youth;
 <lb/>Its crimson made the crystal disappear.
 <lb/>Now when the sun turned sallow, but abode
-<pb n="398"/>
+<pb n="8.398"/>
 <lb/>Until night turned to lapis-lazuli,
 <lb/>The minstrel in that cypress took his harp,
 <lb/>And sang a royal ditty. In that tree
@@ -14662,7 +14663,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <milestone unit="calced" n="2010"/>
 <lb/>Naught but the willows and the cypresses,
 <lb/>And pheasants pacing underneath the rose.
-<pb n="399"/>
+<pb n="8.399"/>
 <lb/>The king of kings called for another cup,
 <lb/>And raised his head to hear the voice. Again
 <lb/>There came the singing to another tune
@@ -14695,7 +14696,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Thy harp is banished from this company.</q>
 <lb/>Then while Barbad sang on the monarch quaffed,
 <lb/>And drained the jewelled cup until his head
-<pb n="400"/>
+<pb n="8.400"/>
 <lb/>Inclined to sleep, whereat with watered pearls
 <lb/>He filled the singer’s mouth. Barbad became
 <lb/>Chief minstrel and renowned among the great.
@@ -14730,7 +14731,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Who knew the use of bricks and mortar well—
 <lb/>Out of Iran, Ahwaz, and from the Rumans.
 <lb/>Of these he next chose thirty and from them
-<pb n="401"/>
+<pb n="8.401"/>
 <lb/>Two Rumans and one Persian, from which three
 <lb/>They chose a Ruman matchless in the world.
 <lb/>That expert came before Khusrau Parviz,
@@ -14766,7 +14767,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>And having sealed it gave it to the keeper;
 <lb/>Then going to the court said to the Shah:—
 <lb/><q>The palace-walls have risen to the moon,
-<pb n="402"/>
+<pb n="8.402"/>
 <milestone unit="calced" n="2012"/>
 <lb/>But though the Shah bade: <q>Haste!</q> I will not urge
 <lb/>The work for forty days but let it settle.
@@ -14804,7 +14805,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Who in the fourth year reappeared. A man
 <lb/>Of prudence and of Grace divine informed
 <lb/>Khusrau Parviz and presently the Ruman
-<pb n="403"/>
+<pb n="8.403"/>
 <lb/>Himself came swift as dust.
 <lb/><q>Thou criminal!</q>
 <lb/>The Shah said, <q>say what disability
@@ -14842,7 +14843,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Like that or heard from famous architects
 <lb/>Of such. A ring of gold cast for the purpose
 <lb/>Hung from the ceiling of the cupola,
-<pb n="404"/>
+<pb n="8.404"/>
 <lb/>And from the ring a chain of ruddy gold
 <lb/>With jewelled links. Whene’er the king of kings
 <lb/>Ascended to his throne of ivory
@@ -14880,7 +14881,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The diffident, reflect then act, and heed
 <lb/>The sayings of the wise. Regard inferiors,
 <lb/>For those of luckless lives demand our tears.
-<pb n="405"/>
+<pb n="8.405"/>
 <lb/>A man may slumber at my very throne
 <lb/>Unharmed by me if he shall keep the path,
 <lb/>But those that clutch at others’ goods, on all
@@ -14916,7 +14917,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>That, though thou ask of experts, thou wilt hear
 <lb/>Of no one greater. From Turan and Hind,
 <lb/>From Chin and Rum and every peopled clime
-<pb n="406"/>
+<pb n="8.406"/>
 <lb/>They brought him tribute night and day alike—
 <lb/>Boy-slaves and girl-slaves out of every court,
 <lb/>And pearls and gems. His treasures and dinars
@@ -14949,7 +14950,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>The war-steeds in the stables of the king
 <lb/>Were six and forty thousand, while of camels
 <lb/>Red-haired<note>The best sort.</note> there were ten thousand, and none then
-<pb n="407"/>
+<pb n="8.407"/>
 <lb/>Possessed one like to them. Twelve thousand more
 <lb/>Were beasts of burden, sixty-six were swift
 <lb/>For litter-bearing; none had seen or heard
@@ -14984,7 +14985,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <milestone unit="calced" n="2016"/>
 <lb/>The Shah, who had been just, became unjust,
 <lb/>Joyed in the injustice of his underlings,
-<pb n="408"/>
+<pb n="8.408"/>
 <lb/>Robbed all men of their goods and stirred up strife
 <lb/>'Twixt man and man. That which had been a blessing
 <lb/>Turned to a curse because the Shah grew like
@@ -15020,7 +15021,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="64"><head>How Cesar withdrew through an Expedient of Khusrau Parviz and how the Chiefs released Shirwi from Bonds</head>
 <p>
-<pb n="409"/>
+<pb n="8.409"/>
 <lb/>The king, on hearing, took this grave case lightly.
 <lb/>He recognised the practice of Gurdz
 <milestone unit="calced" n="2017"/>
@@ -15052,7 +15053,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>He will inquire: <q>Whence art thou? Speak.</q>
 <lb/>Reply:—
 <lb/><q>A subject and in straits. I have been facing
-<pb n="410"/>
+<pb n="8.410"/>
 <lb/>Toil and the longsome road to bear Gurdz
 <lb/>A letter.</q> Have this bound to thy right hand,
 <lb/>And if he take it from thee it is well.</q>
@@ -15088,7 +15089,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Displeased with me? Say wherefore hast thou quitted Iran and made me shift thus for myself?
 <lb/>The king of kings, informed of what I did,
 <lb/>In pain and vengeance is estranged from me.</q>
-<pb n="411"/>
+<pb n="8.411"/>
 <lb/>When Caesar was aware of this and saw
 <lb/>That letter he selected from his host
 <lb/>A noble and dispatched him to Gurdz
@@ -15124,7 +15125,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>If ye are one in tongue and confidence
 <lb/>Ye may uproot a mountain.</q>
 <lb/>Young and old
-<pb n="412"/>
+<pb n="8.412"/>
 <lb/>Advanced as far as Khurra-i-Ardshir,<note>Khurra-i-Ardshir was a district in Pars. Bih-Ardshir (Seleucia) must be meant.</note>
 <milestone unit="calced" n="2019"/>
 <lb/>Advanced until they reached the river-bank,
@@ -15160,7 +15161,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <lb/>Dispatch ye to my court without delay
 <lb/>All that are disaffected in this wise,
 <lb/>Else all of you that have transgressed shall see
-<pb n="413"/>
+<pb n="8.413"/>
 <lb/>The gibbet and the dungeon.</q></q>
 </p>
 
@@ -15204,7 +15205,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>From their obedience to the Shah. He told
   
     <lb/>Them all and they agreed: <q>Another Shah
-        <pb n="414"/>
+        <pb n="8.414"/>
     <lb/>Should sit upon the throne for this hath lost
     <lb/>The Grace, the royal usages, and fortune.</q>
 </p>
@@ -15249,7 +15250,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </p>
 <p>
     <lb/>When Farrukhzad heard this<note n="3">Reading with P.</note> he chose Talikan,
-    <pb n="415"/>
+    <pb n="8.415"/>
     <lb/>And said to him: <q>Now go we to the prison,
     <lb/>To those unfortunates, and boldly bear
     <lb/>Shirwi, the brave, the atheling, away.
@@ -15290,7 +15291,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>To be the king of kings: the throne of greatness
     <lb/>Would joy in them.</q>
 </p>
-<p><pb n="416"/>
+<p><pb n="8.416"/>
     <lb/>Shirwi remained in tears
     <lb/>And consternation. Should he quit the prison?
     <milestone unit="calced" n="2022"/>
@@ -15332,7 +15333,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/><q>What time three watches of the night have passed
     <lb/>Consult the astrologers for when this knave
     <lb/>Was born I named him privily Kubad,
-    <pb n="417"/>
+    <pb n="8.417"/>
     <lb/>But I have spoken of him as Shirwi,
     <lb/>And kept his other name concealed. In public
     <lb/>Shirwi hath always been his name, so why
@@ -15372,7 +15373,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 
 <div type="textpart" subtype="section" n="65"><head>How Khusrau Parwiz was taken and how Shirwi sent him to Taisafin</head>
     <p>
-    <lb/><pb n="418"/>When Sol shot down its rays the enemy—
+    <lb/><pb n="8.418"/>When Sol shot down its rays the enemy—
     <lb/>That doer of div’s work—approached the palace,
     <lb/>And went about it, but that splendid seat
     <lb/>Was void of Shah. They gave to spoil his treasures,
@@ -15403,7 +15404,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Thus to the gardener: <q>These studs will prove
     <milestone unit="calced" n="2024"/>
     <lb/>Of use to-day. Go thou to the bazar,
-<pb n="419"/>
+<pb n="8.419"/>
     <lb/>Buy meat and bread, and shun frequented paths.</q>
     <lb/>Those jewels would have cost a purchaser
     <lb/>Some thirty thousand drachms. Immediately
@@ -15441,7 +15442,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/>Shirwi knew: <q>'Tis Khusrau Parwiz,
     <lb/>His features are the age’s cynosure,</q>
 </p>
-<pb n="420"/>
+<pb n="8.420"/>
 <p>
     <lb/>And sent three hundred horsemen from the court,
     <lb/>Like rushing wind, down to the river-bank.
@@ -15490,7 +15491,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
     <lb/><q>Thy death will come to thee between two heights,
     <lb/>And by a slave’s hand in a lonely spot.
     <lb/>One height will be of gold and one of silver,
-<pb n="421"/>
+<pb n="8.421"/>
     <lb/>And thou with broken heart wilt sit between.
     <lb/>Thy heaven will be golden, thine earth iron,
     <lb/>And fortune will be full of enmity.</q>
@@ -15540,7 +15541,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 <p>
     <lb/>The Iranian troops did homage to the Shah,
     <lb/>Who gave one year’s pay from the treasury,
-<pb n="422"/>
+<pb n="8.422"/>
     <lb/>And lived but seven months so call him naught,
     <lb/>Or call him Shah, just as it pleaseth thee.
     <lb/>Such is this tyrant Hostel’s wont! Thou must
@@ -15558,7 +15559,7 @@ was in internment with many of his brothers, was therefore in a situation of imm
 </div>
     </div>
 </div>
-
+</div>
 </body>
 </text>
 </TEI>

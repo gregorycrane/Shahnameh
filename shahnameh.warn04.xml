@@ -75,18 +75,18 @@ CTS/CITE Architecture.</p>
 </teiHeader>
 <text>
 <body>
-<pb n="5"/>
-<div type="textpart" subtype="dynasty" n="KAIANIAN"><head>THE KAIANIAN DYNASTY (Continued)</head>
 
+<div type="textpart" subtype="dynasty" n="Kaianian-c"><head>THE KAIANIAN DYNASTY (Continued)</head>
+    <pb n="4.5"/>
 
-<pb n="6"/>
-<pb n="7"/>
+<pb n="4.6"/>
+
 <div type="textpart" subtype="reign" n="13b"><head>XIII. KAI KHUSRAU (continued)</head>
 
 <div type="textpart" subtype="part" n="6"><head>THE BATTLE OF THE TWELVE RUKHS</head>
 
-<div type="textpart" n="argument"><head>Argument</head>
-<p>Afrasyiab and Kai Khusrau continue the war with renewed vigour, Piran and Gudarz being in chief command on the Tiranian and Iranian sides respectively. After some abortive negotiations the campaign opens, Human and Bizhan fight in single combat,
+<div type="textpart" subtype="argument"><head>Argument</head>
+<p><pb n="4.7"/>Afrasyiab and Kai Khusrau continue the war with renewed vigour, Piran and Gudarz being in chief command on the Tiranian and Iranian sides respectively. After some abortive negotiations the campaign opens, Human and Bizhan fight in single combat,
 and the former is slain. A general engagement between the two hosts follows, but the result is indecisive and both generals send for reinforcements. In the interval they arrange a combat of eleven champions a side in which the Iranians are completely victorious, all the Turdnians, including Piran himself, being slain with the exception of Gurwi—the executioner of Siy4wush—who is taken alive by Giv. Kai Khusrau comes up, and Lahhdk and
 Farshidward—Piran’s two surviving brothers—abandon their army and take to flight. They are pursued and captured by Gustaham,
 who is himself severely wounded but is saved by Bizhan and eured by Kai Khusrau, to whom also the Tiranian army capitulates, and Gurwi is put to death.
@@ -95,7 +95,7 @@ who is himself severely wounded but is saved by Bizhan and eured by Kai Khusrau,
 <p>The Battle of the Twelve Rukhs or Champions is one of the most celebrated and favourite passages in the Shahndma from the Persian point of view, probably owing to the completeness of the Iranian triumph, the poet being determined, in spite of some evident qualms of conscience, that the Turdnians should not get the best of it in any way. The English reader being unprejudiced probably would prefer a more equally balanced result.</p>
 <p>
 The word Rukh is the familiar Rook of the game of chess, and
-<pb n="8"/>
+<pb n="4.8"/>
 is used metaphorically by the poet as an equivalent for Champion.
 The word really means cheek, the two sides of the chess-board where the Rooks or Castles are placed being looked upon as its two cheeks. Formerly, moreover, the Castles moved as the Queen does now, and were therefore by far the most powerful pieces or
 Champions of the board, the piece which we call the Queen being then restricted to close attendance on the King and to a single move, as appears from the poet’s own account of the game when he gives the legend of its origin, after describing its introduction into Persia during the reign of Nushirwan.</p>
@@ -124,7 +124,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <note n="3">Id. p. 313.</note>
 <note n="4">Id. and pp. 296 and 302.</note>
 <note n="5">See p. 45.</note>
-<pb n="9"/></p></div>
+<pb n="4.9"/></p></div>
 <div type="textpart" subtype="section" n="1"><head>The Prelude</head>
 <p><lb/>
 <milestone unit="vullers" n="1141"/>
@@ -161,7 +161,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <lb/>Thy soul and thy spirit with covetise fret ?
 <lb/>Enjoy what thou hast, seek not more to possess,
 <lb/>For greed will but make thine own glory the less.
-<pb n="10"/></p></div>
+<pb n="4.10"/></p></div>
 <div type="textpart" subtype="section" n="2"><head>How Afrasiydb called together his Host</head>
 <p>
 <lb/>The Turkman monarch’s heart, as I have heard,
@@ -199,7 +199,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <p>
 <lb/>Then all the priests advised him shrewdly, saying :-—
 <lb/><q>Cross we Jihun and beat the royal tymbals
-<pb n="11"/>
+<pb n="4.11"/>
 <lb/>On yon wide plain, and, speeding night and day,
 <lb/>Camp at Amwi; that is the place for battle,
 <lb/>For bloodshed, and for fighting Giv and Rustam—
@@ -238,7 +238,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <lb/>Seek not in any wise the door of peace,
 <lb/>And speak no word unless of war and vengeance ;
 <lb/>To mingle fire and water spoileth both.</q>
-<pb n="12"/>
+<pb n="4.12"/>
 <lb/>Those two illustrious, prudent paladins
 <lb/>Went at the bidding of Afrasiyab,
 <lb/>The old at leisure and the young in haste,
@@ -273,7 +273,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <lb/>Such as would level mountains in the strife.</q></p>
 <p>
 <lb/>The monarch at.the news sat full of thought,
-<pb n="13"/>
+<pb n="4.13"/>
 <lb/>Then said: <q> Ye wise! the archimages say :—
 <lb/><q>The Turkman moon, when heaven’s height is won,
 <lb/>Shall meet disaster from the Iranian sun.
@@ -314,7 +314,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <p>
 <lb/>The monarch gave command: <q> We need,</q> he said,
 <lb/><q>Three hundred thousand warlike cavaliers,
-<pb n="14"/>
+<pb n="4.14"/>
 <lb/>With warriors and mighty men from Rum
 <lb/>And Hind, and gallant Arabs of the desert,
 <lb/>Accoutred well—fierce Lions girdle-girt.
@@ -356,7 +356,7 @@ Farhdd’s steed.<ref n="3"/> Bizhan’s steed was called Shabrang.<ref n="4"/> 
 <lb/>Out of the host, and lead thy seasoned horsemen
 <note n="1"><q>la route du nord</q> (Mohl).</note>
 <note n="2">The future Shah.</note>
-<pb n="15"/>
+<pb n="4.15"/>
 <lb/>To rob the Turkmans of the breath of life.</q></p>
 <p>
 <lb/>He bade Ashkash march forth with thirty thousand—
@@ -397,7 +397,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>Thy hest is higher than the orbéd moon.
 <lb/>I will go even as thou biddest me,
 <lb/>For thou art worldlord and I am a slave.</q>
-<pb n="16"/>
+<pb n="4.16"/>
 <lb/>Then from the portal of the paladin
 <lb/>Shouts rose; the earth rocked with the din of drums;
 <lb/>The soldiers trooped to camp, and all the scene
@@ -433,7 +433,7 @@ impetuous Lions, brandishers of spears,
 <lb/>That thou mayst make a journey to Piran
 <lb/>To speak to him and to receive his answer.
 <lb/>Thus say to him: <q>I with a host have reached
-<pb n="17"/>
+<pb n="4.17"/>
 <lb/>Raibad according to the Shah’s commands.
 <lb/>Thou knowest what thy words and deeds have been,
 <lb/>What peace and toil and trouble have been thine,
@@ -472,7 +472,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The field of battle and Afrasiyab,
 <lb/>To take revenge on whom our sovereign
 <lb/>Hath no need to array a mighty host;
-<pb n="18"/>
+<pb n="4.18"/>
 <lb/>But if thou wilt attend to mine advice,
 <lb/>And wilt give credit to my prudent words,
 <lb/>Then first: all those that brought about the feud,
@@ -510,7 +510,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Then will thy tree of honesty bear fruit.
 <lb/>Consider now and choose between two courses.
 <lb/>By taking one thou wilt approach the Shah,
-<pb n="19"/>
+<pb n="4.19"/>
 <lb/>Wilt go with kith and kindred to Khusrau,
 <lb/>And rest beneath the shadow of his love,
 <lb/>Wilt put away that of Afrasiydb,
@@ -546,7 +546,7 @@ impetuous Lions, brandishers of spears,
 <p>
 <lb/>Giv left his father’s presence, and departed
 <lb/>To Balkh, with all those bitter words in mind,
-<pb n="20"/>
+<pb n="4.20"/>
 <lb/>Alighting there he sent a messenger
 <lb/>Before him as directed by Gudarz,
 <lb/>On that same night assembled all his troops,
@@ -586,7 +586,7 @@ impetuous Lions, brandishers of spears,
 <lb/>He chose him thirty thousand mighty men
 <lb/>Among his troops who drew the scimitar,
 <lb/>And sent them to Piran, the cavalier,
-<pb n="21"/>
+<pb n="4.21"/>
 <lb/>With these words: <q> Draw the scimitar of vengeance,
 <lb/>And rid the earth of them; spare not Gudarz
 <lb/>Or Giv, Farhad, Gurgin or brave Ruhham,
@@ -626,7 +626,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Giv with his chiefs on this reply departed,
 <lb/>Whereon Piran, the captain of the host,
 <lb/>Prepared for fight, sent up the battle-shout,
-<pb n="22"/>
+<pb n="4.22"/>
 <lb/>Pushed on to Kanabad and set his ranks
 <lb/>In war-array upon the mountain-flanks.</p></div>
 <div type="textpart" subtype="section" n="6"><head>The Arraying of the Hosts</head>
@@ -663,7 +663,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Led in Giv’s tracks his army lion-like,
 <lb/>And when Gudarz knew that the host approached
 <lb/>He beat the tymbals, marched out from Raibad,
-<pb n="23"/>
+<pb n="4.23"/>
 <lb/>And drew his army up on that broad plain
 <lb/>With mountains in the rear. The day’s light failed
 <lb/>What time Piran marched forth from Kanabad.
@@ -702,7 +702,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The spearmen with the footmen in their rear
 <lb/>With coats of mail and iron-piercing shafts,
 <lb/>And bows flung o'er their arms. The soldiers' blood
-<pb n="24"/>
+<pb n="4.24"/>
 <lb/>Boiled in their veins. Arrear of these there came
 <lb/>The warlike cavaliers, whose falchions robbed
 <lb/>The fire of lustre, then the elephants
@@ -741,7 +741,7 @@ impetuous Lions, brandishers of spears,
 <lb/>A banner and three hundred horse to guard
 <lb/>The army’s river-flank, as many more
 <lb/>To guard the mountain-flank, Gudarz dispatched.
-<pb n="25"/>
+<pb n="4.25"/>
 <lb/>A watchman went upon the mountain-top, -
 <lb/>And kept his neck outstretched both night and day
 <lb/>Above the army, with his eyes intent
@@ -779,7 +779,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Men fit for war and armed with scimitars.
 <lb/>He gave the centre to Himan—a host
 <lb/>Of lion-flinging, battle-loving troops.
-<pb n="26"/>
+<pb n="4.26"/>
 <lb/>Andariman he summoned with Arjasp,
 <lb/>He gave Burjasp the chief command of both,
 <lb/>And put the army’s left wing in their keeping
@@ -814,7 +814,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Embattled face to face: thou wouldst have said :—
 <lb/><q>No one’s lip moveth!</q> Quoth Gudarz: <q>If I
 <note n="1">Reading with P.</note>
-<pb n="27"/>
+<pb n="4.27"/>
 <lb/>Yield to the foe my station, and advance,
 <lb/>They will assail my rear; I shall but grasp
 <lb/>The wind.</q></p>
@@ -855,7 +855,7 @@ impetuous Lions, brandishers of spears,
 <lb/>We must consider that the man is old,
 <lb/>And that his head is turned toward heaven above,
 <lb/>As one who counteth not his followers,
-<pb n="28"/>
+<pb n="4.28"/>
 <lb/>But reckoneth the stars around the moon,
 <lb/>Know that he now is bloodless and hath grown
 <lb/>Too feeble for the battles of the brave.
@@ -894,7 +894,7 @@ impetuous Lions, brandishers of spears,
 <lb/>His dam shall be the dust, his sire the sea.</q>
 <lb/>Yet, O my son, impetuous in thy speech !
 <note n="1">After his captivity in Part V.</note>
-<pb n="29"/>
+<pb n="4.29"/>
 <lb/>Loose not thy tongue against thy grandsire thus,
 <lb/>For he is wiser and experienced,
 <lb/>And is the leader of this noble host.
@@ -929,7 +929,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Their loins are chafed with iron, their hearts with vengeance,
 <lb/>Their eyes are on Iran. Why keep the hosts
 <lb/>Confronting thus? What is thy purpose? Speak!
-<pb n="30"/>
+<pb n="4.30"/>
 <lb/>If thou intendest to engage, engage,
 <lb/>And if thou meanest to retreat, retreat,
 <lb/>For 'tis a shame to thee, O paladin !
@@ -968,7 +968,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And haply they may make through weariness
 <lb/>Some weak manceuvre and attack us first;
 <lb/>Then, when the foes have left their vantage-ground, -
-<pb n="31"/>
+<pb n="4.31"/>
 <lb/>We will pour showers of arrows on their heads,
 <lb/>Enclose them as with walls and, like fierce lions,
 <lb/>Prey on their lives, appease our lust on them,
@@ -1004,7 +1004,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And, taking with him an interpreter,
 <lb/>Approached the Iranian host. His heart was full
 <lb/>Of fight, his head of vengeance on Khusrau.
-<pb n="32"/>
+<pb n="4.32"/>
 <lb/>Grief made the world seem narrow to Piran
 <lb/>On learning that his brother had gone forth
 <lb/>To battle, and in deep distress of heart
@@ -1046,7 +1046,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And said: <q>Go tell Hamdan our words in Turkman :—
 <lb/><q>We have no purpose to contend with thee
 <lb/>For want of leave to combat from Gudarz;
-<pb n="33"/>
+<pb n="4.33"/>
 <lb/>But to the famous leader of our host
 <lb/>The way is open if thou seekest battle.</q></q></p>
 <p>
@@ -1087,7 +1087,7 @@ impetuous Lions, brandishers of spears,
 <lb/>For fight but, since the general of the Shah
 <lb/>Hath not so bidden, will not volunteer.
 <lb/>If thou art fain to combat warriors
-<pb n="34"/>
+<pb n="4.34"/>
 <lb/>Why dost thou not accost the paladin ?
 <lb/>Get licence for the combat from Gudarz,
 <lb/>And then ask us to prove our readiness.</q></p>
@@ -1124,7 +1124,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Then Fariburz replied: <q> Forbear to fight
 <lb/>The rending lion; days of battle end
 <lb/>For this in triumph, and for that in woe.
-<pb n="35"/>
+<pb n="4.35"/>
 <lb/>When thou hast conquered, fear calamity,
 <lb/>Because high heaven keepeth not one stay,
 <lb/>And angry men bring things to such a pass
@@ -1161,7 +1161,7 @@ impetuous Lions, brandishers of spears,
 <lb/>I heard about thy converse with the Shah,
 <lb/>And thereupon thy leading forth the host,
 <lb/>About the Shah’s gifts and about thy pledge
-<pb n="36"/>
+<pb n="4.36"/>
 <lb/>And exhortations to Piran our leader.
 <lb/>An envoy reached the army of Tiran—
 <lb/>Giv, thy dear son, the refuge of the troops—
@@ -1201,7 +1201,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Tis not that fight with me disgraceth thee,
 <lb/>But ever since the battle of Pashan
 <lb/>Thou hast avoided Turkmans in the fray.
-<pb n="37"/>
+<pb n="4.37"/>
 <lb/>Thou didst approve me at Ladan and praise
 <lb/>My prowess on the field, and therefore now,
 <lb/>If it is even with thee as thou sayest,
@@ -1241,7 +1241,7 @@ impetuous Lions, brandishers of spears,
 <p>
 <lb/>Then to Human: <q> Depart, thou art a boy
 <lb/>In action, and intemperate of speech.
-<pb n="38"/>
+<pb n="4.38"/>
 <lb/>Thy words have made me know thee in and out.
 <lb/>Hath none among the Turkmans wit to think
 <lb/>Aright? Know’st not that on the day of battle
@@ -1283,7 +1283,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The shots of that Turdnian chief the guards
 <lb/>Gave way and fled, attempting no resistance.
 <lb/>He went toward the heights like one bemused,
-<pb n="39"/>
+<pb n="4.39"/>
 <lb/>And laid the mountains prostrate with his shouts:
 <lb/>He brandished round his head his spear and cried :—
 <lb/><q>Human, the son of Wisa, triumpheth !</q></p>
@@ -1320,7 +1320,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>My father! said I not so, point by point ?
 <lb/><q>Gudarz,</q> I said, <q>is failing in his wits;
 <lb/>Dost thou not see the change in him? His heart
-<pb n="40"/>
+<pb n="4.40"/>
 <lb/>Is full of fear, his liver full of blood
 <lb/>Through his exceeding grief for all his sons
 <lb/>Slain and beheaded on the battlefield.</q>
@@ -1361,7 +1361,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Though I am one of little wit, that thou
 <lb/>Hast made a pleasance of this battlefield,
 <lb/>And purged thy heart of warfare with the Turkmans!
-<pb n="41"/>
+<pb n="4.41"/>
 <lb/>The seventh day is hard at hand; but day
 <lb/>And night bring rest, not action, for the sun
 <lb/>Beholdeth not the warriors' scimitars,
@@ -1399,7 +1399,7 @@ impetuous Lions, brandishers of spears,
 <lb/>If thou canst meet him on the battletield,
 <lb/>For he is a malignant Ahriman,
 <lb/>And like a mail-clad mountain in the fray,
-<pb n="42"/>
+<pb n="4.42"/>
 <lb/>While thou art but a youth. Heaven scarce hath turned
 <lb/>Above thy head. Thou lovest not thyself.
 <lb/>Wait, and I will dispatch to fight with him
@@ -1438,7 +1438,7 @@ impetuous Lions, brandishers of spears,
 <lb/>If thou shalt vanquish thine antagonist
 <lb/>Thou shalt receive addition at my hands,
 <lb/>And shalt be greater than Farhad and Giv
-<pb n="43"/>
+<pb n="4.43"/>
 <lb/>In treasure and in troops, in throne and crown.</q>
 </p><p>
 <lb/>Thus spake the grandsire to the grandson—one
@@ -1481,7 +1481,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Think’st thou that all the warriors of the world
 <lb/>Will seek for fame in thine accoutrements,
 <lb/>And no chief aim at glory and renown
-<pb n="44"/>
+<pb n="4.44"/>
 <lb/>Unless he hath the arms of Siyawush ?</q></p>
 <p>
 <lb/>He spurred his charger from the troops around
@@ -1519,7 +1519,7 @@ impetuous Lions, brandishers of spears,
 <lb/>As to eclipse the radiance of the sun ?
 <lb/>Now thou art rushing on Human and turnest
 <lb/>Thy head from my behest, adopting thus
-<pb n="45"/>
+<pb n="4.45"/>
 <lb/>Thine own course, knowing not the task before thee!</q></p>
 <p>
 <lb/>Bizhan replied : <q>Turn not, my valiant sire !
@@ -1560,7 +1560,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>Turn back if thou art eager for the fray,
 <lb/>Bizhan is ready to contend with thee,
 <lb/>And thus he saith : <q>O veteran cavalier!
-<pb n="46"/>
+<pb n="4.46"/>
 <lb/>Why urgest thou thy steed about the field,
 <lb/>Sent by Afrasiyab to come to ill?
 <lb/>Thou shouldest have the curses of Turan;
@@ -1601,7 +1601,7 @@ impetuous Lions, brandishers of spears,
 <lb/>To-morrow, if thou comest to the field,
 <lb/>Thy king and host shall ne'er behold thee more,
 <lb/>And I will bear thy head so far away
-<pb n="47"/>
+<pb n="4.47"/>
 <lb/>That thou shalt cease to trouble for thy troops.</q>
 <lb/>They wheeled and sought their camps and paladins,
 <lb/>Then passed in troubled, vexed repose that night
@@ -1638,7 +1638,7 @@ impetuous Lions, brandishers of spears,
 <lb/>For his bold son. Wilt thou contend with me
 <lb/>Upon Mount Kandbad, or make the scene
 <lb/>Raibad, and far from aid on either side ?</q></p>
-<pb n="48"/>
+<pb n="4.48"/>
 <p>
 <lb/>Bizhan said: <q>Why this talk? Fight where thou wilt.</q></p>
 <p>
@@ -1677,7 +1677,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Thereafter they essayed each other’s strength ;
 <lb/>Each grasped his foeman’s girdle and endeavoured
 <lb/>To drag him from his steed and fling him down.
-<pb n="49"/>
+<pb n="4.49"/>
 <lb/>The stirrup-leathers in the violent strain
 <lb/>Snapped, but each rider still retained his seat,
 <lb/>And neither of them had the mastery.
@@ -1712,7 +1712,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Until high heaven’s own artifice was seen,
 <lb/>For, though Human was mightier, all prowess
 <lb/>Is but defect in him whose sun is set.
-<pb n="50"/>
+<pb n="4.50"/>
 <lb/>Bizhan put forth his hands like leopard’s claws
 <lb/>To catch upon Human where'er he could;
 <lb/>His left hand gripped his foeman’s neck, the right
@@ -1752,7 +1752,7 @@ impetuous Lions, brandishers of spears,
 <lb/>To worship him as Brahmans do an image
 <lb/>In Chin. He looked around the battlefield,
 <lb/>And saw no way save past the Turkman host,
-<pb n="51"/>
+<pb n="4.51"/>
 <lb/>And fearing lest that murderous multitude,
 <lb/>When they perceived the upshot of the fight,
 <lb/>Should come forth in a mountain-mass to battle
@@ -1793,7 +1793,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And all their frantic words availed them not,
 <lb/>Now when Bizhan in crossing 'twixt the hosts
 <lb/>Approached the shadow of the great king’s throne,
-<pb n="52"/>
+<pb n="4.52"/>
 <lb/>At once that warrior of lion-heart,
 <lb/>The army’s refuge, dipped the sable standard.
 <lb/>The watchmen of the Iranian host, perceiving
@@ -1833,7 +1833,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Bestowed them on Bizhan, and said: <q> Brave Lion!
 <lb/>None else had laid this Dragon low. Our host
 <lb/>Hast thou delivered by thy sword and hand,
-<pb n="53"/>
+<pb n="4.53"/>
 <lb/>And broken too the Turkman monarch’s heart,
 <lb/>While our own warriors like lions ride
 <lb/>On steeds which plunge and caracole in pride.</q></p></div>
@@ -1870,7 +1870,7 @@ impetuous Lions, brandishers of spears,
 <lb/>How men are wont to make a night-attack.</q></p>
 <p>
 <lb/>Gudarz said to the troops: <q> Be vigilant
-<pb n="54"/>
+<pb n="4.54"/>
 <lb/>And bright of heart, let every ear be open
 <lb/>To any indication of the foe.</q></p>
 <p>
@@ -1911,7 +1911,7 @@ impetuous Lions, brandishers of spears,
 <lb/>To him, he bade the scouts: <q> Dispatch at once
 <lb/>A cameleer to the Iranian host
 <lb/>That he may get me news of Nastihan,
-<pb n="55"/>
+<pb n="4.55"/>
 <lb/>Or if not I will pluck out both his eyes.</q></p>
 <p>
 <lb/>They instantly dispatched a cameleer,
@@ -1952,7 +1952,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The {rénian general occupied Ratbad,
 <lb/>And could not rest for his anxiety.
 <lb/><q>A mighty battle have we fought to-day,</q>
-<pb n="56"/>
+<pb n="4.56"/>
 <lb/>He said, <q>and slain the leaders of the foe,
 <lb/>And now methinketh that Piran will send
 <lb/>His king a cameleer and ask for succours
@@ -1988,7 +1988,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And set a crown upon his warriors' heads;
 <lb/>But if Piran shall come alone the troops _
 <lb/>Will need no help; Khusrau shall learn how I—
-<pb n="57"/>
+<pb n="4.57"/>
 <lb/>His slave—have by his fortune used Piran;
 <lb/>And furthermore the conquering Shah perchance
 <lb/>Will condescend to let his servant know
@@ -2029,7 +2029,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Beside the throne, and asked about Gudarz,
 <lb/>The leaders, and the rest. The prudent youth
 <lb/>Of ardent soul gave him the great men’s greetings,
-<pb n="58"/>
+<pb n="4.58"/>
 <lb/>Informed him fully of the host’s affairs, ;
 <lb/>Then gave the letter of the paladin.
 <milestone unit="vullers" n="1191"/>
@@ -2066,7 +2066,7 @@ impetuous Lions, brandishers of spears,
 <p>
 <lb/>The Shah then called a wise scribe and dispatched
 <lb/>A fair reply yet harsh in some regards.
-<pb n="59"/>
+<pb n="4.59"/>
 <lb/>He lauded first the paladin and said :-—</p>
 <p>
 <lb/><q>Live evermore and may thy soul be bright!
@@ -2106,7 +2106,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Acknowledge this and give Him all the praise.
 <lb/>And thirdly, thou hast said: <q> Afrasiyab
 <lb/>Will cross the river, having marched thereto
-<pb n="60"/>
+<pb n="4.60"/>
 <lb/>Because Pirdan hath sent to ask for aid.</q>
 <lb/>The matter is so, and we thus reply :—
 <lb/><q>Know, O my thoughtful sage, mine officer
@@ -2144,7 +2144,7 @@ impetuous Lions, brandishers of spears,
 <lb/>When he shall lead his host across the river,
 <lb/>And may none see the day of gloom and straitness
 <lb/>When he shall get the upper hand of us.
-<pb n="61"/>
+<pb n="4.61"/>
 <lb/>Now will I order Tus, that ardent chief
 <lb/>To mount the drums, seize Dahistin, Gurgan,
 <lb/>And lands around, and thus exalt his head
@@ -2181,7 +2181,7 @@ impetuous Lions, brandishers of spears,
 <lb/>To lead a host to Dahistan forthwith,
 <lb/>To occupy the whole waste of Kharazm,
 <lb/>Watch o'er Ashkash upon the day of battle,
-<pb n="62"/>
+<pb n="4.62"/>
 <lb/>And enter into combat like a pard.
 <lb/>Then from the court of Tus the tymbals, trumpets,
 <lb/>And kettledrums resounded, chief and host
@@ -2220,7 +2220,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Then all the men of name throughout the host
 <lb/>Came helmed before the throne, anon Hajir
 <lb/>Produced the letter of the glorious Shah,
-<pb n="63"/>
+<pb n="4.63"/>
 <lb/>And gave it to a scribe who read it out.
 <lb/>Gudarz brought into camp all steeds at grass,
 <lb/>And bade the quarter-masters do their office,
@@ -2256,7 +2256,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Indite a letter to the paladin,
 <lb/>Wherein he proffered first great praise to God—
 <lb/>His refuge from the potent Div—then said :—
-<pb n="64"/>
+<pb n="4.64"/>
 <lb/><q>In public and in private my one prayer 
 <lb/>To God, the All-ruler of the world, is this—
 <lb/>To ban this scene of strife between our hosts.
@@ -2294,7 +2294,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And make a fight of lions with me here,
 <lb/>Is all to win advantage for Iran,
 <lb/>So say and I will send a messenger
-<pb n="65"/>
+<pb n="4.65"/>
 <lb/>To ask Afrasiyab for his commands
 <lb/>That so we may divide earth, and lay by
 <lb/>The strife as in the days of Mintchihr
@@ -2332,7 +2332,7 @@ impetuous Lions, brandishers of spears,
 <lb/>This done I will recall from every side
 <lb/>My troops, and swear to be thy foe no longer.
 <lb/>Thou knowest that I have been friendly, true,
-<pb n="66"/>
+<pb n="4.66"/>
 <lb/>And upright. I will send Afrasiyab
 <lb/>Intelligence that we have ceased from strife ;
 <lb/>Do thou moreover look on us with favour,
@@ -2371,7 +2371,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Since justice and injustice are all one
 <lb/>To thee, and thou wouldst further spread the feud,
 
-<pb n="67"/>
+<pb n="4.67"/>
 <lb/>Choose out some chiefs that wield the massive mace,
 <lb/>And I too will select among my troops
 <lb/>Such warriors as are needful for the strife.
@@ -2411,7 +2411,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Rose, clasped Ruin, and asked about Piran,
 <lb/>The host, the mighty men, the king and realm.
 <lb/>Ruin then told his message and delivered
-<pb n="68"/>
+<pb n="4.68"/>
 <milestone unit="vullers" n="1202"/>
 <lb/>The letter, which a scribe approached and read
 <lb/>With all its goodly language and advice,
@@ -2448,7 +2448,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Yet art thou like those salt-marsh tracts which look
 <lb/>Afar like water when the sun is on them;
 <lb/>But lies and trickery are no avail el ttn nae *
-<pb n="69"/>
+<pb n="4.69"/>
 <lb/>When it is time for mace and spear and lasso.
 <lb/>I will have naught with thee but war and strife,
 <lb/>This is no time for parley and rejoinder,
@@ -2486,7 +2486,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Who tendered and supported Minuchihr
 <lb/>In seeking vengeance and in justifying
 <lb/>The world by Grace of his supremacy,
-<pb n="70"/>
+<pb n="4.70"/>
 <lb/>Tur was requited for his wickedness.
 <lb/>Thus much time passed until the evil strain
 <lb/>Had reached Afrasiyab through men of name
@@ -2525,7 +2525,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Thy loins in wreak for Siyawush?</q> And when
 <lb/>The just Judge asketh me about the blood
 <lb/>Of all those seventy noble sons of mine,
-<pb n="71"/>
+<pb n="4.71"/>
 <lb/>How shall I tell the Maker of the world
 <lb/>The motives that seduced me from revenge ?
 <lb/>And fourthly as to wreak for Siyawush
@@ -2563,7 +2563,7 @@ impetuous Lions, brandishers of spears,
 <lb/>For gallant Rustam with his trenchant sword
 <lb/>Hath raised therefrom a Resurrection-blast,
 <lb/>And hath despatched the prince of Hindustan,
-<pb n="72"/>
+<pb n="4.72"/>
 <lb/>Together with his black flag, to the Shah.
 <lb/>In Dahistaén, Kharazm, and in those parts
 <lb/>Where Turkmans ruled, the plains are cleared of those
@@ -2602,7 +2602,7 @@ impetuous Lions, brandishers of spears,
 <lb/>My valour and my fortune, are more great
 <lb/>Than thine, and I possess more men and treasure,
 <lb/>But out of love for thee my soul is sad.</q>
-<pb n="73"/>
+<pb n="4.73"/>
 <lb/>Methinketh that thou hast without a doubt
 <lb/>Proved me in war ere this. Thou know’st if thou
 <lb/>Hast found me wanting in the day of battle.
@@ -2640,7 +2640,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Thou mayst not dare excuse thyself and say :—
 <lb/><q>Thou camest on us unexpectedly,
 <lb/>Didst lie in wait, and gavest us no time.</q>
-<pb n="74"/>
+<pb n="4.74"/>
 <lb/>If I shall seek revenge a hundred years,
 <lb/>Or now at once, 'tis all the same to me.
 <lb/>There is no hope that I shall leave this feud;
@@ -2679,7 +2679,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Read out the letter to the paladin,
 <lb/>Whose cheek upon the instant grew like pitch.
 <lb/>His heart became all pain, his soul all dread ;
-<pb n="75"/>
+<pb n="4.75"/>
 <lb/>He recognised that his decline was near,
 <lb/>But took it patiently and silently,
 <lb/>And kept it from his troops whom afterward
@@ -2715,7 +2715,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>O righteous king who seeketh diadems!
 <lb/>Since first the vault of yonder lofty sky
 <lb/>Revolved above the sad, dark dust of earth
-<pb n="76"/>
+<pb n="4.76"/>
 <milestone unit="vullers" n="1211"/>
 <lb/>No king like thee hath sat upon the state;
 <lb/>The name of king hath not pertained to any;
@@ -2753,7 +2753,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Who ever knew a lofty cypress-tree
 <lb/>Killed by a blade of grass? This broke the hearts
 <lb/>Of our chief men, and happiness was dashed
-<pb n="77"/>
+<pb n="4.77"/>
 <lb/>By grief; moreover noble Nastihan,
 <lb/>With twice five thousand proven cavaliers,
 <lb/>Departed from me at the break of day,
@@ -2791,7 +2791,7 @@ impetuous Lions, brandishers of spears,
 <lb/>On hearing from Pirén such woeful tidings,
 <lb/>Grew sorely troubled and his colour changed,
 <lb/>He was heart-broken, grieving for the slain,
-<pb n="78"/>
+<pb n="4.78"/>
 <lb/>Whose hap became to him a lasting sorrow ;
 <lb/>He grieved too that his army had been worsted,
 <lb/>And country harried. War pressed everywhere,
@@ -2827,7 +2827,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Know thou that I, the king, am not aggrieved,
 <lb/>And never laid the matter to my heart,
 <lb/>So let not thine be straitened for this cause
-<pb n="79"/>
+<pb n="4.79"/>
 <lb/>Or fear disgrace. God will accomplish what
 <lb/>He hath decreed, and needeth not a teacher.
 <lb/>Call not Khusrau my grandson; it is false,
@@ -2865,7 +2865,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Or throne, or crown, or troops, or kettledrums,
 <lb/>But so attack Iran that none shall see
 <lb/>The Shah’s throne more. I will not leave the world
-<pb n="80"/>
+<pb n="4.80"/>
 <lb/>For Kai Khusrau, but take him unawares,
 <lb/>And let his mother mourn a headless son,
 <lb/>Unless the will of heaven be otherwise.
@@ -2905,7 +2905,7 @@ impetuous Lions, brandishers of spears,
 <lb/>His sleepless fortune turneth dust to musk !
 <lb/>Do one more marvel: let that noble man
 <lb/>Possess his soul in sorrow evermore !
-<pb n="81"/>
+<pb n="4.81"/>
 <lb/>Between two kings—a grandsire and a grandson—
 <lb/>I know not why this battlefield is needed.
 <lb/>What with two warlike monarchs of two realms,
@@ -2941,7 +2941,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Like rain descending from a darksome cloud.
 <lb/>The world was like a winter’s night<ref n="1"/> for murk,
 <note n="1">More literally <q> Like night (in the month) of Bahman.</q></note>
-<pb n="82"/>
+<pb n="4.82"/>
 <lb/>But what a murk! Its rain was shafts and swords!
 <lb/>The earth was iron with the horses' hoofs,
 <lb/>The warriors' breasts and hands were red with gore,
@@ -2981,7 +2981,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Was in reserve with shaft and sword; Gudarz
 <lb/>Bade him to go to Giv, the army’s Stay,
 <lb/>Bid him send reinforcements toward the mountain
-<pb n="83"/>
+<pb n="4.83"/>
 <lb/>And river, and withal leave in his stead
 <lb/>Some valiant man and hurry to the front.
 <lb/>Thereat the brave Hajir girt up his loins,
@@ -3022,7 +3022,7 @@ impetuous Lions, brandishers of spears,
 <lb/>And fill his heart with blood, his eyes with tears.</q></p>
 <p>
 <lb/>When Giv had ceased, his son girt up his loins,
-<pb n="84"/>
+<pb n="4.84"/>
 <lb/>And urged his steed on like Azargashasp.
 <lb/>Those heroes fell upon the foemen’s centre,
 <lb/>As they were lions on a hunting-day,
@@ -3057,7 +3057,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Then with his shield of wolf-skin o'er his head,
 <lb/>He dropped his spear, strung up his bow and drew it
 <lb/>In hope to pin Piran’s hand to his shield.
-<pb n="85"/>
+<pb n="4.85"/>
 <lb/>Four times he hit Piran’s breast, thrice his steed,
 <lb/>But neither horse nor rider suffered aught.
 <lb/>Piran, on Giv’s companions drawing near,
@@ -3096,7 +3096,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Lahhak and Farshidward, to challenge Giv,
 <lb/>And brave Lahhak thrust at his girdle, hoping
 <note n="1">Cf. EHI, i. 537, and the passages there quoted,</note>
-<pb n="86"/>
+<pb n="4.86"/>
 <lb/>To bring him from his saddle headlong down.
 <lb/>The coat of mail was shivered by the shock
 <lb/>Yet Giv lost not his stirrups, and his spear
@@ -3137,7 +3137,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Out of Mazandaran !</q></p>
 <p>
 <lb/>Upon Giv’s right
-<pb n="87"/>
+<pb n="4.87"/>
 <lb/>Gurdaza with a mace of Ruman steel
 <lb/>Came dust-swift to encounter Farshidward.
 <lb/>He rode a charger camel-like in bulk,
@@ -3172,7 +3172,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The earth with blood until all spirit went
 <lb/>From steeds and cavaliers, and mouths gave o'er,
 <lb/>For they could raise the battle-cry no more.
-<pb n="88"/>
+<pb n="4.88"/>
 <milestone unit="vullers" n="1224"/></p></div>
 <div type="textpart" subtype="section" n="26"><head>How Gudarz and Piran arranged a Battle of Eleven Rukhs<ref n="1"/></head>
 <p>
@@ -3211,7 +3211,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>My son!</q>
 <lb/>Gudarz replied, <q>my hand will take his life
 <note n="1">See p. 7.</note>
-<pb n="89"/>
+<pb n="4.89"/>
 <lb/>Assuredly, and in God’s strength shall I
 <lb/>Avenge on him my seventy sons beloved.</q></p>
 <p>
@@ -3251,7 +3251,7 @@ impetuous Lions, brandishers of spears,
 <lb/>When he enlarged his vengeance on {rin
 <lb/>He left the path of justice, law, and Faith ;
 <lb/>At last he slew the noble Siyawush,
-<pb n="90"/>
+<pb n="4.90"/>
 <lb/>And robbed our country of the breath of life.
 <lb/>When Giv came to Turdn how many hardships
 <lb/>Awaited him! his bed was dust, his pillow
@@ -3289,7 +3289,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Since death will fling its lasso at us all;
 <lb/>The end is one to die or to be slain,
 <lb/>We can but little trust the turning sky ;
-<pb n="91"/>
+<pb n="4.91"/>
 <lb/>And by the self-same token do ye likewise,
 <lb/>Armed with your lances and man-slaying swords,
 <lb/>Gird, all of you of any name, your loins
@@ -3329,7 +3329,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Gudarz was bright of heart at this, and cried :—
 <lb/><q>O paladins of our earth-ruling Shah!
 <lb/>Such ever is the wont of warriors,
-<pb n="92"/>
+<pb n="4.92"/>
 <lb/>Of noble Lions and brave cavaliers.</q></p>
 <p>
 <lb/>He bade the troops to mount and gird themselves
@@ -3370,7 +3370,7 @@ impetuous Lions, brandishers of spears,
 <lb/>About us from the army of Turan—
 <lb/>That they are slaying us upon the field,
 <lb/>And bearing to Turan our trunkless heads—
-<pb n="93"/>
+<pb n="4.93"/>
 <milestone unit="vullers" n="1229"/>
 <lb/>Avoid a battle and abide three days,
 <lb/>For on the fourth will come the famous Shah
@@ -3407,7 +3407,7 @@ impetuous Lions, brandishers of spears,
 <lb/><q>It is the part of God to conquer always.</q>
 <milestone unit="vullers" n="1230"/>
 <lb/>As for the world 'tis full of ups and downs,
-<pb n="94"/>
+<pb n="4.94"/>
 <lb/>And such that we walk fearfully therein.
 <lb/>This host that now attacketh fled from us
 <lb/>Erewhile. Let all of you that have regard
@@ -3448,7 +3448,7 @@ impetuous Lions, brandishers of spears,
 <milestone unit="vullers" n="1231"/>
 
 <lb/>Said to Lahhak and Farshidward: <q>Great chiefs!
-<pb n="95"/>
+<pb n="4.95"/>
 <lb/>The safety of the army of Turan
 <lb/>Must be your care upon this battlefield.
 <lb/>Set ye a watchman on the mountain-top
@@ -3483,7 +3483,7 @@ impetuous Lions, brandishers of spears,
 <lb/>A pact. If thou desirest so revenge
 <lb/>Advance thy soldiers from the mountain-foot,
 <lb/>And come thyself before them; then perchance
-<pb n="96"/>
+<pb n="4.96"/>
 <lb/>Thou wilt attain the vengeance that thou seekest.
 <lb/>We—thou and I—vwill wheel upon this field
 <lb/>Of battle and the others in like manner,
@@ -3521,7 +3521,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Hast come there is no room for tarrying,
 <lb/>So let us twain, with our hoar heads, contend
 <note n="1">Cf. Vol. ii., p. 363.</note>
-<pb n="97"/>
+<pb n="4.97"/>
 <lb/>Upon this battlefield. Do thou now choose
 <lb/>A band of champions to encounter mine,
 <lb/>Experienced chiefs with maces, swords, and lances,
@@ -3560,7 +3560,7 @@ impetuous Lions, brandishers of spears,
 <lb/>The generals, as much opposed by duty
 <lb/>As by religion, were athirst for blood,
 <note n="1">Id, p. 119.</note>
-<pb n="98"/>
+<pb n="4.98"/>
 <lb/>And sware together not to quit the field
 <milestone unit="vullers" n="1234"/>
 <lb/>Till one of them had proved victorious,
@@ -3602,7 +3602,7 @@ impetuous Lions, brandishers of spears,
 <milestone unit="vullers" n="1235"/>
 <lb/>(Such is the process of high heaven above—
 <lb/>The source to thee of grief and happiness! )
-<pb n="99"/>
+<pb n="4.99"/>
 <lb/>But saw that fighting was his only course;
 <lb/>The tyrant’s turn it was to suffer force.</p></div>
 <div type="textpart" subtype="section" n="29"><head>How Fariburz fought with Kulbéd</head>
@@ -3634,7 +3634,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Gurwi, when Giv was closing, dropped his bow
 <lb/>Tn terror and laid hold upon his sword,
 <lb/>But gallant Giv came Charging furiously,
-<pb n="100"/>
+<pb n="4.100"/>
 <lb/>While grasping in his hand an ox-head mace,
 <lb/>And, roaring like a mighty leopard, struck
 <lb/>His foeman’s casque and drenched his face with blood.
@@ -3668,7 +3668,7 @@ impetuous Lions, brandishers of spears,
 <lb/>Upon his steed, swift as Azargashasp
 <lb/>Remounted, took the horse of Siyamak,
 <lb/>And scaled the hill like one bemused with wine.
-<pb n="101"/>
+<pb n="4.101"/>
 <lb/>He held the glorious flag and proudly went
 <lb/>Rejoicing o'er his conquered enemy,
 <lb/>The victory of the Shah, and that high fortune
@@ -3699,7 +3699,7 @@ impetuous Lions, brandishers of spears,
 <lb/>With breast and hand and sword all drenched with gore.
 <lb/>He raised the glorious flag, glad-hearted he
 <lb/>At having gained his end triumphantly.
-<pb n="102"/>
+<pb n="4.102"/>
 </p></div>
 <div type="textpart" subtype="section" n="33"><head>How Ruhhdm fought with Bdarmdn</head>
 <p>
@@ -3734,7 +3734,7 @@ impetuous Lions, brandishers of spears,
 <lb/>But shot in vain. Then, brazen mace in hand,
 <lb/>Bizhan manceuvred for the vantage-ground,
 eet eel Mele et
-<pb n="103"/>
+<pb n="4.103"/>
 <lb/>And, with a rush earth-rending, smote Ruin
 <lb/>Upon the head ; his helm ran brains and blood.
 <lb/>There on the saddle gave he up sweet life,
@@ -3769,7 +3769,7 @@ eet eel Mele et
 <lb/>A cavalier unequalled in the host.
 <lb/>They went upon the ground, dark dust-clouds rose,
 <lb/>They fought together with their scimitars,
-<pb n="104"/>
+<pb n="4.104"/>
 <lb/>And made sparks stream from iron. Lion-like
 <lb/>The brave Hajir confronted Sipahram
 <lb/>Right manfully and, in the Maker’s name,
@@ -3804,7 +3804,7 @@ eet eel Mele et
 <lb/>And strapped it to the saddle. Having mounted
 <lb/>He led the Turkman’s charger, and then scaled
 <lb/>In haste the hill, his bow slung on his arm,
-<pb n="105"/>
+<pb n="4.105"/>
 <lb/>By God’s strength who had sheltered him from hurt,
 <lb/>And the victorious fortune of the Shah—
 <lb/>The world-lord. Thus returned triumphantly
@@ -3836,7 +3836,7 @@ eet eel Mele et
 <lb/>Surpassed all bounds, At length both were o'ercome
 <lb/>With their belabourings. Their Arabs jibbed ;
 <lb/>Thou wouldst have said : <q>They have no pulses left.</q>
-<pb n="106"/>
+<pb n="4.106"/>
 <lb/>The warriors when the sun began to sink,
 <lb/>And when the desert was a-glow like iron,
 <lb/>Were so exhausted that thou wouldst have said :—
@@ -3872,7 +3872,7 @@ eet eel Mele et
 <lb/>Thou wouldst have said: <q>The world is pitiless!
 <lb/>For one, whom it is tending with all care,
 <lb/>And dowering with days, it will prepare
-<pb n="107"/>
+<pb n="4.107"/>
 <lb/>A night-surprise amid his happiness,
 <lb/>And bring upon him obloquy and stress.
 <lb/>Both first and last we are the wind’s possession,
@@ -3911,7 +3911,7 @@ eet eel Mele et
 <lb/>Distressed by running and his injured hand,
 <lb/>And gained the top if so the paladin
 <lb/>Might not pursue. Gudarz, perceiving this,
-<pb n="108"/>
+<pb n="4.108"/>
 <lb/>Wept bitterly. He feared a change of fortune,
 <lb/>Well knowing its inconstancy and how
 <lb/>'Tis ever prone to tyranny. He shouted :—
@@ -3952,7 +3952,7 @@ eet eel Mele et
 <lb/>Gudarz thus wounded by Piran’s hand raged
 <lb/>For vengeance and sped forth a dart. It hit
 <lb/>Piran upon the breast, crashed through his mail,
-<pb n="109"/>
+<pb n="4.109"/>
 <lb/>Transfixed his liver, and came out behind.
 <lb/>Piran reeled and his head became distraught ;
 <milestone unit="vullers" n="1245"/>
@@ -3988,7 +3988,7 @@ eet eel Mele et
 <lb/>Descended from the hill toward the host,
 <lb/>Their slain opponents bound upon their saddles
 <lb/>According to the usages of war;
-<pb n="110"/>
+<pb n="4.110"/>
 <lb/>But since the paladin was not with them
 <lb/>A cry ascended both from old and young :—
 <milestone unit="vullers" n="1246"/>
@@ -4031,7 +4031,7 @@ eet eel Mele et
 <lb/>Gudarz replied: <q> When war
 <lb/>Began to press methought : <q> Afrasiyab
 <lb/>Will lead his host to this side of the river.
-<pb n="111"/>
+<pb n="4.111"/>
 <lb/>His troops have been at rest from strife and toil
 <lb/>While mine are spent with hurry.</q> So I sent
 <lb/>A prudent man and gave the Shah much counsel.
@@ -4072,7 +4072,7 @@ eet eel Mele et
 <lb/>With hues of yellow, red, and violet,
 <lb/>As 'twere a silken banner, while afar
 <lb/>A glorious standard like a cypress-tree
-<pb n="112"/>
+<pb n="4.112"/>
 <lb/>Appeareth, round it are mailed cavaliers,
 <lb/>And earth throughout is violet-hued with steel.
 <lb/>Flag followeth flag, and some are charged with dragons
@@ -4108,7 +4108,7 @@ eet eel Mele et
 <lb/>And wailing for their brother’s blood, they cried
 <lb/>In their affliction: <q> O thou Lion, chief
 <lb/>Of Turkmans, and undaunted cavalier !
-<pb n="113"/>
+<pb n="4.113"/>
 <lb/>What do thy greatness and thine uprightness
 <lb/>Avail since thou hast willed to quit the world ?
 <lb/>Our foes have everything for which they toiled ;
@@ -4148,7 +4148,7 @@ eet eel Mele et
 <p>
 <lb/>They answered: <q> Who hath limited God’s will ?
 <lb/>He brought it on Piran thus to be slain
-<pb n="114"/>
+<pb n="4.114"/>
 <lb/>In battle wretchedly and miserably,
 <lb/>To be beheaded by the scimitar,
 <lb/>And have no winding-sheet but grimy dust,
@@ -4186,7 +4186,7 @@ eet eel Mele et
 <lb/>If ye are purposed to return to land,
 <lb/>And throne, the {ranians surely will not hinder.
 <lb/>If ye would ask for quarter from the Shah a aa i
-<pb n="115"/>
+<pb n="4.115"/>
 <lb/>Ye must bestir yourselves and go at once;
 <lb/>Each man of you is master of his fate,
 <lb/>And if your hearts are set upon Iran
@@ -4222,7 +4222,7 @@ eet eel Mele et
 <p>
 <lb/>Now, when the host thus answered, those two chiefs—
 <lb/>Lahhak and Farshidward—arose. They knew :—
-<pb n="116"/>
+<pb n="4.116"/>
 <lb/><q>Tis not their time for war, the troops are right :—
 <lb/>A flock without a shepherd perisheth.</q></p>
 <p>
@@ -4263,7 +4263,7 @@ eet eel Mele et
 <lb/>Not one among the Iranians volunteered,
 <lb/>For they were spent, their reins were galled with iron,
 <lb/>Save Gustaham, in fight a lion grim,
-<pb n="117"/>
+<pb n="4.117"/>
 <lb/>Who said: <q>O thou who dost deserve a throne!
 <lb/>On going forth to combat with the Turkmans
 <lb/>Thou gavest me the drums, the camp-enclosure,
@@ -4302,7 +4302,7 @@ eet eel Mele et
 <lb/>And, seeing him, spake loudly and at large :—
 <lb/><q>O paladin ! it sorteth ill with wisdom
 <lb/>Thus to surrender every man of name
-<pb n="118"/>
+<pb n="4.118"/>
 <lb/>In thy command to wanton massacre,
 <lb/>And make the turning sky responsible!
 <lb/>Two lusty warriors of the Turkman host
@@ -4345,7 +4345,7 @@ eet eel Mele et
 <lb/>Not when the foes are sending up his dust.
 <lb/>When he is slain, and all is over with him,
 <lb/>What profit will it be to send a horseman
-<pb n="119"/>
+<pb n="4.119"/>
 <lb/>To find him slaughtered and his head in blood ?
 <lb/>So order me, who am concerned for him,
 <lb/>To gird my girdle tightly in this quest;
@@ -4382,7 +4382,7 @@ eet eel Mele et
 <lb/>Ten days and nights hast thou been in the saddle,
 <lb/>And borne the vengeful sword against the foe ;
 <lb/>Thou hast been galled by coat of mail and helm:
-<pb n="120"/>
+<pb n="4.120"/>
 <lb/>Wilt thou be never satiate with blood ?
 <lb/>Since He that giveth good hath given us
 <lb/>The victory, we ought to rest with joy.
@@ -4425,7 +4425,7 @@ eet eel Mele et
 <lb/>His blessing on his son, then left him, saying :—
 <lb/><q>Go conquering and come again with joy,
 <lb/>Heart-easéd, having bound the hands of evil.</q>
-<pb n="121"/>
+<pb n="4.121"/>
 <lb/>Bizhan made haste to follow Gustaham
 <lb/>Lest ill should come upon him from Turan.
 <lb/>Now when Lahhak and Farshidward had passed ~
@@ -4460,7 +4460,7 @@ eet eel Mele et
 <lb/><q>Whenas the lion from the wolf shall flee
 <lb/>Let not the wolf go in pursuit, for he
 <lb/>Will bring upon himself calamity.</q>
-<pb n="122"/>
+<pb n="4.122"/>
 <lb/>Ho! rouse thee, for an army from Iran
 <lb/>Hath cut us off!</q></p>
 <p>
@@ -4499,7 +4499,7 @@ eet eel Mele et
 <lb/>His head rolled under foot as 'twere a ball,
 <lb/>And all his battles.and his warfare ended.
 <lb/>Such usage hath the turning sky above,
-<pb n="123"/>
+<pb n="4.123"/>
 <lb/>Withdrawing from its fosterlings its love!
 <milestone unit="vullers" n="1260"/>
 <lb/>Wouldst thou its head? A foot will offered be!
@@ -4535,7 +4535,7 @@ eet eel Mele et
 <lb/>Far off a dun steed like one ridden post.
 <lb/>It pranced and grazed, like leopards at their ease,
 <lb/>With saddle underneath and broken reins.
-<pb n="124"/>
+<pb n="4.124"/>
 <lb/>Bizhan descried the saddle upside down,
 <lb/>The stirrups and the lasso drenched with blood,
 <lb/>A sight whereat his wits abandoned him,
@@ -4575,7 +4575,7 @@ eet eel Mele et
 <lb/>Than mine own death. Re-helm my wounded head,
 <lb/>And make some shift to bear me to the Shah. ,
 <lb/>God grant that I may live to look on him,
-<pb n="125"/>
+<pb n="4.125"/>
 <lb/>And then I shall not fear the approach of death,
 <lb/>For none of us may couch save in the dust.
 <milestone unit="vullers" n="1262"/>
@@ -4615,7 +4615,7 @@ eet eel Mele et
 <lb/>Because he had achieved complete revenge.
 <milestone unit="vullers" n="1263"/>
 <lb/>He bade the Turkman, who had begged his life,
-<pb n="126"/>
+<pb n="4.126"/>
 <lb/>To place those two commanders of the host
 <lb/>Upon a saddle, then like some fierce pard
 <lb/>Returned to Gustaham, raised him like wind
@@ -4650,7 +4650,7 @@ eet eel Mele et
 <lb/>Whose bodies, arms, and mail were smirched with blood.
 <lb/>The champions followed thus behind the host,
 <lb/>And in their turn saluted Kai Khusrau.
-<pb n="127"/>
+<pb n="4.127"/>
 <lb/>Gudarz went on his way toward the Shah,
 <lb/>And lighted on beholding him far off;
 <lb/>Then, having drawn anigh, did reverence,
@@ -4691,7 +4691,7 @@ eet eel Mele et
 <lb/>And hast for my sake laboured strenuously.
 <lb/>This man deplored the blood of Siyawush,
 <lb/>And in that matter gave offence to none.
-<pb n="128"/>
+<pb n="4.128"/>
 <lb/>So friendly was he yet became a foe,
 <lb/>And filled the country of Iran with fear,
 <lb/>For Ahriman seduced his heart and turned
@@ -4730,7 +4730,7 @@ eet eel Mele et
 <lb/>Such as befitted men of high degree.
 <lb/>They placed the Turkman paladins thereon
 <lb/>With belted waists and crowns upon their heads.
-<pb n="129"/>
+<pb n="4.129"/>
 <lb/>Such is the world in its perfidiousness!
 <lb/>It raiseth oft and bringeth down no less,
 <lb/>So that the sage’s heart must ever be,
@@ -4766,7 +4766,7 @@ eet eel Mele et
 <lb/>Then from the Turkman troops still on the field,
 <lb/>O'er whom Piran had held command, there came
 <lb/>A prudent envoy to the Shah, and said :—
-<pb n="130"/>
+<pb n="4.130"/>
 <lb/><q>We are the slaves and servants of the Shah,
 <lb/>And take no step unless at his command.
 <lb/>None can escape the providence of God
@@ -4805,7 +4805,7 @@ eet eel Mele et
 <lb/>And bade them come before him. So they came
 <lb/>At his desire to seek to clear themselves,
 <lb/>And as they laid their heads upon the ground
-<pb n="131"/>
+<pb n="4.131"/>
 
 <lb/>Their hearts were full, their eyes shed vengeful tears.
 <lb/>Then looking up to heaven the monarch said :—
@@ -4845,7 +4845,7 @@ eet eel Mele et
 <milestone unit="vullers" n="1269"/>
 <lb/>The monarch of the world bade them surrender
 <lb/>Their armour, falchions, spears, and javelins.
-<pb n="132"/>
+<pb n="4.132"/>
 <lb/>Those haughty Turkmans piled up to the moon
 <lb/>Their armour for the steeds and Ruman helms,
 <lb/>And then they set up all around the heap
@@ -4883,7 +4883,7 @@ eet eel Mele et
 <lb/><q>O lion-man! how went it on the field ?</q></p>
 <p>
 <lb/>Bizhan then told the tale of Gustaham,
-<pb n="133"/>
+<pb n="4.133"/>
 <lb/>Lahhak, and valiant Farshidward, the plight
 <milestone unit="vullers" n="1270"/>
 <lb/>And wounds of Gustaham, the fight between
@@ -4924,7 +4924,7 @@ eet eel Mele et
 <lb/>The monarch of the world, on seeing him,
 <milestone unit="vullers" n="1271"/>
 <lb/>Said to the Iranians: <q>Through the grace of God
-<pb n="134"/>
+<pb n="4.134"/>
 <lb/>We all are fortunate and happy now;
 <lb/>When we had gained the day did not our grief
 <lb/>For Gustaham subdue our mirthfulness ?
@@ -4959,11 +4959,11 @@ eet eel Mele et
 <lb/>By that impetuous Shah—the wreak that he
 <lb/>Sought on Afrasiyab laboriously.
 </p>
-<pb n="135"/>
+<pb n="4.135"/>
 </div>
 </div>
 <div type="textpart" subtype="part" n="7"><head>THE GREAT WAR OF KAI KHUSRAU WITH AFRASIYAB</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>
 The poet begins with an elaborate prelude wherein he eulogizes
 Mahmud and then continues his story of the reign as follows:
@@ -4978,7 +4978,7 @@ persists in giving up the throne, appoints Luhrasp to be his successor, rides wi
 e.g. Ighriras and Kiran. The son of Tis is also mentioned, and it is probable that the Zardsp slain by Farid in Part I. of this reign is intended. Such names are the common property of Afrasiyab’s son Shida is also called Pashang. We keep 
 different and often inconsistent traditions.</p>
 <p>Afrasiyab's son Shida is also called Pashang. We keep
-<pb n="136"/>
+<pb n="4.136"/>
 invariably to the former name, as there are other Pashangs—the father of Afrasyiab and the father of Minuchihr.</p>
 <p>§12. Afrasyiab’s brother, whose head Kai Khusrau sends to
 Kai Kaus, is apparently the Ighriras mentioned on p. 156. According to another tradition Afrasiyib had slain his brother Ighriras long before for treachery.<ref n="1"/></p>
@@ -4999,7 +4999,7 @@ Afrasyiab, we are told, made his residence in Mount Bakyir.<ref n="6"/> We learn
 <note n="4">Properly Chijast. </note>
 <note n="5">See DZA, ii. 66, note. SDS i 225 </note>
 <note n="6">WPT, 1.38.</note>
-<pb n="137"/>
+<pb n="4.137"/>
 this palace was an iron one, underground, a thousand times the height of a man, and with a hundred columns. In that palace he made the stars, the moon, and the sun go round, making the light of day. In that palace he did everything at his pleasure, and lived the happiest life, but with all his strength and witchcraft could not escape Astivihad (the demon of death).<ref n="1"/> Here too he sacrificed a hundred male horses, a thousand oxen and ten thousand lambs that he might seize the Glory that was in the sea Vouru-Kasha and belonged to the Aryan people.<ref n="2"/> Three times he sought to seize it in the sea Vouru-Kasha, stripping himself naked in his desire to seize that Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathustra. But the Glory escaped, the Glory fled away, the Glory changed its seat. Then the most crafty Turanian Frangrasyan (Afrasyiab)
 rushed out of the sea Vouru-Kasha, thinking evil thoughts: <q>I
 have not been able to conquer the Glory.</q> <ref n="3"/></p>
@@ -5020,7 +5020,7 @@ giving gifts, sacrificing, and entreating that she would give him that boon.<ref
 <note n="4">Td. 278.</note>
 <note n="5">Id. 304. </note>
 <note n="6">Id. 114.</note>
-<pb n="138"/>
+<pb n="4.138"/>
 thee fettered, as he bound the fell Turanian Frangrasyan (the murderous robber) fast in iron close-surrounded in the mid-third of this earth!</q><ref n="1"/></p>
 <p>
 The original version of the story therefore would seem to have been that Afrasiyab built himself an underground palace where he offered sacrifice to obtain the Glory of the Iranian race, but vainly. He then attempted three times to seize it by force and again failed. Haoma then captured him in his palace and handed him over to Husravah, who slew him. Firdausi, it will be observed,
@@ -5039,7 +5039,7 @@ Arjuna and the twins, and Draupadi also of great fame,<ref n="4"/> similarly cla
 <note n="2">See Vol. i. p. 8. </note>
 <note n="3">DZA, ii. 327.</note>
 <note n="4">Draupadi was the joint wife of the five Pandavas.</note>
-<pb n="139"/>
+<pb n="4.139"/>
 Draupadi forming the sixth, and a dog forming the seventh, set out on their journey. . . . The citizens and the ladies of the royal household followed them for some distance. . . . The denizens of the city then returned </q> to their new ruler and to the new situation caused by the renunciation of the Pandavas. The seven pilgrims meanwhile had set out upon their journey. They first wandered eastward, then southward, and then westward. Lastly they faced northward and crossed the Himavat. Then they beheld before them a vast desert of sand and beyond it Mount Meru. One by one the pilgrims sank exhausted and expired, first Draupadi, then the twins, then Arjuna, and then Bhima; but Yudhishthira, who never even looked back at his fallen comrades, still pressed on and,
 followed by the faithful dog, who turns out to be Dharma, the god of righteousness, in disguise, entered Heaven in his mortal body, not having tasted death.<ref n="1"/></p>
 <p>On comparing this legend with that of the text it will be seen that, in spite of natural differences of detail, the resemblances are too numerous and close to be wholly accidental. In both legends two kings, after triumphing over their mortal foes in a great war,
@@ -5055,7 +5055,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>With his munificence, what while the fame
 <note n="1">RM, Maháprasthánika Parva. There is a more accessible English version in the late Sir Edwin Arnold’s <q>Indian Idylls,</q> p. 244.</note>
 <note n="2">Cf. pp. 273, 303, 308.</note>
-<pb n="140"/>
+<pb n="4.140"/>
 <lb/>Of majesty is heightened by his name.
 <lb/>From sea to sea hosts answer to his call,
 <lb/>The Glory of his crown is over all;
@@ -5093,7 +5093,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Chiefs' heads in fight—be Shah, the moon be crowned
 <lb/>By his high star, world without end, forwhy
 <note n="1"><q>une mer de générosité</q> (Mohl).</note>
-<pb n="141"/>
+<pb n="4.141"/>
 <lb/>He is the Adornment of the radiant sky,
 <lb/>At feasts a Cloud bestowing bounteously,
 <lb/>And dowered with wisdom, justice, and renown.
@@ -5131,7 +5131,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>While three score years and five were passing by,
 <lb/>Like spring-winds o'er the desert, poverty
 <lb/>And toil were mine; next year like one bemused
-<pb n="142"/>
+<pb n="4.142"/>
 <lb/>I leaned upon a staff, my hands refused
 <lb/>The rein, my cheeks grew moon-like pale, my beard
 <lb/>Lost its black hue and camphor-like appeared,
@@ -5170,7 +5170,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The lord of splendour and exalted aim,
 <lb/>Beyond the reach of calumny and blame,
 <lb/>At whose voice crocodiles in water crack
-<pb n="143"/>
+<pb n="4.143"/>
 <lb/>Their skins, and leopards on the desert-track,
 <lb/>Mahmud, the world-lord, like the sun in light,
 <lb/>A Lion with a scimitar in fight,
@@ -5209,7 +5209,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>So long as round the earth the heaven shall spin,
 <lb/>And Jupiter pursue its course therein,
 <lb/>May he continue in his grace and pride—
-<pb n="144"/>
+<pb n="4.144"/>
 <lb/>No evil eye, no want unsatisfied !
 <lb/>I now resume mine old-world legendry
 <lb/>From true traditions. As time’s course I see
@@ -5248,7 +5248,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Yet must he pass hence to the other land,
 <lb/>And leave his toils behind just as they stand.
 <note n="1">The same word in the original means a net and sixty.</note>
-<pb n="145"/>
+<pb n="4.145"/>
 <lb/>Think of Shah Kai Khusrau, for now thou hast
 <lb/>To treat as new the doings of the past.
 <lb/>He, having slain his grandsire, passed away ;
@@ -5283,7 +5283,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Chose envoys fluent, shrewd, and well advised,
 <lb/>And sent this letter in the ancient tongue
 <lb/>To all the chiefs and nobles: <q>Kai Khusrau,
-<pb n="146"/>
+<pb n="4.146"/>
 <lb/>The victor, seated on his elephant,
 <lb/>Hath dropped the ball; the land is like the Nile.
 <lb/>Let there be neither rest nor sleep for you,
@@ -5322,7 +5322,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>A worldlord and a man both wise and holy,
 <lb/>Shammakh, who was the native king of Sur,
 <lb/>Girt for the fray, and, greater still, Karan,
-<pb n="147"/>
+<pb n="4.147"/>
 <lb/>The fighting-man, victorious everywhere,
 <lb/>The shatterer of hosts, who ruled Khawar,
 <lb/>A worldlord, wary, and imperious.
@@ -5360,7 +5360,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The warriors from Baghdad who were with Zanga,
 <lb/>The son of Shawardin, picked men of Karkh—
 <lb/>He ordered with their arbalists to take
-<pb n="148"/>
+<pb n="4.148"/>
 <lb/>Their place afoot before the elephants,
 <lb/>And had two miles of mountain fronted them
 <lb/>They would have pierced the rocks' hearts with their arrows ;
@@ -5397,7 +5397,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Their leader and their guardian in the quest
 <lb/>Of fame was Mintchihr, son of Arash.
 <note n="1"><q>de l'Occident </q> (Mohl). </note>
-<pb n="149"/>
+<pb n="4.149"/>
 <lb/>There was a man of name too of the race
 <lb/>Of Gurikhan—a king and of the seed
 <lb/>Of Kai Kubad: his name was King Firiz—
@@ -5436,7 +5436,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>And bade the son of Tus to make the rounds
 <note n="1">P, has: <q>And to support Giidarz, son of Kishwad.</q></note>
-<pb n="150"/>
+<pb n="4.150"/>
 <lb/>Throughout the host with trump and kettledrum
 <lb/>To stay from unjust deeds the hand of him
 <lb/>That did not worship God, to see that none
@@ -5470,7 +5470,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The more part were in arms, prepared for war.
 <lb/>Whate'er existed on that hilly march, 
 <lb/>Upon the trees or growing on the ground,
-<pb n="151"/>
+<pb n="4.151"/>
 <lb/>The troops consumed it all—both fruit and leaf.
 <lb/>The world was bent on death. The Turkman king
 <lb/>Was at Baigand, surrounded by his kindred
@@ -5508,7 +5508,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>A cavalier came swift as dust with tidings
 <lb/>About him, and the wounded straggled in,
 <lb/>Withal lamenting, dust upon their heads,
-<pb n="152"/>
+<pb n="4.152"/>
 <lb/>Each with his own account of injuries
 <lb/>Inflicted by Iran upon Turan,
 <lb/>Told of Piran, Lahhak, and Farshidward,
@@ -5547,7 +5547,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>My swordsmen and my men of high emprise,
 <lb/>On base-born Kai Khusrau, and may the seed
 <lb/>Of Siyawush be lacking to the world.</q>
-<pb n="153"/>
+<pb n="4.153"/>
 <lb/>While he bewailed those tidings news arrived
 <lb/>Of Kai Khusrau: <q>A host is near Jihun,
 <lb/>And all the realm’s face is o'erspread with troops.</q></p>
@@ -5588,7 +5588,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>He sent his forces out on every side,
 <lb/>Employing much resourceful stratagem,
 <lb/>But 'twas the ordinance of holy God
-<pb n="154"/>
+<pb n="4.154"/>
 <lb/>That that unrighteous king should be destroyed.
 <lb/>At night he sat in conclave with the wise,
 <lb/>With world-experienced, prudent archimages :
@@ -5627,7 +5627,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/><q>The many troops engaged in this campaign
 <lb/>Will need supplies and grass and halting-places.
 <lb/>There is beside the river of Gilan
-<pb n="155"/>
+<pb n="4.155"/>
 <lb/>A route with fodder and encamping-grounds
 <lb/>Where men of vigilance may bring provisions
 <lb/>By water to the army. On the way
@@ -5665,7 +5665,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Their heads away though stones rained from the clouds.
 <lb/>The king chose of his grandsons one who used
 <note n="1">i.e. The shining one,</note>
-<pb n="156"/>
+<pb n="4.156"/>
 <lb/>To cut his collops out of lions' backs
 <lb/>As leader of the right wing of the host,
 <lb/>Which hid the sun itself in clouds of dust.
@@ -5700,7 +5700,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The road with elephants. Afrasiyab,
 <lb/>The world-illuming monarch, kept before
 <lb/>His soldiers' eyes Nimruz as Cynosure.
-<pb n="157"/>
+<pb n="4.157"/>
 </p></div>
 <div type="textpart" subtype="section" n="4"><head>How Kai Khusrau had Tidings that Afrasiyab advanced to fight with him</head>
 <p>
@@ -5738,7 +5738,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And, having not expected such a host,
 <lb/>So many elephants and men of war,
 <lb/>He strengthened his position with a fosse,
-<pb n="158"/>
+<pb n="4.158"/>
 <lb/>And spread his scouts about on every side.
 <lb/>He filled the fosse with water when night came
 <lb/>Upon the side toward Afrasiyab,
@@ -5774,7 +5774,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>No monarch under heaven hath Grace like thine,
 <lb/>And neither sun nor moon opposeth thee ;
 <lb/>An iron mount would run as 'twere a river
-<pb n="159"/>
+<pb n="4.159"/>
 <lb/>If it should hear the name Afrasiyab.
 <milestone unit="vullers" n="1291"/>
 <lb/>Earth is not able to sustain thy host,
@@ -5812,7 +5812,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And will bear witness that my words are true.
 <lb/>What need have armies for astrologers ?
 <lb/>The brave seek honour with their scimitars.
-<pb n="160"/>
+<pb n="4.160"/>
 <lb/>The horsemen on the right are all for battle,
 <milestone unit="vullers" n="1292"/>
 <lb/>And, if the king permitteth, I will leave
@@ -5852,7 +5852,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And fill the wastes with our foes' blood.</q></p>
 <p>
 <lb/>Then Shida :—
-<pb n="161"/>
+<pb n="4.161"/>
 <lb/><q>Sire! fight not thus. First of our warriors
 <lb/>Am I—a brazen-bodied cavalier—
 <lb/>And have seen none who in the battle-day
@@ -5889,7 +5889,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And may thy foemen’s heads be overturned.
 <lb/>Convey a message unto Kai Khusrau
 <lb/>Forme and say: <q> The world is changed indeed!
-<pb n="162"/>
+<pb n="4.162"/>
 <lb/>The grandson waging war upon his grandsire
 <lb/>Must have a head all guile and wickedness,
 <lb/>Was it the Maker’s aim to fill the world
@@ -5927,7 +5927,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Turn Mount Gang to a sea, shall be thy brothers, :
 <lb/>And I will bid the Turkmans to withdraw
 <lb/>From all tracts that thou claimest for Iran,
-<pb n="163"/>
+<pb n="4.163"/>
 <lb/>And such ancestral treasures as I have—
 <lb/>Dinars, crowns, horses, thrones, and battle-gear,
 <lb/>Left to me by my father’s sire Zadsham,
@@ -5965,7 +5965,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Wait that the troops may rest them for the night.
 <lb/>Then when the mountains don their golden crowns,
 <lb/>And when the dark night, drawing back its skirt,
-<pb n="164"/>
+<pb n="4.164"/>
 <lb/>Shall hide its head beneath a veil of hair,
 <lb/>Let us make choice of warriors from the host—
 <lb/>Men of exalted rank with massive maces—
@@ -6004,7 +6004,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And said to the Iranians: <q> Dispatch
 <lb/>A horseman.in due form to Kai Khusrau
 <lb/>To say: <q>An ardent spirit, Shida hight,
-<pb n="165"/>
+<pb n="4.165"/>
 <lb/>Hath brought a message from the king of Chin—
 <lb/>The father of the mother of the Shah.</q></q>
 <lb/>A horseman galloped from the Iranian outpost,
@@ -6043,7 +6043,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>But my heart is fulfilled with ancient griefs.
 <lb/>May be he striveth to affect my mind,
 <note n="1">V. has a fresh heading here; but, as it occurs again in its proper place later on, the arrangement of the text as given in C., which makes no break here, has been adopted.</note>
-<pb n="166"/>
+<pb n="4.166"/>
 <lb/>And fright me with the greatness of his host,
 <lb/>Unwitting that high heaven turneth not
 <lb/>As we desire when evil days are toward.
@@ -6082,7 +6082,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And drachms which Tir erst hoarded for Zadsham,
 <lb/>Besides the golden throne, the princes' crowns,
 <lb/>The golden girdles, and the massive maces,
-<pb n="167"/>
+<pb n="4.167"/>
 <lb/>To thee, if so he may avert this trouble.
 <lb/>He will abandon too all lands which thou
 <lb/>Lay’st claim to as belonging to Iran;
@@ -6122,7 +6122,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The Iranians, sorry for their fault, excused
 <lb/>Themselves and said to him: <q> We are but slaves
 <lb/>And speak as love dictateth. High renown
-<pb n="168"/>
+<pb n="4.168"/>
 <lb/>Is all the object of the king of kings,
 <lb/>The noble outcome of his enterprises :
 <lb/>Let not the worldlord, the supreme, reproach us
@@ -6158,7 +6158,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>Khusrau then bade Karan, his faithful liege,
 <lb/>To go back with this answer from the Shah :—
-<pb n="169"/>
+<pb n="4.169"/>
 <lb/><q>Our controversy hath grown long and stubborn
 <lb/>Till matters now have reached a pass indeed !
 <lb/>A man of honour and a warrior
@@ -6196,7 +6196,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Thou hast come here alone within the net,
 <lb/>Not come in quest of fame, or to deliver
 <lb/>Thy father’s message, but by adverse fate:
-<pb n="170"/>
+<pb n="4.170"/>
 <lb/>The Worldlord hath impelled thee from the host,
 <lb/>And here will be thy shroud and sepulchre ;
 <lb/>Harm will befall thee for that harmless head,
@@ -6232,7 +6232,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Upon the field shall meet Khusrau and I,
 <lb/>And from him will I make the dark dust fly.</q>
 <note n="1">See Vol. ii. p. 232.</note>
-<pb n="171"/></p></div>
+<pb n="4.171"/></p></div>
 <div type="textpart" subtype="section" n="8"><head>How Kai Khusrau fought with Shida the Son of Afrasyiab</head>
 <p>
 <lb/>Whenas the azure Veil grew bright, and when
@@ -6270,7 +6270,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>But hearken to Ruhham, son of Gudarz.
 <lb/>By noontide ye shall see which will be worsted :
 <lb/>If Shida then shall prove the conqueror
-<pb n="172"/>
+<pb n="4.172"/>
 <lb/>Look for instructions for the fight to Rustam,
 <lb/>Be all of you obedient to his word,
 <lb/>And keep in trouble near your remedy,
@@ -6310,7 +6310,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>I may not send a meaner opposite.
 <lb/>So now do thou select a battleground
 <lb/>That shall be far removed from both the hosts.</q></p>
-<pb n="173"/>
+<pb n="4.173"/>
 <p>
 <lb/>They made this compact: <q>None shall fight in aid
 <lb/>From either side, and for our standard-bearers
@@ -6352,7 +6352,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Good sooth I am within the Dragon’s breath !</q></p>
 <p>
 <lb/>He said: <q> All warriors fight with sword and lance,
-<pb n="174"/>
+<pb n="4.174"/>
 <lb/>And wheel about, but let us fight, O Shah !
 <lb/>Afoot and stretch our hands out lion-like.</q></p>
 <p>
@@ -6395,7 +6395,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Beheld a warrior of such strength, such Grace,
 <lb/>And mastery on any field, yet still
 <lb/>A grave is better for me than retreat
-<pb n="175"/>
+<pb n="4.175"/>
 <lb/>When once I am engaged in fight; moreover,
 <lb/>Though we may tread upon a dragon’s eyes,
 <lb/>We cannot ’scape the process of the heavens,
@@ -6431,7 +6431,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>In words, reached out, strong in the strength of Him
 <lb/>By whom the world was made—the Omnipotent—
 <lb/>And, as a lion putteth forth its paws
-<pb n="176"/>
+<pb n="4.176"/>
 <lb/>Upon an onager and flingeth it,
 <lb/>Clutched with left hand the neck, with right the back
 <lb/>Of Shida, raised him, dashed him to the ground,
@@ -6472,7 +6472,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Dust on his head. His paladins drew nigh,
 <lb/>And all who saw the Turkman monarch’s face
 <lb/>Rent hearts and garments for him; such a wail
-<pb n="177"/>
+<pb n="4.177"/>
 <lb/>Of lamentation went up from the troops
 <lb/>That sun and moon were moved to pity them.
 <lb/>Then said Afrasiyab in his distress :—
@@ -6508,7 +6508,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>When Sol was rising in the Sign of Taurus,
 <lb/>And when the lark was singing o'er the plain,
 <note n="1">Cf. p. 85 and note.</note>
-<pb n="178"/>
+<pb n="4.178"/>
 <lb/>A sound of kettledrums arose in camp,
 <lb/>A din of tymbals and of clarions,
 <milestone unit="vullers" n="1309"/>
@@ -6548,7 +6548,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Against the offspring of Zadsham, he came
 <lb/>With shoutings to the centre of the host,
 <lb/>And set his glorious helm upon his head.
-<pb n="179"/>
+<pb n="4.179"/>
 <lb/>The battle-cry arose, the din of horn,
 <lb/>Of brazen trumpet and of kettledrum.
 <lb/>The opposing forces came on mountain-like,
@@ -6588,7 +6588,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <milestone unit="vullers" n="1311"/>
 <lb/>He shouted: <q>O ye famous men of war!
 <lb/>Why do ye cramp yourselves and crowd about
-<pb n="180"/>
+<pb n="4.180"/>
 <lb/>The elephants? The fight extendeth miles.
 <lb/>Draw from the centre and the towers, spread wide
 <lb/>To right and left.</q></p>
@@ -6628,7 +6628,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>With many noble chiefs, supported Rustam,
 <lb/>As did Zarasp and prudent Mantshan.
 <lb/>The din of war rose from the scene of strife.
-<pb n="181"/>
+<pb n="4.181"/>
 <lb/>None will behold a fight like that. The sand
 <lb/>Was strewn with killed and wounded—those whose day
 <lb/>Was done. Men saw not how to cross the field
@@ -6668,7 +6668,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>He hastened to Afrasiyab who, seeing
 <lb/>His brother's face, took courage and advanced.
 <lb/>Rose war-din, air was veiled with feathered shafts.
-<pb n="182"/>
+<pb n="4.182"/>
 <lb/>When darkness came in rearward of the sun,
 <lb/>And day was almost night, false Garsiwaz,
 <lb/>That miscreant,<ref n="1"/> hurried to his brother, saying :—
@@ -6705,7 +6705,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Khusrau upon the girdle with a spear,
 <lb/>Which failed to pierce his breastplate or affray
 <note n="1">From the Iranian standpoint, because he had brought about the death of Siyawush. See Vol. ii. p. 292 seq.</note>
-<pb n="183"/>
+<pb n="4.183"/>
 <lb/>His glorious heart. He saw his foeman’s pluck
 <lb/>And strength, unsheathed forthwith his trenchant sword,
 <lb/>And clave the spear asunder with a blow,
@@ -6740,7 +6740,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>He spake thus to the host: <q> When I have passed
 <lb/>The river follow me, troop after troop,
 <note n="1">Reading with P.</note>
-<pb n="184"/>
+<pb n="4.184"/>
 <lb/>Leave day and night unreckoned.</q></p>
 <p>
 <lb/>From Amwi
@@ -6782,7 +6782,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And good when he retreateth in confusion.
 <lb/>Since God, the Arbiter, hath given us Grace,
 <lb/>Crown, majesty, and kingship over kings,
-<pb n="185"/>
+<pb n="4.185"/>
 <milestone unit="vullers" n="1316"/>
 <lb/>Give ye thanksgiving everywhere to Him
 <lb/>With benedictions offered day and night,
@@ -6818,7 +6818,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>That of the brother of Afrasiyab,
 <lb/>His son, his honoured nobles, and his kin—
 <lb/>Together with two hundred men of name
-<pb n="186"/>
+<pb n="4.186"/>
 <lb/>In bonds, and each a hundred lions' match.
 <lb/>We fought upon the desert of Kharazm.
 <lb/>In that great conflict heaven blessed our efforts,
@@ -6856,7 +6856,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Now for a while we have renounced our treasures,
 <lb/>Our children, and our kin, and fought beyond
 <note n="1">Gang-dizh in the original. See p. 136.</note>
-<pb n="187"/>
+<pb n="4.187"/>
 <lb/>Jihun as we were bidden by the king,
 <lb/>And what unwisdom brought on us thou knowest,
 <lb/>For thou art king and we perform.thy hests.
@@ -6894,7 +6894,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Across, he sent this proclamation forth :—
 <lb/><q>Let no man be in terror at our coming,
 <lb/>But offer prayer for us to holy God.</q></p>
-<pb n="188"/>
+<pb n="4.188"/>
 <p>
 <lb/>He gave great largess to the mendicants,
 <lb/>Especially to those who welcomed him.
@@ -6934,7 +6934,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The Shah continued for a month in Sughd—
 <lb/>A district well affected to himself—
 <lb/>Gave to his troops their pay and rested them,
-<pb n="189"/>
+<pb n="4.189"/>
 <lb/>And sought occasion both for fight and fame.
 <lb/>He gathered all the warriors skilled in leaguers
 <lb/>To aid him and dismayed the evil-doers.
@@ -6973,7 +6973,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>A world for favoured folk. He sent out scouts
 <lb/>And spies to learn whate'er was left to know.
 <lb/>They pitched the youthful monarch’s camp-enclosure
-<pb n="190"/>
+<pb n="4.190"/>
 <lb/>Beside a stream. The worldlord took his seat
 <lb/>Upon the golden throne with his famed lieges,
 <lb/>And held at night a feast till day. The dead
@@ -7010,7 +7010,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>With chieftains, sages, and proud cavaliers.
 <lb/>Kubard, the lion-warrior, held the left
 <lb/>With cavaliers brave and experienced.
-<pb n="191"/>
+<pb n="4.191"/>
 <milestone unit="vullers" n="1322"/>
 <lb/>Revengeful Gars{waz was in the rear
 <lb/>To guard the army from the enemy.
@@ -7046,7 +7046,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The world grown straitened to his heart, he went
 <lb/>Apart and prayed to God to do him right :-—
 <lb/><q>O Thou beyond the ken of saints,</q> he said,
-<pb n="192"/>
+<pb n="4.192"/>
 <lb/><q>The Lord of this world and the King of kings!
 <milestone unit="vullers" n="1323"/>
 <lb/>If I had never been a man oppressed,
@@ -7080,7 +7080,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Howbeit God appointed differently,
 <lb/>And everything must yield to His decree.
 <note n="1">I.e. like rubies.</note>
-<pb n="193"/></p></div>
+<pb n="4.193"/></p></div>
 <div type="textpart" subtype="section" n="16"><head>How Afrasiyab took Refuge in Gang-bihisht</head>
 <p>
 <lb/>When night was dark, dark as a negro’s face,
@@ -7116,7 +7116,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And called his faithful followers to horse.
 <lb/>A cavalier moreover came in haste,
 <lb/>With lamentation to Afrasiyab,
-<pb n="194"/>
+<pb n="4.194"/>
 <lb/>And said thus: <q> Kurakhan hath left our troops,
 <lb/>And now is nigh at hand with sixty men;
 <lb/>There is a host too marching on Turan,
@@ -7158,7 +7158,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The troops with maces shouldered and their ears
 <lb/>All strained ; he thereupon declared to Rustam
 <lb/>The message purposed to secure his safety.
-<pb n="195"/>
+<pb n="4.195"/>
 <lb/>Revengeful Kai Khusrau upon his side
 <lb/>Abode in quiet free from bruit of war,
 <lb/>He gave his soldiers all the Turkmans' tents,
@@ -7195,7 +7195,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The country round about is called Bihisht,<ref n="2"/>
 <note n="1"><q>sa ville de Gangue</q> (Mohl). </note>
 <note n="2">i.e, Paradise.</note>
-<pb n="196"/>
+<pb n="4.196"/>
 <lb/>Where all is pleasure, peace, and happiness.
 <lb/>On all sides there are fountain-heads and pools
 <lb/>An arrow’s carry in their length and breadth;
@@ -7232,7 +7232,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Affordeth naught to me excepting war.
 <lb/>Him whom I should have slain I tendered dearly,
 <lb/>And now through him my life is one of hardship.
-<pb n="197"/>
+<pb n="4.197"/>
 <lb/>If the Faghfur of Chin would come himself
 *Twere well, my soul is protestant of friendship ;
 <lb/>But if he cannot still let him dispatch
@@ -7272,7 +7272,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And recked not of the morrow. So away,
 <note n="1"><q> mécaniciens </q> (Mohl). </note>
 <note n="2">Of. Vol. i. pp. 373. 378.</note>
-<pb n="198"/>
+<pb n="4.198"/>
 <lb/>Since fate is fixed, with sadness and be gay!
 <lb/>He lived two sennights thus exempt from sorrow,
 <lb/>But who can tell who will rejoice to-morrow ?</p></div>
@@ -7308,7 +7308,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The host extended over seven leagues;,
 <lb/>And earth saluted the Iranians. 
 <note n="1">Gang-dizh in the original.</note>
-<pb n="199"/>
+<pb n="4.199"/>
 <lb/>The camp-enclosure on the right was Rustam’s,
 <lb/>Who asked the Shah for troops, while Fariburz,
 <lb/>Son of Kaus, and Tus, with trumpets, drums,
@@ -7346,7 +7346,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The boughs and-trunk of this revenge of ours.
 "Twill be an evergreen, and not a heart
 <lb/>Will shrink from dying in this royal feud,
-<pb n="200"/>
+<pb n="4.200"/>
 <lb/>But sire to son for three score centuries
 <lb/>Will hand it on and, when the sire shall pass,
 <lb/>The feud shall stay, the son take up the woe.</q> </q></p>
@@ -7382,7 +7382,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Be prosperous in our land, and may the hearts
 <lb/>And eyes of all thy foes be rooted out.
 <lb/>Live ever happily and serving God,
-<pb n="201"/>
+<pb n="4.201"/>
 <lb/>Thou that erst stretched thy hands upon our soil !
 <lb/>Blest was thy sojourn, happy is thy coming,
 <lb/>Kind hath been all thine intercourse with us.
@@ -7421,7 +7421,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>I was illuded. Both a sage and king
 <lb/>Art thou, approving men of holiness ;
 <lb/>Mark then how many cities and how great,
-<pb n="202"/>
+<pb n="4.202"/>
 <lb/>With gardens, spaces, halls, and palaces,
 <lb/>Have been destroyed in vengeance and the plea
 <lb/>Hath been Afrasiyab and Siyaéwush!
@@ -7460,7 +7460,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And pierce this people with the scimitar,</q>
 
 <lb/>Shall I become a captive in thy hands?
-<pb n="203"/>
+<pb n="4.203"/>
 <lb/>Presume it not, for this shall never be;
 <lb/>None will erase a man indelible.
 <lb/>The grandson am I of Zadsham the king,
@@ -7498,7 +7498,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And by the past and future judge thine end;
 <lb/>But if thou shalt reject this rede of mine,
 <lb/>And wilt wage war upon thy mother’s father,
-<pb n="204"/>
+<pb n="4.204"/>
 <lb/>Array thy host as soon as Jahn hath gone,
 <lb/>Fit as a pard am I for fighting on.</q></q></p></div>
 <div type="textpart" subtype="section" n="20"><head>How Kai Khusrau made Answer to Jahn</head>
@@ -7533,7 +7533,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Now that the bones of Siyawush have perished.
 <milestone unit="vullers" n="1335"/>
 <lb/>Moreover from her bower thou haled’st down
-<pb n="205"/>
+<pb n="4.205"/>
 <lb/>My mother to the street, thou hadst become
 <lb/>So full of vengeance, and didst kindle fire
 <lb/>Upon my head while I was yet unborn,
@@ -7570,7 +7570,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And hailed thee only in the world as king,
 <lb/>Put trust in thee and quitted his own folk
 <lb/>Lest thou shouldst say that he had broken faith ;
-<pb n="206"/>
+<pb n="4.206"/>
 <milestone unit="vullers" n="1336"/>
 <lb/>But when thou saw’st his breast and girdlestead,
 <lb/>His greatness, might, and mien, thine evil nature
@@ -7609,7 +7609,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <milestone unit="vullers" n="1337"/>
 <lb/>Didst lead thy host for battle to Amwi,
 <lb/>And Shida came forth as mine opposite ;
-<pb n="207"/>
+<pb n="4.207"/>
 <lb/>Thou sentest him that so he might behead me,
 <lb/>And thou thereafter mightst lay waste my realm,
 <lb/>But God, the Lord of earth, was mine ally,
@@ -7643,7 +7643,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And made the mountains like white elephants' backs,
 <lb/>Afrasiyab was ordering the host:
 <note n="1">Gang-dizh in the original.</note>
-<pb n="208"/>
+<pb n="4.208"/>
 <lb/>What Turkman cavalier took any sleep ?
 <lb/>Whenas the din of tymbals rose from Gang,
 <lb/>While earth grew iron, heaven ebony,
@@ -7682,7 +7682,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Writhed in his quest of vengeance like a serpent
 <lb/>Upon the dust, and praised the Almighty, saying :—
 <lb/><q>Thine is it to abase and to exalt;
-<pb n="209"/>
+<pb n="4.209"/>
 <lb/>In every strait we look to Thee for succour.
 <lb/>If Thou perceivest that my cause is just
 <lb/>Make not my foot to slip, hurl from the throne
@@ -7721,7 +7721,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>For treasure and for kin, bind ye your skirts
 <lb/>Together,<ref n="1"/> leave no foeman anywhere.</q>
 <note n="1">Cf. p. 85, and note.</note>
-<pb n="210"/>
+<pb n="4.210"/>
 <lb/>Then mountain-like the Turkman troops advanced
 <lb/>In rank toward the breach; they closed like lions,
 <lb/>And both sides raised a shout, but in the strife
@@ -7759,7 +7759,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>What multitudes of women and of babes
 <lb/>Were lost beneath the feet of elephants!
 <lb/>The people fled like wind and none took thought
-<pb n="211"/>
+<pb n="4.211"/>
 <lb/>Of country more. In woeful plight all eyes
 <lb/>Wept blood. The Turkman warriors' fortunes fell.
 <lb/>The treasuries were given up to spoil,
@@ -7796,7 +7796,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>He thence departed dazed; and disappeared ;
 <lb/>His wits and counsel flew away like birds.
 <note n="1">Gang in the original.</note>
-<pb n="212"/>
+<pb n="4.212"/>
 <lb/>Now when he built the palace in the hold
 <lb/>He made a secret passage underground,
 <lb/>And not a soldier of the army wotted
@@ -7832,7 +7832,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The sun from yon high heaven must not pierce
 <lb/>The palace of Afrasiyéb, nor would I
 <lb/>That thence his women’s voices reach the street.</q></p>
-<pb n="213"/>
+<pb n="4.213"/>
 <p>
 <lb/>He sent out keepers for the herds that were
 <lb/>At large about the hold and, being kingly,
@@ -7875,7 +7875,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And no fit objects of contempt and insult.</q></p>
 <p>
 <lb/>The chiefest of the ladies with her daughters,
-<pb n="214"/>
+<pb n="4.214"/>
 <lb/>Came wailing to the Shah; each daughter had
 <lb/>A hundred slaves with ruby crowns before her,
 <lb/>Their jewelry was like the shining sun;
@@ -7914,7 +7914,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>While here upon the earth thy kinsman Jahn,
 <lb/>Galled by thy fetters, will bear testimony
 <lb/>How in my palace both my heart and soul
-<pb n="215"/>
+<pb n="4.215"/>
 <lb/>Were full of grief because of Siyawush,
 <lb/>And that Afrdsiydéb, thine enemy,
 <lb/>Heard much advice, but nothing profited,
@@ -7954,7 +7954,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>I will not cause a like distress to any,
 <lb/>However much my heart desireth vengeance,
 <lb/>And, though aggrieved am I when I recall
-<pb n="216"/>
+<pb n="4.216"/>
 <lb/>How that great monarch wronged my noble mother,
 <lb/>Yet will I bring the like on no one’s head.</q></p>
 <p>
@@ -7990,7 +7990,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Avert your faces from the women—all
 <lb/>That veil themselves when going forth abroad;
 <lb/>Respect too others' wealth since for its sake
-<pb n="217"/>
+<pb n="4.217"/>
 <lb/>Friends are made foes; the Maker disapproveth
 <lb/>Of those that seek to harm the innocent,
 <lb/>And all that would assist my policy
@@ -8026,7 +8026,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Had overthrown the chief of sorcerers,
 <lb/>And waked the fortune that had slumbered so—
 <lb/>God, Source of might, of knowledge, and of justice,
-<pb n="218"/>
+<pb n="4.218"/>
 <lb/>And everywhere the Joy of the oppressed—
 <lb/>Then: <q> By the fortune of Shah Kai Kaus,
 <lb/>The great, the experienced, the benevolent,
@@ -8064,7 +8064,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The cattle like so many onagers
 <lb/>Spread far and wide; their necks grew full of strength
 <lb/>Like lions' and their ears and heads like stags</q>.
-<pb n="219"/>
+<pb n="4.219"/>
 <lb/>Khusrau moreover sent forth those that spied
 <lb/>Upon the world’s affairs to every side.</p></div>
 <div type="textpart" subtype="section" n="26"><head>How Kai Khusrau had Tidings of the Coming of Afrdstydab with the Host of the Faghfur</head>
@@ -8101,7 +8101,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>Then said he to Gudarz: <q>This host is thine,
 <lb/>Thou art its refuge both by day and night.
-<pb n="220"/>
+<pb n="4.220"/>
 <lb/>Hang every Turkman, whom thou shalt perceive
 <lb/>To be in favour of our enemies
 <lb/>In aught, forthwith alive upon the gibbet,
@@ -8142,7 +8142,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And native Turkmans, of thy race as well
 <lb/>As alien, acknowledge thee. Oh! may
 <lb/>Our souls and bodies be a ransom for thee!
-<pb n="221"/>
+<pb n="4.221"/>
 <lb/>Our loyalty hath never wavered yet ;
 <lb/>If hundreds perish, thousands shall come on:
 <lb/>Hold not thyself so cheap. We are thy lieges,
@@ -8177,7 +8177,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>For me, the fault was all with Siyawush
 <lb/>In that he filled my heart with grief and care ;
 <lb/>Besides the stars which circle over us
-<pb n="222"/>
+<pb n="4.222"/>
 <lb/>Are both our shelter and our bane at whiles.
 <milestone unit="vullers" n="1352"/>
 <lb/>Now sixty years have passed above my head
@@ -8217,7 +8217,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>'Tis needful that his heart be free from guile.
 <lb/>Now let a general attack be made
 <lb/>In force ; speak not of things that cannot aid.</q>
-<pb n="223"/></p></div>
+<pb n="4.223"/></p></div>
 <div type="textpart" subtype="section" n="28"><head>How the Iranians and Tiidnians fought</head>
 <p>
 <lb/>Khusrau, on hearing ancient Rustam’s words,
@@ -8255,7 +8255,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Because the horsemen’s sight was failing them,
 <lb/>And, when the king of kings returned to camp
 <lb/>In all his glory, pomp, and circumstance,
-<pb n="224"/>
+<pb n="4.224"/>
 <lb/>He said to Tus: <q> Afrasiyab to-day
 <lb/>Did not engage in battle willingly.
 <lb/>Methinketh he will make a night-attack
@@ -8291,7 +8291,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And, having summoned all his veterans,
 <lb/>Spake of the past at large: <q> This knave accursed
 <lb/>Hath triumphed greatly o'er his grandsire’s troops:
-<pb n="225"/>
+<pb n="4.225"/>
 <lb/>Now yonder host no doubt are fast asleep,
 <lb/>And scattered widely over hill and plain ;
 <lb/>So let us put misgiving from our hearts,
@@ -8331,7 +8331,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>That were the foremost of the assailant band
 <lb/>Urged on their steeds and raised the battle-cry ;
 <lb/>But many cavaliers fell down the fosse,
-<pb n="226"/>
+<pb n="4.226"/>
 <lb/>While others turned away their heads from fight.
 <lb/>On this side Rustam came up from the plain,
 <lb/>And dimmed the heaven with his horsemen’s dust ;
@@ -8372,7 +8372,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>As in the ocean wave pursueth wave.
 <lb/>Thou wouldst have said: <q>The vales and hills are full
 <lb/>Of blood. The sun hath left the turning sky.</q>
-<pb n="227"/>
+<pb n="4.227"/>
 <lb/>Heaven’s face was smeared with pitch and no one tendered
 <lb/>His person. Then arose a mighty blast—
 <lb/>A storm whose like is not in memory.
@@ -8409,7 +8409,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And, taking to the pathless waste, preserved
 <lb/>His life from foemen by his body’s toil.
 <lb/>The Shah sought for his grandsire in the host,
-<pb n="228"/>
+<pb n="4.228"/>
 <lb/>Advancing to the centre with all haste,
 <lb/>But, though he urged his charger to the utmost,
 <lb/>He found no traces of Afrasiydb,
@@ -8446,7 +8446,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The Shah bestowed the booty on his men,
 <lb/>And thence toward Gang-bihisht he made his way
 <lb/>With troops at all points ready for the fray.
-<pb n="229"/></p></div>
+<pb n="4.229"/></p></div>
 <div type="textpart" subtype="section" n="30"><head>How the Faghfur<ref n="1"/> of Chin sent an Envoy to Kai Khusrau</head>
 <p>
 <lb/>Now when the tidings reached Machin and Chin
@@ -8483,7 +8483,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Like wind and told the words to the Faghfur,
 <lb/>Who, when he heard them, sent Afrasiyab
 <note n="1">The Khan in the original, but the context seems to require the Faghfur.</note>
-<pb n="230"/>
+<pb n="4.230"/>
 <lb/>A messenger by night to say to him :—!
 <q>« Avoid the frontiers of Khutan and Chin,
 <lb/>And grieve for all the evil done by thee.
@@ -8520,7 +8520,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Arriving there he ate and slept in peace,
 <lb/>And rested from the fortunes of the war.
 <lb/><q>We will be happy here,</q> 'twas thus he spake,
-<pb n="231"/>
+<pb n="4.231"/>
 <lb/><q>And not concern ourselves about the past ;
 <lb/>When my dim star hath brightened I will cross
 <lb/>The sea, take vengeance on my foes, and make
@@ -8561,7 +8561,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>Each had his plan, and after much debate
 <lb/>Thus Rustam spake: <q> Ye world-experienced,
-<pb n="232"/>
+<pb n="4.232"/>
 <lb/>Ye puissant princes, and ye veteran chiefs !
 <lb/>The toils that we have borne must not be fruitless,
 <lb/>Or made sport for the wind of indolence;
@@ -8597,7 +8597,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And household, whether they be slaves or daughters,
 <lb/>In litters from the palace by the road
 <lb/>Down to the royal park, and furthermore
-<pb n="233"/>
+<pb n="4.233"/>
 <lb/>A hundred famous and illustrious chiefs,
 <lb/>Each one of them renowned for gallantry,
 <lb/>And all the kindred of Afrasiyab,
@@ -8636,7 +8636,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And we could reach the enemy; but Giv
 <lb/>Will give the Shah the full particulars
 <lb/>Of all that chanced upon the battlefield.
-<pb n="234"/>
+<pb n="4.234"/>
 <milestone unit="vullers" n="1363"/>
 <lb/>When in God’s presence thou shalt ope thy lips
 <lb/>Give thanks on my behalf both day and night.
@@ -8675,7 +8675,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Inviting the brave princes of Iran,
 <milestone unit="vullers" n="1364"/>
 <lb/>And spent in converse all the livelong night ;
-<pb n="235"/>
+<pb n="4.235"/>
 <lb/>Thus did the hours of darkness fleet away
 <lb/>Until with lights the guests went from the presence,
 <lb/>And made for home with glad and merry hearts.</p>
@@ -8713,7 +8713,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>There was a gloomy dungeon in a hold,
 <lb/>Repulsive, with a charnel-house hard by,
 <lb/>And this became the lot of Garsiwaz:
-<pb n="236"/>
+<pb n="4.236"/>
 <lb/>Such are time’s changes! Blest are they that rule
 <lb/>With open hands and hearts devout and pure,
 <milestone unit="vullers" n="1365"/>
@@ -8754,7 +8754,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The gifts before him, After that was done
 <lb/>Giv with his face caressed the royal throne.
 <note n="1">Reading with C and P.</note>
-<pb n="237"/></p></div>
+<pb n="4.237"/></p></div>
 <div type="textpart" subtype="section" n="33"><head>The Answer of Shah Kéiis to the Letter of Khusrau</head>
 <p>
 <lb/>A scribe with paper, musk, and spicery
@@ -8791,7 +8791,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Thy seat upon the throne for evermore.</q></p>
 <p>
 <lb/>They sealed the letter with the Shah’s own signet,
-<pb n="238"/>
+<pb n="4.238"/>
 <lb/>And Giv went from the palace to return;
 <lb/>He loitered not in going to Khusrau
 <lb/>At Gang-bihisht, did reverence and delivered
@@ -8826,7 +8826,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And sent some to the Khan, to the Faghfur,
 <lb/>And to the ruler of Makran, to say :—
 <note n="1">See Vol. ii. p. 321.</note>
-<pb n="239"/>
+<pb n="4.239"/>
 <lb/><q>If ye will choose the right, perform my hest,
 <lb/>And in your hearts repent-of your ill deeds,
 <lb/>Dispatch provisions on before my troops,
@@ -8867,7 +8867,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Such is its love, it shineth first on us. ;
 <lb/>Moreover I have knowledge and much wealth,
 <lb/>With greatness, manliness, and might of hand.
-<pb n="240"/>
+<pb n="4.240"/>
 <lb/>If any asketh leave to pass 'tis well,
 <lb/>Because the earth is every creature’s realm.
 <lb/>If thou wilt pass I will not bar the way:
@@ -8907,7 +8907,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>Illustrious Khusrau went to the palace,
 <note n="1">Reading with P.</note>
-<pb n="241"/>
+<pb n="4.241"/>
 <lb/>And took his seat upon the famous state,
 <lb/>While the Faghfur presented unto him
 <lb/>A hundred thousand coins—dinars of Chin—
@@ -8941,7 +8941,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>The envoy came and did his embassage,
 <lb/>But no advice or justice found a place
-<pb n="242"/>
+<pb n="4.242"/>
 <lb/>In that king’s heart. His foolish head was angered ;
 <lb/>He raged and there was mischief in his thoughts.
 <lb/>He concentrated all his scattered troops,
@@ -8983,7 +8983,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>They drew toward each other mountain-like,
 <lb/>And closed; the leader Tus came from the centre, ;
 <lb/>While din of trump and tymbal filled the world,
-<pb n="243"/>
+<pb n="4.243"/>
 <lb/>With Kawa’s flag before him, while behind
 <lb/>Were warriors with their golden boots. The air
 <lb/>Was full of arrows, earth of elephants ;
@@ -9023,7 +9023,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And also that Ashkash, the shrewd of wit,
 <lb/>Should cease from pillage, strife, and harrying,
 <lb/>And suffer nobody to do an outrage,
-<pb n="244"/>
+<pb n="4.244"/>
 <lb/>Or treat the wretched with severity.
 <lb/>Then all the upright people of the state
 <lb/>Approached to plead their cause before the Shah,
@@ -9058,7 +9058,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>In wagons drawn along by buffalos.
 <lb/>The waste gave herbage, room to camp was there,
 <lb/>Earth was all moisture, and all clouds the air.
-<pb n="245"/></p></div>
+<pb n="4.245"/></p></div>
 <div type="textpart" subtype="section" n="36"><head>How Kai Khusrau crossed the Sea</head>
 <p>
 <lb/>The warriors, when Khusrau had reached the sea,
@@ -9096,7 +9096,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>To Kai Khusrau in great astonishment
 <lb/>How lions fought with oxen in the waves ;
 <lb/>They sighted men with hair like lassos, men
-<pb n="246"/>
+<pb n="4.246"/>
 <lb/>Completely covered, as sheep are, with wool!
 <lb/>There was a troop with heads like buffalos,
 <lb/>Their hands behind their backs and feet in front!
@@ -9137,7 +9137,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <milestone unit="vullers" n="1375"/>
 
 <lb/>But he that shall transgress mine ordinance
-<pb n="247"/>
+<pb n="4.247"/>
 <lb/>Shall bear the penalty of his ill counsels.</q></p>
 <p>
 <lb/>Whenas the messenger had come to them
@@ -9175,7 +9175,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Shall writhe beneath the chastisement of God.
 <lb/>Ye must not so conduct you in this city
 <note n="1">Gang in the original.</note>
-<pb n="248"/>
+<pb n="4.248"/>
 <lb/>That e'er an ant shall be a sufferer.</q> <ref n="1"/></p>
 <milestone unit="vullers" n="1376"/>
 <p>
@@ -9216,7 +9216,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The wary king thereafter gave command
 <lb/>To seek the leader of the Turkman host.
 <note n="1">Cf. Vol. i, p. 201, and note.</note>
-<pb n="249"/>
+<pb n="4.249"/>
 <lb/>They searched the gardens, plains, and palaces,
 <lb/>Employing guides to point them out the way.
 <lb/>The searchers roamed about like maniacs,
@@ -9256,7 +9256,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Intending to make Gang a marchlord’s castle,
 <lb/>And said to him: <q> Abide here in all joy,
 <lb/>But never careless of the enemy.</q>
-<pb n="250"/>
+<pb n="4.250"/>
 <lb/>He then distributed what wealth there was,
 <lb/>Distributed both steeds and hoarded treasures,
 <lb/>Enriching all the townsfolk with their shares ;
@@ -9290,7 +9290,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>In talk with Giv of all that he had seen,
 <lb/>And said: <q> Whoe'er hath viewed not Gang hath naught
 <lb/>To make him wish to tarry on the earth.</q></p>
-<pb n="251"/>
+<pb n="4.251"/>
 <p>
 <lb/>The Shah then bade his men to load the ships
 <lb/>And, sending first two boats, launched after them
@@ -9330,7 +9330,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Khusrau had left Makran and drawn toward Chin,
 <lb/>Came Rustam, son of Zal, the son of SAm,
 <lb/>To meet him with a glad, contented host.
-<pb n="252"/>
+<pb n="4.252"/>
 <lb/>That noble cavalier, when Kai Khusrau
 <lb/>Appeared afar, beheld the parasol,
 <lb/>Alighted from his steed, and did obeisance.
@@ -9369,7 +9369,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And gave two hundred purses of dinars
 <lb/>To Rustam and abundant gifts to Giv.
 <lb/>Now Gustaham, son of Naudar, on hearing :—
-<pb n="253"/>
+<pb n="4.253"/>
 <lb/><q>The Shah is visiting his father’s city,</q></p>
 <p>
 <lb/>Set forth to meet him with a mighty escort
@@ -9408,7 +9408,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>I am the Maker’s worshipper. I hear
 <lb/>No fame or rumour of Afrasiydéb
 <lb/>On earth: I see him not but Thou seest all.
-<pb n="254"/>
+<pb n="4.254"/>
 <lb/>If Thou art pleased with him, O righteous Judge!
 <lb/>Divert my thoughts from any further strife,
 <lb/>Quench in my heart the fire of my revenge,
@@ -9446,7 +9446,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The army was so great that day and night
 <lb/>The troops were passing over hill and vale,
 <lb/>And they who reached a station saw no break
-<pb n="255"/>
+<pb n="4.255"/>
 <lb/>In those behind them. Thus Khusrau reached Chach,
 <lb/>And hung the crown above the ivory throne;
 <lb/>Then as he tarried one week more in Sughd
@@ -9484,7 +9484,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The monarch rested for a sennight there,
 <lb/>Inspecting horses, elephants, and troops, 
 <lb/>And at the week’s end went to Rai by roads
-<pb n="256"/>
+<pb n="4.256"/>
 <lb/>Filled everywhere with minstrel, harp, and wine.
 <lb/>For two weeks he did justice and gave gifts,
 <lb/>And with the third departed to Baghdad,
@@ -9519,7 +9519,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And throne of nobles be deprived of thee,
 <lb/>Because the sun hath seen not such a Shah,
 <lb/>Such steeds, such mail or such a throne and helm,
-<pb n="257"/>
+<pb n="4.257"/>
 <lb/>Among the mighty none hath borne such toils,
 <lb/>Or viewed so much earth’s sights and mysteries.
 <lb/>If Siyawush could quit the charnel-house
@@ -9562,7 +9562,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Brought wine and revellers with ruby lips,
 <lb/>And for a week a wave of wine o'erflowed
 <lb/>The goblet in the halls of Kai Kaus.
-<pb n="258"/>
+<pb n="4.258"/>
 <lb/>The Shah, the eighth day, oped his treasury,
 <lb/>And made a recompense for toils achieved.
 <lb/>For those great men that were with him in fight,
@@ -9602,7 +9602,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Not swerving either of them from the path,
 <lb/>And, mounting swift as wind upon two chargers,
 <note n="1">See Vol. i. p. 80, s.v. Zamzam.</note>
-<pb n="259"/>
+<pb n="4.259"/>
 <lb/>Sped to the temple of Azargashasp,
 <lb/>In white robes, with hearts filled by hope and fear.
 <lb/>Whenas they looked upon the Fire they wept,
@@ -9635,7 +9635,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 "Twas far from cities and with water near :
 <lb/>Call it the cavern of Afrasiyab.
 <lb/>The king in his despair took to the mountain
-<pb n="260"/>
+<pb n="4.260"/>
 <lb/>As being such an unfrequented spot,
 <milestone unit="vullers" n="1387"/>
 <lb/>Conveyed food thither, fearing for his life,
@@ -9674,7 +9674,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Where are thy treasure and thy manliness,
 <lb/>Thy valour, courage, and sagacity ?
 <lb/>Where are thy majesty, thy throne, and crown ?
-<pb n="261"/>
+<pb n="4.261"/>
 <lb/>Where are thy country and thy mighty host
 <lb/>Now that thou dwellest in this narrow cavern,
 <lb/>A fugitive within this rocky hold?</q></p>
@@ -9711,7 +9711,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>Hum, after having bound the monarch’s arms,
 <lb/>Bore him from his retreat. Afrasiyab ,
-<pb n="262"/>
+<pb n="4.262"/>
 <lb/>Exclaimed: <q>O pious man, thou devotee,
 <lb/>Who knowest holy God! what wouldest thou
 <lb/>With me—a monarch of the world although
@@ -9752,7 +9752,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Then plunged into the lake<ref n="2"/> and disappeared !
 <note n="1">There is a play of words in the original between Gah (throne) and Ghar (cave).</note>
 <note n="2">I.e. Urumiah, See p. 136.</note>
-<pb n="263"/>
+<pb n="4.263"/>
 <lb/>It happened that Gudarz, son of Kishwad,
 <lb/>Was on his way with Giv and other nobles
 <lb/>In state with expedition to the Shah,
@@ -9792,7 +9792,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Firm as a rock, so that they dripped with blood,
 <lb/>And brought him from the mountain in all haste,
 <lb/>What while he wailed and shrieked as women do.
-<pb n="264"/>
+<pb n="4.264"/>
 <lb/>Moved by his great and lamentable cries
 <lb/>And promises, I somewhat loosed his bonds.
 <lb/>Then on this very spot he slipped my grasp,
@@ -9830,7 +9830,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>That He who made the world would prosper earth
 <lb/>Through him. When he returned I laughed for joy,
 <note n="1">Id.</note>
-<pb n="265"/>
+<pb n="4.265"/>
 <lb/>And sought God’s presence, offering my praises.
 <lb/>At night-time suddenly the blest Surtish
 <lb/>Made that which had been secret known to me:
@@ -9870,7 +9870,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>So that he could not stir. His skin burst on him,
 <lb/>He begged for mercy, and asked God for aid.
 <lb/>Afrasiyab, whenas he heard that voice,
-<pb n="266"/>
+<pb n="4.266"/>
 <lb/>Rose quickly to the surface of the lake,
 <lb/>And swimming onward with his hands and feet
 <lb/>Came to a spot that was within his depth,
@@ -9905,7 +9905,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>The mind of Him, the devotee, devised
 <lb/>A scheme; he went upon a spit of land,
 <lb/>And, when he saw Afrasiyab anear,
-<pb n="267"/>
+<pb n="4.267"/>
 <lb/>Undid the royal lasso from his waist,
 <lb/>And came on stalking like a savage lion,
 <lb/>Then flung the lasso that was ready coiled,
@@ -9948,7 +9948,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <note n="2">See Vol. i. p. 367.</note>
 <note n="3">See Vol. i, p. 362. </note>
 <note n="4">See Vol. ii. p. 320,</note>
-<pb n="268"/>
+<pb n="4.268"/>
 <lb/>Yet suffer me to see thy mother’s face,
 <lb/>And then speak on.</q>
 <lb/>But Kai Khusrau replied :—
@@ -9989,7 +9989,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Was full of trouble for Afrasiyab.
 <lb/>They dragged him from the jailors shamefully
 <lb/>In heavy bonds, on that his evil day,
-<pb n="269"/>
+<pb n="4.269"/>
 <lb/>Begirt with guards and executioners
 <lb/>As such a noted miscreant deserved.
 <lb/>When in sad plight he came before Khusrau,
@@ -10024,7 +10024,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Alive by justice and munificence,
 <lb/>Then took his seat upon the Kaian throne,
 <note n="1">See p. 258.</note>
-<pb n="270"/>
+<pb n="4.270"/>
 <lb/>Undid the audience-door and shut his lips.
 <lb/>They wrote dispatches to the provinces,
 <lb/>To every man of name and every chief;
@@ -10061,7 +10061,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Kaus, assured of peace of mind, declared
 <lb/>The secrets of his heart to God: <q>O Thou
 <lb/>Above all fortune and the Guide to good!
-<pb n="271"/>
+<pb n="4.271"/>
 <lb/>I had from Thee Grace, state, and majesty,
 <lb/>With fortune, valour, throne, and diadem ;
 <lb/>None else, as Thou hast me, hast Thou endowed
@@ -10100,7 +10100,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Thou wilt not tarry here in toil for ever.
 <lb/>The man of lore, the mailéd paladin,
 <lb/>Obtain remission from Death’s clutches never ;
-<pb n="272"/>
+<pb n="4.272"/>
 <lb/>Be we Zarduhsht himself, or be we king,
 <lb/>Brick is our pillow, dust our cushioning.
 <lb/>Be merry then, ensue what pleasureth thee,
@@ -10136,7 +10136,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And be an evil-doer like Zahhak,
 <lb/>Jamshid, or such an one as Tur or Salm.
 <note n="1">A spurious passage, describing how Kai Khusrau made Jahn king of Turan, is omitted here.</note>
-<pb n="273"/>
+<pb n="4.273"/>
 <lb/>Sprung from Kaus on one side, on the other
 <lb/>Sprung from Turan—all rancour and vainglory—
 <lb/>I, like Kaus and like Afrasiyab,
@@ -10174,7 +10174,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>My spirit to the dwelling of the just,
 <lb/>Because this Kaian crown and throne will pass.
 <lb/>None will excel me in success and fame,
-<pb n="274"/>
+<pb n="4.274"/>
 <lb/>In greatness, welfare, peace, and revelry,
 <lb/>For I have heard and witnessed this world’s secrets,
 <lb/>Its good and ill both privy and apert;
@@ -10215,7 +10215,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>In body, but his spirit was afar.
 <lb/>Now when the sennight ended Kai Khusrau
 <lb/>Began to totter, for his strength had failed,
-<pb n="275"/>
+<pb n="4.275"/>
 <lb/>And with the eighth day’s coming he had gone
 <lb/>From oratory back to royal throne.</p></div>
 <div type="textpart" subtype="section" n="48"><head>- How the Nobles inquired why Khusrau had closed his Court</head>
@@ -10250,7 +10250,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Thine are the troops and treasure of all realms:
 <lb/>Where'er thou settest foot thou labourest.
 <lb/>We know no reason why the monarch’s thoughts
-<pb n="276"/>
+<pb n="4.276"/>
 <lb/>Have grown so gloomy at this present time;
 <lb/>This is thy season to enjoy the world,
 <lb/>Not to be sorrowful and fade away.
@@ -10289,7 +10289,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And will declare it when He answereth,<ref n="1"/>
 <lb/>And by His answer maketh glad my days,
 <note n="1">Reading with P.</note>
-<pb n="277"/>
+<pb n="4.277"/>
 <lb/>Do ye too offer praises unto God,
 <lb/>Entreating Him, who is the Source of power
 <lb/>For good and ill, to grant this boon and blessing :
@@ -10325,7 +10325,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>About the ways of autocratic Shahs—
 <lb/>Those that served God and those that did amiss—
 <lb/>And all narrated stories of the great,
-<pb n="278"/>
+<pb n="4.278"/>
 <lb/>The nobles and the sages of the world.
 <milestone unit="vullers" n="1410"/>
 <lb/>Gudarz said unto Giv: <q>O fortune-favoured,
@@ -10364,7 +10364,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And heard; to noble Zal he sadly said :—
 <lb/><q>We have espoused much grief.</q> He said to Rustam :—
 <lb/><q>Call from Kabul and summon from Zabul a a
-<pb n="279"/>
+<pb n="4.279"/>
 <lb/>The wise, the astrologers, and archimages
 <lb/>To bear us company.</q> </p>
 <milestone unit="vullers" n="1411"/>
@@ -10406,7 +10406,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <milestone unit="vullers" n="1412"/>
 <lb/>Although my heart hath no anxieties °
 <lb/>Respecting mastery and men and treasure.
-<pb n="280"/>
+<pb n="4.280"/>
 <lb/>No foeman hath appeared within the realm
 <lb/>To cause me any care on his account;
 <lb/>But yet mine ardent heart hath one desire
@@ -10442,7 +10442,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>But with his mind awake—that spouse of wisdom—
 <lb/>And dreamed that blest Surtish thus whispered him :—
 <lb/><q>O Shah, the favourite of the stars and fortune,
-<pb n="281"/>
+<pb n="4.281"/>
 <lb/>Who much hast handled armlet, crown, and throne!
 <milestone unit="vullers" n="1413"/>
 <lb/>Now hast thou won thy whole desire, if thou
@@ -10482,7 +10482,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And, having donned that raiment, sat him down,
 <lb/>A Shah without an armlet, torque, or crown.
 <note n="1">Cf. Vol. i. p. 201 and note.</note>
-<pb n="282"/>
+<pb n="4.282"/>
 </p></div>
 <div type="textpart" subtype="section" n="51"><head>How Zdl admonished Kai Khusrau</head>
 <milestone unit="vullers" n="1414"/>
@@ -10520,7 +10520,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Once and for all the world.</q></p>
 <p>
 <lb/>Brave Zal replied :—
-<pb n="283"/>
+<pb n="4.283"/>
 <lb/><q>The Shah hath grown aweary of the throne.
 <lb/>There are such things as health and suffering,
 <lb/>Distress and gladness too have each their time.
@@ -10559,7 +10559,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And come again in triumph and in joy.
 <lb/>What king but is as dust beneath thy feet ?
 <lb/>What bane for which thy name is not a cure ?
-<pb n="284"/>
+<pb n="4.284"/>
 <lb/>Received have I some most unwelcome news,
 <lb/>And thereupon have made all haste to come. -
 <milestone unit="vullers" n="1416"/>
@@ -10595,7 +10595,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/><q>Old man of honest brain!</q> he said to Zal,
 <lb/><q>Right goodly are thy counsels and thy speech.
 <note n="1">Reading with P.</note>
-<pb n="285"/>
+<pb n="4.285"/>
 <lb/>Since Minichihr was on the throne till now
 <lb/>Thou hast been kindly and benevolent,
 <lb/>While Rustam of the elephantine form,
@@ -10634,7 +10634,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>For crown and throne and belt, are at an end.</q></p>
 <p>
 <lb/>The paladins were troubled in their hearts
-<pb n="286"/>
+<pb n="4.286"/>
 <lb/>About the Shah and knew not what to do.
 <lb/>Zal, when he heard the monarch’s words, was wroth
 <lb/>And from his liver drew a deep, cold sigh ;
@@ -10671,7 +10671,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Which I will speak before this company :
 <lb/>Born wast thou in the country of Turan;
 <lb/>There was thy fountain-head and there thy home;
-<pb n="287"/>
+<pb n="4.287"/>
 <lb/>Thou hadst on one side great Afrasiyab,
 <lb/>Who never dreamed of aught but sorcery,
 <lb/>For grandsire, on the other base Kaus
@@ -10709,7 +10709,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>This grievous business care upon Iran,
 <lb/>And more than ever filled our hearts with sorrow,
 <lb/>For thou hast put from thee the way of God,
-<pb n="288"/>
+<pb n="4.288"/>
 <lb/>And ta'en to evil paths and frowardness.
 <lb/>Thy person will not profit by this wrong,
 <lb/>Nor will it please the Maker of the world...
@@ -10745,7 +10745,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Whose manhood reacheth countless years! if I
 <lb/>Speak coldly to thee here before the folk
 <lb/>The Worldlord never will approve that wrong
-<pb n="289"/>
+<pb n="4.289"/>
 <lb/>In me. Moreover Rustam will be grieved,
 <lb/>And through his grief loss will befall Iran;
 <lb/>Moreover should I reckon up his toils
@@ -10784,7 +10784,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Know that no blame attacheth to a king
 <lb/>For lofty aims. Now that I have avenged
 <lb/>My father and have decked the world with goodness,
-<pb n="290"/>
+<pb n="4.290"/>
 <lb/>Have slain my foes, and all who were on earth
 <lb/>The common source of outrage and injustice,
 <lb/>No work remaineth for me here below;
@@ -10823,7 +10823,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Then with a cry he rose upon his feet,
 <lb/>And said: <q>O Shah, thou worshipper of God!
 <lb/>I have been rash and foolish while thou art
-<pb n="291"/>
+<pb n="4.291"/>
 <lb/>A holy man, and one divinely wise.
 <lb/>Forgive me if the Div hath led me wrong,
 <lb/>I have been living for unnumbered years
@@ -10860,7 +10860,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>And make a splendid feast-stead.</q></p>
 <p>
 <lb/>Rustam did
-<pb n="292"/>
+<pb n="4.292"/>
 <lb/>As said the Shah. They brought the camp-enclosure
 <lb/>Forth to the plain, and all the Iranians
 <lb/>Girt up their loins to do as they were bidden.
@@ -10898,7 +10898,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Because the day of each of us will pass,
 <lb/>And time is reckoning our every breath.
 <lb/>From glorious Hushang to Shah Kaus
-<pb n="293"/>
+<pb n="4.293"/>
 <lb/>Of all that had the throne, the crown, and Grace
 <lb/>Naught but the name remaineth to the world,
 <lb/>And no one readeth rescripts from the dead.
@@ -10939,7 +10939,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Anon
 <lb/>The warriors departed band by band ;
 <lb/>Plains, dales, and mountains were all troops. The sounds
-<pb n="294"/>
+<pb n="4.294"/>
 <lb/>Of piping and of neighing steeds ascended
 <lb/>Above the very sky, as thou wouldst say;
 <lb/>Thereat the spirits of the Iranians rose,
@@ -10974,7 +10974,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>Who in his early days gave liberally,
 <milestone unit="vullers" n="1427"/>
 <lb/>And all the wells grown old and waterless,
-<pb n="295"/>
+<pb n="4.295"/>
 <lb/>Make all these flourish through this hoard of gold
 - And silver. Think drachms vile; remember death.</q></p>
 <p>
@@ -11016,7 +11016,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <p>
 <lb/>The chiefs were overcome by grief, they wept,
 <lb/>And burned in anguish for the king of kings.
-<pb n="296"/>
+<pb n="4.296"/>
 <lb/><q>To whom now will the Shah,</q> inquired they all,
 <lb/><q>Bequeath the crown as his memorial ?</q></p></div>
 <div type="textpart" subtype="section" n="57"><head>How Zél asked of Kai Khusrau a Patent for Rustam</head>
@@ -11050,7 +11050,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>When Rustam slew Suhrab—a son unmatched
 <lb/>Mid high and low alike throughout the world—
 <note n="1">The texts have Uldd, but ef. Vol. ii. pp. 44, 54, 64, 93.</note>
-<pb n="297"/>
+<pb n="4.297"/>
 <lb/>When waging battle for Kaus, the Shah,
 <lb/>He wept in agony for months and years;
 <lb/>And when he fought Kamus in after-times
@@ -11087,7 +11087,7 @@ Indian legend is indicated in the Iranian as being taken by Surish, the angel of
 <lb/>With Zal, the son of Sim the cavalier,
 <lb/>And astrolabes upon their bosoms bare,
 <lb/>He gave robes, gold, and silver—each his share.
-<pb n="298"/>
+<pb n="4.298"/>
 we</p></div>
 <div type="textpart" subtype="section" n="58"><head>How Kai Khusrau gave a Patent to Giv</head>
 <p>
@@ -11126,7 +11126,7 @@ we</p></div>
 <lb/>His golden seal thereon, blessed it, and said :—
 <lb/><q>May God be well contented with Gudarz,
 <lb/>And may his foemen’s hearts be filled with smoke!</q></p>
-<pb n="299"/>
+<pb n="4.299"/>
 <p>
 <lb/>He thus addressed the Iranians: <q>Know ye this,
 <lb/>That gallant Giv, who hath the thews of chieftains
@@ -11163,7 +11163,7 @@ we</p></div>
 <lb/>I never anywhere dispersed the host,
 <lb/>And no one ever made complaint of me.
 <lb/>The Shah is tired of treasury and throne,
-<pb n="300"/>
+<pb n="4.300"/>
 <lb/>And is about to quit this Wayside Inn;
 <lb/>What dost thou bid me do? What power is mine?
 <lb/>Thou knowest both my virtues and my faults.</q></p>
@@ -11199,7 +11199,7 @@ we</p></div>
 <lb/>Be all the world thy slave. On thee have I,
 <lb/>Since mine exceeding toil and pain are over,
 <lb/>Bestowed the crown of kingship and the treasure.
-<pb n="301"/>
+<pb n="4.301"/>
 <lb/>Speak naught but what is just henceforth, for thou
 <lb/>Through justice wilt be conquering and glad.
 <lb/>Make not the Div the comrade of thy soul
@@ -11242,7 +11242,7 @@ we</p></div>
 <lb/>For whoso speaketh that which is not just
 <lb/>Will only get the smother of the fire,
 <milestone unit="vullers" n="1433"/>
-<pb n="302"/>
+<pb n="4.302"/>
 <lb/>Since God approveth not of ill from us,
 <lb/>And bad men writhe 'neath time’s vicissitudes,
 <lb/>While he whom God createth for high fortune,
@@ -11280,7 +11280,7 @@ we</p></div>
 <lb/>As I swore fealty my lips got smeared
 <lb/>With grimy dust: account it not a fault.</q>
 ee ee ain
-<pb n="303"/>
+<pb n="4.303"/>
 <lb/>The great men showered jewels on Luhrasp,
 <lb/>And hailed him as the Shah. When Kai Khusrau
 <lb/>Had thus achieved the matter of the kingship
@@ -11318,7 +11318,7 @@ ee ee ain
 <lb/>While lamentations went up from the host;
 <lb/>He reached the palace, overcome with woe,
 <lb/>His noble cypress-stature bending low.
-<pb n="304"/>
+<pb n="4.304"/>
 </p></div>
 <div type="textpart" subtype="section" n="61"><head>How Kai Khusrau farewelled his Women</head>
 <p><lb/>
@@ -11358,7 +11358,7 @@ saying :—
 <milestone unit="vullers" n="1436"/>
 <lb/>Seek not to make me sorry to depart,
 <lb/>Because the way is bright before mine eyes.</q>
-<pb n="305"/>
+<pb n="4.305"/>
 <lb/>He cried aloud and called to him Luhrasp
 <lb/>To whom he spake much of the womenfolk,
 <lb/>And said: <q>These are mine Idols, and they are
@@ -11395,7 +11395,7 @@ in the Snow
 <lb/>And said to him: <q> My day hath passed. Go thou,
 <lb/>Maintain the usage of the royal throne,
 <lb/>And in the world sow but the seed of good.
-<pb n="306"/>
+<pb n="4.306"/>
 <lb/>Whenever thou hast any times of ease
 <lb/>Boast not about thy treasures and thy crown;
 <lb/>Know this that when thy day of darkness cometh
@@ -11434,7 +11434,7 @@ in the Snow
 <lb/>Or holdest this crown worthless, tell us so,
 <lb/>Quit not Iran nor give this ancient world
 <lb/>A youthful Shah. We are thy horse’s dust, —
-<pb n="307"/>
+<pb n="4.307"/>
 <lb/>And worship thine Azargashasp. Oh! whither
 <lb/>Are all thy knowledge, rede, and senses fled ?
 <lb/>Surtish came never thus to Siy4wush !
@@ -11475,7 +11475,7 @@ in the Snow
 <lb/><q>Here let us make our sojourn for the night,
 <lb/>And talk at large together of the past,
 <lb/>For henceforth nobody will see me more.
-<pb n="308"/>
+<pb n="4.308"/>
 <lb/>What time the radiant sun shall raise its flag,
 <lb/>And turn the darksome earth to liquid gold,
 <lb/>Then is the time when I shall pass away,
@@ -11510,7 +11510,7 @@ in the Snow
 <lb/>The ground well trodden but the Shah not found.
 <lb/>Lamenting, sorrowful of heart, afflicted,
 <lb/>They came back to the spring and lighting there
-<pb n="309"/>
+<pb n="4.309"/>
 <lb/>They each farewelled the monarch of the world.
 <lb/>Then Fariburz repeated what Khusrau
 <lb/>Had said. <q>Be wisdom and his pure soul mates,</q></p>
@@ -11553,7 +11553,7 @@ in the Snow
 <lb/>They tarried in the snow, I know not why,
 <lb/>And under it they struggled for a while,
 <lb/>And made a hollow space, but at the last
-<pb n="310"/>
+<pb n="4.310"/>
 <lb/>Strength failed them and they yielded up sweet life.
 <lb/>Now Rustam, Zal, and divers cavaliers
 <lb/>Abode for three days weeping on the mountain,
@@ -11594,7 +11594,7 @@ in the Snow
 <lb/>Himself as 'twere a cypress in the garden.
 <lb/>The world is always thus; it will not stay
 <lb/>E'er with the best for ever. This it may
-<pb n="311"/>
+<pb n="4.311"/>
 <lb/>Exalt from dust, that from the throne remove,
 <lb/>Not that in anger and not this in love;
 <lb/>'Tis but the fashion of the sky above!
@@ -11630,7 +11630,7 @@ in the Snow
 <lb/>Thou art the Shah; we are thy lieges all,
 <lb/>And we will not transgress thy rede and orders.
 <lb/>I, Rustam, and the people of Zabul,
-<pb n="312"/>
+<pb n="4.312"/>
 <lb/>Will never wash our hands of love to thee.
 <lb/>Whoe'er he be that taketh not this course
 <lb/>Shall find no good thing left within his reach.</q></p>
@@ -11674,7 +11674,7 @@ in the Snow
 <lb/>Drew himself up and was another man.
 <lb/>He chose himself a most auspicious day
 <lb/>Whereon to set the crown upon his head,
-<pb n="313"/>
+<pb n="4.313"/>
 <lb/>And, just as Faridun of glorious birth
 <lb/>First put the crown on in the month wherein
 <lb/>They celebrate the hocktide of Mihrgan,
@@ -11708,10 +11708,10 @@ in the Snow
 </div>
 </div>
 
-<pb n="314"/>
-<div type="textpart" subtype="shah" n="14"><head>XIV. LUHRASP: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
+<pb n="4.314"/>
+<div type="textpart" subtype="reign" n="14"><head>XIV. LUHRASP: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>Gushtasp, the son of Luhrisp, dissatisfied with his position at the court of his father who, mindful of his obligations to Kai Khusrau, reserves his chief favours for the descendants of Kai Kaus, quits Iran in dudgeon and takes refuge in the land of Rum,
 where Caesar’s daughter falls in love with him and marries him. Gushtasp achieves great quests in his adopted country and, returning to Iran, is reconciled to his father who resigns the throne in his favour.
 </p>
@@ -11720,7 +11720,7 @@ where Caesar’s daughter falls in love with him and marries him. Gushtasp achie
 <p>For Pakotes see Vol. II. p. 8 seq.</p>
 <p> The romantic legend that occupies practically the whole of this reign was partially extant with certain variations in the days of Alexander the Great, some thirteen centuries before Firdausi wrote. Athenaeus in his Deipnosophistae<ref n="1"/> quotes the following story from Chares of Mytilene, who was an official (εἰσάγγελος) at the court of Alexander the Great, and wrote an anecdotal history of him and of his campaigns in ten books, of which only fragments are extant in the writings of Athenzus and other authors: <q>We must not be astonished at some folk having fallen in love with others upon mere hearsay of their beauty when Chares of Mytilene in the tenth book of his anecdotal history of Alexander affirms that some have dreamt of those whom they never saw and fallen in love with them in consequence. He writes as follows: <q>Hystaspes had a younger brother named Zariadres and they were both very good-looking. The people of the country say that
 <note n="1">Book xiii. c. 35, ed. A. Meineke.</note>
-<pb n="315"/>
+<pb n="4.315"/>
 they were the children of Aphrodite and Adonis. Hystaspes was king of Media and of the lower lands thereabout, while Zariadres ruled over the country above the Caspian Gates up to the river Tanais.<ref n="1"/> Now the daughter of Omartes, the chief of the Marathi,
 a people that dwelt beyond the Tanais, was named Odatis. She,
 as the histories tell us, dreamt of Zariadres and fell in love with him while in like fashion he fell in love with her. Thus for a long time they loved each other through the phantasies of sleep alone. Odatis was the most beautiful woman in Asia, and Zariadres too was very good-looking; but when he sent to Omartes to ask Odatis in marriage her father refused because he had no sons and desired to marry her to some one at his own court. Soon after he convoked the magnates of the realm, his kindred and his friends,
@@ -11730,7 +11730,7 @@ having looked about her, went away in tears, for she wanted. to see Zariadres wh
 and many magnates in those parts give their daughters the name of Odatis.</q></q></p>
 <p> It seems clear that in the brothers Hystaspes and Zariadres of the story we have the brothers Gushtasp and Zarir of the
 <note n="1">The Don.</note>
-<pb n="316"/>
+<pb n="4.316"/>
 <milestone unit="vullers" n="1445"/> Shahnama. In the poem the framework of the story is different and the account has become much elaborated. The scene is changed from Scythia to Rum and the chief actor is Gushtasp himself. The dream is confined to the lady’s side and a posy is substituted for the goblet, so that we lose the pretty picture of Odatis standing by the table in tears and pouring out the wine as slowly as possible in the forlorn hope of her lover appearing. Still the identity of the legend in Athenaeus with that in the Shahndma seems fairly obvious.</p>
 <p> The method of contracting marriage as illustrated by the above story was known in aucient India as <q> Swyamvara</q> or <q> Self</q> or <q>Maiden’s Choice.</q> We read in the Mahabharata: <q> The large-eyed daughter of Kuntibhoja, Prithá by name, was endued with beauty and every accomplishment. ... Her father . . . invited
 . . . the princes and kings of other countries and desired his daughter to elect her husband from among his guests. . . . The amiable daughter of Kuntibhoja, of faultless features, beholding Pandu—that best of men—in that assembly, became very much agitated. And advancing with modesty, all the while quivering with emotion, she placed the nuptial garland round Pandu’s neck. ... Then... the bride’s father caused the nuptial rites to be performed duly.</q><ref n="1"/></p>
@@ -11743,7 +11743,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>He praised the Maker and besought Him much,
 <lb/>Then said: <q> Have hope in God, the righteous Judge;
 <note n="1">RM, Adi Parva, § CXII. See too § CII.</note>
-<pb n="317"/>
+<pb n="4.317"/>
 <lb/>Hold Him in fear and awe; the Artist He
 <lb/>Of yon revolving sky, and magnifieth
 <lb/>The Glory of His slave. When He created
@@ -11782,7 +11782,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>A city with its streets, bazirs, and quarters,
 <lb/>In each whereof there was a place to hold
 <lb/>The feast of Sada, round a Fane of Fire,
-<pb n="318"/>
+<pb n="4.318"/>
 <lb/>And there he built Barzin, for so they call
 <lb/>That glorious temple and magnifical.</p></div>
 <div type="textpart" subtype="section" n="2"><head>How Gushtésp quitted Luhraésp in Wrath</head>
@@ -11817,7 +11817,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>A servant of thy star and diadem,
 <lb/>I hold not one a man of those that come
 <note n="1">Inserted from T.</note>
-<pb n="319"/>
+<pb n="4.319"/>
 <lb/>Before me on the day of fight save Rustam,
 <lb/>The son of Zal, the son of Sam the horseman,
 <lb/>For none is able to contend with him.
@@ -11861,7 +11861,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <p>
 <lb/>Whenas night came he mounted with his men,
 <lb/>And started, full of choler, mace in hand.
-<pb n="320"/>
+<pb n="4.320"/>
 <lb/>Luhrasp, who had the news thereof at dawn,
 <lb/>Was grieved and all his joy was at an end.
 <lb/>He summoned to him veterans from the host,
@@ -11898,7 +11898,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>Went in pursuit, with scarcely halts for rest,
 <lb/>Till, as the warriors with Gushtasp returned
 <lb/>From hunting, rose the neigh of steeds. He heard,
-<pb n="321"/>
+<pb n="4.321"/>
 <lb/>And said: <q>'Tis from the charger of Zarir—
 <lb/>None other—for it hath a lion’s voice.
 <lb/>If he hath come he hath not come alone,
@@ -11938,7 +11938,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>Yet for thy sake will I return although
 <lb/>My heart is full of choler at Luhrasp.
 <lb/>If he shall give to me the Iranian crown
-<pb n="322"/>
+<pb n="4.322"/>
 <lb/>I will adore him as idolaters
 <lb/>Adore their idols, but if otherwise
 <lb/>I will desert his court, no moon of his
@@ -11978,7 +11978,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>A coronal of roses on his head.
 <lb/>Yet still Luhrasp found pleasure in the race
 <lb/>Of Kai Kaus, remembering Kai Khusrau,
-<pb n="323"/>
+<pb n="4.323"/>
 <lb/>And still Gushtasp aggrieved shed tears of blood,
 <lb/>Consulting on all points with his adviser,
 <lb/>To whom he said: <q>Strive wisely as I may
@@ -12014,7 +12014,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>An archmage said: <q>O fortune’s favourite !
 <lb/>A crown and throne are very dear to men,
 <lb/>None else hath had a son such as Gushtasp,
-<pb n="324"/>
+<pb n="4.324"/>
 <lb/>No man of name e'er heard of such an one.
 <lb/>Dispatch in quest of him to every quarter
 <lb/>Some valiant nobles that are good at need;
@@ -12051,7 +12051,7 @@ and many magnates in those parts give their daughters the name of Odatis.</q></q
 <lb/>Hishwi replied :—
 <lb/><q>Crown, mail, and plunder are the things for thee;
 <lb/>Tell me the truth and try not thus to cross;
-<pb n="325"/>
+<pb n="4.325"/>
 <lb/>Give me a present or declare thyself;
 <lb/>Where are the mien and manners of a scribe?</q></p>
 <p>
@@ -12094,7 +12094,7 @@ ways.</q>
 <lb/>Brave, wise, and generous, by name Nastar.
 <lb/>Gushtasp saluted him, was well received
 <lb/>And seated by the master, who inquired :—
-<pb n="326"/>
+<pb n="4.326"/>
 <lb/><q>Who art thou that in mien and countenance
 <lb/>Art like a king ?</q></p>
 <p>
@@ -12139,7 +12139,7 @@ ways.</q>
 <lb/>His sufferings lying heavy on his heart,
 <lb/>And turned his steps toward the smiths' bazar.
 <lb/>There was a noted smith by name Burab,
-<pb n="327"/>
+<pb n="4.327"/>
 <lb/>Skilled in the trade, the farrier to the court,
 <lb/>Of influence with Caesar; he employed
 <lb/>Some thirty-five apprentices and workmen /
@@ -12177,7 +12177,7 @@ ways.</q>
 <p>
 <lb/>Gushtasp was sorrowful and railed at heaven
 <lb/>Because in this world he had nought but bane.
-<pb n="328"/>
+<pb n="4.328"/>
 <lb/>Hard by the city he beheld a hamlet,
 <lb/>Trees, flowers, and streams—a gladsome spot for youth,
 <lb/>Beside the water was a mighty tree,
@@ -12211,7 +12211,7 @@ ways.</q>
 <lb/>Passed leaving not a wish unsatisfied.
 <lb/>A while elapsed with matters in this stay
 <lb/>Until month after month had passed away.</p></div>
-<pb n="329"/>
+<pb n="4.329"/>
 <div type="textpart" subtype="section" n="7">
 <head>The Story of Katéyin the Daughter of Caesar</head>
 <p><lb/>
@@ -12248,7 +12248,7 @@ ways.</q>
 <lb/>A bunch of fresh narcissus in her hand,
 <lb/>And roamed about until she grew aweary,
 <lb/>But no one of the throng found favour with her.
-<pb n="330"/>
+<pb n="4.330"/>
 <milestone unit="vullers" n="1458"/>
 <lb/>She went back from the hall to her apartments
 <lb/>In state, but wept; her heart yearned for a husband.
@@ -12290,7 +12290,7 @@ ways.</q>
 <lb/>We must behead them both within the palace.</q></p>
 <p>
 <lb/>The bishop said: <q>'Tis not so grave a case,
-<pb n="331"/>
+<pb n="4.331"/>
 <lb/>And hath occurred to many chiefs before thee.
 <lb/>Thou saidest to thy daughter: <q>Choose a husband.</q>
 <lb/>Thou saidest not: <q>Choose an illustrious prince,</q>
@@ -12327,7 +12327,7 @@ ways.</q>
 <p>
 <lb/>They left the palace, Katayun in pain,
 <lb/>Gushtasp with sighs, and reached the village-chief
-<pb n="332"/>
+<pb n="4.332"/>
 <milestone unit="vullers" n="1460"/>
 
 <lb/>In grievous plight; he made a home for them
@@ -12366,7 +12366,7 @@ ways.</q>
 <lb/>And thus the master of the house and he
 <lb/>Lived in the closest bonds of amity.
 <note n="1">Gushtasp, with an eye to the future, wisely ingratiates himself with Hishwi. Cf. p. 340.</note>
-<pb n="333"/></p></div>
+<pb n="4.333"/></p></div>
 <div type="textpart" subtype="section" n="9"><head>How Mirin asked in Marriage Cxsar’s second Daughter</head>
 <p>
 <lb/>There was a certain Ruman hight Mirin,
@@ -12405,7 +12405,7 @@ ways.</q>
 <lb/>And take all prudent counsel.</q></p>
 <p>
 <lb/>So that worthy
-<pb n="334"/>
+<pb n="4.334"/>
 <lb/>Departed to his palace, and considered
 <lb/>The matter every way. He brought and set
 <lb/>Before him writings, tables of the stars,
@@ -12444,7 +12444,7 @@ ways.</q>
 <lb/>They sat with golden goblets. Now when they
 <lb/>Had drained four cups that valiant cavalier
 <lb/>Appeared afar. The twain descried his dust,
-<pb n="335"/>
+<pb n="4.335"/>
 <lb/>And went to meet him onthe field. Mirin,
 <milestone unit="vullers" n="1463"/>
 <lb/>When he beheld Gushtasp, said to Hishwi:—
@@ -12483,7 +12483,7 @@ ways.</q>
 <lb/>To whom he spake; but when he heard the answer
 <lb/>His heart was verily perturbed thereby,
 <lb/>For <q>In the forest of Faskin thou'lt find,</q>
-<pb n="336"/>
+<pb n="4.336"/>
 <lb/>So Caesar said, <q>a wolf huge as a camel,
 <lb/>And if it shall be slaughtered by thy hand
 <lb/>Thou shalt be my most honoured guest in Rum,
@@ -12523,7 +12523,7 @@ ways.</q>
 <lb/>And reached Hishwi just as Gushtasp returned
 <lb/>From hunting, and Hishwi observing him
 <lb/>Went with Mirin to welcome him. Both marvelled
-<pb n="337"/>
+<pb n="4.337"/>
 <lb/>To see his charger and his scimitar.
 <milestone unit="vullers" n="1465"/>
 <lb/>Gushtasp, when he had looked upon the presents,
@@ -12559,7 +12559,7 @@ ways.</q>
 <lb/>Have termed a wolf, shall triumph over me,
 <lb/>My sire will wail when he hath heard the tidings,
 <lb/>Will never rest again but be distraught,
-<pb n="338"/>
+<pb n="4.338"/>
 <lb/>Like those that are insane, and everywhere
 <lb/>Be questing and lamenting; while if I,
 <milestone unit="vullers" n="1466"/>
@@ -12601,7 +12601,7 @@ ways.</q>
 <milestone unit="vullers" n="1467"/>
 
 <lb/>The two long tusks, and going from the forest
-<pb n="339"/>
+<pb n="4.339"/>
 <lb/>Alone fared onward till he reached the sea
 <lb/>Whereby Hishwi was sitting and Mirin
 <lb/>In anguish, deep in converse of the past ;
@@ -12640,7 +12640,7 @@ ways.</q>
 <lb/>Glad-hearted from the wood, and came again
 <lb/>Before that Lion of the fight to whom
 <lb/>Mirin brought many presents, such as he
-<pb n="340"/>
+<pb n="4.340"/>
 <milestone unit="vullers" n="1468"/>
 <lb/>Esteemed befitting, but Gushtasp accepted
 <lb/>Naught but another steed and made for home.
@@ -12682,7 +12682,7 @@ ways.</q>
 <lb/>Renewed its youth when he conveyed thee hither ;
 <lb/>But I shall tarry here in longsome grief,
 <lb/>Not knowing how I shall behold thee more!</q>
-<pb n="341"/>
+<pb n="4.341"/>
 <lb/>They wept upon their couch o'er what might chance,
 <milestone unit="vullers" n="1469"/>
 <lb/>No fire was needed, they were burned with sorrow ;
@@ -12718,7 +12718,7 @@ ways.</q>
 <lb/>And prelates of the kingdom thus: <q> Mirin,
 <lb/>That Lion and that man of high degree
 <lb/>In Rum, hath set it from that fierce wolf free.</q>
-<pb n="342"/>
+<pb n="4.342"/>
 </p></div>
 <div type="textpart" subtype="section" n="11"><head>How Ahran asked Caesar’s third Daughter in Marriage</head>
 <milestone unit="vullers" n="1470"/>
@@ -12759,7 +12759,7 @@ ways.</q>
 <lb/>So to the palace of Mirin he went
 <lb/>Like dust, with one before him to announce him.
 <lb/>Mirin sat in a chamber, which the Moon
-<pb n="343"/>
+<pb n="4.343"/>
 <lb/>Throughout her orbit hath not one to match.
 <milestone unit="vullers" n="1471"/>
 <lb/>The ambitious man was in a warrior’s garb, 
@@ -12801,7 +12801,7 @@ ways.</q>
 <p>
 <lb/>Ahran accepted what Mirin proposed,
 <note n="1">Reading with P.</note>
-<pb n="344"/>
+<pb n="4.344"/>
 <lb/>And swore the mighty oath. Mirin set pen
 <lb/>To paper, wrote a letter to Hishwi,
 <milestone unit="vullers" n="1472"/>
@@ -12842,7 +12842,7 @@ ways.</q>
 <lb/>Dismounting he requested meat and wine
 <lb/>From famed Hishwi who made all haste to say :—
 <lb/><q>Rejoice, illustrious man, both day and night!
-<pb n="345"/>
+<pb n="4.345"/>
 <lb/>Behold this warrior of Caesar’s kindred—
 <lb/>The darling of the ever turning sky.
 <lb/>Not only is he of imperial race,
@@ -12881,7 +12881,7 @@ ways.</q>
 <lb/>Of watered metal and exceeding keen.
 <lb/>Provide me too a mace, a barded steed,
 <lb/>A gleaming glaive and royal garniture.
-<pb n="346"/>
+<pb n="4.346"/>
 <lb/>By God’s victorious fortune and decree
 <lb/>Will I suspend that dragon from a tree.</q></p></div>
 <div type="textpart" subtype="section" n="12"><head>How Gushtasp slew the Dragon and how Caesar gave his Daughter to Ahran</head>
@@ -12915,7 +12915,7 @@ ways.</q>
 <lb/>Prized out a couple of the dragon’s teeth,
 <lb/>And thence departing washed his head and body;
 <lb/>Then as he wallowed in the dust he raised
-<pb n="347"/>
+<pb n="4.347"/>
 <lb/>His voice before the Lord, the Victory-giver,
 <lb/>Who had bestowed on him such mastery
 <lb/>O'er wolf and lusty dragon, saying: <q> Luhrasp
@@ -12955,7 +12955,7 @@ ways.</q>
 <lb/>With noble steeds caparisoned. Gushtasp
 <lb/>Accepted for himself a sword, a bay,
 <lb/>A bow, ten wooden arrows, and a lasso,
-<pb n="348"/>
+<pb n="4.348"/>
 <lb/>Bestowing everything that still remained—
 <lb/>New raiment and dinérs—upon Hishwi.
 <lb/>Gushtasp said: <q>Nobody must know this matter,
@@ -12996,7 +12996,7 @@ ways.</q>
 <lb/><q>This is my day of days! High heaven illumeth
 <lb/>My heart, for none will see in all the world
 <lb/>Midst great and small two sons-in-law like mine.</q>
-<pb n="349"/>
+<pb n="4.349"/>
 <lb/>They wrote a letter unto all the chiefs,
 <lb/>Possessing throne and diadem, and said :—
 <lb/><q>The dragon fierce and towering wolf are slain;
@@ -13033,7 +13033,7 @@ ways.</q>
 <lb/>I will not disregard it, O my guide!</q></p>
 <p>
 <lb/>Gushtasp bade put the saddle on a steed
-<pb n="350"/>
+<pb n="4.350"/>
 <lb/>That rolled the earth up under it. He came
 <lb/>To Caesar’s riding-ground and watched the polo,
 <lb/>Then asking for a stick and ball he cast
@@ -13074,7 +13074,7 @@ ways.</q>
 <lb/>For Caesar treated Katayin with harshness
 <lb/>Because of all the world she chose a stranger,
 <lb/>Yet only followed custom in the matter,
-<pb n="351"/>
+<pb n="4.351"/>
 <lb/>And was disgraced albeit she did well.
 <lb/>Within the forest that pernicious wolf,
 <lb/>And on the mountain that ferocious dragon,
@@ -13117,7 +13117,7 @@ ways.</q>
 <lb/>Turned for a while with matters in this stay
 <lb/>Until the morning when Gushtasp, whose head °
 <lb/>Was full of wisdom, rose and went to him,
-<pb n="352"/>
+<pb n="4.352"/>
 <lb/>Who, when he saw Gushtasp, was mute but gave him
 <lb/>A seat upon the famous golden throne,
 <milestone unit="vullers" n="1481"/>
@@ -13154,7 +13154,7 @@ ways.</q>
 <lb/>Are ye so heartened by this single horseman,
 <lb/>Who sheltered with you? Know him for a snare
 <lb/>Of Abriman’s and, though an iron mountain,
-<pb n="353"/>
+<pb n="4.353"/>
 <lb/>Still but one man; so do not trouble him
 <lb/>With this campaign for I shall not be long.</q></p>
 <milestone unit="vullers" n="1482"/>
@@ -13194,7 +13194,7 @@ ways.</q>
 <lb/>Strong in the only God—the Conqueror—
 <lb/>Lead on the troops, annihilate Ilys,
 <lb/>His throne, his crown, his host, and majesty,
-<pb n="354"/>
+<pb n="4.354"/>
 <lb/>Will grasp his girdle, take him from his saddle,
 <lb/>Raise him aloft and dash him to the ground.</q></p>
 <p>
@@ -13236,7 +13236,7 @@ ways.</q>
 <p>
 <lb/>The messenger returned like wind and told
 <lb/>The answer to Ilyas, but time for fighting
-<pb n="355"/>
+<pb n="4.355"/>
 <lb/>Was not, the sun was sinking rapidly,
 <lb/>Night hid the pallid orb with ebony.</p></div>
 <div type="textpart" subtype="section" n="15">
@@ -13274,7 +13274,7 @@ ways.</q>
 <lb/>And in a moment pierced his warrior-form,
 <lb/>Dismounted him like one bemused, reached out,
 <lb/>And, having clutched his hand, haled him along,
-<pb n="356"/>
+<pb n="4.356"/>
 <lb/>Bore him away before the cavaliers,
 <lb/>And gave him up to Caesar. Then Gushtasp
 <lb/>Led on the host in mass against the foe,
@@ -13311,7 +13311,7 @@ ways.</q>
 <p>
 <lb/>There was a nobleman Kaltis by name,
 <lb/>Wise, learnéd, well advised, and powerful ;
-<pb n="357"/>
+<pb n="4.357"/>
 <milestone unit="vullers" n="1486"/>
 <lb/>Famed Caesar called that sage and said: <q>Depart,
 <lb/>And tell the Shah: <q>If thou wilt pay me tribute,
@@ -13351,7 +13351,7 @@ ways.</q>
 <lb/>They had a splendid banquet-hall prepared,
 <lb/>And called for wine and harp and minstrelsy,
 <lb/>The Shah sent tapestries of cloth of gold,
-<pb n="358"/>
+<pb n="4.358"/>
 <lb/>With raiment and with provand ; but at night
 <lb/>Lay down distracted by anxiety,
 <lb/><q>The spouse of pain and grief,</q> as thou hadst said.</p>
@@ -13391,7 +13391,7 @@ ways.</q>
 <lb/>The goodliest and dearer than the crown.
 <lb/>This cavalier hath made his mark in Rum
 <lb/>By vanquishing a dragon; furthermore
-<pb n="359"/>
+<pb n="4.359"/>
 <lb/>A wolf, like elephant upon the plain,
 <lb/>Such that e'er Caesar dared not pass that way,
 <milestone unit="vullers" n="1488"/>
@@ -13430,7 +13430,7 @@ ways.</q>
 <lb/><q>J will discover all the mystery ;
 <lb/>If 'tis Gushtasp he is both liege and lord,
 <lb/>And all the other lords are but his lieges.</q>
-<pb n="360"/>
+<pb n="4.360"/>
 <milestone unit="vullers" n="1489"/>
 <lb/>This said, he chose a noble company,
 <lb/>The great, illustrious grandsons of Kaus
@@ -13470,7 +13470,7 @@ ways.</q>
 <lb/>Gushtasp made no reply, but of a truth
 <lb/>His thoughts were on Iran. Shrewd-minded Oxsar
 <lb/>Grew serious as he heard the young man’s words,
-<pb n="361"/>
+<pb n="4.361"/>
 <lb/>And thought: <q>He must be speaking truth and yet
 <lb/>The truth alone is hidden.</q></p>
 <milestone unit="vullers" n="1490"/>
@@ -13511,7 +13511,7 @@ ways.</q>
 <lb/>Gushtasp on that bestrode his eager steed,
 <lb/>And, crown on head, approached Zarir his brother.
 <lb/>Now when the Iranian host beheld Gushtasp,
-<pb n="362"/>
+<pb n="4.362"/>
 <milestone unit="vullers" n="1491"/>
 <lb/>Luhrasp’s most glorious son, they went afoot —
 <lb/>To welcome him, but in distress and tears,
@@ -13550,7 +13550,7 @@ ways.</q>
 <lb/>And earnestness, and sent to Caesar saying :—
 <lb/><q>Thy business with Iran hath been achieved,
 <note n="1">Reading with P.</note>
-<pb n="363"/>
+<pb n="4.363"/>
 <lb/>For matters have attained a pass indeed ;
 <lb/>Zarir and all the army are in hopes
 <lb/>That thou wilt come alone and feast with us.
@@ -13591,7 +13591,7 @@ ways.</q>
 <lb/>And, in the charge of all that wealth, a sage,
 <lb/>Who, having carried them before Gushtasp,
 <lb/>Accounted to his treasurer for all.
-<pb n="364"/>
+<pb n="4.364"/>
 <lb/>Upon the troops and chieftains of Iran,
 <lb/>Upon the scions of the mighty men,
 <lb/>And every notable and valiant swordsman,
@@ -13630,7 +13630,7 @@ ways.</q>
 <lb/>Did homage to him and rejoiced in him,
 <lb/>Then said Gushtasp: <q>O Shah! God grant that time —
 <lb/>May never look on me deprived of thee.
-<pb n="365"/>
+<pb n="4.365"/>
 <lb/>Thou art the king; I am thy liege and I
 <lb/>Will trample on the fortune of the foe.
 <lb/>May all thine ends be prosperous. God grant

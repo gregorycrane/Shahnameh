@@ -3,15 +3,16 @@
 <text>
 
 <body>
-<div><head>IV. THE SASANIAN DYNASTY (continued)</head>
+    
+    <div type="textpart" subtype="dynasty" n="Sasanian-b"><head>IV. THE SASANIAN DYNASTY (continued)</head>
 
-<div><head>XXXV. BAHRAM GUR: HE REIGNED SIXTY-THREE YEARS</head>
-<pb n="3"/>
+<div type="textpart" subtype="reign" n="35"><head>BAHRAM GUR: HE REIGNED SIXTY-THREE YEARS</head>
+<pb n="7.3"/>
 
 
 
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>Bahram’s accession and inaugural measures. His adventures, amorous and otherwise, among his subjects. His relations with foreign potentates. His instructions to his officials, and remission of taxation. His introduction of the Gypsies into Iran, and his death.</p>
 </div>
 <div><head>NOTE</head>
@@ -20,7 +21,7 @@
 According to Tabari he reigned either eighteen or twenty-three years.<note place="foot">NT, p. 112.</note> Mas'udi says the latter.<note place="foot">MM, id.</note> On the other hand, Mir Khand, who tells us that he followed the most generally received account, perhaps Firdausi’s own, states that Bahram reigned sixty-three years.<note>RM, Pt. I, Vol. ii. p. 362.</note> No doubt, popular tradition lovingly prolonged to the utmost the reign of this Shah who, like James V. of Scotland, was <quote>King of the Commons.</quote> The poet was at no loss for material in this part of his work, and the reign is the most diverting in the Shahnameh. Its interest with regard to the question of the provenance of the Arabian Nights has been noted already.<note place="foot">See Vol. vi. p. 250.</note> As is to be expected in the circumstances, the subject-matter is largely legendary, though some authentic features have been preserved, and there can be little doubt but that Bahram’s own character as depicted by Firdausi is in the main historically correct. He fulfilled the promises made by him when a candidate for the throne,
 
 
-<pb n="4"/>
+<pb n="7.4"/>
 
 but gave himself up largely to pleasure, though this does not seem
 to have impaired his activities at critical moments. He appears, too,
@@ -59,14 +60,14 @@ the Turks as the enemy,<note n="12">NT, p. 99; MM, ii. 190; RM, Pt. I., Vol. ii.
 scene for another century and more,<note n="13">See Vol. i. p. 20.</note> we learn approximately the
 
 
-<pb n="5"/> 
+<pb n="7.5"/> 
 earliest date at which the story of Bahram’s exploit could have been edited in its existing form. According to the Persian Tabari<note n="1">ZT, ii. 120.</note> —the version adapted from the original Arabic by Bal’ami, the minister of the Samanid prince Mansur, son of Nuh (A.D. 961-976), about A.D. 963—the Khan was put to flight, according to the Arabic<note n="2">NT, p. 101.</note> slain in the battle by Bahram’s own hand. Both agree that the Khatun, or wife of the Khan, was taken prisoner and sent to serve in the famous Fire-temple at Shiz, whither Bahram had gone to pray for success in his expedition.<note n="3">See p. 86; ZT, ii. 121; NT, 104.</note> According to the Arabic Tabari, Bahram, as an act of thanksgiving for his victory, relieved his subjects of taxation for three years.<note n="4">NT, 105.</note> This probably is the popular version of the fact that great reforms in that connexion were effected during his reign, but they could not have been justified, one would think, to the extent stated by the amount of plunder taken from the Haitalians, and still less to the extent described in the Shahnama, which affirms that he almost reformed taxation away altogether. It may be added that the various accounts of Bahram’s expedition against the Haitalians are in substantial accord though they differ in detail, e.g., as to how far the enemy had advanced at the time of the battle, the route that Bahram followed in his march, and the number of troops that he took with him.
 </p>
 
 <p> §24. Bahram’s war with the Eastern Roman Empire, in which he was not very successful, came to an end in A.D. 422, but Firdausi (§ 19) makes it synchronise with that against the Haitalians which, according to the Persian Tabari,<note n="5">ZT, ii. 119.</note> took place five years later. Next we hear of an envoy sent by Caesar (§§ 19, 23), and then of his belated audience with the Shah. The points discussed are not the terms of peace, but certain <quote>hard questions,</quote><note n="6">As to which see p. 102 seq.</note> and it is only incidentally that the envoy mentions that Rum is ready to pay tribute to Iran. We have a similar case in the reign of Nushirwan when the Raja of Hind sends the game of chess to that Shah, who returns the compliment with the game of nard,<note n="7">See p. 384 seq.</note> while in the next volume we shall find the disgraced counsellor Buzurjmihr regaining the favour of the same Shah by his success in solving another problem set by Caesar. §§ 26-38. For instances in the Shahnama of kings going incognito to visit foreign courts, see Vol. vi. pp. 325, 335. In the Arabic Tabari, Bahram’s motive for visiting Hind is to see whether by annexing a portion of it he could lighten the taxes of his own
 
 
-<pb n="6"/>
+<pb n="7.6"/>
 subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan of Chin, as Firdausi puts it, and historically against the Haitalians, the one to Hind appears to be wholly fabulous. It is given, however, at length by Tabari and Mir Khand, and mentioned by Mas’udi.<note n="2">Id. RM, I, ii. 360; MM, ii. 191.</note> It will be seen that Bahram in the course of his well-meant efforts to promote the welfare of his subjects does not find it quite so easy as he expected to make everybody happy by legislation. 
 </p><p>
 §39. Professor Nöldeke is inclined to consider Bahram’s importation of Gypsies from Hind to Iran historical.<note n="3">NT, p. 99 note.</note> The details of course belong to the province of popular legend, but are delightfully characteristic of both parties concerned. The Gypsy language appears to be a debased form of Hindustani. According to Mir Khand the Gypsies intermarried with the Persians, and the Jats were said to be their offspring. Consequently, nearly every Jat is a  musician.<note n="4">RM, I, ii. 357.</note>
@@ -80,7 +81,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 </div>
 
 <div type="textpart" subtype="section" n="1"><head>How Bahram ascended the Throne, charged the Officers, and wrote Letters to all the Chiefs</head>
-<p><pb n="7"/>
+<p><pb n="7.7"/>
 <lb/>Whenas Bahram Gur sat upon the throne
 <lb/>The sun acclaimed him while the Shah adored
 <lb/>The Maker—the all-seeing, watchful World-lord,
@@ -115,7 +116,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>His chiefs—called for their steeds. The Shah, the third day,
 <lb/>Sat on the throne, and said:<q>Religious usage
 
-<pb n="8"/>
+<pb n="7.8"/>
 
 <lb/>Must be observed. We witness to God's being,
 <lb/>And make our souls familiar with the Faith.
@@ -158,7 +159,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>And say: <q>Bahram hath mounted on the throne
 <lb/>With joy—a lord of bounty and of right,
 <lb/>A shunner of all fraud and knavery—
-<pb n="9"/>
+<pb n="7.9"/>
 
 <lb/>For he hath Grace and stature, love and justice:
 <lb/>The Judge all-holy is in all his thoughts.
@@ -192,7 +193,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>Next day when Sol rose, when the hills bulked large,
 <lb/>And sleep was broken, to Munzir there came
 </p>
-<pb n="10"/>
+<pb n="7.10"/>
 <milestone unit="calced" n="1490"/>
 <p>
 <lb/>A panic-stricken throng and said to him —
@@ -238,7 +239,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>These gave they to Khusrau, made much of him,
 </p>
 
-<pb n="11"/>
+<pb n="7.11"/>
 
 <p>
 <lb/>And seated him upon the glorious throne.
@@ -280,7 +281,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>His station. Noble, archimage, and marchlord,
 </p>
 
-<pb n="12"/>
+<pb n="7.12"/>
 
 
 <p>
@@ -323,7 +324,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>It happened that Bahram Gur went one day
 <lb/>With certain warriors to hunt the lion.
 
-<pb n="13"/>
+<pb n="7.13"/>
 <lb/>An old man, staff in hand, drew near to him,
 <lb/>And said: <q>God-fearing Shah! within our city
 <lb/>There are two men, one rich, the other poor.
@@ -369,7 +370,7 @@ subjects.<note n="1">NT, p. 106.</note> Unlike his expedition against the Khan o
 <lb/>Then Lambak,
 <lb/>Pleased with the voice of one that spake so fairly,
 <lb/>Made answer straight: <q>Come in, O cavalier!
-<pb n="14"/>
+<pb n="7.14"/>
 <lb/>And may the king approve thee. If ten others
 <lb/>Were with thee it were better; each had been
 <lb/>A moon above my head.</q>
@@ -415,7 +416,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Bahram had wine in hand; Lambak too loved it.
 </p>
 
-<pb n="15"/>
+<pb n="7.15"/>
 <p>
 <lb/>When it was day he hurried to Bahram,
 <lb/>And said: <q>Be merry night and day, and free
@@ -467,7 +468,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Thy hospitality shall yield thee fruit,
 <lb/>And, if thou perseverest, thrones and crowns.</q>
 </p>
-<pb n="16"/>
+<pb n="7.16"/>
 <p>
 <lb/>Dust-swift he put the saddle on his steed,
 <lb/>Departed merrily and sought the chase.
@@ -511,7 +512,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 
 <p>
 <lb/>They gave the message, and Bahram Gur said:
-<pb n="17"/>
+<pb n="7.17"/>
 <lb/><q>If here my lodging will prove troublesome
 <lb/>I will not enter but will sleep outside
 <lb/>The door, ’tis all I want.</q>
@@ -565,7 +566,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 
 
 
-<pb n="18"/>
+<pb n="7.18"/>
 <lb/>And now I have beheld made manifest
 <lb/>What thou hast quoted from a sage’s words.</q>
 </p>
@@ -614,7 +615,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>He had a dainty handkerchief of silk
 <lb/>Inside his boot, all musk and spicery;
 <lb/>He took it out and put therein the droppings,
-<pb n="19"/>
+<pb n="7.19"/>
 <lb/>Then flung them all together in the ditch.
 <lb/>Away went Baraham and snatched it up
 <lb/>While Shah Bahram stood dazed. <q>Oho!</q> said he,
@@ -656,7 +657,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>And no room too on earth for all the goods—
 <lb/>Gold, silver, every gem, and, on the top
 <lb/>Of every bag, a lofty diadem.
-<pb n="20"/>
+<pb n="7.20"/>
 
 <lb/>The archmage’s reckoning failed. He called for camels,
 
@@ -709,7 +710,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Twas well that other folk should have their fling.
 </p>
 
-<pb n="21"/>
+<pb n="7.21"/>
 </div>
 
 <div type="textpart" subtype="section" n="6"><head>How Bahram slew Lions and forbade Wine-drinking</head>
@@ -745,7 +746,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>And said: <q>O famous chief! may fortune’s star
 <lb/>Be at thy beck. A rural chief am I,
 <lb/>O holy one! and owner of this march,
-<pb n="22"/>
+<pb n="7.22"/>
 <lb/>This tilth, and mansion, ox and ass and sheep.
 <lb/>Those lions caused me sorrow and despair;
 <lb/>Now by thy hand, thy thumb-ring, and thy hilt
@@ -797,7 +798,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>And posies fashioned for imperial use.
 </p>
 
-<pb n="23"/>
+<pb n="7.23"/>
 
 <p>
 <lb/>The world-lord, seeing him, saluted him,
@@ -847,7 +848,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 </p>
 <p>
 <lb/>Thus passed a year while all held wine forbidden
-<pb n="24"/>
+<pb n="7.24"/>
 
 
 <lb/>E’en when the Shah himself held revelry,
@@ -890,7 +891,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Before the Shah, and told about the wonder
 
 
-<pb n="25"/>
+<pb n="7.25"/>
 <lb/>That he had seen, with his own eyes, and none
 <lb/>Beside had heard. The world-lord all amazed
 <lb/>Called the high priest and chiefs, and bade the former:
@@ -940,7 +941,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>A proclamation went up from the gate:
 <lb/><q>O paladins who wear the golden girdle!
 <lb/>Drink wine in moderation, all of you!
-<pb n="26"/>
+<pb n="7.26"/>
 <lb/>Considering the end when ye begin,
 <lb/>And when the wine hath led you to delight
 <lb/>Then go to sleep but not in helpless plight.</q>
@@ -985,7 +986,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <p>
 <lb/>The archimage,
 <lb/>Who took this for an order, turned aside
-<pb n="27"/>
+<pb n="7.27"/>
 <milestone unit="calced" n="1502"/>
 <lb/>Toward the village and informed the folk:
 <lb/><q>This verdant spot—all fruitage, men, and cattle—
@@ -1037,7 +1038,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 
 <p>
 <lb/>Going from the royal pesence
-<pb n="28"/>
+<pb n="7.28"/>
 <lb/>The archmage sped forth to that scene of ruin.
 <lb/>From street to street he hurried and at last
 <lb/>Came on an old man unemployed. Dismounting
@@ -1086,7 +1087,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <p>
 <lb/>The elder joyed to hear this and was freed
 <lb/>From longsome grief. He hied him home forthwith,
-<pb n="29"/>
+<pb n="7.29"/>
 <lb/>Brought others to his Cistern and began
 <lb/>To people and apportion out the lands.
 <lb/>They borrowed from their neighbours ox and ass,
@@ -1130,7 +1131,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>He bade me: <q>Take thou treasure and dinars,
 <lb/>And make this verdant spot a wilderness,</q>
 <lb/>But I feared God and blame from great and small.
-<pb n="30"/>
+<pb n="7.30"/>
 
 <lb/>When friends, though one in heart, are two in aim
 <lb/>’Tis ruin, as I have perceived, to both;
@@ -1170,7 +1171,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>A robe of honour too they fashioned
 <lb/>Of royal stuffs, and cloud-ward raised his head.
 </p></div>
-<pb n="31"/>
+<pb n="7.31"/>
 <div type="textpart" subtype="section" n="9"><head>How Bahram married a Country-miller’s Daughters</head>
 
 
@@ -1209,7 +1210,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Folk title him <q>Bahram Gur.</q></q>
 </p>
 
-<pb n="32"/>
+<pb n="7.32"/>
 
 <p>
 <lb/>This he heard,
@@ -1220,7 +1221,7 @@ duced into Persia till the reign of Nushirwan. See p. 384 seq.</note> and made s
 <lb/>Provided wine and boon-companions,
 <lb/>And handed him a crystal cup. Meanwhile
 <lb/>Four of the girls, those chief in rank, came forth—
-<lb/>One Mushkinab,<note>Mushkinaz in C. and P. Mushkinab means "Pure Musk"; Mushkinak is a species of bird; Naztab is <gloss>Charmer,</gloss>  and Susanak <gloss>Little
+<lb/>One Mushkinab,<note>Mushkinaz in C. and P. Mushkinab means <gloss>Pure Musk</gloss>; Mushkinak is a species of bird; Naztab is <gloss>Charmer,</gloss>  and Susanak <gloss>Little
 Lily</gloss>.</note> the others Mushkinak,
 <lb/>Naztab, and Sasanak. With cheeks like spring,
 <lb/>With stately mien, and hand in hand, they went
@@ -1261,7 +1262,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And this is all that I can say for them.</q>
 </p>
 
-<pb n="33"/>
+<pb n="7.33"/>
 
 <p>
 <lb/>Bahram said: <q>Give me all the four, and henceforth
@@ -1320,7 +1321,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Rose, and the world grew like a shining lamp,
 <lb/>They talked at large of base and upright men,
 
-<pb n="34"/>            
+<pb n="7.34"/>            
 
 <lb/>But with the day the village-chief arrived,
 <lb/>And said to that old man: <q>O brave of luck!<note><cit><quote>O vaillant Rouzbeh.</quote> <bibl> Mohl.</bibl></cit></note>
@@ -1357,7 +1358,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>With spade in hand and asking of the troops
 <lb/>Where was Bahram, the Shah, amid the throng?
 <lb/>An archimage replied: <q>What wilt thou? Speak.
-<pb n="35"/>  
+<pb n="7.35"/>  
 <lb/>Thou canst not see the monarch of the world.</q><note>Reading with P.</note>
 <lb/>The man said: <q>Since I may see not his face
 <lb/>I will speak not before his followers.</q>
@@ -1406,7 +1407,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Of mortar and burnt brick—like Paradise.
 <lb/>They plied their picks; far down a doorway showed.
 </p>        
-<pb n="36"/>
+<pb n="7.36"/>
 <p>
 <lb/>An archmage, seeing, entered by the door,
 <lb/>He and another uninvited guest.
@@ -1454,7 +1455,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>May nothing e’er be added to my wealth
 <lb/>Unless by justice and the scimitar.
 <lb/>Bestow the whole upon the poor. God grant
-<pb n="37"/>
+<pb n="7.37"/>
 <lb/>That no mishap befall us. For my troops
 <lb/>No share is requisite, our valour openeth
 <lb/>The earth to us. As is the use of kings
@@ -1494,7 +1495,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And on again right up to Kai Kubad,
 <lb/>Who placed the crown of greatness on his head,
 <lb/>See who of all these mighty men is left,
-<pb n="38"/>
+<pb n="7.38"/>
 <lb/>And who remaineth to applaud their justice ?
 <lb/>Now, since the circle of their years is cut,
 <lb/>Their reputation is their monument,
@@ -1531,7 +1532,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>This Wayside Hostelry. Good sooth! no king
 <lb/>Hath seen, nor will a hundred see, such jewels
 <lb/>As these in any sea, yet these and all
-<pb n="39"/>
+<pb n="7.39"/>
 <lb/>The buffaloes and onagers thou gavest
 <lb/>Without exception to the poor! May crown
 <lb/>And girdle never lack thee. Health be thine,
@@ -1571,7 +1572,7 @@ Lily</gloss>.</note> the others Mushkinak,
 </p>
 <p>
 <lb/>Said the merchant : <q> Foolish fellow !
-<pb n="40"/>
+<pb n="7.40"/>
 <lb/>Thy soul is starving through thy lack of wit.
 <lb/>Since I have brought to thee this hot roast fowl
 <lb/>Mere shame should stay thee asking aught beside.</q>
@@ -1615,7 +1616,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>For such the cavalier asked yesterday,
 <lb/>Bring food and spread the board.</q>
 <lb/>He went before
-<pb n="41"/>
+<pb n="7.41"/>
 <lb/>Bahram and said: <q>O cavalier! I bring thee
 <milestone unit="calced" n="1512"/>
 <lb/>All hot what yesterday thou didst require,
@@ -1659,7 +1660,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Among the lords. They brought to him a purse,
 <lb/>And made his awe-gloomed spirit like the moon.
 <lb/>Then to the merchant said Bahram : <q> Know this:
-<pb n="42"/>
+<pb n="7.42"/>
 <milestone unit="calced" n="1513"/>
 <lb/>Thou shalt be slave for life to thine apprentice,
 <lb/>And, further, pay him twice in every month
@@ -1696,7 +1697,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>He answered :—
 <lb/><q>Choose we a thousand horsemen from the host,
 <lb/>And let them bring the cheetahs and the hawks,<note>1 In C the next section begins here. We follow the arrangement in P.</note>
-<pb n="43"/>
+<pb n="7.43"/>
 <lb/>The falcons and the noble peregrines,
 <lb/>Go to Turan and pass a month in hunting.</q></p>    
 
@@ -1738,7 +1739,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Feed from the sack.</q>
 <milestone unit="calced" n="1514"/>
 <lb/>She went to her own chamber,
-<pb n="44"/>
+<pb n="7.44"/>
 <lb/>Swept out the house and laid down mat and pillow,
 <lb/>With blessings on Bahram, went to the cistern,
 <lb/>Drew water, and berated to herself
@@ -1779,7 +1780,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>The tray with eggs thereon and water-cresses,
 <lb/>A roasted leg of lamb and everything
 <lb/>That she had cooked. Bahram, when he had washed
-<pb n="45"/>
+<pb n="7.45"/>
 <lb/>His hands, his dinner done, felt indisposed
 <lb/>For slumber and still ailed. Now when the night
 <lb/>Foregathered with the sun the woman fetched
@@ -1823,7 +1824,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And showed its face in heaven, the woman left
 <lb/>The house and bade her spouse: <q/>Bring pot and fire,
 <lb/>And in the water put all kinds of grain
-<pb n="46"/>
+<pb n="7.46"/>
 
 <lb/>Before the sun shall see it. Mind it well
 <lb/>While I go milk the cow.<q/>
@@ -1870,7 +1871,7 @@ Lily</gloss>.</note> the others Mushkinak,
 </p>
 <p>
 <lb/>The milk flowed forth.
-<pb n="47"/>
+<pb n="7.47"/>
 <lb/>The good wife cried: <q/>O God, our Succourer!
 <lb/>Thou hast recalled to justice the unjust,
 <lb/>For, if not so, this virtue were not his.<q/>
@@ -1918,7 +1919,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>They did not do their best. We ne’er suspected
 <lb/>That ’twas the Shah, that such an one as he
 <lb/>Would come to this place as a guest, would come
-<pb n="48"/>
+<pb n="7.48"/>
 <lb/>To this poor home of ours.</q>
 <lb/>Bahram replied:—
 <lb/><q>Good friend! I give to thee this march, the land,
@@ -1954,7 +1955,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>The falconers had eight score hawks with them,
 <lb/>And ten score noble peregrines and falcons.
 <lb/>Among them there was one bird black of hue,
-<pb n="49"/>
+<pb n="7.49"/>
 <lb/>More precious in the Shah’s eyes than the rest,
 <lb/>With sable talons and with yellow beak,
 <lb/>Like gold a-gleam on lapis-lazuli.
@@ -1992,7 +1993,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Brocade was spread, and all the place was full
 <lb/>Of slaves and wealth. A pool was in the centre
 <lb/>Whereby an old man sat. Three girls like ivory
-<pb n="50"/>
+<pb n="7.50"/>
 <lb/>Sat by him wearing turquoise crowns. Their cheeks
 <lb/>Were like the spring, their statures tall, their eyebrows
 <lb/>Arched, and their tresses lassos; each girl held
@@ -2030,7 +2031,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 </p>
 
-<pb n="51"/>
+<pb n="7.51"/>
 
 <p>
 <milestone unit="calced" n="1519"/>
@@ -2075,7 +2076,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>But sing a song about the Shah.</q>
 </p>
 <p><lb/>The Idols
-<pb n="52"/>
+<pb n="7.52"/>
 <lb/>Took heart to sing and play. The songstress sang:—
 <lb/><q>O moon-faced king! the moon in heaven
 <lb/>Alone is like to thee,
@@ -2111,7 +2112,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>A better son-in-law than me who am
 <lb/>'Mid kings a hero and the king of men.
 <lb/>Bestow thy daughters on me—all the three—
-<pb n="53"/>
+<pb n="7.53"/>
 <lb/>And I will raise thy coronet to Saturn.</q>
 <lb/><q>O king!</q> Barzin replied, <q>may wine and bearer
 <lb/>Find favour in thy sight. Who will dare say
@@ -2156,7 +2157,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And bade a noble of his escort bring
 <lb/>Four golden litters,<note>The fourth was for himself and needful. See below.</note> and, when all three Idols
 <lb/>Were set therein, they were encircled there
-<pb n="54"/>
+<pb n="7.54"/>
 <lb/>By forty Ruman slaves—their devotees—
 <lb/>Who called down praises on them as they went.</p>
 <p>
@@ -2205,7 +2206,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 <div type="textpart" subtype="section" n="14"><head>How Bahram slew Lions, went to the House of a Jeweller, and married his Daughter</head>
 
-<p><pb n="55"/>
+<p><pb n="7.55"/>
 <lb/>The Shah, on urging thence his steed Shabrang,
 <lb/>Came on a forest and beheld before it
 <lb/>Two savage lions, strung and drew his bow.
@@ -2247,7 +2248,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Gold, silver, trinketry. He hath withal
 <lb/>One only daughter, skilful on the harp.
 <lb/>Her tresses cluster on her head in curls.
-<pb n="56"/>
+<pb n="7.56"/>
 
 <lb/>He will take wine from her hand only. None
 <lb/>Hath seen an old man like him. How could he
@@ -2296,7 +2297,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>He hath above a hundred ladies’ bowers!
 <lb/>Tis ill to have a king of kings like this.
 
-<pb n="57"/>
+<pb n="7.57"/>
 
 <lb/>Just now a eunuch reckoned up nine hundred
 <lb/>And thirty damsels wearing jewelled crowns
@@ -2343,7 +2344,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Was coming from the hunting-ground my horse
 <lb/>Went lame, and I perforce got left behind.
 
-<pb n="58"/>
+<pb n="7.58"/>
 <lb/>Here in this thoroughfare the folk will steal
 <lb/>A steed like this and my gold harness too,
 <lb/>So I need help.</q>
@@ -2393,7 +2394,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And was instructed to secure the steed.
 <lb/>Elsewhere they lodged and fed Bahram Gar’s servant.
 <lb/>They set a low seat for the host himself,
-<pb n="59"/>
+<pb n="7.59"/>
 <lb/>Who took his place close to his guest the Shah,
 <lb/>And then began to offer his excuse,
 <lb/>Thus saying to Bahram: <q>Brave paladin!
@@ -2441,7 +2442,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>And dissipateth care. My Heart’s Delight
 <lb/>Is named Arzi—my heart’s delight and server.</q>
 
-<pb n="60"/>
+<pb n="7.60"/>
 
 <lb/>He said to that tall Cypress: <q>Bring thy harp,
 <lb/>Come in thy loveliness before Gushasp.</q>
@@ -2480,7 +2481,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Like monarch whose troops are
 <lb/>With victory blest.</q>
 </p>
-<pb n="61"/>
+<pb n="7.61"/>
 <p>
 <lb/>This ditty done, toward the guest she turned,
 <lb/>Turned toward him with a song and plaintive chords:—
@@ -2524,7 +2525,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <p>
 <lb/>Arzi replied:—
 
-<pb n="62"/>
+<pb n="7.62"/>
 <lb/><q>Good, noble father!<note>Reading with P.</note> if thou wouldst bestow me
 <lb/>On any then my partner is Gushasp,
 <lb/>The cavalier. One that doth look upon
@@ -2571,7 +2572,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 
 
-<pb n="63"/>
+<pb n="7.63"/>
 <lb/>Complete the work and leave the rest to God:
 <lb/>The sky is not at feud with Mahiyar.</q></p>
 
@@ -2618,7 +2619,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>This is no time to sleep or place to sit,
 <lb/>Because the world’s king is thy guest within
 <lb/>This sorry house of thine!</q>
-<pb n="64"/>
+<pb n="7.64"/>
 
 </p>
 
@@ -2665,7 +2666,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Thy last night’s crown. Make him an offering
 <lb/>Of jewels worthy of a king—three rubies
 <lb/>Of royal worth—and, when thou shalt behold
-<pb n="65"/>
+<pb n="7.65"/>
 <lb/>His sun-like face, enfold thine arms before him,
 <lb/>Keep thine eyes fixed on him and think of him
 <lb/>As thine own soul and body. Answer meekly
@@ -2712,7 +2713,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 
 
-<pb n="66"/>
+<pb n="7.66"/>
 <lb/>Of kings, and said: <q>O Shah! O chief! O wise!
 <lb/>O great! O mighty one! O warrior!
 <lb/>O archimage! may this world ever be
@@ -2754,7 +2755,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/><q>O monarch undaunted! the lion in shame
 <lb/>Will slink from the wood at the bruit of thy name.
 <lb/>Shah, victor, host-breaker art thou. In thy mien
-<pb n="67"/>
+<pb n="7.67"/>
 <lb/>The tints of the tulip on jasmine are seen.
 <lb/>In stature no ruler on earth is thy peer,
 <lb/>In looks thou transcendest the moon in her sphere.
@@ -2794,7 +2795,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>They bought one onager or ten gazelles,
 <lb/>And whosoever was in want of meat,
 <lb/>For cooking for his guests or for his children,
-<pb n="68"/>
+<pb n="7.68"/>
 
 <lb/>Might carry home ground-game and water-fowl
 <lb/>By ass-loads.
@@ -2848,7 +2849,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 <p>
 <lb/><q>The place is ill,</q> he answered.
-<pb n="69"/>
+<pb n="7.69"/>
 <lb/><q>Good sooth! wouldst thou have bird’s milk?</q>
 </p>
 
@@ -2896,7 +2897,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Bahram
 <lb/>Rejoined: <q>Thou art not one of the first water,
 
-<pb n="70"/>
+<pb n="7.70"/>
 <lb/>Chief though thou be; so strive not with a soldier.
 <lb/>What is thy name?</q>
 <lb/>He answered: <q>Farshidward,
@@ -2934,7 +2935,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>More camels, steeds, and asses. Earth is full
 <lb/>Of his amassed dinars, but would that he
 <lb/>Had neither skin nor marrow to his body!
-<pb n="71"/>
+<pb n="7.71"/>
 <lb/>- A famished paunch and nakedness are his;
 <lb/>He hath no child, no kin, no friends, no goods.
 <lb/>A captive in the hands of Greed and Need
@@ -2986,7 +2987,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 <p>
 <lb/>He was the Light of hearts but he became
-<pb n="72"/>
+<pb n="7.72"/>
 <lb/>The Lustre of the world<note>He was, i.e. his name was, Dilafruz, but he became Gitiafruz.</note> and carried out
 <lb/>His task triumphantly. He led the troop
 <lb/>O’er hill and plain past countless flocks of sheep.
@@ -3024,7 +3025,7 @@ Lily</gloss>.</note> the others Mushkinak,
 
 
 
-<pb n="73"/>
+<pb n="7.73"/>
 <lb/>Three years to order it. I have invoked
 <lb/>To mine assistance certain other scribes,
 <lb/>And settled them upon this fertile mount,
@@ -3061,7 +3062,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <lb/>Or fix our heart upon this Wayside Inn.
 <lb/>Evanished from the world are Faridin,
 <lb/>Iraj withal, Tar, and, amidst the mighty,
-<pb n="74"/>
+<pb n="7.74"/>
 <lb/>Sam, Shah Kaus, and Kai Kubad, besides
 <lb/>The other potentates whose names we cherish,
 <lb/>And mine own sire who filled my heart with pain
@@ -3100,7 +3101,7 @@ Lily</gloss>.</note> the others Mushkinak,
 <p>
 <lb/>Bahram bade slaves set up the imperial throne
 <lb/>Within the pleasance, then in spring-tide beauty.
-<pb n="75"/>
+<pb n="7.75"/>
 <lb/>They brought the turquoise throne at his command,
 <lb/>And set it 'neath a blossom-shedding tree,
 <lb/>They brought forth wine and cups, and minstrels went
@@ -3139,7 +3140,7 @@ Lily</gloss>.</note> the others Mushkinak,
 good resolutions, which he did not keep: <quote>As I intend, when forty
 years old, to abstain from wine ; and as I now want somewhat less than
 one year of being forty, I drink wine most copiously.</quote> EHI, iv. 226.</note>
-<pb n="76"/>
+<pb n="7.76"/>
 
 
 <lb/>But when I see the apples amber-cheeked,
@@ -3182,7 +3183,7 @@ one year of being forty, I drink wine most copiously.</quote> EHI, iv. 226.</not
 <lb/>He saw the plain well stocked with onager,
 <lb/>The woods alive with lions, and thus said:—
 
-<pb n="77"/>
+<pb n="7.77"/>
 
 <lb/><q>Wine is our quarry to-night, for on the sand
 <lb/>Are many lion-tracks, and we must have
@@ -3228,7 +3229,7 @@ one year of being forty, I drink wine most copiously.</quote> EHI, iv. 226.</not
 <lb/>Hast thou not any mercy on thyself?
 <lb/>The wood is full of lions and their young—
 
-<pb n="78"/>
+<pb n="7.78"/>
 
 <lb/>Cubs that are sucklings. Let the lions be,
 <lb/>For in the autumn-time they breed. This forest
@@ -3273,7 +3274,7 @@ one year of being forty, I drink wine most copiously.</quote> EHI, iv. 226.</not
 <lb/>Had golden tables laid with services
 <lb/>Of ware of Chin where lamb and other meats
 
-<pb n="79"/>
+<pb n="7.79"/>
 </p>
 
 <p>
@@ -3315,7 +3316,7 @@ one year of being forty, I drink wine most copiously.</quote> EHI, iv. 226.</not
 <lb/>On those whom he hath robbed and wronged withal.
 <lb/>If any horse shall injure growing crops,
 <lb/>Or harm fruit-bearing trees, the horse’s owner,
-<pb n="80"/>
+<pb n="7.80"/>
 <lb/>Be he a noble or of no account,
 <lb/>Shall not escape a year’s imprisonment.
 <lb/>My work is but to carry from the desert
@@ -3361,7 +3362,7 @@ About the host like a bazar in Chin.
 <lb/>And, nearing a buck onager, let fly
 <lb/>His arrow, when the moment came, and skewered
 <lb/>Together chest and buttock. As it died
-<pb n="81"/>
+<pb n="7.81"/>
 <lb/>The nobles of the golden belt came up;
 <lb/>They marvelled at his shot, and all applauded,
 <lb/>They could not see the arrow’s point and feathers,
@@ -3403,7 +3404,7 @@ About the host like a bazar in Chin.
 <lb/>Six hundred too he branded in a batch,
 <lb/>Then freed them for the honour of his name,
 <lb/>And for his will and pleasure, while a man
-<pb n="82"/>
+<pb n="7.82"/>
 <lb/>Went round the host proclaiming thus: <q>Let none
 <lb/>Sell to the merchants any onagers
 <lb/>On this broad plain but give them as a gift.</q>
@@ -3443,7 +3444,7 @@ About the host like a bazar in Chin.
 <lb/>And reverence for God, is plundering,
 <lb/>Keep nothing of this kind concealed from me;
 <lb/>I want not people that conceal their wants.
-<pb n="83"/>
+<pb n="7.83"/>
 <lb/>I will enrich the poor, I will restore
 <lb/>The souls of misbelievers to the Faith;
 <lb/>I will defray the debts of those who have
@@ -3484,7 +3485,7 @@ About the host like a bazar in Chin.
 <lb/>And said: <q>The tribute from Khazar and Ram
 <lb/>I give, when paid, to these, but for the nonce
 <lb/>Now requisition ass-loads of dinars,
-<pb n="84"/>
+<pb n="7.84"/>
 <lb/>And treasure-loads from Ispahan and Rai.
 <lb/>A women’s house when in such case as this
 <lb/>Will grow all desolate and not befit
@@ -3519,7 +3520,7 @@ About the host like a bazar in Chin.
 <lb/>The warriors old and young within Iran,
 <lb/>All came before Bahram Gur, full of wrath,
 <lb/>Of rage, and bitterness, and bluntly said:—
-<pb n="85"/>
+<pb n="7.85"/>
 <lb/><q>Thy glorious fortune hath displayed its back.
 <lb/>The heads of kings should be intent on fighting,
 <lb/>But thy heart is intent on sport and feasting;
@@ -3566,7 +3567,7 @@ About the host like a bazar in Chin.
 <lb/>Son of Bahram, Ruhham and Kharzarwan,
 <lb/>Which twain were of Sasanian lineage,
 <lb/>One king of Rai, and of Gilan the other,
-<pb n="86"/>
+<pb n="7.86"/>
 </p>
 
 <p>
@@ -3613,7 +3614,7 @@ About the host like a bazar in Chin.
 <p>
 <lb/>At length, when words
 <lb/>Had waxen old, all folk agreed to send
-<pb n="87"/>
+<pb n="7.87"/>
 <lb/>A man of reputation to the Khan
 <lb/>Of Chin, <q>Because,</q>said they, <q>ere evils come
 <lb/>With war and pillage we must try all means
@@ -3659,7 +3660,7 @@ About the host like a bazar in Chin.
 <lb/>Together with our homage and excuses,
 <lb/>With gifts too, toll and tribute, for we have
 <lb/>No power to stand against the king in war.</q>
-<pb n="88"/>
+<pb n="7.88"/>
 </p>
 
 <p>
@@ -3701,7 +3702,7 @@ About the host like a bazar in Chin.
 <lb/>There was no watch, no prospect of a shock,
 <lb/>But all was sport, wine, parties, twang of lyre,
 <lb/>And feeling night and day secure from war.
-<pb n="89"/>
+<pb n="7.89"/>
 <lb/>The Khan was looking for the Iranians' tribute.
 <lb/>Wroth that it came so late. Bahram for his part
 <lb/>Slept not but guarded well his host from foes,
@@ -3745,7 +3746,7 @@ About the host like a bazar in Chin.
 <lb/>His travail seemed but wind. There for a day
 <lb/>He rested and, when steed and Shah and troops
 
-<pb n="90"/>
+<pb n="7.90"/>
 
 <lb/>Were all refreshed, reached Kashmihan. At dawn,
 <lb/>What time the Lustre of the world arose
@@ -3781,7 +3782,7 @@ Throne of Turan</head>
 <lb/>Bahram Gur stayed to rest at Marv and when
 <lb/>Both Shah and war-steed were refreshed he chose
 <lb/>Bukhara for the next attack, for he
-<pb n="91"/>
+<pb n="7.91"/>
 <lb/>Had changed from gentleness to bitterness.
 <lb/>He reached Amwi<note>Probably the modern Charjui.</note> in one day and one night,
 <lb/>Intent on conquest not on chase and sport.
@@ -3822,7 +3823,7 @@ Throne of Turan</head>
 <lb/>The Shah was well content; he took the tribute,
 <lb/>And further sums in lieu of pillaging.
 
-<pb n="92"/>
+<pb n="7.92"/>
 <lb/>He turned and reached the city of Farab,
 <lb/>His cheeks were flushed and smiles were on his lips.
 <lb/>He paused, allowed his troops to rest a week,
@@ -3858,7 +3859,7 @@ Throne of Turan</head>
 <lb/>And miserable dust. The great and lowly
 <lb/>Are underneath His governance, and all
 <lb/>That is to be is subject to His word.
-<pb n="93"/>
+<pb n="7.93"/>
 <lb/>I have indited from the coasts of Chin
 <lb/>A letter to my brother in Iran,
 <lb/>And this same letter, writ on painted silk,
@@ -3895,7 +3896,7 @@ Throne of Turan</head>
 <lb/>Have led us to transgress the World-lord’s way.
 <lb/>To such a host as that one would presume
 <lb/>That God would ope Heaven’s gate. ’Tis marvellous,
-<pb n="94"/>
+<pb n="7.94"/>
 <milestone unit="calced" n="1548"/>
 <lb/>Surpassing thought and all the providence
 <lb/>Of wise and learnéd men! In thy reply,
@@ -3935,7 +3936,7 @@ Throne of Turan</head>
 <lb/>He and his nobles and his men of name;
 <lb/>They went to make their prayers before the Fire,
 <lb/>And all the archmages offered reverence.
-<pb n="95"/>
+<pb n="7.95"/>
 <lb/>The Shah gave largess to the worshippers,
 <lb/>And passing thence proceeded to Istakhr,
 <lb/>Which was the glory of the king of kings.
@@ -3972,7 +3973,7 @@ Throne of Turan</head>
 <lb/>The throne-top of Azar. Thence he departed
 <lb/>To Taisafan where dwelt Narsi with those
 <lb/>Archmages that advised him. All the chiefs,
-<pb n="96"/>
+<pb n="7.96"/>
 <lb/>The great men of Iran, and governors,
 <lb/>Came forth to meet the Shah, and when Narsi
 <lb/>Beheld that royal head and crown, the flags
@@ -4008,7 +4009,7 @@ Throne of Turan</head>
 <lb/>Made friends of sages, knoweth that from justice
 <lb/>Naught will proceed but good, and knocketh not
 <lb/>Upon the portal of malignity:—
-<pb n="97"/>
+<pb n="7.97"/>
 <lb/><q>If one complaineth of mine officers,
 <lb/>My noble chieftains or my men of war,
 <lb/>They have no prospect but the cell or gibbet,
@@ -4045,7 +4046,7 @@ Throne of Turan</head>
 <lb/>And empty-handed, who are everywhere
 <lb/>Looked down upon and scorned, them too relieve
 <lb/>Of debt and write their names upon the roll.
-<pb n="98"/>
+<pb n="7.98"/>
 <lb/>Pray ye to God to keep our heart thus true
 <lb/>To custom and the Faith, joy in this precept,
 <lb/>And well entreat the underlings. Moreover,
@@ -4086,7 +4087,7 @@ Throne of Turan</head>
 <lb/>The wise and understanding, warlike chiefs.</q>
 </p>
 <p>
-<pb n="99"/>
+<pb n="7.99"/>
 <lb/>Then runners, cavaliers, and cameleers
 <lb/>Went with the letter everywhere with guides,
 <lb/>And when it came to all the provinces,
@@ -4126,7 +4127,7 @@ Throne of Turan</head>
 <lb/>Cause it to flourish; joy our subjects’ hearts;
 <lb/>Be nothing if not just; stint not thy hand
 <lb/>Within this Place of Passage.<note><cit><quote>n’interromps jamais le passage a travers ce pays.</quote> <bibl>Mohl</bibl></cit></note> If our father
-<pb n="100"/>
+<pb n="7.100"/>
 <lb/>Sought ill he quaked therefor like naked men
 <lb/>Beneath an autumn-blast.</q>
 </p>
@@ -4169,7 +4170,7 @@ Throne of Turan</head>
 <lb/>If He hath given me victory, and turned
 <lb/>My fortune’s night to day, still Caesar too
 
-<pb n="101"/>
+<pb n="7.101"/>
 <lb/>Is of imperial race, is great, is sprung
 <lb/>From Salm whose head was crowned by Faridan,
 <lb/>And can recount his lineage sire by sire.
@@ -4209,7 +4210,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Set him upon the turquoise throne and said :—
 <lb/><q>Here thou hast sojourned long; art thou not weary
 <lb/>Of looking on this land? War with the Khan,
-<pb n="102"/>
+<pb n="7.102"/>
 <lb/>Which closely partnered me, withheld me from thee;
 <lb/>Now all our case is altered, and thy sojourn
 <lb/>Exceedeth bounds. To that which thou shalt say
@@ -4247,7 +4248,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Revealed the secret, telling to the high priest
 <lb/>The words of Caesar: <q>What is <q>the within</q>
 <lb/>In thy nomenclature, what <q>the without,</q>
-<pb n="103"/>
+<pb n="7.103"/>
 <lb/>O guide, who hast no other name therefor?
 <lb/>What is <q>the above,</q> my lord, what <q>the beneath</q>?
 <lb/>What is <q>the infinite</q> and what <q>the vile</q>?
@@ -4285,7 +4286,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>For understanding of the Maker’s work.
 <lb/>The eye that gazeth cannot reckon them,
 <lb/>And heaven above is unattainable
-<pb n="104"/>
+<pb n="7.104"/>
 <lb/>As being measureless, so thou mayst scorn
 <lb/>Such reckonings and processes of Fate.
 <lb/>One that can follow not an arrow’s course,
@@ -4322,7 +4323,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Said to the envoy: <q>Matchless, peerless sage!
 <lb/>What thing is so injurious that we
 <lb/>Must weep at its occurrence? What know’st thou
-<pb n="105"/>
+<pb n="7.105"/>
 <lb/>So useful to the world that men become
 <lb/>Exalted when it chanceth?</q></p>
 
@@ -4364,7 +4365,7 @@ the Envoy questioned and answered the Archmages</head>
 </div>
 
 <div type="textpart" subtype="section" n="25"><head>How Bahram dismissed Caesar’s Envoy and charged his own Officials</head>
-<p><pb n="106"/>
+<p><pb n="7.106"/>
 <lb/>The envoy left the presence of the Shah,
 <lb/>The night came on, the Sable Banner rose,
 <lb/>The men of lore were weary of discourse,
@@ -4396,7 +4397,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Of doings of the Shahs unjust and just,
 <lb/>Whose hands oft-times were stretched for ill what while
 <lb/>Their persons lurked mid ease and luxury.<note n="1">Reading with P.</note>
-<pb n="107"/>
+<pb n="7.107"/>
 <lb/>The world was frighted by these evil men,
 <lb/>The hearts of all the good were rent in twain;
 <lb/>All hands were occupied with evil-doing,
@@ -4434,7 +4435,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>With hearts washed clean from wrong, for none is born
 <lb/>Unless to die, be he of Persian, Arab,
 <lb/>Or Roman race; death’s charge is lion-like,
-<pb n="108"/>
+<pb n="7.108"/>
 <lb/>And from its claws none can withdraw the neck;
 <lb/>It maketh quarry of the rending lion,
 <lb/>The dragon’s body ’scapeth not its toils.
@@ -4472,7 +4473,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>That are fire-worshippers. Slay not draught-oxen,
 <lb/>For they are of avail in husbandry,
 <lb/>Unless past work and worthless to their owner.
-<pb n="109"/>
+<pb n="7.109"/>
 <lb/>Pack-oxen too must not be slain, the land
 <lb/>Else will grow void of grace. Deliberate
 <lb/>In all things with the men of lore and break not
@@ -4507,7 +4508,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/><q>O judge of what is just and right! the world
 <lb/>Hath ceased to fear malignants, toil and stress
 <lb/>Have left our coasts. Howbeit famed Shangul
-<pb n="110"/>
+<pb n="7.110"/>
 <lb/>Among the folk of Hind is still perverse;
 <milestone unit="calced" n="1559"/>
 <lb/>His bands of plunderers infest the earth
@@ -4547,7 +4548,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Ill from the stream of knowledge. Wisdom looseth
 <lb/>Man from mishap; may none be wrung therewith.
 <lb/>Wisdom’s first token is that one should dread
-<pb n="111"/>
+<pb n="7.111"/>
 <lb/>Ill-doing all one’s years and know oneself;
 <lb/>Then must he search the world with wisdom’s eye,
 <lb/>For wisdom is the diadem of kings,
@@ -4587,7 +4588,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/><q>From this world’s king, the monarch shrewd of wit,
 <lb/>The lord of government, the lord of might,
 <lb/>The world’s possessor, generous Bahram Gir,
-<pb n="112"/>
+<pb n="7.112"/>
 <lb/>Who on the day of Ard in month Khurdad
 <lb/>Received from Yazdagird the royal crown,
 <lb/>Chief of the marches, guardian of the realm,
@@ -4625,7 +4626,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Of majesty, and crowned. The steps that led
 <lb/>Up to that golden throne were all of crystal.
 <lb/>There sat the king in all his Grace and might,
-<pb n="113"/>
+<pb n="7.113"/>
 <lb/>Arrayed in silver broidered with gold thread
 <lb/>Beset with many a gem. Bahram beheld
 <lb/>The monarch’s brother on an ante-throne,
@@ -4665,7 +4666,7 @@ the Envoy questioned and answered the Archmages</head>
 
 <div type="textpart" subtype="section" n="27"><head>How Shangul received the Letter from Bahram and made Reply</head>
 <p>
-<lb/><pb n="114"/>The king, on hearing this, asked for the letter,
+<lb/><pb n="7.114"/>The king, on hearing this, asked for the letter,
 <lb/>And marvelled at that chief. A noble scribe
 <lb/>Read it, whereat the monarch’s face became
 <lb/>Like gall. He said: <q>O man of eloquence!
@@ -4699,7 +4700,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>'Twould be the sum of those that call me king.
 <lb/>Mine are the jewels of the hills and seas,
 <lb/>I am the present mainstay of the world.
-<pb n="115"/>
+<pb n="7.115"/>
 <lb/>The founts of aloe, musk, and ambergris,
 <lb/>The hoards of undried camphor and the drugs
 <lb/>That cure the suffering, whoever shall ail
@@ -4739,7 +4740,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/><q>As thou art great, O king! sow not the seed
 <lb/>Of wrath. My Shah said: <q>Say to him: <q>If thou
 <lb/>Art wise choose not the pathway of perverseness.</q></q>
-<pb n="116"/>
+<pb n="7.116"/>
 <lb/>Produce now from thy court two men of lore,
 <lb/>Of fluent tongue, and happy in discourse,
 <lb/>And if in rede and wisdom they excel
@@ -4774,7 +4775,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Bahram came quickly,
 <lb/>Sat at the board and oped his hand to bread,
 <lb/>But shut his lips to speech. The eating done,
-<pb n="117"/>
+<pb n="7.117"/>
 <lb/>They set themselves to quaff and called for harpists
 <lb/>And wine. The scent of musk rose from the feast,
 <lb/>The hall was spread with golden carpetings.
@@ -4812,7 +4813,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Had turned his looks and thoughts from king Bahram.
 <lb/>Now when the musky-scented Veil was changed
 <lb/>To gold, and in the sky the sun appeared,
-<pb n="118"/>
+<pb n="7.118"/>
 <lb/>The king of Indians mounted on his steed,
 <lb/>And went forth to the Ground with polo-stick
 <lb/>In hand. His servants bore his bow and arrows,
@@ -4853,7 +4854,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Thus to Bahram: <q>Famed, high-born prince! thou art
 <lb/>No doubt the Shah’s own brother, being dowered
 <lb/>With vigour, strength, and skill in archery,
-<pb n="119"/>
+<pb n="7.119"/>
 <lb/>Because the Grace of kings, the might of lions,
 <lb/>Are thine. Art thou then but a gallant chief?</q>
 </p>
@@ -4894,7 +4895,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>Breathe of the rose. The fortunate ne’er quit
 <lb/>Kannauj where twice a year the fruit-trees bear,
 
-<pb n="120"/>
+<pb n="7.120"/>
 <lb/>Where there are treasures, gems, dinars, and drachms,
 <lb/>And where drachms can be had hearts are not sad.
 <lb/>The king is gracious and for love of thee
@@ -4932,7 +4933,7 @@ the Envoy questioned and answered the Archmages</head>
 <lb/>To bring the world in ruins on my head,
 <lb/>Leave Hindustan not field or fell but bear
 <lb/>Off to Iran the dust of Wizard-land.<note n="2">Cf. p. 112 and note.</note>
-<pb n="121"/>
+<pb n="7.121"/>
 <lb/>My better plan is to return to court,
 <lb/>And to the purview of the conquering Shah.
 <lb/>If thou wouldst have my name it is Barzu;
@@ -4973,7 +4974,7 @@ The word is spelt both with g and k in C. and is made to rhyme with
 <lb/>The world may find rest then and by thy Grace,
 <lb/>Victorious one! Thenceforth in mine esteem,
 <lb/>And that of all this noble company,
-<pb n="122"/>
+<pb n="7.122"/>
 <lb/>Thy station shall be such that evermore
 <lb/>The folk of Hind and Chin all shall acclaim thee.</q>
 <lb/>Bahram, the honest, said: <q>I need a guide;
@@ -5010,7 +5011,7 @@ The word is spelt both with g and k in C. and is made to rhyme with
 <lb/>Some poplar arrows from his quiver, poured
 <lb/>His shafts like hail till by that token anguish
 <lb/>O’ercame the wolf. On seeing the beast’s end nigh,
-<pb n="123"/>
+<pb n="7.123"/>
 <lb/>Bahram, exchanging bow for sword, smote off
 <lb/>Its head, exclaiming: <q>In the name of God,
 <lb/>Who hath not mate or peer and gave to me
@@ -5049,7 +5050,7 @@ The word is spelt both with g and k in C. and is made to rhyme with
 <lb/>Have I been musing o’er his case and framing
 <lb/>A fresh device—to send him to that dragon,
 <lb/>Which surely he will 'scape not. Then shall I
-<pb n="124"/>
+<pb n="7.124"/>
 <lb/>Be censured not on his account if he
 <lb/>Will fight with dragons.</q>
 <lb/>So he called Bahram,
@@ -5091,7 +5092,7 @@ The word is spelt both with g and k in C. and is made to rhyme with
 <lb/>And Holy One's, command I will cut off
 <lb/>The footing of the dragon from the earth,
 <lb/>But must be shown its lair whereof I know not.</q>
-<pb n="125"/>
+<pb n="7.125"/>
 <lb/>Shangul accordingly dispatched a guide
 <lb/>To show it to Bahram who went his way
 <lb/>With thirty horsemen, nobles of Iran
@@ -5128,7 +5129,7 @@ The word is spelt both with g and k in C. and is made to rhyme with
 <lb/>He turned in duty to the Lord and said:—
 <lb/><q>O Judge who judgest righteously! 'tis Thou
 <lb/>That slewest this great dragon, for who else
-<pb n="126"/>
+<pb n="7.126"/>
 <lb/>Hath might enough? Thou art Thy servants’ refuge
 <lb/>From every ill.</q>
 </p>
@@ -5170,7 +5171,7 @@ gave a Daughter to him</head>
 <lb/>And so my foemen may grow insolent.
 <lb/>I will behead the envoy, will destroy him
 <lb/>By stealth. What say ye? What do ye advise?</q>
-<pb n="127"/>
+<pb n="7.127"/>
 <lb/><q>Bring not thy heart, O king!</q> the wise men
 answered,
 <lb/><q>To sorrow by such deeds. For thee to slay
@@ -5208,7 +5209,7 @@ answered,
 <lb/>And mused upon his throne, his birth, and glory.
 <lb/><q>There is no remedy for one’s own acts,</q>
 <lb/>He thought, <q>and this thing cannot bring reproach;
-    <pb n="128"/>
+    <pb n="7.128"/>
 <lb/>Besides by this I may preserve my life,
 <lb/>And look again upon Iranian soil,
 <lb/>For, as the case is, we have tarried long;
@@ -5246,7 +5247,7 @@ answered,
 <lb/>All glad and jocund in the banquet-hall,
 <lb/>With Sapinud beside Bahram, the king,
 <lb/>Like wine in crystal goblet glittering.
-<pb n="129"/>
+<pb n="7.129"/>
 </p>
 </div>
 
@@ -5287,7 +5288,7 @@ answered,
 <lb/>Now bear the toil, come hither, and abide
 <lb/>Within this land so long as thou mayst wish.
 <lb/>I will illume mine eyes with seeing thee,
-<pb n="130"/>
+<pb n="7.130"/>
 <lb/>And make thy rede the breastplate of my soul.
 <lb/>Thou shalt go hence at will. I will not bid thee:
 <lb/><q>Abide awhile.</q> So with a robe of honour,
@@ -5327,7 +5328,7 @@ answered,
 <lb/>By his own courage driveth wolf from sheep,
 <lb/>And, thinking good to make affinity
 <lb/>With me, bestowed on me his worthy child.
-<pb n="131"/>
+<pb n="7.131"/>
 <lb/>Again, for what thou saidst: <q>Arise and come,
 <lb/>And I will guide thee unto every good,</q>
 <lb/>The Shah sent me to Hind, and shall I go
@@ -5365,7 +5366,7 @@ Daughter of Shangul</head>
 <lb/><q>I know that thou dost wish me well, so I
 <lb/>Will tell to thee a secret; keep it close.
 <lb/>I would quit Hindustan. Dost thou consent
-<pb n="132"/>
+<pb n="7.132"/>
 <lb/>Thereto? I will take thee withal, but none
 <lb/>Among this folk must know. Within Iran
 <lb/>My state surpasseth this and, furthermore,
@@ -5407,7 +5408,7 @@ Daughter of Shangul</head>
 <lb/>Who slept not till the dawn for thought.
 <lb/>Now when
 <lb/>The sun displayed its hand upon the sky,
-<pb n="133"/>
+<pb n="7.133"/>
 <lb/>And dark night packed, he mounted on his steed,
 <lb/>And rode forth with his weapons to the chase.
 <lb/>He told his wife: <q>Make ready and tell none;
@@ -5446,7 +5447,7 @@ Daughter of Shangul</head>
 <lb/>All wet with weeping. <q>May the nobles’ lives
 <lb/>Thy ransom be,</q> they said, <q>and youth and kingship
 <lb/>Thy habit. If the treasure of thy secret
-<pb n="134"/>
+<pb n="7.134"/>
 <lb/>Should be revealed our country would resemble
 <lb/>A sea of gore! Who dareth contemplate
 <lb/>Such things and turn his wisdom to an ax,
@@ -5482,7 +5483,7 @@ Daughter of Shangul</head>
 <lb/>He got a skiff in readiness wherein
 <lb/>He seated Sapinud. With day begun
 <lb/>They came to land, and brightly shone the sun.
-<pb n="135"/>
+<pb n="7.135"/>
 </p>
 </div>
 
@@ -5532,7 +5533,7 @@ and was reconciled to him</head>
 
 
 
-<pb n="136"/>
+<pb n="7.136"/>
 <lb/>The wrong on thine. Instead of good faith thou
 <lb/>Hast chosen outrage. Ever hast thou heard
 <lb/>Of good faith paid thereby? Shall I tell thee:—
@@ -5574,7 +5575,7 @@ and was reconciled to him</head>
 <lb/>Were those that guided me in this affair.</q>
 <lb/>They both of them arose, the drinking done,
 <lb/>And each asked pardon of the other one.
-<pb n="137"/>
+<pb n="7.137"/>
 </p>
 </div>
 
@@ -5617,7 +5618,7 @@ and was reconciled to him</head>
 <lb/>Day rent night’s raiment, and the world’s Light showed,
 
 
-<pb n="138"/>
+<pb n="7.138"/>
 <lb/>The king of kings sat on his golden throne,
 <lb/>Gave audience but refrained his lips from speech.
 <lb/>Came all the nobles with the men of lore,
@@ -5652,7 +5653,7 @@ and was reconciled to him</head>
 <lb/>And doth acquaint me not, but keepeth hidden
 <lb/>That knavery, is guilty of the crime;
 <lb/>Will one so futile ever endeavour greatness?
-<pb n="139"/>
+<pb n="7.139"/>
 <lb/>I call to God for justice on the man
 <lb/>That hath concealed the moon behind a cloud;
 <lb/>But if your will is other, for men’s motives
@@ -5694,7 +5695,7 @@ and was reconciled to him</head>
 <lb/>The high priest of the Fire-fane of Zarduhsht
 <lb/>Came muttering prayers with sacred twigs in hand.
 <lb/>The Shah brought Sapinud to him, and he
-<pb n="140"/>
+<pb n="7.140"/>
 <lb/>Instructed her in custom, Faith, and rite,
 <lb/>In limpid water and the good religion
 <lb/>Bathed her and banned from her dust, rust, and soil.<note n="3">la débarrassa de la poussière et de la rouille de l’idolâtrie. <bibl>Mohl</bibl></note>
@@ -5730,7 +5731,7 @@ and was reconciled to him</head>
 <lb/>A potent prince, the monarch of Kashmir,
 <lb/>A man of mastery, and last of all
 <lb/>The great and glorious monarch of Multan,
-<pb n="141"/>
+<pb n="7.141"/>
 
 <lb/>All coveters of honour, all with crowns,
 <lb/>All wearing torques and earrings, all with escorts
@@ -5768,7 +5769,7 @@ and was reconciled to him</head>
 <lb/>The handmaids and the slave-boys stood around,
 <lb/>Throne, hall, and palace were like Paradise,
 
-<pb n="142"/>
+<pb n="7.142"/>
 
 <lb/>The wine-cups were all crystal, there were chargers
 <lb/>All golden, musk, and scents. The revellers
@@ -5807,7 +5808,7 @@ and was reconciled to him</head>
 <lb/>The revellers betook them to sweet slumber,
 <lb/>While all the attendants stood with folded arms.
 <lb/>Thus was it till that golden Cup appeared,
-<pb n="143"/>
+<pb n="7.143"/>
 <lb/>Which thou wouldst call the sun, flung off the cloak
 <lb/>Of lapis-lazuli, and strewed the waste
 <lb/>With topazes; then valiant Shah Bahram
@@ -5849,7 +5850,7 @@ and was reconciled to him</head>
 <lb/>And therewithal crown, kingdom, throne, and casque.</q>
 <lb/>This deed of gift in Indian characters
 <lb/>On silk he gave to Sapinud as hers.
-<pb n="144"/>
+<pb n="7.144"/>
 </p>
 </div>
 
@@ -5884,7 +5885,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>The gems, and raiment, for astrologers
 <lb/>Had told him, and the words had troubled him:
 
-<pb n="145"/>
+<pb n="7.145"/>
 <lb/><q>Thy life will last three score of years, the fourth score
 <lb/>Will make thee weep at death,</q> and he had said:
 
@@ -5930,7 +5931,7 @@ remitted the Property-tax to the Landowners</head>
 <p>
 <lb/>He bade that no tax should be asked thenceforth
 
-<pb n="146"/>
+<pb n="7.146"/>
 <lb/>From small and great. He set up in each city
 <lb/>A man to rouse the drowsy and check strife
 <lb/>Wherefrom proceedeth naught save evil deeds.
@@ -5972,7 +5973,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>And stamping <quote>tax</quote> on silver thus received.
 <lb/>The officers wore crowns and had great state.
 
-<pb n="147"/>
+<pb n="7.147"/>
 <lb/>For six months he received, for six gave back
 <lb/>To wretched mendicant and man of birth.
 <lb/>He strove in this way to keep men of war
@@ -6013,7 +6014,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>The Shah rejoined:
 <lb/><q>Till midday, when the world-illuming sun
 
-<pb n="148"/>
+<pb n="7.148"/>
 <lb/>Is at its height, the tiller of the soil
 <lb/>Must rest not from his work. The other half
 <lb/>Is for repose and sleep. If men are fools
@@ -6057,7 +6058,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>From all the nobles, and the men of lore:—
 <lb/><q>The face of earth appeareth prosperous,
 <lb/>Continuous blessings are in every part,
-<pb n="149"/>
+<pb n="7.149"/>
 <lb/>Save that the poor complain against the ills
 <lb/>Of fortune and the Shah. <q>The rich,</q> they say,
 <lb/><q>Wear wreaths of roses in their drinking-bouts,
@@ -6101,7 +6102,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>According to Bahram’s just ordinance,
 <lb/>Live by their wits; they have for company
 <lb/>The dog and wolf, and tramp unceasingly.
-<pb n="150"/>
+<pb n="7.150"/>
 </p>
 </div>
 
@@ -6146,7 +6147,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>With faded cheeks lay dead on gold brocade!
 <lb/>The day of gloom is as it was of yore,
 <lb/>Sear not thy heart with greed and lust of more.
-<pb n="151"/>
+<pb n="7.151"/>
 <lb/>At death the cores of stones and iron quail,
 <lb/>And here thy strivings are of no avail.
 <lb/>Thou shouldst be inoffensive and humane;
@@ -6185,7 +6186,7 @@ remitted the Property-tax to the Landowners</head>
 <lb/>For, when he passeth, he will leave behind
 <lb/>A good name and a good conclusion find.
 <lb/>His portion is in heaven, and in God’s sight
-<pb n="152"/>
+<pb n="7.152"/>
 <lb/>He will have honour, not be in my plight,
 <lb/>In miserable case, calamitous,
 <lb/>With all that I possess sent Hell-ward thus
@@ -6193,12 +6194,12 @@ remitted the Property-tax to the Landowners</head>
 <lb/>My hand is void, both worlds have ruined me!
 <lb/>Now, if I can collect my thoughts again,
 <lb/>The rule of Yazdagird shall be my strain.
-<pb n="153"/>
+<pb n="7.153"/>
 </p>
 
 </div>
 
-<div><head>XXXVI. YAZDAGIRD SON OF BAHRAM GUR: HE REIGNED EIGHTEEN YEARS</head><head>NOTE</head>
+<div type="textpart" subtype="reign" n="36"><head>YAZDAGIRD SON OF BAHRAM GUR: HE REIGNED EIGHTEEN YEARS</head><head>NOTE</head>
 <p>
 The length of the reign of this Shah (Isdigerd I, A.D. 438-457),
 as given by Firdausi, appears to be about correct. From the point
@@ -6232,7 +6233,7 @@ dating his coins he ignored the short reign of his brother Hurmuz.<note n="5">NT
 </div>
 <div type="textpart" subtype="section" n="1"><head>How Yazdagird sat upon the Throne and exhorted the Captains of the Host</head>
 
-<pb n="154"/>
+<pb n="7.154"/>
 
 <milestone unit="calced" n="1588"/>
 
@@ -6270,7 +6271,7 @@ dating his coins he ignored the short reign of his brother Hurmuz.<note n="5">NT
 <lb/>When eighteen years had passed above his head,
 <lb/>He grieved because his fortune was bedimmed,
 <lb/>Convoked to him the magnates and the sages,
-<pb n="155"/>
+<pb n="7.155"/>
 <lb/>Caused them to kneel before the golden throne,
 <lb/>And thus addressed them: <q>This untoward sky,
 <lb/>Not knowing fosterling and fosterer,
@@ -6299,8 +6300,8 @@ dating his coins he ignored the short reign of his brother Hurmuz.<note n="5">NT
 
 </div>
 </div>
-<div><head>XXXVII. HURMUZ: HE REIGNED ONE YEAR</head>
-<pb n="156"/>
+<div type="textpart" subtype="reign" n="37"><head>HURMUZ: HE REIGNED ONE YEAR</head>
+<pb n="7.156"/>
 <div><head>NOTE</head>
 
 <p>
@@ -6336,7 +6337,7 @@ that Hurmuz was put to death. The third says that he was
 imprisoned. In all probability he was executed.<note n="8">Id. 117 seq. and notes, RM, I, ii. 364.</note>
 </p>
 <div type="textpart" subtype="section" n="1"><head>How Hurmuz, Son of Yazdagird, ascended the Throne</head>
-<p><pb n="157"/>
+<p><pb n="7.157"/>
 <lb/>Hurmuz succeeded to his father’s throne,
 <lb/>And set upon his head the crown of gold,
 <lb/>While, thou hadst said, Piruz was all one rage
@@ -6373,7 +6374,7 @@ imprisoned. In all probability he was executed.<note n="8">Id. 117 seq. and note
 <lb/>He fought with king Hurmuz who could not long
 <lb/>Endure the stress of war but presently
 <lb/>Was taken, and his father’s crown and throne
-<pb n="158"/>
+<pb n="7.158"/>
 <lb/>Grew worthless to him. When Piruz beheld
 <lb/>His brother’s face he yearned for love and union,
 <lb/>Bade him remount and sped to grasp his hand,
@@ -6387,8 +6388,8 @@ imprisoned. In all probability he was executed.<note n="8">Id. 117 seq. and note
 
 </div>
 </div>
-<div><head>XXXVIII. PIRUZ: HE REIGNED ELEVEN YEARS</head><head>ARGUMENT</head>
-<pb n="159"/>
+<div type="textpart" subtype="reign" n="38"><head>PIRUZ: HE REIGNED ELEVEN YEARS</head><head>ARGUMENT</head>
+<pb n="7.159"/>
 
 
 <p>Piruz becomes undisputed Shah. His inaugural speech. The
@@ -6415,7 +6416,7 @@ with the emergency were so efficient that only one man perished
 through want.<note n="4">NT, pp. 119, 122.</note> Tabari, of course, is merely giving the statements
 of his authorities without comment.</p>
 <p>§§ 2-4. According to the account in Tabari, Piruz built three
-cities—Ram-Piruz (the Piruz-Ram of Firdausi) in the territory of <pb n="160"/>Rai, another called Rishan Piruz, and a third named Shahram-
+cities—Ram-Piruz (the Piruz-Ram of Firdausi) in the territory of <pb n="7.160"/>Rai, another called Rishan Piruz, and a third named Shahram-
 Piruz (Firdausi's Badan Piruz) in Azarbaijan.<note n="1">NT, p. 123.</note></p>
 
 <p>The tradition given in the Shahnama of the war between Piruz
@@ -6456,7 +6457,7 @@ Piruz to the trench dug by the Haitalian king whom these accounts
 is called Achshunwar or Akhshunwar approximately, but in the
 absence of diacritical and vowel points, the precise form is uncertain. According to one account, it was the evil practices of the
 
-<pb n="161"/>
+<pb n="7.161"/>
 
 Haitalian king that impelled Piruz to declare war, and four sons
 and four brothers perished with him.<note n="1">NT, p. 120.</note> The second, which comes
@@ -6499,7 +6500,7 @@ overthrow of a Pishdadian Shah.</p>
 </q>
 </p>
 
-<pb n="162"/>
+<pb n="7.162"/>
 
 <p>
 <lb/><q><lb/>Are equity and mercy, its adornment
@@ -6548,7 +6549,7 @@ overthrow of a Pishdadian Shah.</p>
 </q>
 </p>
 
-<pb n="163"/>
+<pb n="7.163"/>
 
 <p>
 <lb/><q><lb/>Die lacking bread—a victim to the famine—
@@ -6586,7 +6587,7 @@ and how he went to war with Turan</head>
 <lb/>A place of peace and joy, now Ardabil,
 <lb/>Where Caesar hath of right his boundary.</p>
 
-<pb n="164"/>
+<pb n="7.164"/>
 
 <p><lb/>Whenas Piruz had prospered all these parts,
 <lb/>And made thereby the hearts of wise men glad,
@@ -6626,7 +6627,7 @@ and how he went to war with Turan</head>
 <lb/>But I will leave no trace of Khishnawaz,
 <lb/>Haitalian or Turkman, high or low.</q></q></p>
 
-<pb n="165"/>
+<pb n="7.165"/>
 
 <p><lb/>When Khishnawaz, son of the Khan, had heard:—
 <lb/><q>The Shah and all his host have crossed Jihun
@@ -6664,7 +6665,7 @@ and how he went to war with Turan</head>
 <lb/>And warriors bent on fight, and I will leave not
 <lb/>For long on earth the shade of Khishnawaz.</q></p>
 
-<pb n="166"/>
+<pb n="7.166"/>
 
 <p><lb/>The envoy came like flying dust and told
 <lb/>What he had heard. When Khishnawaz had hearkened
@@ -6702,7 +6703,7 @@ and how he went to war with Turan</head>
 <lb/>The envoy came dust-swift with this dispatch,<note n="1">We have not been told that Khishnawaz wrote one.</note>
 
 <lb/>And to Piruz repeated all these words.
-<pb n="167"/>
+<pb n="7.167"/>
 
 <lb/>When that haughty Shah had read what Khushnawaz
 <lb/>Had written in the letter he was wroth,
@@ -6739,7 +6740,7 @@ and how he went to war with Turan</head>
 <lb/>On this side Khushnawaz with fearful heart
 
 
-<pb n="168"/>
+<pb n="7.168"/>
 <milestone unit="calced" n="1595"/>
 
 <lb/>Prayed privily before the holy Judge.
@@ -6780,7 +6781,7 @@ and how he went to war with Turan</head>
 <lb/>A fool or wisdom’s pillar. None can stay
 
 
-<pb n="169"/>
+<pb n="7.169"/>
 
 
 <lb/>Upon this earth of ours eternally.
@@ -6805,15 +6806,15 @@ and how he went to war with Turan</head>
 </p>
 </div>
 </div>
-<div><head>XXXIX. BALASH: HE REIGNED FIVE YEARS AND TWO MONTHS</head>
-<pb n="170"/>
+<div type="textpart" subtype="reign" n="39"><head>BALASH: HE REIGNED FIVE YEARS AND TWO MONTHS</head>
+<pb n="7.170"/>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>Balash becomes Shah, Sufarai leads forth a host against the Haitalians to avenge the death of Piruz and defeats them. Terms of peace are arranged, Kubad and the other captives are released, and Sufarai returns with them in triumph to Iran. After some years, Sufarai dethrones Balash and makes Kubad Shah.</p><note>Balash (Balas, A.D. 484-488) seems to have been the brother, not the son, of Piruz and the uncle of Kubad.<note n="1">NT, p. 133 note.</note> The name is identical with the more familiar Vologeses, Balash being on the spot and regent at the time of the death of Piruz naturally became Shah. Tabari says that he had to fight for the throne with his brother (really his nephew), Kubad, who fled to the Haitalians. The real struggle, however, appears to have been with Kubad’s brother, Zarih, who was defeated and slain,<note n="2">Id.</note></note>
 
 <p>Piruz having expiated by his own death his violation of the treaty made by his grandfather, Shah Bahram Gur, with the Haitalians, popular tradition is at liberty to resume a patriotic attitude and set forth how Piruz was avenged and Iranian honour vindicated. Unfortunately, the account does not appear in the oldest authorities and seems to be unhistorical. Iran at that time was much oppressed by, if not actually tributary to, the Haitalians.<note n="3">Id. 119 note. That the scene of Sufarai’s victory should be laid at Kashmihan, where Bahram Gur had triumphed, is in itself suspicious. See pp. 89, 90.</note> Sufarai’s triumphant campaign seems to have been invented as a salve to the national honour and, incidentally, as a glorification of
 
-<pb n="171"/>
+<pb n="7.171"/>
 
 the great family of Karan to which he belonged. The story of his success appears, as Nöldeke has pointed out, to have been reflected back into mythical times and told in connection with Naudar, the Pishdadian Shah. Certainly, the parallel is very complete. In both cases, the Iranian host is overthrown by a Northern foe; in both the Shah perishes; in both the scene is laid in the same neighbourhood; in both the defeat is avenged by a Kiran, and in both cases the prisoners are rescued.<note n="1">See Vol. i. p. 345 seq., and NIN, p. 9.</note> In Tabari’s account, Sufarai appears as Sukhra.<note n="2">NT, p. 120 note.</note> As a leading Iranian of the time, he may have been instrumental in bringing about a peace with the Haitalians after the death of Piruz, and this perhaps may be regarded as the historical measure of his achievement.<note n="3">Id., and RSM, p. 332.</note></p>
 
@@ -6831,7 +6832,7 @@ And jewels over him abundantly.
 When seated on the throne he said: <q>O chiefs!
 Acquire the secrets of the sages’ hearts,</q></p>
 
-<pb n="172"/>
+<pb n="7.172"/>
 
 <p><q>And ye shall have advancement at my hands
 When my dark counsels brighten. Frustrate not
@@ -6876,7 +6877,7 @@ Their hearts were full of love, their tongues of praise:—
 </div>
 <div type="textpart" subtype="section" n="2"><head>How Sufarai had Tidings of the Slaying of Piruz, how he wrote
 a Letter to Khushnawaz, and how Khushnawaz replied</head>
-<p><pb n="173"/>
+<p><pb n="7.173"/>
 <lb/>What time Piruz was going to the war
 <lb/>He sought a paladin—a man of counsel
 <lb/>And weight—to watch o’er crown and throne, and be
@@ -6909,7 +6910,7 @@ a Letter to Khushnawaz, and how Khushnawaz replied</head>
 <lb/>Dispatched it to Balash, and said: <q>O Shah!
 <lb/>Be not aggrieved at death; it is a grief
 <lb/>That all must taste; choose patience and choose fame.
-<pb n="174"/>
+<pb n="7.174"/>
 <lb/>What came from wind returneth with the breath:
 <lb/>Some call it justice and some tyranny.
 <lb/>Now with the approbation of the king
@@ -6946,7 +6947,7 @@ a Letter to Khushnawaz, and how Khushnawaz replied</head>
 <lb/>I will exact all with the sword of vengeance,
 <lb/>And bear to Marv Turan’s dust, suffer not
 <lb/>The world to be thy son’s, burn all thy kith
-<pb n="175"/>
+<pb n="7.175"/>
 <lb/>And kin, cut off thy head by God’s command,
 <lb/>And make thy kingdom like a sea of blood.
 <lb/><milestone unit="calced" n="1598"/>
@@ -6984,7 +6985,7 @@ The scribe thus answered him:—
 <lb/>He found <note n="2">Reading with P.</note> no favour in the Maker’s eyes;
 <lb/>Thou wouldst have said: <q>Earth took him by the heel.</q> <note n="3"><quote>Foot</quote> in the original.</note>
 
-<pb n="176"/>
+<pb n="7.176"/>
 
 <lb/>The man that breaketh his forefather’s treaty,
 <lb/>And flingeth underfoot the head of right,
@@ -7027,7 +7028,7 @@ was released from his Bondage</head>
 <lb/>And deserts like white crystal. Both arrays
 <lb/>Prepared for strife; each raised the flag of greatness.
 </p>
-<pb n="177"/>
+<pb n="7.177"/>
 <p>
 <lb/>Then dragons’ livers sundered at the shouting
 <lb/>Of valiant warriors while feathered shafts
@@ -7069,7 +7070,7 @@ was released from his Bondage</head>
 <lb/>The sun’s resplendent diadem appeared,
 <lb/>Whereat the tymbals sounded in the camp,
 
-<pb n="178"/>
+<pb n="7.178"/>
 
 <lb/>And Sifarai bestrode his steed. An envoy
 <lb/>Reached that proud chief from Khushnawaz to say:—
@@ -7113,7 +7114,7 @@ was released from his Bondage</head>
 <lb/>Herein?</q>
 <lb/>The troops replied: <q>Tis thine to bid,
 
-<pb n="179"/>
+<pb n="7.179"/>
 
 <lb/>And thine to stipulate the terms of peace.
 <lb/>None knoweth better in Iran than thou:
@@ -7158,7 +7159,7 @@ was released from his Bondage</head>
 <lb/>The great men of Iran that have been taken
 <lb/>Are these—Kubad and the high priest Ardshir. <note n="2">Reading with P.</note>
 
-<pb n="180"/>
+<pb n="7.180"/>
 
 <lb/>These with the rest that have their feet in fetters
 <lb/>Dispatch to me in honourable fashion.
@@ -7199,7 +7200,7 @@ was released from his Bondage</head>
 <lb/>About that fortunate and glorious chief,
 <lb/>About his war and strife with Khushnawaz,
 
-<pb n="181"/>
+<pb n="7.181"/>
 
 <lb/>And all his wonder-working policy:—
 <lb/><q>He hath returned glad and victorious
@@ -7239,7 +7240,7 @@ was released from his Bondage</head>
 <lb/>Thus was it till four years had passed away,
 <lb/>And he had not his equal in the world.
 </p>
-<pb n="182"/>
+<pb n="7.182"/>
 <p>
 <lb/>Naught happened but according to his will,
 <lb/>And what he would he did. Now when his word
@@ -7263,10 +7264,10 @@ was released from his Bondage</head>
 
 </div>
 </div>
-<div><head>XL. KUBAD SON OF PIRUZ: HE REIGNED FORTY-THREE YEARS</head>
-<pb n="183"/>
+<div type="textpart" subtype="reign" n="40"><head>KUBAD SON OF PIRUZ: HE REIGNED FORTY-THREE YEARS</head>
+<pb n="7.183"/>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>
 Kubad ascends the throne and harangues the chiefs, Sifarai
 continues for a time at the head of affairs and then is disgraced and
@@ -7290,11 +7291,11 @@ According to Mir Khwand, Kubad (Kobad, A.D. 488-531) was known as <quote>the wel
 <p>
 Historically the events of his reign, as set forth in the Shahnama, may be revised as follows, Sifarai remained at the head of affairs until the revolt occurred that drove the Shah to take refuge with the Haitalians. This revolt was brought about by the conversion of Kubad to the doctrines of the heresiarch Mazdak, who had a large and increasing following. Kubad seems to have been sincere in his adoption of Mazdakism, but at the same time used its subversive principles as a means of reducing the power of, and of humbling, the great nobles. The official hierarchy, however, took alarm, Kubad was dethroned and shut up in the <quote>Castle of Oblivion</quote> in Susiana, and Jamasp, his brother, reigned in his stead. Kubad, however, by the help of his sister, wife, or both, or of Sifarai himself, managed to make good his escape to the Haitalians with whom he had stayed for some two years as a hostage during the lifetime of his father.<note n="2">See p. 160.</note>
 </p>
-<pb n="184"/>
+<pb n="7.184"/>
 <p>
 During his second sojourn among them he married his own niece—the offspring, by the Haitalian king, of the captive daughter of Piruz. <note n="2">Id. p. 161.</note> Helped by his royal father-in-law, Kubad managed to recover his throne and placed Sifarai again at the head of affairs, but at length, finding him too powerful, called in the aid of his rival—Shapur of Rai, the captain of the host—and had him put to death. Kubad never seems to have abandoned his personal regard for Mazdakism, in spite of the fact that it had cost him the temporary loss of his crown, until nearly the end of his long reign. Probably after his restoration, he was content to hold it as a pious opinion only, no longer as a weapon to be used against the nobility or in a manner provocative of the Magi. The Mazdakites, however, not unnaturally became concerned about the future—what would happen on Kubad’s death? Accordingly, they attempted to secure the succession for one of Kubad’s sons whom they knew that they could trust. Kubad, however, had made up his mind already in favor of another heir, and a great massacre of Mazdakites ensued. This seems to have taken place at the end of A.D. 528 or the beginning of A.D. 529. Kisra, in consequence of the share that he took in exterminating the Communists, received the name of Nushirwan. <note n="1">MM, ii. 196. Cf. p. 211 and note.</note>
 </p>
-<pb n="185"/>
+<pb n="7.185"/>
 <p>
 This account, from which all irrelevant history has been omitted, differs widely, as will be seen, from that given in the Shahnama: Mazdak and his evangel have been replaced in their proper historical context, the story of the birth of Kisra has been omitted, and so has all reference to Rizmihr, Sifarai’s son.
 </p>
@@ -7304,7 +7305,7 @@ This account, from which all irrelevant history has been omitted, differs widely
 <p>
 Not very long ago we had a Mihran as treasurer to Yazdagird son of Shapur, <note n="1">Id. p. 387.</note> quite lately we found another—Ruhham—helping Piruz in his struggle against his brother Hurmuz, <note n="2">p. 156.</note> presently we shall come upon a third as the opponent of Belisarius, <note n="3">p. 187.</note> a fourth as a general in Nushirwan’s host, <note n="4">p. 251. Cf. NT, p. 139 note.</note> while a fifth—Mihran Siyad—goes on a mission to the Khan. <note n="5">p. 350.</note>
 </p>
-<pb n="186"/>
+<pb n="7.186"/>
 <p>
 In Kubad’s plans for escape to the Haitalians, he associates himself with six others. Seven is a favorite number in Persian story. We have the Seven Climes, the Seven Courses or Stages of Rustam and Asfandiyar, the Fight of the Seven Warriors, the Seven Feasts of Nushirwan, and other instances. <note n="6">See Vol. vi. p. 207.</note>
 </p>
@@ -7314,13 +7315,13 @@ According to Tabari, Kubad fled twice to the Haitalians, once on the occasion of
 <p>§5. In the above accounts, the birth of Kisri is chronicled in connection with both flights. This duplication does not make the story any more probable, and, as a matter of fact, Kisra appears to have been the son of the sister of one of Kubad’s generals who served in the Roman war, A.D. 502-506. <note n="9">Id. and cf. p. 187.</note> In view of the subsequent importance of Kisra, it was incumbent that Kubad should ask and receive satisfactory assurances as to the descent of the mother of his son. The name Kisra is the Arabic form of the Persian Khusrau, which, with the exception of twelve years, was the name of the Shahs from A.D. 531 to A.D. 627, if we leave out of account the usurper Bahram Chubina.</p>
 <p>Jamasp, who, according to Mir Khwand, was known as <quote>the proud,</quote> <note n="10">RM, Pt. I, Vol. ii. p. 371.</note> appears to have reigned for two years, A.D. 496-498, and it is to be feared that his brother’s treatment of him after his deposition was not so amiable as Firdausi would have us believe. The same remark would apply to Jamasp’s adherents, whom also the poet tells us were pardoned. One account at all events states that Kubad <quote>killed the Great</quote> when he regained the throne. <note n="11">NT, p. 461 and note.</note></p>
 <p>According to Tabari, Zarmihr (Rizmihr) was put to death by Kubad some time after his restoration. <note n="12">Id. p. 142.</note> The story of the Shah’s ingratitude to the father is duplicated in the case of the son, which in itself is suspicious, as is the almost superhuman loyalty displayed by the latter in § 3. It may be laid to the account of the legitimist view that obtains in this part of the poem. If Sufarai be the Persian commander-in-chief called Seoses in Procopius, he was not put to death till about A.D. 519. <note n="2">NT, p. 145 note.</note></p>
-<pb n="187"/>
+<pb n="7.187"/>
 <p>Until war broke out in A.D. 502, there had been, with one slight exception in the reign of Yazdagird son of Bahram Gur, a period of peace for eighty years between the Persian and Eastern Roman Empires. To both, the defense of the passes in the Caucasus against the incursions of northern Barbarians was equally important, and the understanding was that both should contribute equally to that end. This arrangement formed one of the terms of the peace concluded by Yazdagird with the younger Theodosius after the brief war, above mentioned, in A.D. 442. The Romans, however, were very remiss in carrying out their part of the undertaking, and their money contribution was in arrear. Both parties seem to have been inclined to look upon the money as tribute to be exacted or refused according to circumstances, and this added to the difficulty of an agreement which probably is responsible for the notion often found in Iranian legend that Rum was tributary to Iran. Kubad, after his restoration, found himself in want of money to pay his Haitalian allies and applied to Emperor Anastasius for the arrears due for the defense of the passes. Anastasius refused, his motive being, it is said, the hope of embroiling Kubad with his northern mercenaries, and the Shah declared war. At first, he was very successful, taking Theodosiopolis in Roman Armenia and Amida in northern Mesopotamia, but the generals whom he left to carry on the war, when he himself was called off to resist an Haitalian invasion, were less successful, and Kubad commissioned his brother-in-law, the uncle of Kisra, to negotiate a peace. The Persians received a lump sum and gave up the captured cities. Towards the end of Kubad’s reign, war again broke out, A.D. 526, and lasted till his death. It was in this war that Belisarius rose to fame and fought twice with one of the Mihrans named Piruz. <note n="5">Cf. p. 186.</note></p>
 <p>Procopius, who had become secretary to Belisarius in A.D. 527, gives a correspondence purporting to have passed between the two generals. <note n="6">RSM, p. 368 seq. and note.</note></p>
 <p>
 Hulwan was situated northwest of Kirmanshah at Sar-i-pul-i-Zohab. <note n="7">Id. 564 note; NT, p. 138 and note.</note> Kubad merely renamed it as he also renamed a town
 
-<pb n="188"/>
+<pb n="7.188"/>
 
 called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan. He changed Arjan to Ramkubad. <note n="1">Id. 13 and note, 146.</note>
 </p>
@@ -7339,7 +7340,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>Upon Piruz’s <note n="6">Or "victorious" or, with a slight change of reading (P), <q>turquoise,</q> but the translation given is most in accord to the legitimist tendency in this part of the Shahnama. Cf. Vol. vi. p. 251.</note> seat he said: <q>Conceal
 <lb/>Naught from me. By bright day and darksome night
 
-<pb n="189"/>
+<pb n="7.189"/>
 
 <lb/>The way to me is open unto you.
 <lb/>The man is great who ordereth his tongue
@@ -7375,7 +7376,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>So put ye all your hands to good alone,
 <lb/>And walk not on this whirling world for ill.</q>
 </p>
-<pb n="190"/>
+<pb n="7.190"/>
 <p>
 <lb/>The nobles all called blessings down on him,
 <lb/>And showered emeralds upon his crown.
@@ -7428,7 +7429,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>All Pars hath grown as ’twere a slave to him,
 <lb/>The great men have become his thralls.</q>
 </p>
-<pb n="191"/>
+<pb n="7.191"/>
 <p>
 <lb/>These words
 <lb/>Seduced Kubad’s <note n="1">See p. 179, note.</note> heart, which became forgetful
@@ -7458,7 +7459,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>Go to Shapur of Rai, cause him to mount
 <lb/>Forthwith upon his steed, and summon him
 
-<pb n="192"/>
+<pb n="7.192"/>
 
 <lb/>From Rai to court. The messenger, who took
 <lb/>A spare steed, went swift as an autumn-blast
@@ -7486,7 +7487,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>E’en were my brother master of Iran
 <lb/>'Twere better than this unjust Sifarai.</q>
 </p>
-<pb n="193"/>
+<pb n="7.193"/>
 <p>
 <lb/>Shapur replied: <q>O king! be not aggrieved
 <lb/>At heart on this account. Thou shouldest write
@@ -7538,7 +7539,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>I set him free from bondage by my valour,
 <lb/>And suffered no calamity to come
 <lb/>Upon him. I had influence with the Shah,
-<pb n="194"/>
+<pb n="7.194"/>
 <lb/>And with the chieftains of the Iranian host,
 <lb/>But since bonds are to be my recompense,
 <lb/>And my resistance will be troublesome
@@ -7581,7 +7582,7 @@ called Arjan on the borders of Ahvaz and Pars not far from the present Behbahan.
 <lb/>The foe of the Shah is best when killed,
 <lb/>His hater’s fortune best when overturned.</q>
 </p>
-<pb n="195"/>
+<pb n="7.195"/>
 <p>
 <lb/>Now when the Shah had heard the archmage’s counsel
 <lb/>He took a new course and despised the old,
@@ -7620,7 +7621,7 @@ of Kubad, was set upon the Throne</head>
 <lb/>But made Kubad’s feet fast in iron fetters,
 <lb/>Unheedful of his Grace and noble birth.
 </p>
-<pb n="196"/>
+<pb n="7.196"/>
 <p>
 <lb/>Now Sifarai had one son well beloved,
 <lb/>A wise man, holy and illustrious,
@@ -7665,7 +7666,7 @@ of Kubad, was set upon the Throne</head>
 <lb/>Are sharers in my secrets. None besides
 <lb/>Hath listened to my voice. Now we will summon
 
-<pb n="197"/>
+<pb n="7.197"/>
 
 <lb/>These five and ope to them our secret plan
 <lb/>If it appears that we have need of them,
@@ -7706,7 +7707,7 @@ Haitalians</head>
 <lb/>And, if she please thee, she is thine to give:
 <lb/>Give her to him that longeth after her.</q>
 </p>
-<pb n="198"/>
+<pb n="7.198"/>
 <p>
 <lb/>The wise Rizmihr came to Kubad and said:—
 <lb/><q>May this Moon bring good fortune to the Shah.
@@ -7747,7 +7748,7 @@ Haitalians</head>
 <lb/>Thus to Ahwaz from the Haitalians went
 <lb/>Kubad; the whole world rang with that event.
 </p>
-<pb n="199"/>
+<pb n="7.199"/>
 
 </div>
 
@@ -7788,7 +7789,7 @@ Throne</head>
 <lb/>Exalted and heroic warriors!
 <lb/>Tis needful that we go out to Kubad,
 
-<pb n="200"/>
+<pb n="7.200"/>
 
 <lb/>Who, it may be, will not recall the past,
 <lb/>And bring to him Jamasp, the ten years’ child,
@@ -7831,7 +7832,7 @@ Throne</head>
 <lb/>The Faith, and instituted Fanes of Fire,
 <lb/>His power, the feasts of New Year’s Day and Sade.
 </p>
-<pb n="201"/>
+<pb n="7.201"/>
 <p>
 <lb/>He fixed his royal seat at Madain,
 <lb/>And wrought much good and ill. He built a city
@@ -7876,7 +7877,7 @@ adopted the Faith of Mazdak</head>
 <lb/><q>A man,</q> Mazdak rejoined,
 <lb/><q>Is bitten by a snake; his life is passing;
 
-<pb n="202"/>
+<pb n="7.202"/>
 
 <lb/>Another man hath got the antidote
 <lb/>Whereof the bitten can obtain no share.
@@ -7923,7 +7924,7 @@ adopted the Faith of Mazdak</head>
 <lb/><q>Rend such to pieces, for see his neglect
 <lb/>He is a murderer.</q>
 </p>
-<pb n="203"/>
+<pb n="7.203"/>
 <p>
 <lb/>On hearing this
 <lb/>Mazdak, when he had kissed the ground, went forth.
@@ -7967,7 +7968,7 @@ adopted the Faith of Mazdak</head>
 <lb/>Whose deaths are due to idle granaries.</q>
 </p>
 
-<p><pb n="204"/>
+<p><pb n="7.204"/>
 <lb/>Kubad was much affected by the words:
 <lb/>These righteous words aroused his brain to action.
 <lb/>Then, questioning Mazdak and hearing him,
@@ -8010,7 +8011,7 @@ adopted the Faith of Mazdak</head>
 
 </div>
 <div type="textpart" subtype="section" n="7"><head>How Nushirwan rejected the Faith of Mazdak and slew him and his Followers</head>
-<p><pb n="205"/>
+<p><pb n="7.205"/>
 <lb/>It happened that Mazdak at dawn one day
 <lb/>Went from his house and came before the Shah,
 <lb/>And thus he said: <q>Of those that hold our Faith,
@@ -8048,7 +8049,7 @@ adopted the Faith of Mazdak</head>
 <lb/>And wealth work havoc with the good religion,
 <lb/>But will not meddle more if thou wilt keep it
 
-<pb n="206"/>
+<pb n="7.206"/>
 
 <lb/>Intact. The twain cause jealousy, greed, need,
 <lb/>While anger and revenge conspire with them,
@@ -8101,7 +8102,7 @@ adopted the Faith of Mazdak</head>
 <p>
 <lb/>While he, when he had heard, went to Kubad,
 <lb/>Discoursed with him about Mazdak, and said:—
-<pb n="207"/>
+<pb n="7.207"/>
 <lb/><q>The time now hath arrived when I would make
 <lb/>Investigation of the good religion.
 <lb/>If then Mazdak be right, and if the Faith
@@ -8139,7 +8140,7 @@ adopted the Faith of Mazdak</head>
 <lb/>The son in like wise recognise his father?
 <lb/>When every man is equal in the world,
 
-<pb n="208"/>
+<pb n="7.208"/>
 
 <lb/>And great and little are no more discerned,
 <lb/>Who then will serve, and how can any rule?
@@ -8184,7 +8185,7 @@ adopted the Faith of Mazdak</head>
 <lb/>The circuit of that wall he dug a trench
 <lb/>Wherein he set those men at intervals.
 </p>
-<pb n="209"/>
+<pb n="7.209"/>
 <p>
 <lb/>They planted them like trees and firmly fixed
 <lb/>Their feet aloft, their heads below. Kisra
@@ -8229,7 +8230,7 @@ adopted the Faith of Mazdak</head>
 <lb/>Now when Kubad had reigned for forty years
 <lb/>The grief of death’s day came upon his heart.
 </p>
-<pb n="210"/>
+<pb n="7.210"/>
 <p>
 <lb/>He had a writing fairly drawn on silk
 <lb/>In that befitting and engaging script, <note>Pahlavi.</note>
@@ -8268,7 +8269,7 @@ adopted the Faith of Mazdak</head>
 <lb/>Barred up the way thereto for evermore,
 <lb/>And thenceforth looked not on him. Thus he passed
 
-<pb n="211"/>
+<pb n="7.211"/>
 
 <lb/>O’er this world, as thou mightst have said, like wind!
 <lb/>How canst thou trust then in this ancient sky
@@ -8298,10 +8299,13 @@ division before § 3.</note>
 <lb/>And henceforth to Kisra my thoughts I bend.
 </p>
 
-
+</div>
 </div>
 
-<div><head>XLI. NUSHIRWAN: HE REIGNED FORTY-EIGHT YEARS</head><head>ARGUMENT</head>
+<div type="textpart" subtype="reign" n="41"><head>NUSHIRWAN: HE REIGNED FORTY-EIGHT YEARS</head>
+    
+    <div type="textpart" subtype="argument"><head>Argument</head>
+        <p>The poet tells of the accession of Nushirwadn, his internal administration, his repression of marauding tribes, his first war with Rum, the revolt and death of his son Nushzad, of the rise to power and wisdom of Buzurjmihr, the fall of Mahbud, the Shah’s marriage with the daughter of the Khan, Buzurjmihr’s discourse on good words and deeds, the introduction into Persia of the game of chess and the Fables of Bidpai, the legend of the invention of the former and that of the game of nard, the fall and the restoration to favour of Buzurjmihr, the wisdom of Nushirwan, his last war with Rum, his appointment of his successor, and death.</p>
 <p>
 The poet tells of the accession of Nushirwan, his internal
 administration, his repression of marauding tribes, his first war
@@ -8316,7 +8320,7 @@ his last war with Rum, his appointment of his successor, and death.
 </p>
 </div>
 <div><head>NOTE</head>
-<p><pb n="212"/>
+<p><pb n="7.212"/>
 Kisra, surnamed Nushirwan (Chosroes I, A.D. 531-578), ruled
 contemporaneously with three Eastern Roman Emperors—Justinian
 (A.D. 527-565), Justin II (A.D. 565-574), and Tiberius II (A.D.
@@ -8333,7 +8337,7 @@ It will be seen that the poet had plenty of material for this
 portion of his undertaking. The subject-matter falls naturally
 into certain well-defined divisions; accordingly we have broken
 
-<pb n="213"/>
+<pb n="7.213"/>
 
 up the reign, as in the case of that of Gushtasp, <note n="1">Vol. v. p. 9.</note> into Parts, but
 there is no such arrangement in the original.
@@ -8360,7 +8364,7 @@ order as follows:—
 </p>
 
 <div><head>PART I: NUSHIRWAN’S ADMINISTRATION OF THE REALM, HIS WARS WITH FRONTIER-TRIBES AND WITH RUM, AND THE REVOLT OF NUSHZAD</head><head>ARGUMENT</head>
-<pb n="214"/>
+<pb n="7.214"/>
 
 
 
@@ -8396,7 +8400,7 @@ a matter of course a money-payment from the former to the latter.
 It did not follow that Justinian always got the worst of the bargain.
 For instance, in the definite treaty of peace between the two
 
-<pb n="215"/>
+<pb n="7.215"/>
 
 empires in A.D. 562, Nushirwan’s renunciation of Lazica (Mingrelia
 and Imeritia), and consequently of his dream of a fleet and of assailing Rum by sea, was well worth the thirty thousand pieces of gold
@@ -8440,7 +8444,7 @@ muraille de rochers, qu’il consolida avec le fer et le plomb. Ces
 outres s’enfonçaient dans l’eau, à mesure que la construction
 s'élevait; lorsqu’elles s’arrêtèrent sur le fond et que la muraille
 
-<pb n="216"/>
+<pb n="7.216"/>
 
 dépassa le niveau de l’eau, des plongeurs, armés de poignards et
 de coutelas, crevèrent les outres; la muraille, entrant profondément
@@ -8492,7 +8496,7 @@ purpose, see Vol. vi. p. 163.
 </p>
 
 <p>§7. Nushirwan’s dealings with the Alans and the folk of Gilan
-<pb n="217"/>
+<pb n="7.217"/>
 
 are historical, but Firdausi substitutes the Baluchis, who made
 themselves very troublesome in his time, for another tribe,
@@ -8547,7 +8551,7 @@ Shurab of Firdausi, which was taken without difficulty, sacked, and
 burnt. The Shah then advanced to Hierapolis, the Ardyish-i-Rum
 of the Shahnama, which was allowed to ransom itself for two
 
-<pb n="218"/>
+<pb n="7.218"/>
 
 thousand pounds of silver.<note n="1">RSM, p. 387. </note>
 Hierapolis sounds somewhat like
@@ -8598,7 +8602,7 @@ does not carry the story of the war further. Peace was made, after
 the resumption of the war which was followed by another five
 years’ truce, definitively in A.D. 562.</p>
 
-<pb n="219"/>
+<pb n="7.219"/>
 
 <p>§§ 16-19. The revolt of Nushzad, <q>Immortal-born,</q> is historical,
 and the circumstances attending it may be stated fairly correctly
@@ -8639,7 +8643,7 @@ there, but all is characterised by dignity and good feeling.<note n="4">For Nush
 </div>
 
 <div type="textpart" subtype="section" n="1"><head>The Prelude</head>
-<p><pb n="220"/>
+<p><pb n="7.220"/>
 <lb/><q>O lofty Cypress, thou that ravishest
 <lb/>The heart! Oh! wherefore art thou thus opprest?
 <lb/>With pleasure, Grace, and luxury anear
@@ -8674,7 +8678,7 @@ there, but all is characterised by dignity and good feeling.<note n="4">For Nush
 
 <div type="textpart" subtype="section" n="2"><head>How Nushirwan ascended the Throne and made an Oration
 to the Iranians</head>
-<p><pb n="221"/>
+<p><pb n="7.221"/>
 <lb/>When Nushirwan<note n="1">Kisra in the original, but henceforth we write Nushirwan.</note>
 assumed the ivory throne,
 <lb/>And donned the crown—the lustre of the heart—
@@ -8708,7 +8712,7 @@ assumed the ivory throne,
 <lb/>But worthless flowers for thee to cull to-morrow.
 <lb/>In days when thou art hale be not unmindful
 <lb/>Of malady, of suffering, and of loss;</q>
-<pb n="222"/>
+<pb n="7.222"/>
 
 <lb/><q>Think of the day of death which closeth life,
 <lb/>And how with death we are as leaves with wind.
@@ -8746,7 +8750,7 @@ assumed the ivory throne,
 <lb/>No minister of mine will I approve
 <lb/>That keepeth such a matter hid from me.
 <lb/>As for the officers about my court,
-<pb n="223"/>
+<pb n="7.223"/>
 
 <lb/>And valiant cavaliers among my troops,
 <lb/>As we stint not the stipend due to them
@@ -8785,7 +8789,7 @@ assumed the ivory throne,
 <lb/>Thereof a clear assurance to thy soul.
 <lb/>Whate’er we praise is under His command,
 <lb/>And all our worship dedicate to Him.</q>
-<pb n="224"/>
+<pb n="7.224"/>
 
 <lb/>When Nushirwan had spoken all the world
 <lb/>Was lost in wonder at him. To their feet
@@ -8825,7 +8829,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>All had required a portion of the crops,
 <lb/>And no man thitherto had 'scaped the tax.
 <lb/>The royal portion was a third or fourth
-<pb n="225"/>
+<pb n="7.225"/>
 
 <lb/>Until Kavad came and required a tenth.
 <lb/>He meant to have reduced it further still,
@@ -8864,7 +8868,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>The royal scribes and officers employed
 <lb/>Within the taxing-office passed all count.
 
-<pb n="226"/>
+<pb n="7.226"/>
 
 <lb/>The Shah had these above-named tolls and imposts
 <lb/>Recorded by the archmages in three ledgers,
@@ -8904,7 +8908,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>And that all secrets are revealed to Him,
 <lb/>Who when He willeth to exalt a man
 <lb/>First maketh him superior to all want.</q>
-<pb n="227"/>
+<pb n="7.227"/>
 <lb/>He bade me judge, but He is Judge Himself,
 <lb/>And higher than all height eternally.
 <lb/>In God’s sight king and subject are as one,
@@ -8944,7 +8948,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>We have imposed a land-tax and a tree-tax
 <lb/>For sustentation of the throne and crown.
 
-<pb n="228"/>
+<pb n="7.228"/>
 
 <lb/>Now when they bring this letter to you may
 <lb/>Ahura Mazda prove fortunate to you. Whoever
@@ -8983,7 +8987,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>Hang from the gibbet on the spot. The great—
 <lb/>The Shahs of yore—had other usages,
 
-<pb n="229"/>
+<pb n="7.229"/>
 
 <lb/>With their officials rested right and wrong,
 <lb/>The world lay open to the cavaliers,
@@ -9024,7 +9028,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>So that the fame thereof may come to us,
 <lb/>Will have not God’s approval, or be held
 
-<pb n="230"/>
+<pb n="7.230"/>
 
 <lb/>In high consideration at our court;
 <lb/>But he hath God’s approval and our own
@@ -9068,7 +9072,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>The troops came to the office of Babak,
 <lb/>The air was darkened by the horsemen’s dust.
 <lb/>Now when Babak reviewed the host he missed<note n="1">Reading with P.</note>
-<pb n="231"/>
+<pb n="7.231"/>
 
 <lb/>The standard and the chief of all the noble.
 <lb/>He left the office, mounted on his steed,
@@ -9110,7 +9114,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>Within his hand he had an ox-head mace,
 <lb/>Within his belt four shafts of poplar-wood,
 <lb/>A bow on arm and lasso on the saddle.
-<pb n="232"/>
+<pb n="7.232"/>
 
 <lb/>While round his loins he had a golden girdle.
 <lb/>He urged his charger, gripping with his thighs,
@@ -9153,7 +9157,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <p>
 <lb/><q>O man of wisdom!</q> said the Shah to him,
 <lb/><q>Keep thyself ever in the path of right,
-<pb n="233"/>
+<pb n="7.233"/>
 
 <lb/>Whereof thou break’st the heart by self-regard.
 <lb/>Know that thou art the dearer in mine eyes;
@@ -9192,7 +9196,7 @@ a Decree to his Officers on the Administration of Justice</head>
 <lb/>To all the nobles and the potentates
 <lb/>In all the provinces, and thus it ran:—
 <lb/><q>All ye possessed of wisdom and of sense!
-<pb n="234"/>
+<pb n="7.234"/>
 
 <lb/>Bring up your sons for military service,
 <lb/>Dispatch them to the field equipped for war,
@@ -9230,7 +9234,7 @@ Kings acknowledged his Supremacy</head>
 <lb/>Sat on his throne, while all that sought redress
 <lb/>Flocked to his court. The king harangued them thus:—
 
-<pb n="235"/>
+<pb n="7.235"/>
 
 <lb/><q>Acknowledge that ye have not any helper
 <lb/>Save holy God, the Lord of all, our Guide,
@@ -9274,7 +9278,7 @@ Kings acknowledged his Supremacy</head>
 <lb/>Seen any one despondent in the world,
 <lb/>While from the clouds came seasonable rain,
 <lb/>The world resembled jocund Paradise,
-<pb n="236"/>
+<pb n="7.236"/>
 
 <lb/>The clouds sowed tulips in the pleasances,
 <lb/>The dales, the plains, and orchards shone like lamps,
@@ -9315,7 +9319,7 @@ in the Pass between Iran and Turan</head>
 <p><milestone unit="calced" n="1629"/>
 <lb/>Then Nushirwan, the wise, made this resolve—
 <lb/>That he would sojourn for a while abroad
-<pb n="237"/>
+<pb n="7.237"/>
 
 <lb/>To make the circuit of the jocund world,
 <lb/>And bring whate’er was hidden to the light.
@@ -9353,7 +9357,7 @@ in the Pass between Iran and Turan</head>
 <lb/>The Guide and the Revealer of the way.
 <lb/>Thou mad’st the world of such delightsomeness
 <lb/>That we distinguish not 'twixt earth and Heaven.
-<pb n="238"/>
+<pb n="7.238"/>
 
 <lb/>Whoe’er shall worship any save Thyself
 <lb/>Will send his soul to Hell. It was for this
@@ -9396,7 +9400,7 @@ in the Pass between Iran and Turan</head>
 <lb/>Such mountains as these are, such spacious plains,
 <lb/>All fit for gardens, grounds, and palaces,
 <lb/>And filled with cattle, game, and running water,
-<pb n="239"/>
+<pb n="7.239"/>
 
 <lb/>So that the soul is freshened by the sight—
 <lb/>We must not let the Turkmans lay them waste,
@@ -9437,7 +9441,7 @@ Baluch and Gilan<note n="1">Literally, <gloss>rubbed the ears of.</gloss></note>
 <p><milestone unit="calced" n="1631"/>
 <lb/>Thence from the sea he went toward the Alans,
 <lb/>And finding there a ravaged, barren march
-<pb n="240"/>
+<pb n="7.240"/>
 
 <lb/>He thus addressed his chiefs: <q>It is a shame
 <lb/>For regions in Iran to lie thus waste,
@@ -9476,7 +9480,7 @@ Baluch and Gilan<note n="1">Literally, <gloss>rubbed the ears of.</gloss></note>
 <lb/>The great men and the chieftains of that march
 <lb/>Went forth with contributions and much tribute,
 <lb/>With slaves and raiment, and with gold and silver,
-<pb n="241"/>
+<pb n="7.241"/>
 
 <lb/>And many a noble steed, while of the folk
 <lb/>All that were men of years and eloquence,
@@ -9517,7 +9521,7 @@ Baluch and Gilan<note n="1">Literally, <gloss>rubbed the ears of.</gloss></note>
 <lb/>He went his way, and tidings came to him:
 <lb/><q>The world is wasted by the Baluchis,
 <lb/>Till from exceeding slaughter, pillaging,
-<pb n="242"/>
+<pb n="7.242"/>
 
 <lb/>And harrying, the earth is overwhelmed,
 <lb/>But greater ruin cometh from Gilan,
@@ -9566,7 +9570,7 @@ Baluch and Gilan<note n="1">Literally, <gloss>rubbed the ears of.</gloss></note>
 <lb/>The troops, aware of the anger of the Shah,
 <lb/>Stopped every outlet with their horse and foot;
 <lb/>Few of the Baluchis or none survived,
-<pb n="243"/>
+<pb n="7.243"/>
 
 <lb/>No women, children, warriors, were left.
 <lb/>All of them perished by the scimitar,
@@ -9607,7 +9611,7 @@ Baluch and Gilan<note n="1">Literally, <gloss>rubbed the ears of.</gloss></note>
 <lb/>Oh! that the Shah would cease from his displeasure!
 <lb/>If he is vexed at heart against Gilan
 <lb/>We will behead ourselves with our own hands.
-<pb n="244"/>
+<pb n="7.244"/>
 
 <lb/>It may be that the Shah then will relent
 <lb/>When he shall see the heaps of severed heads.</q>
@@ -9647,7 +9651,7 @@ against the Injustice of Caesar</head>
 <lb/>Why do the Romans lord it so and prance
 <lb/>Upon the desert of the cavaliers?
 <lb/>While if the Shah be Caesar’s overlord
-<pb n="245"/>
+<pb n="7.245"/>
 
 <lb/>That haughty potentate should lose his head.
 <lb/>Now if the noble Shah will give permission
@@ -9692,7 +9696,7 @@ against the Injustice of Caesar</head>
 <lb/>Imagining a fall from power remote,
 <lb/>And answered thus: <q>As for that fool Munzir,
 <lb/>Take what he stateth at its proper worth.
-<pb n="246"/>
+<pb n="7.246"/>
 
 <lb/>If he complaineth out of wantonness,
 <lb/>Exaggerating thus the evil done,
@@ -9734,7 +9738,7 @@ against the Injustice of Caesar</head>
 <lb/>A man of eloquence—to him. Henceforth,
 <lb/>If thou experience naught calamitous,
 <lb/>That Caesar should keep Rum would pleasure us.</q><note n="2">Ending section with P.</note>
-<pb n="247"/>
+<pb n="7.247"/>
 </p>
 
 
@@ -9777,7 +9781,7 @@ against the Injustice of Caesar</head>
 <lb/>The Shah’s seal and then chose a cavalier,
 <lb/>Such as was needful, from the court, a man
 <lb/>Persuasive, valiant, shrewd, and veteran.
-<pb n="248"/>
+<pb n="7.248"/>
 </p>
 
 </div>
@@ -9817,7 +9821,7 @@ he replied</head>
 <lb/>The javelin-wielding horsemen of the waste
 <lb/>Have pillaged our possessions in their raids:
 <lb/>No longer will we bear their wrongs but raise
-<pb n="249"/>
+<pb n="7.249"/>
 
 <lb/>The dust in all their borders. Nushirwan
 <lb/>Was neither Maker of the sun, nor hath
@@ -9860,7 +9864,7 @@ he replied</head>
 <lb/>Hath smirched its visage in a sea of pitch!</q></p>
 
 <p>He clad the surface of the earth with horse-shoes,
-<pb n="250"/>
+<pb n="7.250"/>
 <lb/>While silken flags incarnadined the air.
 <lb/>There was no room on earth e’en for a gnat,
 <lb/>No room for wind left in the firmament.
@@ -9898,7 +9902,7 @@ he replied</head>
 <lb/>The marchlords of the country of Iran,
 <lb/>And say: <q>Fear God, be vigilant, and guard
 <lb/>The world against the enemy. Ye lords
-<pb n="251"/>
+<pb n="7.251"/>
 <lb/>And paladins! be just to those beneath you,
 <lb/>And keep such forces as will foil the foe.
 <lb/>None while my standard shall be out of sight
@@ -9938,7 +9942,7 @@ he replied</head>
 <lb/>If any one of you shall quit my way,
 <lb/>Or draw a breath without my privity,
 <lb/>Shall cause affliction to the mendicants,
-<pb n="252"/>
+<pb n="7.252"/>
 <lb/>Or to the mighty men possessed of treasure,
 <lb/>Shall injure any tree that beareth fruit,
 <lb/>Or do an act unseemly, trample down
@@ -9975,7 +9979,7 @@ he replied</head>
 <lb/>His bow, his helm, his lasso and his belt,
 <lb/>Or good or bad, were buried with the dead,
 <lb/>Who in the grave had still his goods with him.
-<pb n="253"/>
+<pb n="7.253"/>
 <lb/>The world was lost in wonder at the height
 <lb/>Of majesty attained by Nushirwan.
 <lb/>In every place where he engaged in battle
@@ -10007,7 +10011,7 @@ he replied</head>
 <lb/>In helm and mail before the host for fight,
 <lb/>Him would they slaughter or in scorn would fling
 <lb/>Bound in the dungeons of the conquering king.
-<pb n="254"/>
+<pb n="7.254"/>
 </p>
 
 </div>
@@ -10046,7 +10050,7 @@ March to Rum</head>
 <lb/>Ardyish-i-Rum till that Nushirwan
 <milestone unit="calced" n="1641"/>
 <lb/>Ill-ended it. The watchful Shah surveyed
-<pb n="255"/>
+<pb n="7.255"/>
 <lb/>That hold, unentered yet by hostile troops,
 <lb/>And bade shoot showers of arrows till the air
 <lb/>Was thick with them as 'tis with hail in spring.
@@ -10084,7 +10088,7 @@ Host, the Victory of Nushirwan, and his Capture of Kaliniyus and Antakiya</head>
 <lb/>The Shah proclaimed the tidings to the troops
 <lb/>That all the host might be prepared. They marched
 <lb/>As 'twere an iron mountain; battle-cries
-<pb n="256"/>
+<pb n="7.256"/>
 <lb/>Ascended and the blast of clarions.
 <lb/>A courier with tidings from the scouts
 <lb/>Appeared before the monarch of the world,
@@ -10124,7 +10128,7 @@ Host, the Victory of Nushirwan, and his Capture of Kaliniyus and Antakiya</head>
 <lb/>The Shah marched on again equipped for war,
 <lb/>The soldiers all with mace and sword in hand.
 <lb/>He led his army on along a plain
-<pb n="257"/>
+<pb n="7.257"/>
 <lb/>Until another lofty hold appeared—
 <lb/>A citadel with soldiers, trump, and drum,
 <lb/>And hight Kaliniyus. The eagle saw not
@@ -10163,7 +10167,7 @@ Host, the Victory of Nushirwan, and his Capture of Kaliniyus and Antakiya</head>
 <lb/>And from that hold and seat the men and women
 <lb/>Assembled at the gate of Nushirwan:
 
-<pb n="258"/>
+<pb n="7.258"/>
 <lb/><q>No cavalier of all our warriors
 <lb/>Is left,</q> they said, <q>or magnate in this city;
 <lb/>They all, though guiltless, have been slain or wounded
@@ -10202,7 +10206,7 @@ Host, the Victory of Nushirwan, and his Capture of Kaliniyus and Antakiya</head>
 <lb/>And those that were the treasurers of Caesar,
 <lb/>Gave up the treasure to the Shah—the world-lord—
 <lb/>The treasure unto him that bare the toil.
-<pb n="259"/>
+<pb n="7.259"/>
 <lb/>The Iranians set in bonds on elephants
 <lb/>All that were warriors among that folk.
 <lb/>The Shah dispatched to Madain the captives,
@@ -10241,7 +10245,7 @@ of Antakiya and settled the Roman Captives therein</head>
 <lb/>And sent to dwell in joy in that new city.
 <lb/>He said: <q>We have erected this new seat—
 <lb/>All gardens, rosaries, and palaces—
-<pb n="260"/>
+<pb n="7.260"/>
 
 <lb/>That each might have a dwelling to his mind
 <lb/>And worthy of his name.</q>
@@ -10286,7 +10290,7 @@ of Antakiya and settled the Roman Captives therein</head>
 <lb/>He canvassed what to do. Thus spake a priest:—
 <milestone unit="calced" n="1645"/>
 <lb/><q>Thou’rt ill-advised because thou hast not power
-<pb n="261"/>
+<pb n="7.261"/>
 <lb/>To fight with Nushirwan. The foe will raise
 <lb/>The dust from this fair realm and bring to naught
 <lb/>The achievements of the Caesars. In debate
@@ -10325,7 +10329,7 @@ of Antakiya and settled the Roman Captives therein</head>
 <lb/>From Rome, this country valueth not one gnat.
 <lb/>The worth deriveth wholly from the man;
 <lb/>When he is lost the value is lost too.
-<pb n="262"/>
+<pb n="7.262"/>
 <lb/>If this commotion be but for wealth’s sake—
 <lb/>That ruiner of wisdom and contentment—
 <lb/>Lo! I have brought thee all the wealth of Rome,
@@ -10366,7 +10370,7 @@ of Antakiya and settled the Roman Captives therein</head>
 <p>
 <lb/>Shirwi,
 <lb/>Who kissed the ground, blessed and addressed the Shah:—
-<pb n="263"/>
+<pb n="7.263"/>
 <lb/><q>Mayst thou be happy and victorious,
 <lb/>And may the royal Tree ne’er pale its leaves.</q>
 </p>
@@ -10404,7 +10408,7 @@ Woman who was a Christian</head>
 <lb/>Sun-faced, out-shining Venus in the sky.
 <lb/>The noble mother called the child Nashzad,
 <lb/>And no fierce blast assailed that lovely boy.
-<pb n="264"/>
+<pb n="7.264"/>
 <milestone unit="calced" n="1647"/>
 <lb/>He grew up as he were a straight-stemmed cypress—
 <lb/>A youth of parts, the glory of the realm.
@@ -10445,7 +10449,7 @@ Woman who was a Christian</head>
 <lb/>Call we a reprobate and fool that son
 <lb/>Who in his father’s footsteps hath not trod.
 <lb/>Wet be the seed of colocynth or dry
-<pb n="265"/>
+<pb n="7.265"/>
 <lb/>It will not savour musk, then where the need
 <lb/>That it should change from what should spring thereby
 <lb/>By nature if the gardener sow its seed?
@@ -10483,7 +10487,7 @@ Woman who was a Christian</head>
 <lb/>As handed down by ancient legendry.
 <lb/>Whenas the son of Nishirwan had heard:—
 <lb/><q>The throne of that right royal Tree is void,</q>
-<pb n="266"/>
+<pb n="7.266"/>
 <lb/>He oped his palace-door, and from all quarters
 <lb/>Troops gathered unto him—all that had 'scaped
 <lb/>From wisdom's bonds and had been put in ward
@@ -10529,7 +10533,7 @@ Woman who was a Christian</head>
 
 <div type="textpart" subtype="section" n="18"><head>The Letter of Nushirwan to Ram Barzin, the Warden of the
 March of Madain, respecting the Taking of Nushzad</head>
-<pb n="267"/>
+<pb n="7.267"/>
 
 <p>
 <lb/><milestone unit="calced" n="1649"/>
@@ -10564,7 +10568,7 @@ March of Madain, respecting the Taking of Nushzad</head>
 <lb/>Will pierce them both? No one rejoiceth much
 <lb/>At death of son, albeit all must die;
 <lb/>But as for those consorting with Nushzad,
-<pb n="268"/>
+<pb n="7.268"/>
 <lb/>Who reckon on the death of Nishirwan,
 <lb/>The death of them would be a cause for joy
 <lb/>If but Nushzad should 'scape the evil day.
@@ -10602,7 +10606,7 @@ March of Madain, respecting the Taking of Nushzad</head>
 <lb/>My son hath found a home and rest elsewhere;
 <lb/>No single drop of him came from my loins.
 <lb/>With his awakening my foe arrived,
-<pb n="269"/>
+<pb n="7.269"/>
 <lb/>And, I do fear me, toil. Still if the World-lord
 <lb/>Hath no occasion to be wroth with me
 <lb/>I reck not of such things. In my regard
@@ -10640,7 +10644,7 @@ March of Madain, respecting the Taking of Nushzad</head>
 <lb/>To give his faith to Caesar and put off
 <lb/>Allegiance to our crown, whereby his greatness
 <lb/>Hath grown vile, wretched, and calamitous,
-<pb n="270"/>
+<pb n="7.270"/>
 <lb/>And he hath chosen ruin from high heaven.
 <lb/>In this regard said Mihr-i-Nush—a sage
 <lb/>Who worshipped God and wore the woollen vest:—
@@ -10676,7 +10680,7 @@ March of Madain, respecting the Taking of Nushzad</head>
 <lb/>His raiment must not show the rents of blows,
 <lb/>Because his women-folk will slay themselves.
 <lb/>His palace will afford the best of prisons
-<pb n="271"/>
+<pb n="7.271"/>
 <lb/>Both for himself and those that follow him.
 <lb/>Bar not to him the portal of my treasures,
 <lb/>Albeit one so dear hath grown so vile,
@@ -10716,7 +10720,7 @@ March of Madain, respecting the Taking of Nushzad</head>
 <p><lb/>They set
 <lb/>The Shah’s own seal upon the letter. Then
 <lb/>The messenger departed with all speed,
-<pb n="272"/>
+<pb n="7.272"/>
 <lb/>And, when to Ram Barzin he made his way,
 <lb/>Told all that he had heard the great king say.
 
@@ -10757,7 +10761,7 @@ was slain</head>
 <lb/>Thou wouldst have said: <q>Earth seetheth, and the air
 <lb/>Is shrieking over it.</q>
 <lb/>A warrior,
-<pb n="273"/>
+<pb n="7.273"/>
 <lb/>Beclad in mail and hight Piruz the old,
 <lb/>Came boldly forth and cried: <q>O famed Nushzad!
 <lb/>Who wantonly hath turned thy head from right?
@@ -10793,7 +10797,7 @@ was slain</head>
 <lb/>Though painter never looked on such a picture,
 <lb/>Or any age on such a prince, yet burn not
 <lb/>The soul of Nishirwan by childishness,
-<pb n="274"/>
+<pb n="7.274"/>
 <lb/>Or stultify the world-illuming crown,
 <lb/>For hostile howsoever a son may be
 <lb/>His father will lament when he is slain.
@@ -10839,7 +10843,7 @@ was slain</head>
 <lb/>Came as it were Azargashasp, and broke
 <lb/>The left wing of the army of the Shah,
 <lb/>Where none remained to fight with him. He slew
-<pb n="275"/>
+<pb n="7.275"/>
 <lb/>Full many a Lion of the host, whereat,
 <lb/>Grown wrathful, Ram Barzin bade shower arrows,
 <lb/>And fill the air as 'twere with hail in spring.
@@ -10879,7 +10883,7 @@ was slain</head>
 <lb/>Heard of his death they fled the battlefield.
 <lb/>The Iranian leader, hearing that the prince
 <lb/>Was slain, went weeping to his couch in haste.
-<pb n="276"/>
+<pb n="7.276"/>
 <lb/>The troops ceased slaying on the field of fight,
 <lb/>And neither joyed nor spoiled. They saw the prince
 <lb/>Slain and o'erthrown with ignominy, his head
@@ -10918,7 +10922,7 @@ was slain</head>
 <lb/>Gund-i-Shapur<note>See p. 219.</note> was all in tears, consumed
 <lb/>With sorrow for the anguish of the Shah.
 <lb/>Why writhe so madly in the bonds of greed?
-<pb n="277"/>
+<pb n="7.277"/>
 <lb/>Thou know'st that here thou canst not long remain.
 <lb/>Seek to escape, give not the world such heed,
 
@@ -10955,7 +10959,7 @@ was slain</head>
 </div>
 </div>
 <div><head>PART II: THE STORY OF BUZURJMIHR AND OF THE SEVEN BANQUETS OF NUSHIRWAN</head>
-<pb n="278"/>
+<pb n="7.278"/>
 
 <div type="textpart" subtype="argument"><head>Argument</head>
 <p> The Shah, being disquieted by a dream, sends emissaries through the empire to find an interpreter. One is discovered at Marv in the person of Buzurjmihr, then a youth, who having been brought before the Shah interprets the dream and is advanced to great honour. The Shah subsequently gives a series of entertainments at which discussions on wisdom and morals are substituted for the usual diversions of Oriental banquets, and Buzurjmihr again greatly distinguishes himself.
@@ -10964,7 +10968,7 @@ was slain</head>
 <div type="textpart" subtype="intro"><head>NOTE</head>
 <p>Persia, like other nations, has its Wisdom-literature. This comprises apologues, apothegms, proverbs, parables, the interpretation of dreams and dark sentences, astrological forecasts, the solution of problems, the supplying the correct answer to questions relating to religion, morals, conduct, and expediency, and longer discourses thereon, reflections on fate and fortune, on the uncertainty of all terrestrial affairs, on the vanity of striving after wealth and fame, and the importance of leaving behind one a good name after death. All these forms of wisdom find expression in the Shahnameh, and the poet himself has been not backward in contributing his quota. At the first available opportunity in his work he utters his <quote>Praise of Wisdom</quote>—the first created of God and His best gift to man.<note n="1">Vol. i. p. 101. Cf. too p. 103, supra.</note></p>
 
-<p> A collection of all the passages dealing with such themes and subjects as are mentioned above, and including Firdausi’s own reflections on such matters, as have occurred in the poem up to this point, would amount to something considerable, but scattered through a mass of narrative they are apt to be overlooked. In this reign, however, we are confronted by formal collections of primitive Persian Wisdom associated for the most part with the name of Buzurjmihr but to some extent with other great officials and with <pb n="279"/> Nushirwan himself. Firdausi availed himself of the opportunity of the conjunction of the just Shah with the wise counsellor to bring together all that he could find in his authorities and elsewhere on some of the subjects mentioned at the beginning of this note. That a large Pahlavi literature once existed on such matters, and arranged sometimes in the form of question and answer, we know from what is extant. Thus the sage in the <title>Din-i Mainog-i Khrad</title> (<title>Opinions of the Spirit of Wisdom</title>) consults the Spirit of Wisdom on sixty-two points and receives answers, e.g. <quote>The sage asked the spirit of wisdom thus: <q>Which man is the mightier?</q>... The spirit of wisdom answered thus: <q>That man is the mightier who is able to struggle with his own fiends; and, in particular, he who keeps these five fiends far from his person, which are such as greediness, wrath, lust, disgrace, and discontent.</q></quote><note n="1">WPT, iii. 81.</note> The concluding question is: <q>Which is that good work which is greater and better than all good works, and no trouble whatever is necessary for its performance?</q> The answer is: <q>To be grateful in the world, and to wish happiness for everyone. This is greater and better than every good work, and no commotion whatever is necessary for its performance.</q><note n="2">Id. 113.</note> These questions and answers are quite of a piece with the sages’ gnomes in the poem. There are also extant in Pahlavi the <q>Pandnamak-i Vazurg-Mihr-i Bakhtagan</q> or <q>Bakhtagan,</q> i.e. the <q>Book of Counsels of Buzurjmihr the son of Bakhtagan,</q> the <q>Characteristics of a Happy Man,</q> and other texts dealing with similar subjects.<note n="3">GIP, ii. 113 seq.</note> There can be no doubt but that Firdausi derived the sententious, gnomic, parenetic, or whatever one chooses to call them, portions of the Shahnama, like the narrative, indirectly from the Pahlavi. Four series of such passages occur in the present reign, The first and longest is in the present Part. The second is Buzurjmihr’s Discourse on good deeds and works in Part III. The third is Nushirwan’s answers to the questions addressed to him by the archmages. The fourth is the word-for-word examination that Hurmuzd, Nushirwan’s son, has to pass at the hands of Buzurjmihr, by order of the Shah, before being nominated as his father’s successor. One cannot help feeling a sneaking sympathy, reprehensible though it be, with him when we find him signalising his advent to the throne by making a clean sweep of his father’s ministers from whose <quote>wise saws and modern instances</quote> doubtlessly he had suffered much in the days of his youth. Nero acted similarly in the case of Burrus and the younger Seneca. Of these four series the third is concerned only partly with Wisdom-literature, some <pb n="280"/> of the questions dealing with Nushirwan’s own conduct on specified occasions. This and the fourth series will appear in Volume VIII, Buzurjmihr, the son of Bakhtagan, of Marv, the man chiefly associated with the Wisdom-literature of the Shahnama, is but a semi-historical figure hardly mentioned by any historian before Firdausi's time with the exception of Mas'udi who died when the poet was a youth. Mas'udi gives twelve maxims of Buzurjmihr’s and little else,<note n="4">MM, ii. 206 seg., vii. 164.</note> so that practically we are dependent on what Firdausi tells us, and this, with regard to the incidents recorded, generally has something of the preternatural about it. Buzurjmihr’s career begins with a dream, and while sleeping on his journey to the court a snake, which seems an Arab rather than a Persian touch, comes and breathes over him. Moreover, his fall from power is preceded by an omen and his restoration to favour accomplished by another. We never hear of him as being associated with any of Nushirwan’s great achievements in administration or in war. He is employed, it is true, upon two missions, once to expound a game—chess—and to propound another of his own invention—nard—and once to negotiate in time of war a loan for his master, which falls through owing to the fact that Nushirwan has a higher conception of the dignity of the office of the scribe than Buzurjmihr himself. His repute seems largely due to Firdausi, who used him as a peg whereon to hang all the old clothes of the Wisdom-literature that the poet was too conscientious to discard but could not dispose of elsewhere. There is, however, a thanksgiving couplet to testify that he was not sorry when the worst of his task was over.<note n="5">See p. 379.</note> If the number seven were not such a favourite in Persian story one might suggest that the Seven Banquets of Nushirwan originated in a perverted reminiscence of the seven Greek philosophers who were entertained for a while at his court when Justinian closed the schools of Athens,<note n="6">GDF, v. 93.</note> and that Buzurjmihr himself is not much more than a native composite reproduction of those hapless and disillusioned sages.
+<p> A collection of all the passages dealing with such themes and subjects as are mentioned above, and including Firdausi’s own reflections on such matters, as have occurred in the poem up to this point, would amount to something considerable, but scattered through a mass of narrative they are apt to be overlooked. In this reign, however, we are confronted by formal collections of primitive Persian Wisdom associated for the most part with the name of Buzurjmihr but to some extent with other great officials and with <pb n="7.279"/> Nushirwan himself. Firdausi availed himself of the opportunity of the conjunction of the just Shah with the wise counsellor to bring together all that he could find in his authorities and elsewhere on some of the subjects mentioned at the beginning of this note. That a large Pahlavi literature once existed on such matters, and arranged sometimes in the form of question and answer, we know from what is extant. Thus the sage in the <title>Din-i Mainog-i Khrad</title> (<title>Opinions of the Spirit of Wisdom</title>) consults the Spirit of Wisdom on sixty-two points and receives answers, e.g. <quote>The sage asked the spirit of wisdom thus: <q>Which man is the mightier?</q>... The spirit of wisdom answered thus: <q>That man is the mightier who is able to struggle with his own fiends; and, in particular, he who keeps these five fiends far from his person, which are such as greediness, wrath, lust, disgrace, and discontent.</q></quote><note n="1">WPT, iii. 81.</note> The concluding question is: <q>Which is that good work which is greater and better than all good works, and no trouble whatever is necessary for its performance?</q> The answer is: <q>To be grateful in the world, and to wish happiness for everyone. This is greater and better than every good work, and no commotion whatever is necessary for its performance.</q><note n="2">Id. 113.</note> These questions and answers are quite of a piece with the sages’ gnomes in the poem. There are also extant in Pahlavi the <q>Pandnamak-i Vazurg-Mihr-i Bakhtagan</q> or <q>Bakhtagan,</q> i.e. the <q>Book of Counsels of Buzurjmihr the son of Bakhtagan,</q> the <q>Characteristics of a Happy Man,</q> and other texts dealing with similar subjects.<note n="3">GIP, ii. 113 seq.</note> There can be no doubt but that Firdausi derived the sententious, gnomic, parenetic, or whatever one chooses to call them, portions of the Shahnama, like the narrative, indirectly from the Pahlavi. Four series of such passages occur in the present reign, The first and longest is in the present Part. The second is Buzurjmihr’s Discourse on good deeds and works in Part III. The third is Nushirwan’s answers to the questions addressed to him by the archmages. The fourth is the word-for-word examination that Hurmuzd, Nushirwan’s son, has to pass at the hands of Buzurjmihr, by order of the Shah, before being nominated as his father’s successor. One cannot help feeling a sneaking sympathy, reprehensible though it be, with him when we find him signalising his advent to the throne by making a clean sweep of his father’s ministers from whose <quote>wise saws and modern instances</quote> doubtlessly he had suffered much in the days of his youth. Nero acted similarly in the case of Burrus and the younger Seneca. Of these four series the third is concerned only partly with Wisdom-literature, some <pb n="7.280"/> of the questions dealing with Nushirwan’s own conduct on specified occasions. This and the fourth series will appear in Volume VIII, Buzurjmihr, the son of Bakhtagan, of Marv, the man chiefly associated with the Wisdom-literature of the Shahnama, is but a semi-historical figure hardly mentioned by any historian before Firdausi's time with the exception of Mas'udi who died when the poet was a youth. Mas'udi gives twelve maxims of Buzurjmihr’s and little else,<note n="4">MM, ii. 206 seg., vii. 164.</note> so that practically we are dependent on what Firdausi tells us, and this, with regard to the incidents recorded, generally has something of the preternatural about it. Buzurjmihr’s career begins with a dream, and while sleeping on his journey to the court a snake, which seems an Arab rather than a Persian touch, comes and breathes over him. Moreover, his fall from power is preceded by an omen and his restoration to favour accomplished by another. We never hear of him as being associated with any of Nushirwan’s great achievements in administration or in war. He is employed, it is true, upon two missions, once to expound a game—chess—and to propound another of his own invention—nard—and once to negotiate in time of war a loan for his master, which falls through owing to the fact that Nushirwan has a higher conception of the dignity of the office of the scribe than Buzurjmihr himself. His repute seems largely due to Firdausi, who used him as a peg whereon to hang all the old clothes of the Wisdom-literature that the poet was too conscientious to discard but could not dispose of elsewhere. There is, however, a thanksgiving couplet to testify that he was not sorry when the worst of his task was over.<note n="5">See p. 379.</note> If the number seven were not such a favourite in Persian story one might suggest that the Seven Banquets of Nushirwan originated in a perverted reminiscence of the seven Greek philosophers who were entertained for a while at his court when Justinian closed the schools of Athens,<note n="6">GDF, v. 93.</note> and that Buzurjmihr himself is not much more than a native composite reproduction of those hapless and disillusioned sages.
 </p>
 
 <p>
@@ -10978,7 +10982,7 @@ was slain</head>
     
     particulière de chacun. On a donc attribué à Buzurdjmihr tous
     
-    <pb n="281"/>
+    <pb n="7.281"/>
     
     les traits de sagesse et toutes les moralités qu’on a pu trouver, et
     Firdousi les rapporte au long les uns et les autres. Quant aux
@@ -11017,7 +11021,7 @@ was slain</head>
 <lb/>Know that a dream may smack of prophecy,
 <lb/>And in especial when such visitings
 
-<pb n="282"/>
+<pb n="7.282"/>
 
 <lb/>Impress the clear mind of a king of kings.
 <lb/>The stars with sky and moon hold conference,
@@ -11055,7 +11059,7 @@ was slain</head>
 <lb/>The mystery, and then bestow on such
 <lb/>A full purse and the royal compliments.<note>Reading with P.</note>
 </p>
-<pb n="283"/>
+<pb n="7.283"/>
 <p>
 <lb/>So to all parts a veteran archmage went—
 <lb/>A prudent cavalier and man of lore.
@@ -11098,7 +11102,7 @@ was slain</head>
 <lb/>Till at the hour for provand and repose
 <lb/>They reached a spot with water, lighted down<note>Cf. Vol. v. p. 260.</note>
 </p>
-<pb n="284"/>
+<pb n="7.284"/>
 <p>
 <lb/>Beneath a tree and, having eaten, rested.
 <lb/>While Buzurjmihr slept in the shade, his mantle
@@ -11135,7 +11139,7 @@ was slain</head>
 <lb/>The Shah put forth all strangers, closed the palace
 <lb/>Of king of kings, and bade the eunuchs bring,
 
-<pb n="285"/>
+<pb n="7.285"/>
 
 <lb/>As swift as smoke, the Idols dwelling there.
 <lb/>They came, those Idols of his bower, in all
@@ -11177,7 +11181,7 @@ was slain</head>
 <lb/>The Shah said to the youth: <q>Thou worthless dog!
 <lb/>Both race and family are smirched by thee.</q>
 </p>
-<pb n="286"/>
+<pb n="7.286"/>
 <p>
 <lb/>He frowned. He was amazed at that young pair,
 <lb/>Then bade in wrath the executioner:
@@ -11218,7 +11222,7 @@ was slain</head>
 </div>  
 
 <div type="textpart" subtype="section" n="2"><head>The first Banquet of Nushirwan to the Sages, and the Counsels of Buzurjmihr</head>
-<p><pb n="287"/>
+<p><pb n="7.287"/>
 <lb/>The board was spread one day. The Shah commanded:
 <lb/><q>Bid the archmages come, the learned, the curious,
 <lb/>The eloquent, the prudent, and observing.</q>
@@ -11254,7 +11258,7 @@ was slain</head>
 <lb/>And spread light round him while his eloquence
 <lb/>And counsels fixed the archimages’ hearts.
 </p>
-<pb n="288"/>
+<pb n="7.288"/>
 
 <p>
 <lb/>He first displayed his gifts in praise of God,
@@ -11294,7 +11298,7 @@ was slain</head>
 <lb/>And care in bonds. Thou wilt give ear to sages
 <lb/>If thou art humble in thy wish to learn.
 
-<pb n="289"/>
+<pb n="7.289"/>
 
 
 <lb/>When one is masterful in counselling
@@ -11337,7 +11341,7 @@ was slain</head>
 <lb/>The youth set loose his tongue, for he was pure
 <lb/>Of heart and of an ardent soul, and thus
 
-<pb n="290"/>
+<pb n="7.290"/>
 
 
 <lb/>He said: <q>We must not even in our thoughts
@@ -11377,7 +11381,7 @@ was slain</head>
 <lb/>A se'nnight passed. That king of ardent heart
 <lb/>Convoked the wise and shelved the world’s affairs
 <lb/>Because he wished to hear the words of sages—
-<pb n="291"/>
+<pb n="7.291"/>
 <lb/>Those that were worthy to be called to court,
 <lb/>And were approved by knowledge to the Shah.
 <lb/>They came, the wise in utterance, both young
@@ -11422,7 +11426,7 @@ was slain</head>
 <p>
 <lb/><q>What is the special virtue of the sage,</q>
 <lb/>Another said, <q>in moments of dispute?</q>
-<pb n="292"/>
+<pb n="7.292"/>
 <milestone unit="calced" n="1664"/>
 <lb/>He answered: <q>To discern when he is wrong,
 <lb/>And modify his methods and his views.</q>
@@ -11475,7 +11479,7 @@ was slain</head>
 <p>
 <lb/><q>Within this Wayside Inn,</q> another said,
 <lb/><q>The sage is not exempt from pain and trouble.
-<pb n="293"/>
+<pb n="7.293"/>
 <lb/>How shall we act that we may win fair fame,
 <lb/>And so begin that nobly we may end?</q>
 <lb/>He answered: <q>Keep from sin; treat all the world
@@ -11520,7 +11524,7 @@ was slain</head>
 <lb/>Who mourneth not the lost but giveth up
 <lb/>His darling to the dust without regret,
 <lb/>Pain, or dismay, rejecteth empty hopes
-<pb n="294"/>
+<pb n="7.294"/>
 <lb/>Like willow's fruit, is always glad and gay,
 <lb/>And careless of the processes of time.</q>
 </p>
@@ -11572,7 +11576,7 @@ was slain</head>
 <lb/>The Lord of day and night, of sun and moon.
 <lb/>Moreover heartily he must obey
 <lb/>The Shah’s behests in public and in private,
-<pb n="295"/>
+<pb n="7.295"/>
 <milestone unit="calced" n="1666"/>
 <lb/>Tend his own person dearly and shut fast
 <lb/>Thereon the door of travail and of greed,
@@ -11632,7 +11636,7 @@ was slain</head>
 </div>
 <div type="textpart" subtype="section" n="4"><head>The third Banquet of Nushirwan to Buzurjmihr and
 the Archimages</head>
-<p><pb n="296"/>
+<p><pb n="7.296"/>
 <lb/>A se'nnight passed. The eighth day with the dawn
 <lb/>The all-conquering Shah sat on his throne and summoned
 <lb/>Before him all the men of understanding,
@@ -11665,7 +11669,7 @@ the Archimages</head>
 <lb/>If thou hast claimed attainments justify
 <lb/>What thou hast fairly spoken by thy deeds.
 <lb/>The sage is happy being fed by heaven
-<pb n="297"/>
+<pb n="7.297"/>
 <lb/>With wisdom, and the man of simple heart
 <lb/>Because 'tis free from all deceitfulness.
 <lb/>In this world wisdom is a trusty tree,
@@ -11701,7 +11705,7 @@ the Archimages</head>
 <lb/>So as to break his heart if he should miss it.
 <lb/>He neither hopeth that which ne'er can be,
 <lb/>Nor saith: <q>The willow-bough will bring forth fruit.</q>
-<pb n="298"/>
+<pb n="7.298"/>
 <lb/>When at his ease from travail and from ill
 <lb/>He recketh of the future, wherefore when
 <lb/>Time bringeth hardship on him he will prove
@@ -11738,7 +11742,7 @@ the Archimages</head>
 <lb/>See thou go not about to compass lies.
 <lb/>When one of eloquence is holding forth
 <lb/>Abide his words, be not impatient;
-<pb n="299"/>
+<pb n="7.299"/>
 <lb/>Thou mayst get wisdom from his utterances,
 <lb/>And afterwards repeat what thou hast heard.
 <lb/>Use not thy wisdom as a means of gain
@@ -11783,7 +11787,7 @@ the Archimages</head>
 </p>
 <p><lb/>Said Buzurjmihr: <q>The man that barreth up
 <lb/>His tongue from evil vexeth not his soul,
-<pb n="300"/>
+<pb n="7.300"/>
 <lb/>And rendeth not in talk another’s skin.
 <lb/>He will be likewise friends with all the folk,
 
@@ -11833,7 +11837,7 @@ the Archimages</head>
 
 <div type="textpart" subtype="section" n="5"><head>The fourth Banquet of Nishirwan to Bizurjmihr and
 the Archimages</head>
-<p><pb n="301"/>
+<p><pb n="7.301"/>
 <lb/>Two se’nnights passed away and then the Shah
 <lb/>Relinquished public business for a day,
 <lb/>And bade the archimages and great men
@@ -11869,7 +11873,7 @@ the Archimages</head>
 <lb/>And maketh wisdom ruler of his passions
 <lb/>When he is choleric. A monarch’s thoughts
 <lb/>Should not displease the Master of the world
-<pb n="302"/>
+<pb n="7.302"/>
 <milestone unit="calced" n="1671"/>
 
 <lb/>Through whom he doth discern ’twixt good and evil,
@@ -11907,7 +11911,7 @@ the Archimages</head>
 <lb/>He will bring ruin on the homes of men.
 <lb/>The world-lord must rejoice in faith and right
 <lb/>So long as he is in the world as Shah.
-<pb n="303"/>
+<pb n="7.303"/>
 
 <lb/><q>Tis his to cleanse it from the wicked Div
 <lb/>In public and in private by the sword.
@@ -11945,7 +11949,7 @@ the Archimages</head>
 <lb/>Tis needful to fulfil all righteousness,
 <lb/>And clear thine own heart of perversity.
 <lb/>The sole adornment for the mighty Shah
-<pb n="304"/>
+<pb n="7.304"/>
 <milestone unit="calced" n="1672"/>
 
 <lb/>Is right, for ’tis the Div that causeth wrong.
@@ -11984,7 +11988,7 @@ the Archimages</head>
 <lb/>Of science and the readers of the stars,
 <lb/>The wise, the enlightened, and the eloquent.
 <lb/>The youthful Buzurjmihr, the orator,
-<pb n="305"/>
+<pb n="7.305"/>
 
 <lb/>Came to the presence of Shah Nushirwan,
 <lb/>And did obeisance to his sovereign,
@@ -12026,7 +12030,7 @@ the Archimages</head>
 <lb/>Then Yazdagird, the scribe, spake thus and said:—
 <lb/><q>O wise and wisdom-loving Shah! in Shahs
 <lb/>It is a thing unseemly to shed blood,
-<pb n="306"/>
+<pb n="7.306"/>
 
 <lb/>Or suffer trifles to disturb the heart.
 <lb/>Moreover, when the king is light of wit
@@ -12067,7 +12071,7 @@ the Archimages</head>
 <lb/>The general who guardeth well his treasure,
 <lb/>And is abandoned by his toil-worn troops;
 <lb/>The sage that feareth not to do amiss
-<pb n="307"/>
+<pb n="7.307"/>
 
 <lb/>If he can have enjoyment therewithal:
 <lb/>The leech that aileth; how can he cure others?
@@ -12109,7 +12113,7 @@ the Archimages</head>
 <lb/>And make the unprized man of high estate?
 <lb/>The speaker’s treasure is not minished,
 <lb/>While ’tis a pleasure to the listener.</q>
-<pb n="308"/>
+<pb n="7.308"/>
 
 </p>
 
@@ -12150,7 +12154,7 @@ the Archimages</head>
 <lb/>And thou canst journey either at thy choice.
 <milestone unit="calced" n="1675"/>
 <lb/>One is the way of rashness, full of ill,
-<pb n="309"/>
+<pb n="7.309"/>
 
 <lb/>The other that of wisdom and well-doing,</q><note>Couplet omitted.</note>
 <lb/>And therein wisdom is the guide for thee—
@@ -12187,7 +12191,7 @@ the Archimages</head>
 <lb/>Make it thy shaft and let thy bow be wisdom.
 <lb/>Be not imprudent when a fight is toward,
 <lb/>But guard thy body from the enemy,
-<pb n="310"/>
+<pb n="7.310"/>
 
 <lb/>And when he hath arrayed the host against thee
 <lb/>Be prudent and preserve thy self-control.
@@ -12226,7 +12230,7 @@ the Archimages</head>
 <lb/>Or wisdom will regard thee not thenceforth;
 <lb/>Go not about to compass wickedness,
 <lb/>But being wise adorn thyself with virtues.
-<pb n="311"/>
+<pb n="7.311"/>
 
 <lb/>He that is good in public and in private
 <lb/>Is most to be commended in the world.
@@ -12270,7 +12274,7 @@ the Archimages</head>
 
 <div type="textpart" subtype="section" n="8"><head>The seventh Banquet of Nushirwan to Buzurjmihr and
 the Archimages</head>
-<p><pb n="312"/>
+<p><pb n="7.312"/>
 <lb/>A se’nnight passed, the Sun lit up his crown,
 <lb/>And came and sat upon the ivory throne,
 <lb/>Together with the high priest, the grandees,
@@ -12306,7 +12310,7 @@ the Archimages</head>
 <lb/>His room but hold his dear face as thy life.
 <lb/>Want never findeth entrance to the soil
 <lb/>Of states whose monarch is their well-beloved.
-<pb n="313"/>
+<pb n="7.313"/>
 
 <lb/>His Grace will fend thee from all ill, for why
 <lb/>His fortunes nurse all virtue. When a king
@@ -12344,7 +12348,7 @@ the Archimages</head>
 <lb/>The Shah’s lips smile. If he shall show thee favour
 <lb/>Hug not thyself, old servant though thou be,
 <lb/>For, though thy service may have lasted long,
-<pb n="314"/>
+<pb n="7.314"/>
 
 <lb/>Know that thou art not indispensable,
 <lb/>And if he favoureth another man
@@ -12385,7 +12389,7 @@ the Archimages</head>
 <p>
 <lb/>To Buzurjmihr’s oration Nushirwan
 <lb/>Gave heed, heart-joyed to look on him. The king
-<pb n="315"/>
+<pb n="7.315"/>
 
 <lb/>Was wont to give his largess on this wise:
 <lb/>If he said <q>Good!</q> the largess was four purses,
@@ -12403,10 +12407,10 @@ the Archimages</head>
 </div>
 </div>
 <div><head>PART III: THE STORY OF MAHBUD AND OTHER MATTERS</head>
-<pb n="316"/>
+<pb n="7.316"/>
 
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>The poet tells how Mahbud, sometime chief minister of Nushirwan
 and a virtuous and blameless man, was done to death by the
 machinations of Zurvan, the chamberlain, and of a Jewish sorcerer,
@@ -12436,7 +12440,7 @@ support, was discovered, and a clean sweep—the usual course in
 such cases—made of the conspirators and all their male relations
 with the exception of Kubid, who ultimately escaped to Con-
 
-<pb n="317"/>
+<pb n="7.317"/>
 
 stantinople and was well received by the Emperor Justinian.
 There is no account of the conspiracy in the Shahnama, but it has
@@ -12485,7 +12489,7 @@ and for the temple of Azargashasp, p. 5.</p>
 and Good Deeds plays an important part in Zoroastrianism. One
 of the most beautiful passages in the Zandavasta, Yasht XXII,<note>DZA, ii. 314 seq.</note></p>
 
-<pb n="318"/>
+<pb n="7.318"/>
 
 <p>deals with the subject and may be paraphrased briefly and
 metrically thus:</p>
@@ -12524,7 +12528,7 @@ and a Jew</head>
 <p><lb/>Fate playeth off some pretty trickery,
 <lb/>And putteth thee to discipline once more.
 <lb/>Now hearken to a rustic minstrel’s lay,
-<lb/><pb n="319"/>
+<lb/><pb n="7.319"/>
 <lb/>Ta’en from the legends of a time long sped ;<note n="1">Seven couplets omitted.</note>
 <lb/>I questioned him of ages past away,
 <lb/>And this is what of Nushirwan he said :—
@@ -12560,7 +12564,7 @@ and a Jew</head>
 <lb/>Since never had he cause to pale one whit
 <lb/>For all the words and practice of that knave ?</p>
 
-<pb n="320"/>
+<pb n="7.320"/>
 <p><lb/>A Jew, it happened, borrowed of Zuran
 <lb/>One day some money to employ in trade.
 <lb/>He came and went, his influence grew, and he
@@ -12599,7 +12603,7 @@ and a Jew</head>
 <p><lb/>Zuran attended to these words. His heart
 <lb/>Was freshened as he gazed upon the Jew ;
 
-<pb n="321"/>
+<pb n="7.321"/>
 <lb/>Whene’er he went to court the Jew went likewise ;
 <lb/>They had their secrets, joys, and feasts in common.
 <lb/>A season passed with matters in this stay :
@@ -12639,7 +12643,7 @@ and a Jew</head>
 <lb/>Then carried in the tray to Nushirwan,
 <lb/>While after them Zuran came quick as dust,
 
-<pb n="322"/>
+<pb n="7.322"/>
 <lb/>And thus addressed the Shah, that noble man :—
 <lb/><q>O Shah, the just, the favoured by the stars !
 <lb/>Touch not these meats till they be tasted first.<note n="4">Couplet omitted.</note>
@@ -12675,7 +12679,7 @@ and a Jew</head>
 <div type="textpart" subtype="section" n="2"><head>How the Sorcery of Zuran and the Jew in the Matter of Mahbid
 was discovered, and how both were slain by Command of
 Nushirwan</head>
-<pb n="323"/>
+<pb n="7.323"/>
 <p><lb/>The Shah, the world-lord, purposed, as it chanced,
 <lb/>To hunt the wolf and bade that many a steed,
 <lb/>Used in the chase, should pass before his eyes,
@@ -12707,7 +12711,7 @@ Nushirwan</head>
 
 <p><lb/>Zuran said: <q> Live for ever, and may wisdom
 <lb/>Feed on thy words. All that they say of witchcraft
-<pb n="324"/>
+<pb n="7.324"/>
 <lb/>Is true, though this is known but to adepts.
 <lb/>If food have milk therein they by a look
 <lb/>Can from a distance turn it into bane.</q></p>
@@ -12748,7 +12752,7 @@ Nushirwan</head>
 <p><lb/>Zuran told all the truth, revealed the secret,
 <lb/>Threw all the blame upon the Jew, and made
 <lb/>As though he were possessed by grief and anguish.
-<pb n="325"/>
+<pb n="7.325"/>
 <lb/>The great king, having listened, fettered him,
 <lb/>And sent to that enchanter of a Jew,
 <lb/>As swift as smoke, a rider with two steeds.
@@ -12787,7 +12791,7 @@ Nushirwan</head>
 <lb/>His soul kept burning on Mahbid’s account,
 <lb/>And in the night he wept till it was day,
 <lb/>Would pray to God for pardon and pour forth
-<pb n="326"/>
+<pb n="7.326"/>
 <lb/>His heart’s blood on his bosom. He bestowed
 <lb/>Much largess on the mendicants and made
 <lb/>His tongue moreover prayerful unto God
@@ -12820,7 +12824,7 @@ built the City of Sursan</head>
 <lb/>Let wisdom be thy leaf that flourisheth.
 <lb/>Thus, through my words, though Nushirwan is dead,
 <lb/>His justice hath achieved fresh lustihead.
-<pb n="327"/>
+<pb n="7.327"/>
 <lb/>As soon as all the world acknowledged him
 <lb/>He used his greatness only to win praise,
 <lb/>Both great and small reposed in peace while wolf
@@ -12856,7 +12860,7 @@ built the City of Sursan</head>
 <lb/>At once a great seat and a place of trade.
 <lb/>The prisoners of war brought from Barbar,
 <lb/>From Rum, and from the parts laid desolate,
-<pb n="328"/>
+<pb n="7.328"/>
 <lb/>He furnished with a dwelling-house apiece,
 <lb/>And made the city one of aliens.
 <lb/>The Shah, the glory of the provinces,
@@ -12894,7 +12898,7 @@ Faghanish upon the Throne</head>
 <p><lb/>Hear how the Khan and the Haitalians fought,
 <lb/>And since a fight is toward take thy mace.</p>
 
-<pb n="329"/>
+<pb n="7.329"/>
 <p><lb/>Thus said the rustic bard, that noble one ;
 <lb/>Keep thou in mind what thou shalt hear from him :—
 <lb/>Of all the chiefs possessed of Grace and justice,
@@ -12933,7 +12937,7 @@ Faghanish upon the Throne</head>
 <lb/>On silk, as was the custom of the country,
 <lb/>Profuse in courteous greetings to the Shah.</p>
 
-<pb n="330"/>
+<pb n="7.330"/>
 <p><lb/>The envoy’s way lay through the Haitalians’ land—
 <lb/>A route beset by shaft and battleax—
 <lb/>Before whose ruler stood a host whose lines
@@ -12973,7 +12977,7 @@ Faghanish upon the Throne</head>
 <lb/>The waters of Gulzaryin rose-red.
 <lb/>Ghatkar heard of the doings of the Khan,
 
-<pb n="331"/>
+<pb n="7.331"/>
 <lb/>And chose an army from the Haitalians,
 <lb/>An army that obscured the sun, and called
 <lb/>For treasure, money, troops, and arms from Balkh,
@@ -13009,7 +13013,7 @@ Faghanish upon the Throne</head>
 <lb/>The sun evanished in the reek ; dust filled
 <lb/>The eyes of eagles as they flew. It veered,
 
-<pb n="332"/>
+<pb n="7.332"/>
 <lb/>Upon the eighth day, ’gainst Ghatkar, the world
 <lb/>Was all bedarkened like night azure-dim,
 <lb/>The Haitalians were o’erthrown, irreparably
@@ -13046,7 +13050,7 @@ Faghanish upon the Throne</head>
 <lb/>Hath Grace, high bearing, destiny, and wisdom, 
 <lb/>And wisdom is the cherisher of right.
 
-<pb n="333"/>
+<pb n="7.333"/>
 He hath made Caesar tributary. None
 <lb/>Can strive with Nushirwan.</q>
 <lb/>The Haitalians—
@@ -13082,7 +13086,7 @@ the Haitalians and how he led a Host against the Khan</head>
 <lb/>Experienced and ye ministers of state !
 <lb/>I have discomfortable news—accounts
 
-<pb n="334"/>
+<pb n="7.334"/>
 <lb/>At once unpleasant and injurious—
 <lb/>About the Haitalians and what the Khan
 <lb/>Of Chin and marchlords of Turan have done.
@@ -13121,7 +13125,7 @@ the Haitalians and how he led a Host against the Khan</head>
 <lb/>First praised the Shah, and said : <q>O fortunate
 <lb/>And prescient Shah! all the Haitalian march
 <lb/>Is very Ahriman, the folk thereof
-<pb n="335"/>
+<pb n="7.335"/>
 <lb/>Are double-faced and hostile to our coast.
 <lb/>They merit any ill that they may get,
 <lb/>Although the Shah is right to speak them fairly.
@@ -13159,7 +13163,7 @@ the Haitalians and how he led a Host against the Khan</head>
 <lb/>None yet hath set his foot upon our land,
 <lb/>Or meditated evil on this realm,
 
-<pb n="336"/>
+<pb n="7.336"/>
 <lb/>Yet if the Shah show fight the crocodiles
 <lb/>Will stir not in the streams for fear of him.</q></p>
 
@@ -13200,7 +13204,7 @@ the Haitalians and how he led a Host against the Khan</head>
 <lb/>Thus was it till the new moon rose and sat
 <lb/>On its new throne. They saw the moon withal
 <lb/>Upon the Shah’s own face, and acclamations
-<pb n="337"/>
+<pb n="7.337"/>
 <lb/>Rose from his court. Whenas the shining Lamp
 <lb/>O’ertopped the mountains, and the earth resembled
 <lb/>A golden saddle-cover, thou hadst said:—
@@ -13237,7 +13241,7 @@ Peace</head>
 <lb/>Will not support this host and throne of mine.
 <lb/>I will lead hence the army to Iran,
 
-<pb n="338"/>
+<pb n="7.338"/>
 <lb/>And onward to the cities of the brave,
 <lb/>Will bear the very dust away to Chin,
 <lb/>And set the heaven warring with the earth.
@@ -13276,7 +13280,7 @@ Peace</head>
 <lb/>The Shah’s seat, for none hath his Grace and fortune:
 <lb/>The moon in heaven hath not such a mien.
 <lb/>He claimeth tribute both from Hind and Rum,
-<pb n="339"/>
+<pb n="7.339"/>
 <lb/>Wherever there is wealth or peopled land.
 <lb/>He is the lord of crown, the ornament
 
@@ -13319,7 +13323,7 @@ Peace</head>
 <lb/>The company were filled with wonderment
 <lb/>Thereat. It first of all invoked the blessing
 
-<pb n="340"/>
+<pb n="7.340"/>
 <lb/>Of God, the All-just, upon the king of earth,
 <lb/>Next manifested forth the eminence,
 <lb/>Wealth, army, arms, and greatness of the Khan,
@@ -13359,7 +13363,7 @@ Peace</head>
 <lb/>Upon one elephant, whose back was all
 <lb/>Housed in brocade, they set a turquoise throne,
 
-<pb n="341"/>
+<pb n="7.341"/>
 <lb/>Nile-blue, and bruit and stir filled earth and air,
 <lb/>Enough to deafen even the best of ears.
 <lb/>The ambassadors from Barda’, Hind, and Rum,
@@ -13394,7 +13398,7 @@ Peace</head>
 <lb/>His battle-gear, had body-armour brought,
 <lb/>With helm and mail, and bade undo the buckles.</p>
 
-<pb n="342"/>
+<pb n="7.342"/>
 <p><lb/>The Shah alone had chest and neck to bear
 <lb/>The body-armour, mace, and morion.
 <lb/>There was no archer in the host like him,
@@ -13433,7 +13437,7 @@ Peace</head>
 <lb/>As I have told to thee, their loins for ill;
 <lb/>They have shed blood unjustly, wantonly,
 
-<pb n="343"/>
+<pb n="7.343"/>
 <lb/>And have been taken in their proper toils:</q>
 <lb/>The evil-doer, though of lion’s strength,
 <lb/>Must not be bold with God. Though these men bare
@@ -13471,7 +13475,7 @@ Peace</head>
 <lb/>To royal crown and throne, prepared a robe
 <lb/>Of honour, as the royal usage is,
 
-<pb n="344"/>
+<pb n="7.344"/>
 <lb/>And bade the envoys come before the Shah,
 <lb/>Who gave them verbal messages withal
 <lb/>In further explication of the letter.
@@ -13512,7 +13516,7 @@ Peace</head>
 <lb/>The whole folk of Iran compose his host,
 <lb/>And are the adorers of his diadem.
 
-<pb n="345"/>
+<pb n="7.345"/>
 <lb/>What time he holdeth court upon the plain
 <lb/>The world itself containeth not his troops.
 <lb/>His mace-men all have golden belts and all
@@ -13550,7 +13554,7 @@ Daughter in Marriage to Nushirwan</head>
 <lb/>That he shall be affined to me. I have
 <lb/>Full many a daughter in my ladies’ bower—
 <lb/>All crowns upon the heads of noble dames—
-<pb n="346"/>
+<pb n="7.346"/>
 <lb/>And I will wed one to the king of kings,
 <lb/>And thus cut short my cares in that regard.
 <lb/>If we make blood-relationship with him
@@ -13589,7 +13593,7 @@ Daughter in Marriage to Nushirwan</head>
 <lb/>Had come back from thy court to mine and told me
 <lb/>At large about the Shah—his justice, wisdom,
 
-<pb n="347"/>
+<pb n="7.347"/>
 <lb/>Good fortune, crown, pre-eminence, and throne—
 <lb/>His Grace divine caused to arise in me
 <lb/>A great desire to shadow 'neath his wings.
@@ -13629,7 +13633,7 @@ Daughter in Marriage to Nushirwan</head>
 <lb/>The letter writ on silk.</q></p>
 
 <p>The nobles all
-<pb n="348"/>
+<pb n="7.348"/>
 <lb/>Sat round while Yazdagird drew near the Shah,
 <lb/>And read the letter which amazed the throng,
 <lb/>Such good will, fair excuse, and compliment
@@ -13667,7 +13671,7 @@ Daughter in Marriage to Nushirwan</head>
 <lb/>Protesting that their words were true. The Shah,
 <lb/>When he had heard the fervent words thus uttered
 
-<pb n="349"/>
+<pb n="7.349"/>
 <lb/>In gentle accents by the chiefs of Chin,
 <lb/>Replied: <q>The Khan is great, wise, worshipful,
 <lb/>Desireth kinship with us through his child,
@@ -13703,7 +13707,7 @@ to see and fetch the Daughter of the Khan</head>
 <lb/>Spoke of the Khan at large, and bade indite
 <lb/>An answer couched in choice and gracious terms.</p>
 
-<pb n="350"/>
+<pb n="7.350"/>
 <p><lb/>He first gave praises to almighty God,
 <lb/><q>The World-lord, Conqueror, and Nourisher.
 <lb/>The world is established by His ordinance;
@@ -13741,7 +13745,7 @@ to see and fetch the Daughter of the Khan</head>
 <lb/>And said thus to Mihran Sitad: <q>Go forth
 <lb/>Glad and triumphant, and with love and justice.
 <lb/>Be thine the fluent tongue of chiefs, be wisdom
-<pb n="351"/>
+<pb n="7.351"/>
 <lb/>Thy guide, thy heart all lovingkindliness.
 <lb/>Scan well the women’s quarters of the Khan,
 <lb/>And thoroughly search out all their good and ill.
@@ -13783,7 +13787,7 @@ to see and fetch the Daughter of the Khan</head>
 <lb/>The fairest of the fair throughout the world,
 <lb/>And many a chief hath sought her at my hands.
 <lb/>I love her so that never would I cease
-<pb n="352"/>
+<pb n="7.352"/>
 <lb/>To gaze upon her face. I have four others—
 <lb/>The offspring of my slaves, themselves both slaves
 <lb/>And handmaids, clever girls—and one of them
@@ -13824,7 +13828,7 @@ to see and fetch the Daughter of the Khan</head>
 
 <p><lb/>Now when Mihran Sitad came and beheld
 <lb/>He saw none like to her, and, being shrewd
-<pb n="353"/>
+<pb n="7.353"/>
 <lb/>Of heart and counsel, knew that king and queen
 <lb/>Were fooling him. The damsel used her hands
 <lb/>As kerchief for her eyes. Mihran Sitad
@@ -13865,7 +13869,7 @@ to see and fetch the Daughter of the Khan</head>
 <lb/>And, when the place for conclave had been cleared,
 <lb/>The readers of the stars who bore in hand
 <lb/>Their Roman astrolabes, the mighty men,
-<pb n="354"/>
+<pb n="7.354"/>
 <lb/>And all the chiefs, attended. Then the Khan
 <lb/>Commanded every loyal liege to mark
 <lb/>The aspect of the sky. The sages scanned
@@ -13899,7 +13903,7 @@ with a Letter and Treasures to Nushirwan</head>
 <lb/>Comprising goods of all sorts, was prepared—
 <lb/>Dinars, gems, torques, and crowns, a turquoise litter,
 
-<pb n="355"/>
+<pb n="7.355"/>
 <lb/>An ivory throne, and one of aloe-wood
 <lb/>From Hind, with gold and divers jewelry
 <milestone unit="calced" n="1704"/>
@@ -13935,7 +13939,7 @@ with a Letter and Treasures to Nushirwan</head>
 <lb/><q>He fashioned all things by divine decree
 <lb/>To guide His servants to predestined ends.
 
-<pb n="356"/>
+<pb n="7.356"/>
 <lb/>My crown is the Iranian king of kings.
 <lb/>Not for my daughter’s sake have I desired
 <lb/>A league with him, but hearing from the wise,
@@ -13974,7 +13978,7 @@ with a Letter and Treasures to Nushirwan</head>
 <lb/>Howbeit he delayed till they had crossed,
 <lb/>And reached dry land upon the further side.</p>
 
-<pb n="357"/>
+<pb n="7.357"/>
 <p><lb/>When tidings came about Mihran Sitad<note>Reading with P.</note>
 <lb/>The folk presented gifts and offerings,
 <lb/>And all with one consent called blessings down
@@ -14011,7 +14015,7 @@ with a Letter and Treasures to Nushirwan</head>
 <lb/>Upon a rose’s petal, while beneath
 <lb/>The ring-work shone the planet Jupiter.</p>
 
-<pb n="358"/>
+<pb n="7.358"/>
 <p><lb/>Shah Nushirwan was all astound thereat,
 <lb/>And o’er her oft invoked the name of God,
 <lb/>Assigned her a fit dwelling for her own,
@@ -14048,7 +14052,7 @@ from Gurgan to Taisafin</head>
 <lb/>Such were the Grace divine and royal mien
 <lb/>Wherewith the savage Lion sought the chase;
 
-<pb n="359"/>
+<pb n="7.359"/>
 <lb/>Such were his reputation and his star
 <lb/>That fortune was the comrade of his throne.</q>
 <lb/>Then from the regions lying ’twixt Amwi,
@@ -14085,7 +14089,7 @@ from Gurgan to Taisafin</head>
 <lb/>And scatter the unseemly and the foul.
 <lb/>So Khosrow, what time Piruz was Shah,
 <lb/>Filled all the world with bloodshed, heat, and anguish,
-<pb n="360"/>
+<pb n="7.360"/>
 <lb/>And perish Faghanish that son of his
 <lb/>With all his unjust kith and kin! And now
 <lb/>The world-lord Nushirwan hath occupied
@@ -14122,7 +14126,7 @@ from Gurgan to Taisafin</head>
 <lb/>And lodged them through the city. Afterwards
 <lb/>The king of kings, that worshipper of God,
 
-<pb n="361"/>
+<pb n="7.361"/>
 <lb/>Passed from the audience-chamber to the dust,
 <lb/>And offered up thanksgivings to the Almighty:—
 <lb/><q>O Thou above vicissitudes of fortune!
@@ -14160,7 +14164,7 @@ from Gurgan to Taisafin</head>
 <lb/>The daughter of the Khan, and thus the treasures
 <lb/>And baggage went toward Taisafin. A band
 <lb/>Composed of warriors only—all the best
-<pb n="362"/>
+<pb n="7.362"/>
 <lb/>And noblest of the mighty men—approached
 <lb/>Afoot Azar Abadagan while troops
 <lb/>Came from each province, soldiers from Gilan
@@ -14199,7 +14203,7 @@ from Gurgan to Taisafin</head>
 <lb/>The tribute and the taxes of three years—
 <lb/>And with the presents Caesar had dispatched
 
-<pb n="363"/>
+<pb n="7.363"/>
 <lb/>A letter to the famous king. They set
 <lb/>The envoy in the presence, and the Shah
 <lb/>Was all attention while they read the letter.
@@ -14236,7 +14240,7 @@ from Gurgan to Taisafin</head>
 <div type="textpart" subtype="section" n="12"><head>Discourse on the Justice of Nushirwan and how
 Mortals had Peace under his Usages</head>
 <milestone unit="calced" n="1710"/>
-<p><pb n="364"/>When Nushirwan ascended to his throne
+<p><pb n="7.364"/>When Nushirwan ascended to his throne
 <lb/>In pomp, with his good fortune for his mate,
 <lb/>The world was decked like Paradise with justice,
 <lb/>With goodliness, and wealth, had rest from strife,
@@ -14267,7 +14271,7 @@ Mortals had Peace under his Usages</head>
 
 <p><lb/>Thou wouldst have said, and men had peace from pain
 <lb/>And leech. The moisture showered upon the rose
-<pb n="365"/>
+<pb n="7.365"/>
 <lb/>In season, and the farmer was not sad
 <lb/>Through lack of rain. The world grew full of herbage
 <lb/>And cattle, plains and valleys were all flowers,
@@ -14305,7 +14309,7 @@ Mortals had Peace under his Usages</head>
 <lb/>Upon that tilth, and he shall have the carcass
 <lb/>Who had the scath, the horseman shall be horseless,
 <lb/>And fare afoot before Azargashasp
-<pb n="366"/>
+<pb n="7.366"/>
 <lb/>To tender his excuse, the muster-master
 <lb/>Shall strike his name off from the muster-roll,
 <lb/>They shall lay low his dwelling, and the offender,
@@ -14341,7 +14345,7 @@ on good Deeds and Words</head>
 <lb/>Secure against the toils of Ahrimans,
 <lb/>Shall be the great king over all the world,
 <lb/>And consummate his wishes one by one,
-<pb n="367"/>
+<pb n="7.367"/>
 <lb/>Shall win the wide world by his bravery,
 <lb/>Make rosary and pleasance, park and palace,
 <lb/>Shall lay up wealth, have sons surrounding him,
@@ -14385,7 +14389,7 @@ on good Deeds and Words</head>
 <lb/>Hath caused not to transgress.</q>
 </p><p>
 <lb/>The Shah then asked him
-<pb n="368"/>
+<pb n="7.368"/>
 <lb/>Concerning guile, the Div’s way, and the way
 <lb/>Of God, the world’s Lord. Buzurjmihr replied:—
 <lb/><q>To do God’s will is best, for in both worlds.
@@ -14427,7 +14431,7 @@ on good Deeds and Words</head>
 <lb/>Backbiting, Treachery, and Faith Impure.
 <lb/>The tenth div is Ingratitude to men
 
-<pb n="369"/>
+<pb n="7.369"/>
 <lb/>For benefits and Ignorance of God.</q>
 </p>
 
@@ -14470,7 +14474,7 @@ on good Deeds and Words</head>
 <lb/>That man of Faith
 <lb/>Replied: <q>Wise, glorious Shah! against the sword
 <lb/>Of divs the coat of mail is wisdom; that
-<pb n="370"/>
+<pb n="7.370"/>
 <lb/>Illumineth the sage’s heart and mind,
 <milestone unit="calced" n="1714"/>
 <lb/>Recordeth what is passed and nourisheth
@@ -14510,7 +14514,7 @@ on good Deeds and Words</head>
 <lb/>The most agreeable, which refresheth most
 <lb/>In travail, and the seemliest, is hope.
 <lb/>In greed I see the weariest of all,
-<pb n="371"/>
+<pb n="7.371"/>
 <lb/>For that is never satiate of wealth.</q>
 </p>
 
@@ -14572,7 +14576,7 @@ on good Deeds and Words</head>
 <lb/>Then Nashirwan inquired: <q>Illustrious scholar!
 <lb/>Doth greatness come from toil or doth the world-lord
 <lb/>Get crown and throne from fortune?</q>
-<pb n="372"/>
+<pb n="7.372"/>
 <lb/><q>The fortune and accomplishment of men
 <lb/>Are mates allied and joined like soul and body,
 <lb/>The body visible, the soul concealed.
@@ -14616,7 +14620,7 @@ on good Deeds and Words</head>
 <lb/>And Buzurjmihr replied: <q>The gentlest man.</q>
 <lb/><q>But who is gentle,</q> asked the Shah, <q>for why
 <lb/>The hasty give us cause to weep!</q>
-<pb n="373"/>
+<pb n="7.373"/>
 <lb/><q>Mark him that shunneth converse with fault-finders;
 <lb/>That man hath modesty and gentleness,
 <lb/>With wisdom, counsel, and propriety.</q>
@@ -14671,7 +14675,7 @@ on good Deeds and Words</head>
 <lb/><q>He that can hide his need and can suppress
 <lb/>Strife, envy, greed, revenge, and jealousy:
 <lb/>That man will find approval in the world.</q>
-<pb n="374"/>
+<pb n="7.374"/>
 </p>
 
 <p>
@@ -14722,7 +14726,7 @@ on good Deeds and Words</head>
 <lb/>He said: <q>The great king who, when he shall put
 <lb/>The black cap on upon his dying-day,<note n="1">Cf. Vol. i. p. 109.</note>
 <lb/>Repenteth with a heart all terror-stricken
-<pb n="375"/>
+<pb n="7.375"/>
 <lb/>Of all his life’s ingratitude to God,
 <lb/>And he moreover who hath undergone
 <lb/>Abundant travail for ungrateful men.</q>
@@ -14780,7 +14784,7 @@ on good Deeds and Words</head>
 <lb/>And hearkening to His law. None such will barter
 <lb/>The Faith.</q>
 
-<pb n="376"/>
+<pb n="7.376"/>
 
 <lb/>The Shah then asked concerning kings,
 <lb/>Whose rule is o’er the holy: <q>Which of them
@@ -14817,7 +14821,7 @@ on good Deeds and Words</head>
 <lb/>He answered: <q>‘Tis the friend that faileth not,
 <lb/>Is never vexed, and feareth not to suffer.</q>
 
-<pb n="377"/>
+<pb n="7.377"/>
 
 <lb/><q>What lasteth,</q> said the Shah, <q>and doth not waste?</q>
 <lb/>He made reply: <q>A benefit conferred
@@ -14859,7 +14863,7 @@ on good Deeds and Words</head>
 <lb/>Yet heaven still will lead him into straits,
 <lb/>And evil fortune be his only lot!</q>
 
-<pb n="378"/>
+<pb n="7.378"/>
 
 <lb/><q>What thing know’st thou, as heaviest,</q> asked the Shah?
 <lb/>He thus returned reply: <q>The weight of sin.</q></p>
@@ -14909,7 +14913,7 @@ on good Deeds and Words</head>
 <lb/>And do thine utmost to abstain from ill.
 
 
-<pb n="379"/>
+<pb n="7.379"/>
 
 
 <lb/>The soul of him that will forgo revenge,
@@ -14922,13 +14926,13 @@ on good Deeds and Words</head>
 
 </div>
 <div><head>PART IV: THE INTRODUCTION OF THE GAME OF CHESS INTO IRAN. THE LEGEND OF THE INVENTION OF THE GAME. THE DISCOVERY OF THE BOOK OF KALILA AND DIMNA</head><head>ARGUMENT</head>
-<pb n="380"/>
+<pb n="7.380"/>
 <p>The Raja of Hind sends an envoy to Nushirwan with the game of chess, proposing certain conditions which the Shah accepts and, with the help of Buzurjmihr, carries out. Buzurjmihr invents the game of nard, and the Shah sends him with it to the Raja, proposing similar conditions. The poet then tells the legend of the invention of chess—how two sons of an Indian queen quarrelled about the succession to her throne, how one of them perished and how the other, to console his mother, invented the game. Lastly the poet tells how a prince tributary to Nushirwan was sent at his own request to Hind to find the herb that restores the dead to life, and returned bringing instead the Fables of Bidpai.</p>
 </div>
 <div><head>NOTE</head>
 <p>§§ 1-3, Here, as in the case of the Yatkar-i-Zariran<note n="1">See Vol. v. p. 24.</note> and the Karnimak,<note n="2">Id. vi. 195.</note> we are brought into contact with an extant Pahlavi Text—the Tshatrang Nimak—which was undoubtedly one of Firdausi’s indirect authorities. It was written, probably, about the seventh century A.D. and tells how the king of Hind—Déwasdrm—sent an embassy to Nushirwan with gifts and the game of chess which he had invented. The chess-men were one half of emeralds and the other half of rubies. If the Iranians, he writes to Nushirwan, cannot explain the meaning of the game they must pay him tribute or vice versa. None can find the meaning till Buzurjmihr, who has been keeping himself in reserve, appears on the third day, expounds the principle of chess,
 
-<pb n="381"/>
+<pb n="7.381"/>
 
 and proceeds to win twelve games against Déwasarm’s envoy. Buzurjmihr then invents nard, which is a form of backgammon, takes it to Hind, puzzles the sages there with it, and returns triumphant with double tribute. The similarity of the Pahlavi Text to the Shahnameh therefore is obvious. Probably in the original story, no longer extant, the problem set was comparatively a simple one: <q>What did the board and pieces represent?</q></p>
 
@@ -14936,7 +14940,7 @@ and proceeds to win twelve games against Déwasarm’s envoy. Buzurjmihr then in
 
 <p>
 The Persian word <foreign>nard</foreign> means a tree-trunk, and it seems not unreasonable to imagine that the game got its name from the resemblance of the pieces on the board to tree-stumps. The author of the Tshatrang-Nimak, however, tells us that the game was named after the founder of the Sasanian Dynasty, Nau-Ardshir, which became contracted into nard. Like chess it is symbolical and represents human life as swayed or moulded by fate or fortune whose decrees are written in the aspects of the stars and planets. Thus the board represents the earth, the thirty pieces the days of the month, the colour of the pieces the nights and days, etc. Each throw of the dice too had its proper symbolism. The first represented the Unity of Urmuzd, the second the duality of heaven and earth, the third the triad of Good Thoughts, Good Words, and Good Deeds, the fourth the four temperaments—dry, damp, warm, and cold, and so forth. Later Arabic writers
-<pb n="382"/>
+<pb n="7.382"/>
 elaborated the symbolism considerably. The dice were taken to represent the heavens and their motions, and the markings on the dice the seven planets in as much as the numbers on the opposite sides added together always make up the number seven, one being opposite to six, two to five, and three to four. The result of a throw was the decree of fate, etc. Nard may be said therefore to surpass chess in sublimity of conception as much as chess surpasses nard in its demands upon the intellect. Firdausi does not tell us how nard was played, and the introduction of the two kings, apparently on the analogy of those at chess, is quite beside the mark. The poet’s whole story of the way in which chess was brought into Iran, and the invention of nard, is quite unhistorical. We have had already in this volume <note>See p. 102.</note> an instance of one king propounding hard questions to another, and in the next volume we shall have the problem of the mysterious box, on the elucidation of which a wager depends as in the present case. According to Mas’udi, nard was invented before chess and before the days of Porus, and chess in the time of one of that king’s successors, but he also states that the invention of nard has been attributed to Ardshir Papakan. <note>MM, i. 157 seq.</note> Elsewhere Mas’udi tells us that Nushirwan had the book of Kalila and Dimna, chess, and a black hair-dye, brought from Hind. <note>Id. ii. 203. For the above generally see NPS, II, p. 20 seq. ; HS, ii. 250 seq.</note>
 </p>
 
@@ -14948,7 +14952,7 @@ elaborated the symbolism considerably. The dice were taken to represent the heav
 We appear to be here on much firmer historical ground than in the corresponding stories of the introduction of chess and the invention of nard. That the Fables of Bidpai were brought from Hind to Persia in the reign of Niushirwin, and translated from the Sanscrit into Pahlavi by Barzwi, seems to be admitted generally, though of course we need not accept all the details of Firdausi’s version of the transaction. He is not very accurate in what he says with regard to the later literary history of the famous book. It was not translated into Arabic for the first time in the reign of the Khalifa Mamun (A.D. 813-833) but in the previous century by Ibn Mukaffa.<note>For whom see Vol. vi. p. 17.</note> Firdausi is correct, however, in stating that the Fables were translated into Persian verse by the first great modern Persian poet, Rudaki, who enjoyed for many years the munificent patronage of the Samanid prince, Nasr son of Ahmad (A.D. 914-943), and of the minister Abu-Fazl, and died in A.D. 954. Unfortunately, only fragments of Rudaki’s translation survive. The poet is said to have been blind.
 </p>
 
-<pb n="383"/>
+<pb n="7.383"/>
 
 <p>
 To compare small things with great, the Fables of Bidpai rival the Romance cycle of Alexander in the extent of their diffusion. They are said to have been translated into thirty-eight languages.<note>JVB, p. xii.</note> It is not possible to enter into the subject here, but one illustration of the way in which the Fables passed from one language into another may be given. The earliest English version of them is that of Sir Thomas North—the translator of Plutarch’s Lives, which Shakespeare put to such good account—and it was published in 1570 under the title of The Morall Philosophie of Doni. It comes to us as Sir Walter Blunt came to Henry IV,
@@ -14959,7 +14963,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 
 </div>
 <div type="textpart" subtype="section" n="1"><head>How the Raja of Hind sent the Game of Chess to Nushirwan</head>
-<pb n="384"/>
+<pb n="7.384"/>
 <p>
 <lb/>Since this discourse, which so delighted thee,
 <lb/>Hath reached its end let chess our next theme be.
@@ -14993,7 +14997,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 <lb/>There were much gold and silver in the bales
 <lb/>With musk, fresh aloe-wood, and ambergris,
 <lb/>Gems, diamonds, and burnished Indian swords;
-<pb n="385"/>
+<pb n="7.385"/>
 <lb/>The Raja had amassed from every hand
 <lb/>The products of Kannauj and Malwa. They laid them
 <lb/>Before the throne. The prince of sleepless fortune
@@ -15033,7 +15037,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 <milestone unit="calced" n="1721"/>
 <lb/>Whose fortune never slumbered, then inquired
 
-<pb n="386"/>
+<pb n="7.386"/>
 
 <lb/>About the pieces’ shapes and that fair board.
 <lb/>The envoy thus replied: <q>Tis all, O king!
@@ -15073,7 +15077,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 <lb/>And sought to find the place for every piece.
 <lb/>He found the game out in one day and night,
 
-<pb n="387"/>
+<pb n="7.387"/>
 
 <lb/>Then hastened from his palace to the Shah,
 <lb/>And said: <q>O Shah whose fortune triumpheth!
@@ -15114,7 +15118,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 <lb/>Since, realising our shrewd hearts and counsel,
 <lb/>He will dispatch still greater wealth to us.</q></q></q>
 
-<pb n="388"/>
+<pb n="7.388"/>
 
 <lb/>Then Buzurjmihr brought and set up before
 <lb/>The throne of him whose fortune never slept
@@ -15157,7 +15161,7 @@ through which it has passed, and its provenance is as follows: <q>It is the Engl
 
 <div type="textpart" subtype="section" n="2"><head>How Buzurjmehr invented Nard, and how Nushirwan
 sent it with a Letter to the Raja of Hind</head>
-<pb n="389"/>
+<pb n="7.389"/>
 <milestone unit="calced" n="1723"/>
 <p><lb/>The sage, upon returning to his home,
 <lb/>Arranged a board and compasses before him,
@@ -15191,7 +15195,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>How from the moves of those imperious kings
 <lb/>Came praise or blame, what powers the pieces had,
 
-<pb n="390"/>
+<pb n="7.390"/>
 
 <lb/>And how the armies fought; these he set forth,
 <lb/>And showed in detail to the Shah whose heart
@@ -15230,7 +15234,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Acceptable—a keepsake for thyself—
 <lb/>And we have substituted nard for chess.
 
-<pb n="391"/>
+<pb n="7.391"/>
 
 <lb/>What man now will adventure on this game?
 <lb/>There must be many a Brahman well advised,
@@ -15270,7 +15274,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>On hearing that account of chess and nard.
 <lb/>There came a great official and assigned
 
-<pb n="392"/>
+<pb n="7.392"/>
 
 <lb/>A fitting lodging to the ambassador.
 <lb/>They had a jocund residence prepared,
@@ -15311,7 +15315,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Then from the sages, from the searchers out
 <lb/>Of knowledge, and the scholars rose a cry:—
 
-<pb n="393"/>
+<pb n="7.393"/>
 
 <lb/><q>Behold an eloquent and learned man,
 <lb/>Not merely skilled in games like chess and nard!</q>
@@ -15351,7 +15355,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>He was rejoiced at that intelligence,
 <lb/>And bade the chiefs of city and of host,
 <lb/>With elephants and kettledrums and tymbals,
-<pb n="394"/>
+<pb n="7.394"/>
 <lb/>To sally forth to welcome Buzurjmehr.
 <lb/>That honoured sage’s entry of the city
 <lb/>Resembled that of some great conquering king,
@@ -15389,7 +15393,7 @@ sent it with a Letter to the Raja of Hind</head>
 <p><lb/>Thus spake Shahwi, the ancient sage, so be
 <lb/>Attentive to the tale of old Shahwi:—
 <lb/>Once on a time there lived a king in Hind,
-<pb n="395"/>
+<pb n="7.395"/>
 <lb/>One puissant in treasure, troops, and arms,
 <lb/>And everywhere renowned, Jamhir by name,
 <lb/>And passing Fir himself in fame for valour.
@@ -15428,7 +15432,7 @@ sent it with a Letter to the Raja of Hind</head>
 <p><lb/>The monarch had a brother who was wise,
 <lb/>And fitted for the throne: his name was Mai.
 <lb/>The dwelling-place of that idolater
-<pb n="396"/>
+<pb n="7.396"/>
 
 <lb/>Was at Dambar, and all the veteran chiefs,
 <lb/>In looking for a king, turned to Dambar
@@ -15467,7 +15471,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Just, upright, and inspireth confidence.
 <lb/>Tis best that she should be our queen, for she
 <lb/>Remaineth—the memorial of two kings.</q>
-<pb n="397"/>
+<pb n="7.397"/>
 
 <lb/>The assembly all assented thereunto,
 <lb/>And then the sage addressed the wise queen thus:—
@@ -15507,7 +15511,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Then would she answer him: <q>The throne is thine,
 <lb/>For wisdom, counsel, fortune, are thine own.</q></p>
 
-<pb n="398"/>
+<pb n="7.398"/>
 
 <p><lb/>She said the same thing to the other also
 <lb/>Until the saying grew inveterate,
@@ -15548,7 +15552,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>His mother answered: <q>Act not hastily:
 <lb/>Thou shouldst not push these matters to extremes.
 
-<pb n="399"/>
+<pb n="7.399"/>
 
 <lb/>Whoever sitteth on the throne must have
 <lb/>His two hands open and his girdle girt,
@@ -15588,7 +15592,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>If I choose one of you the other one
 <lb/>Will be fulfilled with pain and with revenge
 
-<pb n="400"/>
+<pb n="7.400"/>
 
 <lb/>At me. Shed no blood for the sake of crown
 <lb/>And treasure, for this Wayside Hostelry
@@ -15627,7 +15631,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Belonging to those two kings wise and good,
 <lb/>Displayed the wealth therein reposited
 
-<pb n="401"/>
+<pb n="7.401"/>
 
 <lb/>Before those men of much experience,
 <lb/>Gave both her sons an equal share and sought
@@ -15687,7 +15691,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>And then announce our sentence to them both:
 <lb/>It may be that they both will be content.</q></p>
 
-<pb n="402"/>
+<pb n="7.402"/>
 
 <p><lb/>They left the hall with murmurs and in dudgeon,
 <lb/>Sighs on their lips and sorrow in their souls,
@@ -15711,7 +15715,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>To go to Gav with mace and sword, and cry:
 <lb/><q>I will begrudge not life to serve the king.</q></p>
 
-<pb n="403"/>
+<pb n="7.403"/>
 
 <p><lb/>Confusion filled the realm of Sandali
 <lb/>Through honest partisanship. Saith the sage:
@@ -15747,7 +15751,7 @@ sent it with a Letter to the Raja of Hind</head>
 <lb/>Ensue the precedents of kings of yore,
 <lb/>And hear the wise on points of right and wrong.
 <lb/>I am thy better both by years and father.
-<pb n="404"/>
+<pb n="7.404"/>
 <lb/>Thou sayest: <q>I am both the chief and better.</q>
 <lb/>But say not so, Seek not unworthily
 <lb/>The throne of kingship, or fulfil the realm
@@ -15786,7 +15790,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>His coat of mail and helmet, and invoked
 <lb/>The spirit of his sire. Embittered thus
 <lb/>They both took action, housed the elephants,
-<pb n="405"/>
+<pb n="7.405"/>
 <lb/>And saddled them. Thou wouldst have said: <q>The earth
 <lb/>Is eager for the combat.</q> All the city
 <lb/>Was filled with din of gong and Indian bells,
@@ -15822,7 +15826,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Through what an evil counsellor may say.
 <lb/>In this conjuncture ne’er must this reproach
 <lb/>Remain as our <note n="2">Reading with P.</note> memorial—that this realm
-<pb n="406"/>
+<pb n="7.406"/>
 <lb/>Of Hind is desolate, the lurking-place
 <lb/>Of lions and of pards. Forbear this war
 <lb/>And strife, and wantonly to shed this blood
@@ -15859,7 +15863,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Mine from the sun down to the Fish’s back. <note n="2">See Vol. i. p. 71.</note>
 
 <lb/>As long as thou dost play the king, dost share
-<pb n="407"/>
+<pb n="7.407"/>
 <lb/>The land with me, and wouldest be my mate,
 <lb/>I wish my body and my soul may part
 <lb/>Or ever I shall look on throne and crown.
@@ -15900,7 +15904,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>A man of high rank, learned, and eloquent,
 <lb/>To give yet one more message. He still may
 <lb/>Abate hostility. Resign to him
-<pb n="408"/>
+<pb n="7.408"/>
 <lb/>The treasures gathered by the toil of others,
 <lb/>Preferring thereunto thy brother’s life.
 <lb/>Since both the crown and signet-ring are thine
@@ -15938,7 +15942,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>And by Faghfur of Chin, who even now
 <lb/>Are pressing on our realm, we shall be flouted
 <lb/>On two sides, and by other warrior-chiefs.
-<pb n="409"/>
+<pb n="7.409"/>
 <lb/>How they will say: <q>Why are Talhand and Gav
 <lb/>Contending for the sake of throne and crown?
 <lb/>Are they not then of common stock by birth,
@@ -15975,7 +15979,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Displayest such prolonged anxiety!
 <lb/>The armies’ ranks extend two miles, the world
 <lb/>Is full of men, of steeds, and elephants.
-<pb n="410"/>
+<pb n="7.410"/>
 <lb/>March forth and set the battle in array:
 <lb/>Thou camest forth to fight; why dally then?
 <lb/>Thou'lt see such prowess from me that the stars
@@ -16011,7 +16015,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>The counsel of all-holy God alone
 <lb/>Prevaileth from bright sun to darksome dust,
 <lb/>And I am hopeful that Almighty God
-<pb n="411"/>
+<pb n="7.411"/>
 <lb/>Will grant to us a glorious destiny.
 <lb/>Tried have we counsel and in loving fashion
 <lb/>Have pleaded, but Talhand is still averse.
@@ -16054,7 +16058,7 @@ Talhand thus answered him: <q>Enough!
 <lb/><q>Knew head from foot.</q> The sun withdrew its skirt
 <lb/>From those bright arrow-heads and eagles’ plumes.
 <lb/>Earth seemed a sea of blood where heads and hands
-<pb n="412"/>
+<pb n="7.412"/>
 <lb/>Were pebbles in its depths. The royal princes
 <lb/>Came from the centre, like huge elephants,
 <lb/>And from them both a shout arose: <q>Avoid
@@ -16094,7 +16098,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>The battlefield for Margh. Troops flocked to him
 <lb/>From every side. He oped his magazines,
 <lb/>And gave supplies. His host was well equipped,
-<pb n="413"/>
+<pb n="7.413"/>
 <lb/>Content, and glad. He gave a robe of honour
 <lb/>To each that in his eyes so merited.
 <lb/>When all the soldiers had received their pay,
@@ -16135,7 +16139,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Thy sire was noble; thou art noble likewise.
 <lb/>I see this clearly that thou dost reject
 <lb/>My counsels and alliance, yet am fain
-<pb n="414"/>
+<pb n="7.414"/>
 <lb/>To have thee fair renowned and well disposed.
 <lb/>Now will I show thee all my heart and tell
 <lb/>The matter that my mind is purposing.
@@ -16176,7 +16180,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Each one in due accordance to his rank,
 <lb/>Repeated to them Gav's response, disclosed
 <lb/>The matter, and thus said: <q>What are your views
-<pb n="415"/>
+<pb n="7.415"/>
 <lb/>On this new-fangled battle by the sea
 <lb/>Proposed by Gav? How shall we deal therewith,
 <lb/>And shall we turn his fancy into fact?
@@ -16213,7 +16217,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Both armies drew up face to face, and foam
 <lb/>Was on the horsemen’s lips. The wings were ranged
 <lb/>To right and left, the baggage was bestowed
-<pb n="416"/>
+<pb n="7.416"/>
 <lb/>Anigh the sea, and those illustrious kings,
 <lb/>All dudgeon and vindictiveness, then saddled
 <lb/>Two elephants, each at his army’s centre
@@ -16250,7 +16254,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>On gain, how great his passion and regret!
 <lb/>And since both gain and loss must pass away
 <lb/>Enjoy, old sage! the pleasures of to-day,
-<pb n="417"/>
+<pb n="7.417"/>
 <lb/>For howsoever much may be thy gains
 <lb/>The world’s whole treasure is not worth the pains.
 <lb/>Gav looking from the centre failed to spy
@@ -16293,7 +16297,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Talhand, the world-aspirant, dead, his brother
 <lb/>Bewailing him on that wide plain with cries
 <lb/>That pierced the sky, he likewise wailed and wallowed
-<pb n="418"/>
+<pb n="7.418"/>
 <lb/>Before Gav, saying: <q>Woe for thee, young world-lord!</q>
 <lb/>Addressing then his lips to give advice
 <lb/>He said to Gav: <q>Exalted king! what profit
@@ -16331,7 +16335,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>And gold, of turquoise and teak-wood, and swathed
 <lb/>His brother’s face with glossy silk of Chin.
 <lb/>Thus passed away that famous chief of Hind.
-<pb n="419"/>
+<pb n="7.419"/>
 
 <lb/>They sealed the coffin-lid with gums and pitch,
 <lb/>With musk and camphor. Then Gav marched away
@@ -16370,7 +16374,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>When tidings of his mother came to Gav
 <lb/>He urged his speedy charger on and came,
 <lb/>Embraced her closely, and entreated her,
-<pb n="420"/>
+<pb n="7.420"/>
 
 <lb/>With blood upon his eyelids, saying thus :—
 <lb/><q>O loving mother ! hearken to my words,
@@ -16409,7 +16413,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>On hearing this, his mother
 <lb/>Had ruth upon his form majestical,
 <lb/>Lest that young hero should consume in fire
-<pb n="421"/>
+<pb n="7.421"/>
 
 <lb/>His body barely handselled of its soul,
 <lb/>And therefore said to him: <q>Show me the way
@@ -16449,7 +16453,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>So that the kings and soldiers might manœuvre.
 <lb/>Two hosts were carved of teak and ivory,
 
-<pb n="422"/>
+<pb n="7.422"/>
 
 <lb/>And two proud kings with crowns and Grace divine.
 <lb/>Both horse and foot were represented there,
@@ -16489,7 +16493,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>When one of them beheld the king in fight,
 <lb/>Then would he shout and say: <q>Avaunt, O king !</q>
 <lb/>Whereat the king would change his square till he
-<pb n="423"/>
+<pb n="7.423"/>
 <lb/>Was straitened where he stood. When rukh and horse,
 <lb/>And minister and elephant and troops,
 <lb/>Had blocked the way for him on every side
@@ -16526,7 +16530,7 @@ Talhand thus answered him: <q>Enough!
 
 <milestone unit="calced" n="1746"/>
 
-<pb n="424"/>
+<pb n="7.424"/>
 
 <lb/>To give a greater lustre to his court.
 <lb/>The whole world was beneath his sovereign rule—
@@ -16564,7 +16568,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Bear to the Raja worthy offerings,
 <lb/>For doubtless he must furnish thee with guides.</q>
 
-<pb n="425"/>
+<pb n="7.425"/>
 
 <lb/>Then Nushirwan unlocked his treasury,
 <lb/>And of the havings that are fit for kings<note>Reading with P.</note>—
@@ -16602,7 +16606,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>To hear his statement. All the erudite,
 <lb/>Adept in leechcraft, went to him and, when
 
-<pb n="426"/>
+<pb n="7.426"/>
 
 <lb/>He set forth to the mountains, fared with him.
 <lb/>Barzwi roamed all the mountain-tops afoot,
@@ -16642,7 +16646,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>That eloquent old sage may succour me
 <lb/>In this affair.</q>
 <lb/>They led Barzwi to him,
-<pb n="427"/>
+<pb n="7.427"/>
 <lb/>Full of solicitude, with much to say.
 <lb/>Now when Barzwi, that man of eloquence,
 <lb/>Approached the sage and told all his own toils,
@@ -16677,7 +16681,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Kalila is the herb in mystic parlance;
 <lb/>So now, O king of Hind! be thou mine aid,
 
-<pb n="428"/>
+<pb n="7.428"/>
 
 <lb/>And, if I be not troublesome, command
 <lb/>Thy treasurer to hand the book to me.</q></p>
@@ -16718,7 +16722,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>And had prepared an Indian robe of honour—
 <lb/>Two valuable armlets and two earrings,
 <lb/>A torque of jewels worthy of a king,
-<pb n="429"/>
+<pb n="7.429"/>
 <lb/>An Indian turban and an Indian sword,
 <lb/>Whereof the blade was watered steel. Barzwi
 <lb/>Came from Kannauj, rejoicing, having gained
@@ -16756,7 +16760,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Let Buizurjmihr, when copying the book,
 <lb/>Show favour to Barzwi’s endeavourment,
 
-<pb n="430"/>
+<pb n="7.430"/>
 
 <lb/>And give account of me in Chapter One,
 <lb/>By order of the conquering king, that so,
@@ -16794,7 +16798,7 @@ Talhand thus answered him: <q>Enough!
 <lb/>Was fain by whatsoever means might be
 <lb/>To leave within the world his memory.
 
-<pb n="431"/>
+<pb n="7.431"/>
 
 <lb/>They held a session with interpreters,
 <lb/>Who read the whole book out to Rudagi.<note>Rudaki in the original.</note>

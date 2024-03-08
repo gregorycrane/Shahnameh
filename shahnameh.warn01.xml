@@ -75,10 +75,10 @@
     </teiHeader>
     <text>
         <body>
-<pb n="99"/>
+
 <div type="textpart" n="prelude"><head>THE PRELUDE</head>
-<div type="textpart" n="argument"><head>Argument</head>
-<p>The poet, after invoking the name of God and praising Him and
+<div type="textpart" subtype="argument"><head>Argument</head>
+<p><pb n="1.99"/>The poet, after invoking the name of God and praising Him and
 His wisdom, discourses of the world, of man, of the sun and moon,
 of <persName n="Mohammed">the Prophet</persName> and his companions, of the compilation of the
 <persName><rs type="title">Shahnama</rs></persName>, of the poet <persName>Dakiki</persName>, and of his own labours in connection with the poem, concluding with the praises of his patrons.</p>
@@ -106,7 +106,7 @@ took place after the completion of the <persName><rs type="title">Shahnama</rs><
 <note n="1">DZA, ii, 180. </note>
 <note n="2">RK, 419. </note>
 <note n="3">C, <rs type="ethnic">Persian</rs> Preface, 23.</note>
-<pb n="100"/>
+<pb n="1.100"/>
 when <persName>Firdausi</persName> was in exile. The mention of <placeName>Kannuj</placeName> appears
 to be a flattering anticipation of events on the poet's part.<ref n="1"/>
 </p>
@@ -147,7 +147,7 @@ of Sultan Mahmud's most famous generals.
 <note n="1"><placeName>Kannuj</placeName> seems to have been taken in A.D. 1019. EHI, ii. 457.</note>
 <note n="2"> BAN, iv. 113. </note>
 <note n="3"> KUR, 484.</note>
-<pb n="101"/>
+<pb n="1.101"/>
 <lb/>None then can praise God as He is. Observe
 <lb/>Thy duty: 'tis to gird thyself to serve.
 <lb/>He weigheth mind and wisdom; should He be
@@ -180,7 +180,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>When gyves are on the ankles of the mad;
 <lb/>It is the mind's eye; if thou dost not see
 <lb/>Therewith thy journey through this world is sad.
-<pb n="102"/>
+<pb n="1.102"/>
 <lb/>It was the first created thing, and still
 <lb/>Presideth o'er the mind and faculty
 <lb/>Of praise—praise offered by tongue, ear, and eye,
@@ -211,7 +211,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>And water; underneath was dusky earth.
 <lb/>Fire was the first its virtue to unfold ;
 <lb/>About it moisture ceased and dryness came ;
-<pb n="103"/>
+<pb n="1.103"/>
 <lb/>Then fire where'er it failed made way for cold,
 <lb/>And moisture followed cold.</p>
 <p><lb/>Even so the frame
@@ -246,7 +246,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>And rest ; with such a life they are content.
 <lb/>With sluggish wits and tongues that never spake,
 <lb/>They browse upon the briar and the brake,
-<pb n="104"/>
+<pb n="1.104"/>
 <lb/>Acknowledging no end as wrong or right
 <lb/>And not required to offer reverence
 <lb/>To Him who, having wisdom, justice, might,
@@ -278,7 +278,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>Direct, that cause of anguish and relief,
 <lb/>A dome not fretted by the lapse of days
 <lb/>And unaffected by our joy or grief;
-<pb n="105"/>
+<pb n="1.105"/>
 <lb/>It stayeth not to rest but turneth still,
 <lb/>Not perishing like us but undecayed :
 <lb/>There both the term and process are displayed,
@@ -304,7 +304,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>Worn soothly by revolving; presently
 <lb/>'Tis seen again but pallid, thin, and backed,
 <lb/>Like one who by the pangs of love is racked.
-<pb n="106"/>
+<pb n="1.106"/>
 <milestone unit="vullers" n="6"/>
 <lb/>Then if the gazer far away secure
 <lb/>A glimpse thereof, 'tis quickly lost to sight ;
@@ -338,7 +338,7 @@ of Sultan Mahmud's most famous generals.
 <milestone unit="vullers" n="7"/>
 <lb/>What others say to me is no concern,
 <lb/>This is my way, from this I never turn.
-<pb n="107"/>
+<pb n="1.107"/>
 <lb/>The sage regardeth as a sea this world,
 <lb/>A sea whose waves are driven by the blast;
 <lb/>There seventy gallant ships go sailing past,
@@ -371,7 +371,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>If thou wouldst be with men of glorious name.
 <lb/>Why do I talk so long? I fail to see
 <lb/>A limit to my theme's fertility.
-<pb n="108"/></p></div>
+<pb n="1.108"/></p></div>
 <div type="textpart" subtype="section" n="8"><head>On the Compilation of the <persName><rs type="title">Shahnama</rs></persName></head>
 <milestone unit="vullers" n="8"/>
 <p><lb/>All have gone sweeping in the garth of lore
@@ -405,7 +405,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>They carried out some daring enterprise.
 <lb/>The archmages told their legendary store,
 <lb/>How this world fared and what kings undertook,
-<pb n="109"/>
+<pb n="1.109"/>
 <lb/>And as he listened to the men of lore
 <lb/>He laid the basis of the famous book,
 <lb/>Which now remaineth his memorial,
@@ -436,7 +436,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>Spontaneously toward the franian throne;
 <lb/><q>If I can get the book I will retell,</q>
 <lb/>I said, <q>the tales in language of mine own.</q>
-<pb n="110"/>
+<pb n="1.110"/>
 <lb/>I asked of persons more than I can say,
 <lb/>For I was fearful.as time passed away
 <lb/>That life would not suffice, but that I too
@@ -471,7 +471,7 @@ of Sultan Mahmud's most famous generals.
 <p><lb/>When I obtained the volume a grandee
 <lb/>Of noble lineage and conspicuous worth,
 <lb/>Still in his youth, a paladin by birth,
-<pb n="111"/>
+<pb n="1.111"/>
 <lb/>Possessing prudence, wit, and energy, 
 <lb/>A lord of counsel and of modesty,
 <lb/>To hear whose gentle accents was my joy,
@@ -504,7 +504,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>Of him who is o'er kings pre-eminent,
 <lb/>The lord of earth, the lord of crown and throne,
 <lb/>Whose conquering fortune sleep hath never known.
-<pb n="112"/></p></div>
+<pb n="1.112"/></p></div>
 <div type="textpart" subtype="section" n="12"><head>The Praise of Sultan Mahmud</head>
 <p><lb/>ne'er, since the making of the world was done,
 <lb/>Hath such a king been seen by human eye;
@@ -537,7 +537,7 @@ of Sultan Mahmud's most famous generals.
 <milestone unit="vullers" n="12"/>
 <lb/>Before him stood a trusty minister
 <lb/>To guide him to the Faith and to do right.
-<pb n="113"/>
+<pb n="1.113"/>
 <lb/>By that <rs type="role">Shah</rs>'s <rs type="ethnic">Grace</rs>, by all those troops outspread
 <lb/>And mighty elephants my head was dazed,
 <lb/>And as upon his royal face I gazed
@@ -572,7 +572,7 @@ of Sultan Mahmud's most famous generals.
 <lb/>And make the world a garden of fram.
 <lb/>What good is in <placeName>Iran</placeName> his justice giveth,
 <lb/>His name alone is heard where any liveth.
-<pb n="114"/>
+<pb n="1.114"/>
 <lb/>A bounteous Heaven at banquets thou wilt find,
 <lb/>A sharp-clawed <rs type="mythologicalcreature">Dragon</rs> in the fray meanwhile;
 <lb/>He is an elephant, hath Gabriel's mind,
@@ -610,10 +610,10 @@ of Sultan Mahmud's most famous generals.
 <lb/>To tell the tales of famous kings of yore.</p>
 </div>
 </div>
-<pb n="115"/>
+<pb n="1.115"/>
 <div type="textpart" subtype="dynasty" n="Pishdadian"><head>THE BEGINNING OF THE HISTORY: I. THE PISHDADIAN DYNASTY</head>
-<pb n="116"/>
-<div type="textpart" n="argument"><head>Argument</head>
+<pb n="1.116"/>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/>The poet tells the history of the first ten <rs type="role">Shahs</rs> of <placeName>Iran</placeName>, describes the progress of the world from barbarism to culture, and the invention of the arts and sciences, and finally how the <rs type="ethnic">Grace</rs> departed from the Pishdadian Dynasty through the unworthiness and degeneracy of its representatives.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
@@ -627,9 +627,9 @@ Accordingly <persName>Gaiumart</persName>, the first <rs type="role">Shah</rs> i
 <p>Zoroastrianism therefore in a sense existed before <persName>Zoroaster</persName>, with whose advent the <rs type="title">Zandavasta</rs> ends; hence there is less anachronism than might be supposed in the allusions, often made in the earlier parts of the poem, to fire-worship, the <rs type="title">Zandavasta</rs>, and similar matters. <persName>Zoroaster</persName> was the first recipient of the complete revelation.
 <note n="1">DZA, ii. 200.</note>
 </p>
-<pb n="117"/>
+<pb n="1.117"/>
 <div type="textpart"  subtype="reign" n="1"><head>I. GAIUMART:  HE REIGNED FOR THIRTY YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><persName>Gaiumart</persName>, the first <rs type="role">Shah</rs> and the first ruler of the world, incurs the envy of <rs type="divinity">Ahriman</rs>, who sends a host of divs to attack him, commanded by <rs type="divinity">the Black Div</rs>—the son of <rs type="divinity">Ahriman</rs>. <persName>Siyamak</persName>, the son of <persName>Gaiumart</persName>, with an army encounters <rs type="divinity">the Black Div</rs> and is slain, but is avenged by his son <persName>Hushang</persName>, who succeeds to the throne on the death of his grandfather.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
@@ -637,7 +637,7 @@ Accordingly <persName>Gaiumart</persName>, the first <rs type="role">Shah</rs> i
 <rs type="divinity">Ahriman</rs> assailed the creation of <rs type="divinity">Urmuzd</rs>, and slew both the Ox and <persName>Gaiumart</persName>; but the latter survived the former by thirty years, which became the duration of the reign of the first <rs type="role">Shah</rs> in the poem. The Ox in dying gave origin to the plants and animals, and <persName>Gaiumart</persName> to the first human couple—Mashya<ref n="1"/> and Maéshyoi— who in turn produced offspring among which was <persName>Siyamak</persName>, who is represented as the son of <persName>Gaiumart</persName> in the <persName><rs type="title">Shahnama</rs></persName>. In the poem, too, the attack on <persName>Gaiumart</persName> is made indirectly by means of <rs type="divinity">the Black Div</rs>, not directly by <rs type="divinity">Ahriman</rs> as in the <rs type="mythologicalcreature">Bundahish</rs>.
 The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</rs> is a <rs type="language">Pahlavi</rs> version of the lost book of the <rs type="title">Zandavasta</rs> known as the Damdad or <q>races produced.</q></p>
 <note n="1">I.e., man. DZA, i. lviii.</note>
-<pb n="118"/>
+<pb n="1.118"/>
 <p>It will be noticed that <persName>Gaiumart</persName> is stated to have made his home upon a mountain. Mountains were looked upon as sacred places in old times as being nearer heaven. <rs type="divinity">Urmuzd</rs> reveals the <rs type="title">Zandavasta</rs> to <persName>Zoroaster</persName> on the mountain of the holy Questions.<ref n="1"/> In the division of mankind into castes in the reign of <persName>Jamshid</persName> the mountains are specially set apart for the priests. The mother of <persName>Faridun</persName> with her infant son takes refuge with a holy hermit who dwells on <placeName>Mount Alburz</placeName>, and there too <persName>Kai Kubad</persName>, the founder of the Kaianian Dynasty, receives the news of his election to the throne.</p>
 </div>
 <div type="textpart" subtype="section" n="1"><head>The Greatness of <persName>Gaiumart</persName> and the Envy of <rs type="divinity">Ahriman</rs></head>
@@ -662,7 +662,7 @@ The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</r
 <lb/>And under him the arts of life began,
 <lb/>For food and dress were in their infancy.
 <note n="1"> Introd, p. 62.</note>
-<pb n="119"/>
+<pb n="1.119"/>
 <lb/>He reigned o'er all the earth for thirty years,
 <lb/>In goodness like a sun upon the throne,
 <lb/>And as a full moon o'er a lofty cypress
@@ -696,7 +696,7 @@ The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</r
 <lb/>Bedight with leopard-skin, and told the king
 <lb/>The projects that his foes were harbouring.
 <milestone unit="vullers" n="16"/>
-<pb n="120"/></p></div>
+<pb n="1.120"/></p></div>
 <div type="textpart" subtype="section" n="2"><head>How <persName>Siyamak</persName> was Slain by the Hand of the <rs type="divinity">Div</rs></head>
 <p><lb/>News of that foul div's acts reached <persName>Siyamak</persName>,
 <lb/>Who listened eagerly ; his heart seethed up
@@ -726,12 +726,12 @@ The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</r
 <lb/>To as I bid, collect thy troops and turn
 <lb/>Thy foemen into dust, relieve earth's surface
 <lb/>Of that vile div and thine own heart of vengeance.</q></p>
-<pb n="121"/>
+<pb n="1.121"/>
 <p><lb/>The famous <rs type="role">Shah</rs> looked up and cursed his foes,
 <lb/>Then, calling by the highest of all names
 <lb/>Upon his God, he wiped his tears away
 <lb/>And prosecuted vengeance night and day.</p></div>
-<div type="textpart" subtype="section" n="3"><head>How <persName>Hushang</persName> and Gattimart went to Fight <rs type="divinity">the Black Div</rs></head>
+<div type="textpart" subtype="section" n="3"><head>How <persName>Hushang</persName> and  <persName>Gaiumart</persName> went to Fight <rs type="divinity">the Black Div</rs></head>
 <p><lb/>The blesséd <persName>Siyamak</persName> had left a son,
 <lb/>His grandsire's minister, a prince by name
 <lb/><persName>Hushang</persName>—a name implying sense and wisdom.
@@ -760,9 +760,9 @@ The reader may be reminded that the <rs type="mythologicalcreature">Bundahish</r
 <lb/>Not to enjoy, for like a story done
 <lb/>Is this world: good and ill abide with none.
 </p></div></div>
-<pb n="122"/>
+<pb n="1.122"/>
 <div type="textpart"  subtype="reign" n="2"><head>II. HUSHANG: HE REIGNED FORTY YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/><persName>Hushang</persName> succeeds bis grandfather <persName>Gaiumart</persName> as <rs type="role">Shah</rs>. He is a great culture-hero, and invents the arts of working in metals, irrigation, agriculture, etc. He introduces the use of domestic animals and discovers fire. He institutes its worship, and founds the feast of Sada.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
@@ -771,13 +771,13 @@ Guzhak were one, remained to people the central clime within which <placeName>Ir
 </p>
 </div>
 </div>
-<div type="textpart" subtype="section" n="1"><head>The Accession of <persName>Hushang</persName> and his civilesing Arts</head>
+<div type="textpart" subtype="section" n="1"><head>The Accession of <persName>Hushang</persName> and his civilising Arts</head>
 <p><lb/><persName>Hushang</persName>, a just and prudent sovereign,
 <milestone unit="vullers" n="18"/>
 <lb/>Assumed his grandsire's crown, For forty years
 <lb/>Heaven turned above him. He was just and wise.
 <note n="1">WPT, i. 58.</note>
-<pb n="123"/>
+<pb n="1.123"/>
 <lb/>He said: <q>I lord it o'er the seven climes,
 <lb/>Victorious everywhere. My word is law,
 <lb/>I practise bounteousness and equity ;
@@ -812,7 +812,7 @@ Guzhak were one, remained to people the central clime within which <placeName>Ir
 <lb/>For such a radiant gift. He made of fire
 <lb/>A cynosure, <q>This lustre is divine,</q>
 <lb/>He said, <q>and thou if wise must worship it.</q></p>
-<pb n="124"/>
+<pb n="1.124"/>
 <p><lb/>That night he made a mighty blaze, he stood
 <lb/>Around it with his men and held the feast
 <lb/>Called Sada; that bright festival remaineth
@@ -838,9 +838,9 @@ Guzhak were one, remained to people the central clime within which <placeName>Ir
 <lb/>Nor will it from its face the veil remove.</p>
 </div>
 </div>
-<pb n="125"/>
+<pb n="1.125"/>
 <div type="textpart"  subtype="reign" n="3"><head>III. TAHMURAS: TAHMURAS, THE BINDER OF THE DIV, REIGNED THIRTY YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/><persName>Tahmuras</persName>, the son of <persName>Hushang</persName>, continues his father's work as a eulture-hero, in the domestication of animals, the invention of weaving, etc., conquers and enslaves <rs type="divinity">Ahriman</rs>, and defeats the divs, whose lives he spares on condition that they shall teach him the art of writing.
 </p>
 </div>
@@ -850,7 +850,7 @@ Tahmiuras and swallowed him while he was riding down <placeName>Mount Alburz</pl
 <persName>Tahmuras</persName>.<ref n="2"/>
 <note n="1">DZA, ii. 252, 292.</note>
 <note n="2">Id. 252, note. WPT. iii. 60, and note.</note>
-<pb n="126"/>
+<pb n="1.126"/>
 The reader will note the reappearance of <rs type="divinity">the Black Div</rs> in this reign after his apparently complete destruction by <persName>Hushang</persName>. The explanation of course is that the aim of the poet is to follow his authorities, not to make consistent stories, He is here dealing with another legend, so <rs type="divinity">the Black Div</rs> reappears.<ref n="1"/></p>
 </div>
 <div type="textpart" subtype="section" n="1"><head>Tahmiiras ascends the Throne, invents new Arts, subdues the Divs, and dies</head>
@@ -882,7 +882,7 @@ The reader will note the reappearance of <rs type="divinity">the Black Div</rs> 
 <lb/>Praise be to Him, for He directed us.</q></p>
 <note n="1">See Introd. p. 48.</note>
 <note n="2">The drum beaten outside palaces in the East at dawn.</note>
-<pb n="127"/>
+<pb n="1.127"/>
 <p><lb/>He had a famed and honest minister
 <lb/>By name Shidasp, an upright man who took
 <lb/>No step unless toward justice. Through the day
@@ -920,7 +920,7 @@ The reader will note the reappearance of <rs type="divinity">the Black Div</rs> 
 <lb/>Such as the <rs type="ethnic">Ruman</rs>, <rs type="ethnic">Persian</rs>, <rs type="ethnic">Arabic</rs>, 
 <lb/>Sughdi, Chini, and <rs type="language">Pahlavi</rs>, and thus
 <lb/>Delineate sounds, How many better arts
-<pb n="128"/>
+<pb n="1.128"/>
 <lb/>Explored he in a reign of thirty years,
 <lb/>Yet passed away! His time of life was spent
 <lb/>And all his toils became his monument.
@@ -930,9 +930,9 @@ The reader will note the reappearance of <rs type="divinity">the Black Div</rs> 
 <lb/>Then biddest him in sorry dust to lie.</p>
 </div>
 </div>
-<pb n="129"/>
+<pb n="1.129"/>
 <div type="textpart"  subtype="reign" n="4"><head>IV. JAMSHID: HE REIGNED SEVEN HUNDRED YEARS.</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/><persName>Jamshid</persName> succeeds his father <persName>Tahmuras</persName> as <rs type="role">Shah</rs>, and becomes the greatest and most famous of the culture-heroes. He continues the work of his predecessors, makes additions of his own, and introduces the luxuries and refinements of life. He divides mankind into four castes or classes. He travels over the world, and is the first to cross the sea in ships. He aspires to the dominion of the air, obtains it, and lives in ever closer communion with God.
 <lb/><rs type="divinity">Ahriman</rs> is rendered powerless for ill, disease and death cease, and the world passes through the Golden Age. At length, spoiled by success, <persName>Jamshid</persName> comes to think himself God, and orders that divine honours shall be paid to himself alone. The <rs type="ethnic">Grace</rs> of God abandons him. <rs type="divinity">Ahriman</rs> is unchained and incites <persName>Zahhak</persName>, who has become his instrument, to make war on <persName>Jamshid</persName>, and the latter is slain.</p>
 </div>
@@ -942,7 +942,7 @@ Vivasvat, the bright or shining one, i.e. the sun. <persName>Manu</persName> is 
 In the <rs type="title">Zandavasta</rs> <placeName>Yima</placeName> is the son of Vivanghat, is the <rs type="ethnic">Iranian</rs>
 Noah, has a covenant with God, and is offered by Him the post afterwards accepted by <persName>Zoroaster</persName>. In the legend of the building
 <note n="1">DHA, iv. 31.</note>
-<pb n="130"/> 
+<pb n="1.130"/> 
 of his Var, or underground palace, in anticipation of the Flood, we have the origin of <persName>Firdausi</persName>'s account of the architectural achievements of <persName>Jamshid</persName>: <quote>Then <placeName>Yima</placeName> said within himself: <q>How shall
 I manage to make that Vara which Ahura Mazda has commanded me to make?</q> And Ahura Mazda said unto <placeName>Yima</placeName>: <q>O fair
 <placeName>Yima</placeName>, son of Vivanghat! Crush the earth with a stamp of thy heel, and then knead it with thy hands, as the potter does when kneading the potter's clay...</q> And <placeName>Yima</placeName> made a Vara, long as a riding-ground, on every side of the square... . There he established dwelling-places, consisting of a house with a balcony, a courtyard, and a gallery. In the largest part of the place he made nine streets, six in the middle part, three in the smallest.</quote> <ref n="1"/>
@@ -959,7 +959,7 @@ Eastern life, crops up again and again in the poem. Thus the two brothers of <pe
 <note n="3">Id. 297.</note>
 <note n="4">Id, 201, and see MZA, iii. 265. </note>
 <note n="5">HEP, 277.</note>
-<pb n="131"/>
+<pb n="1.131"/>
 For <rs type="divinity">Iblis</rs>, see Introduction, p. 70.</p>
 <p><persName>Zahhak</persName> will be dealt with under his proper head; but it may be pointed out with regard to the strange story of his second fall, owing to the pleasures of the table, that in the <rs type="mythologicalcreature">Bundahish</rs> Mashya and Miishyéi—the original human pair—who apparently at first lived entirely on water, are incited to partake of stronger meats owing to their relish for the weaker sorts being taken from them by the demons.<ref n="1"/>
 Elsewhere in the same work we read: <q>On the nature of the resurrection and future existence it says in revelation, that, whereas Mashya and Mashyéi . . . first fed upon water, then plants, then milk, and then meat, men also when their time of death has come, first desist from eating meat, then milk, then from bread, till when they shall die they always feed upon water.
@@ -983,7 +983,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>And make for souls a path toward the light.</q></p>
 <note n="1">WPT, i. 54, 55.</note>
 <note n="2">Id. 120.</note>
-<pb n="132"/>
+<pb n="1.132"/>
 <p><lb/>He first wrought arms and oped for warriors
 <lb/>The door of fame. His <rs type="ethnic">Grace</rs> made iron yield ;
 <lb/>He fashioned it to helmets, hauberks, breastplates,
@@ -1020,7 +1020,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/><q><lb/>'Tis idleness that maketh freemen slaves.</q>
 <lb/>The fourth caste was the artizans. They live
 <lb/>By doing handiwork—a turbulent crew,
-<pb n="133"/>
+<pb n="1.133"/>
 <lb/>Who being always busied with their craft
 <lb/>Are given much to thought. <persName>Jamshid</persName> thus spent
 <lb/>Another fifty years and did much good,
@@ -1056,7 +1056,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>Upon the day the name of New Year's Day, Pe
 <lb/>The first of <rs type="month">Farwardin</rs> and of the year,
 <lb/>When limbs repose from labour, hearts from strife.
-<pb n="134"/></p>
+<pb n="1.134"/></p>
 <milestone unit="vullers" n="26"/>
 <p><lb/>The noble chieftains held a festival,
 <lb/>Called for the goblet, wine, and minstrelsy,
@@ -1094,7 +1094,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>They who adore me not are <rs type="divinity">Ahrimans</rs>.
 <lb/>So now that ye perceive what I have done
 <lb/>All hail me as the Maker of the world.</q></p>
-<pb n="135"/>
+<pb n="1.135"/>
 <p><lb/>Thereat the archmages hung their heads, perplexed
 <lb/>To answer and God's <rs type="ethnic">Grace</rs> departed from him,
 <lb/>The world was filled with din, the Court deserted,
@@ -1125,7 +1125,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>And he possessed ten thousand <rs type="ethnic">Arab</rs> steeds
 <lb/>With golden equipage—a famous stud.
 <lb/>Most of his days and nights he spent on horseback
-<pb n="136"/>
+<pb n="1.136"/>
 <lb/>Engaged in superintendence not in war.</p>
 <p><lb/>One day <rs type="divinity">Iblis</rs> approached him as a friend
 <lb/>And led his wits astray. The youth gave ear
@@ -1161,7 +1161,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>Shall touch the sun. I only ask thy silence;
 <lb/>No help need I, myself am competent,
 <lb/>But keep the sword of speech within the scabbard.</q></p>
-<pb n="137"/>
+<pb n="1.137"/>
 <p><lb/>Now in the palace was a jocund garth,
 <lb/>And thither used Mardas to go at dawn
 <lb/>To bathe him ere he prayed, without a slave
@@ -1195,7 +1195,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <milestone unit="vullers" n="31"/>
 <p><lb/>Then as a youth well spoken, clean, and clever,
 <lb/><rs type="divinity">Iblis</rs> went to <persName>Zahhak</persName> with fawning words,
-<pb n="138"/>
+<pb n="1.138"/>
 <lb/><q>Let me,</q> he said, <q>who am a noted cook,
 <lb/>Find favour with the king.</q></p>
 <p><lb/>By appetite
@@ -1233,7 +1233,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>Upon thy shoulders.</q></p>
 <p><lb/>Off his guard <persName>Zahhak</persName>
 <lb/>Replied: <q>I grant it; it may do thee grace.</q></p>
-<pb n="139"/>
+<pb n="1.139"/>
 <p><lb/><rs type="divinity">Iblis</rs> received permission, kissed and vanished.
 <lb/>A marvel followed—from the monarch's shoulders
 <lb/>Grew two black snakes. Distraught he sought a cure
@@ -1266,7 +1266,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>The king of dragon-visage came like wind
 <lb/>And donned the <rs type="ethnic">Iranian</rs> crown, collected troops—
 <lb/>The bravest of <placeName>Arabia</placeName> and fran—
-<pb n="140"/>
+<pb n="1.140"/>
 <lb/>And having seized the throne of <rs type="role">Shah</rs> <persName>Jamshid</persName>
 <lb/>Slipped on the world as 'twere a finger-ring.
 <lb/>Thus fell <persName>Jamshid</persName>. Pressed by the world's new lord
@@ -1302,9 +1302,9 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <lb/>O God! release me soon from toil therein.</p>
 </div>
 </div>
-<pb n="141"/>
+<pb n="1.141"/>
 <div type="textpart"  subtype="reign" n="5"><head>V. ZAHHAK: HE REIGNED A THOUSAND YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/>With the accession of <persName>Zahhak</persName> evil becomes triumphant everywhere. He practises and encourages black arts, idolatry, and human sacrifice. He has a warning dream concerning his destined conqueror <persName>Faridun</persName>, whom he strives in vain to capture. At length the people, driven to exasperation by <persName>Zahhak</persName>, revolt to <persName>Faridun</persName> at the instigation of <persName>Kawa</persName> the smith. <persName>Faridun</persName> and <persName>Zahhak</persName> meet, and the latter is taken prisoner.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
@@ -1313,7 +1313,7 @@ Messiah of Zoroastrianism. There is plenty in the above extract to account for s
 <note n="1">Introd. p. 7.</note>
 <note n="2">DZA, ii. 74.</note>
 <note n="3">Introd. p. 54.</note>
-<pb n="142"/> 
+<pb n="1.142"/> 
 people of <placeName>Iran</placeName>. He is accordingly represented as a native of
 <placeName>Arabia</placeName>, to have invaded <placeName>Iran</placeName>, and to have had his capital at a city which is perhaps best identified with <placeName>Babylon</placeName>. We read in the
 <rs type="title">Zandavasta</rs>: <quote>To her (z.e. Anaitis) did Azi Dahaka (<persName>Zahhak</persName>), the three-mouthed, offer up a sacrifice in the land of Bawri, with a hundred male horses, a thousand oxen, and ten thousand lambs.
@@ -1330,7 +1330,7 @@ Frédun, for the sake of killing <rs type="mythologicalcreature">Dahak</rs>; the
 The exclamation of the creator Auharmazd to Frédtin thus: ‘Thou shouldst not cut him who is <rs type="mythologicalcreature">Dahak</rs>, because if thou shouldst cut him, <rs type="mythologicalcreature">Dahak</rs> would be making this earth full of serpents, toads, scorpions, lizards, tortoises, and frogs ;’ with the mode of binding him with awful fetters, in the most grievous punishment of confinement. This, too, that when Az-i <rs type="mythologicalcreature">Dahak</rs> was bound, the report of the same proceeded thus through all the regions, which are seven, that downstricken is Az-i <rs type="mythologicalcreature">Dahak</rs>, but he who smote him is Frédin the Aspikdn, the exalted and mighty ... and those which are evil do not mention Az, nor demand the virtuous maiden with importunity, nor even coveted wealth. This, too, that when information came to him of women or property, that
 <note n="1">DZA, ii. 60-62 and notes.</note>
 <note n="2">Id. 253 and note.</note>
-<pb n="143"/> 
+<pb n="1.143"/> 
 seemed to him desirable to possess, they were then admitted by him into a golden cage.</q> <ref n="1"/></p>
 <p><persName>Zahhak</persName> is looked upon in the <persName><rs type="title">Shahnama</rs></persName> as exemplifying in his own person all the chief characteristics of the non-<rs type="ethnic">Aryan</rs> peoples with whom the <rs type="ethnic">Iranians</rs> came in contact—idolatry, black arts, serpent-worship, and human sacrifice. It is a remarkable fact, as is pointed out by Fergusson,<note n="1a">WPT, iv. 27, 214.</note> that serpent-worship seems always to have been accompanied by human sacrifice. He also appears to consider that the former was essentially <rs type="ethnic">Turanian</rs>, not <rs type="ethnic">Aryan</rs> or Semitic, and he points out that in the bas-relief at Nakhs-i-
 <persName>Rustam</persName>, in which <rs type="divinity">Urmuzd</rs> is represented as bestowing the crown on Ardshir Papakan, the first <rs type="role">Shah</rs> of the Sasanian dynasty, the god is seated on a horse, and beneath his feet lies Ardawan, the last king of the Parthian dynasty, with two serpents round his head.<ref n="2"/></p>
@@ -1347,7 +1347,7 @@ Holiday, to commemorate the death of <persName>Zahhak</persName>,<ref n="3"/> wh
 <note n="3">Id. pp. 42-44.</note>
 <note n="4">Morier, <title>A Second Journey through <placeName>Persia</placeName></title>, p. 357.</note>
 <note n="5">GHP, i. 31.</note>
-<pb n="144"/> 
+<pb n="1.144"/> 
 of the great feats of the ancient <rs type="ethnic">Iranian</rs> hero <persName>Garshasp</persName>.<ref n="1"/> In the
 <persName><rs type="title">Shahnama</rs></persName> he is represented as a human being—the factotum of Zahhaék. The two are a good illustration of the relationship that exists between <rs type="ethnic">Indian</rs> and <rs type="ethnic">Iranian</rs> mythology, between the
 <rs type="title">Vedas</rs> and the <rs type="title">Zandavasta</rs>, and of the genesis of the legends of the <persName><rs type="title">Shahnama</rs></persName>.</p>
@@ -1363,7 +1363,7 @@ Quippe cum immanem hominum numerum Daemoniis ille immolare coepisset, indignabun
 <note n="2">See Introd. p. 72.</note>
 <note n="3">Je. FaridGn.</note>
 <note n="4">Mosis Chorenensis, ed. Whiston, 77-80.</note>
-<pb n="145"/> to the point where it is taken up in the <persName><rs type="title">Shahnama</rs></persName> may be briefly summarised as follows. He was the head of a family of <rs type="ethnic">Persian</rs> landowners or thanes who dwelt in the <placeName>Alburz</placeName> range to the south of the <placeName>Caspian</placeName> and claimed to be descended from <persName>Jamshid</persName>.
+<pb n="1.145"/> to the point where it is taken up in the <persName><rs type="title">Shahnama</rs></persName> may be briefly summarised as follows. He was the head of a family of <rs type="ethnic">Persian</rs> landowners or thanes who dwelt in the <placeName>Alburz</placeName> range to the south of the <placeName>Caspian</placeName> and claimed to be descended from <persName>Jamshid</persName>.
 He began the war of independence against <persName>Zahhak</persName>, but after some success was forced to take refuge with the remnant of his adherents at the court of the king of Ghilan, who received him kindly, but, fearing the vengeance of <persName>Zahhak</persName>, subsequently furnished him with ships and provisions, and dismissed him to seek his fortune elsewhere. After a month's voyage on the
 <placeName>Caspian</placeName> <persName>Abtin</persName> arrived at the court of the king of the Scythians, whose daughter <persName>Faranak</persName> fell in love with him. Incidents similar to those in the story of <persName>Zal</persName> and <persName>Rudaba</persName> in the present volume followed. In the end <persName>Abtin</persName> married Fardnak, by whom he had two sons, and lived happily and in high favour with his fatherin-law. He could not rest, however. In dream after dream he was incited to resume the war of independence against Zahhdak, and at length, in spite of the opposition of his father-in-law, set sail with wife, family, and adherents, and after various adventures landed near <placeName>Amul</placeName> in Mézandardn, where he made his home in the surrounding forests. Here he gathered a band of followers and resumed his guerilla warfare against <persName>Zahhak</persName>, in the midst of which <persName>Faridun</persName> was born, the birth being heralded by many prodigies. At this point the Shahndma takes up the story.<ref n="1"/>
 </p>
@@ -1379,7 +1379,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>While divs accomplished their fell purposes
 <lb/>And no man spake of good unless by stealth. 
 <note n="1">The above is summarised from GHP, i. 171, 211, etc.</note>
-<pb n="146"/>
+<pb n="1.146"/>
 <lb/>Two sisters of <persName>Jamshid</persName>, their sex's crown,
 <lb/>Were brought out trembling like a willow-leaf.
 <lb/>Of those two ladies visaged ike the moon
@@ -1416,7 +1416,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>To whom they said: <q>Make shift to hide thyself,
 <lb/>Approach not any dwelling-place of man,
 <lb/>Thine are the wastes and heights.</q></p>
-<pb n="147"/>
+<pb n="1.147"/>
 <p><lb/>A worthless head
 <lb/>Thus fed the serpents, and in every month
 <lb/>The cooks preserved from slaughter thirty youths,
@@ -1447,7 +1447,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>Firm as a rock,<ref n="1"/> placed on his neck a yoke,
 <lb/>Then casting earth and dust upon his head
 <note n="1">Cf. Keresdaspa's account of his treatment of <rs type="mythologicalcreature">Gandarep</rs>. See introductory note to <persName>Faridun</persName>.</note>
-<pb n="148"/>
+<pb n="1.148"/>
 <lb/>Dragged him before the crowd in shame and anguish
 <lb/>Toward <placeName>Mount Damawand</placeName>.</p>
 <p><lb/>The tyrant writhed :
@@ -1484,7 +1484,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>The Lamp showed o'er the hills, and thou hadst said,
 <lb/><q>Strewed yellow gems upon the azure vault,</q>
 <note n="1">See Introd. p. 71.</note>
-<pb n="149"/>
+<pb n="1.149"/>
 <lb/><persName>Zahhak</persName> brought archimages shrewd of heart
 <lb/>And told to them the dream that pierced his liver.
 <milestone unit="vullers" n="39"/>
@@ -1522,7 +1522,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>As yet he is not born, thy time of woe
 <lb/>Hath not arrived, but when his honoured mother
 <lb/>Hath borne him he will be a fruitful tree.
-<pb n="150"/>
+<pb n="1.150"/>
 <lb/>At man's estate his head will reach the moon
 <lb/>And he will seek thy belt, crown, throne, and casque.
 <lb/>In stature a tall cypress, he will shoulder
@@ -1553,7 +1553,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>Was born, the fashion of the world was changed.
 <lb/>Of cypress height he shone forth with the <rs type="ethnic">Grace</rs>
 <lb/>Of kings of kings which erst <persName>Jamshid</persName> possessed,
-<pb n="151"/>
+<pb n="1.151"/>
 <lb/>Was like the sun, as needful as the rain
 <lb/>To earth and fit as knowledge to the mind;
 <milestone unit="vullers" n="41"/>
@@ -1591,7 +1591,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>But as <persName>Zahhak</persName> ne'er wearied of the search,
 <lb/>And as the cow was talked of everywhere,
 <lb/>The mother hasted to the field again
-<pb n="152"/>
+<pb n="1.152"/>
 <lb/>And spake thus to the guardian of her child :—
 <lb/><q>A prudent thought—a thought inspired by God—
 <lb/>Hath risen in my heart. What we must do
@@ -1623,7 +1623,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <p><lb/>Now <persName>Faridun</persName>, when twice eight years had passed,
 <lb/>Sought out his mother on the plain and said :—
 <lb/><q>Disclose thy secret, say who is my father,
-<pb n="153"/>
+<pb n="1.153"/>
 <lb/>What is my lineage, whom shall I declare
 <lb/>Myself in public? Let me have the truth.</q></p>
 <p><lb/>She said: <q>I will tell all, my noble boy!
@@ -1659,7 +1659,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <p><lb/>The prince, enraged thereat, mused on revenge,
 <lb/>And said with aching heart and knitted brows :—
 <q>he lion groweth brave by venturing, forfeited
-<pb n="154"/>
+<pb n="1.154"/>
 <lb/>And since the sorcerer hath done his part
 <lb/>Mine is to. take my scimitar and lay
 <lb/>His palace in the dust; such is God's will.</q></p>
@@ -1692,7 +1692,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>So sign me now a scroll to this effect :—
 <lb/><q>Our monarch soweth naught but seeds of good,
 <lb/>He ever speaketh truth and wrongeth none.</q></q>
-<pb n="155"/>
+<pb n="1.155"/>
 <lb/>Those upright men both young and old subscribed
 <lb/>Their names upon the <rs type="mythologicalcreature">Dragon</rs>'s document,
 <lb/>Against their wills, because they feared the <rs type="role">Shah</rs>.
@@ -1729,7 +1729,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>Upon whose head the <rs type="role">Shah</rs> is pouring fire,
 <lb/>And thou art he, and, though of dragon-form,
 <lb/>Must still do justice in this cause of mine.
-<pb n="156"/>
+<pb n="1.156"/>
 <lb/>Since thou dost rule the seven provinces
 <lb/>Why should the toil and hardship all be ours?
 <lb/>We have accounts to settle—thou and I—
@@ -1766,7 +1766,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>The secrets of the sky are known to none.</q></p>
 <p><lb/>When <persName>Kawa</persName> left the presence of the <rs type="role">Shah</rs>,
 <lb/>A crowd assembled in the market-place.
-<pb n="157"/>
+<pb n="1.157"/>
 <lb/>And still he shouted, crying out for aid
 <lb/>And urging all to stand upon their rights.
 <lb/>He took a leathern apron, such as smiths
@@ -1803,7 +1803,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>When <persName>Faridun</persName> saw matters thus, and all men
 <lb/>Submiss to vile <persName>Zahhak</persName>, he came to <persName>Faranak</persName>
 <lb/>With girded loins, crowned with a royal casque,
-<pb n="158"/>
+<pb n="1.158"/>
 <lb/>And said: <q>I go to battle, but do thou
 <lb/>Devote thyself to prayer. The Maker ruleth.
 <lb/>In weal and woe alike clasp hands to Him.</q></p>
@@ -1837,7 +1837,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>I will not leave the dust upon your heads,
 <lb/>But justify the entire world, since I
 <lb/>Have Him in mind who judgeth righteously.</q></p></div>
-<pb n="159"/>
+<pb n="1.159"/>
 <div type="textpart" subtype="section" n="6"><head>How <persName>Faridun</persName> went to Battle with <persName>Zahhak</persName></head>
 <p><lb/>With head raised o'er the sun he girt his loins
 <lb/>For vengeance for his father, and set forth
@@ -1871,7 +1871,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <p><lb/>The cooks prepared a feast—a noble banquet,
 <lb/>One fit for mighty men. Now <persName>Faridun</persName>,
 <lb/>The drinking done, being heavy sought repose.
-<pb n="160"/>
+<pb n="1.160"/>
 <lb/>His brothers, seeing that God sped his cause,
 <lb/>And that his fortune slumbered not, departed
 <lb/>Without delay to compass his destruction.
@@ -1908,7 +1908,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <milestone unit="vullers" n="52"/>
 <lb/>With one accord his comrades girt themselves,
 <lb/>Turned toward the stream, and on their brave, fleet steeds
-<pb n="161"/>
+<pb n="1.161"/>
 <lb/>Plunged over saddle-back. The warriors' heads
 <lb/>Reeled while their swift steeds struggled with the tide,
 <lb/>And with their necks emerging seemed to be
@@ -1942,7 +1942,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <p><lb/>Then <persName>Faridun</persName> o'erthrew the talisman,
 <lb/>Raised heaven-high by <persName>Zahhak</persName>, because he saw
 <lb/>That it was not of God, with massive mace
-<pb n="162"/>
+<pb n="1.162"/>
 <lb/>Laid low the sorcerers within the palace—
 <lb/>All fierce and notable divs—and set himself
 <lb/>Upon the enchanter's throne. This done he took
@@ -1979,7 +1979,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>That villain, gain by slaughtering that dumb beast ?
 <lb/>Now I am ready and I purpose war;
 <lb/>I came not from <placeName>Iran</placeName> to bring him pardon,
-<pb n="163"/>
+<pb n="1.163"/>
 <lb/>Or good will, but to brain him in revenge
 <lb/>With this ox-headed mace.</q></p>
 <p><lb/>When <persName>Arnawaz</persName>
@@ -2014,7 +2014,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>To make a bath of blood and thus defeat
 <lb/>That prophecy. Those serpents on his shoulders
 <lb/>Keep him in long and sore disquietude.
-<pb n="164"/>
+<pb n="1.164"/>
 <lb/>From clime to climne he roveth, for the snakes
 <lb/>Give him no rest. 'Tis time for his return,
 <lb/>But place there is not.</q></p>
@@ -2047,7 +2047,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>And was commanded: <q>Serve a royal feast,
 <lb/>Let wine be brought, call minstrels fit to hear,
 <note n="1"><persName>Firdausi</persName>'s etymology must not be relied upon. See the introductory note to this reign.</note>
-<pb n="165"/>
+<pb n="1.165"/>
 <lb/>To cheer me at the banquet, fill the goblet,
 <lb/>Spread out the board, and summon worthy guests.</q></p>
 <p><lb/>Kundrav obeyed and brought bright wine and minstrels,
@@ -2084,7 +2084,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>When guests are at their ease.</q>
 <lb/>Kundrav replied :-—
 <lb/><q>Yea, I have heard so; hear thou my rejoinder:
-<pb n="166"/>
+<pb n="1.166"/>
 <lb/>If this great man be any guest of thine
 <lb/>What business hath he in thy women's bower ?
 <lb/>He sitteth with the sisters of <persName>Jamshid</persName>
@@ -2117,7 +2117,7 @@ He began the war of independence against <persName>Zahhak</persName>, but after 
 <lb/>The troops of <persName>Faridun</persName> received the tidings
 <lb/>And flocked to meet him. Leaping from their steeds
 <lb/>They struggled hand to hand. The citizens,
-<pb n="167"/>
+<pb n="1.167"/>
 <lb/>Such as were warlike, manned the roofs and gates
 <lb/>For <persName>Faridun</persName>; <persName>Zahhak</persName> had maddened them.
 <lb/>Bricks from the walls, stones from the roofs, with swords
@@ -2153,7 +2153,7 @@ o'er that bright city rose a cloud of dust
 <lb/>Told not his purpose or his name, but clutched
 <lb/>The steel-blue dagger in his hand, athirst
 <lb/>For blood—the blood of those two beauteous dames.
-<pb n="168"/>
+<pb n="1.168"/>
 <lb/>His feet no sooner rested on the ground
 <lb/>Than <persName>Faridun</persName> rushed on him like the wind
 <lb/>And beat his helm in with the ox-head mace.
@@ -2189,7 +2189,7 @@ o'er that bright city rose a cloud of dust
 <lb/>Is bright, for me alone did God send forth
 <lb/>From <placeName>Mount Alburz</placeName> by <rs type="ethnic">Grace</rs>, and for your sakes,
 <lb/>To set the world free from the <rs type="mythologicalcreature">Dragon</rs>'s bane.
-<pb n="169"/>
+<pb n="1.169"/>
 <lb/>Blest as we are by Him who giveth good
 <lb/>We ought to walk toward good upon His paths.
 <lb/>As king I may not tarry in one place,
@@ -2225,7 +2225,7 @@ o'er that bright city rose a cloud of dust
 <lb/>Where Faridan chose out a narrow gorge—
 <lb/>A chasm which he had marked of viewless depth—
 <note n="1">In the <rs type="ethnic">Persian</rs>, <foreign>Shirkhan</foreign>, with one letter changed, would mean <gloss>call old</gloss>.</note>
-<pb n="170"/>
+<pb n="1.170"/>
 <lb/>And having studded it with heavy nails,
 <lb/>Whereon the brain might chafe, secured <persName>Zahhak</persName>,
 <lb/>Bound by the hands upon a crag, that so
@@ -2264,9 +2264,9 @@ o'er that bright city rose a cloud of dust
 <lb/>And sheep or shepherd, 'tis the same with all.</p>
 </div>
 </div>
-<pb n="171"/>
+<pb n="1.171"/>
 <div type="textpart"  subtype="reign" n="6"><head>VI. FARIDUN: HIS REIGN WAS FIVE HUNDRED YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/><persName>Faridun</persName>, when firmly established on the throne, marries his three so to the three daughters of <persName>Sarv</persName>, king of <placeName>Yaman</placeName>,and subsequently
 dividing the earth into three parts gives one to each of his sons.
 <lb/>The two elder, becoming envious of the youngest, murder him, and
@@ -2291,7 +2291,7 @@ Thrita is there represented as the first healer, and also as the
 third who offered the drink-offering of the <rs type="potion">Haoma</rs>. The word
 Sima is also associated with him, a word which is said to mean
 <note n="1">See Introd. p. 7.</note>
-<pb n="172"/>
+<pb n="1.172"/>
 <gloss>appeaser</gloss>, with reference apparently to his medical powers. The
 priest and medicine-man were one originally. In reward for
 offering the <rs type="potion">Haoma</rs> two sons were born to Thrita, of whom one
@@ -2338,7 +2338,7 @@ were sticking among his teeth ; and my beard was seized by him,
 <note n="5">Td., note. </note>
 <note n="6">I.e. Zahbdk.</note>
 <note n="7">See introductory note to <persName>Zahhak</persName>.</note>
-<pb n="173"/>
+<pb n="1.173"/>
 and I dragged him out of the sea; nine days and nights the
 conflict was maintained by us in the sea, and then I became more
 powerful than <rs type="mythologicalcreature">Gandarep</rs>. The sole of <rs type="mythologicalcreature">Gandarep</rs>'s foot was also
@@ -2379,7 +2379,7 @@ else fire declares that it will not heat, and water that it will not
 ‘flow. Then <rs type="divinity">Urmuzd</rs> will bid <rs type="divinity">Surush</rs> and another angel to rouse
 <persName>Keresaspa</persName> the SAman. They will go to him and call him thrice,
 <note n="1">WPT, ii. 369-382.</note>
-<pb n="174"/>
+<pb n="1.174"/>
 At the fourth summons he will wake and go forth to encounter
 <persName>Zahhak</persName>, smite him on the head with the famous club, and slay
 him, All evil, sin, and misery will cease, and the era of eternal
@@ -2412,7 +2412,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <note n="1">WPT, i. 119, 233-235.</note>
 <note n="2">For the subject-matter of the above ef. HEP, 277, 278; DZA, i.225; MZA, iii. 233; WPT, i1. 369.</note>
 <note n="3">In the oldest <rs type="language">Pahlavi</rs>—that of the inscriptions—the letters r and l were represented by distinct signs, but in the later <rs type="language">Pahlavi</rs>—that of the manuscripts—the same sign stood for both letters; it is easy to understand the confusion that resulted, especially in the case of proper names. See DEI, i. 19.</note>
-<pb n="175"/>
+<pb n="1.175"/>
 <lb/>In those days, apprehensive of no evil,
 <lb/>All men began to tread the path of God,
 <lb/>Abstaining from contention and observing
@@ -2449,7 +2449,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <lb/>Another week she feasted all the nobles,
 <lb/>Bedecked her house as it had been a garden
 <note n="1">A feast held on the 16th of Mibr and the five following days.</note>
-<pb n="176"/>
+<pb n="1.176"/>
 <lb/>And there received her guests. She then unlocked
 <lb/>The portal of her secret hoards, brought forth
 <lb/>The various treasures that she had amassed,
@@ -2485,7 +2485,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <lb/>Marked each injustice and all wasted lands,
 <lb/>Bound evil hands. with bonds of kindliness—
 <lb/>A policy that well beseemeth kings—
-<pb n="177"/>
+<pb n="1.177"/>
 <lb/>Bedecked the world like Paradise, and raised
 <lb/>Instead of grass the cypress and the rose-tree.
 <lb/>He reached <placeName>Tammisha</placeName>, passing by <placeName>Amul</placeName><ref n="1"/>
@@ -2518,7 +2518,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <lb/>He left <placeName>Iran</placeName> with certain of his friends
 <lb/>To make inquiries and receive reports.
 <note n="1">In Madzandaran.</note>
-<pb n="178"/>
+<pb n="1.178"/>
 <lb/>Then when he heard of any chief with daughters
 <lb/>He sought to learn about them privily,
 <lb/>Yet could not find among the wealthy thanes
@@ -2555,7 +2555,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <lb/>Hath three eyes I possess them in my sons,
 <lb/>But know that they are better still than eyes
 <lb/>For those that look on them give thanks. What said
-<pb n="179"/>
+<pb n="1.179"/>
 <lb/>The sage when he defined a proper league ?
 <lb/><q>I ne'er ally myself but with my betters.</q>
 <lb/>A sage intent on good will seek his friends
@@ -2593,7 +2593,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <milestone unit="vullers" n="68"/>
 <lb/><q>I have as only issue of my wedlock
 <lb/>Three Lights that are resplendent in mine eyes,
-<pb n="180"/>
+<pb n="1.180"/>
 <lb/>And <persName>Faridun</persName> hath sent an embassage
 <lb/>To spread a goodly snare before my feet ;
 <lb/>He would deprive me of these Eyes of mine,
@@ -2625,7 +2625,7 @@ same word as <rs type="ethnic">Aryan</rs> and means <gloss>noble.</gloss></p>
 <lb/>That none shall ever hear the like again.</q>
 <lb/>The king heard while the chieftains said their say,
 <lb/>But felt no less uncertain of his way.
-<pb n="181"/></p></div>
+<pb n="1.181"/></p></div>
 <div type="textpart" subtype="section" n="3"><head>How the King of <placeName>Yaman</placeName> answered <persName>Jandal</persName></head>
 <milestone unit="vullers" n="69"/>
 <p><lb/>At length he called the <rs type="role">Shah</rs>'s ambassador
@@ -2658,7 +2658,7 @@ _ But when shali I behold those princely sons
 <lb/>They shall return.</q> </q></p>
 <p><lb/><persName>Jandal</persName>, the sweet-voiced speaker
 <lb/>On hearing kissed the throne with reverence,
-<pb n="182"/>
+<pb n="1.182"/>
 <lb/>Then uttering praises hied him to his lord,
 <milestone unit="vullers" n="70"/>
 <lb/>To whom he told what he had said and heard.
@@ -2696,7 +2696,7 @@ _ But when shali I behold those princely sons
 <lb/>The eldest maid, and pair the mid in age.
 <lb/>Know, for 'tis worth your while, that he will ask :—
 <lb/><q>How range ye in respect of age these damsels ?</q>
-<pb n="183"/>
+<pb n="1.183"/>
 <lb/>Reply: <q>The youngest hath the highest place,
 <lb/>The eldest hath a place below her rank,
 <lb/>The mid in age is placed as she should be,
@@ -2729,7 +2729,7 @@ _ But when shali I behold those princely sons
 <lb/>Like shining moons too dazzling for the eye,
 <lb/>And ranged them just as <persName>Faridun</persName> foretold.
 <milestone unit="vullers" n="73"/>
-<pb n="184"/>
+<pb n="1.184"/>
 <lb/><persName>Sarv</persName> asked the eldest prince: <q>Which is the youngest
 <lb/>Of these three Stars, which is the mid in age,
 <lb/>And which the eldest? Thus distinguish them.</q></p>
@@ -2760,7 +2760,7 @@ _ But when shali I behold those princely sons
 <lb/>It froze so sharply that the crows grew numb.
 <lb/>The arch-enchanter <persName>Faridun</persName>'s three sons
 <lb/>Leapt from their couches at the grievous cold ;
-<pb n="185"/>
+<pb n="1.185"/>
 <lb/>And by the <rs type="ethnic">Grace</rs> of God and their own skill,
 <lb/>By kingly magic and their hardihood,
 <lb/>Opposed the spell and kept the frost away.
@@ -2795,7 +2795,7 @@ _ But when shali I behold those princely sons
 <lb/>My three Eyes to these men in lawful marriage,
 <lb/>To hold thein dear as their own eyes are dear,
 <lb/>And limn them like their own lives on their hearts,</q>
-<pb n="186"/>
+<pb n="1.186"/>
 <lb/>He uttered this aloud and then he bound
 <lb/>On many vigorous camels' lusty backs
 <lb/>The baggage of the brides. <placeName>Yaman</placeName> was bright
@@ -2829,7 +2829,7 @@ _ But when shali I behold those princely sons
 <p><lb/>But when the youngest son came up he looked
 <lb/>Upon the dragon and cried out: <q>Avaunt!
 <lb/>Thou art a leopard: ware the lions' path !
-<pb n="187"/>
+<pb n="1.187"/>
 <lb/>If e'er the name of <persName>Faridun</persName> hath reached
 <lb/>Thine ears contend not with us, for we three
 <lb/>Are sons of his, and every one of us
@@ -2865,7 +2865,7 @@ _ But when shali I behold those princely sons
 <lb/>Or lions—call him frantic and not brave.
 <lb/>My second son, who from the first showed fight,
 <lb/>Whose courage is more ardent than a flame,
-<pb n="188"/>
+<pb n="1.188"/>
 <lb/>Him name we <persName>Tur</persName>—a lion brave; not even
 <lb/>A mighty elephant could vanquish him.
 <lb/>To dare is all the virtues in his case,
@@ -2902,7 +2902,7 @@ _ But when shali I behold those princely sons
 <lb/>And as he mused thereon he could not be
 <lb/>But filled with thoughts of grave anxiety.
 <note n="1">Arzu means Desire ; Mah-i-Azida Khu, <gloss>Moon of noble-nature</gloss>; and Sahi, <gloss>Stately</gloss>.</note>
-<pb n="189"/></p></div>
+<pb n="1.189"/></p></div>
 <div type="textpart" subtype="section" n="7"><head>How <persName>Faridun</persName> divided the World among his Sons</head>
 <p><lb/>These secrets known, the <rs type="role">Shah</rs> divided earth
 <lb/>And made three realms: he joined <placeName>Rum</placeName> with the West,
@@ -2931,7 +2931,7 @@ _ But when shali I behold those princely sons
 <p><lb/>Much time rolled on, while fate reserved its secrets,
 <lb/>Till wise <rs type="role">Shah</rs> <persName>Faridun</persName> was worn with age
 <lb/>And strewed with dust the Garden of his Spring.
-<pb n="190"/>
+<pb n="1.190"/>
 <lb/>This is the common lot of all mankind—
 <lb/>Man's strength is weakness when he groweth old.
 <lb/>Then gloom began to gather in the state,
@@ -2967,7 +2967,7 @@ _ But when shali I behold those princely sons
 <lb/><q>Heed well my words and tell them to thy lord :—
 <lb/><q>It was when we were youths, O most just king!
 <lb/>That we were cheated by our father thus,
-<pb n="191"/>
+<pb n="1.191"/>
 <lb/>This is a tree which his own hands have set ;
 <lb/>The fruit is blood, the leafage colocynth ;
 <milestone unit="vullers" n="80"/>
@@ -3000,7 +3000,7 @@ _ But when shali I behold those princely sons
 <lb/>Not heeding His commands, and to entreat
 <lb/>Thy sons with scath and fraud instead of justice; _
 <lb/>For thou hadst three, wise, brave, and youths no longer,
-<pb n="192"/>
+<pb n="1.192"/>
 <lb/>And though no excellence appeared in one
 <lb/>So that the others should bow down to him,
 <lb/>Yet one thou blastedst with a dragon's breath,
@@ -3037,7 +3037,7 @@ _ But when shali I behold those princely sons
 <lb/>Hath come as envoy to the <rs type="role">Shah</rs>.</q></p>
 <p><lb/>He bade
 <lb/>His servants raise the curtain and bring in
-<pb n="193"/>
+<pb n="1.193"/>
 <lb/>The envoy, when dismounted, to the court,
 <lb/>Who when he saw the face of <persName>Faridun</persName>,
 <lb/>Saw how the <rs type="role">Shah</rs> engrossed all eyes and hearts,
@@ -3070,7 +3070,7 @@ o'er hill and plain ?</q></p>
 <milestone unit="vullers" n="83"/>
 <lb/><q>Thou needest no excuse, for I have eyes
 <lb/>And have discerned this for myself already.
-<pb n="194"/>
+<pb n="1.194"/>
 <lb/>Tell mine unholy and abandoned sons—
 <lb/>This pair of <rs type="divinity">Ahrimans</rs> with dregs of brains :—
 <lb/><q>'Tis well that ye reveal your natures thus
@@ -3107,7 +3107,7 @@ o'er hill and plain ?</q></p>
 <milestone unit="vullers" n="84"/>
 <lb/>One proverb will I speak if ye will hear :—
 <lb/><q>The crop that ye have sown that shall ye reap.</q>
-<pb n="195"/>
+<pb n="1.195"/>
 <lb/>He that instructed me was wont to say :—
 <lb/><q>Our other home is that which will endure.</q>
 <lb/>But your lusts sit where reason should be throned.
@@ -3142,7 +3142,7 @@ o'er hill and plain ?</q></p>
 <lb/>Will shun thy pillow. If thou puttest love
 <lb/>Before the sword thy head will ache with strife,
 <lb/>For from both corners of the world my sons
-<pb n="196"/>
+<pb n="1.196"/>
 <milestone unit="vullers" n="85"/>
 <lb/>Have shown their real intent. If thou wouldst fight 
 <lb/>Make ready, ope the treasury, bind the baggage ;
@@ -3179,7 +3179,7 @@ o'er hill and plain ?</q></p>
 <milestone unit="vullers" n="86"/>
 <lb/>From foes.</q> I will convert their vengeful hearts :
 <lb/>What better vengeance can I take than that?</q>
-<pb n="197"/>
+<pb n="1.197"/>
 <lb/>The <rs type="role">Shah</rs> replied: <q>Thy brethren, my wise son!
 <lb/>Are set on fight while thou wouldst have a feast.
 <lb/>I cannot but recall this saw to mind :—
@@ -3212,7 +3212,7 @@ o'er hill and plain ?</q></p>
 <lb/>Who addeth lustre unto famous crowns,
 <lb/>Who turneth into night the light of day,
 <lb/>Who openeth the hoards of hope and fear,
-<pb n="198"/>
+<pb n="1.198"/>
 <milestone unit="vullers" n="87"/>
 <lb/>To whom all labours have grown easy, one
 <lb/>In whom all'splendour hath displayed itself.
@@ -3249,7 +3249,7 @@ o'er hill and plain ?</q></p>
 <lb/>Thus all three brothers sought their royal tents.</p>
 <p><lb/>The troops saw, as they looked upon <persName>Iraj</persName>,
 <lb/>That he was worthy of the throne and crown,
-<pb n="199"/>
+<pb n="1.199"/>
 <lb/>And could not rest because the love of him
 <lb/>Possessed their hearts e'en as his face their eyes ;
 <lb/>And when, dispersing, mate went off with mate,
@@ -3283,7 +3283,7 @@ o'er hill and plain ?</q></p>
 <lb/>To do their deed of shame; they proudly strode
 <lb/>Toward their royal brother's tent. <persName>Iraj</persName>,
 <lb/>Who saw them coming, met them tenderly.
-<pb n="200"/>
+<pb n="1.200"/>
 <milestone unit="vullers" n="89"/>
 <lb/>They went with him inside the tent. The talk
 <lb/>Ran on the why and wherefore of his coming.
@@ -3319,7 +3319,7 @@ o'er hill and plain ?</q></p>
 <lb/>No jot for peace, he rose up with a cry
 <lb/>And then advancing suddenly, and grasping
 <lb/>The massive seat of gold, he smote <persName>Iraj</persName>,
-<pb n="201"/>
+<pb n="1.201"/>
 <lb/>Who pleaded for his life: <q>Hast thou no fear
 <milestone unit="vullers" n="90"/>
 <lb/>Of God, nor any reverence for thy sire ?
@@ -3351,7 +3351,7 @@ o'er hill and plain ?</q></p>
 <p><lb/>Not who thy secret favourites may be,
 <lb/>But needs must weep for such an act as this.</p>
 <note n="1">The poet puts his own protest into the mouth of <persName>Iraj</persName> against the ancient <rs type="religion">Zoroastrian</rs> custom of killing ants at sight as being the creation of <rs type="divinity">Ahriman</rs>. <quote>The celebrated high-priest of the Parsis, the late Moola Firooz, entered these lines into his Pand Nadméh [<gloss>Book of counsels.</gloss>], which may betoken better days for the wise little creature,</quote> DZA, i. 171.</note>
-<pb n="202"/>
+<pb n="1.202"/>
 <p><lb/>Thou too, O man distracted and distraught,
 <lb/>Whose heart the world hath seared and caused to bleed !</p>
 <p><lb/>If, as with these, revenge is in thy thought
@@ -3385,7 +3385,7 @@ o'er hill and plain ?</q></p>
 <lb/>The good man came with woeful countenance
 <lb/>To <persName>Faridun</persName> and wailed aloud. They raised
 <lb/>The golden casket's lid (for every one
-<pb n="203"/>
+<pb n="1.203"/>
 <lb/>Believed the words of him who bore it wild)
 <lb/>And taking out the painted silk beheld
 <lb/>Within the severed head of prince <persName>Iraj</persName>.
@@ -3418,7 +3418,7 @@ o'er hill and plain ?</q></p>
 <lb/>The monarch entered bearing his son's head,
 <lb/>Beheld the hauzes<ref n="1"/> and the cypresses,
 <note n="1"> <q>Behind the state apartments is a beautiful and luxuriant garden, cooled by magnificent hauzes, or ornamental ponds, with stone edges, which keep the water about a foot above the level of the ground ; as the water always gently overflows these edges, a sleepy murmur is produced, and the air is cooled by the large evaporating surface.</q>—<title><placeName>Persia</placeName> as it Is,</title> p. 31, by C. J. Wills, M.D.</note>
-<pb n="204"/>
+<pb n="1.204"/>
 <lb/>The trees a-bloom, the willows and the quinces,
 <lb/>Saw too and strewed dark dust upon the throne
 <lb/>Imperial but unprinced and lustreless
@@ -3454,7 +3454,7 @@ o'er hill and plain ?</q></p>
 <lb/>He gave no audience, but without surcease
 <lb/>Cried out with bitterness: <q>O gallant youth!
 <lb/>No wearer of a crown hath ever died
-<pb n="205"/>
+<pb n="1.205"/>
 <lb/>As thou hast died, thou famous warrior!
 <lb/>Thou wast beheaded by vile <rs type="divinity">Ahriman</rs>;
 <lb/>The maw of lions was thy winding-sheet.</q>
@@ -3488,7 +3488,7 @@ o'er hill and plain ?</q></p>
 <lb/>A hero of the seed of <rs type="role">Shah</rs> <persName>Jamshid</persName>,
 <lb/>Meet for the kingship, diadem, and throne ;
 <lb/>And in this way no little time passed on.
-<pb n="206"/></p></div>
+<pb n="1.206"/></p></div>
 <div type="textpart" subtype="section" n="15"><head>The Birth of Mintichihr</head>
 <p><lb/><rs type="ethnic">Mark</rs> what a wonder yon blue vault revealed
 <lb/>When nine months had elapsed! That virtuous dame
@@ -3521,7 +3521,7 @@ o'er hill and plain ?</q></p>
 <lb/>Meanwhile the famous monarch taught the child
 <lb/>All those accomplishments that kings require.
 <note n="1">The word here translated <q>open visage</q> is <foreign>manuchihr</foreign>. For the true meaning of <persName>Minuchihr</persName> see introductory note to the next reign.</note>
-<pb n="207"/>
+<pb n="1.207"/>
 <lb/>When <persName>Faridun</persName> had got back sight and heart,
 <lb/>And all the world was talking of the boy,
 <lb/>His grandsire gave to him a golden throne,
@@ -3551,7 +3551,7 @@ o'er hill and plain ?</q></p>
 <lb/>Illustrious men,—the safeguards of the world—
 <lb/>And when the work of gathering troops was done
 <lb/>The <rs type="role">Shah</rs>'s head towered over every one.
-<pb n="208"/></p></div>
+<pb n="1.208"/></p></div>
 <div type="textpart" subtype="section" n="16"><head>How <persName>Salm</persName> and <persName>Tur</persName> had Tidings of <persName>Minuchihr</persName></head>
 <p><lb/>When those two miscreants <persName>Salm</persName> and <persName>Tur</persName> had heard :—
 <lb/><q>The throne of king of kings is bright again,</q>
@@ -3584,7 +3584,7 @@ o'er hill and plain ?</q></p>
 <lb/>Repentant, seared at heart, and much to blame,
 <lb/>Now seek how best they may excuse themselves ;
 <lb/>Till now they had no hope of being heard.
-<pb n="209"/>
+<pb n="1.209"/>
 <lb/>What do they say ? Their words, wise <rs type="role">Shah</rs>! are these:—
 <lb/><q>Let him that did the evil bear the brunt,
 <lb/>And live in pain of heart and self-reproach
@@ -3618,7 +3618,7 @@ o'er hill and plain ?</q></p>
 <p><lb/>Charged with these words, and doubting what would follow,
 <lb/>The envoy reached the portal of the <rs type="role">Shah</rs>
 <lb/>With treasures of all kinds on elephants.
-<pb n="210"/>
+<pb n="1.210"/>
 <lb/>When <persName>Faridun</persName> was told he gave command
 <lb/>To spread brocade of <rs type="heavenlybody">Ram</rs> upon the throne
 <lb/>Of king of kings and have the royal crown
@@ -3654,7 +3654,7 @@ o'er hill and plain ?</q></p>
 <lb/>Inviting <persName>Minuchihr</persName> to visit them
 <lb/>When they would wait upon him as his slaves,
 <lb/>Give him the crown and throne of majesty
-<pb n="211"/>
+<pb n="1.211"/>
 <lb/>And purchase back from him <persName>Iraj</persName>'s blood
 <lb/>With wealth, brocade, dinars, and jewelry.
 <lb/>The monarch heard the speech and answered it ;
@@ -3688,7 +3688,7 @@ o'er hill and plain ?</q></p>
 <lb/>To head the forces and direct the war;
 <lb/>And we will drench with blood, both leaf and fruit,
 <lb/>The tree sprung out of vengeance for <persName>Iraj</persName>.
-<pb n="212"/>
+<pb n="1.212"/>
 <lb/>No one hath sought revenge for him as yet
 <lb/>Because I saw the back of fortune bent:
 <lb/>It seemed not good to me to lay my hands
@@ -3724,7 +3724,7 @@ o'er hill and plain ?</q></p>
 <lb/>Nay! perish first throne, diadem, and <rs type="ethnic">Grace</rs>!
 <lb/>Worse than a dragon's offspring is the man
 <lb/>Who taketh money for a priceless head.
-<pb n="213"/>
+<pb n="1.213"/>
 <lb/>Shall any say: <q>The sire in his old age
 <lb/>Is putting price upon his son's dear life ?</q>
 <lb/>As for these gifts of yours—I need them not.
@@ -3761,7 +3761,7 @@ o'er hill and plain ?</q></p>
 <lb/>The envoy said: <q>The portal of the <rs type="role">Shah</rs>
 <lb/>Beholdeth that which bright spring seeth not,
 <milestone unit="vullers" n="103"/>
-<pb n="214"/>
+<pb n="1.214"/>
 <lb/>For 'tis the jocund Spring of Paradise
 <lb/>Where ground is ambergris and bricks are gold.
 <lb/>The roof above his palace is a heaven,
@@ -3796,7 +3796,7 @@ o'er hill and plain ?</q></p>
 <lb/>The treasurer—victorious <persName>Garshasp</persName>,
 <lb/>Were there. The sum within the treasuries
 <lb/>Appeareth not. None ever saw such greatness.
-<pb n="215"/>
+<pb n="1.215"/>
 <lb/>Around the palace were two lines of troops
 <lb/>With golden maces and with golden helms.
 <lb/>Before them there were leaders like <persName>Karan</persName>,
@@ -3831,7 +3831,7 @@ o'er hill and plain ?</q></p>
 <p><lb/>The <rs type="role">Shah</rs> was told, <q>A host hath crossed <placeName>Jihun</placeName>,</q>
 <lb/>And bade prince <persName>Minuchihr</persName> to pass the frontier
 <milestone unit="vullers" n="105"/>
-<pb n="216"/>
+<pb n="1.216"/>
 <lb/>Toward the desert, thus advising him :—
 <lb/><q>A youth predestined to be fortunate
 <lb/>May happen to ensnare a mountain-sheep
@@ -3868,7 +3868,7 @@ o'er hill and plain ?</q></p>
 <lb/><persName>Karan</persName> the avenger was the general,
 <lb/>The host three hundred thousand cavaliers.
 <lb/>The men of name marched mailed, with massive maces,
-<pb n="217"/>
+<pb n="1.217"/>
 <lb/>All bold as angry lions and all girded
 <lb/>For vengeance for <persName>Iraj</persName> ; their steel-blue swords
 <lb/>Were in their hands and <persName>Kawa</persName>'s standard led them.
@@ -3906,7 +3906,7 @@ o'er hill and plain ?</q></p>
 <lb/>Twill not be strange if even savage beasts
 <note n="1"> Reading with C.</note>
 <note n="2">Cf. DEI, ii. 217.</note>
-<pb n="218"/>
+<pb n="1.218"/>
 <lb/>Bewail you day and night, for from <placeName>Narwan</placeName>
 <lb/>To <placeName>Chin</placeName> are warlike, vengeful cavaliers.
 <lb/>A glimpse of our bright swords and <persName>Kawa</persName>'s standard
@@ -3939,7 +3939,7 @@ o'er hill and plain ?</q></p>
 <lb/>A proclamation issued to the troops :—
 <lb/><q>O men of name and Lions of the <rs type="role">Shah</rs>!
 <note n="1"> Reading with C.</note>
-<pb n="219"/>
+<pb n="1.219"/>
 <lb/>Gird up your loins, be vigilant, and may
 <lb/>The Almighty guard you. Whosoe'er is slain
 <lb/>Will go to Paradise washed clean from sin ;
@@ -3976,7 +3976,7 @@ o'er hill and plain ?</q></p>
 <lb/>With roar and din like lions in their rage,
 <lb/>While from the sounds of pipe and clarion
 <lb/>Thou wouldst have said: <q>It is a festival.</q>
-<pb n="220"/>
+<pb n="1.220"/>
 <lb/>The troops moved mountain-like and both hosts shouted.
 <lb/>Anon the plain ran blood: thou wouldst have said
 <lb/>That tulips sprang up. Mighty elephants
@@ -4011,7 +4011,7 @@ o'er hill and plain ?</q></p>
 <lb/>A shout rose from the centres of the hosts,
 <lb/>The horsemen made the air a cloud of dust
 <lb/>And steel swords flashed like lightning: thou hadst said :—
-<pb n="221"/>
+<pb n="1.221"/>
 <lb/><q>They make air blaze, earth gleam like diamonds.</q>
 <lb/>The clashing of the steel went through the brain,
 <lb/>While flame and blast rose cloudward. <persName>Minuchihr</persName>
@@ -4045,7 +4045,7 @@ o'er hill and plain ?</q></p>
 <lb/>The Faith and <rs type="ethnic">Grace</rs>, crown and imperial throne.
 <lb/>His fortune is the source of righteousness,
 <lb/>His throne of beauty and of excellence.
-<pb n="222"/>
+<pb n="1.222"/>
 <lb/>By virtue of thy <rs type="ethnic">Grace</rs> I reached <placeName>Turan</placeName>,
 <lb/>Arrayed the host and fought by day and night
 <lb/>Thrice fiercely in two days. I heard that <persName>Tur</persName>
@@ -4079,7 +4079,7 @@ o'er hill and plain ?</q></p>
 <lb/>Who prayed to God, the righteous Judge, to pour
 <lb/>On <persName>Minuchihr</persName> his blessings evermore.</p>
 </div>
-<pb n="223"/>
+<pb n="1.223"/>
 <div type="textpart" subtype="section" n="23"><head>How <persName>Karan</persName> took the Castle of the Alans</head>
 <p><lb/>News of the fight and of that Moon's eclipse
 <lb/>Reached <persName>Salm</persName>, who purposed making a retreat
@@ -4113,7 +4113,7 @@ o'er hill and plain ?</q></p>
 <lb/>Upon the elephants, and full of fight
 <lb/>Set forward toward the sea. <persName>Karan</persName> resigned
 <lb/>The army to <persName>Shirwi</persName> and said: <q>I go
-<pb n="224"/>
+<pb n="1.224"/>
 <milestone unit="vullers" n="117"/>
 <lb/>Disguised as envoy to the castellan 
 <lb/>To show to him the signet-ring of <persName>Tur</persName>.
@@ -4151,7 +4151,7 @@ o'er hill and plain ?</q></p>
 <lb/><q>My son, who art so skilful and adroit !
 <milestone unit="vullers" n="118"/>
 <lb/>Do nothing rashly and in ignorance,
-<pb n="225"/>
+<pb n="1.225"/>
 <lb/>But ponder well and mark froin first to last
 <lb/>The honied words of one that is a stranger,
 <lb/>Especially in times of war and strife.
@@ -4184,7 +4184,7 @@ o'er hill and plain ?</q></p>
 <lb/><q>May horse and mace and saddle ne'er lack thee.
 <lb/>When thou hadst gone another host approached,
 <lb/>Led by a young and battle-loving chief,
-<pb n="226"/>
+<pb n="1.226"/>
 <lb/>A grandson of <persName>Zahhak</persName>, and called, I hear,
 <lb/><persName>Kakwi</persName>—an infidel—with haughty horsemen
 <lb/>And men of name.a hundred thousand strong,
@@ -4220,7 +4220,7 @@ o'er hill and plain ?</q></p>
 <lb/>And spurted from the murk; thou wouldst have said :—
 <lb/><q>The earth will rise in waves and whelm the sky.</q>
 <note n="1"><persName>Zahhak</persName>'s old capital.</note>
-<pb n="227"/>
+<pb n="1.227"/>
 <lb/><persName>Kakwi</persName> the chieftain raised the battle-shout
 <lb/>And came forth like a div, while <persName>Minuchihr</persName>
 <lb/>Advanced with <rs type="ethnic">Indian</rs> sword in hand. Both raised
@@ -4253,7 +4253,7 @@ o'er hill and plain ?</q></p>
 <lb/>And vengeance, cast his fleet white charger's mail
 <lb/>And pressed on till within the foemen's dust
 <lb/>And hard upon the king of <placeName>Rum</placeName> he cried :—
-<pb n="228"/>
+<pb n="1.228"/>
 <lb/><q>Thou who art guilty of the blackest crime,
 <milestone unit="vullers" n="122"/>
 <lb/>Who murderedst thy brother for his crown!
@@ -4291,7 +4291,7 @@ o'er hill and plain ?</q></p>
 <lb/>For he is master of our guiltless lives.</q></p>
 <p><lb/>Thus spake the sage, the chief in wonder answered :—
 <lb/><q>I cast my passions and exalt my name.
-<pb n="229"/>
+<pb n="1.229"/>
 <lb/>What is not God's is <rs type="divinity">Ahriman</rs>'s and evil ;
 <lb/>Be all such banished from my sight, and may
 <lb/>The divs be punished for their sins. Ye all
@@ -4325,7 +4325,7 @@ o'er hill and plain ?</q></p>
 <lb/>The head of <persName>Salm</persName>, the monarch of the West,
 <lb/>And wrote to tell his grandsire of the fight
 <lb/>And strategy, first giving God the praise
-<pb n="230"/>
+<pb n="1.230"/>
 <lb/>And then the <rs type="role">Shah</rs>: <q>Praise to the conquering Worldlord
 <lb/>From whom are virtue, power,and <rs type="ethnic">Grace</rs>! His blessing
 <lb/>Is now on <persName>Faridun</persName>, that wise, brave <rs type="role">Shah</rs>,
@@ -4361,7 +4361,7 @@ o'er hill and plain ?</q></p>
 <lb/>With silvern stirrups and with golden bucklers,
 <lb/>With treasures, elephants, and precious stores,
 <lb/>In readiness to welcome <persName>Minuchihr</persName>.
-<pb n="231"/>
+<pb n="1.231"/>
 <lb/>Now as that prince approached the royal host
 <lb/>His grandsire went afoot to welcome him,
 <lb/>As did the men of Gil like lions loose,
@@ -4398,7 +4398,7 @@ o'er hill and plain ?</q></p>
 <p><lb/>The great <rs type="role">Shah</rs> lightly laid the young man's hand
 <lb/>In that world-paladin's, looked up and said :—
 <lb/><q>Almighty God! Just Judge who sayest sooth!
-<pb n="232"/>
+<pb n="1.232"/>
 <milestone unit="vullers" n="127"/>
 <lb/>Thou saidst: <q>I am the Almighty, the just Judge,
 <lb/>The Help of the oppressed in their distress.</q>
@@ -4430,7 +4430,7 @@ o'er hill and plain ?</q></p>
 <lb/>His heart was full, his face all tears till death.
 <lb/>Though <persName>Faridun</persName> is gone there is his name
 <lb/>Still left through all the years that have passed by ;
-<pb n="233"/>
+<pb n="1.233"/>
 <milestone unit="vullers" n="128"/>
 <lb/>He was, my son! all excellence and fame—
 <lb/>One who found profit in adversity. -
@@ -4461,9 +4461,9 @@ o'er hill and plain ?</q></p>
 <lb/>Bequeatheth good as his memorial!</p>
 </div>
 </div>
-<pb n="234"/>
+<pb n="1.234"/>
 <div type="textpart"  subtype="reign" n="7"><head>VII. MINUCHIHR: HE REIGNED ONE HUNDRED AND TWENTY YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/>After describing the accession of <persName>Minuchihr</persName>, the poet proceeds to tell the story of <persName>Zal</persName>, the son of <persName>Sam</persName>, how, being born with white hair, he was in consequence exposed by his father on Mount
 <lb/><placeName>Alburz</placeName>, how he was found and brought up by the <rs type="title">Simurgh</rs>, how in after years he and his father became reconciled, and how he rose to greatness. The poet also tells of the loves of <persName>Zal</persName> and
 <lb/><persName>Rudaba</persName>, the daughter of <persName>Mihrab</persName>, the idolatrous king of <placeName>Kabul</placeName>, the wrath of <persName>Minuchihr</persName> thereat, his ultimate consent to the union, and the birth of <persName>Rustam</persName>, with an account of whose first adventures, and of the death of <persName>Minuchihr</persName>, the reign concludes.
@@ -4474,7 +4474,7 @@ o'er hill and plain ?</q></p>
 —period of the poem. We have already seen how the titles bestowed on the great hero <persName>Keresaspa</persName> became separate personalities in later times,<ref n="2"/> and in this reign we have one of his most
 <note n="1">Manushchithra in the <rs type="title">Zandavasta</rs>. For <persName>Manu</persName> see prefatory note to <persName>Jamshid</persName>.</note>
 <note n="2">See introductory note to <persName>Faridun</persName>.</note>
-<pb n="235"/> famous feats recorded as an exploit of <persName>Sam</persName>, the son of <persName>Nariman</persName>—the slaying of the dragon of the Kashaf. The legend appears to have become localised in the neighbourhood of the poet's own birthplace, <persName>Tus</persName>, by which the Kashaf flows, and the dragon may be typical of the periodical floods the prevention of which is said to have been an object which the poet had at heart.<ref n="1"/>. The feature of <persName>Sam</persName>'s mace is reproduced from the earlier legend, where
+<pb n="1.235"/> famous feats recorded as an exploit of <persName>Sam</persName>, the son of <persName>Nariman</persName>—the slaying of the dragon of the Kashaf. The legend appears to have become localised in the neighbourhood of the poet's own birthplace, <persName>Tus</persName>, by which the Kashaf flows, and the dragon may be typical of the periodical floods the prevention of which is said to have been an object which the poet had at heart.<ref n="1"/>. The feature of <persName>Sam</persName>'s mace is reproduced from the earlier legend, where
 <persName>Keresaspa</persName> is described as <q>bludgeon-bearing.</q> <ref n="2"/>
 The gigantic mythical bird, the <rs type="title">Simurgh</rs>, the Roc of the
 Arabian Nights, which plays such an important part in the legend of <persName>Zal</persName> and of his son <persName>Rustam</persName>, is described in the <rs type="mythologicalcreature">Bundahish</rs> as
@@ -4488,9 +4488,9 @@ Mazda answered: ‘Take thou a feather of that bird... the
 <note n="3">Sih (three), ayina (kind or sort), murgh (bird)=Simurgh. WPT, i. 47, 89, 91. </note>
 <note n="4">WPT, i. 71. </note>
 <note n="5">Id. 50.</note>
-<note n="6">Jd. 89. </note>
+<note n="6">Id. 89. </note>
 <note n="7">Id. 70, and iii, 112.</note>
-<pb n="236"/>
+<pb n="1.236"/>
 Varengana, O Spitama Zarathustra! With that feather thou shalt rub thy own body, with that feather thou shalt curse back thy enemies. If a man holds a bone of that strong bird, or a feather of that strong bird, no one can smite or turn to flight that fortunate man. The feather of that bird of birds brings him help; it brings unto him the homage of men, it maintains him in his glory.</q> <ref n="1"/></p>
 <p>With regard to the account of the employment of anesthetics on the occasion of the Cesarean birth of <persName>Rustam</persName>, we find another instance of their employment by <rs type="divinity">Urmuzd</rs> himself in the account of the Creation in the <rs type="mythologicalcreature">Bundahish</rs>. When <rs type="divinity">Ahriman</rs> broke into the creation of <rs type="divinity">Urmuzd</rs> and attacked the Primeval Ox, we read that
 <rs type="divinity">Urmuzd</rs> had previously ground up healing fruits in water for it, that its death might be the less painful.<ref n="2"/> Similarly we read in
@@ -4515,13 +4515,13 @@ almost perpendicular on every side. It is of oblong form, and
 <note n="2">WPT, i. 18.</note>
 <note n="3">RK, p. 284. Cf. NIN, p. ro.</note>
 <note n="4">Whiston, Mosis Chorenensis, 96.</note>
-<pb n="237"/>
+<pb n="1.237"/>
 encloses a level space at the top of the mountain, which is
 covered with delightful verdure, and watered by numerous springs.
 The ascent is nearly three miles ; for the last five or six hundred
 yards the summit is so difficult of approach that the slightest
 opposition, if well directed, must render it impregnable... In 1810
-it was ,.. in possession of the tribe of Mumasenni, one of the
+it was ... in possession of the tribe of Mumasenni, one of the
 aboriginal tribes of <placeName>Persia</placeName>. Their means of defence were probably
 still the same as in the days of Roostum: a line of large stones
 ranged in regular order around the edges of the precipice. Each
@@ -4553,7 +4553,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>But when I mount my steed my breath is fire.
 <note n="1">MHP, i. 19, and note. </note>
 <note n="2">The name of a Fire-temple.</note>
-<pb n="238"/>
+<pb n="1.238"/>
 <lb/>I cut the practice of the wicked short
 <lb/>And make the earth a red brocade of blood,
 <milestone unit="vullers" n="130"/>
@@ -4591,7 +4591,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And said to <persName>Minuchihr</persName>: <q>O judge most just!
 <lb/>I from the <rs type="role">Shahs</rs> have gotten eyes to see,
 <lb/>And see thee just: my part is to applaud.
-<pb n="239"/>
+<pb n="1.239"/>
 <lb/><rs type="role">Shah</rs> of <placeName>Iran</placeName> art thou by long descent—
 <lb/>The chosen of the Lions and the brave.
 <lb/>May God watch o'er thy body and thy soul,
@@ -4623,7 +4623,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>A tale of wonder from the days of yore;
 <lb/>Give me thine ear, my son! and learn from me
 <lb/>How <persName>Sam</persName> became the sport of destiny.
-<pb n="240"/>
+<pb n="1.240"/>
 <milestone unit="vullers" n="132"/>
 <lb/>Now <persName>Sam</persName> was childless and in that regard
 <lb/>In need of solace. One among his wives—
@@ -4659,7 +4659,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <p><lb/>The horseman <persName>Sam</persName> descended from his throne;
 <lb/>He went behind the curtain to <q>Young Spring,</q>
 <lb/>And saw a goodly boy with hoary head.
-<pb n="241"/>
+<pb n="1.241"/>
 <lb/>None hath beheld or heard of such; his hair
 <milestone unit="vullers" n="133"/>
 <lb/>Resembled snow and yet his cheeks were ruddy.
@@ -4695,7 +4695,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Unable to distinguish black from white,
 <lb/>Was outcast from his father's love; but He,
 <lb/>Who fostereth all, took up the castaway.
-<pb n="242"/></p>
+<pb n="1.242"/></p>
 <milestone unit="vullers" n="134"/>
 <p><lb/>Once when the lioness her cub had fed,
 <lb/><q>If I should give thee my heart's blood,</q> she said,
@@ -4732,7 +4732,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>To man's estate a caravan passed by
 <lb/>And saw one like a noble cypress-tree,
 <lb/>His breast a silver mount, his waist a reed,
-<pb n="243"/>
+<pb n="1.243"/>
 <lb/>And rumour of him spread, for neither good
 <lb/>Nor bad remaineth hid; so <persName>Sam</persName> in fine
 <lb/>Heard of that high-starred youth of <rs type="ethnic">Grace</rs> divine.</p></div>
@@ -4765,7 +4765,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And ever persevere in quest of him,
 <lb/>Since one whom God regardeth will not die
 <lb/>Of heat or cold. And now in penitence
-<pb n="244"/>
+<pb n="1.244"/>
 <lb/>Incline to Him—the Author of all good,
 <lb/>The Guide.</q></p>
 <p><lb/>So next day and in sore distress
@@ -4801,7 +4801,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Thou wouldst have said: <q>It will obstruct the stars.</q>
 <lb/>Upon the top was built a lofty nest,
 <lb/>Where <rs type="heavenlybody">Saturn</rs>'s influence could not injure it ;
-<pb n="245"/>
+<pb n="1.245"/>
 <lb/>Tall posts of ebony and sandal-wood
 <lb/>Laced with lign-aloe stayed it underneath.
 <lb/><persName>Sam</persName> gazed in wonder on that stony peak,
@@ -4838,7 +4838,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And gave to thee the name Dastan-i-Zand,<ref n="1"/>
 <lb/>Because thy sire dealt with thee treacherously ;
 <note n="1">I.e. <gloss>much defrauded</gloss>, in allusion to Sim's treatment of his son.</note>
-<pb n="246"/>
+<pb n="1.246"/>
 <lb/>Command thy valiant guide to call thee so
 <lb/>When thou returnest home. Thy sire is <persName>Sam</persName>,
 <lb/>The hero, paladin of paladins,
@@ -4875,7 +4875,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Then burn the feather and behold my might,
 <lb/>For I have cherished thee beneath my plumes
 <lb/>And brought thee up among my little ones.
-<pb n="247"/>
+<pb n="1.247"/>
 <lb/>Now like a black cloud will I bear thee off
 <lb/>And carry thee to yonder spot uninjured.
 <lb/>Let not thy heart forget to love thy nurse,
@@ -4911,7 +4911,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Toward me—the meanest of the slaves of God.
 <lb/>Henceforth since I have thee I swear by Him
 <lb/>I will not fail in gentleness to thee,
-<pb n="248"/>
+<pb n="1.248"/>
 <lb/>But will fulfil thy wishes good and bad:
 <lb/>Henceforth thy will shall be my rule of right.</q></p>
 <p><lb/>He clothed the young man like a paladin
@@ -4943,7 +4943,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Congratulate him on the <rs type="role">Shah</rs>'s behalf
 <lb/>Upon the joy that hath revealed itself;
 <note n="1"> I.e, <q><persName>Zal</persName> the old,</q> in allusion to his white hair.</note>
-<pb n="249"/>
+<pb n="1.249"/>
 <lb/>And bid him come in person to the <rs type="role">Shah</rs>
 <lb/>To tell his tale, and afterwards depart
 <lb/>Home like a loyal liege.</q></p>
@@ -4979,7 +4979,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Teach him our customs both in war and feast ;
 <lb/>Bird, nest, and height he knoweth; can he know
 <lb/>What honour and court-usages demand ?</q></p>
-<pb n="250"/>
+<pb n="1.250"/>
 <p><lb/>Then <persName>Sam</persName> told all the story to the <rs type="role">Shah</rs>
 <lb/>About the lofty mountain and <rs type="title">Simurgh</rs>,
 <lb/>And how the precious one was lodged and nurtured
@@ -5016,7 +5016,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And sucketh raw flesh, not his mother's breast—
 <lb/>Restore to me! Disclose for me a way
 <lb/>To him and cut this present trouble short.
-<pb n="251"/>
+<pb n="1.251"/>
 <lb/>Sear not my soul for my defect in love;
 <lb/>Oh! pardon me this once and cheer my heart.</q>
 <lb/>When I had spoken thus, the Lord vouchsafed
@@ -5050,7 +5050,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>The ruler of the earth prepared a gift
 <lb/>Of such a sort that he was blessed by all,
 <lb/>Of <rs type="ethnic">Arab</rs> steeds with golden furniture,
-<pb n="252"/>
+<pb n="1.252"/>
 <lb/>Of <rs type="ethnic">Indian</rs> scimitars with golden sheaths,
 <lb/>Of furs and gold, of jewels and brocade,
 <lb/>OF carpets also an abundant store,
@@ -5087,7 +5087,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Approached <placeName>Nimruz</placeName> 'twas bruited that the prince—
 <lb/>The lustre of the world—had come with presents,
 <lb/>A crown of gold, grant, patent, and gold girdle.
-<pb n="253"/>
+<pb n="1.253"/>
 <lb/>Sistin was decked throughout like Paradise ;
 <lb/>Its bricks were gold and all its soil pure musk.
 <lb/>They flung about dinars, musk, drachms, and saftron,
@@ -5119,7 +5119,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Him the <rs type="title">Simurgh</rs>, that noble bird, bare off,
 <lb/>Him too the Maker passed not by in scorn.
 <note n="1">The name of a wild tribe, <gloss>the Vulture-heads</gloss>,</note>
-<pb n="254"/>
+<pb n="1.254"/>
 <lb/>What I despised was precious to the fowl,
 <lb/>Which reared him till he seemed a lofty cypress,
 <lb/>And when the time for pardon came the Lord
@@ -5156,7 +5156,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Let thy heart rest; command whate'er thou wilt.
 <lb/>The astrologers declare a gracious purpose
 <lb/>Concerning thee—that here shall be thy home
-<pb n="255"/>
+<pb n="1.255"/>
 <lb/>With host and crown. We cannot thwart heaven's will;
 <lb/>Thy portion is to spread around thee love.
 <lb/>Now gather to thee cavaliers and sages,
@@ -5193,7 +5193,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And whether near or distant used to think
 <lb/>The camphor locks of <persName>Zal</persName> as black as ink.
 <milestone unit="vullers" n="149"/>
-<pb n="256"/></p></div>
+<pb n="1.256"/></p></div>
 <div type="textpart" subtype="section" n="7"><head>How <persName>Zal</persName> visited <persName>Mihrab</persName> of <placeName>Kabul</placeName></head>
 <p><lb/>One day <persName>Zal</persName> set forth on a royal progress
 <lb/>With chiefs attached to him in rede and Faith
@@ -5225,7 +5225,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>They came together to the turquoise throne ;
 <lb/>A table fit for paladins was spread
 <lb/>And all sat down with gladness to the feast.
-<pb n="257"/>
+<pb n="1.257"/>
 <lb/>There, while cup-bearers handed cups and wine,
 <lb/><persName>Mihrab</persName> observed the son of <persName>Sam</persName>, on whom
 <lb/>He joyed to gaze, and whom he longed to serve.
@@ -5263,7 +5263,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <p><lb/>Night came; <persName>Zal</persName> sat in sad and anxious thought, 
 <lb/>Concerned for her whom he had never seen,
 <lb/>But when the sun's rays struck the mountain-tops
-<pb n="258"/>
+<pb n="1.258"/>
 <lb/>And made the world white crystal he gave audience,
 <lb/>And warriors with their golden scabbards came
 <lb/>To grace the portal of the paladin.
@@ -5300,7 +5300,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>His polished manners, tact and courtesy,
 <lb/>While as for <persName>Zal</persName> his heart went clean distraught,
 <lb/>His wisdom fled afar and love was lord.
-<pb n="259"/>
+<pb n="1.259"/>
 <lb/>An <rs type="ethnic">Arab</rs> chief once said in this regard :—
 <lb/><q>A horse shall while I live my comrade be,
 <lb/>The vault of circling heaven shall shelter me ;
@@ -5334,7 +5334,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>And walk in chieftains' steps ?</q> 
 <lb/><persName>Mihrab</persName> replied :—
 <lb/><q>O fair-faced Cypress with the silvern breast !
-<pb n="260"/>
+<pb n="1.260"/>
 <lb/>Of all the warrior-paladins of earth
 <lb/>Not one can tread his steps; there is no portrait
 <lb/>Inside our halls with such a bridle-hand,
@@ -5371,7 +5371,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Attend upon me, and dispel my cares;
 <lb/>Know then, all five of you, and understand,
 <lb/>And luck go with you all your years, that I—
-<pb n="261"/>
+<pb n="1.261"/>
 <lb/>I am in love, and like a raging sea
 <lb/>Whose billows surge to heaven! Mine ardent heart
 <lb/>Is full of love for <persName>Zal</persName>, and in my sleep
@@ -5408,7 +5408,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>Would come from his fourth heaven to be thy spouse!</q></p>
 <p><lb/><persName>Rudaba</persName> heard, her heart flared up like fire
 <lb/>Before a blast of air. She shrieked at them,
-<pb n="262"/>
+<pb n="1.262"/>
 <lb/>With frowns that shut her eyes, exclaiming: <q>Bah!
 <lb/>Ye strive in vain: it booteth not to hear.
 <lb/>If to some star I lost my heart, could I
@@ -5445,7 +5445,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <p><lb/><persName>Rudaba</persName> smiled,
 <lb/>Turned safflower cheeks toward the slave and said :—
 <lb/><q>If thou canst compass this thou wilt have planted
-<pb n="263"/>
+<pb n="1.263"/>
 <lb/>A tall tree bearing rubies day by day
 <lb/>Which wisdom in its breast will bear away.</q></p></div>
 <div type="textpart" subtype="section" n="9"><head>How <persName>Rudaba</persName>'s Damsels went to see Zaél</head>
@@ -5480,7 +5480,7 @@ large stone, or rather rock, is hurled down, and sweeps everything before it.</q
 <lb/>The ruddy <rs type="ethnic">Turkman</rs> slave-boy strung the bow
 <lb/>And laid it in the paladin's left hand,
 <lb/>Who flushed the fow! and shot it as it rose.
-<pb n="264"/>
+<pb n="1.264"/>
 <lb/>Blood dyed the water. <persName>Zal</persName> said: <q>Go across
 <lb/>And fetch yon erippled bird.</q></p>
 <p><lb/>The gallant <rs type="ethnic">Turkman</rs>
@@ -5517,7 +5517,7 @@ o'er cavalier like him, nor will time see
 <lb/>Which is but well and seemly, for she is
 <lb/>Of equal rank.</q></p>
 <p><lb/>On hearing this the slave-boy
-<pb n="265"/>
+<pb n="1.265"/>
 <lb/>Flushed ruby-like. <q>The Sun should wed the Moon,</q>
 <lb/>He said. <q>Whene'er the world would make a match
 <lb/>The hearts of all concerned find room for love,
@@ -5554,7 +5554,7 @@ o'er cavalier like him, nor will time see
 <lb/>Hast secret things to say tell us in person.</q></q></p>
 <p><lb/><persName>Rudaba</persName>'s damsels said to one another :—
 <lb/><q>The Lion hath been taken in the toils.
-<pb n="266"/>
+<pb n="1.266"/>
 <lb/>The wishes of <persName>Rudaba</persName> and of <persName>Zal</persName>
 <lb/>Have been fulfilled, and matters promise well.</q></p>
 <p><lb/>The black-eyed youth, who brought the monarch's gifts .
@@ -5590,7 +5590,7 @@ o'er cavalier like him, nor will time see
 o'er cheeks of roses to the very ground.
 <lb/>Her head is all a-twine with ambergris
 <lb/>And musk, her person all a-shine with jewels.
-<pb n="267"/>
+<pb n="1.267"/>
 <lb/>Her locks and ringlets are like musky mail
 <lb/>Where <q>there is link on link</q> as one might say.
 <lb/>Thou wilt not see in <placeName>Chin</placeName> so fair an Idol:
@@ -5623,7 +5623,7 @@ o'er cheeks of roses to the very ground.
 <lb/>I marvel at your gadding so about.</q></p>
 <p><lb/>The Idols, when they found a word to say,
 <lb/>Flew out at him in their embarrassment :—
-<pb n="268"/>
+<pb n="1.268"/>
 <lb/><q>This day is just like any other one:
 <lb/>There is no foul div in the rosary.
 <lb/>'tis spring. We gather roses in the garden,
@@ -5660,7 +5660,7 @@ o'er cheeks of roses to the very ground.
 <lb/>What fragrance, colour, stature, limbs, he hath!
 <lb/>How slim a waist and what an open chest!
 <lb/>His eyes are twin narcissi water-blue,
-<pb n="269"/>
+<pb n="1.269"/>
 <lb/>His lips like coral and his cheeks like blood.
 <lb/>His hand and forearm are like lion's paws.
 <lb/>A shrewd man he, with an archmage's heart
@@ -5696,7 +5696,7 @@ o'er cheeks of roses to the very ground.
 <lb/>Suspected naught. She had her own pavilion
 <lb/>Like jocund spring and decked with great men's portraits.
 <lb/>The servants draped it with brocade of <placeName>Chin</placeName>,
-<pb n="270"/>
+<pb n="1.270"/>
 <lb/>Set golden trays about as ornaments,
 <lb/>Then mingled wine with musk and ambergris
 <lb/>And scattered emeralds and carnelians.
@@ -5730,7 +5730,7 @@ o'er cheeks of roses to the very ground.
 <lb/>And saw upon the wall a sun-cheeked damsel,
 <lb/>Whose beauty set the roof a-gleam like gems,
 <lb/>Whose blushes set the ground a-flush like rubies.
-<pb n="271"/>
+<pb n="1.271"/>
 <lb/>He thus made answer: <q>O thou moon-faced one!
 <lb/>My blessing and the <rs type="ethnic">Grace</rs> of heaven be thine.
 <lb/>How many nights with eyes up-turned to Spica
@@ -5766,7 +5766,7 @@ o'er cheeks of roses to the very ground.
 <lb/>The noose caught and he mounted. Fairy-face
 <lb/>Advanced to welcome him, she clasped his hand,
 <lb/>And both intoxicate with love descended,
-<pb n="272"/>
+<pb n="1.272"/>
 <milestone unit="vullers" n="166"/>
 <lb/>Hand clasped in hand, to her pavilion
 <lb/>Gold-arabesqued—a meeting-place for kings,
@@ -5803,7 +5803,7 @@ o'er cheeks of roses to the very ground.
 <p><lb/><persName>Rudaba</persName> answered: <q>I too swear by Him—
 <lb/>The God of Faith and right—that none but <persName>Zal</persName>
 <lb/>Shall be my lord; the Maker is my witness.</q>
-<pb n="273"/>
+<pb n="1.273"/>
 <lb/>Their love waxed ever as the moments sped,
 <lb/>For wisdom was afar and passion near.
 <lb/>So fared they till the day began to break
@@ -5837,7 +5837,7 @@ o'er cheeks of roses to the very ground.
 <lb/>By Him is justice done in heaven and earth.
 <lb/>He bringeth summer, spring, and autumn-tide
 <lb/>With fruit to fill the branches of the vines;
-<pb n="274"/>
+<pb n="1.274"/>
 <lb/>Youth hath from Him its time of scent and bloom,
 <lb/>Age hath from Him its time of saddened looks,
 <lb/>None can transgress His will and ordinance :
@@ -5874,7 +5874,7 @@ o'er cheeks of roses to the very ground.
 <lb/>All—great and small—in marrying but obey
 <lb/>The laws of Faith and custom. No wise man
 <lb/>Will bar what honour and religion sanction.
-<pb n="275"/>
+<pb n="1.275"/>
 <lb/>What do the prescient archimages say ?
 <lb/>What are the sages' views?</q></p>
 <p><lb/>They held their peace
@@ -5907,7 +5907,7 @@ o'er cheeks of roses to the very ground.
 <div type="textpart" subtype="section" n="13"><head>How <persName>Zal</persName> wrote to <persName>Sam</persName> to Explain the Case</head>
 <p><lb/>The chieftain bade a scribe to come, poured forth
 <lb/>His heart and wrote a letter of good cheer,
-<pb n="276"/>
+<pb n="1.276"/>
 <lb/>And first he praised the Maker and the Judge,
 <lb/><q>The Source of joy and might, the Lord of <rs type="heavenlybody">Venus</rs>,
 <lb/>Of Sol and <rs type="heavenlybody">Mars</rs>, of being and not being.
@@ -5944,7 +5944,7 @@ o'er cheeks of roses to the very ground.
 <lb/>Howbeit a sire, though fierce and dragon-like,
 <lb/>Should hearken to the secrets of his child.
 <lb/>My tears are for the daughter of <persName>Mihrab</persName>,
-<pb n="277"/>
+<pb n="1.277"/>
 <lb/>I am as if consumed in raging fire,
 <lb/>The stars are my companions in the night,
 <lb/>My breast is like a sea, I lose my wits
@@ -5982,7 +5982,7 @@ o'er cheeks of roses to the very ground.
 <lb/>And took the letter, while the man discharged
 <milestone unit="vullers" n="173"/>
 <lb/>His errands. <persName>Sam</persName> undid and read the letter
-<pb n="278"/>
+<pb n="1.278"/>
 <lb/>While coming from the mountains, paled and halted
 <lb/>In wonder not expecting or commending
 <lb/><persName>Zal</persName>'s conduct. <q>Yet,</q> he thought, <q>'tis natural :
@@ -6016,7 +6016,7 @@ o'er cheeks of roses to the very ground.
 <lb/>Good news about the daughter of <persName>Mihrab</persName>
 <lb/>And <persName>Zal</persName>, for they will be a glorious pair,
 <lb/>Whose son will prove a mighty Elephant,
-<pb n="279"/>
+<pb n="1.279"/>
 <lb/>Will gird his loins with valour, overcome
 <lb/>The world, will set the <rs type="role">Shah</rs>'s throne on the clouds,
 <lb/>Cut from the ground the feet of evil doers
@@ -6052,7 +6052,7 @@ o'er cheeks of roses to the very ground.
 <p><lb/>They bound a thousand of the Kargasdrs
 <lb/>And dragged them off afoot in shame and woe.
 <note n="1">>The name of a wild tribe, <gloss>the Dog-heads</gloss>.</note>
-<pb n="280"/>
+<pb n="1.280"/>
 <lb/>Toward dawn the horsemen's shouts rose o'er the plain,
 <lb/>Rose too the sound of drums and clarions
 <lb/>About the entrance of the tent-enclosure,
@@ -6083,7 +6083,7 @@ o'er cheeks of roses to the very ground.
 <lb/><persName>Sam</persName> hummed and hawed but in the end consented.</q> </q></p>
 <p><lb/><persName>Zal</persName> sent his father's letter by the woman,
 <lb/>Who hurried with the good news to <persName>Rudaba</persName>.
-<pb n="281"/>
+<pb n="1.281"/>
 <lb/>That fay-faced damsel showered drachms upon her,
 <lb/>Placed her upon a gold-embroidered seat
 <lb/>And for her news gave her a change of raiment ;
@@ -6119,7 +6119,7 @@ o'er cheeks of roses to the very ground.
 <lb/>To-morrow. Wait until I have the money.</q>
 <lb/>Perceiving that she lied <persName>Sindukht</persName> used force,
 <lb/>Searched up her sleeves and found her knavery.
-<pb n="282"/>
+<pb n="1.282"/>
 <lb/><persName>Sindukht</persName> discovering <persName>Rudaba</persName>'s ring
 <lb/>And costly stuffs was very wroth, and catching
 <lb/>The woman by the tresses flung her down
@@ -6156,7 +6156,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Have come to such a pass within my heart
 <lb/>That, if in others' presence or alone,
 <lb/>I weep and only live to see his face.
-<pb n="283"/>
+<pb n="1.283"/>
 <lb/>One hair of his is worth the world to me.
 <milestone unit="vullers" n="179"/>
 <lb/>Know too that he hath seen and sat beside me,
@@ -6191,7 +6191,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>That she would listen to advice from none,
 <lb/>And laid her down in tears and in chagrin;
 <lb/>Thou wouldst have said that she had burst her skin.
-<pb n="284"/></p></div>
+<pb n="1.284"/></p></div>
 <div type="textpart" subtype="section" n="16"><head>How <persName>Mihrab</persName> was made Aware of his Daughter's Cuse</head>
 <milestone unit="vullers" n="180"/>
 <p><lb/><persName>Mihrab</persName>, much gratified by <persName>Zal</persName>'s attentions, 
@@ -6224,7 +6224,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>She answered :—
 <milestone unit="vullers" n="181"/>
 <lb/><q>The wise would take a very different view
-<pb n="285"/>
+<pb n="1.285"/>
 <lb/>Of what I said. Now can I hide from thee
 <lb/>A secret such as this and these grave doings ?
 <lb/>A blesséd wise archmage once told his child
@@ -6261,7 +6261,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Life must be risked when honour is in sight ;
 <lb/>Why strivest thou to stay me from the fight ?</q>
 <lb/>If <persName>Sam</persName> and <persName>Minuchihr</persName> shall get a handle
-<pb n="286"/>
+<pb n="1.286"/>
 <lb/>Against us smoke will go up from <placeName>Kabul</placeName>,
 <lb/>Seedtime and harvest cease throughout the land.</q></p>
 <p><lb/>She said: <q>O marchlord! do not speak so wildly.
@@ -6297,7 +6297,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Replied: <q>First promise to restore her to me
 <lb/>Unscathed, and that <placeName>Kabulistan</placeName> shall still
 <lb/>Possess this Rosary like Paradise.</q></p>
-<pb n="287"/>
+<pb n="1.287"/>
 <p><lb/>The chieftain promised, but he said: <q>Now mark!
 <lb/>The <rs type="role">Shah</rs> will meditate revenge for this.</q>
 <lb/><persName>Sindukht</persName> did reverence, bending to the ground ;
@@ -6334,7 +6334,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Where with her mother who had gained the day
 <lb/>She prayed Almighty God to be their stay.
 </p></div>
-<pb n="288"/>
+<pb n="1.288"/>
 <div type="textpart" subtype="section" n="17"><head>How <persName>Minuchihr</persName> heard of the Case of Zdél and <persName>Rudaba</persName></head>
 <p><lb/>News of the friendship of <persName>Mihrab</persName> and <persName>Zal</persName>
 <lb/>And of that noble ill-matched pair of lovers
@@ -6368,7 +6368,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>And journey home from us.</q></q></p>
 <p><lb/><persName>Naudar</persName> set forth,
 <lb/>And valiant <persName>Sam</persName>, informed of his approach
-<pb n="289"/>
+<pb n="1.289"/>
 <lb/>Went with the paladins to welcome him
 <lb/>With mighty elephants and kettledrums.
 <milestone unit="vullers" n="186"/>
@@ -6401,7 +6401,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>In audience by the <rs type="role">Shah</rs>, at sight of whom
 <lb/>He kissed the ground, and then approached the presence ;
 <note n="1">Metaphorically, of course.</note>
-<pb n="290"/>
+<pb n="1.290"/>
 <lb/>While <persName>Minuchihr</persName>, encrowned with sparkling gems,
 <milestone unit="vullers" n="187"/>
 <lb/>Rose from his ivory throne and made <persName>Sam</persName> sit
@@ -6439,7 +6439,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Rose from that great host, and my troops turned pale,
 <lb/>I reared the mace whereof one blow sufiiceth
 <note n="1">A <rs type="ethnic">Persian</rs> measure of weight varying greatly in different localities.</note>
-<pb n="291"/>
+<pb n="1.291"/>
 <lb/>And led the army on. I raised a shout
 <lb/>That made earth seem a millstone to the foe,
 <lb/>While all my host was heartened and resolved
@@ -6475,7 +6475,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <p><lb/>The <rs type="role">Shah</rs>, on hearing what his chieftain said,
 <lb/>Raised to the moon his glorious diadem,
 <lb/>Bade hold a festival and saw with joy
-<pb n="292"/>
+<pb n="1.292"/>
 <lb/>The world freed from his foes. The night passed quickly
 <lb/>In revelry and praises of the chieftain.
 <lb/>At dawn the <rs type="role">Shah</rs> held audience. <persName>Sam</persName> drew near
@@ -6508,7 +6508,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Must take my head off ere he touch <placeName>Kabul</placeName>.</q></p>
 <p><lb/>In great concern he hasted on his journey,
 <lb/>With much to think about and much to say.
-<pb n="293"/>
+<pb n="1.293"/>
 <lb/>News reached brave <persName>Sam</persName>: <q>The Lion's Whelp hath come.</q>
 <lb/>The troops bestirred themselves and got in readiness
 <lb/>The flag of <persName>Faridun</persName>. They beat the tymbals,
@@ -6546,7 +6546,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>All joy in thy just dealing; earth and time
 <note n="1"><persName>Zal</persName> is regarded metaphorically as half bird. Cf. pp. 302, 304.</note>
 <milestone unit="vullers" n="193"/>
-<pb n="294"/>
+<pb n="1.294"/>
 <lb/>Receive it at thy hands. So do not I;
 <lb/>I have no share though thine acknowledged kinsman.
 <lb/>I am the dust-fed nursling of a bird
@@ -6582,7 +6582,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>The chief attended to <persName>Zal</persName>'s words, then bowed
 <lb/>His head and answered :—<q> 'Tis all true, and I
 <lb/>Have dealt with thee unjustly from the first
-<pb n="295"/>
+<pb n="1.295"/>
 <lb/>And given foes occasion to rejoice.
 <lb/>What thou hast asked me is thy heart's desire
 <lb/>And in thy trouble thou couldst find no rest;
@@ -6616,7 +6616,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>To war, and slayeth haughty warrior-leopards.
 <lb/>The lofty mountain shattered by thy mace
 <lb/>Becometh dust upon thy proud steed's hoofs,
-<pb n="296"/>
+<pb n="1.296"/>
 <lb/>While thy pure heart and stainless Faith constrain
 <lb/>Both wolf and sheep to water at thy cistern.
 <lb/>A slave am I whose race is run, a slave
@@ -6653,7 +6653,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>I came. The dragon seemed a lofty mountain
 <lb/>And trailed upon the ground its hairs like lassos.
 <note n="1">Reading with C.</note>
-<pb n="297"/>
+<pb n="1.297"/>
 <lb/>Its tongue was like a tree-trunk charred, its jaws
 <lb/>Were open and were lying in my path.
 <lb/>Its eyes were like two cisterns full of blood.
@@ -6690,7 +6690,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>On this account men called me <q>One blow</q> <persName>Sam</persName>,
 <lb/>And all threw jewels o'er me. I departed
 <lb/>With all my shining body bare of mail ;
-<pb n="298"/>
+<pb n="1.298"/>
 <lb/>My charger's armour dropped from him in pieces;
 <lb/>I sickened with the venom many days.
 <lb/>There was no harvest in those parts for years
@@ -6727,7 +6727,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>With his request. He said: <q>'Twere better far
 <lb/>To hang <placeName>Amul</placeName><ref n="1"/> than fall upon <placeName>Kabul</placeName>.</q>
 <note n="1"><persName>Minuchihr</persName>'s capital.</note>
-<pb n="299"/>
+<pb n="1.299"/>
 <lb/>But when a fowl-fed outcast on the mountains
 <lb/>Seeth in <placeName>Kabulistan</placeName> so bright a Moon—
 <lb/>A Cypress slim crowned with a rosary—
@@ -6761,7 +6761,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <note n="1">So C.and P. V. apparently by oversight reads <placeName>Kabulistan</placeName>.</note>
 <note n="2">I.e. the <rs type="role">Shah</rs>'s wrath and his instructions to <persName>Sam</persName> to destroy
 <lb/><placeName>Kabul</placeName>.</note>
-<pb n="300"/>
+<pb n="1.300"/>
 <lb/>Is to take thee with thy polluted child
 <lb/>And slay you shamefully and publicly.
 <lb/>Thereat perchance the <rs type="role">Shah</rs> will be appeased
@@ -6797,7 +6797,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>While I avert the danger thou must use
 <lb/>No harshness toward my child. My greatest care
 <lb/>Here is her life; give me a pledge for that.
-<pb n="301"/>
+<pb n="1.301"/>
 <lb/>I care not for myself; all my concern
 <lb/>And travail are for her.</q></p>
 <p><lb/>She took his pledge,
@@ -6828,7 +6828,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>And bade the officers announce her thus :—
 <lb/><q>An envoy from <placeName>Kabul</placeName> hath come to seek
 <lb/>The mighty chief, the hero of <placeName>Zabul</placeName>,
-<pb n="302"/>
+<pb n="1.302"/>
 <lb/>Charged with a message from <persName>Mihrab</persName> to <persName>Sam</persName>,
 <lb/>The winner of the world.</q></p>
 <p><lb/>The chamberlain
@@ -6865,7 +6865,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <p><lb/><lb/><q><persName>Mihrab</persName>, if any, was to blame, and he
 <lb/>Is weeping blood. What have our people done
 <lb/>That thou must raze <placeName>Kabul</placeName>? They only live
-<pb n="303"/>
+<pb n="1.303"/>
 <lb/>To do thy hest—slaves of the very dust
 <lb/>Upon thy feet. Fear Him who hath created
 <lb/>Both mind and might, bright <rs type="heavenlybody">Venus</rs> and the Sun.
@@ -6902,7 +6902,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>And sinners all unfit for rule, behold !
 <lb/>I stand before thee sorrowing. Slay thou
 <lb/>Who should be slain and bind who should be bound,
-<pb n="304"/>
+<pb n="1.304"/>
 <lb/>But as for all the guiltless of <placeName>Kabul</placeName>
 <lb/>Burn not their hearts nor turn their days to darkness.</q></p>
 <p><lb/>The paladin on hearing saw in her
@@ -6938,7 +6938,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>And if his sweetheart is as fond as he is
 <lb/>Their skins will never hold them. Prithee now
 <lb/>Let me behold the <rs type="mythologicalcreature">Dragon</rs>'s child, just once,
-<pb n="305"/>
+<pb n="1.305"/>
 <lb/>On thine own terms. The sight may weigh with me
 <lb/>If both her looks and locks commend themselves.</q>
 <lb/>She answered: <q>If the paladin will gladden
@@ -6974,7 +6974,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>Of tilth, milch cattle, carpets and apparel,
 <lb/>Then took her hand, re-swore his oath and said :—
 <lb/><q>Be happy at <placeName>Kabul</placeName>, and fear no foe,</q>
-<pb n="306"/>
+<pb n="1.306"/>
 <lb/>With favouring stars the pale Moon's face again
 <lb/>Grew bright, and she went homeward with her train.</p></div>
 <div type="textpart" subtype="section" n="23"><head>How <persName>Zal</persName> came to <persName>Minuchihr</persName> with <persName>Sam</persName>'s Letter</head>
@@ -7006,7 +7006,7 @@ o'erwhelmed with disappointment, pain, and grief,
 <lb/>And ordered all the chieftains to partake
 <lb/>The feast. The eating done, they served the wine
 <lb/>Within another throne-room, and that over
-<pb n="307"/>
+<pb n="1.307"/>
 <lb/><persName>Zal</persName> mounted on his charger with gold trappings,
 <lb/>And so departing passed the livelong night
 <lb/>With much to think and talk about. At dawn
@@ -7039,7 +7039,7 @@ where'er his charger's coat shall run with sweat
 <lb/>Then said the exalted <rs type="role">Shah</rs>: <q>Beware that ye
 <lb/>Disclose to none what ye have told to me.</q>
 <note n="1">Reading with C.</note>
-<pb n="308"/></p></div>
+<pb n="1.308"/></p></div>
 <div type="textpart" subtype="section" n="24"><head>How the Archmages questioned <persName>Zal</persName></head>
 <milestone unit="vullers" n="208"/>
 <p><lb/>The <rs type="role">Shah</rs> called <persName>Zal</persName> to prove him by hard questions.
@@ -7073,7 +7073,7 @@ where'er his charger's coat shall run with sweat
 <lb/>On this at morning, and on that at eve?
 <lb/>The bird departeth and the leaves turn pale,
 <lb/>The bird arriveth and they musk exhale.
-<pb n="309"/>
+<pb n="1.309"/>
 <milestone unit="vullers" n="209"/>
 <lb/>In all their verdure both are never seen
 <lb/>Together, but one sere, the other green.</q>
@@ -7106,7 +7106,7 @@ where'er his charger's coat shall run with sweat
 <lb/>Which like <rs type="divinity">Azargashasp</rs> go flashing by:
 <lb/>These too are periods, and in their flight
 <lb/>Pursue each other unremittingly.
-<pb n="310"/>
+<pb n="1.310"/>
 <lb/>The two that pass along are night and day,
 <lb/>The pulses of the sky are reckoned so;
 <lb/>They never catch each other as they go,
@@ -7135,7 +7135,7 @@ where'er his charger's coat shall run with sweat
 <lb/>It reckoneth each breath drawn here below
 <lb/>And both exalteth us and casteth down.
 <note n="1">Putting aside modern astronomical notions the idea seems somewhat as follows: the sky, as represented by the Signs of the Zodiac, is divided into a lighter and a darker portion or <term>limb</term>; the lighter, Spring and Summer, being represented by the Signs from Aries to Virgo; and the darker, Autumn and Winter, by those from Libra to <rs type="heavenlybody">Pisces</rs>. The <term>limbs</term> are alternately more or less in evidence, while the sun is continually journeying from one <term>limb</term> to the other. The double alternation of light and darkness is thus accounted for; that of the lighter and darker seasons of the year by the movements of the sky, and that of day and night by the movement of the sun. The former rules man's destiny, the latter chiefly influences his daily life.</note>
-<pb n="311"/>
+<pb n="1.311"/>
 <lb/>A storm ariseth, earth's foundations quake,
 <lb/>Extorting from the world a bitter cry ;
 <lb/>We leave our toils behind us in the brake
@@ -7169,7 +7169,7 @@ where'er his charger's coat shall run with sweat
 <lb/>The company both wondered and rejoiced,
 <lb/>While <persName>Minuchihr</persName>, glad-hearted, cried: <q>Well done!</q>
 <lb/>He had forthwith a banquet-hall prepared,
-<pb n="312"/>
+<pb n="1.312"/>
 <lb/>As 'twere the moon at full, and there they quaffed
 <lb/>Wine till the night fell, and the revellers' heads
 <lb/>Became bemused. Then at the portal rose
@@ -7206,7 +7206,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And exercised with double-headed darts.
 <lb/><persName>Zal</persName> bade his <rs type="ethnic">Turkman</rs> slave bring shields of hide,
 <lb/>Drew himself up and urged his steed along,
-<pb n="313"/>
+<pb n="1.313"/>
 <lb/>Then dropped his bow, took his own javelin
 <lb/>And made new sport. He struck and pierced three shields
 <lb/>And flung them to one side in high disdain.
@@ -7243,7 +7243,7 @@ where'er his charger's coat shall run with sweat
 <lb/>Of gold, with armlets, torques, and golden girdles,
 <lb/>Rich robes, slaves, steeds, and other things of worth,
 <lb/>And gave the whole to <persName>Zal</persName>, who kissed the earth.
-<pb n="314"/></p></div>
+<pb n="1.314"/></p></div>
 <div type="textpart" subtype="section" n="27"><head>Minitichthr's Answer to <persName>Sam</persName>'s Letter</head>
 <milestone unit="vullers" n="214"/>
 <p><lb/>The <rs type="role">Shah</rs> then wrote a very gracious letter
@@ -7277,7 +7277,7 @@ where'er his charger's coat shall run with sweat
 <lb/>That through his joy the dead returned to life
 <lb/>And agéd heads grew young. They summoned minstrels,
 <lb/>And one had said that all poured out their souls.
-<pb n="315"/>
+<pb n="1.315"/>
 <lb/>With smiling lips and joyful heart he called
 <lb/>High-born <persName>Sindukht</persName> and beaming said to her :—
 <lb/><q>My consort, whose advice is prosperous!
@@ -7314,7 +7314,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And very splendid. She arrayed <persName>Rudaba</persName>
 <lb/>Like Paradise, wrote on her many a charm
 <lb/>And seated her, allowing none to enter
-<pb n="316"/>
+<pb n="1.316"/>
 <lb/>Within that chamber arabesqued with gold.<ref n="1"/>
 <lb/><placeName>Kabulistan</placeName> was dight in festal trim,
 <lb/>All colour, scent, and wealth. They housed the backs
@@ -7346,7 +7346,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And next that we will go and be her guests
 <lb/>To heal all sores. Now she hath sent to say :—
 <note n="1">Where she had once entertained <persName>Zal</persName>.</note>
-<pb n="317"/>
+<pb n="1.317"/>
 <lb/><q>All things are ready, scented and adorned.</q>
 <lb/>What answer shall we send high-born <persName>Mihrab</persName> ?</q></p>
 <p><lb/>Then <persName>Zal</persName> blushed ruby-red from head to foot
@@ -7383,7 +7383,7 @@ where'er his charger's coat shall run with sweat
 <lb/>He riounted his fleet steed and set a crown
 <lb/>Of gold and jewels on the head of <persName>Zal</persName>.
 <lb/>Conversing of the past they reached <placeName>Kabul</placeName>.
-<pb n="318"/>
+<pb n="1.318"/>
 <lb/>What with the clang of <rs type="ethnic">Indian</rs> bells, the sounds
 <lb/>Of lyre and harp and pipe, one would have said :—
 <lb/><q>The roofs and doors make music, Times are changed !</q>
@@ -7419,7 +7419,7 @@ where'er his charger's coat shall run with sweat
 <lb/>The treasures, and invoked the name of God.
 <lb/>Then hall and city revelled for a week,
 <lb/>The palace was a Paradise in raptures,
-<pb n="319"/></p>
+<pb n="1.319"/></p>
 <milestone unit="vullers" n="220"/>
 <p><lb/>And neither <persName>Zal</persName> nor coral-lipped <persName>Rudaba</persName>
 <lb/>Slept for a sennight either day or night ;
@@ -7453,7 +7453,7 @@ where'er his charger's coat shall run with sweat
 <lb/>A happy husband holding festivals,
 <lb/>And when <persName>Rudaba</persName> sat beside her spouse
 <lb/>He placed a crown of gold upon her brows.
-<pb n="320"/></p></div>
+<pb n="1.320"/></p></div>
 <div type="textpart" subtype="section" n="29"><head>The Story of the Birth of <persName>Rustam</persName></head>
 <p><lb/>Ere long the noble Cypress was in bearing,
 <lb/>Delightsome Spring grew sere, her heart was sad,
@@ -7487,7 +7487,7 @@ where'er his charger's coat shall run with sweat
 <lb/>She thus addressed him: <q>Wherefore is this grief,
 <lb/>This moisture in the mighty Lion's eye ?
 <note n="1">Cf. pp. 235, 246.</note>
-<pb n="321"/>
+<pb n="1.321"/>
 <lb/>From this moon-faced and silver-bosomed Cypress
 <lb/>Will come a noble babe. The mighty lion
 <lb/>Will kiss the dust upon his feet. No cloud
@@ -7524,7 +7524,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And did, O marvel! as the bird had said,
 <lb/>While every one looked on amazedly
 <lb/>With wounded spirit and with bloodshot eyes.
-<pb n="322"/>
+<pb n="1.322"/>
 <lb/><persName>Sindukht</persName> wept tears of blood in torrents, asking :—
 <lb/><q>How shall the infant come forth through the side?</q></p>
 <p><lb/>There came an archimage, one deft of hand,
@@ -7561,7 +7561,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And bridle in the other. They set the puppet
 <lb/>Upon a chestnut horse with great attendance.
 <note n="1"> The word in the <rs type="ethnic">Persian</rs> may also mean <q>Je suis délivrée</q> (Mohl), or <gloss>I bear fruit</gloss>, lit., <gloss>There is fruit to me</gloss>.</note>
-<pb n="323"/>
+<pb n="1.323"/>
 <lb/>This done they sent on first a cameleer
 <lb/>Apace, showered drachms on those who were in charge,
 <lb/>And took the puppet mace in hand to <persName>Sam</persName>.</p>
@@ -7597,7 +7597,7 @@ where'er his charger's coat shall run with sweat
 <lb/>May hurt him. I have prayed by day and night
 <lb/>In secret to Almighty God to show me
 <lb/>A son born of thy seed and of my type.
-<pb n="324"/>
+<pb n="1.324"/>
 <lb/>Now that the backs of both of us are straightened
 <lb/>We only need to pray that we may live.</q>
 <lb/>Came like a rushing wind the messenger
@@ -7629,7 +7629,7 @@ where'er his charger's coat shall run with sweat
 <lb/>To welcome <persName>Sam</persName>. When <persName>Zal</persName> had dropped the ball
 <lb/>Shouts of departure rose on every side.
 <note n="1"><persName>Firdausi</persName> does not specify the measure. Mohl translates <gloss>huit palmes</gloss>.</note>
-<pb n="325"/>
+<pb n="1.325"/>
 <lb/>The mass of men stretched out from hill to hill,
 <lb/>With buckler after buckler red and yellow.
 <lb/>Then trumpeted the elephant and neighed
@@ -7666,7 +7666,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And revelled merrily on golden seats,
 <lb/>Thus resting for a month with harp and song.
 <lb/>Upon the throne there sat victorious <persName>Sam</persName>,
-<pb n="326"/>
+<pb n="1.326"/>
 <lb/>An eagle's feather drooping from his crown,
 <lb/>Flanked by his son and <persName>Rustam</persName> mace in hand,
 <lb/>On whom the grandsire gazed amazedly,
@@ -7703,7 +7703,7 @@ where'er his charger's coat shall run with sweat
 <lb/><q>My son! be just and loyal to the <rs type="role">Shahs</rs>,
 <lb/>Preferring wisdom over wealth, refraining
 <lb/>Thy hands from evil all thy years, and seeking
-<pb n="327"/>
+<pb n="1.327"/>
 <lb/>God's way from day to day. Know that in public
 <lb/>And private also 'tis the one thing needful
 <lb/>Because the world will not abide with any.
@@ -7736,7 +7736,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And other gifts, and all went richer home,
 <lb/><persName>Zal</persName>, as his wont was, sought the bower, while <persName>Rustam</persName>
 <lb/>Reeled to his chamber, laid him down and slept.
-<pb n="328"/>
+<pb n="1.328"/>
 <lb/>Shouts rose outside his door: <q>The chief's white elephant
 <lb/>Hath broken loose, and folk are in its danger!</q></p>
 <p><lb/>He heard, and urged by hardihood ran forth,
@@ -7772,7 +7772,7 @@ where'er his charger's coat shall run with sweat
 <lb/><persName>Zal</persName> heard of <persName>Rustam</persName>'s deeds, how he had knocked
 <lb/>The dust out of the roaring elephant,
 <lb/>Had with a single mace-blow broken its neck
-<pb n="329"/>
+<pb n="1.329"/>
 <lb/>And cast its body to the ground. He cried :—
 <lb/><q>Woe for that mighty elephant, which used
 <lb/>To bellow like the dark blue sea! How often
@@ -7810,7 +7810,7 @@ where'er his charger's coat shall run with sweat
 <lb/>He marched against that hold with troops that covered
 <lb/>The waste and desert, and for months and years
 <lb/>Beleaguered it in vain. None issued forth
-<pb n="330"/>
+<pb n="1.330"/>
 <lb/>And none went in, but though the gate was shut
 <lb/>So long the foe lacked not a stalk of hay,
 <lb/>And <persName>Sam</persName> forewent his vengeance in despair.
@@ -7843,7 +7843,7 @@ where'er his charger's coat shall run with sweat
 <lb/><q>A caravan,</q> be said, <q>with many drivers
 <lb/>Hath come, and if my lord doth ask their business,
 <lb/>To me it seemeth that they carry salt.</q></p>
-<pb n="331"/>
+<pb n="1.331"/>
 <p><lb/>The chief sent one in haste to learn their loading,
 <lb/>Who went like dust to <persName>Rustam</persName> and inquired :—
 <lb/><q>O master of the caravan! inform me
@@ -7879,7 +7879,7 @@ where'er his charger's coat shall run with sweat
 <lb/>Night gloomed, blades flashed, and earth was like the ruby.
 <lb/>What with the mellay and the waves of blood
 <lb/>One would have said: <q>A sunset sky hath fallen.</q>
-<pb n="332"/>
+<pb n="1.332"/>
 <lb/>The peerless <persName>Rustam</persName> with his lasso, mace,
 <lb/>And sword destroyed the gallant foe; and when
 <lb/>The sun unveiled itself, and held the world
@@ -7912,7 +7912,7 @@ where'er his charger's coat shall run with sweat
 <p><lb/><q>I came to <placeName>Mount Sipand</placeName>
 <lb/>By thy behest, and what a mount was there!
 <lb/>'Twas like the sky. When I had reached its foot
-<pb n="333"/>
+<pb n="1.333"/>
 <lb/>There came a greeting from the castellan,
 <lb/>And though I did according to his bidding
 <lb/>All things turned out as I would have thein be.
@@ -7949,7 +7949,7 @@ where'er his charger's coat shall run with sweat
 <lb/>And figured pieces of brocade of <placeName>Chin</placeName>,
 <lb/>And sent them to his sire. The caravan
 <lb/>Set forth while he set fire to <placeName>Mount Sipand</placeName>,
-<pb n="334"/>
+<pb n="1.334"/>
 <lb/>Whose reek rose skyward, then he turned away
 <lb/>Light-hearted and went home lke rushing wind.
 <lb/>When <persName>Zal</persName> had heard: <q>The world-illuming chieftain
@@ -7983,7 +7983,7 @@ where'er his charger's coat shall run with sweat
 <lb/>In times of enterprise.</q></p>
 <p><lb/>He sealed the letter
 <lb/>And gave it to the messenger, who went
-<pb n="335"/>
+<pb n="1.335"/>
 <lb/>To <persName>Zal</persName> therewith clad in his robe of honour.
 <lb/>The paladin rejoiced at what that youth
 <lb/>Of tender years had done, and all the world
@@ -8016,7 +8016,7 @@ where'er his charger's coat shall run with sweat
 <lb/>Due vengeance for my grandsire—great <persName>Iraj</persName>—
 <note n="1">Reading with C.</note>
 <milestone unit="vullers" n="242"/>
-<pb n="336"/>
+<pb n="1.336"/>
 <lb/>I cleansed the world of its iniquities
 <lb/>And built me many a city, many a fortress ;
 <lb/>Yet thou mightst say that I had never seen
@@ -8044,9 +8044,9 @@ where'er his charger's coat shall run with sweat
 <lb/>Whose tale is left as his memorial.</p>
 </div>
 </div>
-<pb n="337"/>
+<pb n="1.337"/>
 <div type="textpart"  subtype="reign" n="8"><head>VIII. NAUDAR: HE REIGNED FOR SEVEN YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/><persName>Naudar</persName> rules oppressively and the people revolt, but <persName>Sam</persName> succeeds in restoring order. <persName>Pashang</persName>, the king of <placeName>Turan</placeName>, however,
 takes the opportunity of the death of <persName>Minuchihr</persName> to send an
 army to invade Tran under the command of his son <persName>Afrasiyab</persName>.
@@ -8072,7 +8072,7 @@ plays such an important part in this and future reigns, and
 corresponds on the <rs type="ethnic">Turanian</rs> side to the family of <persName>Sam</persName> on the
 <rs type="ethnic">Iranian</rs>.<ref n="1"/> The most important personality is that of Afrdsiygb—
 <note n="1">We learn from the <rs type="mythologicalcreature">Bundahish</rs> that <persName>Wisa</persName> and <persName>Pashang</persName>, <persName>Afrasiyab</persName>'s father, were brothers. WPT, i. 135.</note>
-<pb n="338"/>
+<pb n="1.338"/>
 the protagonist of the <rs type="ethnic">Turanian</rs> race, and the arch-enemy of <placeName>Iran</placeName>,
 through the reigns of successive <rs type="role">Shahs</rs>. He is the second in
 the trinity of evil spirits which, according to <rs type="religion">Zoroastrian</rs> belief,
@@ -8115,7 +8115,7 @@ the <placeName>Caspian</placeName>.
 <note n="6">DZA, ti. 114. </note>
 <note n="7">WPT, i. 135.</note>
 </p>
-<pb n="339"/>
+<pb n="1.339"/>
 </div>
 <div type="textpart" subtype="section" n="1"><head>How <persName>Naudar</persName> succeeded to the Throne</head>
 <p><lb/><milestone unit="vullers" n="243"/>
@@ -8149,7 +8149,7 @@ the <placeName>Caspian</placeName>.
 <lb/>May that redoubted glorious chief be sound
 <lb/>In heart and mind, and sorrowless in soul.
 <lb/>The paladin of earth should know, I ween,
-<pb n="340"/>
+<pb n="1.340"/>
 <lb/>All matters close or open. <persName>Minuchihr</persName>,
 <lb/>Before he closed his eyes, spake much of <persName>Sam</persName>,
 <lb/>And I too have a warm supporter in him,
@@ -8185,7 +8185,7 @@ the <placeName>Caspian</placeName>.
 <lb/>If but a daughter of <rs type="role">Shah</rs> <persName>Minuchihr</persName>
 <lb/>Sat crowned upon the golden throne the dust
 <lb/>Would be my couch whence I should joy to gaze
-<pb n="341"/>
+<pb n="1.341"/>
 <lb/>Upon her. If <persName>Naudar</persName> hath left the way
 <lb/>Trod by his sire it hath not been for long,
 <milestone unit="vullers" n="246"/>
@@ -8222,7 +8222,7 @@ the <placeName>Caspian</placeName>.
 <lb/>And <persName>Minuchihr</persName>, the lustre of the throne,
 <lb/>And how they ruled earth justly and gave alms
 <lb/>And would not countenance iniquity.
-<pb n="342"/>
+<pb n="1.342"/>
 <lb/><persName>Sam</persName> brought the monarch's wayward heart to reason,
 <lb/>Warmed the chiefs' hearts toward him, rendering
 <lb/>All justice and injustice at his hands
@@ -8255,7 +8255,7 @@ the <placeName>Caspian</placeName>.
 <lb/>Knowhow the <rs type="ethnic">Iranians</rs> have entreated us,
 <lb/>And always girded up their loins for ill.
 <lb/>Now is the time for action and revenge,
-<pb n="343"/>
+<pb n="1.343"/>
 <lb/>The time to wash the blood-tears from our cheeks.
 <lb/>What say ye now? What answer do ye make?
 <lb/>Advise me well.</q></p>
@@ -8293,7 +8293,7 @@ the <placeName>Caspian</placeName>.
 <lb/>The highest of the <rs type="ethnic">Turkman</rs> race in valour!
 <milestone unit="vullers" n="250"/>
 <lb/>Although <placeName>Iran</placeName> hath now no <persName>Minuchihr</persName>,
-<pb n="344"/>
+<pb n="1.344"/>
 <lb/><persName>Sam</persName>, son of <persName>Nariman</persName>, is general ;
 <lb/>There are besides <persName>Kishwad</persName>, the brave <persName>Karan</persName>,
 <lb/>And other men of name among the folk.
@@ -8329,7 +8329,7 @@ the <placeName>Caspian</placeName>.
 <lb/>Was <persName>Minuchihr</persName>, and he adorned the throne.
 <milestone unit="vullers" n="251"/>
 <lb/>Why fear the Irinians now that he is gone?
-<pb n="345"/>
+<pb n="1.345"/>
 <lb/>They are not worth a pinch of dust. I fear not
 <lb/><persName>Naudar</persName>, who is but young and raw. <persName>Karan</persName>
 <lb/>Will be your foe, and one more warrior—
@@ -8363,7 +8363,7 @@ the <placeName>Caspian</placeName>.
 <p><lb/><persName>Afrasiyab</persName>
 <lb/>Was pleased, perceived that fortune was awake,
 <lb/>Marched forth to <placeName>Dahistan</placeName>, and pitched against it.
-<pb n="346"/>
+<pb n="1.346"/>
 <lb/>Who knoweth how to reckon up his host ?
 <lb/>Go count a thousand. o'er four hundred times,
 <lb/>Thou wouldst have said: <q>The sands and uplands seethe,
@@ -8393,7 +8393,7 @@ the <placeName>Caspian</placeName>.
 <lb/>And viewed the camp-enclosure of <persName>Naudar</persName>,
 <lb/>Returned, reported to his chief, and. said :—
 <lb/><q>How long must all our prowess be concealed ?
-<pb n="347"/>
+<pb n="1.347"/>
 <lb/>Now if the king permit I will engage
 <lb/>Our foemen like a lion. They shall see
 <lb/>My skill and know no hero but myself.</q></p>
@@ -8429,7 +8429,7 @@ the <placeName>Caspian</placeName>.
 <lb/><q>The rolling sky hath given me enough.
 <lb/>Know, brother! that the body is for death ;
 <lb/>My head and neck were meant to wear a helm.
-<pb n="348"/>
+<pb n="1.348"/>
 <lb/>My heart hath been in anguish from the time
 <lb/>Of blesséd <persName>Minuchihr</persName> until this day.
 <lb/>No mortal passeth into heaven alive,
@@ -8465,7 +8465,7 @@ the <placeName>Caspian</placeName>.
 <lb/>Unprecedented as from king to liege.</p>
 <p><lb/><persName>Karan</persName> the battle-lover, when <persName>Kubad</persName>
 <lb/>Was slain, drew out his army and attacked.
-<pb n="349"/>
+<pb n="1.349"/>
 <lb/>The two hosts seemed as 'twere two seas of <placeName>Chin</placeName>,
 <lb/>Thou wouldst have said: <q>Earth shaketh.</q></p>
 <p><lb/>Then <persName>Karan</persName>
@@ -8503,7 +8503,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>That I might tread the earth to avenge <persName>Iraj</persName>,
 <milestone unit="vullers" n="257"/>
 <lb/>And hitherto I have not loosed my girdle,
-<pb n="350"/>
+<pb n="1.350"/>
 <lb/>Nor laid aside the sword of steel. My brother—
 <lb/>That sage—is dead. I too shall die in harness ;
 <lb/>But be of cheer, <persName>Afrasiyab</persName> to-day
@@ -8536,7 +8536,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>How could kings battle thus ?</p>
 <p><lb/>They fought till night
 <lb/>And then Afrdasiyab was conqueror,
-<pb n="351"/>
+<pb n="1.351"/>
 <lb/>For more were stricken on the <rs type="ethnic">Iranian</rs> side
 <lb/>And still the foemen's battle was unbroken.
 <lb/>The <rs type="ethnic">Iranians</rs> turned their faces helplessly,
@@ -8574,7 +8574,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>The royal pair proceeded to depart,
 <lb/>But he remained and with a heavy heart.
 </p></div>
-<pb n="352"/>
+<pb n="1.352"/>
 <div type="textpart" subtype="section" n="6"><head>flow <persName>Naudar</persName> fought with <persName>Afrasiyab</persName> the third Time</head>
 <p><lb/>The host reposed two days, but when the sun
 <lb/>Rose on the third the <rs type="role">Shah</rs> was forced to fight.
@@ -8606,7 +8606,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>The <rs type="ethnic">Iranians</rs>' fortune turned away its head,
 <lb/>And many another chieftain of the host
 <lb/>Was killed or wounded on the battlefield.
-<pb n="353"/>
+<pb n="1.353"/>
 <lb/>Now when the monarch and <persName>Karan</persName> perceived
 <lb/>The stars averse, they fled before the foe
 <lb/>To <placeName>Dahistan</placeName>, and there maintained themselves,
@@ -8643,7 +8643,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>The women in good time, such is their speed,
 <lb/>And take the needful steps.</q></p>
 <p><lb/>The mighty men
-<pb n="354"/>
+<pb n="1.354"/>
 <lb/>Went to the sleeping-chamber of the <rs type="role">Shah</rs>
 <milestone unit="vullers" n="262"/>
 <lb/>Where presently they sat and called for wine
@@ -8681,7 +8681,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>But closed at once, invoking God for succour,
 <lb/>And pierced the <rs type="ethnic">Turkman</rs>'s girdle with a javelin
 <note n="1">See introductory note to the previous reign.</note>
-<pb n="355"/>
+<pb n="1.355"/>
 <lb/>Through mail and buckle. From his charger's back
 <lb/><persName>Barman</persName> fell headlong, the bright orb of day
 <lb/>Turned dark to him, his army's heart was broken,
@@ -8711,7 +8711,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>At times a kernel and at times a shell ;
 <lb/>It is a conjurer that knoweth well
 <lb/>The sleights of every form of jugglery.
-<pb n="356"/>
+<pb n="1.356"/>
 <lb/>Although thy head may touch the clouds, it must
 <lb/>Have in the end its place amid the dust.
 <lb/><persName>Afrasiyab</persName> gave orders: <q>Search,</q> he said,
@@ -8744,7 +8744,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/><q>His heart is rent by anguish,</q> while his eyes
 <lb/>Wept scalding tears. He sped to catch <persName>Karan</persName>.
 <note n="1">Reading with P.</note>
-<pb n="357"/>
+<pb n="1.357"/>
 <lb/>Thus like a torrent <persName>Wisa</persName> rushed along
 <lb/>And shed calamity throughout the world.
 <lb/><q>He marcheth on in triumph gloriously,</q>
@@ -8781,9 +8781,9 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Appeared before <persName>Afrasiyab</persName> in pain
 <lb/>And weeping for his son that had been slain.
 <note n="1">I.e., I court danger.</note>
-<pb n="358"/></p></div>
-<div type="textpart" subtype="section" n="9"><head>How Shandsds and Khazarwdn invaded Zdbulistan</head>
-<p><lb/>The expedition from Irmdn went forth
+<pb n="1.358"/></p></div>
+<div type="textpart" subtype="section" n="9"><head>How <persName>Shamasas</persName> and <persName>Khazarwan</persName> invaded <placeName>Zabulistan</placeName></head>
+<p><lb/>The expedition from <placeName>Irman</placeName> went forth
 <lb/>Against <placeName>Zabul</placeName>, and <persName>Shamasas</persName> advanced
 <lb/>Toward <placeName>Sistan</placeName> in haste, while <persName>Khazarwan</persName>,
 <lb/>With thirty thousand famous men—good swordsmen—
@@ -8814,7 +8814,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Before his throne, resign to him my realm,
 <lb/>And joy in him. I will not vex the paladin,
 <lb/>But send him every kind of hoarded wealth.</q>
-<pb n="359"/>
+<pb n="1.359"/>
 <lb/>Thus one hand held back <persName>Shamasas</persName> and one
 <lb/>Was stretched for help. He sent a messenger
 <lb/>And said: <q>Fly! Ply thy feathers and thy pinions,
@@ -8846,7 +8846,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Then drew his bow amain and shot three arrows
 <lb/>Of poplar, bough-like, arching through the sky
 <lb/>In three directions, and a clamour followed.
-<pb n="360"/>
+<pb n="1.360"/>
 <lb/>When it was day the soldiers gathered round
 <lb/>And marked the arrows, saying: <q>They are <persName>Zal</persName>'s!
 <lb/>None other shooteth with such shafts as these.</q></p>
@@ -8882,7 +8882,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>His foe, and brandishing the ox-like mace
 <lb/>Smote Khazarwin upon the head and made
 <lb/>The ground as 'twere a leopard's back with blood ;
-<pb n="361"/>
+<pb n="1.361"/>
 <lb/>Then flung him down, trod on him, passed along
 <lb/>And led the army forward to the plain,
 <lb/>Inviting Shamasés to come and fight,
@@ -8918,7 +8918,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Thus host encountered host. The paladin
 <lb/>Said to his troops: <q>Ye men of noble name
 <lb/>And ardent soul! go battle with your spears,
-<pb n="362"/>
+<pb n="1.362"/>
 <lb/>And may ye rob the foe of life.</q></p>
 <p><lb/>With cries
 <lb/>Of maddened elephants they seized their spears,
@@ -8952,7 +8952,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Reminded him of their ancestral feud,
 <lb/>Began with <persName>Salm</persName> and <persName>Tur</persName>, and washed away
 <lb/>From heart and eyes the reverence due to kings.
-<pb n="363"/>
+<pb n="1.363"/>
 <lb/><q>Thou hast deserved whatever ill may come,</q>
 <lb/>He said, called fiercely for a scimitar,
 <lb/>Smote <rs type="role">Shah</rs> <persName>Naudar</persName> upon the neck and flung
@@ -8989,7 +8989,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Bestowed a liberal largess of dinars,
 <lb/>And played as monarch of <placeName>Iran</placeName> his part
 <lb/>With thoughts of war and vengeance in his heart.
-<pb n="364"/></p></div>
+<pb n="1.364"/></p></div>
 <div type="textpart" subtype="section" n="12"><head>How <persName>Zal</persName> had Tidings of the Death of <persName>Naudar</persName></head>
 <p><lb/>This news reached <persName>Gustaham</persName> and <persName>Tus</persName>: <q>The <rs type="ethnic">Grace</rs>
 <lb/>Of kingship is obscured. They have struck off
@@ -9022,7 +9022,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>So arm ye and revive the ancient feud.
 <lb/>The heaven is surely with us in our grief;
 <lb/>Its eyes rain tears of blood for very ruth.
-<pb n="365"/>
+<pb n="1.365"/>
 <lb/>Do ye too fill your eyes with tears like those
 <lb/>And strip your bodies of their dainty dress,
 <lb/>For in revenge for kings it is not well
@@ -9059,7 +9059,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/><persName>Kharrad</persName>, and that host-shatterer <persName>Kishwad</persName>,
 <lb/>Are men of might with hands that reach afar
 <lb/>And will not keep their clutches off <placeName>Iran</placeName>,
-<pb n="366"/>
+<pb n="1.366"/>
 <lb/>Now when these warriors wheel about us here
 <lb/>And brandish their sharp lances in his sight
 <lb/>The great <persName>Afrasiyab</persName> will be enraged,
@@ -9096,7 +9096,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>Pards of the fray and winners of renown!
 <lb/>Who is the warrior of princely heart,
 <lb/>All black with courage, who will raise his neck
-<pb n="367"/>
+<pb n="1.367"/>
 <lb/>To touch the sun by undertaking this ?</q></p>
 <p><lb/><persName>Kishwad</persName> accepting struck his breast and said :—
 <lb/><q>My hand is ready for an act so just.</q></p>
@@ -9129,7 +9129,7 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <p><lb/>When <persName>Ighriras</persName> went from <placeName>Amul</placeName> to <placeName>Rai</placeName>
 <lb/>The king asked: <q>Wherefore hast thou acted thus ?
 <lb/>Why hast thou mingled colocynth with honey ?
-<pb n="368"/>
+<pb n="1.368"/>
 <lb/>Did I not bid thee: <q>Slay these evil men;
 <lb/>It will be folly to imprison them ?</q>
 <lb/>The warrior's head is not concerned with statecraft,
@@ -9167,9 +9167,9 @@ where'er <persName>Karan</persName> urged on his steed the steel
 <lb/>And horse and foot were weary of the fray.</p>
 </div>
 </div>
-<pb n="369"/>
+<pb n="1.369"/>
 <div type="textpart"  subtype="reign" n="9"><head>IX. ZAV, THE SON OF TAHMASP: HE REIGNED FIVE YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p><lb/>After the execution of <persName>Naudar</persName> the throne remains for a while
 vacant, his sons <persName>Tus</persName> and <persName>Gustaham</persName> being considered unworthy
 to succeed. <persName>Zav</persName>, by the advice of <persName>Zal</persName>, is made <rs type="role">Shah</rs>. The war
@@ -9197,7 +9197,7 @@ White Castle.
 him; it induces him to oppose the accession of Kai Khusrau,
 <note n="1">WPT, i. 136. </note>
 <note n="2">DZA, ii. 221.</note>
-<pb n="370"/>
+<pb n="1.370"/>
 and subsequently to make the unprovoked attack which results
 in the death of Farud, that <rs type="role">Shah</rs>'s brother.
 In the terms of the treaty of peace between <persName>Zav</persName> and <persName>Afrasiyab</persName>,
@@ -9233,7 +9233,7 @@ Drought and famine are frequent phenomena in the table-land of <placeName>Iran</
 <lb/>The mighty praised him, showering offerings ;
 <lb/><persName>Zal</persName> too did homage. Five years passed away
 <note n="1">See Introd. p. 71.</note>
-<pb n="371"/>
+<pb n="1.371"/>
 <lb/>While <persName>Zav</persName>, a wise old man, sat on the throne
 <lb/>And judged and lavished till the world grew young.
 <lb/>He kept his soldiers back from evil ways,
@@ -9269,7 +9269,7 @@ Drought and famine are frequent phenomena in the table-land of <placeName>Iran</
 <lb/>And men received them both with open arms.
 <lb/>The roar of thunder filled the mountain-tops
 <note n="1">Probably referring to <persName>Faridun</persName>'s settlement.</note>
-<pb n="372"/>
+<pb n="1.372"/>
 <lb/>And earth recovered colour, scent, and beauty ;
 <lb/>It was as 'twere a youthful bride, arrayed
 <lb/>In fountains, pleasances, and rivulets,
@@ -9287,9 +9287,9 @@ Drought and famine are frequent phenomena in the table-land of <placeName>Iran</
 <lb/>The franians' fortune halted and the day
 <lb/>Of <persName>Zav</persName>, the righteous worldlord, passed away.</p>
 </div></div>
-<pb n="373"/>
+<pb n="1.373"/>
 <div type="textpart"  subtype="reign" n="10"><head>X. GARSHASP: HIS REIGN WAS NINE YEARS</head>
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>On the death of <persName>Zav</persName> his son <persName>Garshasp</persName> succeeds to the throne,
 and <persName>Afrasiyab</persName> seizes the opportunity to renew the war. Garshdasp
 himself dies, and the <rs type="ethnic">Iranians</rs> being hard pressed appeal to <persName>Zal</persName>,
@@ -9315,7 +9315,7 @@ The reader will note <persName>Rustam</persName>'s reference to bishops acting a
 castellans<ref n="2"/> In the wars between the Eastern Roman Empire and
 <note n="1">WPT, i. </note>
 <note n="2">p. 378.</note>
-<pb n="374"/>
+<pb n="1.374"/>
 the Sasanians, bishops and other ecclesiastics often took a very
 important part in the defence of besieged cities. Thus 8S. James,
 the Bishop of Edessa, took a leading part in several successful
@@ -9353,7 +9353,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>And flee before the nursling of a fowl.
 <note n="1">RSM, 155-164.</note>
 <note n="2"> See introductory note to <persName>Jamshid</persName></note>
-<pb n="375"/>
+<pb n="1.375"/>
 <lb/>I sent thee forth to battle with the foe
 <lb/>And thou hast slain thy brother! I disown thee:
 <lb/>Thou shalt not look upon my face again.</q>
@@ -9394,7 +9394,7 @@ in the shape of a bird.<ref n="2"/>
 <milestone unit="vullers" n="284"/>
 <lb/>No rider like me hath bestridden steed,
 <lb/>None hath essayed to wield my sword and mace,
-<pb n="376"/>
+<pb n="1.376"/>
 <lb/>And horsemen showed their cruppers, not their reins,
 <lb/>When I appeared. I have fought night and day
 <lb/>And all my life have dreaded growing old.
@@ -9430,7 +9430,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/><q>O noble prince, ambitious of renown!
 <milestone unit="vullers" n="285"/>
 <lb/>Good sooth thou hast forgotten how I showed
-<pb n="377"/>
+<pb n="1.377"/>
 <lb/>My courage publicly. The paladin
 <lb/>Hath surely heard of the fierce elephant,
 <lb/>And <placeName>Mount Sipand</placeName>, and I shall lose my fame
@@ -9467,7 +9467,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>Its head shall bruise the brains of elephants,
 <lb/>My quiver when I clothe myself in mail
 <note n="1">I.e., a mace of steel.</note>
-<pb n="378"/>
+<pb n="1.378"/>
 <lb/>Shall shock the world, and all the fortresses
 <milestone unit="vullers" n="286"/>
 <lb/>That shall withstand mine iron mace's blows,
@@ -9504,7 +9504,7 @@ in the shape of a bird.<ref n="2"/>
 <div type="textpart" subtype="section" n="2"><head>How <persName>Rustam</persName> caught <rs type="horse">Rakhsh</rs></head>
 <p><lb/>When <persName>Zal</persName> had gathered all his herds of horses,
 <lb/>And many from <placeName>Kabul</placeName>, the herdsmen drove them
-<pb n="379"/>
+<pb n="1.379"/>
 <lb/>Past <persName>Rustam</persName>, calling out the royal brands.
 <lb/>Whenever <persName>Rustam</persName> caught a steed he pressed
 <lb/>Its back until its belly reached the ground.
@@ -9540,7 +9540,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>O chief of paladins! the reason why,
 <lb/>But as a prudent man forbear to fight
 <lb/>A <rs type="mythologicalcreature">Dragon</rs> such as this, for when the mare
-<pb n="380"/>
+<pb n="1.380"/>
 <lb/>Is in the fighting humour she will rend
 <lb/>The hearts of lions and the hides of pards.</q></p>
 <p><lb/>The old man's sayings opened <persName>Rustam</persName>'s eyes,
@@ -9577,7 +9577,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>With rounded buttocks, clever, and well paced.</p>
 <p><lb/>The gallant rider and his new-found steed
 <lb/>Made <persName>Zal</persName>'s heart joyful as the jocund spring.
-<pb n="381"/>
+<pb n="1.381"/>
 <lb/>He oped his treasury-door, gave out dinars,
 <lb/>Nor recked of day or morrow. When he mounted
 <lb/>His elephant and dropped a ball the sound
@@ -9609,7 +9609,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>Lack purpose, and our troops a head. When <persName>Zav</persName>
 <lb/>Was on the throne new glory ever came,
 <lb/>And now we need a <rs type="role">Shah</rs> of royal seed
-<pb n="382"/>
+<pb n="1.382"/>
 <lb/>To gird him there. An archimage hath told me
 <lb/>Of valiant <persName>Kai Kubad</persName> of royal stature,
 <lb/>A future <rs type="role">Shah</rs> of <persName>Faridun</persName>'s own line
@@ -9641,7 +9641,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>He sorrowed at their case, called one Kulun,
 <lb/>A gallant <rs type="ethnic">Turkman</rs> warrior full of craft,
 <lb/>And said to him: <q>Choose horsemen from the host,
-<pb n="383"/>
+<pb n="1.383"/>
 <lb/>Go thou too to the palace of the king,
 <lb/>Be careful, prudent, and courageous,
 <lb/>And specially keep watch with diligence ;
@@ -9679,7 +9679,7 @@ in the shape of a bird.<ref n="2"/>
 <milestone unit="vullers" n="293"/>
 <lb/>Be pleased to say of whom thou art in quest,
 <lb/>For we who revel here are cavaliers
-<pb n="384"/>
+<pb n="1.384"/>
 <lb/>From that blest land, and we will be thy guides
 <lb/>And make friends on the way.</q></p>
 <p><lb/>He thus replied :—
@@ -9716,7 +9716,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>Of gold to do obeisance, and thus spake :—
 <lb/><q>O ruler of the rulers of the world,
 <lb/>The shelter of the brave and stay of chiefs!
-<pb n="385"/>
+<pb n="1.385"/>
 <lb/>Now let <placeName>Iran</placeName>'s throne wait upon thy will,
 <lb/>Great elephants be taken in thy toils.
 <lb/>Thy right seat is the throne of king of kings;
@@ -9754,7 +9754,7 @@ in the shape of a bird.<ref n="2"/>
 <lb/>And journey to <placeName>Iran</placeName> and to the chiefs.</q></p>
 <milestone unit="vullers" n="296"/>
 <p><lb/>Then <persName>Kai Kubad</persName> rose swift as fire and mounted
-<pb n="386"/>
+<pb n="1.386"/>
 <lb/>His steed, while <persName>Rustam</persName> girt his loins like wind
 <lb/>And journeyed proudly with him. Night and day
 <lb/>He travelled till he reached the <rs type="ethnic">Turkman</rs> outposts,
@@ -9787,7 +9787,7 @@ in the shape of a bird.<ref n="2"/>
 <milestone unit="vullers" n="297"/>
 <lb/>To death. The <rs type="ethnic">Turkman</rs> horsemen turned to flee
 <note n="1">A similar story is told of a Lombard champion who with his great lance (contus) pierced and lifted from the saddle a Byzantine cavalier and bore him aloft wriggling on the weapon's point. (Oman, <title>A History of the Art of War in the Middle Ages</title>, p. 48.)</note>
-<pb n="387"/>
+<pb n="1.387"/>
 <lb/>And left Kulin upon the field. His troops
 <lb/>Fled in dismay from <persName>Rustam</persName>. In an instant
 <lb/>Their fortune was o'erthrown. He passed the outposts

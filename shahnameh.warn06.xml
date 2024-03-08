@@ -1,23 +1,25 @@
 <TEI>
 <text>
 <body>
-<div><head>THE KAIANIAN DYNASTY (concluded)</head>
 
-<div><head>XVIII. DARAB: HE REIGNED TWELVE YEARS</head>
+    
+<div type="textpart" subtype="dynasty" n="Kaianian-e"><head>THE KAIANIAN DYNASTY (concluded)</head>
 
-<pb n="11"/>
-
-
+<div type="textpart" subtype="reign" n="18"><head>DARAB: HE REIGNED TWELVE YEARS</head>
 
 
-<div><head>ARGUMENT</head>
+
+
+
+
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>
 Darab establishes himself upon the throne, defeats the Arabs and the Rumans, and marries the daughter of Failakiis, the Caesar. Conceiving, however, a dislike for his spouse, he sends her back to her father, at whose court her child is born, named Sikandar, for the reason given in the story, and brought up by Failakus as his own son and heir. Darab meanwhile marries again, has another son—Dara—falls into ill-health, appoints Dara his successor, and dies.
 </p>
 </div>
 <div><head>NOTE</head>
 
-<p>
+<p><pb n="6.11"/>
 At this point in the Shahnama, in as much as this and the two following reigns deal almost entirely with the subject of Alexander the Great, who is known to Orientals under the name of Iskandar or Sikandar, there is an important change in the provenance and character of the subject-matter. We have had an instance already in which it seemed probable that recourse was being had indirectly to Greek writers,<ref n="1"/> but in the present case the debt to them is indisputable. The basis of the whole account is Greek, and so in a great measure is the superstructure, but the latter to some extent has been pulled down and rebuilt, modified in detail, and added to, by Egyptian, Arabic, and Persian hands. As a general introduction to the three following reigns, therefore, it will be well to set before the reader in outline such facts as are necessary for the proper understanding of the accounts given in the reigns in question.
 </p><p>
 Alexander the Great, in his expedition to the East, was accompanied by a literary and scientific staff, in order that the results
@@ -26,7 +28,7 @@ Alexander the Great, in his expedition to the East, was accompanied by a literar
 
 
 
-<pb n="12"/> achieved might be handed down to posterity in a way worthy of so great an occasion. Thus Eumenes kept the royal diary,<ref n="1"/> Beton and Diognetus recorded the distances traversed,<ref n="2"/> Aristobulus was interested in matters geographical, ethnological, and botanical,<ref n="3"/> while Callisthenes and others drew up general histories. Some of Alexander’s commanders too, such as Ptolemy, son of Lagus, who became King of Egypt, Nearchus, the admiral, and Onesicritus, the pilot, of Alexander’s fleet, also left accounts, as did others who were contemporaries but took no part in the expedition. The result was a large assortment of kindred works, not one of which is extant in its original form, though later writers have preserved a good deal of the substance, and in some cases fragments, of the originals. Thus Arrian, our best authority on the whole subject, based his Anahasis on Ptolemy and Aristobulus,<ref n="4"/> and in his Indica made much use of Nearchus.<ref n="5"/> Arrian, however, tells us that even Ptolemy and Aristobulus were not always in agreement,<ref n="6"/> and further, that though Alexander’s expedition served to explode many fables, it at the same time led to the fabrication of fresh ones.<ref n="7"/> Onesicritus, for instance, who, though only the pilot, claimed in his account to have been the admiral,<ref n="8"/> of Alexander’s fleet, heard tell of two dragons, or serpents, measuring 80 and 140 cubits in length respectively,<ref n="9"/> and speaks of whales off the coast of Baliichistan as being half a stade, i.e. over 100 yards, long, and broad in proportion.<ref n="10"/>
+<pb n="6.12"/> achieved might be handed down to posterity in a way worthy of so great an occasion. Thus Eumenes kept the royal diary,<ref n="1"/> Beton and Diognetus recorded the distances traversed,<ref n="2"/> Aristobulus was interested in matters geographical, ethnological, and botanical,<ref n="3"/> while Callisthenes and others drew up general histories. Some of Alexander’s commanders too, such as Ptolemy, son of Lagus, who became King of Egypt, Nearchus, the admiral, and Onesicritus, the pilot, of Alexander’s fleet, also left accounts, as did others who were contemporaries but took no part in the expedition. The result was a large assortment of kindred works, not one of which is extant in its original form, though later writers have preserved a good deal of the substance, and in some cases fragments, of the originals. Thus Arrian, our best authority on the whole subject, based his Anahasis on Ptolemy and Aristobulus,<ref n="4"/> and in his Indica made much use of Nearchus.<ref n="5"/> Arrian, however, tells us that even Ptolemy and Aristobulus were not always in agreement,<ref n="6"/> and further, that though Alexander’s expedition served to explode many fables, it at the same time led to the fabrication of fresh ones.<ref n="7"/> Onesicritus, for instance, who, though only the pilot, claimed in his account to have been the admiral,<ref n="8"/> of Alexander’s fleet, heard tell of two dragons, or serpents, measuring 80 and 140 cubits in length respectively,<ref n="9"/> and speaks of whales off the coast of Baliichistan as being half a stade, i.e. over 100 yards, long, and broad in proportion.<ref n="10"/>
 
 Beton relieved the prosaic details of mensuration with the account of a sylvan folk—natives of Mount Imaus—who had backward-pointing feet.<ref n="11"/> Again, the question as to whether or no the Amazons visited Alexander split the early authorities into two separate camps.<ref n="12"/> We may conclude, therefore, that the seeds of the Romance that grew up in later times round the personality of Alexander the Great were sown in his lifetime.
 
@@ -50,7 +52,7 @@ The growth thus started not merely increased in bulk by a natural process of evo
 <note n="12">Plutarch, Life of Alexander, c. 46.</note>
 
 
-<pb n="13"/>
+<pb n="6.13"/>
 
 
 Italy became part of his legend,<ref n="1"/> and he was credited later on with having visited Candace, the Ethiopian queen, at Meroe. We may assume, too, that the experiences of the rank and file of his time-expired veterans, military and naval, lost nothing in the telling. Speaking generally too, the travellers’ tales, often based on misunderstood metaphor or misinterpreted natural phenomena
@@ -67,7 +69,7 @@ The work no longer is extant in what we may call its primitive form, but this, b
 <note n="3">MA, ii. 4.</note>
 
 
-<pb n="14"/>
+<pb n="6.14"/>
 
 
 Three of them, known as A, B, and C respectively, are preserved in the National Library in Paris, and to one or other of these three the rest of the MSS. are said to conform in character.<ref n="1"/>
@@ -87,7 +89,7 @@ Appended to all the MSS. of the Syriac version, distinct from it, but, like it, 
 <note n="4">The proofs referred to above will be found set out at large in NAR, p. 11 seq. The present writer desires to take this opportunity to acknowledge generally and once for all his indebtedness not only to this work, but also to Professor Néldeke’s edition of the Kirnémak-i-Ardshir-i-Pdpakin (NK) and of Tabari’s History of the Sésdénians (NT). The first two concern the present volume of this translation only, but the last will be in constant requisition till the end. All three, and to them we must add the Iranian National Epos (NIN), are invaluable.</note>
 
 
-<pb n="15"/> extant a Syriac Christian Legend of Alexander which claims to be taken from the manuscripts in the house of the archives of the kings of Alexandria.<ref n="1"/> This Legend was composed about the years A.D. 514 or 515, and seems to have been suggested by an incursion of the Huns through the Caucasus, which took place at that time.
+<pb n="6.15"/> extant a Syriac Christian Legend of Alexander which claims to be taken from the manuscripts in the house of the archives of the kings of Alexandria.<ref n="1"/> This Legend was composed about the years A.D. 514 or 515, and seems to have been suggested by an incursion of the Huns through the Caucasus, which took place at that time.
 The author writes as one horror-stricken at the uncouth aspect and savagery of the invaders, and at the ruin caused by them.
 Shortly after its composition, it was turned into verse, with some additions by the Syriac poet, Jacob of Sarug, who died in A.D. 521.
 The legend, and the additions thus made to it, derive respectively from branches B and C of the Pseudo-Callisthenes, and their subject-matter became known to Muhammad, who made use of it in the Kurdn, where Alexander is referred to under the title of
@@ -102,7 +104,7 @@ Naturally, Zu-’l-karnain became an interesting personality to the followers of
 <note n="3">See Vol. i. pp. 59, 61, 63, and cf. pp. 224, 240.</note>
 
 
-<pb n="16"/>
+<pb n="6.16"/>
 
 
 Prophet himself? This change of view robbed such memories as still survived of Alexander’s triumph over Darius Codomanus of much of their bitterness, and it only remained to abate it altogether by legitimating the conqueror’s position. This was easily managed, for the author of the Pseudo-Callisthenes had suggested a way. Concerned for the honour of his country by birth or adoption, he had made Alexander out to be the son of the last native king of Egypt—Nectanebus II.—who had succeeded, it was said, in passing himself off to Olympias, the wife of Philip II. of Macedon, during the latter’s absence at the wars, as no less a person than Amen-Ra, the two-horned god of Egypt.
@@ -118,7 +120,7 @@ We may reduce the interval somewhat by assuming, as we may, that the metamorphos
 
 
 
-<pb n="17"/>
+<pb n="6.17"/>
 
 
 Bastan-nama made by Ibn Mukaffa. He was a Zoroastrian who became a Muhammadan late in life, thereby, as was said of him, merely exchanging one corner of hell for another, as his orthodoxy was more than suspect. He was learned both in the Pahlavi and in the Arabic, and was put to death about A.D. 760. It is not unlikely that he was responsible for the inclusion of Alexander among the legitimate Shahs. By all accounts he was just the right man in the right place for such an undertaking.
@@ -143,7 +145,7 @@ Darab, the last of the mythical Shahs, does not appear in the Zandavasta, with w
 
 
 
-<pb n="18"/>
+<pb n="6.18"/>
 
 
 </p><p>§§ 3-4. The account here given of the incidents that led up to the birth of Sikandar is a Persian substitution for the Egyptian story told in the Pseudo-Callisthenes,<ref n="1"/> and in the Syriac version.<ref n="2"/> The oft-told tale is briefly as follows. Nectanebus<ref n="3"/> was king of Egypt and a great magician. By his magic arts he had triumphed on all occasions over his enemies, At length the time came when he perceived that his spells no longer would avail to protect his country from invaders, so, disguising himself, he fled to Macedonia, where he set up as a soothsayer. His fame soon reached the ears of Olympias, the wife of Philip of Macedon, who then was absent on a campaign. She had heard a rumour that he intended to divorce her and take another spouse. Accordingly she made up her mind to consult Nectanebus, and summoned him. He came, and at once was smitten with her beauty. She sought his advice on the matter of the divorce, and he told her that the rumour was not false, but that he could help her. He then went on to inform her that she would have a son by the two-horned god of Egypt—Amen. With the aid of dreams sent by his magic arts he reconciled first her and then Philip to the situation, personated the god himself, and thus became the father of Alexander the Great, taking good care that the birth of the child should occur at the most auspicious astrological moment.
@@ -161,7 +163,7 @@ In the Ethiopic version Bucephalus is a mare.<ref n="5"/>
 <note n="5">BLEA, pp. 19, 37.</note>
 
 
-<pb n="19"/>
+<pb n="6.19"/>
 
 
 </p><p>§ 3. We have here a reference to Russia if the reading is correct. P reads <quote>Sus.</quote> The word <quote> Rus</quote> (Byzantine Ῥως) dates from the ninth century A.D., when Northmen (Scandinavians) founded the Russian Empire. It may be a corruption of rothsmen, <quote> rowers.</quote><ref n="1"/>
@@ -190,7 +192,7 @@ Sandar appears to be a shortened form of sandarus, the Arar tree, Callitris quad
 
 
 <div type="textpart" subtype="section" n="1"><head>How Darab built the City of Darabgird</head>
-<p><pb n="20"/>
+<p><pb n="6.20"/>
 <milestone unit="vullers" n="1775"/>
 Now from the Maker on earth’s king call we
 A benediction down. That Shah sun-faced,
@@ -229,7 +231,7 @@ And may my subjects’ hearts be jubilant.</q>
 <note n="2">Dara in the original, but cf. id. p. 297 and note.</note>
 
 
-<pb n="21"/>
+<pb n="6.21"/>
 </p><p>
 
 Then out of Hindustan and out of Rum,
@@ -275,7 +277,7 @@ Tis said, beyond compute. The armies met;
 The world was all in dudgeon at the troops;
 
 
-<pb n="22"/>
+<pb n="6.22"/>
 
 
 
@@ -333,7 +335,7 @@ The prince of Rum bethought him of old feuds,
 
 
 
-<pb n="23"/>
+<pb n="6.23"/>
 
 
 And levied soldiers in ’Ammtriya,<ref n="1"/>
@@ -377,7 +379,7 @@ Darab, on hearing this, convoked his lords,<ref n="2"/>
 <note n="2">Reading with P.</note>
 
 
-<pb n="24"/>
+<pb n="6.24"/>
 
 
 And told before them every circumstance.
@@ -440,7 +442,7 @@ To be two score miskals<ref n="2"/> in weight, each gem
 <note n="2">A miskdl=a dram and three sevenths.</note>
 
 
-<pb n="25"/>
+<pb n="6.25"/>
 
 
 Of highest excellence. First, Failakus
@@ -491,7 +493,7 @@ But verily her breathing was not sweet,
 And grew disgustful to the king of kings,
 
 
-<pb n="26"/>
+<pb n="6.26"/>
 
 
 
@@ -542,7 +544,7 @@ Short-shanked, and breasted like a lion. Caesar
 <note n="2">Sikandar = Iskandar.</note>
 
 
-<pb n="27"/>
+<pb n="6.27"/>
 
 
 Exulted o’er that mare because he deemed
@@ -602,7 +604,7 @@ Because this throne of kingship lasteth not,
 
 
 
-<pb n="28"/>
+<pb n="6.28"/>
 
 
 And when joy cometh it is soon recalled.
@@ -614,10 +616,10 @@ And heaved a sigh. The colour of his cheek
 Turned from pomegranate-bloom to fenugreek.
 
 </p></div></div>
-<pb n="29"/>
-<div><head>XIX. DARA, SON OF DARAB: HE REIGNED FOURTEEN YEARS</head>
+<pb n="6.29"/>
+<div type="textpart" subtype="reign" n="19"><head>DARA, SON OF DARAB: HE REIGNED FOURTEEN YEARS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 After the death of Darab, his son Dara ascends the throne and administers the realm. Meanwhile Failakus dies, and Sikandar succeeds him in Rum. Dara sends to demand tribute of Rum, and Sikandar replies by invading Iran. He visits the camp of Dara as his own ambassador, and is recognised, but escapes.
@@ -635,7 +637,7 @@ Artaxerxes Ochus, who had put Nectanebus to flight and conquered Egypt, was murd
 <note n="1">See Vol. i. p. 49.</note>
 
 
-<pb n="30"/>
+<pb n="6.30"/>
 
 
 For the tribute due from Rum see p. 24. In the Pseudo-
@@ -658,7 +660,7 @@ Having encountered and defeated Darius at Issus in the autumn of B.C.333, he pro
 <note n="7">NAR, p. 42.</note>
 
 
-<pb n="31"/>
+<pb n="6.31"/>
 
 
 Firdausi places the scene of at east two of the battles of which he speaks to the west of the Euphrates. He was drawing probably from Arabic sources of information. The three battles cannot be regarded as in any way intended for those of the Granicus, of Issus, and of Gaugamela. The number is perhaps a tribute to the importance of tlie occasion.<ref n="1"/>
@@ -691,7 +693,7 @@ With regard to the death of Darius at the hands of two of his satraps,<ref n="11
 <note n="11">MPC, ii. 20; BHA, ii. 12</note>
 
 
-<pb n="32"/> against him in the spring of nc. 330. Darius did not wait for Alexander’s arrival, but left Ekbatana, intending to take refuge with his cousin Bessus, the satrap of Bactria. Darius went, of course, by the well-known route that connects western with eastern Iran.<ref n="1"/> He had considerable forces with him, but his counsels were distracted, and his troops gradually deserted him.
+<pb n="6.32"/> against him in the spring of nc. 330. Darius did not wait for Alexander’s arrival, but left Ekbatana, intending to take refuge with his cousin Bessus, the satrap of Bactria. Darius went, of course, by the well-known route that connects western with eastern Iran.<ref n="1"/> He had considerable forces with him, but his counsels were distracted, and his troops gradually deserted him.
 Alexander reached Rai by forced marches from Ekbatana, but, heariny that Darius was far ahead, abandoned the pursuit, and rested for five days. He then resumed his march, and halted in the neighbourhood of Girduni Sirdarra, which appears to be the Caspian Gates of Arrian, passed through them the second day and heard, when encamped beyond them, that Darius was a prisoner in the hands of Bessus, the satrap of Bactria, of Barsaentes, the satrap of Arachosia and Drangiana (Sistiin), and of Nabarzanes, the commander of Darius’ cavalry. On this Alexander resumed the pursuit, and, four or five days later, came up with the fugitives, whereupon Nabarzanes and Barsaentes mortally wounded Darius and abandoned him. He was dead before Alexander reached him.<ref n="2"/> This was in July B. C. 330. Nabarzanes soon after surrendered to Alexander, and was pardoned.<ref n="3"/> Bessus and Barsaentes escaped to their own satrapies, where the former assumed royal state and the name of Artaxerxes. Ultimately both were captured and executed.<ref n="4"/> Their resistance to Alexander seems to have been a more serious crime than their removal of his chief opponent. An Arabic account<ref n="5"/> aftirms that the death of Darius was brought about with the connivance of Alexander, and although Firdausi’s version naturally omits this feature, it in other respects follows the Arabic very closely with regard to the scene between the two kings. The names of the two assassins are in the Pseudo-Callisthenes Bessus and Ariobarzanes,<ref n="6"/> in the Syriac version Bigiz and Anibd¢h, and in the Ethiopic Hishish and Arsalas. The names in Firdausi seem to be of his own invention. The arrangement made between the two kings that Alexander should marry Roxana or Rushanak appears in all the versions, and is not historical. She was not the daughter of Darius, but of Oxyartes, a Bactrian chief, whose stronghold Alexander escaladed. He fell in love with her at sight, and married her,<ref n="7"/> B. C. 328 Subsequently, on his return from his
 
 <note n="1">See Vol. ii. p. 28. </note>
@@ -706,7 +708,7 @@ Alexander reached Rai by forced marches from Ekbatana, but, heariny that Darius 
 <note n="7">DA, iv. 19, cf. note on § 2,</note>
 
 
-<pb n="33"/>
+<pb n="6.33"/>
 
 
 Indian expedition, he did marry a daughter of Darius—Barsine or Stateira—at Susa in B.C. 324. Rushanak, the Persian form of Roxana, is a diminutive from the adjective <quote>rushan,</quote> bright.
@@ -725,9 +727,9 @@ The corpse of Darius was sent to Pars.<ref n="1"/> In the Romance the punishment
 </p></div>
 
 
-<pb n="34"/>
+<pb n="6.34"/>
 
-<div><head>§ 1 How Dara harangued the Chiefs and took Order for the Realm<ref n="1"/></head>
+<div type="textpart" subtype="section" n="1"><head>How Dara harangued the Chiefs and took Order for the Realm<ref n="1"/></head>
 
 <p>
 <milestone unit="vullers" n="1783"/>
@@ -772,7 +774,7 @@ He opened up his father’s treasure-hoard,
 
 
 
-<pb n="35"/>
+<pb n="6.35"/>
 
 
 Called out the troops, and gave allowances.
@@ -822,7 +824,7 @@ And, as he took his place, held forth, and said :—
 
 
 
-<pb n="36"/>
+<pb n="6.36"/>
 
 
 <q>O ruler happy in thy full desire!
@@ -881,7 +883,7 @@ Of what had passed. He said:  <q>The well-disposed
 
 
 
-<pb n="37"/>
+<pb n="6.37"/>
 
 
 ‘Scape not the revolutions of the sky.
@@ -957,7 +959,7 @@ To the Farat he drew up on the shore,
 And none could see the stream for armature.
 
 
-<pb n="38"/>
+<pb n="6.38"/>
 
 
 
@@ -1002,7 +1004,7 @@ To roam about the earth a little space,
 And see the world for once. My whole intent
 
 
-<pb n="39"/>
+<pb n="6.39"/>
 
 
 Is good and honest, and especially
@@ -1049,7 +1051,7 @@ They lodged him
 <note n="2">Or, with stop at <quote> portal,</quote> <quote>How should he,</quote> etc.</note>
 
 
-<pb n="40"/>
+<pb n="6.40"/>
 
 
 
@@ -1092,7 +1094,7 @@ For tribute he was wroth, entreated us
 With scorn, and spake of war with thee, while we
 
 
-<pb n="41"/>
+<pb n="6.41"/>
 
 Had to escape by night and urge our steeds.
 We saw not any like to him in Rum.
@@ -1133,7 +1135,7 @@ For this cup is the triumph of my life;
 The stars themselves are subject to me now.
 
 
-<pb n="42"/>
+<pb n="6.42"/>
 
 
 
@@ -1192,7 +1194,7 @@ As ’twere the river Nile. The cavaliers
 Were in the rear, the elephants in front,
 
 
-<pb n="43"/>
+<pb n="6.43"/>
 
 
 And all men ceased to set their hearts on life.
@@ -1262,7 +1264,7 @@ The chieftains’ heads, Again he crossed the river
 
 
 
-<pb n="44"/>
+<pb n="6.44"/>
 
 
 
@@ -1317,7 +1319,7 @@ The Persians’ glory. Envoys went on all sides
 To all the chieftains and the paladins.
 
 
-<pb n="45"/>
+<pb n="6.45"/>
 
 The soldiers mustered at the royal palace,
 They set a golden throne for Shah Dara,
@@ -1361,7 +1363,7 @@ A mournful wail ascended from the court :—
 <note n="1">See Vol. i. p. 139.</note>
 
 
-<pb n="46"/>
+<pb n="6.46"/>
 
 
 
@@ -1419,7 +1421,7 @@ Meanwhile Sikandar reached Istakhr of Pars—
 
 
 
-<pb n="47"/>
+<pb n="6.47"/>
 
 
 The crown of Shahs, the glory of that land.
@@ -1488,7 +1490,7 @@ And we are ruined if God pity not!</q>
 
 
 
-<pb n="48"/>
+<pb n="6.48"/>
 
 
 
@@ -1537,7 +1539,7 @@ One in accord to royal precedent.
 
 
 
-<pb n="49"/>
+<pb n="6.49"/>
 
 
 </p></div>
@@ -1600,7 +1602,7 @@ What I have written will improve thereon.</q>
 
 
 
-<pb n="50"/>
+<pb n="6.50"/>
 
 </p><p>
 
@@ -1645,7 +1647,7 @@ He wrote to Fur a humble, flattering letter
 
 
 
-<pb n="51"/>
+<pb n="6.51"/>
 
 
 In deep distress and, having first of all
@@ -1696,7 +1698,7 @@ With him there went three hundred cavaliers—
 
 
 
-<pb n="52"/>
+<pb n="6.52"/>
 
 
 The noblest of Iran. He had withal
@@ -1744,7 +1746,7 @@ The two led on. The Ruman’s heart and soul
 Were filled with rage and grief. On drawing nigh
 
 
-<pb n="53"/>
+<pb n="6.53"/>
 
 
 He gazed upon Dara and saw his breast
@@ -1824,7 +1826,7 @@ Beware of saying: <q>I by mine own might
 
 
 
-<pb n="54"/>
+<pb n="6.54"/>
 
 
 
@@ -1871,7 +1873,7 @@ His last requests, beginning thus: <q>O chief!
 Fear thou the almighty Ruler of the world,
 
 
-<pb n="55"/>
+<pb n="6.55"/>
 
 
 For He created the heaven, the earth, and time,
@@ -1916,7 +1918,7 @@ Sikandar rent his garments and strewed dust
 Upon the Kaian throne. Then for Dara,
 
 
-<pb n="56"/>
+<pb n="6.56"/>
 
 
 According to the custom of his race,
@@ -1956,7 +1958,7 @@ They all of them began to laud his worth,
 And hailed him as the ruler of the earth.
 
 
-<pb n="57"/>
+<pb n="6.57"/>
 
 
 </p></div>
@@ -2024,7 +2026,7 @@ Gris-ambered, first there came the praise of God,
 And things invisible and visible.
 
 
-<pb n="58"/>
+<pb n="6.58"/>
 
 
 Both worlds were made by His creative word :
@@ -2080,7 +2082,7 @@ A watch to call our name continually
 
 
 
-<pb n="59"/>
+<pb n="6.59"/>
 
 That thieves may do no harm and ye abide
 In all success and joy. Send to our bower,
@@ -2125,11 +2127,11 @@ For in the next thou wilt enjoy the fruit.
 
 
 </p></div></div>
-<pb n="60"/>
+<pb n="6.60"/>
 
 
-<div><head>XX. SIKANDAR: HE REIGNED FOURTEEN YEARS</head>
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="reign" n="20"><head>SIKANDAR: HE REIGNED FOURTEEN YEARS</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 Sikandar, on ascending the throne, harangues the nobles and marries Rushanak, the daughter of Dirt. The poet then tells of Sikandar’s dealing with Kaid and Fur (Porus) of Hind, his visit to the Kaaba, to Queen Kaidafa (Candace), to the Brahmans, to the Western Sea, to the land of Habash and of the Narmpii, to the City of Women, to the Darkness in search of the Water of Life, and to the Angel Israfil. Sikandar then again turns eastward, and erects a barrier against Yijuj and Mujuj (Gog and Magog), reaches the End of the World, and is warned of his own death by the Speaking Tree. The poet then tells of Sikandar’s relations with Faghfur of Chin, of his visit to Babil, of his correspondence with Aristulis (Aristotle), and of the circumstances attending his death and burial.
@@ -2142,7 +2144,7 @@ The Vullers-Landauer text, from which we have translated thus far, does not exte
 
 
 
-<pb n="61"/> in footnotes. The corrections for the most part are quite obvious, and sufficiently indicated in our version to any one acquainted with the original.
+<pb n="6.61"/> in footnotes. The corrections for the most part are quite obvious, and sufficiently indicated in our version to any one acquainted with the original.
 
 </p><p>§§ 2-4. These correspond generally with the Pseudo-Callisthenes, Book II. chap. 22, and with the Syriac version, Book II. chap. 14. For Roxana, see p. 32.
 
@@ -2161,7 +2163,7 @@ The accounts in the original authorities of Calanus and Mandanes, or Dandamis—
 <note n="7">See pp. 195, 256.</note>
 
 
-<pb n="62"/>
+<pb n="6.62"/>
 
 
 A.D., has an account of Sikandar’s meeting with a wise Indian king named Kaihan. In Pahlavi the letter 't' well might be taken for the letters 'h' and 'n', and these with the short vowel a interposed would make Kaihan.<ref n="1"/> The story of the Indian sage seems rapidly to have developed in oriental hands, as is evident from the account given by Mas’udi, who died in A.D. 956, of the dealings of Sikandar with the wise Indian king, Kand.<ref n="2"/> Mas’udi, indeed, professes to give an abridgment only; but his version, with one exception, agrees closely with that of Firdausi. The exception is the introductory matter contained in § 5, which appears to be the poet’s own contribution to the story. Kaid’s dreams are a veiled presentment of Firdausi’s own discontent with the circumstances of his own time, and contain a fierce arraignment of Sultan Mahmud himself.<ref n="3"/>
@@ -2179,7 +2181,7 @@ Their account of Sikandar’s passage of wits with the sage agrees closely with 
 
 
 
-<pb n="63"/> replies that they are already as sharp as needles. The Shah retorts that, though they may be sharp they are unpolished, and the sage rejoins that on the contrary they are exceedingly bright.
+<pb n="6.63"/> replies that they are already as sharp as needles. The Shah retorts that, though they may be sharp they are unpolished, and the sage rejoins that on the contrary they are exceedingly bright.
 The Shah then observes that he can soon take the shine out of them, and the sage retorts that he knows a trick worth two of that. At this point the Shah, hoping to take the sage at a disadvantage, summons him and requests him to interpret what had passed between them, thinking that he may not like to put his symbolism into plain speech. The sage, however, is equal to the occasion, and on the spur of the moment gives an unexpected turn to his interpretation, and one which meets with the Shah's approval. The true interpretation seems to be this. The Shah by sending a bow! full of ghee indicates that already he is so charged with knowledge that he has no occasion for the sage’s services.
 The sage, by inserting many needles into the ghee, suggests that there is room for improvement. The Shah replies that his finer faculties have become too blunted by the cares of his station.
 The sage rejoins that he can amend that. The Shah retorts that the improvement will not last, but this the sage denies. Mas'udi adds that ultimately Sikandar allowed the sage to return to his own country.<ref n="1"/>
@@ -2193,7 +2195,7 @@ A similar story is told by Hiuen Tsiang of two great Buddhist saints who lived a
 <note n="2">BBR, ii. 210, 215 note.</note>
 
 
-<pb n="64"/> engagement with Porus himself followed. Alexander was again victorious, and Porus, who had behaved throughout with great gallantry and was wounded, surrendered after Alexander had sent several messengers to beg him so to do. Alexander treated Porus with every consideration, restored his kingdom to him, and enlarged it. The battle with Porus was fought in the late spring or early summer of B.C.326. Alexander then continued his advance into India, crossed the Akesines (Chinab) and the Hydraotes (Ravi), and reached the Hyphasis (Beas). At this point his army refused to proceed further, and he acceded to their wishes, though with the greatest reluctance. In the Pseudo-Callisthenes such historical features as survive are adapted so as to contribute to the glory of its hero. Thus the protest of the army takes place before the battle with Porus and proves inettective, because it was incumbent that Alexander should meet with no check. The difficulty of transporting horses across a river on the further bank of which a strong force of elephants was drawn up to oppose them, and the known antipathy of horses to elephants, suggested the device of the iron steeds. A tradition, resting on good authority, that Porus was very tall, <quote>more than five cubits in height</quote> according to Arrian,<ref n="1"/> suggested that Alexander should be made out to be very small. The death of the son of Porus may have suggested, or been mistaken for, that of his father, which naturally is represented as having been caused by Alexander’s own hand.
+<pb n="6.64"/> engagement with Porus himself followed. Alexander was again victorious, and Porus, who had behaved throughout with great gallantry and was wounded, surrendered after Alexander had sent several messengers to beg him so to do. Alexander treated Porus with every consideration, restored his kingdom to him, and enlarged it. The battle with Porus was fought in the late spring or early summer of B.C.326. Alexander then continued his advance into India, crossed the Akesines (Chinab) and the Hydraotes (Ravi), and reached the Hyphasis (Beas). At this point his army refused to proceed further, and he acceded to their wishes, though with the greatest reluctance. In the Pseudo-Callisthenes such historical features as survive are adapted so as to contribute to the glory of its hero. Thus the protest of the army takes place before the battle with Porus and proves inettective, because it was incumbent that Alexander should meet with no check. The difficulty of transporting horses across a river on the further bank of which a strong force of elephants was drawn up to oppose them, and the known antipathy of horses to elephants, suggested the device of the iron steeds. A tradition, resting on good authority, that Porus was very tall, <quote>more than five cubits in height</quote> according to Arrian,<ref n="1"/> suggested that Alexander should be made out to be very small. The death of the son of Porus may have suggested, or been mistaken for, that of his father, which naturally is represented as having been caused by Alexander’s own hand.
 </p><p>
 The differences between the Pseudo-Callisthenes and Firdausi are not important and chiefly in matters of detail. In the former Porus begins the correspondence; he has wild beasts as well as elephants in his army. In branches B and C Alexander, disguised as a sutler, visits the city of Porus and has an interview with him. In the battle that ensues Bucephalus falls, in branch A by the hand of Porus. The battle lusts for twenty days, and so forth.
 In the latter the kingdom of Fur is situated beyond Kanntj—a city on the Ganges—and it is there that the correspondence with Fur takes place. After the correspondence comes the protest of the army against proceeding further. Sikandar appoints Sawurg king in Fur’s stead.
@@ -2207,7 +2209,7 @@ The neighbourhood of Mecca has been a sacred spot from time
 <note n="2">NAR, 39. </note>
 <note n="3">§ 24,</note>
 
-<pb n="65"/> immemorial. The city stands in a sacred territory known as
+<pb n="6.65"/> immemorial. The city stands in a sacred territory known as
 <gloss>Haram</gloss>, i.e. <quote> prohibited,</quote> and contains the still more sacred Kaaba, into the wall of which, and perhaps most sacred of all, is built the meteorite known as the <quote> Black Stone.</quote> The Kaaba itself, according to the Kurdn, was built by Abrahain and Ishmael.<ref n="1"/>
 The custody of the Harim—a position of great honour and profit
 —was in the hands now of one, now of another, of the Arab tribes.
@@ -2222,7 +2224,7 @@ In Muhammad’s time the Kuraish, whose ancestor was Nasr, son of Katib, were in
 
 
 
-<pb n="66"/> but there are differences in matters of detail and in the names of the characters in the story. The Kandake (Candace) of the Pseudo-Callisthenes and of the Syriac version becomes Kaidafa in Firdausi, which shows that his account came to him through the Arabic, in which the name, in the absence of diacritical points, could be read either way. Similarly the Kandaules of the Greek, the Kandaros of the Syriac,<ref n="1"/> became Kaidrush, the story having passed from Greek into Pahlavi, from Pahlavi into Syriac, from Syriac into Arabic, and from Arabic into Persian again (modern instead of middle) before Firdausi dealt with it. In the Pseudo-
+<pb n="6.66"/> but there are differences in matters of detail and in the names of the characters in the story. The Kandake (Candace) of the Pseudo-Callisthenes and of the Syriac version becomes Kaidafa in Firdausi, which shows that his account came to him through the Arabic, in which the name, in the absence of diacritical points, could be read either way. Similarly the Kandaules of the Greek, the Kandaros of the Syriac,<ref n="1"/> became Kaidrush, the story having passed from Greek into Pahlavi, from Pahlavi into Syriac, from Syriac into Arabic, and from Arabic into Persian again (modern instead of middle) before Firdausi dealt with it. In the Pseudo-
 Callisthenes and the Syriac version Ptolemy takes Alexander’s place when Kaidrush is brought into court, and Alexander assumes the name of Antigonus. In Firdausi the latter becomes the name of Sikandar’s chief minister (Naitktin), and the two exchange their respective positions. In the Greek and the Syriac the wife of Kandaules is taken prisoner by a hostile king, while Kandaules himself escapes to the camp of Alexander, who regains his wife for him. In Firdausi the pair are taken prisoners by Sikandar while celebrating their wedding-feast in the city of king Faryiin, the father of the bride. This version is more considerate of the lady, who does not get off so easily in the Greek and Syriac. In the Greek too the scene of the action is laid in the kingdom of Semiramis, whose descendant<ref n="2"/> Kaidufa is stated to be. In the Syriac the name Semiramis is corrupted into that of a people. In the Shahnama the scene is laid in Andalus, i.e. in Spain, which was conquered by the Arabs early in the eighth century A.D. In the Greek, Candace’s other son, who had married a daughter of Porus, is unnamed, but is called Charogos in the early Latin version of Julius Valerius. In the Syriac he appears as Keritor, and in the Shahnama as Tainush, who is represented there as being the eldest son, as in the Ethiopic, where he is called Kanir.<ref n="3"/> The Ethiopic too alone coincides with the Shahnama in giving the dramatic conclusion of the story—the discovery by Tainush (Kanir) that the ambassador to his mother was Alexander himself—from which we might conclude that both versions derived the incident from a common Arabic source. Another view, however, may be suggested.
 The hand of a poet is visible in Firdausi’s presentment of the whole story. He enlists our sympathy by making Kaidriish and his wife a newly married couple, which is found in no other version, suppresses the worst of the lady’s misfortunes, which is
 
@@ -2234,7 +2236,7 @@ The hand of a poet is visible in Firdausi’s presentment of the whole story. He
 <note n="3">BLEA, p. 206.</note>
 
 
-<pb n="67"/> expressed or implied in the other versions, and makes two other consequential alterations. Tainush is described as being the elder instead of the younger son, because Firdausi represents him as having been longer married; and Faryin, who stands for the abductor of the lady in the other versions, becomes her own father.
+<pb n="6.67"/> expressed or implied in the other versions, and makes two other consequential alterations. Tainush is described as being the elder instead of the younger son, because Firdausi represents him as having been longer married; and Faryin, who stands for the abductor of the lady in the other versions, becomes her own father.
 Further, the Ethiopic version appears to have been a late production which came into being some time between the fourteenth and sixteenth centuries,<ref n="1"/> when the Shahnama itself had become a great authority, and it seems not unlikely that the dramatic conclusion in the Ethiopic version was derived through the Arabic from Firdausi’s own handiwork.
 
 </p><p>§ 24. This corresponds with Bk. ITI., chaps. 5-6, of the Pseudo-Callisthenes and of the Syriac version, in both of which the order of events is the war with Porus, the interview with the Brahmans, the affair with Candace. In Firdausi the order of the last two is transposed. This is due to the interpolation from Arabic sources of Sikandar’s expedition to the Kaaba, in § 16, immediately after the war with Fur. Consequently he has to make a second expedition eastward. His interview with the Brahmans may be regarded as a literary invention based partly on the account of Onesicritus<ref n="2"/> and partly on some other source, which is responsible for his questions and their answers. These appear in Plutarch’s Life of Alexander, ch. 64. That historian makes the interview take place in the course of Alexanders voyage down the Indus to the sea. The questions and answers vary in the different accounts. The question as to whether the living or the dead are the most numerous is found in Plutarch, where the answer is, the living, in the Pseudo-Callisthenes, in Julius Valerius, and in the Syriac and Ethiopic versions.
@@ -2255,7 +2257,7 @@ Several of the questions occurring in other versions do not appear in the Shahna
 <note n="2">see p. 61; and cf. NAR, p. 6.</note>
 
 
-<pb n="68"/> as to whether death or life is the mightier ; which existed first, day or night; and whether the limbs on the left side of the body or on the right side are the better, and so forth.
+<pb n="6.68"/> as to whether death or life is the mightier ; which existed first, day or night; and whether the limbs on the left side of the body or on the right side are the better, and so forth.
 
 </p><p>§§ 25-27. At this point the adventures of Sikandar become more romantic. In codex A of the Pseudo-Callisthenes, and in the Latin version of Julius Valerius, they form the subject of a letter, purporting to be written by Alexander to Aristotle, and come between the visit to the Brahmans and that to Candace.
 The letter is a long one, and is Jenythier still in the Syriac version, which contains incidents no longer extant in the Greek but found in the Shahnama. In the Greek the letter forms ch. 17 and in the Syriac ch. 7 of Bk. ITI.
@@ -2278,7 +2280,7 @@ It may be well to quote here a short passage from M‘Crindle's Ancient India as
 
 
 
-<pb n="69"/>
+<pb n="6.69"/>
 
 
 Alexander, whose idea was to make his hero traverse the whole world, and the later redactors of the Romance, found it easy to provide a crop of marvels, of which the Persian version in the Shahnama furnishes a by no means exhaustive account. The Macedonian invasion may have given the Western world more correct ideas of India, but it did not prevent the Pseudo-Callisthenes from coming into being some five centuries later and flourishing exceedingly. The return of Alexander from India to Persia by sea and land along the desolate shores of Makriin
@@ -2294,7 +2296,7 @@ Alexander, whose idea was to make his hero traverse the whole world, and the lat
 <note n="3">Rather over 400 yards.</note>
 
 
-<pb n="70"/> bread. Some make it into a paste. They even give their beasts tish-flour instead of fodder. All the region, in the absence of meadows, produces no herbage. They take withal in these parts a great quantity of crabs, oysters, and shell-fish. The region alsu naturally produces salt, from which they make (an equlvalent or substitute for?) oil. Those of them indeed that inhabit the desert parts, and a region productive of neither trees nor fruit, live on fish only: a few sow a little ground, and eat bread as a relish with their fish, for fish are their corn. They build their houses thus. The wealthiest of them take whatever bones of the whale the sea throws up, and use them in the place of timber, making the largest into doors. The indigerit majority make their houses of fish bones.</quote><ref n="1"/> In the following chapter Arrian enters more into detail :—<quote>Some of the whales are driven ashore occasionally in various places, and are stranded when the tide recedes; others are cast on to the lund by violent storms, and perish of putrefaction ; their flesh dropping off leaves their bones for men to employ in house-building. Their greater ribs are selected for the beams, the smaller for the planks; the jaw-bones are taken for doors.</quote><ref n="2"/>
+<pb n="6.70"/> bread. Some make it into a paste. They even give their beasts tish-flour instead of fodder. All the region, in the absence of meadows, produces no herbage. They take withal in these parts a great quantity of crabs, oysters, and shell-fish. The region alsu naturally produces salt, from which they make (an equlvalent or substitute for?) oil. Those of them indeed that inhabit the desert parts, and a region productive of neither trees nor fruit, live on fish only: a few sow a little ground, and eat bread as a relish with their fish, for fish are their corn. They build their houses thus. The wealthiest of them take whatever bones of the whale the sea throws up, and use them in the place of timber, making the largest into doors. The indigerit majority make their houses of fish bones.</quote><ref n="1"/> In the following chapter Arrian enters more into detail :—<quote>Some of the whales are driven ashore occasionally in various places, and are stranded when the tide recedes; others are cast on to the lund by violent storms, and perish of putrefaction ; their flesh dropping off leaves their bones for men to employ in house-building. Their greater ribs are selected for the beams, the smaller for the planks; the jaw-bones are taken for doors.</quote><ref n="2"/>
 </p><p>
 
 A modern account says:—<quote>Nearchus . . . names the whole of this coast, from the river Indus to Charbar, the country of the Ichthyophagi or fish-eaters, and the inhabitants still live entirely on fish, the cattle having much the same diet as their masters, for the country is wholly destitute and barren, and yields no sort of grass. Vast stores of oysters, crabs, and all kind of shell-fish are found on the coast, of which Nearchus's description is generally very accurate. In many places, both here and in Arabia, the cattle are fed entirely on dried fish and dates mixed together, on account of the great scarcity of grass in these sun-burnt and sundy regions.</quote><ref n="3"/>
@@ -2310,7 +2312,7 @@ A later account says :—<quote>Fish, to this day, is the staple article of food
 <note n="5">Id. 178.</note>
 
 
-<pb n="71"/>
+<pb n="6.71"/>
 
 </p><p>
 
@@ -2343,7 +2345,7 @@ The temple that Sikandar visits is that of Dionysus, and the corresponding passa
 <note n="7">GH, pp. 170, 357.</note>
 
 
-<pb n="72"/> geat Hittite goddess.</quote><ref n="1"/> The seat of the Amazons, which lesend places on the river Thermodon, is quite in concord with the above identification, and their legend itself extends from Homer<ref n="2"/> through Herodotus and many other writers to Sir John Maundeville.<ref n="3"/> As to the origin of the legend that brought Alexander into connexion with the Amazons we are told by Arrian that when that king was in Sughdiana he received a visit from Pharasmanes, king of the Kharazmians, who stated that his dominions marched with those of the Colchians and Amazons, and that if Alexander desired to proceed to those regions and subjugate the races in the neighbourhood of the Euxine he would act himself as guide and furnish necessaries for the troops.<ref n="4"/> The land of Kharazm is now represented by the modern Khiva, and the whole breadth of the Caspian Sea intervened between Pharasmanes and his nearest neighbours to the west; but the mere sugeestion seems to have taken root, and soon it was athrmed by some of the more romantic, or less scrupulous, historians of Alexander that the queen of the Amazons had visited him in person—the view adopted by Quintus Curtius, who tells us how their queen Thalestris arrived with her suite of three hundred women from the vicinity of the river Thermodon, and spent about a fortmght with the king.<ref n="5"/> In the Pseudo-Callisthenes it is Alexander who visits the Amazons, and the visit takes place immediately after that to Candace, queen of Ethiopia, in which the ground is laid for it by representing her son and daughter-in-law as being on their way to perform religious rites in the land of the Amazons when the lady was abducted. Firdausi, who omits the passage about the abduction, naturally leaves out the reference to the Amazons and gives his account of them in another connexion.<ref n="6"/> His version corresponds with that of the Pseudo-Callisthenes, Bk, III. ch. 25-27, and with the Syriac version, Bk. III. ch. 15-17. In these versions and in the Shahnama the Amazons are represented as living on an island, and the account of their marriagecustoms in the Pseudo-Callisthenes and in the poem may owe something to the stories of the Male and Female Islands that no doubt were current in Egypt in connexion with the country
+<pb n="6.72"/> geat Hittite goddess.</quote><ref n="1"/> The seat of the Amazons, which lesend places on the river Thermodon, is quite in concord with the above identification, and their legend itself extends from Homer<ref n="2"/> through Herodotus and many other writers to Sir John Maundeville.<ref n="3"/> As to the origin of the legend that brought Alexander into connexion with the Amazons we are told by Arrian that when that king was in Sughdiana he received a visit from Pharasmanes, king of the Kharazmians, who stated that his dominions marched with those of the Colchians and Amazons, and that if Alexander desired to proceed to those regions and subjugate the races in the neighbourhood of the Euxine he would act himself as guide and furnish necessaries for the troops.<ref n="4"/> The land of Kharazm is now represented by the modern Khiva, and the whole breadth of the Caspian Sea intervened between Pharasmanes and his nearest neighbours to the west; but the mere sugeestion seems to have taken root, and soon it was athrmed by some of the more romantic, or less scrupulous, historians of Alexander that the queen of the Amazons had visited him in person—the view adopted by Quintus Curtius, who tells us how their queen Thalestris arrived with her suite of three hundred women from the vicinity of the river Thermodon, and spent about a fortmght with the king.<ref n="5"/> In the Pseudo-Callisthenes it is Alexander who visits the Amazons, and the visit takes place immediately after that to Candace, queen of Ethiopia, in which the ground is laid for it by representing her son and daughter-in-law as being on their way to perform religious rites in the land of the Amazons when the lady was abducted. Firdausi, who omits the passage about the abduction, naturally leaves out the reference to the Amazons and gives his account of them in another connexion.<ref n="6"/> His version corresponds with that of the Pseudo-Callisthenes, Bk, III. ch. 25-27, and with the Syriac version, Bk. III. ch. 15-17. In these versions and in the Shahnama the Amazons are represented as living on an island, and the account of their marriagecustoms in the Pseudo-Callisthenes and in the poem may owe something to the stories of the Male and Female Islands that no doubt were current in Egypt in connexion with the country
 —southern Arabia—whence it obtained its supplies of frankincense. It seems to have been the custom of the incense-gatherers, who were always men, to leave their wives and children at home, which in this case would mean, amony other localities, the Kuria Muria Islands, while they themselves crossed over to the mainland for the purposes of their trade. Sons, when grown up, would
 
 <note n="1">GH, p. ix. </note>
@@ -2354,7 +2356,7 @@ The temple that Sikandar visits is that of Dionysus, and the corresponding passa
 <note n="6">See p. 153.</note>
 
 
-<pb n="73"/> accompany their fathers, while the daughters would remain with the mothers. The seven Kuria Muria Islands thus became known collectively as <quote>The Female Island,</quote> while the mainland represented <quote>The Male Island.</quote><ref n="1"/> There appears to be a reference to the same custom in Hiuen Tsiang :—<quote>To the south-west of Fo-lin, in an island of the sea, is the kingdom of the western women: here there are only women, with no men; they possess a large quantity of gems and precious stones, which they exchange in Fo-lin. Therefore the king of Fo-lin sends certain men to live with them for a time, If they should have male children, they are not allowed to bring them up.</quote><ref n="2"/>
+<pb n="6.73"/> accompany their fathers, while the daughters would remain with the mothers. The seven Kuria Muria Islands thus became known collectively as <quote>The Female Island,</quote> while the mainland represented <quote>The Male Island.</quote><ref n="1"/> There appears to be a reference to the same custom in Hiuen Tsiang :—<quote>To the south-west of Fo-lin, in an island of the sea, is the kingdom of the western women: here there are only women, with no men; they possess a large quantity of gems and precious stones, which they exchange in Fo-lin. Therefore the king of Fo-lin sends certain men to live with them for a time, If they should have male children, they are not allowed to bring them up.</quote><ref n="2"/>
 </p><p>
 By the black race encountered by Sikandar on his way to the city of the Amazons the negroes seem to be intended, and the description is quite in the style of one in the Arabian Nights :—
 <quote>Then sprang with a drop-leap from one of the trees a big slobbering blackamoor with rolling eyes which showed the whites, a truly hideous sight.</quote><ref n="3"/> The bringing of frost and snow would be a great marvel in their hot country. Similarly Sarv, king of Yaman, tries to overcome the three sons of Faridun.<ref n="4"/>
@@ -2379,7 +2381,7 @@ West by describing the former as being <foreign xml:lang="grc">πρὸς τ᾽ �
 <note n="8">Ιliad, xii. 239-240; Odyssey, xiii. 240, etc.</note>
 
 
-<pb n="74"/> darkness of the North—the long sunless winters of the Arctic Circle. Attached to each conception was the idea of an earthly paradise— in the West the garden of the Hesperides, and in the North the elysium of the Hyperboreans, who had their counterpart, or original, in Indian legend which told that <quote>towards the North, beyond the Himilaya, dwelt the Uttarakuri, a people who enjoyed a long and happy life, to whom disease and care were unknown, and who revelled in every delight in a land all paradise.</quote><ref n="1"/> Hesiod knew of the Hyperboreans.<ref n="2"/> There is an interesting chapter on <quote> The Land of Darkness</quote> in Marco Polo.<ref n="3"/>
+<pb n="6.74"/> darkness of the North—the long sunless winters of the Arctic Circle. Attached to each conception was the idea of an earthly paradise— in the West the garden of the Hesperides, and in the North the elysium of the Hyperboreans, who had their counterpart, or original, in Indian legend which told that <quote>towards the North, beyond the Himilaya, dwelt the Uttarakuri, a people who enjoyed a long and happy life, to whom disease and care were unknown, and who revelled in every delight in a land all paradise.</quote><ref n="1"/> Hesiod knew of the Hyperboreans.<ref n="2"/> There is an interesting chapter on <quote> The Land of Darkness</quote> in Marco Polo.<ref n="3"/>
 
 </p><p>§ 29. At the close of § 28 we have the beginning of the story of Sikandar’s famous expedition into the Land of Darkness and to the Fount of Life. This does not appear in branch A of the Pseudo-Callisthenes, in the early Latin version of Julius Valerius, or in the Syriac version. It is given at large, however, in branch C, which has Christian leanings, and it is found also in the Ethiopic version. It is obvious that Firdausi’s account had passed through the Arabic. The Arabic in its turn came from the Syriac, and the existence of the account in the Syriac is due to the fact that
 Jacob of Sarg<ref n="4"/> inserted it in his metrical version of the Syriac
@@ -2398,20 +2400,20 @@ Callisthenes advised him to make his entry with forty friends, one hundred youth
 <note n="5">Id.</note>
 
 
-<pb n="75"/> by your king. Lest, being found to transgress his ordinance, ye be deprived of life, now, bestirring yourselves, crop my head and beard ; thus altering hair and appearance I will go with you and prove of great use to you in the time of need.</q> So doing their father’s bidding, they took the old man with them. Thus they fared with Alexander and reached a murky spot. Being unable to advance further, owing to the impassable nature of the place, they removed thence their tents. Next day, Alexander, taking with him a thousand soldiers, went to ascertain if the end of the earth were there. Going leftward he saw a part that was lighter, and fared over places waste and precipitous for half the day. This he knew not from the sun but by taking measurement of the way geometrically. Afterwards he turned back in alarm because the route was impracticable. Emerging, he was minded to go to the right because the plain was level, albeit dark and gloomy.
+<pb n="6.75"/> by your king. Lest, being found to transgress his ordinance, ye be deprived of life, now, bestirring yourselves, crop my head and beard ; thus altering hair and appearance I will go with you and prove of great use to you in the time of need.</q> So doing their father’s bidding, they took the old man with them. Thus they fared with Alexander and reached a murky spot. Being unable to advance further, owing to the impassable nature of the place, they removed thence their tents. Next day, Alexander, taking with him a thousand soldiers, went to ascertain if the end of the earth were there. Going leftward he saw a part that was lighter, and fared over places waste and precipitous for half the day. This he knew not from the sun but by taking measurement of the way geometrically. Afterwards he turned back in alarm because the route was impracticable. Emerging, he was minded to go to the right because the plain was level, albeit dark and gloomy.
 But being in difficulties because none ¢of the youths were willing for him to enter that dark place in that, the horses being wearied out by the glooms of that dark road, they would be unable to return, Alexander said to them :—<q>O noble soldiers! ye all know now that in wars nothing is done nobly without counsel and advice, for in good sooth an old man coming with us would direct us how we ought to enter this dark region. If now there be some noble man among you let him go and bring into our camp for me an elder, and he shall have much gold of me.</q> Howbeit none of them was found to do this thing by reason of the length of the way and of the lightless air. Then, presenting themselves, the sons of the old man said to Alexander :—<q>If thou wilt hear us with forbearance, O king! we will tell thee somewhat.</q> King
 Alexander said :—<q>Say what ye will, for I swear by divine Providence not to wrong you.</q> Forthwith they told him about their sire,and ran and brought the old man to him. Alexander, on seeing, embraced him and asked him to counsel them. The old man said: <q>It is fit, O king Alexander! for you to know this, that if horses enter you will see the light never more. Choose therefore mares with foals, and leave the foals there, going yourselves with the mares; they will lead us thither.</q><ref n="1"/> Alexander therefore made search among all those with him, but only found a hundred mares with foals. Taking these and another hundred selected ones, as well as many others to carry their provand, he entered according to the counsel of the old man, leaving the foals without. The old man instructed his sons that whatever they should find lying on the ground as they went they were to collect and place in their pouches. There entered with Alexander three
 
 <note n="1">I.e., back to the foals.</note>
 
 
-<pb n="76"/> hundred and sixty soldiers, and thus advancing along the dark road for fifteen schoeni,<ref n="1"/> they saw a certain place wherein was a bright fountain whereof the water flashed like lightning ; the air was frayrant and most sweet. Now Alexander, the king, becoming hungry, wished to eat bread, and calling his cook, who was named Andreas, told him to prepare a meal. Taking a dried fish he went to the shining water of the fountain to wash the meat. On being wetted in the water it came to life forthwith and escaped from the hand of the cook, who told nobody of what had happened, but took himself some of the same water in a silver vessel and safe-vuarded it; the whole place indeed gushed with waters whereof all drank and partook of food. Alexander, after he had eaten, again journeyed on for thirty schani, and further saw a licht without sun, moon, or stars, and he beheld three birds flying, but having the aspect of men, and crying to him from aloft in the Grecian tongue: <q>The land whereon thou treadest, Alexander! is that of God alone. Return, thou wretch ! thou art not able to tread the Country of the Blest. Go back then, O man! and tread the earth bestowed upon thee, and prepare not troubles for thyself.</q> Being affriyhted, Alexander gave instant heed to the words spoken to him by the birds, one of which cried to him again :—<q>The East calleth thee, Alexander! and the realm of Porus shall become subject to thee by conquest.</q> Thus saying the bird flew off. Alexander, having resigned himself to Providence, bade Antiochus to signify to the troops :—<q>Let each that wisheth take of what is here, be it stone or earth or wood.</q> To some it seemed good so to do, while to others Alexander’s words appeared madness. Now as they went he said to Philon :—<q>Dismount and take up whatever chanceth.</q> Philon, dismounting, found a stone that seemed to him one of the worthless sort, and taking this he fared with Alexander. Many of the troops too took what each found from the material lying in that place, and the sons of the old man in particular, according to the bidding of their father, filled their wallets till they could walk no longer. Alexander, having guides, sent on the asses in front, marched by the Wain, and in some days arrived within hearing of the neighiny of the mares, and in this manner issued from the land of night. So they came to the light where were the rest of the troops, and, looking on one another, found pearls and stones of price. When they saw this those that had taken none repented, while all those that had taken them blessed the old man and Alexander for their vood counsel, Philon brought his stone to Alexander, and it was
+<pb n="6.76"/> hundred and sixty soldiers, and thus advancing along the dark road for fifteen schoeni,<ref n="1"/> they saw a certain place wherein was a bright fountain whereof the water flashed like lightning ; the air was frayrant and most sweet. Now Alexander, the king, becoming hungry, wished to eat bread, and calling his cook, who was named Andreas, told him to prepare a meal. Taking a dried fish he went to the shining water of the fountain to wash the meat. On being wetted in the water it came to life forthwith and escaped from the hand of the cook, who told nobody of what had happened, but took himself some of the same water in a silver vessel and safe-vuarded it; the whole place indeed gushed with waters whereof all drank and partook of food. Alexander, after he had eaten, again journeyed on for thirty schani, and further saw a licht without sun, moon, or stars, and he beheld three birds flying, but having the aspect of men, and crying to him from aloft in the Grecian tongue: <q>The land whereon thou treadest, Alexander! is that of God alone. Return, thou wretch ! thou art not able to tread the Country of the Blest. Go back then, O man! and tread the earth bestowed upon thee, and prepare not troubles for thyself.</q> Being affriyhted, Alexander gave instant heed to the words spoken to him by the birds, one of which cried to him again :—<q>The East calleth thee, Alexander! and the realm of Porus shall become subject to thee by conquest.</q> Thus saying the bird flew off. Alexander, having resigned himself to Providence, bade Antiochus to signify to the troops :—<q>Let each that wisheth take of what is here, be it stone or earth or wood.</q> To some it seemed good so to do, while to others Alexander’s words appeared madness. Now as they went he said to Philon :—<q>Dismount and take up whatever chanceth.</q> Philon, dismounting, found a stone that seemed to him one of the worthless sort, and taking this he fared with Alexander. Many of the troops too took what each found from the material lying in that place, and the sons of the old man in particular, according to the bidding of their father, filled their wallets till they could walk no longer. Alexander, having guides, sent on the asses in front, marched by the Wain, and in some days arrived within hearing of the neighiny of the mares, and in this manner issued from the land of night. So they came to the light where were the rest of the troops, and, looking on one another, found pearls and stones of price. When they saw this those that had taken none repented, while all those that had taken them blessed the old man and Alexander for their vood counsel, Philon brought his stone to Alexander, and it was
 
 <note n="1">A measure of length varying from 60 tu 30 stades. A stade = 6063 English feet.</note>
 
 
 
-<pb n="77"/> all gold. Then the cook told how the meat had come to life.
+<pb n="6.77"/> all gold. Then the cook told how the meat had come to life.
 Alexander, enraged, ordered him a terrible scourging. He said however to Alexander :—‘ What boots it, Alexander ! to repent a past matter? He did not say that he had drunk of the water or that he had kept some of it. This the cook refrained from confessing save as to the dried fish coming to life. Then that wicked cook going to Kalc, the daughter of Alexander and of the concubine Une, seduced her, promising to give her to drink of the
 Water of the Fount of Immortality, which he did. Alexander, hearing of this, envied their immortality. He called his daughter and said to her :—<q> Take thy clothes and depart, for behold thou hast become a goddess, being immortal, and thou shalt be called Nereis as having immortality from water, and therein shalt thou dwell.</q> Weeping and mourning she departed from him, and consurted in waste places with the spirits. As for the cook, Alexander gave orders for a stone to be fastened to his neck, and that he should be flung into the sea. Being cast away thus he became a god and dwelt in a part of the sea that on this account was culled Andreanticus. So much for the cook and the daughter of
 Alexander, who took these things to signify that the end of the earth was in those parts. When they came to the arch that
@@ -2426,7 +2428,7 @@ Joshua set forth, arrived at the rock, forgot all about the fish, and fared onwa
 <note n="1">MPC, Bk. ii. cc. 39-41.</note>
 
 
-<pb n="78"/> that he had forgotten all about it. The fish in the meantime had made its way to the sea in some marvellous manner, as Muhammad says. Moses and Joshua therefore returned to the rock, where they met one of God’s servants who by his proceedings proved his superiority in understanding. He is identified by Muhammadans with the prophet Al Khidr, known from the hue of his raiment as <quote>The Green Prophet</quote>, and the friend of the Faithful in their distress. He is familiar to readers of the Arabian Nights, and is a curious development of the reprobate cook, Andreas, of the Pseudo-
+<pb n="6.78"/> that he had forgotten all about it. The fish in the meantime had made its way to the sea in some marvellous manner, as Muhammad says. Moses and Joshua therefore returned to the rock, where they met one of God’s servants who by his proceedings proved his superiority in understanding. He is identified by Muhammadans with the prophet Al Khidr, known from the hue of his raiment as <quote>The Green Prophet</quote>, and the friend of the Faithful in their distress. He is familiar to readers of the Arabian Nights, and is a curious development of the reprobate cook, Andreas, of the Pseudo-
 Callisthenes.<ref n="1"/>
 </p><p>
 The angel Isrufil, whose introduction into Firdausi’s account is another sign of his indebtedness to Arabic sources, is one of the four archangels and the sounder of the Trump of Doom which will slay all creatures, himself included, after which the general
@@ -2450,7 +2452,7 @@ Kuran and to Arabic historians, and as embellished by them provided the material
 
 
 
-<pb n="79"/> themselves with the other, and as having a thousand children each<ref n="1"/>—traits found in the Shahnama.<ref n="2"/> The word used in that poem for the monsters whereon Yajiij and Miuijij are said to batten is “tinnin ”—the same as that variously translated in the
+<pb n="6.79"/> themselves with the other, and as having a thousand children each<ref n="1"/>—traits found in the Shahnama.<ref n="2"/> The word used in that poem for the monsters whereon Yajiij and Miuijij are said to batten is “tinnin ”—the same as that variously translated in the
 Old Testament R.V., as sea-monster,<ref n="3"/> dragon,<ref n="4"/> and serpent.<ref n="5"/>
 </p><p>
 It is a question as to which of the passes through the Caucasus<ref n="6"/>
@@ -2489,7 +2491,7 @@ Kai Khusrau during his voyage in pursuit of Afrasiyab,<ref n="11"/> and the acco
 <note n="13">BHA, p. 100; MPC, p. 88.</note>
 
 
-<pb n="80"/> stream ?). And upon the bank of the river there was a tree, which grew and increased from dawn until the sixth hour, and from the sixth hour until evening it diminished in height until there was nothing to be seen of it. Its smell was very pleasant... .</quote>
+<pb n="6.80"/> stream ?). And upon the bank of the river there was a tree, which grew and increased from dawn until the sixth hour, and from the sixth hour until evening it diminished in height until there was nothing to be seen of it. Its smell was very pleasant... .</quote>
 In Zal’s riddle the sun only was taken into consideration. In
 Sikandar’s case the tree has a double trunk to provide for the moon as well. The male trunk (the sun) speaks by day, the fernale (the moon) by night. Much has been written about these trees, but the allevory seems fairly obvious.
 
@@ -2519,7 +2521,7 @@ Enotokoitai are called in Sanscrit Karnapraveramas, and are frequently referred 
 <note n="5">Id. p. 103,</note>
 
 
-<pb n="81"/>
+<pb n="6.81"/>
 
 
 Indians that barbarous tribes had large ears... It is easy,</quote> says Wheeler (Hist. Ind., Vol. iii. p. 179), <quote>for any one conversant with India to point out the origin of many of the so-called fables. . . . Men do not have ears hanging down to their feet, but both men and women will occasionally elongate their ears after a very extraordinary fashion by thrusting articles through the lobe. . . . If there was one story more than another which excited the wrath of Strabo, it was that of a people whose ears hung down to their feet. Yet the story is still current in
@@ -2544,7 +2546,7 @@ Greek and Syriac would have little or no interest for later
 
 
 
-<pb n="82"/>
+<pb n="6.82"/>
 
 
 Persian or Arabic writers, or for Firdausi himself, and naturally are lacking in the Shahnama.
@@ -2570,7 +2572,7 @@ S. Chrysostom, however, says that the tomb was destroyed in his time (4.v. 345-4
 
 
 
-<pb n="83"/>
+<pb n="6.83"/>
 </p><p>
 
 
@@ -2593,14 +2595,14 @@ Persian version of the Pseudo-Callisthenes.
 <note n="3">BLEA, p. 351</note>
 
 
-<pb n="84"/>
+<pb n="6.84"/>
 
 
 <figure>SCHEMA</figure>
 </p></div>
-<pb n="85"/>
+<pb n="6.85"/>
 
-<div><head>§ 1 How Sikandar sat upon the Throne of Iran</head>
+<div type="textpart" subtype="section" n="1"><head>How Sikandar sat upon the Throne of Iran</head>
 
 <p>
 <milestone unit="calced" n="1286"/>
@@ -2638,7 +2640,7 @@ Sat on with his advisers, counselling.
 And called for reed of Rum and silk of Chin.
 
 
-<pb n="86"/>
+<pb n="6.86"/>
 
 
 
@@ -2695,7 +2697,7 @@ He wrote a letter too to Rushanak,
 
 
 
-<pb n="87"/>
+<pb n="6.87"/>
 
 
 And made the pen’s point eloquent. He first
@@ -2764,7 +2766,7 @@ She first gave praises to the Omnipotent,
 The Lord of counsel, peace, and excellence,
 
 
-<pb n="88"/>
+<pb n="6.88"/>
 
 
 Then: <q> From the process of revolving heaven
@@ -2819,7 +2821,7 @@ And told what he had seen and heard of court,
 Of precedents obtaining, and of throne,
 
 
-<pb n="89"/>
+<pb n="6.89"/>
 
 
 Whereon thou hadst declared: <q>The Shah still liveth</q>
@@ -2862,7 +2864,7 @@ And gave such largess in the court that treasure
 <note n="1">Cf. p. 23 and note.</note>
 
 
-<pb n="90"/>
+<pb n="6.90"/>
 
 
 And money grew misprized. They held a conclave
@@ -2908,7 +2910,7 @@ And saw in her but majesty and meekness,
 Discretion, modesty, and fair behaviour,
 
 
-<pb n="91"/>
+<pb n="6.91"/>
 
 
 So that his heart was joined to her in love.
@@ -2963,7 +2965,7 @@ His home is with the onager and deer,
 Apart from habitation and mankind ;
 
 
-<pb n="92"/>
+<pb n="6.92"/>
 <milestone unit="calced" n="1291"/>
 
 
@@ -3016,7 +3018,7 @@ The water, yet his droughty head was dry
 Although the water followed as he moved!
 
 —
-<pb n="93"/>
+<pb n="6.93"/>
 
 
 How read’st thou this, good friend ? Upon the fifth night
@@ -3084,7 +3086,7 @@ Was watered yet the fountain-head was dry.
 I prithee answer and reveal the future.</q>
 
 
-<pb n="94"/>
+<pb n="6.94"/>
 
 
 Mihran, when he had heard this thing from Kaid,
@@ -3125,7 +3127,7 @@ Mlustrateth that this inconstant world
 Removeth one and speedeth up another.
 
 
-<pb n="95"/>
+<pb n="6.95"/>
 
 
 As for thy third dream of that goodly kerchief,
@@ -3187,7 +3189,7 @@ And trafficking, but <q> Fortune,</q> thou hadst said,
 <note n="3">Sikandar.</note>
 
 
-<pb n="96"/>
+<pb n="6.96"/>
 
 
 <q>Had sewn their eyes up so that none could see
@@ -3262,7 +3264,7 @@ With droughty lips and so pass day to night.
 As for the ninth wherein a lusty cow
 
 
-<pb n="97"/>
+<pb n="6.97"/>
 
 
 Sucked its lean calf: when Saturn entereth Libra
@@ -3303,7 +3305,7 @@ His ways triumphant, happy, and content.
 
 
 
-<pb n="98"/>
+<pb n="6.98"/>
 
 
 </p></div>
@@ -3342,7 +3344,7 @@ My words so will not I, but trample down
 Beneath my feet thy throne and head and crown.</q>
 
 
-<pb n="99"/>
+<pb n="6.99"/>
 
 
 </p></div>
@@ -3380,7 +3382,7 @@ Will come and slave-like do him fealty.</q>
 
 
 
-<pb n="100"/>
+<pb n="6.100"/>
 
 
 </p></div>
@@ -3423,7 +3425,7 @@ Or pour therein cold water, and although
 Thou sat’st with boon-companions for ten years
 
 
-<pb n="101"/>
+<pb n="6.101"/>
 
 
 The wine would fail not; whether wine or water
@@ -3478,7 +3480,7 @@ Those men expert and erudite, to say :—
 <note n="1">Nine in P.</note>
 
 
-<pb n="102"/>
+<pb n="6.102"/>
 
 
 <q>The four things—those whose like none e’er beheld—
@@ -3523,7 +3525,7 @@ The paper with his words; then from<ref n="1"/> Milad
 
 
 
-<pb n="103"/>
+<pb n="6.103"/>
 
 
 They sent in haste a horseman to Sikandar,
@@ -3574,7 +3576,7 @@ Inlaid with gold and gems. Kaid placed gold thrones
 Upon ten elephants and on another,
 
 
-<pb n="104"/>
+<pb n="6.104"/>
 
 
 More splendidly caparisoned, the Beauty,
@@ -3639,7 +3641,7 @@ The Shah was free to find out how the sage
 <note n="1">The daughter of Kaid.</note>
 
 
-<pb n="105"/>
+<pb n="6.105"/>
 
 
 Would come off in a strife of wits, and so
@@ -3681,7 +3683,7 @@ I said in fact to thee: <q> My goodly speech,
 My heart and soul and prudent purposes
 
 
-<pb n="106"/>
+<pb n="6.106"/>
 
 
 Make use of words still finer than a hair,
@@ -3726,7 +3728,7 @@ In future since I have thy counsel, rede,
 ' Order of couplets as in IP.
 
 
-<pb n="107"/>
+<pb n="6.107"/>
 
 
 And useful talk.</q>
@@ -3772,7 +3774,7 @@ Medicinal, and out of these compounded
 The needed potion. With these mountain-simples
 
 
-<pb n="108"/>
+<pb n="6.108"/>
 
 He purged the Shah and kept him sound and whole,
 
@@ -3820,7 +3822,7 @@ With golden balls, he gave that skilled leech both,
 And said: <q> Be honest rede thy tongue’s companion.</q>
 
 
-<pb n="109"/>
+<pb n="6.109"/>
 
 
 Then bade he, and they brought the golden goblet
@@ -3881,7 +3883,7 @@ Since I have gotten from him four such things
 <note n="1">Sorcerer-land.</note>
 
 
-<pb n="110"/>
+<pb n="6.110"/>
 
 
 We will not ask for more.</q>
@@ -3925,7 +3927,7 @@ Hath given to us of victory and fortune,
 
 
 
-<pb n="111"/>
+<pb n="6.111"/>
 
 
 Grace, diadem, and throne of king of kings,
@@ -3973,7 +3975,7 @@ Art thou so shameless as to summon me?
 
 
 
-<pb n="112"/>
+<pb n="6.112"/>
 
 Is wisdom to thy mind so light a thing ?
 
@@ -4030,7 +4032,7 @@ Forthwith Sikandar, when Fur’s answer reached him,
 Chose from the host chiefs fit and enterprising,
 
 
-<pb n="113"/>
+<pb n="6.113"/>
 
 
 Young but mature in wisdom, and led forth
@@ -4103,7 +4105,7 @@ I will proceed without you and set foot
 Upon the Dragon’s heart. Come what come may
 
 
-<pb n="114"/>
+<pb n="6.114"/>
 
 Of fight and feast henceforth ye shall behold me
 
@@ -4152,7 +4154,7 @@ When Fur heard :—
 And all his troops assembled on the plain ;
 
 
-<pb n="115"/>
+<pb n="6.115"/>
 
 
 The earth was mountain-like with elephants.
@@ -4194,7 +4196,7 @@ Thus led they forth on wheels an iron host
 That of all things resembled horsemen most.
 
 
-<pb n="116"/>
+<pb n="6.116"/>
 
 
 </p></div>
@@ -4243,7 +4245,7 @@ And if thy terms are just he is amene.</q>
 When Fur, the Indian, heard the herald’s words
 
 
-<pb n="117"/>
+<pb n="6.117"/>
 
 
 He rushed forth from the centre of his troops.
@@ -4284,7 +4286,7 @@ That drum’s din and the trumpets’ blare arose,
 Earth turned to iron, air to ebony,
 
 
-<pb n="118"/>
+<pb n="6.118"/>
 
 
 While by that token those brave troops of Hind
@@ -4326,7 +4328,7 @@ Fur’s whole wealth on his troops. There was a man
 Of parts, Sawurg by name, a mighty chief
 
 
-<pb n="119"/>
+<pb n="6.119"/>
 
 
 Of Hindustan; to him Sikandar gave
@@ -4381,7 +4383,7 @@ World-conquering up to Jahram of Pars,
 <note n="2">Couplet omitted.</note>
 
 
-<pb n="120"/>
+<pb n="6.120"/>
 
 
 When news of him reached Nasr, son of Katib,
@@ -4427,7 +4429,7 @@ Sikandar slew such scions of Khuza’
 
 
 
-<pb n="121"/>
+<pb n="6.121"/>
 
 
 As he could find and scalped them, sparing none
@@ -4489,7 +4491,7 @@ And named Kaidéfa. From her warriors
 
 
 
-<pb n="122"/>
+<pb n="6.122"/>
 
 She chose a cavalier, a clever draughtsman,
 
@@ -4532,7 +4534,7 @@ About her treasure ’tis past measuring :
 Her doings in the world are no new thing.</q>
 
 
-<pb n="123"/>
+<pb n="6.123"/>
 
 
 </p></div>
@@ -4599,7 +4601,7 @@ O’er Fur of Hind, Dara, and chiefs of Sind.
 
 Thy head hath been elated by success
 
-<pb n="124"/>
+<pb n="6.124"/>
 
 
 Against those famous swordsmen ; but dost thou
@@ -4653,7 +4655,7 @@ One of Kaidafa’s sons, the son-in-law
 <note n="1">Cf, Vol. v. p. 305 and note.</note>
 
 
-<pb n="125"/>
+<pb n="6.125"/>
 
 
 Of king Faryan who had much joy in him,
@@ -4705,7 +4707,7 @@ The throne, but ill at ease, ashamed, and sorry :
 
 
 
-<pb n="126"/>
+<pb n="6.126"/>
 
 Sikandar stood before the presence girded.
 
@@ -4751,7 +4753,7 @@ And none shall burst his skin on that account.
 Tend well my worthy minister, for he
 
 
-<pb n="127"/>
+<pb n="6.127"/>
 
 
 Will proffer unto her a fight or feast
@@ -4798,7 +4800,7 @@ Where he had lost crown, army, throne, and treasure.
 <q>The man that cometh with me,</q> he proceeded,
 
 
-<pb n="128"/>
+<pb n="6.128"/>
 
 
 <q> Preserved me and my consort from Sikandar,
@@ -4875,7 +4877,7 @@ They ranged in one hall tables made of teak
 
 
 
-<pb n="129"/>
+<pb n="6.129"/>
 
 
 With gold stars and designs in ivory,
@@ -4920,7 +4922,7 @@ Kaidafa
 Was wroth thereat but saw no salve but silence,
 
 
-<pb n="130"/>
+<pb n="6.130"/>
 
 And said to him:  <q> Return to thine abode,
 
@@ -4967,7 +4969,7 @@ The envoy vraciously before her, said :—
 
 <q>O son of Failakus: thou art a master
 In fight and festival, in good and ill. ee See ee wen wee _ we
-<pb n="131"/>
+<pb n="6.131"/>
 
 
 Thou hast approached me boldly to ask tribute,
@@ -5012,7 +5014,7 @@ Would rend my liver’s seat or slaughter thee!</q>
 
 
 
-<pb n="132"/>
+<pb n="6.132"/>
 
 
 </p></div>
@@ -5074,7 +5076,7 @@ For when a prudent king hath been vouchsafed.
 The age proclaimeth it to man and woman.
 
 
-<pb n="133"/>
+<pb n="6.133"/>
 
 
 Thee will I call Naitkun while thou art here,
@@ -5125,7 +5127,7 @@ Surrounded by a crowd of warriors.<ref n="1"/>
 <note n="1">“toute parée et entourdée de bouquets de fleurs”’ (Mohl).</note>
 
 
-<pb n="134"/>
+<pb n="6.134"/>
 
 
 The ceiling was of ivory and gold,
@@ -5162,7 +5164,7 @@ Raged like a blast, and said : <q> Thou worthless fool!
 No man could reckon thee a man at all!
 
 
-<pb n="135"/>
+<pb n="6.135"/>
 
 
 Know’st not before whose presence thou art seated ?
@@ -5210,7 +5212,7 @@ The throne and crown, hath plunged me into gloom.
 <note n="1">Literally <quote>Sit not before the queen. Show not thy hands,</quote> the proper attitude for slaves being to stand with folded arms, with the hands under the arm-pits. In this position they cannot do mischief.</note>
 
 
-<pb n="136"/>
+<pb n="6.136"/>
 
 
 He sent me to the queen with this command :—
@@ -5255,7 +5257,7 @@ All famed in fight. Upon my journey hither
 I marked a wood where I will put in ambush
 
 
-<pb n="137"/>
+<pb n="6.137"/>
 
 
 «thee and thy soldiery, and go myself
@@ -5323,7 +5325,7 @@ And marked and understood his stratagem,
 She smiled at his device behind her lips,
 
 
-<pb n="138"/>
+<pb n="6.138"/>
 
 
 And hid those corals underneath her veil.
@@ -5388,7 +5390,7 @@ Of heart, and honest pledge. She had the palace
 ' Or the angel Gabriel may be intended.
 
 
-<pb n="139"/>
+<pb n="6.139"/>
 
 
 Filled with gold seats, and set forth gauds of Chin,
@@ -5456,7 +5458,7 @@ We cannot favour any course but peace,
 For he is foolish that desireth war.</q>
 
 
-<pb n="140"/>
+<pb n="6.140"/>
 
 
 When she had heard the words of those wise men,
@@ -5499,7 +5501,7 @@ Two hundred buffaloes; there were withal
 Four hundred seats upholstered in brocade
 
 
-<pb n="141"/>
+<pb n="6.141"/>
 SIKANDAR 14!
 
 And silken stuffs, the frames of ebony,
@@ -5553,7 +5555,7 @@ To see his face again? With tongues all praise
 The soldiers bent their faces to the ground.
 
 
-<pb n="142"/>
+<pb n="6.142"/>
 
 Sikandar then selected from the host
 
@@ -5628,7 +5630,7 @@ Then Caesar bade the attendants: <q>Set a throne
 <note n="1">Reading with P.</note>
 
 
-<pb n="143"/>
+<pb n="6.143"/>
 
 
 Beneath a blossom-scattering tree.</q>
@@ -5678,7 +5680,7 @@ The dwelling of God’s worshippers? If thou
 Dost come for wealth, good sooth! thy wits are failing
 
 
-<pb n="144"/>
+<pb n="6.144"/>
 
 It is our part to suffer and be wise;
 
@@ -5738,7 +5740,7 @@ And hence returneth naked to the dust,
 
 
 
-<pb n="145"/>
+<pb n="6.145"/>
 
 
 Where all is fear, anxiety, and dread.
@@ -5789,7 +5791,7 @@ That these our words may cause thee to repent.</q>
 
 
 
-<pb n="146"/>
+<pb n="6.146"/>
 
 
 The Shah inquired: <q> What is our ruling passion,
@@ -5829,7 +5831,7 @@ And treasures, on the foe. ‘To undertake
 
 
 
-<pb n="147"/>
+<pb n="6.147"/>
 
 
 To toil for others is both ignorance
@@ -5888,7 +5890,7 @@ Invoked God’s name. Then from the water rose
 A rock as bright and yellow as the sun.
 
 
-<pb n="148"/>
+<pb n="6.148"/>
 
 
 The Shah desired a swift ship whence to view
@@ -5929,7 +5931,7 @@ An ox; none could withstand them; so the host,
 Withdrawing from the mere and flinging fire
 
 
-<pb n="149"/>
+<pb n="6.149"/>
 
 
 Upon that reed-bed, set themselves to slay
@@ -5985,7 +5987,7 @@ Its back. With arrows they made shift to kill
 At last that elephant-taking iron Hill.
 
 
-<pb n="150"/>
+<pb n="6.150"/>
 
 
 </p></div>
@@ -6026,7 +6028,7 @@ Reposed from war. Thereafter ceaselessly
 He sought a lucky day whereon to march
 
 
-<pb n="151"/>
+<pb n="6.151"/>
 
 
 Sought for intelligence from all, but none
@@ -6068,7 +6070,7 @@ He slew and skinned them, heads and all; his scheme
 Gave courage to his friends. He charged the hides
 
 
-<pb n="152"/>
+<pb n="6.152"/>
 
 With bane and naphtha, and made specd toward
 
@@ -6128,7 +6130,7 @@ Its gold and silver, but he heard a voice :—
 Hast voided many a monarch’s throne, exalted
 
 
-<pb n="153"/>
+<pb n="6.153"/>
 
 
 Thy head to heaven, and slaughtered many a foe
@@ -6171,7 +6173,7 @@ For knowledge. Be my hand withheld from gain,
 And justice ever comrade of my soul. 
 
 
-<pb n="154"/>
+<pb n="6.154"/>
 
 
 If I approach ’tis not to fight with you;
@@ -6215,7 +6217,7 @@ If she shall have a daughter—one refined
 And fond of hues and scents—that child of hers
 
 
-<pb n="155"/>
+<pb n="6.155"/>
 
 
 Abideth ever in her native air;
@@ -6257,7 +6259,7 @@ And said: <q> Be wisdom wedded to men’s brains.
 No kings or chiefs, exalted though they be
 
 
-<pb n="156"/>
+<pb n="6.156"/>
 
 And favoured by the stars, are left on earth
 
@@ -6301,7 +6303,7 @@ Through cold and snow. The Shah pursued his inarch
 <note n="1">A ratl now=1.014 lb. av. P. reads <quote>three</quote> for <quote> thirty.</quote></note>
 
 
-<pb n="157"/>
+<pb n="6.157"/>
 
 
 Two stages farther through that grievous frost,
@@ -6344,7 +6346,7 @@ Till all had been made clear. He questioned much,
 Surveyed the river, and departed westward.
 
 
-<pb n="158"/>
+<pb n="6.158"/>
 
 
 He found a mighty city of brave men
@@ -6379,7 +6381,7 @@ The herds at large and chose ten thousand steeds,
 All four-year-olds and fit for battle-nceds.
 
 
-<pb n="159"/>
+<pb n="6.159"/>
 
 
 </p></div>
@@ -6441,7 +6443,7 @@ Shine out at night like suns. Take one, lead on,
 And tender well thy person and thy life;
 
 
-<pb n="160"/>
+<pb n="6.160"/>
 
 
 The other one shall light me on my way.
@@ -6482,7 +6484,7 @@ The bird,
 <note n="1">Allih akbar. Properly <quote>God is greatest.</quote> This part is very Arabic.</note>
 
 
-<pb n="161"/>
+<pb n="6.161"/>
 
 On hearing this reply, perched lower down,
 Astonying that worshipper of God,
@@ -6538,7 +6540,7 @@ Toil not so much, because some day a Call
 Will reach thine ears. Be less concerned for crown
 
 
-<pb n="162"/>
+<pb n="6.162"/>
 
 And throne. Make ready to depart and bind
 
@@ -6583,7 +6585,7 @@ But sorrier still was he that picked up none
 At leaving precious gems as he had done.
 
 
-<pb n="163"/>
+<pb n="6.163"/>
 
 
 </p></div>
@@ -6645,7 +6647,7 @@ The mothers have a thousand children each.
 <note n="1">See p. 80.</note>
 
 
-<pb n="164"/>
+<pb n="6.164"/>
 
 
 And who can reckon them? They herd like beasts,
@@ -6690,7 +6692,7 @@ They brought him everything that he demanded
 In measureless supplies. When all was ready,
 
 
-<pb n="165"/>
+<pb n="6.165"/>
 
 
 And planned, the masons and the smiths, all those
@@ -6760,7 +6762,7 @@ He would accept of naught and went his ways;
 His doings filled the whole world with amaze.
 
 
-<pb n="166"/>
+<pb n="6.166"/>
 
 
 </p></div>
@@ -6801,7 +6803,7 @@ The desert-route in dudgeon and concerned
 About his life. All sorrow and in tears
 
 
-<pb n="167"/>
+<pb n="6.167"/>
 
 
 He went with troops behind and guides before
@@ -6850,7 +6852,7 @@ What marvel meet we then?</q>
 The interpreter replied,  <q>there is no question.
 
 
-<pb n="168"/>
+<pb n="6.168"/>
 Was hid by beasts’ skins.
 
 There is no place beyond it, and guides call it
@@ -6893,7 +6895,7 @@ Why torture thus thy soul? It is thy passion
 To go about the world, afflicting folk
 
 
-<pb n="169"/>
+<pb n="6.169"/>
 
 
 And slaying kings. Thou hast not long to live;
@@ -6936,7 +6938,7 @@ He crossed the desert till in forty days
 
 
 
-<pb n="170"/>
+<pb n="6.170"/>
 
 
 He reached the sea,<ref n="1"/> dismounted there his troops
@@ -6992,7 +6994,7 @@ So was it with Dara, who ruled the world,
 <note n="1">Of. p. 174.</note>
 
 
-<pb n="171"/>
+<pb n="6.171"/>
 
 
 Farydn the Arab, and with other chiefs.
@@ -7038,7 +7040,7 @@ Faghfur, on hearing this, took other order.
 He bade serve meat and wine, and deck a hall
 
 
-<pb n="172"/>
+<pb n="6.172"/>
 
 
 Within the garth. They quafted till it was dark,
@@ -7113,7 +7115,7 @@ Not, as with thee, doth bluster fill my head,
 Who am not used to bloodshed, while ill-doing
 
 
-<pb n="173"/>
+<pb n="6.173"/>
 
 
 Is not accordant to my Faith. Thou call’st me
@@ -7158,7 +7160,7 @@ And when the viceroy met him with the troops,
 
 
 
-<pb n="174"/>
+<pb n="6.174"/>
 
 
 Reporting what had chanced,<ref n="1"/> while all the soldiers
@@ -7204,7 +7206,7 @@ O king! worth seeing. Beggary and toil
 <note n="2">Or the Green Sea. Cf. NAR, p. 40.</note>
 
 
-<pb n="175"/>
+<pb n="6.175"/>
 
 
 Are here, and thou wilt take naught hence but wind.</q>
@@ -7248,7 +7250,7 @@ And raiment past compute. Among his treasures
 He had a cup of emerald and pearls
 
 
-<pb n="176"/>
+<pb n="6.176"/>
 
 
 Unpierced, in number seventy-five, besides
@@ -7300,7 +7302,7 @@ When they were all exhausted by the march
 A deep sea showed upon the farther side.
 
 
-<pb n="177"/>
+<pb n="6.177"/>
 
 
 The host rejoiced to view sea, plain, and road.
@@ -7346,7 +7348,7 @@ All speed to go to city and to folk,
 
 
 
-<pb n="178"/>
+<pb n="6.178"/>
 
 
 And gave them Cwsar’s message, saying: <q>‘ The Shah,
@@ -7394,7 +7396,7 @@ And svt his foot upon that prosperous land.
 When this thought gat possession of his brain
 
 
-<pb n="179"/>
+<pb n="6.179"/>
 
 
 He wrote a letter to Arastalis,
@@ -7454,7 +7456,7 @@ Thou hast obtained the world, but give to none
 
 
 <milestone unit="calced" n="1355"/>
-<pb n="180"/>
+<pb n="6.180"/>
 
 
 The lordship o’er another and withal
@@ -7495,7 +7497,7 @@ So will the head of thine own empire droop.
 All thine astrologers have said as much
 
 
-<pb n="181"/>
+<pb n="6.181"/>
 
 
 Already and adduced the signs.</q>
@@ -7554,7 +7556,7 @@ Be born to Rushanak his father’s name
 In truth will live, and Rum must have no king
 
 
-<pb n="182"/>
+<pb n="6.182"/>
 
 
 Save him, for he will renovate that land ;
@@ -7597,7 +7599,7 @@ That yield to passion. Since my body once
 Was all thy care for months and years, now pray
 
 
-<pb n="183"/>
+<pb n="6.183"/>
 
 
 To God for my pure soul and help me thus,
@@ -7644,7 +7646,7 @@ And fortune is not dealing ill with me.</q>
 He spake, his life departed, and that Shah
 
 
-<pb n="184"/>
+<pb n="6.184"/>
 
 
 So famous, that host-shatterer, passed away.
@@ -7708,7 +7710,7 @@ Wise ancients call it Khurm. It hath a lake
 And forest, and in answer to thy questions
 
 
-<pb n="185"/>
+<pb n="6.185"/>
 
 
 A voice, which every one may hear, will speak
@@ -7752,7 +7754,7 @@ Who overthrew thee? Who desired thy place?
 Where now are all thy shrewdness and wise counsel ?</q>
 
 
-<pb n="186"/>
+<pb n="6.186"/>
 
 
 Another said: <q> Thou laidest up much gold:
@@ -7793,7 +7795,7 @@ Will question thee, and say: <q>Why didst thou shed
 The blood of great men, and with so much stress
 
 
-<pb n="187"/>
+<pb n="6.187"/>
 
 
 Didst struggle after treasure? Didst not see
@@ -7844,7 +7846,7 @@ Lord of the world, star-favoured. and devout!
 <note n="1">Reading with P.</note>
 
 
-<pb n="188"/>
+<pb n="6.188"/>
 
 
 Near as thou art, thou art yet far from me,
@@ -7889,7 +7891,7 @@ The ancient Hostel’s wont is still the same ;
 
 
 
-<pb n="189"/>
+<pb n="6.189"/>
 
 
 Sikandar went, but left behind him fame.
@@ -7951,7 +7953,7 @@ Or, having nurtured, persecuted not !
 
 
 
-<pb n="190"/>
+<pb n="6.190"/>
 
 
 Whene'er I quit this gloom I will arraign
@@ -7991,18 +7993,18 @@ And on his comrades all increasingly.</q><ref n="1"/>
 </div>
 </div>
 </div>
-<pb n="191"/>
-<div><head>THE ASHKANIAN DYNASTY</head>
+<pb n="6.191"/>
+<div type="textpart" subtype="dynasty" n="Ashkanian"><head>THE ASHKANIAN DYNASTY</head>
 
 
 
-<pb n="192"/>
+<pb n="6.192"/>
 
 
-<pb n="193"/>
-<div><head>XXI. THE ASHKANIANS: THEY REIGNED TWO HUNDRED YEARS</head>
+<pb n="6.193"/>
+<div type="textpart" subtype="reign" n="21"><head>THE ASHKANIANS: THEY REIGNED TWO HUNDRED YEARS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 The poet praises Sultin Mahmud and then, having no subjectmatter in connexion with this dynasty, proceeds to narrate the story of the rise of the race of Sasan in the person of Ardshir
@@ -8029,7 +8031,7 @@ After all, however, this dearth of subject-matter in the core of the poem is not
 
 
 
-<pb n="194"/> authorities as he found them, and long before his days Iranian tradition already had assigned all of heroic or noteworthy that had remained in memory of Ashkanian times to the mythical epochs of the Pishdadian and Kaianian dynasties. He spoke of the ancient tongue (Pahlavi) and of the paladins (Pahlavans), he told at large the gests of Karan, Gidarz, Giv, Bizhan, and others, but had no notion that he was dealing with words, names, personalities, and subject-matter, that had originated in a period dismissed by him in a few couplets as a legendary blank.<ref n="1"/> Again, apart from those heroes of secondary importance, there can be little doubt but that to the invasion of the Sacw, which took place in Parthian times,<ref n="2"/> we owe the Personification of that warrior-race, Rustam himself, the great paladin of paladins.
+<pb n="6.194"/> authorities as he found them, and long before his days Iranian tradition already had assigned all of heroic or noteworthy that had remained in memory of Ashkanian times to the mythical epochs of the Pishdadian and Kaianian dynasties. He spoke of the ancient tongue (Pahlavi) and of the paladins (Pahlavans), he told at large the gests of Karan, Gidarz, Giv, Bizhan, and others, but had no notion that he was dealing with words, names, personalities, and subject-matter, that had originated in a period dismissed by him in a few couplets as a legendary blank.<ref n="1"/> Again, apart from those heroes of secondary importance, there can be little doubt but that to the invasion of the Sacw, which took place in Parthian times,<ref n="2"/> we owe the Personification of that warrior-race, Rustam himself, the great paladin of paladins.
 The importance of the Ashkanian dynasty in the provenance of the subject-matter of the Shahnama therefore is much greater than superficially is apparent, and if all the legendary material of the poem could be replaced in its proper setting there would be no longer such discrepancies in length and interest between this and the two preceding dynasties. Historically of course it synchronises with one of tha most important periods in the world’s history, that of the successors of Alexander the Great, of the Parthian dynasty, and of the dominance of Rome. No one, least of all a translator, would wish that the Shahnama were longer, but one may regret that the misplaced material, which so inordinately prolongs the Kaidnian dynasty, was not kept in its proper connexion in the Ashkanian. As things stand the latter is a mere prelude to the Sasanian dynasty, and is concerned with the rise to power of Ardshir Papakan, its founder, between which and that of Cyrus the Great there is a remarkable resemblance. In both cases there had been a previous incursion of nomads which had resulted in the establishment of their supremacy in western Iran. In the first case it was the Mada who, being confounded with the Mada or true Medes,<ref n="3"/> brought about the establishment of the so-called Median Empire under which the dynasty of the Achemenids occupied a subordinate position in
 Elam and Pars till the successful rebellion of Cyrus, king of
 Elam, against his over-lord Astyages, and his other conquests, reduced all western Asia underneath his rule. In the second case it was the Parthians, also nomads, who established a like empire over the same regions, and under whom the rulers of the house of Papak or Sasdn similarly occupied a subordinate position in Pars, As in the case of Cyrus, so Ardshir, the son of Papak, successfully rebelled against his over-lord, and founded a great
@@ -8041,7 +8043,7 @@ Elam, against his over-lord Astyages, and his other conquests, reduced all weste
 <note n="3">Id. 17.</note>
 
 
-<pb n="195"/>
+<pb n="6.195"/>
 
 
 Persian empire. Again, the rise to power of Cyrus and Ardshir was embellished in each case by legend. In that of Cyrus two distinct accounts have come down to us, from Herodotus and
@@ -8060,7 +8062,7 @@ The Iranian version of this legend, as applied to Ardshir, is extant in the Shah
 
 <note n="3">See Vol. v. p. 24. The reader may be referred to the remarks there made as to the position of such works as the above as contributories to the main stream of Iranian legend.</note>
 
-<pb n="196"/> into portions each of which once, in all probability, formed an independent legend. Thus we have
+<pb n="6.196"/> into portions each of which once, in all probability, formed an independent legend. Thus we have
 </p><p>1. The adapted Cyrus legend.
 </p><p>2. Ardshir’s war with the Kurds.
 </p><p>3. The story of the Worm.
@@ -8096,7 +8098,7 @@ At first sight there seems to be a chance here of our being able to determine at
 <note n="6">Id, 24, and NIN, p. 50, note.</note>
 
 
-<pb n="197"/>
+<pb n="6.197"/>
 
 
 </p><p>§ 2 As to who the thane (dihkin) of Chich was nothing more seems to be known.
@@ -8116,7 +8118,7 @@ East against Roman aggression. The system of Parthian rule, however, was a nomad
 <note n="3">See p. 178 seq.</note>
 
 
-<pb n="198"/> predecessors. With the Achemenids it was a claim to universal sovereignty, with the Arsacids a claim to the suzerainty of Iran. The geographical extent of the lands ruled by themselves, or by their governors on their behalf, was not very great, and the remainder of their empire consisted of kingdoms that retained at least a semi-independence under native rulers. Such, for instance, were the kingdoms of Osroene, Gordyene, and Atropatane
+<pb n="6.198"/> predecessors. With the Achemenids it was a claim to universal sovereignty, with the Arsacids a claim to the suzerainty of Iran. The geographical extent of the lands ruled by themselves, or by their governors on their behalf, was not very great, and the remainder of their empire consisted of kingdoms that retained at least a semi-independence under native rulers. Such, for instance, were the kingdoms of Osroene, Gordyene, and Atropatane
 (Azarbaijan) in the north, Elymais (Elam) and Pars in the south, and Sistiin and Bactria in the east. Further, in the case of Piirs, as we learn from Tabari, and, we may presume, elsewhere also, these Part or Tribal Kings had under them small local kings or princes. In the days of Firdausi’s Ardawin, the last Parthian
 Great King, there seem to have been four such rulers in Pars, one of whom was Puipak, under his immediate over-lord, the Part or Tribal King who ruled at Istakhr. Thus in Parthian times
 Iran was split into two great divisions, one under the Parthian
@@ -8130,7 +8132,7 @@ Piipak succeeded his father, and to him was born Ardshir. The king of Istakhr at
 <note n="2">I.e. “The White”—an Arabic translation of the Persian name of the hill-fort (now Bardi ?) of which a description will be found in Vol. i. p. 236, note, but Professor Nöldeke places it only six German miles north of Shiraz. NT, p. 5, note.</note>
 
 
-<pb n="199"/> announcement to him by an angel<ref n="1"/> in a dream, that he was destined to rule Iran. Thereupon he began to assert himself by attacking and slaying three local kings in Pars, and setting up adherents of his own in their stead. He then wrote to his father Piipak, urging him to rise against Gizihr at Baidi. Papak did so, slew Guzihr, and took his crown. Then P:ipak wrote to Ardawin for permission to crown his (Papak’s) son, Shapur, with the crown of Guzihr. Ardawiin replied that Papak and
+<pb n="6.199"/> announcement to him by an angel<ref n="1"/> in a dream, that he was destined to rule Iran. Thereupon he began to assert himself by attacking and slaying three local kings in Pars, and setting up adherents of his own in their stead. He then wrote to his father Piipak, urging him to rise against Gizihr at Baidi. Papak did so, slew Guzihr, and took his crown. Then P:ipak wrote to Ardawin for permission to crown his (Papak’s) son, Shapur, with the crown of Guzihr. Ardawiin replied that Papak and
 Ardshir had acted as rebels. P:ipak died, his son Shaptur became king and summoned his brother Ardshir to court. Ardshir refused to come, Shapur marched against him, but on the way to Dardbgird was killed by the fall of part of one of the buildings of Humai.<ref n="2"/> On this Ardshir went to Istakhr and, with the assent of his other brothers, became king. However, on the pretext, or in consequence, of a conspiracy on their part against him, he put many of them to death later on. He then reduced
 Diribgird, where the people had taken the opportunity of his absence to rebel against him. Next he conquered the king of
 Kirmin, and annexed that district, of which he made one of his own sons governor. After this he slew Astawadh, a king on the coast of the Persian sea. Next he conquered Mihrak, a king in the district of Ardshir-Khurra, where he founded the town of
@@ -8154,7 +8156,7 @@ The plain of Rum Hurmuz, south of Shishtar, has been suggested as the probable s
 <note n="5">Id.</note>
 
 
-<pb n="200"/> the reign of Bahman,<ref n="1"/> the other here. Both are fictitious, Tabari's account making it clear with regard to the latter that Ardshir was the son, not the grandson on the female side only, of Papak.<ref n="2"/>
+<pb n="6.200"/> the reign of Bahman,<ref n="1"/> the other here. Both are fictitious, Tabari's account making it clear with regard to the latter that Ardshir was the son, not the grandson on the female side only, of Papak.<ref n="2"/>
 In Tabari also two genealogies are given, both of which serve to connect the line of Papak with the Kaiinians. They run as follow :—<ref n="3"/>
 <figure><p>Family trees.</p></figure>
 
@@ -8173,7 +8175,7 @@ The same reason, probably, led Firdausi (F) to put the visit of the master of th
 
 
 
-<pb n="201"/> illuminating the whole world from the head of Sisiin, is not in F.
+<pb n="6.201"/> illuminating the whole world from the head of Sisiin, is not in F.
 In K too the three Fires are Friba, representing the priestly class,
 Gushasp, the warrior-class, and Mihr Barzin, the agricultural.<ref n="1"/> The sending of Sisin to the bath, doubtlessly a very necessary preliminary, is not in the more primitive K.
 
@@ -8203,7 +8205,7 @@ For the mountain-sheep see Vol. i. p. 374.
 <note n="4">NK, i. 42. Cf. p. 195.</note>
 
 
-<pb n="202"/> under his own son, to take Ardshir prisoner.<ref n="1"/> In the meanwhile
+<pb n="6.202"/> under his own son, to take Ardshir prisoner.<ref n="1"/> In the meanwhile
 Ardshir went his way to the coast. As he proceeded, some of the men of Pars, who were hostile to Ardawan, handed over to him goods and chattels and their own persons, and promised him fealty and obedience.</quote><ref n="2"/>
 
 The city founded by Ardshir was called Riv-Ardshir.<ref n="3"/>
@@ -8241,7 +8243,7 @@ Chosroes, the king of Armenia, was either his brather or at
 <note n="9">See p. 199.</note>
 
 
-<pb n="203"/> all events had been set on the throne by him; the Part Kings too had everything to lose by Ardshir’s success, for it was manifest that he had no intention of leaving them in the semiindependent position that they had enjoyed under Parthian suzerainty ; his view with regard to them was, as we have seen already, that <quote>stone dead hath no fellow.</quote><ref n="1"/> Ardshir followed up his success over Ardawin by striking at the heart of that king’s power which, according to Iranian tradition, lay in Media, and here is recorded for us in the account of his expedition against the Kurds, by whom the people of Media are meant, for in K the name of the Kurd king is Madik, which simply means <quote> the Mede.</quote><ref n="2"/> These, so far as Media Magna was concerned, Ardshir seems to have conquered, but Tabari’s statement that he subdued
+<pb n="6.203"/> all events had been set on the throne by him; the Part Kings too had everything to lose by Ardshir’s success, for it was manifest that he had no intention of leaving them in the semiindependent position that they had enjoyed under Parthian suzerainty ; his view with regard to them was, as we have seen already, that <quote>stone dead hath no fellow.</quote><ref n="1"/> Ardshir followed up his success over Ardawin by striking at the heart of that king’s power which, according to Iranian tradition, lay in Media, and here is recorded for us in the account of his expedition against the Kurds, by whom the people of Media are meant, for in K the name of the Kurd king is Madik, which simply means <quote> the Mede.</quote><ref n="2"/> These, so far as Media Magna was concerned, Ardshir seems to have conquered, but Tabari’s statement that he subdued
 Azarbaijan and Armenia appears to be an exaggeration. The case of Azarbaijan is doubtful, but Armenia, whither some of the
 Arsacid princes had fled for refuge, succeeded with the help of
 Rome in maintaining its independence.<ref n="3"/>
@@ -8262,7 +8264,7 @@ On me permettra peut-être de citer à l'appui de cette supposition
 <note n="4">DEI, ii. 83.</note>
 
 
-<pb n="204"/> un conte analogue et presque aussi étrange, qui date de nos jours.
+<pb n="6.204"/> un conte analogue et presque aussi étrange, qui date de nos jours.
 Je me rappelle avoir vu, il y a une trentaine d'années, au ministère du commerce, un rapport du préfet d'un des départements de la
 Bretagne au sujet de la détresse que répandait dans la campagne l'introduction du fil de lin produit par les machines, et de la difficulté que les fileuses à la main trouvaient à lutter contre cette concurrence. Le préfet raconte, à cette occasion, que ces pauvres femmes avaient fini par composer une légende, selon laquelle il y avait une fée, appelée Machine, qui avait sept doigts d'acier et pouvait ainsi filer plus et plus vite qu'elles ne pouvaient le faire avec leurs cinq doigts humains.</quote><ref n="1"/>
 
@@ -8281,7 +8283,7 @@ Two reasons may be suggested why the scene of our story was laid on the shores o
 
 
 
-<pb n="205"/> more famous for its date (khurm:) than for its silk. In Persian, however, it so happens that <quote> kirm</quote> means <quote>worm,</quote> and in fact is the same word. Kirman was supposed to mean <quote> The Land of the Worm,</quote> and thus to be a suitable scene for some ancient
+<pb n="6.205"/> more famous for its date (khurm:) than for its silk. In Persian, however, it so happens that <quote> kirm</quote> means <quote>worm,</quote> and in fact is the same word. Kirman was supposed to mean <quote> The Land of the Worm,</quote> and thus to be a suitable scene for some ancient
 Dragon-myth,<ref n="1"/> or a story may have been invented to account for the name. Both in K and F, it should be noted, Ardshir, after killing the Worm, proceeds to conquer Kirmin, so that we have the romantic and historic accounts of the same event put side by side, the former given at large and the latter very shortly. In
 Tabari too we have the historic version and two brief rationalised versions of the romantic side of the story. He informs us that
 Ardshir subdued Kirmin, slew its king Balash (Vologeses, an
@@ -8304,7 +8306,7 @@ In the former, Haftwid (Haftanbukht) is introduced quite abruptly,<ref n="5"/> a
 
 
 
-<pb n="206"/> because it was well known or unknown, but because it was foreign to the purpose in hand, which was to show by what steps Ardshir rose to supreme power, effected the unification of Irdn, and founded a new dynasty. From this point of view the destruction of Haftwad and the Worm was of importance, but not their yenesis. In the latter we have a much more drastic system of lopping in the interests, apparently, of rationalism. In the second of Tabari’s versions we get a hint that it was the one which, in its unrationalised state, Firdausi followed. The queen there is the daughter here.
+<pb n="6.206"/> because it was well known or unknown, but because it was foreign to the purpose in hand, which was to show by what steps Ardshir rose to supreme power, effected the unification of Irdn, and founded a new dynasty. From this point of view the destruction of Haftwad and the Worm was of importance, but not their yenesis. In the latter we have a much more drastic system of lopping in the interests, apparently, of rationalism. In the second of Tabari’s versions we get a hint that it was the one which, in its unrationalised state, Firdausi followed. The queen there is the daughter here.
 
 The name of Ardshir’s opponent in K—Haftinbukht, which does not scan—becomes Haftwad in F, as it may be so read in the Pahlavi if the central letters are omitted. Haftanbukht, according to Professor Nöldeke, means <gloss>The Seven have redeemed</gloss> with reference to the seven planets which, as creations of Ahriman<ref n="1"/> might be expected, from the orthodox Zoroastrian point of view, to watch over the fortunes of Haftanbukht and the Worm. In Professor Darmesteter’s opinion, however, Furdaust’s etymoloyvy is correct, though based on a misapprehension.
 The word <quote> wad</quote> was due to a misreading of the Pahlavi, but the word <quote>bikht</quote> does mean <quote>son,</quote> and the seven sons are the sevenfold coils, or the seven heads, of the dragon. Both agree that in the original form of the story Haftinbukht was the dragon.<ref n="2"/>
@@ -8329,14 +8331,14 @@ In K the food of the dragon is the blood of sheep and bullocks,<ref n="4"/> not 
 <note n="6">NT, p. 11.</note>
 
 
-<pb n="207"/> divine Grace, but then it stood in front of him and Jed him out of danger to the village where the two brothers, named Burjak and Burj:itur, dwelt.<ref n="1"/>
+<pb n="6.207"/> divine Grace, but then it stood in front of him and Jed him out of danger to the village where the two brothers, named Burjak and Burj:itur, dwelt.<ref n="1"/>
 
 In K Ardshir gets admitted into the castle with the two young men of the village only. In F he takes seven men with him.
 Seven is a favourite number in Persian story, and if, as we have seen above, one of the legends told of Cyrus the Great could be transferred to Ardshir, there seems no reason why a fragment of the legend of the Seven, who made the famous expedition against the stronghold of the mage Gaumata—the false Smerdis—in the days of Darius Hystaspis, should not be transferred here in like manner.<ref n="2"/> In K Ardshir appoints, for some reason not clear to us, the 27th day of the month as the one for decisive action, and
 HaftAnbukht appears to have perished in the fight, not afterwards by formal execution as in F.<ref n="3"/>
 </p></div>
 
-<div><head>§ 1 The Praise of Mahmud</head>
+<div type="textpart" subtype="section" n="1"><head>The Praise of Mahmud</head>
 
 <p>
 Now be the monarch of the world our theme
@@ -8369,7 +8371,7 @@ Ascendeth by Abu'l Muzaffar led ;
 <note n="4">Cf. Vol. i. p. 99.</note>
 
 
-<pb n="208"/>
+<pb n="6.208"/>
 
 
 By fortune and by name victorious he,
@@ -8424,7 +8426,7 @@ The stars acclaim him not as king again.
 
 
 
-<pb n="209"/>
+<pb n="6.209"/>
 
 
 Injustice is the notice to depart
@@ -8491,7 +8493,7 @@ His kin, host, land, his royal form, and face.</q>
 
 
 
-<pb n="210"/>
+<pb n="6.210"/>
 
 
 
@@ -8557,7 +8559,7 @@ He governed in Shiraz and Ispahan,
 <note n="1">I.e. arta= great, and wan or ban=a guardian.</note>
 
 
-<pb n="211"/>
+<pb n="6.211"/>
 
 
 Which scholars call the <q> Marches of the princes.</q>
@@ -8598,7 +8600,7 @@ And worked him day and night. His industry
 <note n="2">The word is the same as that used in the previous reign to describe the monsters on which Yajuj and Majuj fattened in the spring. See p. 164.</note>
 
 
-<pb n="212"/>
+<pb n="6.212"/>
 
 Found favour, and he rose to be chief shepherd.
 
@@ -8674,7 +8676,7 @@ The herd, through terror of him, answered not,
 <note n="1">The names of Fire-temples.</note>
 
 
-<pb n="213"/>
+<pb n="6.213"/>
 
 
 But said at last:  <q>“O prince! if thou wilt give
@@ -8718,7 +8720,7 @@ A growing, glorious, heart-delighting child.
 His sire withal, who joyed to gaze upon him, O. 1367
 
 
-<pb n="214"/>
+<pb n="6.214"/>
 
 
 Named him Ardshir and fostered him through all
@@ -8762,7 +8764,7 @@ There was not aught that he refused the boy.
 
 
 
-<pb n="215"/>
+<pb n="6.215"/>
 
 
 The treasurer brought forth brocade, dinars,
@@ -8805,7 +8807,7 @@ The strength of that young archer, cried: <q> May he
 That shot possess a soul to match his hand.</q>
 
 
-<pb n="216"/>
+<pb n="6.216"/>
 
 Ardshir replied: <q>I shot the onager.</q>
 
@@ -8856,7 +8858,7 @@ Now strive to make him pleased and satisfied,
 And do his will in all. I have dispatched thee
 
 
-<pb n="217"/>
+<pb n="6.217"/>
 
 
 Gold and this letter of advice withal.
@@ -8912,7 +8914,7 @@ Descended boldly. When in all her gems,
 <note n="5"><cit><quote xml:lang="fra">la lanca avec sa main</quote> <bibl>Mohl.</bibl></cit>.</note>
 
 
-<pb n="218"/>
+<pb n="6.218"/>
 
 
 And savouring musk and other spicery,
@@ -8957,7 +8959,7 @@ And three-fourths of the night in listening
 <note n="1">Bahman, as we learn later on, pp. 225 acq.. 259.</note>
 
 
-<pb n="219"/>
+<pb n="6.219"/>
 
 
 With longing heart and sighs upon her lips,
@@ -8999,7 +9001,7 @@ Among the royal gems, took what dinars
 
 
 
-<pb n="220"/>
+<pb n="6.220"/>
 
 
 She needed, went back to her home, and there
@@ -9044,7 +9046,7 @@ Is she offended with me?</q>
 Thereupon
 
 
-<pb n="221"/>
+<pb n="6.221"/>
 
 
 The chief scribe entered, saying:  <q> Yesternight
@@ -9101,7 +9103,7 @@ Repose we here and drink and start refreshed.</q>
 Now when the twain had drawn anigh the water
 
 
-<pb n="222"/>
+<pb n="6.222"/>
 
 Their visages as yellow as the sun,
 
@@ -9152,7 +9154,7 @@ And tell him all. Perchance he may discover
 Trace of Ardshir whom we must suffer not
 
 
-<pb n="223"/>
+<pb n="6.223"/>
 
 
 To milk this mountain-sheep.</q><ref n="1"/>
@@ -9196,7 +9198,7 @@ Of heart though old, while troop on troop the folk
 
 
 
-<pb n="224"/>
+<pb n="6.224"/>
 
 
 Flocked to the youth from mountain and from sea,
@@ -9240,7 +9242,7 @@ Thou fram’st anew the head of sovereignty,
 <note n="1">Observe the Sasanian view of Sikandar. C7. p. 15.</note>
 
 
-<pb n="225"/>
+<pb n="6.225"/>
 
 
 But must clear Pars of Weeds and afterward
@@ -9302,7 +9304,7 @@ Upon the march because his force was great.
 The veteran was shrewd, knew what Ardshir
 
 
-<pb n="226"/>
+<pb n="6.226"/>
 
 
 Thought, and came with the Zandavasta, saying :—
@@ -9343,7 +9345,7 @@ And from the army’s centre came Ardshir.
 Whereat Bahman. the son of Ardawan,
 
 
-<pb n="227"/>
+<pb n="6.227"/>
 
 
 Fled pierced with arrows and his soul all gloom,
@@ -9384,7 +9386,7 @@ The world was straitened to the common folk, —
 <note n="2">I.e. Ardshir.</note>
 
 
-<pb n="228"/>
+<pb n="6.228"/>
 
 
 <milestone unit="calced" n="1378"/>
@@ -9432,7 +9434,7 @@ And were not taken in the net of bale.
 They went in tears to Hindustan, and thou ee
 
 
-<pb n="229"/>
+<pb n="6.229"/>
 
 
 Mayst well narrate a tale concerning them.<ref n="1"/>
@@ -9482,7 +9484,7 @@ As Khurra-i-Ardshir.<ref n="4"/> Within, a spring
 <note n="4">Khurra-i-Ardshir, <quote>The Grace of Ardshir,</quote> was the name given by him to the district and city of Gur, not Zur as in the text, now Firuzabad. See NT, p. 11 and note.</note>
 
 
-<pb n="230"/>
+<pb n="6.230"/>
 
 
 That never failed gave water for canals.
@@ -9545,7 +9547,7 @@ And stir, the Shah marked on a mountain-side
 <note n="2">Id. 175 and note.</note>
 
 
-<pb n="231"/>
+<pb n="6.231"/>
 
 
 A fire, and went toward it with his men.
@@ -9599,7 +9601,7 @@ With scimitars, and took in company
 A thousand archers with artillery.
 
 
-<pb n="232"/>
+<pb n="6.232"/>
 
 
 </p></div>
@@ -9642,7 +9644,7 @@ This tale, when thou shalt hear, of what befell.
 Of Kujaran, a city on the sea
 
 
-<pb n="233"/>
+<pb n="6.233"/>
 
 
 Of Pars, told by a rustic bard for he
@@ -9686,7 +9688,7 @@ The girls grew merry and began to laugh,
 
 
 
-<pb n="234"/>
+<pb n="6.234"/>
 
 Grew blithe of blee and showed their silver teeth.
 
@@ -9728,7 +9730,7 @@ Were beautifully hued, and it outgrew
 The distaft-case. Its coat, which turned as dark
 
 
-<pb n="235"/> 
+<pb n="6.235"/> 
 
 As musk, had saffron spots throughout. Haftwad
 Prepared a goodly, sable cabinet,
@@ -9773,7 +9775,7 @@ Grew large as elephant’s, and then Haftwad
 <note n="1">Reading with P.</note>
 
 
-<pb n="236"/>
+<pb n="6.236"/>
 
 
 Surnamed the hold Kirman,<ref n="1"/> his own bright daughter
@@ -9833,7 +9835,7 @@ He left ease, feasting, and repose, and crossed
 <note n="1">See p. 204.</note>
 <note n="2">Six couplets omitted.</note>
 
-<pb n="237"/>
+<pb n="6.237"/>
 
 
 The water in a boat. That atheling,
@@ -9902,7 +9904,7 @@ Mihrak son of Nushzaéd—who, when he heard
 <note n="1">Of Kaian race, according to P.</note>
 
 
-<pb n="238"/>
+<pb n="6.238"/>
 
 
 About the expedition of Ardshir,
@@ -9947,7 +9949,7 @@ Through the luck of the Worm. Had I directed it
 
 
 
-<pb n="239"/>
+<pb n="6.239"/>
 
 
 Against Ardshir the feathers would have pierced him.
@@ -9997,7 +9999,7 @@ His nobles well, prepared him pleasant quarters,
 And furnished food that was acceptable.
 
 
-<pb n="240"/>
+<pb n="6.240"/>
 
 The mighty men sat with the Shah at meat
 
@@ -10069,7 +10071,7 @@ Deriveth from the brain of Ahriman—
 
 
 
-<pb n="241"/>
+<pb n="6.241"/>
 
 
 The foeman of the Maker of the world.
@@ -10117,7 +10119,7 @@ Both day and night, shrewd cavaliers and guides,
 
 
 
-<pb n="242"/>
+<pb n="6.242"/>
 
 And furthermore both day and night employ
 
@@ -10166,7 +10168,7 @@ And have no rest from toil, am well to do
 <note n="1">When taking the Brazen Hold. See Vol. v. p, 143.</note>
 
 
-<pb n="243"/>
+<pb n="6.243"/>
 
 
 By favour of the Worm and now have come
@@ -10234,7 +10236,7 @@ He bore the molten metal to the tank,
 <note n="1">J.c. his former entertaincrs—the two youths. See p. 239.</note>
 
 
-<pb n="244"/>
+<pb n="6.244"/>
 
 
 Whence that tame creature raised its head. They saw
@@ -10282,7 +10284,7 @@ For if Haftwad escapeth from our midst
 
 
 
-<pb n="245"/>
+<pb n="6.245"/>
 
 
 Thou wilt have naught in hand but toil and wind.
@@ -10324,21 +10326,21 @@ Because its favour changeth every day.
 <note n="1">Cf. p. 243, note.</note>
 </p></div></div></div>
 
-<pb n="246"/>
+<pb n="6.246"/>
 
 
-<pb n="247"/>
+<pb n="6.247"/>
 
 
 
 
 
-<pb n="248"/>
+<pb n="6.248"/>
 
-<pb n="249"/>
-<div><head>IV. THE SASANIAN DYNASTY</head>
+<pb n="6.249"/>
+<div type="textpart" subtype="dynasty" n="Sasanian-a"><head>IV. THE SASANIAN DYNASTY</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 The poet, in this the concluding dynasty of the Shahn:ima, tells of the rise, progress, and fall of the Sisinian empire from the days of its founder, Ardshir P:ipakin, to those of Yazdagird, the last Shah of the dynasty. He commemorates the reigns of its twenty-nine Shahs, for the most part very briefly, but in some instances at great length, as in the cases of Bahram Gur, Nushirwin, and Khusrau Parwiz. He records, so far as Iranian tradition kept such things in memory, the foreign relations of the empire with other kings, races, and peoples, its internal administration and domestic concerns, the adventures that befell and the wisdom that was uttered, the invention of chess and the coming of the
@@ -10354,7 +10356,7 @@ Inaugural speeches, and deaths are recorded. The occurrence, more than once, of 
 
 
 
-<pb n="250"/> to Atkinson's view that the interest of the Shahnama ends with the reign of Sikandar.<ref n="1"/> From this it might be thought that the poet, weary with his long labours and soured by hope deferred, had hurried over or scamped the concluding portion of his vast undertaking. It might be thought that even in the places where material is abundant his version of it had not the technique and attractiveness found in the earlier dynasties. In the opinion of the present writer such views are not justified by the facts of the case. It is true that here the visions of the childhood of the world fade into the light of common day, and the superhuman yives place to the human, but there is a measure of compensation in that very fact, and the study of the history of a whole epoch as it was conceived, interpreted, and handed down by popular tradition, cannot fail of interest and instruction. It must be remembered too that no other great poet ever imposed such strict limitations on himself, or so sternly adhered to them, as did Firdausi. He puts himself at the mercy of his authorities, and where they fail him, as they do sometimes in this portion of the Shahnama, he makes no attempt to invent incidents, but leaves a blank and passes on. This is a proceeding for which the pvet should be praised rather than blamed. He was engaged in a high task, no doubt believed in the tales that he retold, just as his countrymen believe in them still, and he refused to add to the sacred story of his race as he found it in tradition. In cases, however, where his authorities offered him an opportunity he shows no falling off in vigour, as the reign of Bahram Ghir, which will be found in the next volume, is in itself sufticient to prove.
+<pb n="6.250"/> to Atkinson's view that the interest of the Shahnama ends with the reign of Sikandar.<ref n="1"/> From this it might be thought that the poet, weary with his long labours and soured by hope deferred, had hurried over or scamped the concluding portion of his vast undertaking. It might be thought that even in the places where material is abundant his version of it had not the technique and attractiveness found in the earlier dynasties. In the opinion of the present writer such views are not justified by the facts of the case. It is true that here the visions of the childhood of the world fade into the light of common day, and the superhuman yives place to the human, but there is a measure of compensation in that very fact, and the study of the history of a whole epoch as it was conceived, interpreted, and handed down by popular tradition, cannot fail of interest and instruction. It must be remembered too that no other great poet ever imposed such strict limitations on himself, or so sternly adhered to them, as did Firdausi. He puts himself at the mercy of his authorities, and where they fail him, as they do sometimes in this portion of the Shahnama, he makes no attempt to invent incidents, but leaves a blank and passes on. This is a proceeding for which the pvet should be praised rather than blamed. He was engaged in a high task, no doubt believed in the tales that he retold, just as his countrymen believe in them still, and he refused to add to the sacred story of his race as he found it in tradition. In cases, however, where his authorities offered him an opportunity he shows no falling off in vigour, as the reign of Bahram Ghir, which will be found in the next volume, is in itself sufticient to prove.
 In it we seem to discern the soil and the seed whence sprang in after ages the well-beloved Nights called Arabian, but certainly of Persian origin, for we have the Shah roaming disguised, or at least unrecognised, among his subjects of all classes, the freaks of despotic power, the humorous exaggerations, the Rabelaisian tale, and the clash of the cymbals of the Brides of the Treasure.
 Finally, in the story of Bahrum Chubina, which Macan admired so much,<ref n="2"/> the Siisanian dynasty possesses a historical romance both admirable in itself and admirably set forth by the poet. It remains to call attention to a few other points in connexion with this dynasty.
 
@@ -10365,7 +10367,7 @@ Ardshir Papakin laid it down as u fundamental principle of government, if Irania
 <note n="2">C, Vol. i. p. xxxvii.</note>
 
 
-<pb n="251"/> were brothers; they wore one cloak; they were two pieces of brocade interwoven; the slanderer of the Throne and the persecutor of the Faith were alike impious.<ref n="1"/> Whether Ardshir really spoke to this effect or not matters little. If he did not say so in word his deeds said it for him, and most of his successors followed his example. Later ayes, noting this marked feature of the dynasty—the close union between the Throne and the Faith—naturally may have attributed corresponding sentiments to its founder. Accordingly the religion of Zoroaster, as represented by its official priesthood and supported by the throne, obtained during Sisinian times a position of influence and dignity such as it never previously had enjoyed, at all events since the semi-mythical epoch of Gushtisp and of Asfandiyir.
+<pb n="6.251"/> were brothers; they wore one cloak; they were two pieces of brocade interwoven; the slanderer of the Throne and the persecutor of the Faith were alike impious.<ref n="1"/> Whether Ardshir really spoke to this effect or not matters little. If he did not say so in word his deeds said it for him, and most of his successors followed his example. Later ayes, noting this marked feature of the dynasty—the close union between the Throne and the Faith—naturally may have attributed corresponding sentiments to its founder. Accordingly the religion of Zoroaster, as represented by its official priesthood and supported by the throne, obtained during Sisinian times a position of influence and dignity such as it never previously had enjoyed, at all events since the semi-mythical epoch of Gushtisp and of Asfandiyir.
 Even with all its official advantages, however, the priesthood had much ado to maintain itself, amid the religious ferment of those centuries, alike against the antagonism of rival Faiths without and heresy within.<ref n="2"/> Orthodox Zoroastrianism was more than once almost in the position of an Athanasius contra mundum<ref n="3"/> The
 Sisanian Shahs, for the most part, seem to have done their best to support the priesthood, and the latter showed its gratitude by a deep and loyal devotion to the House of Sasan. This loyalty to the throne, coupled with aversion from all that was heterodox or unorthodox, was reflected in the national tradition as handed down by the chroniclers of the time, who for the most part were
 Zoroastrian priests themselves. Consequently in this part of the
@@ -10385,7 +10387,7 @@ A curious instance of this close union between Church and State
 <note n="4">See pp. 92, 95.</note>
 
 
-<pb n="252"/> in Sasanian times is given by Mas’udi in his <title>Book of Indication and Revision</title>, but a few words may be said by way of preface.
+<pb n="6.252"/> in Sasanian times is given by Mas’udi in his <title>Book of Indication and Revision</title>, but a few words may be said by way of preface.
 According to Zoroastrianism there are to be twelve millennia, at the expiration of the last of which—the present one—will come the Restoration of all things. Now the tenth millennium began on the day when the Revelation came to Zarduhsht,<ref n="1"/> and in the
 Dinkard we find a prophecy, after the event, that the last two centuries of that particular millennium would be periods of great misery and wretchedness.<ref n="2"/> The Dinkard was compiled during the ninth century A.D., and Mas’udi flourished during the first half of the tenth. This is what he tells us :—<quote>There is a great difference between the opinion of the Persians and that of other people with reference to the epoch of Alexander, which most folk have not noticed. It is one of the secrets of the religion and royal policy of the Persians and is known only to the most erudite among the priests, as we have seen for ourselves in the province of Pars,
 Kirman, and other countries where the Persians rule. It is not found in any of the books on Persian history or in any chronicle or annals. It is this. Zoroaster ...in the Avasta—the book revealed to him—announces that in three centuries the empire of the Persians will experience a great revolution, without destruction to the religion, but that at the end of a thousand years, starting from the same epoch, that of Zoroaster, the empire and the reliyion will perish together. Now between Zoroaster and
@@ -10395,7 +10397,7 @@ Alexander there is about three hundred years, for Zoroaster appeared in the time
 <note n="2">WPT, v. 94 seq.</note>
 
 
-<pb n="253"/> difference between the Persians and other nations with respect to the era of Alexander, aud this is why confusion has been imported into the annals of the Part Kings.</quote><ref n="1"/> Whatever we may think with regard to the historical value of this explanation the fact remains that the duration of the epoch between Alexander the
+<pb n="6.253"/> difference between the Persians and other nations with respect to the era of Alexander, aud this is why confusion has been imported into the annals of the Part Kings.</quote><ref n="1"/> Whatever we may think with regard to the historical value of this explanation the fact remains that the duration of the epoch between Alexander the
 Great and Ardshir Papakin is reduced by Oriental historians generally. Its standard length may be put, as given by them, at 266 years. The above account makes Ardshir strike out 288 years of the actual historical number of 548 years.
 
 </p><p>
@@ -10411,11 +10413,10 @@ A genealogical table of the Sisdnians, according to the Shahnama, will be found 
 </p>
 </div>
 
-<pb n="254"/>
+<pb n="6.254"/>
 
-<div><head>XXII. ARDSHIR PAPAKAN: HE REIGNED FORTY YEARS AND TWO MONTHS</head>
-<div>
-<head>ARGUMENT</head>
+<div type="textpart" subtype="reign" n="22"><head>ARDSHIR PAPAKAN: HE REIGNED FORTY YEARS AND TWO MONTHS</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 <p>
 Ardshir, having become King of kings, marries the daughter of
 Ardawan, who attempts to poison him and is saved by Ardshir’s minister. Shaptir is born and recognised by his father Ardshir. Ardshir consults Kaid about the future. Kaid’s reply. The adventure of Shapur with the daughter of Mihrak. The birth of Urmuzd, who is acknowledged by Ardshir as his grandson. Account of Ardshir’s administration. He counsels Shapur and dies. The poet ends the reign with praises of Mahmud.</p>
@@ -10441,7 +10442,7 @@ We have two accounts of the assumption of the title <quote> King of kings</quote
 <note n="4">NT, p. 16, and note.</note>
 
 
-<pb n="255"/> wording it might be held that the former was the popular, the latter the official, ascription of the title. For its import in connexion with Ardshir see p. 197. Cf. too p. 199.
+<pb n="6.255"/> wording it might be held that the former was the popular, the latter the official, ascription of the title. For its import in connexion with Ardshir see p. 197. Cf. too p. 199.
 
 </p><p>§§ 2, 3. Firdausi’s account agrees partly with the Karnimak and partly with the Arabic versions, showing clearly that the former was not his direct authority. According to K two of
 Ardawan’s sons had fled to K:ibul and thence incited Ardawin’s daughter, whose name is given as Zijanak, to poison Ardshir, her husband. One day accordingly, on his return from the chase, she presents to him a cup of roast meal and milk with which she has mingled the poison. As he was about to drink, the sacred Fire,
@@ -10457,7 +10458,7 @@ Later on, thinking herself secure, as she was with child by him, she told him wh
 <note n="3">Historically this is incorrect. See p. 202.</note>
 
 
-<pb n="256"/> aged man, to put her to death,<ref n="1"/> and then follows the rest of the story as told in the Shahnama, All these accounts make Shaptir much too young. According to Tabari he was present at the battle of Hurmuzdagan and slew with his own hand Ardawin’s secretary.<ref n="2"/>  Tabari thus appears to contradict himself, but the reader should bear in mind that it is the custom of Oriental historians to give several versions, derived from different sources, of the same event or person, not to digest such versions, as a
+<pb n="6.256"/> aged man, to put her to death,<ref n="1"/> and then follows the rest of the story as told in the Shahnama, All these accounts make Shaptir much too young. According to Tabari he was present at the battle of Hurmuzdagan and slew with his own hand Ardawin’s secretary.<ref n="2"/>  Tabari thus appears to contradict himself, but the reader should bear in mind that it is the custom of Oriental historians to give several versions, derived from different sources, of the same event or person, not to digest such versions, as a
 Western writer would do, into a single narrative.
 
 A similar account of the rewards bestowed by the grateful
@@ -10486,7 +10487,7 @@ That he wittingly spared any of them, male or female, is most unlikely, and a le
 
 
 
-<pb n="257"/> case, to connect the Sasanians with their predecessors. It is worth noting too that in the Arabic historian Hamza the daughter of Mihrak is called Kurdzad, i.e. <gloss>the child of the Kurds</gloss>.<ref n="1"/> This explains the words of Kait’s prophecy in K and, what is hard to understand otherwise, why such great importance should be attached to Mihrak and his family in the various versions of the legends unless we regard them as all originating from a single historical incident in Ardshir Papakan’s career, F’s insight in varying the form. of Kaid’s prophecy brings out the historical truth that Iran could be restored to internal peace only by the voluntary union of the old and new political dispensations.
+<pb n="6.257"/> case, to connect the Sasanians with their predecessors. It is worth noting too that in the Arabic historian Hamza the daughter of Mihrak is called Kurdzad, i.e. <gloss>the child of the Kurds</gloss>.<ref n="1"/> This explains the words of Kait’s prophecy in K and, what is hard to understand otherwise, why such great importance should be attached to Mihrak and his family in the various versions of the legends unless we regard them as all originating from a single historical incident in Ardshir Papakan’s career, F’s insight in varying the form. of Kaid’s prophecy brings out the historical truth that Iran could be restored to internal peace only by the voluntary union of the old and new political dispensations.
 
 The scene at the well between Shapur and the daughter of
 Mihrak is not found in the Arabic versions. In Tabari the girl takes refuge with shepherds and provides Shapur with water one day when he is hunting. He falls in love with her and takes her in marriage, after which she tells him of her parentage. The
@@ -10520,9 +10521,9 @@ The duration of the Sasanian dynasty was 425 years—A.D.
 </div>
 
 
-<pb n="258"/>
+<pb n="6.258"/>
 
-<div><head>§ 1 How Ardshir Papakan sat upon the Throne in Baghdad</head>
+<div type="textpart" subtype="section" n="1"><head>How Ardshir Papakan sat upon the Throne in Baghdad</head>
 
 <p>
 Now at Baghdad Ardshir assumed his seat
@@ -10556,7 +10557,7 @@ The usage of the scimitar and throne.
 <note n="1">Cf. PP 193, 197, 199, 254, 273.</note>
 
 
-<pb n="259"/>
+<pb n="6.259"/>
 
 
 </p></div>
@@ -10601,7 +10602,7 @@ Full of cold water, sugar, and fine meal,
 
 
 
-<pb n="260"/>
+<pb n="6.260"/>
 
 And mixed therewith the bane to please Bahman.
 
@@ -10656,7 +10657,7 @@ Come from the Shah! We all, both young and old,
 Must die, and he is sonless! Though he live
 
 
-<pb n="261"/>
+<pb n="6.261"/>
 
 
 To count unnumbered years yet when he dieth
@@ -10699,7 +10700,7 @@ Of Ardawan brought forth a son—one ardent
 And with the royal mjen. The minister
 
 
-<pb n="262"/>
+<pb n="6.262"/>
 
 
 Excluded all folk, named the babe Shapur,<ref n="1"/>
@@ -10741,7 +10742,7 @@ He made reply : <q>Pure and shrewd-hearted Shah
 <note n="1">I.e, Shah’s son,</note>
 
 
-<pb n="263"/>
+<pb n="6.263"/>
 
 
 I gave a casket to thy treasurer :
@@ -10791,7 +10792,7 @@ My heart will be a witness to the truth,
 
 
 <milestone unit="calced" n="1396"/>
-<pb n="264"/>
+<pb n="6.264"/>
 
 And make me know my son.</q>
 
@@ -10833,7 +10834,7 @@ The horsemen raised the young prince from the ground,
 And passed him on from hand to hand until
 
 
-<pb n="265"/>
+<pb n="6.265"/>
 
 
 The king of kings could clasp him to the breast,
@@ -10904,7 +10905,7 @@ Bestowed a treasure on the poor that lived
 
 
 
-<pb n="266"/>
+<pb n="6.266"/>
 
 
 By labour, chose a site where brambles grew,
@@ -10946,7 +10947,7 @@ And said to him:  <q>Go to the sage and say :—
 <q>O man of fortune and of truthful speech !
 
 
-<pb n="267"/>
+<pb n="6.267"/>
 
 
 Find from the stars when I shall rest from war,
@@ -10999,7 +11000,7 @@ Against my realm! Woe for my lavished treasure,
 <note n="1">We must suppose that the troubles of the Shah arose from the fact that two of the sons of Ardawan had taken refuge in Hind which, either directly or indirectly, was assisting them and their adherents in Irén. P reads <q> between these two families,</q> i.e. the rival dynasties of Ardshir and Ardawin.</note>
 
 
-<pb n="268"/>
+<pb n="6.268"/>
 
 
 Mine expeditions sent, and labours borne!
@@ -11046,7 +11047,7 @@ She saw Shapur she came and showered blessings :—
 Thy years unscathed! Thy courser is athirst,
 
 
-<pb n="269"/>
+<pb n="6.269"/>
 
 
 No doubt, and all the water in the village
@@ -11085,7 +11086,7 @@ This saying from the lips of truthful men :—
 <q>The brave Shapur is like an elephant
 
 
-<pb n="270"/>
+<pb n="6.270"/>
 
 
 In strength, as bounteous as the river Nile,
@@ -11132,7 +11133,7 @@ With all the rites of those that worship Fire.
 
 
 
-<pb n="271"/>
+<pb n="6.271"/>
 
 
 </p></div>
@@ -11172,7 +11173,7 @@ Bare off the ball before his grandsire’s face,
 <note n="2">Probably Shédh Bahman is meant. Cf. previous note and Vol. v. p. 282.</note>
 
 
-<pb n="272"/>
+<pb n="6.272"/>
 
 
 
@@ -11224,7 +11225,7 @@ Embraced that darling child, then sought his throne.
 He had a golden ante-throne prepared,
 
 
-<pb n="273"/>
+<pb n="6.273"/>
 
 
 And bade bring torque and golden coronet
@@ -11269,7 +11270,7 @@ Who toiled, gave virtue vogue, and everywhere
 
 
 
-<pb n="274"/>
+<pb n="6.274"/>
 
 
 Spread love and justice. As his forces grew
@@ -11312,7 +11313,7 @@ With soldiers for his flock.
 He kept a staff
 
 
-<pb n="275"/>
+<pb n="6.275"/>
 
 
 Of experts in his public offices,
@@ -11356,7 +11357,7 @@ Lie wronged by them? What learnéd men are there?
 Are any faint through want? Would any be
 
 
-<pb n="276"/>
+<pb n="6.276"/>
 
 Of service to the Shah as being old
 
@@ -11401,7 +11402,7 @@ Because his grave will be at hand, or chains
 Will gall his neck and breast, or else his name
 
 
-<pb n="277"/>
+<pb n="6.277"/>
 
 
 Will be struck off the roll, and he himself
@@ -11470,7 +11471,7 @@ Wouldst live unvexed and scathless turn in naught
 
 
 
-<pb n="278"/>
+<pb n="6.278"/>
 
 
 From these my counsellings, and in thy triumphs
@@ -11514,7 +11515,7 @@ And thus increase the number of his subjects.
 <note n="1">Reading with P.</note>
 
 
-<pb n="279"/>
+<pb n="6.279"/>
 
 
 So his good name is current now as then
@@ -11557,7 +11558,7 @@ And make the world as bright as in his age ;
 <note n="2">Reading with P.</note>
 
 
-<pb n="280"/>
+<pb n="6.280"/>
 
 
 
@@ -11617,7 +11618,7 @@ Like Raman silk to me. Thanks be to God,
 Who gave me strength, exalted star, and favour
 
 
-<pb n="281"/>
+<pb n="6.281"/>
 
 
 From Sol and Saturn; yet who knoweth how
@@ -11691,7 +11692,7 @@ Ye young and old! the words of famed Ardshir.
 
 
 
-<pb n="282"/>
+<pb n="6.282"/>
 
 
 The man who knoweth that the Just One is
@@ -11750,7 +11751,7 @@ Security from loss. Pause not from learning
 If thou wouldst fire thy mind. If thou hast children
 
 
-<pb n="283"/>
+<pb n="6.283"/>
 
 
 Have them instructed and cut short their play.
@@ -11825,7 +11826,7 @@ The world too prosper ‘neath my righteous sway.</q>
 <note n="1">Cf. p. 208 and note.</note>
 
 
-<pb n="284"/>
+<pb n="6.284"/>
 
 
 </p></div>
@@ -11870,7 +11871,7 @@ Hath been illumed by sight of thee. Thou art
 A robe of honour God-bestowed on fortune,
 
 
-<pb n="285"/>
+<pb n="6.285"/>
 
 
 On girdle, crown, and throne. Still may the Shah
@@ -11918,7 +11919,7 @@ A great exemplary is king Ardshir,
 So bear in mind my tale when thou shalt hear.
 
 
-<pb n="286"/>
+<pb n="6.286"/>
 
 
 </p></div>
@@ -11976,7 +11977,7 @@ Are they all interwoven and set up
 <note n="1">Cf, p. 254</note>
 
 
-<pb n="287"/>
+<pb n="6.287"/>
 
 
 Before the wise. The Faith doth need the Shah,
@@ -12020,7 +12021,7 @@ Thou sufferest fear to come within thy heart
 <note n="1">Cf. p. 250.</note>
 
 
-<pb n="288"/>
+<pb n="6.288"/>
 
 
 The counsels of thy foes’ hearts will prevail.
@@ -12082,7 +12083,7 @@ The Shah and worldlord should be wise that he
 May be benevolent to every one.
 
 
-<pb n="289"/>
+<pb n="6.289"/>
 
 
 If any man is rash and insolent,
@@ -12157,7 +12158,7 @@ And others of thy kin, will turn aside
 
 
 
-<pb n="290"/>
+<pb n="6.290"/>
 From this my charge, depart from rede and knowledge
 
 
@@ -12225,7 +12226,7 @@ And grass—foundations both, as thou mayst say,
 <note n="5">The Cistern of Ardshir.</note>
 
 
-<pb n="291"/>
+<pb n="6.291"/>
 
 
 Of Shah Ardshir.<ref n="1"/> Bear them in mind when thou
@@ -12268,7 +12269,7 @@ From Him are passion and tranquillity:
 They are given in Tabari’s list of Ardshir’s foundations. NT, p. 19.
 
 
-<pb n="292"/>
+<pb n="6.292"/>
 
 
 He made the starry heavens, earth, and time
@@ -12313,7 +12314,7 @@ In fight he maketh heaven his echoer,
 He scattereth jewels at his banquetings.
 
 
-<pb n="293"/>
+<pb n="6.293"/>
 
 
 When he is wroth the mountains melt away,
@@ -12358,11 +12359,11 @@ And with the world his head and crown ne’er part.
 4A sky that fulfils its promise of rain.
 
 </p></div></div>
-<pb n="294"/>
+<pb n="6.294"/>
 
-<div><head>XXIII. SHAPUR, SON OF ARDSHIR: HE REIGNED THIRTY YEARS AND TWO MONTHS</head>
+<div type="textpart" subtype="reign" n="23"><head>SHAPUR, SON OF ARDSHIR: HE REIGNED THIRTY YEARS AND TWO MONTHS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 
 <p>Shapur ascends the throne and addresses the chiefs. He wars with success against Rum, appoints Urmuzd his successor, and dies.</p></div>
@@ -12380,12 +12381,12 @@ Palmyra, who later on made himself master of Mesopotamia and ruled from the Tigr
 
 <note n="1">NT, p. 32, and note.</note>
 
-<pb n="295"/> the tale is told in connexion with Shapur, son of Urmuzd. The triumph over Valerian was commemorated in many memorials by his conqueror.<ref n="1"/> The name of the city built for the Roman captives was Gund-i-Shapur, probably the Shapur Gird of Firdausi as both cities are described as being in Susiana. It was between Susa and Shushtar, and its situation is indicated by the ruins of
+<pb n="6.295"/> the tale is told in connexion with Shapur, son of Urmuzd. The triumph over Valerian was commemorated in many memorials by his conqueror.<ref n="1"/> The name of the city built for the Roman captives was Gund-i-Shapur, probably the Shapur Gird of Firdausi as both cities are described as being in Susiana. It was between Susa and Shushtar, and its situation is indicated by the ruins of
 Shahabdd.<ref n="2"/> The great dam in connexion with the river Karun is still in existence. It is very likely that Shapur’s Roman prisoners helped to make it. It is known as the <quote> Band-i-Kaisar.</quote><ref n="3"/></p>
 
 </div>
 
-<div><head>§ 1 How Shapur sat upon the Throne and delivered a Charge to the Chieftains</head>
+<div type="textpart" subtype="section" n="1"><head>How Shapur sat upon the Throne and delivered a Charge to the Chieftains</head>
 <p>
 
 
@@ -12424,7 +12425,7 @@ To compass wisdom and is wise in knowing
 <note n="3">Cf. Ency. Brit., 11th ed., s.v. <title>Shushter</title>.</note>
 
 
-<pb n="296"/>
+<pb n="6.296"/>
 
 
 That it is God to whom his thanks are due.
@@ -12489,7 +12490,7 @@ Is occupied no more, wise Shah Ardshir
 Hath died and left Shapur the throne and crown.</q>
 
 
-<pb n="297"/>
+<pb n="6.297"/>
 
 
 
@@ -12543,7 +12544,7 @@ What wilt thou say to our just Judge and Guide
 
 
 
-<pb n="298"/>
+<pb n="6.298"/>
 
 When questioned at the Day of Reckoning ?
 
@@ -12618,7 +12619,7 @@ Employ thou to some purpose in this land
 <note n="3">Mohl keeps Kuhandizh (old fort) as a proper name.</note>
 
 
-<pb n="299"/>
+<pb n="6.299"/>
 
 
 The skill of Raman engineers and, when
@@ -12679,7 +12680,7 @@ Some worthless one will batten on thy toil,
 
 
 
-<pb n="300"/>
+<pb n="6.300"/>
 
 
 Thou wilt be clean forgotten by thy sons,
@@ -12694,11 +12695,11 @@ Turn then to God and multiply His praise,
 Who feedeth thee and guideth all thy ways.
 
 </p></div></div>
-<pb n="301"/>
+<pb n="6.301"/>
 
-<div><head>XXIV. URMUZD, SON OF SHAPUR: HE REIGNED ONE YEAR AND TWO MONTHS</head>
+<div type="textpart" subtype="reign" n="24"><head>URMUZD, SON OF SHAPUR: HE REIGNED ONE YEAR AND TWO MONTHS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 Urmuzd, whose reign proved to be a very brief one, succeeds his father and harangues the nobles. Feeling the approach of death he summons his son Bahram, appoints him successor, gives him good counsel, and dies.</p></div>
@@ -12719,8 +12720,8 @@ His father, deeply distressed, arranged that mutilation should be no bar in that
 
 </p></div>
 
-<pb n="302"/>
-<div><head>§ 1 How Urmuzd addressed the Assembly</head>
+<pb n="6.302"/>
+<div type="textpart" subtype="section" n="1"><head>How Urmuzd addressed the Assembly</head>
 <p>
 Now will I make the diadem and throne
 
@@ -12779,7 +12780,7 @@ And should combine. What marvel if the heart
 <note n="1">Urmuzd was the name of the first day of cach solar month—a day considered particularly propitious for beginning any undertaking —e.g. a journey.</note>
 
 
-<pb n="303"/>
+<pb n="6.303"/>
 
 
 Of any king that putteth from him love
@@ -12828,7 +12829,7 @@ And knowledge! feebleness hath come upon me,
 And made my face self-coloured with my hair.
 
 
-<pb n="304"/>
+<pb n="6.304"/>
 
 Bent is the straight-stemmed Cypress, and the rose,
 
@@ -12886,7 +12887,7 @@ And seek no friendship with thine enemy
 Although he hail thee king; that tree is green
 
 
-<pb n="305"/>
+<pb n="6.305"/>
 
 
 Its fruit is colocynth, and if thou graspest
@@ -12947,7 +12948,7 @@ By gratifying friends thou wilt increase
 Their pleasure and their welfare. Frown on foes,
 
 
-<pb n="306"/>
+<pb n="6.306"/>
 
 
 And make the faces of ill-wishers pale.
@@ -12974,9 +12975,9 @@ To rest from speech and put thy hand to wine.
 
 
 </p></div></div>
-<pb n="307"/>
+<pb n="6.307"/>
 
-<div><head>XXV. BAHRAM SON OF URMUZD: HE REIGNED THREE YEARS, THREE MONTHS, AND THREE DAYS</head>
+<div type="textpart" subtype="reign" n="25"><head>BAHRAM SON OF URMUZD: HE REIGNED THREE YEARS, THREE MONTHS, AND THREE DAYS</head>
 <div><head>NOTE</head>
 
 <p>
@@ -12986,7 +12987,7 @@ Urmuzd (Sapor II.).<ref n="1"/>
 Historically Bahram appears to have been the son of Shapur, son of Ardshir (Sapor I.), not of Urmuzd, son of Shapur.<ref n="2"/>
 </p></div>
 
-<div><head>§1 How Bahram succeeded to the Throne, charged the Nobles, and died</head>
+<div type="textpart" subtype="section" n="1"><head>How Bahram succeeded to the Throne, charged the Nobles, and died</head>
 
 <p>
 The diadem of Shéh Bahram essay—
@@ -13005,7 +13006,7 @@ Because the royal throne becometh thee;
 
 
 
-<pb n="308"/>
+<pb n="6.308"/>
 
 Thou hast the kingship from thine ancestors.
 
@@ -13053,7 +13054,7 @@ His heart’s delight—Bahram, son of Bahram,
 <note n="2">Reading with P and T.</note>
 
 
-<pb n="309"/>
+<pb n="6.309"/>
 
 
 For whom he sent, set him beneath the throne,
@@ -13090,9 +13091,9 @@ With jasmine scent, bright cheeks, a moon in Iuien,
 Musk-scented, and with looks of sun-like sheen.</p></div></div>
 
 
-<pb n="310"/>
+<pb n="6.310"/>
 
-<div><head>XXVI. BAHRAM, SON OF BAHRAM: HE REIGNED NINETEEN YEARS</head>
+<div type="textpart" subtype="reign" n="26"><head>BAHRAM, SON OF BAHRAM: HE REIGNED NINETEEN YEARS</head>
 
 <div><head>NOTE</head>
 
@@ -13106,9 +13107,9 @@ Tabari has next to nothing to say of him. Mas'udi, however, tells us that he beg
 
 </p></div>
 
-<pb n="311"/>
+<pb n="6.311"/>
 
-<div><head>§ 1 How Bahram, Son of Bahram, ascended the Throne, charged the Nobles, and died</head>
+<div type="textpart" subtype="section" n="1"><head>How Bahram, Son of Bahram, ascended the Throne, charged the Nobles, and died</head>
 
 
 <p>
@@ -13173,7 +13174,7 @@ Yet get some havings if thou hast them not,
 
 
 
-<pb n="312"/>
+<pb n="6.312"/>
 
 For folk despise the indigent. The man
 
@@ -13205,9 +13206,9 @@ And such the fashion of this world as well;
 It hath its secrets but it ne’er will tell !
 
 </p></div></div>
-<pb n="313"/>
+<pb n="6.313"/>
 
-<div><head>XXVII. BAHRAM BAHRAMIYAN: HE REIGNED FOUR MONTHS</head>
+<div type="textpart" subtype="reign" n="27"><head>BAHRAM BAHRAMIYAN: HE REIGNED FOUR MONTHS</head>
 <div><head>NOTE</head>
 
 <p>
@@ -13243,7 +13244,7 @@ Our witness by our justice and our bounty,
 
 
 
-<pb n="314"/>
+<pb n="6.314"/>
 
 
 For since the good and evil that we do
@@ -13266,8 +13267,8 @@ For now the poet’s years are sixty-three.
 <note n="1">In the glossary to C <gloss>inverted.</gloss> The word properly has the meaning of <gloss> bright,</gloss> but what is bright is easily reflected, what is reflected is inverted, and inversion well may imply misfortune.</note>
 </p></div></div>
 
-<pb n="315"/>
-<div><head>XXVIII. NARSI, SON OF BAHRAM: HE REIGNED NINE YEARS</head>
+<pb n="6.315"/>
+<div type="textpart" subtype="reign" n="28"><head>NARSI, SON OF BAHRAM: HE REIGNED NINE YEARS</head>
 
 
 <div><head>NOTE</head>
@@ -13297,7 +13298,7 @@ Adherents both of justice and the Faith!
 
 <note n="2">RM, Pt. I., vol. ii. p. 340.</note>
 
-<pb n="316"/>
+<pb n="6.316"/>
 
 
 Know that the Maker so hath ordered all!
@@ -13339,7 +13340,7 @@ That when thy God shall question thee thine answer
 <note n="1">Reading with P. Cf. Vol. i, p. 110.</note>
 
 
-<pb n="317"/>
+<pb n="6.317"/>
 
 
 May make thy bliss secure.</q>
@@ -13351,9 +13352,9 @@ Thy lot is naught but toil and misery ;
 Tis so—a mystery to every eye!
 
 </p></div></div>
-<pb n="318"/>
+<pb n="6.318"/>
 
-<div><head>XXIX. URMUZD, SON OF NARSI: HE REIGNED NINE YEARS</head>
+<div type="textpart" subtype="reign" n="29"><head>URMUZD, SON OF NARSI: HE REIGNED NINE YEARS</head>
 
 <div><head>NOTE</head>
 <p>
@@ -13361,7 +13362,7 @@ The reign of this Shah (Hormisdas II., A.D. 302-309) seems to be regarded as une
 He proved to be one of the most famous of the dynasty.
 </p></div>
 
-<div><head>§ 1 How Urmuzd, Son of Narsi, ascended the Throne and how his Life ended</head>
+<div type="textpart" subtype="section" n="1"><head>How Urmuzd, Son of Narsi, ascended the Throne and how his Life ended</head>
 
 
 
@@ -13390,7 +13391,7 @@ Our heart, and may our subjects’ hearts rejoice.
 <note n="1">Cf. p. 325.</note>
 <note n="2">NT, p. §1, note.</note>
 
-<pb n="319"/>
+<pb n="6.319"/>
 
 
 The hearts of men ignoble win not praise ;
@@ -13464,7 +13465,7 @@ Left in his youth this ancient hostelry ;
 <note n="1">Reading with P.</note>
 
 
-<pb n="320"/>
+<pb n="6.320"/>
 
 
 Such while the heavens endure will be the event,
@@ -13492,10 +13493,10 @@ Of kings with joy, o’er her they hung the crown,
 And on that golden circlet drachms showered down.
 </p></div></div>
 
-<pb n="321"/>
+<pb n="6.321"/>
 
-<div><head>XXX. SHAPUR, SON OF URMUZD, SURNAMED ZUL AKTAF: HE REIGNED SEVENTY YEARS</head>
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="reign" n="30"><head>SHAPUR, SON OF URMUZD, SURNAMED ZUL AKTAF: HE REIGNED SEVENTY YEARS</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 
@@ -13521,14 +13522,14 @@ Shapur’s chief places of residence were in Susiana and Mesopotamia, not in Par
 
 
 
-<pb n="322"/> of Ardshir, is bound up artificially by a romantic incident with the expedition made by Shapur, son of Urmuzd, into Arabia to avenge the Arab incursions into Persian territory that had tuken place during his minority. Hatra or Al Hadr was the capital of a small principality which had become independent during the later days of Parthian rule. It grew up in the Mesopotamian desert, some forty miles west of the Tigris, in an oasis formed hy the river Tharthar. Its magnificent ruins stand some forty miles south of Mosul and some two hundred north of Baghdad which is itself some twenty miles higher up the Tigris than the sites of the twin cities of Ctesiphon and Seleucia. The ruins form a complete circle surrounding a central syuare. The circle has a diameter of a little over a mile and is made up as follows.
+<pb n="6.322"/> of Ardshir, is bound up artificially by a romantic incident with the expedition made by Shapur, son of Urmuzd, into Arabia to avenge the Arab incursions into Persian territory that had tuken place during his minority. Hatra or Al Hadr was the capital of a small principality which had become independent during the later days of Parthian rule. It grew up in the Mesopotamian desert, some forty miles west of the Tigris, in an oasis formed hy the river Tharthar. Its magnificent ruins stand some forty miles south of Mosul and some two hundred north of Baghdad which is itself some twenty miles higher up the Tigris than the sites of the twin cities of Ctesiphon and Seleucia. The ruins form a complete circle surrounding a central syuare. The circle has a diameter of a little over a mile and is made up as follows.
 Outside of all is a broad rampart; within this is a deep moat, now dry, and within this again an immense stone wall with towers at intervals. Within the wall are the ruins of what was once the city. The dwellings of the inhabitants now are represented for the most part by mounds of earth, but in the centre of the area surrounded by the city wall is a square walled enclosure with bastions or towers similar to those of the city wall itself. The four sides of this enclosure front to the four cardinal points, und each side measures 340 yards in length. This enclosure may be regarded as the citadel, and within it were the palace and the temple of both of which the ground-story, consisting of vaulted halls and other buildings, is still upstunding. The whole of the remains, walls, bastions, and all, are of coarse limestone beautifully fitted, every stone also being marked with a letter or number and often carved to represent human faces, foliage, birds, griftins, and other monsters.<ref n="1"/> The place, as will have been seen from the above description, was immensely strong, its inhabitants were warlike, it was only a little over two hundred miles from Ctesiphon and Seleucia—attractions that, as experience was to show, were not beyond the reach of raids from the more distant Palmyra <ref n="2"/>— and Ardshir Papakin not unnaturally desired its reduction. This he, or his son Shapur, actually achieved. The stronghold had withstood successfully sieges by the Emperors Trajan and Severus. It fell at last through treachery. According to the story the Arabs had made a successful foray in the neighbourhood of Ctesiphon and Seleucia during the absence of Shapur. The luader of this raid was a certain Daizan or, as Firdausi calls him, Tair, and there may be here some reminiscence of the capture by Odenathus of some of Shapur’s harem after the war with
 
 <note n="1">See JRGS, Vols. ix. 467, xi 11.</note>
 <note n="2">Cf., p. 325.</note>
 
 
-<pb n="323"/>
+<pb n="6.323"/>
 
 
 Valerian.<ref n="1"/> At all events the raider was some Arab chief, but in our story was the king of Hatra. Shapur, informed of what had happened, beleaguered the city. Now Daizan had a daughter, the Malika of Firdausi, and it so happened that in the course of the siege, which lasted four years, she and Shapur fell in love with one another, and he promised, if she would get him possession of Hatra, to make her his queen. This she accomplished, her father was put to death, and Shapur married the traitress. Now she had a very delicate skin, and, when she was reposing on silk stuffed with raw silk, complained of discomfort. It was found that a myrtle-leaf was pressing against her! Shapur asked her on what her father had fed her. She told him on cream, marrow, the honey of virgin bees, and the finest wine. <quote>And yet,</quote> he said, <quote>though you have known me only a short time you love me better than your father who gave you such food!</quote><ref n="2"/> He had her bound by the hair to the tail of a wild horse and dashed to death. By rights this story should come under the reign of
@@ -13539,7 +13540,7 @@ Shapur, son of Ardshir, or of Ardshir himself ; it has been brought, however, in
 <note n="2">This ignores the fact that love often ousts affection when the two come into antagonism. Hence the popularity in the past of Gretna Green. The story seems to show that, though the lady was in love with Shapur, he himself was only pretending. That in the classics of Nisus and Scylla is very similar, Nisus, king of Megara, had a lock of hair on which his existence depended. He had too a daughter named Scylla. Minos, king of Crete, besieged Megara, and Scylla, who had fallen in love with him, cut off from her father’s head the fatal lock, and he perished in consequence. Minos, like Shapur, was not really in love and, like him, had the lady put to death.</note>
 
 
-<pb n="324"/> broad-shouldered</gloss> like Dirazdast <gloss>the long-handed.</gloss><ref n="1"/> Be this as it may, the above story was adapted in Iranian legend to make it applicable to the better known of the two first Shapurs and the one whose dealings with the hated Arabs redounded most to the credit of the empire. It is, as will be seen, softened somewhat in the adapted version. The half Persian descent of
+<pb n="6.324"/> broad-shouldered</gloss> like Dirazdast <gloss>the long-handed.</gloss><ref n="1"/> Be this as it may, the above story was adapted in Iranian legend to make it applicable to the better known of the two first Shapurs and the one whose dealings with the hated Arabs redounded most to the credit of the empire. It is, as will be seen, softened somewhat in the adapted version. The half Persian descent of
 Malika is meant to account for and excuse her treachery,<ref n="2"/> and
 Shapur’s conduct to her is not brutal. A trace of the earlier and harsher version may survive in the words of Tair,<ref n="3"/> where he says in effect, anticipating those of Brabantio to Othello :—
 
@@ -13586,7 +13587,7 @@ The second war of Shapur, son of Ardshir, against Rome in
 <note n="5">See p. 334.</note>
 
 
-<pb n="325"/> which the Emperor Valerian was taken prisoner and died, some years later, in captivity.
+<pb n="6.325"/> which the Emperor Valerian was taken prisoner and died, some years later, in captivity.
 </p><p>
 The ensuing war of Odenathus, prince of Palmyra, against the conqueror of Valerian, in the course of which he captured part of the great king’s harem, and marched up to the gates of
 Ctesiphon.
@@ -13625,7 +13626,7 @@ Such scenes of lowly life as that between Shapur and the
 <note n="10"> For the first time see p. 331.</note>
 
 
-<pb n="326"/> gardener become more frequent in the latter part of the poem.
+<pb n="6.326"/> gardener become more frequent in the latter part of the poem.
 
 </p><p>§7. Here we have, for the second time, the account of the capture of Valerian, post-dated by more than a century. His treatment in captivity is represented as being much more severe in this version on account of his rough usage of the Shah which, historically, represents the successes gained by Odenathus over
 Shapur, son of Ardshir, after the defeat of Valerian. The proposed terms of peace similarly are more stringent. Their parallel is the building of the bridge at Shushtar.<ref n="1"/>
@@ -13649,7 +13650,7 @@ Both the accounts of Valerian in the Shahnama agree that he ended his days in ca
 <note n="4">Cf. id. pp. 33, 66, and notes ; RSM, pp. 86, 87, 125.</note>
 
 
-<pb n="327"/>
+<pb n="6.327"/>
 </p><p>
 
 Shapur continued the ancient practice of transporting conquered populations to new homes, settling them in cities that he himself had built, restored, or renamed. The two in Khizistin mentioned in the text—Khurram Abid and Kinim-i-Asiran—may be represented by the ruins of Karkh and Shus, now known as
@@ -13669,7 +13670,7 @@ Bahram and afterwards put to death by him or by his son and successor, but at al
 <note n="2">NT, pp. 47 and note 412 seq.</note>
 
 
-<pb n="328"/>
+<pb n="6.328"/>
 </p><p>
 Mani’s teaching was an eclectic one, and the materials for it were drawn from the various Faiths amid which he yrew up or with which he came into contact later on. No doubt in his enthusiasm he hoped to find a formula that would reconcile them all. In the result he was regarded by the orthodox of each as the false friend who is worse than the open enemy, and suffered accordingly. His chief opponents were the priests of the statereligion—Zoroastrianism—just then in the flowing tide of its revival, but the arguments put into the high priest’s mouth by
 Firdausi are more Mohammedan than Zoroastrian. M:ini’s offence, so far as his doctrine was distinguished from Christianity, lay in his high and pure asceticism, which was antavonistic to the somewhat self-indulvent Faith of Zoroaster. The Zoroastrian was a family man, a flesh-eater, and a wine-drinker. 'The Manichzean was not permitted to injure any living thing, whether animal or plant, for the sake of obtaining food, and was a celibate, a vegetarian, and a rechabite.
@@ -13678,7 +13679,7 @@ The followers of Mani were famous for the neatness and ornamentation of their sa
 
 </p><p>§ 12. For Ardshir see the next reign.</p></div>
 
-<div><head>§ 1 How Shapur, Son of Urmuzd, was born forty Days after his Father's Death, and how he was crowned</head>
+<div type="textpart" subtype="section" n="1"><head>How Shapur, Son of Urmuzd, was born forty Days after his Father's Death, and how he was crowned</head>
 
 
 <p>
@@ -13704,7 +13705,7 @@ Upon his glorious father’s throne beneath
 <note n="1">See Vols. ii. p. 19 and note, v. 118</note>
 
 
-<pb n="329"/>
+<pb n="6.329"/>
 
 
 The crown of gold; the chiefs all homaged him,
@@ -13765,7 +13766,7 @@ Thou wouldst have said that he was Shah Bahram.<ref n="1"/>
 <note n="1">Reading with P. Perhaps Bahram Gur is meant. Cf. p. 378 seq.</note>
 
 
-<pb n="330"/>
+<pb n="6.330"/>
 
 
 He exercised himself in every grace,
@@ -13807,7 +13808,7 @@ Wind-footed, and a hundred guides withal.
 The warriors mounted, leading each his steed.
 
 
-<pb n="331"/>
+<pb n="6.331"/>
 
 
 Then too the Shah himself and his own meiny
@@ -13868,7 +13869,7 @@ If thou wilt marry me the hold is thine,
 <note n="1">Reading with P.</note>
 
 
-<pb n="332"/>
+<pb n="6.332"/>
 
 And with the palace thou shalt have its Picture.
 Arrange all with my nurse and pledge thy word
@@ -13912,7 +13913,7 @@ And added: <q> Venus is conjunct with Sol.</q>
 <note n="1">Cf Vol. v. p. 16,</note>
 
 
-<pb n="333"/>
+<pb n="6.333"/>
 
 
 She told of Shah Shapur, his looks and height,
@@ -13957,7 +13958,7 @@ Then he bade
 To lodge that fair maid daintily in camp,
 
 
-<pb n="334"/>
+<pb n="6.334"/>
 
 
 Collected all his forces, chose out men,
@@ -14001,7 +14002,7 @@ He would not let his Arab captives speak,
 But had their shoulder-blades removed—an act
 
 
-<pb n="335"/>
+<pb n="6.335"/>
 
 
 Which horrified the world. The Arabs used
@@ -14046,7 +14047,7 @@ We cannot strive with it; what is to be
 <note n="1">Or <quote>And banished rest and slumber for his sake.</quote></note>
 
 
-<pb n="336"/>
+<pb n="6.336"/>
 
 
 Will happen all, past doubt.</q>
@@ -14092,7 +14093,7 @@ In limbs and looks.</q>
 Shapur replied: <q>Not I.
 
 
-<pb n="337"/>
+<pb n="6.337"/>
 
 
 Tama Persian, a religious man,
@@ -14135,7 +14136,7 @@ They lit a candle by the drunken man,
 
 
 
-<pb n="338"/>
+<pb n="6.338"/>
 
 
 And vilely sewed him up in ass’s hide.
@@ -14173,7 +14174,7 @@ While countless others had a Christian call,
 And flocked before the bishops, one and all.
 
 
-<pb n="339"/>
+<pb n="6.339"/>
 
 
 </p></div>
@@ -14215,7 +14216,7 @@ The master of Iran, and love and fear :—
 <note n="1">Or of <quote> Shammas,</quote> a legendary founder of Fire-worship, in which case we may suppose that the lady, to make assurance doubly sure, pledged herself by both religions.</note>
 
 
-<pb n="340"/>
+<pb n="6.340"/>
 
 
 He told all, hiding neither good nor bad,
@@ -14262,7 +14263,7 @@ Whenas the Fount of Light sank in the west,
 And night drew o’er its head the Veil of Pitch,
 
 
-<pb n="341"/>
+<pb n="6.341"/>
 
 
 Shapur mused much: <q>What will she do tomorrow ?</q>
@@ -14308,7 +14309,7 @@ To-night, and play the marchlord’s part discreetly,<ref n="1"/>
 <note n="1">I.e. in receiving those who have just crossed the frontier,</note>
 
 
-<pb n="342"/>
+<pb n="6.342"/>
 
 Sure am I that one day ‘twill profit thee;
 
@@ -14352,7 +14353,7 @@ That they may have a land and resting-place!</q>
 The other said:  <q> Where then was Shah Shapur,
 
 
-<pb n="343"/>
+<pb n="6.343"/>
 
 
 Who used to shine resplendent as the moon
@@ -14401,7 +14402,7 @@ His host replied :—
 <note n="1">See Vol. i. p. 80, 8.v. Bai, and Barsam.</note>
 
 
-<pb n="344"/>
+<pb n="6.344"/>
 
 
 <q> Sweet-tongued and holy man! I can discern
@@ -14440,7 +14441,7 @@ The crown’s decore proceedeth from his face.</q>
 <note n="1">Reading with P.</note>
 
 
-<pb n="345"/>
+<pb n="6.345"/>
 
 
 </p></div>
@@ -14482,7 +14483,7 @@ To wail his woes, told of his sufferings
 Within the ass’s skin, of Caesar’s words,
 
 
-<pb n="346"/>
+<pb n="6.346"/>
 
 
 And what that fair Iranian slave had done
@@ -14538,7 +14539,7 @@ How matters stood, then told the exalted Shah :—
 His troops are scattered everywhere to pillage.
 
 
-<pb n="347"/>
+<pb n="6.347"/>
 
 
 There are no guards or sentries day or night,
@@ -14601,7 +14602,7 @@ And in the end made Caesar prisoner.
 His good stars grew averse. Among the tents
 
 They captured many of his nobles, horsemen
-<pb n="348"/>
+<pb n="6.348"/>
 
 
 Elect and brave, and put them into bonds.
@@ -14662,7 +14663,7 @@ The world-lord lopped the hands and feet of those
 That had been chief in 111, and then commanded
 
 
-<pb n="349"/>
+<pb n="6.349"/>
 
 
 To bring in Caesar, lord of Ram. The guard
@@ -14709,7 +14710,7 @@ This country upside down? If all the spoil
 
 
 
-<pb n="350"/>
+<pb n="6.350"/>
 
 
 That thou didst bear to Rum (ne’er mayst thou look
@@ -14782,7 +14783,7 @@ So that the world was lighted by the blaze.
 When news reached Rum:  <q> Our fertile lands are wasted,
 
 
-<pb n="351"/>
+<pb n="6.351"/>
 
 
 And in a night-attack illustrious Caesar
@@ -14825,7 +14826,7 @@ Dark dusk rose cloud-ward, and thou wouldst have said :— .
 
 
 
-<pb n="352"/>
+<pb n="6.352"/>
 
 
 The Shah’s troops likewise girt their loins for bloodshed.
@@ -14861,7 +14862,7 @@ Because the call of Christ's Faith is fordone !</q>
 
 
 
-<pb n="353"/>
+<pb n="6.353"/>
 
 
 </p></div>
@@ -14902,7 +14903,7 @@ Embroil us now that feud is obsolete
 In Rum; the one good fortune left, the other
 
 
-<pb n="354"/>
+<pb n="6.354"/>
 
 
 Was slain by his two ministers, while Caesar,
@@ -14948,7 +14949,7 @@ The messenger returned with this reply.
 And word for word discharged his embassy.
 
 
-<pb n="355"/>
+<pb n="6.355"/>
 
 
 </p></div>
@@ -15000,7 +15001,7 @@ Shapur agreed by treaty not to march
 On Rum thenceforth, excepting by permission
 
 
-<pb n="356"/>
+<pb n="6.356"/>
 
 
 In friendly wise, that Rum might not be injured.
@@ -15042,7 +15043,7 @@ Was dearer to him than all other fair.
 <note n="1">I.e. The lucky-footed lustre of the heart.</note>
 
 
-<pb n="357"/>
+<pb n="6.357"/>
 
 
 Moreover on the gardener he bestowed
@@ -15089,7 +15090,7 @@ Of sovereignty; the age had not his peer.
 <note n="4">The Prisoners’ Nest.</note>
 
 
-<pb n="358"/>
+<pb n="6.358"/>
 
 
 
@@ -15133,7 +15134,7 @@ The nights and days of high, revolving heaven
 <note n="2">Lit. of white and black.</note>
 
 
-<pb n="359"/>
+<pb n="6.359"/>
 
 
 Are both thy source of safety and mishap.
@@ -15174,7 +15175,7 @@ Brave, bounteous, active, that not anywhere
 Was left a foe, or evil een a lair.
 
 
-<pb n="360"/>
+<pb n="6.360"/>
 
 
 
@@ -15217,7 +15218,7 @@ Because in him his subjects’ hearts delight ;
 He groweth rich by equity and bounty,
 
 
-<pb n="361"/>
+<pb n="6.361"/>
 
 
 He leadeth every one toward the Faith,
@@ -15283,7 +15284,7 @@ First, that he be victorious, not turning
 <note n="1">Reading with P.</note>
 
 
-<pb n="362"/>
+<pb n="6.362"/>
 
 
 From foes in fight ; again, that he entreat
@@ -15329,9 +15330,9 @@ The world’s grace and observance? Now I sing
 <note n="3">I.e. O descendant of Muhammad’s great-grandfather (Hashim) !</note>
 </p></div></div>
 
-<pb n="363"/>
+<pb n="6.363"/>
 
-<div><head>XXXI. ARDSHIR, BROTHER OF SHAPUR: HE REIGNED TEN YEARS</head>
+<div type="textpart" subtype="reign" n="31"><head>ARDSHIR, BROTHER OF SHAPUR: HE REIGNED TEN YEARS</head>
 
 <div><head>NOTE</head>
 <p>
@@ -15344,7 +15345,7 @@ Shapur is represented elsewhere in the Shahnama as brotherleas,<ref n="1"/> but 
 
 Ardshir is credited by most authorities with a reign of four years only. Tabari says that he was deposed by his subjects.<ref n="3"/></p></div>
 
-<div><head>§ 1 How Ardshir sat upon the Throne and gave a Charge to the Officers</head>
+<div type="textpart" subtype="section" n="1"><head>How Ardshir sat upon the Throne and gave a Charge to the Officers</head>
 <p>
 
 Whenas Ardshir sat in the royal seat,
@@ -15361,7 +15362,7 @@ Should injure any. All the world shall be
 
 
 
-<pb n="364"/>
+<pb n="6.364"/>
 
 
 Within my peace if it obey my will;
@@ -15390,9 +15391,9 @@ The glorious crown, made good what he had spoken
 And, like a man, maintained his pledge unbroken.
 
 </p></div></div>
-<pb n="365"/>
+<pb n="6.365"/>
 
-<div><head>XXXII. SHAPUR, SON OF SHAPUR: HE REIGNED FIVE YEARS AND FOUR MONTHS</head>
+<div type="textpart" subtype="reign" n="32"><head>SHAPUR, SON OF SHAPUR: HE REIGNED FIVE YEARS AND FOUR MONTHS</head>
 
 <div><head>NOTE</head>
 
@@ -15400,7 +15401,7 @@ And, like a man, maintained his pledge unbroken.
 <p>According to Tabari, the death of this Shah (Sapor IIL, A.D. 383-388) was not due to the accidental fall of a tent-pole; the tent-ropes were cut, and the tent fell and killed him.<ref n="1"/></p></div>
 
 
-<div><head>§1 How Shapur, Son of Shapur, sat upon the Throne and gave a Charge to the Officers</head>
+<div type="textpart" subtype="section" n="1"><head>How Shapur, Son of Shapur, sat upon the Throne and gave a Charge to the Officers</head>
 <p>
     <milestone unit="calced" n="1458"/>
 Whenas Shapur sat in his uncle’s place 
@@ -15430,7 +15431,7 @@ The covetous have aching hearts, do thou
 
 
 
-<pb n="366"/>
+<pb n="6.366"/>
 
 
 Abstain from greed and make not friends with liars,
@@ -15475,7 +15476,7 @@ Died and resigned the royal crown to others.
 
 
 
-<pb n="367"/>
+<pb n="6.367"/>
 
 
 This whirling world is evermore the same,
@@ -15490,8 +15491,8 @@ Discovery will make thee writhe with pain ;
 Then pry not, let its mystery remain.
 </p></div></div>
 
-<pb n="368"/>
-<div><head>XXXIII. BAHRAM, SON OF SHAPUR: HE REIGNED FOURTEEN YEARS</head>
+<pb n="6.368"/>
+<div type="textpart" subtype="reign" n="33"><head>BAHRAM, SON OF SHAPUR: HE REIGNED FOURTEEN YEARS</head>
 
 <div><head>NOTE</head>
 
@@ -15500,7 +15501,7 @@ The Oriental title of this Shah (Varahran IV., A.D. 388-399) renders it doubtful
 Kerman Malka</quote>) is extant.<ref n="2"/> Tabari says that he built a city in Kirmdn, perhaps the existent Kirminshdhin south-east of
 Yazd,<ref n="3"/> and that he was killed by an arrow shot at him by assassins.<ref n="4"/></p></div>
 
-<div><head>§ 1 How Bahram sat upon the Throne and gave a Charge to the Officers</head>
+<div type="textpart" subtype="section" n="1"><head>How Bahram sat upon the Throne and gave a Charge to the Officers</head>
 
 
 
@@ -15523,7 +15524,7 @@ For weal or woe. We is supremely just ;
 <note n="4">NT, p. 72.</note>
 
 
-<pb n="369"/>
+<pb n="6.369"/>
 
 
 His kingdom knoweth neither gain nor loss.
@@ -15569,7 +15570,7 @@ Think of repentance then, seek wisdom’s way.
 
 
 
-<pb n="370"/>
+<pb n="6.370"/>
 
 
 May God approve this slave. May he attain
@@ -15590,11 +15591,11 @@ He walk in knowledge and in majesty,
 From all his foemen’s clutches ever free!
 </p></div></div>
 
-<pb n="371"/>
+<pb n="6.371"/>
 
-<div><head>XXXIV. YAZDAGIRD, SON OF SHAPUR: HE REIGNED THIRTY YEARS</head>
+<div type="textpart" subtype="reign" n="34"><head>YAZDAGIRD, SON OF SHAPUR: HE REIGNED THIRTY YEARS</head>
 
-<div><head>ARGUMENT</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>
 Yazdagird Succeeds his brother as Shah and rules wickedly,
@@ -15620,7 +15621,7 @@ honoured, at least in legend, by being appointed formally by will the guardian o
 <note n="2">MM, ii. 190,</note>
 
 
-<pb n="372"/> which he is said to have accepted and faithfully executed—died a mysterious death, and received from his subjects the titles of
+<pb n="6.372"/> which he is said to have accepted and faithfully executed—died a mysterious death, and received from his subjects the titles of
 <quote>The Sinner</quote> and <quote>The Harsh.</quote> The indictment of him in
 Tabari is very severe. Among his other enormities it is recorded that if any one dared to address him on behalf of another he said immediately : <quote> How much does he pay you, for whom you ask me, or what have you received already?</quote> on which Professor
 Nöldeke observes that he knew his Persians. Apparently he did, and the native chroniclers, drawn for the most part from a class that could not understand or appreciate him, have covered his memory with infamy. Against them may be placed a contemporary testimony from another source :—<quote>The good and merciful king Yazdagird, the Christian, the blest among kings, whose memory may be a blessing and his future life still more beautiful than his former ; every day he did good to the poor and wretched.</quote><ref n="1"/> This perhaps was written after he had begun to punish the Magi for interfering with the Christians, and before Abdaas, bishop of
@@ -15651,7 +15652,7 @@ Emperor at the time—Yazdagird’s ward according to the legend.<ref n="7"/>
 <note n="7">See p. 371.</note>
 
 
-<pb n="373"/>
+<pb n="6.373"/>
 already.<ref n="1"/> Tabari, however, says that Yazdagird’s death is supposed to have taken place in Gurgan (Hyrcania or Mazandaran), and omits the details about the presage of the astrologers and the expedition to the spring of Sav. According to Tabari the horse was sent in answer to the prayers of Yazdagird’s oppressed subjects. Professor Nöldeke thinks that conspirators took advantage of the absence of the Shah in distant Hyrcania to murder him and then, to cover themselves, spread abroad a fiction to account for his end, and that the various stories of the death of this Shah may be referred to a common origin—the version of
 the Bastan-nama made by Ibn Mukaffa.<ref n="2"/>
 </p><p>
@@ -15692,9 +15693,9 @@ The Most Peaceful.
 <note n="8">NT, p. 98.</note>
 </p></div>
 
-<pb n="374"/>
+<pb n="6.374"/>
 
-<div><head>§ 1 How Yazdagird sat upon the Throne and gave a Charge to the Officers</head>
+<div type="textpart" subtype="section" n="1"><head>How Yazdagird sat upon the Throne and gave a Charge to the Officers</head>
 
 <p>
 When Yazdagird became the world’s great king
@@ -15732,7 +15733,7 @@ He scorned the sages and grew negligent
 Of royal usages. The governors,
 
 
-<pb n="375"/>
+<pb n="6.375"/>
 
 The paladins, the notables, and all
 
@@ -15787,7 +15788,7 @@ With Grace and sense, an Indian chieftain named
 Surtsh, another hight Hushyar, a Persian,
 
 
-<pb n="376"/>
+<pb n="6.376"/>
 
 
 Who by his arts could curb the sky itself.
@@ -15832,7 +15833,7 @@ The envoys of his realm and sent them forth
 To Rum, to Hind, to Chin, and other lands
 
 
-<pb n="377"/>
+<pb n="6.377"/>
 
 
 Inhabited. A chief, too, went among
@@ -15873,7 +15874,7 @@ No readers of the stars in figures versed,
 But we have minds devoted to the realm,
 
 
-<pb n="378"/>
+<pb n="6.378"/>
 
 
 
@@ -15920,7 +15921,7 @@ Munzir replied:  <q> Not yet, O prince! hast thou
 <note n="1">Reading with P.</note>
 
 
-<pb n="379"/>
+<pb n="6.379"/>
 
 
 A need for knowledge. When that time shall come,
@@ -15962,7 +15963,7 @@ And everything that he should bear in mind.<ref n="1"/>
 <note n="1"> <quote>As well as ..... in mind,</quote> following the readings and arrangement of P.</note>
 
 
-<pb n="380"/>
+<pb n="6.380"/>
 
 
 When these archmaves came before Munzir
@@ -16033,7 +16034,7 @@ A drove of our own valiant herdsmen’s horses ;
 Go round the desert of the spearmen, see
 
 
-<pb n="381"/>
+<pb n="6.381"/>
 
 
 What chargers thou canst get.</q>
@@ -16077,7 +16078,7 @@ To ease my heart, the world-lord will approve me,
 
 
 
-<pb n="382"/>
+<pb n="6.382"/>
 
 
 
@@ -16132,7 +16133,7 @@ While from it hung four stirrups. Thus he pricked
 <note n="3">Azada, to pun on the girl’s name.</note>
 
 
-<pb n="383"/>
+<pb n="6.383"/>
 
 
 O’er hill and dale. Two stirrups were of silver,
@@ -16178,7 +16179,7 @@ For he had aimed thereat. The creature scratched
 
 
 
-<pb n="384"/>
+<pb n="6.384"/>
 
 
 Its ear. Forthwith within his bow of Chach
@@ -16222,7 +16223,7 @@ To be Bahram’s companion in the chase,
 
 
 
-<pb n="385"/>
+<pb n="6.385"/>
 
 
 And took withal some Arab men of name
@@ -16298,7 +16299,7 @@ At that communication. In amaze
 The chiefs all called down praises on Bahram.
 
 
-<pb n="386"/>
+<pb n="6.386"/>
 
 
 Thenceforth, whenever he did anything
@@ -16340,7 +16341,7 @@ To rub his head. Nu’min abode a month,
 And then requested licence to depart.
 
 
-<pb n="387"/>
+<pb n="6.387"/>
 
 
 The monarch summoned him by night, then set him
@@ -16383,7 +16384,7 @@ The world’s king’s letter which, when he had kissed,
 <note n="1">Or <quote>Or as a liege glad-hearted at a court.</quote></note>
 
 
-<pb n="388"/>
+<pb n="6.388"/>
 
 
 He laid upon his head, joyed at those gifts,
@@ -16428,7 +16429,7 @@ They came to prince Bahram with sacks of coin,
 And with his loyal slave-girl, Wise Bahram
 
 
-<pb n="389"/>
+<pb n="6.389"/>
 
 
 Rejoiced thereat, his sorrows turned to wind,
@@ -16471,7 +16472,7 @@ And send me to my fosterers:<ref n="1"/>  Munzir
 <note n="1">Reading with P.</note>
 
 
-<pb n="390"/>
+<pb n="6.390"/>
 
 
 Was more to me than mother and than father.</q>
@@ -16526,7 +16527,7 @@ And, when this happened, where his royal cheeks
 <note n="1">One of the lucky days.</note>
 
 
-<pb n="391"/>
+<pb n="6.391"/>
 
 
 <milestone unit="calced" n="1473"/>
@@ -16575,7 +16576,7 @@ Hath set a snare before his soul, have come
 Now to inquire how long I have to live,
 
 
-<pb n="392"/>
+<pb n="6.392"/>
 
 
 O righteous Judge!</q></q>
@@ -16618,7 +16619,7 @@ And gently put the saddle on the mount.
 He girthed it. That fleet Crocodile stood stirless.
 
 
-<pb n="393"/>
+<pb n="6.393"/>
 
 
 He went to put the crupper on. That charger,
@@ -16659,7 +16660,7 @@ Religion is a better thing than sin
 For one that hath the power to walk therein.
 
 
-<pb n="394"/>
+<pb n="6.394"/>
 
 
 </p></div>
@@ -16702,7 +16703,7 @@ Then all that were
 Chiefs in [rin swore mighty oaths and said :—
 
 
-<pb n="395"/>
+<pb n="6.395"/>
 
 
 <q>We will not have another of this race
@@ -16754,7 +16755,7 @@ And troops from all sides gathered at his gate.
 <note n="1">Reading with P and T.</note>
 
 
-<pb n="396"/>
+<pb n="6.396"/>
 
 
 Thy father, eminent midst kings, is dead,
@@ -16800,7 +16801,7 @@ Right manfully:  <q> This is my chance and this
 My hunt-day on the waste. Sit on the throne,
 Observe, and wear through all thy years the crown,
 
-<pb n="397"/>
+<pb n="6.397"/>
 
 
 And bracelet.</q>
@@ -16843,7 +16844,7 @@ They chose a noble envoy shrewd and fluent,
 <note n="1">I.e. Copts.</note>
 
 
-<pb n="398"/>
+<pb n="6.398"/>
 
 
 A warrior hight Jawanwi, a scribe,
@@ -16906,7 +16907,7 @@ Shrewd-hearted though he was:  <q>Thou wouldest say
 That wine distilleth from his face, the scent
 
 .
-<pb n="399"/>
+<pb n="6.399"/>
 
 
 Of musk exhaleth from his hair!</q>
@@ -16952,7 +16953,7 @@ And, as he listened to Munzir, conceived
 A brilliant notion, and replied: <q>Great sir,
 
 
-<pb n="400"/>
+<pb n="6.400"/>
 
 Who needest not the wits of other men!
 
@@ -17009,7 +17010,7 @@ His troops surrounded it, and to Munzir
 
 
 
-<pb n="401"/>
+<pb n="6.401"/>
 
 
 He spake thus:  <q> From the country of Yaman
@@ -17054,7 +17055,7 @@ The mighty men and nobles of Iran
 
 
 
-<pb n="402"/>
+<pb n="6.402"/>
 
 Made ready to go forth to meet Bahram Gur
 
@@ -17099,7 +17100,7 @@ By night and day we writhe and heave cold sighs.</q>
 
 
 
-<pb n="403"/>
+<pb n="6.403"/>
 
 
 Bahram thus answered :  <q> Yea, ’tis true, for passion
@@ -17147,7 +17148,7 @@ While with his strength he can uproot a mountain.
 
 
 
-<pb n="404"/>
+<pb n="6.404"/>
 
 
 Though still a youth he is a sage in counsel,
@@ -17192,7 +17193,7 @@ Have wisdom, my soul eateth of its fruits,
 And to this present I have prayed to Him
 
 
-<pb n="405"/>
+<pb n="6.405"/>
 
 
 To be my guide to good that I might purge
@@ -17249,7 +17250,7 @@ Then let the would be Shah advance and take
 The famed crown from the throne of ivory,
 <note n="1"> <cit><quote xml:lang="fra">de la reine Schémiran</quote> <bibl>Mohl.</bibl></cit>. Possibly Semiramis is meant.</note>
 <note n="2">The § ends here in C.</note>
-<pb n="406"/>
+<pb n="6.406"/>
 
 Place it upon his head and sit between
 
@@ -17311,7 +17312,7 @@ He answered thus those sages, warriors,
 And chiefs: <q>I will be better than my words,
 
 
-<pb n="407"/>
+<pb n="6.407"/>
 
 
 Will make injustice and informing cease,
@@ -17355,7 +17356,7 @@ Among the luckless,</q>
 Hearing this the Sages,
 
 
-<pb n="408"/>
+<pb n="6.408"/>
 
 
 The magnates, and archmages shrewd of heart,
@@ -17399,7 +17400,7 @@ Bahram gave his assent ; ‘twas his proposal.
 <note n="1">Reading with P and T.</note>
 
 
-<pb n="409"/>
+<pb n="6.409"/>
 
 
 At the accession of a lawful Shah
@@ -17459,7 +17460,7 @@ We will not blink fair words,</q>
 With that he took
 
 
-<pb n="410"/>
+<pb n="6.410"/>
 
 An ox-head mace while the world wondered at him.
 
@@ -17529,7 +17530,7 @@ Did homage, and thus said:  <q> Exalted Shah!
 Blest be thy sitting on the throne, and may
 
 
-<pb n="411"/>
+<pb n="6.411"/>
 
 
 The heroes of the world be slaves before thee.

@@ -75,14 +75,11 @@
     </teiHeader>
     <text>
  <body>
-
+<div type="textpart" subtype="dynasty" n="Kaianian-a"><head>The Kaianian Dynasty</head>
 <div type="textpart" subtype="reign" n="11"><head>XI. <persName>Kai Kubad</persName>: he reigned one hundred years</head>
 
-<pb n="11"/>
-<div type="textpart" n="argument"><head>Argument</head>
+<pb n="2.11"/>
 
-<p><persName>Kai Kubad</persName> ascends the throne, and defeats the <rs type="ethnic">Turanians</rs>. <persName>Rustam</persName> in this his first campaign greatly distinguishes himself, and nearly takes <persName>Afrasiyab</persName> prisoner. <persName>Pashang</persName>, the father of <persName>Afrasiyab</persName> and ruler of <placeName>Turan</placeName>, sues for peace and terms are arranged. <persName>Kai Kubad</persName> rewards <persName>Zal</persName>, <persName>Rustam</persName>, and others for their services, and makes <placeName>Istakhr</placeName> his capital. At the end of a long and glorious reign he dies after appointing his son <persName>Kai Kaus</persName> as his successor.</p>
-</div>
 
 <div type="textpart" n="intro"><head>Note</head>
 
@@ -113,7 +110,7 @@
 
 
 
-<pb n="12"/>
+<pb n="2.12"/>
 
 <lb/>and valorous <persName>Barzin</persName>, flocked round and scattered
 <lb/>gems over that new crown. They said: <q>O Shah
@@ -159,7 +156,7 @@
 
 
 
-<pb n="13"/>
+<pb n="2.13"/>
 
 <lb/>sank to the ground and perished in a breath.
 <lb/>The manner of this ancient sky is so,
@@ -218,7 +215,7 @@
 
 <note xml:id="n.13.1">Cf. p. 53.</note>
 
-<pb n="14"/>
+<pb n="2.14"/>
 
 <lb/>yon <rs type="mythologicalcreature">Dragon</rs> broken loose in such a fashion ?</q>
 
@@ -273,7 +270,7 @@
 <lb/>He rose himself like fire, and all his host
 <lb/>heaved like a stormy sea. <persName>Zal</persName> and <persName>Mihrab</persName>,
 
-<pb n="15"/>
+<pb n="2.15"/>
 
 <lb/>the Lion, went forth keen and valorous;
 <lb/>the din of battle rose with <sic>falchion</sic>-flash
@@ -319,7 +316,7 @@
 
 <note xml:id="n.15.1">Literally, <q> The earth became six and the heaven eight.</q> <persName>Firdausi</persName> is speaking of the Seven Climes, and of the heavens of the Seven Planets only, in this passage. Cf. vol. i. pp. 71, 72.</note>
 
-<pb n="16"/>
+<pb n="2.16"/>
 
 </p>
 </div>
@@ -379,7 +376,7 @@
 
 <lb/>am but a fibre in his grasp. Such worship
 
-<pb n="17"/>
+<pb n="2.17"/>
 
 <lb/>Perturbeth me. I saw a monstrous form
 
@@ -454,7 +451,7 @@
 <note xml:id="n.17.1">Referring to the partition in the days of <persName>Zav</persName>. Vol. i. p. 371.</note>
 
 
-<pb n="18"/>
+<pb n="2.18"/>
 
 <lb/>and, over and above these, what famed chieftains
 <lb/>the blast hath vilely borne away—-Kulbdd,
@@ -516,7 +513,7 @@
 
 <lb/>He chose a prudent envoy for <placeName>Iran</placeName>,
 
-<pb n="19"/>
+<pb n="2.19"/>
 
 <lb/>and wrote a letter worthy of the Artang,<ref target="n.19.1"/>
 
@@ -573,7 +570,7 @@
 
 <note xml:id="n.19.1">The name of the house where the famous Persian painter Mani, the founder of Manicheism, lived; also of a book written by him. Both house and book were elaborately adorned. Manichean MSS. in general were finely written and illuminated. Cf, Professor Bloomfield, <title>The Long-lost Mani Bible,</title> in Harper’s Monthly Magazine for March 1906.</note>
 
-<pb n="20"/>
+<pb n="2.20"/>
 
 <lb/>we with a shroud for robe, a grave for home,
 <lb/>shall own but some five <sic>cubits</sic>' length of earth ;
@@ -621,7 +618,7 @@
 <lb/>the letter to <persName>Pashang</persName>, who packed his baggage,
 <lb/>marched back, and sent the dust-clouds heavenward.
 
-<pb n="21"/>
+<pb n="2.21"/>
 
 <lb/>he crossed <placeName>Jihun</placeName> like wind, and news thereof
 <lb/>reached <persName>Kai Kubad</persName>, who <sic>joyed</sic> because the foe
@@ -670,7 +667,7 @@
 <lb/>and, should long life be mine, I will not leave 
 <lb/>a wish of thine unsatisfied on earth.</q>
 
-<pb n="22"/>
+<pb n="2.22"/>
 
 <lb/>moreover on K.iran the warrior,
 <lb/>upon <persName>Kishwid</persName>, <persName>Kharrad</persName>, <persName>Barzin</persName>, <persName>Pulad</persName>,
@@ -715,7 +712,7 @@
 <milestone unit="vullers" n="V.314"/>
 <lb/>He built him many cities—<sic>jocund</sic> seats—
 
-<pb n="23"/>
+<pb n="2.23"/>
 
 <lb/>such as the hundred that surrounded <placeName>Rai</placeName>,
 <lb/>but when the hand of time had fallen upon him
@@ -758,7 +755,7 @@
 <lb/>thy dwelling there will be a place of fire; 
 <lb/>here bitterness of heart and grief be thine.</q>
 
-<pb n="24"/>
+<pb n="2.24"/>
 
 
 <lb/>he spake these words and leaving this wide world
@@ -770,11 +767,10 @@
 </p>
 </div>
 </div>
-<pb n="25"/>
+<pb n="2.25"/>
 <div type="textpart" subtype="reign" n="12"><head>XII. <persName>Kai Kaus</persName>: he reigned one hundred and fifty years</head>
 
-<div type="textpart" n="argument">
-    <head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p><persName>Kai Kaus</persName> on ascending the throne abandons the path of wisdom. He invades <placeName>Mazandaran</placeName> and is taken prisoner, but is rescued by <persName>Rustam</persName>. He wars against the king of <placeName>Hamavaran</placeName>, whose daughter he marries, and is taken prisoner again, this time by treachery. <persName>Rustam</persName> again rescues him. Afterward he attempts to fly to heaven, and is a third time saved by <persName>Rustam</persName>. The poet then tells two episodic stories, that of the Seven Warriors, and that of <persName>Suhrab</persName>, in both of which <persName>Rustam</persName> takes a leading part. We next learn what evil came of the marriage of <persName>Kai Kaus</persName> with the daughter of the king of <placeName>Hamavaran</placeName> as exemplified in the tragic tale of <persName>Siyawush</persName>. The poet then tells how <persName>Rustam</persName> took vengeance on <persName>Afrasiyab</persName> for the execution of <persName>Siyawush</persName>, how <persName>Giv</persName> went to <placeName>Turan</placeName> in quest of <persName>Kai Khusrau</persName>, the son of <persName>Siyawush</persName>, and how <persName>Kai Khusrau</persName> became joint Shah with <persName>Kai Kaus</persName>.</p></div>
 
@@ -790,7 +786,7 @@
 
 
 
-<pb n="26"/>
+<pb n="2.26"/>
 
 
 reference to his attempt to fly to heaven the remainder of his legend is lost so far as the Zandavasta itself is concerned, but a brief summary of what it once contained is extant in the Dinkard,<ref target="n.26.1"/> where we also find a strange story, of which no trace is to be found in the <persName>Shahnama</persName>, that <persName>Kai <persName>Kaus</persName></persName> possessed a wonderful ox, to whose judgment all disputes as to the frontier-line between iran andTuran were referred. As the decision was generally adverse to the <rs type="ethnic">Turanians</rs> they conceived the idea of beguiling <persName>Kaus</persName> into slaying the ox, and succeeded in their purpose.<ref target="n.26.2"/> The story is characteristic of <persName>Kai <persName>Kaus</persName></persName>, who is represented in the poem as a very imperfect character, and easily led astray by passion, <sic>wrongheadedness</sic>, and evil counsels.</p>
@@ -812,11 +808,11 @@ reference to his attempt to fly to heaven the remainder of his legend is lost so
 
 
 
-<pb n="27"/>
+<pb n="2.27"/>
 
  <div type="textpart" subtype="part" n="1"><head>Part I: the war with <placeName>Mazandaran</placeName>.</head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>The poet, after bewailing the death of <persName>Kai Kubad</persName> and that an evil shoot should spring from so good a root, tells how <persName>Kai Kaus</persName> was seduced by a div into invading <placeName>Mazandaran</placeName>, how he and all his host were taken captive and blinded by the White <rs type="divinity">Div</rs>, how <persName>Rustam</persName> went to their rescue, what adventures befell him by the way, and how he delivered the Shah and host.</p>
 </div>
@@ -831,7 +827,7 @@ reference to his attempt to fly to heaven the remainder of his legend is lost so
 <note xml:id="n.27.3">DHA, v. 10.</note>
 
 
-<pb n="28"/>
+<pb n="2.28"/>
 
 
 <lb/>Angra Mainyu,<ref target="n.28.1"/>... these are the words that smite down the <sic>daévas</sic> of <placeName>Mazana</placeName>.</q> <ref target="n.28.2"/></p>
@@ -858,7 +854,7 @@ reference to his attempt to fly to heaven the remainder of his legend is lost so
 
 <note xml:id="n.28.7">§ 5.</note>
 
-<pb n="29"/>
+<pb n="2.29"/>
 
 and made seven stages of it, in the course of each of which he met with an adventure. This expedition of his is accordingly known as the <q>Haft Khan,</q> the former word meaning seven and the latter the tray on which food is served up. His expedition therefore may be regarded as being a meal with seven courses. It has also been suggested that in the account of the seven buildings of <persName>Kai Kaus</persName>, described in Part II. § 8 of this reign, we have the origin of the Haft Khan of <persName>Rustam</persName>, and also of the similar expedition, which occurs much later in the poem, of <persName>Asfandiyar</persName> against <persName>Arjasp</persName>.<ref target="n.29.1"/></p>
 
@@ -895,7 +891,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 
 
-<pb n="30"/>
+<pb n="2.30"/>
 
 
 <lb/>resign thereto the garden’s burgeoning
@@ -957,7 +953,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.30.1">There is no break here in the original.</note>
 
-<pb n="31"/>
+<pb n="2.31"/>
 
 <lb/>and spake on this wise: <q> Who is Shah but I, -
 <lb/>who worthy of the throne except myself?
@@ -1013,7 +1009,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <l>In every mountain valley</l>
 </lg>
 
-<pb n="32"/>
+<pb n="2.32"/>
 
 <lg>
 <l>Throughout the year without a break</l>
@@ -1062,7 +1058,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <l>What can he know of pleasure ?"</l>
 </lg>
 
-<pb n="33"/>
+<pb n="2.33"/>
 <lb/>the words roused <persName>Kai Kaus</persName>, he was resolved
 <lb/>to lead a host against <placeName>Mazandaran</placeName>,
 <lb/>and thus harangued his warriors : <q> We have been
@@ -1110,7 +1106,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>but whet thy wits and let us see thy face.</q>
 
 
-<pb n="34"/>
+<pb n="2.34"/>
 
 <lb/>he may suggest some wise <sic>rede</sic> to the Shah,
 <lb/>and tell him: <q><rs type="divinity">Ahriman</rs> hath prompted this:
@@ -1153,7 +1149,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>alike the nobles and the people tremble,
 <lb/>will not obey me 'tis not wonderful ;
 
-<pb n="35"/>
+<pb n="2.35"/>
 
 <lb/>still it would grieve me if he <sic>hearkened</sic> not.
 <lb/>If I think of myself, not of the Shah,
@@ -1198,7 +1194,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>another’s words,</q> then sought with one accord
 <lb/>the crown and throne and presence of their lord.
 
-<pb n="36"/>
+<pb n="2.36"/>
 
 </p>
 </div>
@@ -1244,7 +1240,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>the home of warlock-<sic>divs</sic> and under spells
 <lb/>which none hath power to loose; so give not thou
 
-<pb n="37"/>
+<pb n="2.37"/>
 
 <lb/>men, wealth, and money to the winds. That land
 <lb/>can not be conquered by the scimitar,
@@ -1288,7 +1284,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>No one can root out death, sew up the eyes 7
 <lb/>of destiny with needles, or escape
 
-<pb n="38"/>
+<pb n="2.38"/>
 
 <lb/>from want by abstinence; in this regard
 <lb/>hen princes must submit. May this bright world
@@ -1348,7 +1344,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/><q> Choose from the warriors two thousand men—
 
-<pb n="39"/>
+<pb n="2.39"/>
 
 <lb/>mace-<sic>wielders</sic>-——to prepare for us a path
 <lb/><placeName>Mazandaran</placeName>-ward, slaughter young and old,
@@ -1392,7 +1388,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.39.1">The door-keeper of Paradise.</note>
 
-<pb n="40"/>
+<pb n="2.40"/>
 
 <lb/>with many young and brave, is in command
 <lb/>without thy help we shall be all destroyed.</q></q>
@@ -1440,7 +1436,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>Like to a maddened elephant’s appeared
 <lb/>thy strength to thee, thou wouldst not yield to any!
 
-<pb n="41"/>
+<pb n="2.41"/>
 
 <lb/>content not with the crown above thy throne
 <lb/>thou hast perverted wisdom and hast wrought
@@ -1482,7 +1478,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>remained within <placeName>Mazandaran</placeName> to moan :—
 <lb/><q>I was to blame for this and I alone.</q>
 
-<pb n="42"/>
+<pb n="2.42"/>
 
 
 </p>
@@ -1534,7 +1530,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>while I, I have outlived two centuries !
 <lb/>Thou wilt gain high renown and save the Shah.
 
-<pb n="43"/>
+<pb n="2.43"/>
 
 <lb/>thou must not in this <rs type="divinity">Ahriman</rs>’s own business
 <lb/>take matters leisurely or stop to breathe,
@@ -1580,7 +1576,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>both soul and body for the Shah, and break
 <lb/>the talismans that guard those sorcerers.
 
-<pb n="44"/>
+<pb n="2.44"/>
 
 <lb/>all that survive among the <rs type="ethnic">Iranians</rs> there
 <lb/>will I bring back and gird their loins again;
@@ -1625,7 +1621,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>departed from his sire and, treating night
 <lb/>like day, made two days' journey into one,
 
-<pb n="45"/>
+<pb n="2.45"/>
 
 <lb/>not giving <rs type="horse">Rakhsh</rs> repose. Now as his body
 <lb/>failed him through lack of food he reached a plain
@@ -1667,7 +1663,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>He slept and rested long, and when the sun
 
-<pb n="46"/>
+<pb n="2.46"/>
 
 <lb/>rose o’er the <sic>darksome</sic> hills awoke still drowsy ;
 <lb/>he rubbed down <rs type="horse">Rakhsh</rs> and saddled him, then prayed
@@ -1711,7 +1707,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>Then in the Worldlord’s strength rose to his feet
 <lb/>and followed up the ram, with scimitar
 
-<pb n="47"/>
+<pb n="2.47"/>
 
 <lb/>in one hand while the other grasped the reins,
 <lb/>until he saw the spring, for thither went
@@ -1758,7 +1754,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 
 
-<pb n="48"/>
+<pb n="2.48"/>
 
 </p>
 </div>
@@ -1829,7 +1825,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p><p>
 <lb/>Then for the third time with his tiger-skin
 
-<pb n="49"/>
+<pb n="2.49"/>
 
 <lb/>upon his breast he set himself to sleep.
 <lb/>The fearsome dragon roared and, thou hadst said,
@@ -1875,7 +1871,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>on seeing the dragon’s might, and how it battled
 
 
-<pb n="50"/>
+<pb n="2.50"/>
 
 <lb/>with <persName>Rustam</persName>, laid his ears back, joined the fray,
 <lb/>bit at the dragon’s shoulders, tore its hide
@@ -1932,7 +1928,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>a jewelled cup with wine. A dainty lute
 
-<pb n="51"/>
+<pb n="2.51"/>
 
 <lb/>was there, the desert seemed a banquet-hall !
 <lb/>He took the lute up, touched the chords, and sang : —
@@ -1985,7 +1981,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>an <rs type="divinity">Ahriman</rs> beneath her bravery,
 
-<pb n="52"/>
+<pb n="2.52"/>
 
 <lb/>he handed her a cup of wine, invoking
 <lb/>the Giver of all good. Now when he named
@@ -2038,7 +2034,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>he smote the hero smartly with a stick
 
-<pb n="53"/>
+<pb n="2.53"/>
 
 <lb/>upon the foot and said, as <persName>Rustam</persName> woke :—
 <lb/><q>O <rs type="divinity">Ahriman</rs>! why didst thou loose thy steed
@@ -2085,7 +2081,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.53.1">Cf. p. 13.</note>
 
-<pb n="54"/>
+<pb n="2.54"/>
 
 <lb/>with swords and <sic>maces</sic> only for its fruit,
 <lb/>and beareth on its lap the heads of chieftains.
@@ -2128,7 +2124,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 </p><p>
 <lb/><rs type="divinity">Ulad</rs> said: <q>Be not <sic>wroth</sic>,
 
-<pb n="55"/>
+<pb n="2.55"/>
 
 <lb/>but gracious just for once and slay me not
 
@@ -2183,7 +2179,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <note xml:id="n.55.1"> The name of a tribe, <q>the Bandy-legged</q> ; <foreign xml:lang="grc"><sic>ἱμαντοπόδες</sic></foreign>, <sic>loripedes</sic>. Cf. p. 63.</note>
 <note xml:id="n.55.2">The name of a tribe, <q>the Goat-ears.</q></note>
 
-<pb n="56"/>
+<pb n="2.56"/>
 
 <lb/>a myriad of cavaliers at least
 <lb/>are posted through the realm, so armed and paid
@@ -2228,7 +2224,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>the mace his grandsire had been wont to use,
 <lb/>departed confident and full of ruse.
 
-<pb n="57"/>
+<pb n="2.57"/>
 
 </p>
 </div>
@@ -2268,7 +2264,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>and he hath lost his wisdom, sense, and <rs type="ethnic">Grace</rs>!
 <lb/>Thou <sic>wouldest</sic> say: <q>He <sic>talketh</sic> in his sleep.</q>
 
-<pb n="58"/>
+<pb n="2.58"/>
 
 <lb/>but in these grievous bonds we can do naught;
 <lb/>in good sooth fortune hath abandoned us.</q>
@@ -2312,7 +2308,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>He made him ready, and in setting forth
 <lb/>spake thus to the <rs type="ethnic">Iranians</rs> : <q> Be alert,
 
-<pb n="59"/>
+<pb n="2.59"/>
 
 <lb/>for 'tis the White <rs type="divinity">Div</rs> that I go against—
 <lb/>that Elephant of war, full of resource,
@@ -2364,7 +2360,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>the White <rs type="divinity">Div</rs>, found a pit like Hell, but saw not
 <lb/>the sorcerer for the murk. There <sic>swordin</sic> hand
 
-<pb n="60"/>
+<pb n="2.60"/>
 
 <lb/>he paused ; no room was there for fight or flight.
 <milestone unit="vullers" n="V.353"/>
@@ -2407,7 +2403,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>and dashed the life-breath from him on the ground,
 <lb/>then with a dagger stabbed him to the heart
 
-<pb n="61"/>
+<pb n="2.61"/>
 
 <lb/>and plucked the liver from his swarthy form :
 <lb/>the carcase filled the cave, and all the world
@@ -2454,7 +2450,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.61.1"> In war-time he would ride, and he had sworn to ride till he had triumphed, Cf. p. 44.</note>
 
-<pb n="62"/>
+<pb n="2.62"/>
 
 
 <lb/>but brighter still is my lot since I have
@@ -2501,7 +2497,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>on this that such a letter should be sent
 <lb/>to give his darkened mind enlightenment.
 
-<pb n="63"/>
+<pb n="2.63"/>
 
 </p>
 </div>
@@ -2553,7 +2549,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.63.1">Cf. p. 55.</note>
 
-<pb n="64"/>
+<pb n="2.64"/>
 
 <lb/>hence their nickname <rs type="ethnic">Narmpai</rs> for many a year.
 <lb/>There lived among his chiefs and men of war
@@ -2603,7 +2599,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <milestone unit="vullers" n="V.360"/>
 <lb/>Am I such that thou <sic>sayest</sic>: <q>Quit thy land,
 
-<pb n="65"/>
+<pb n="2.65"/>
 
 <lb/>thy throne and country, and attend my court ?</q>
 
@@ -2674,7 +2670,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>do as thou art commanded like a slave.
 
 
-<pb n="66"/>
+<pb n="2.66"/>
 
 <lb/>thou wilt not wreck thy realm but pay me tribute
 <lb/>Unvexed by war, enjoy <placeName>Mazandaran</placeName>,
@@ -2727,7 +2723,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>That strength-<sic>assayer</sic> lost all strength himself,
 <lb/>paled, and fell off his steed. One went before
 
-<pb n="67"/>
+<pb n="2.67"/>
 
 <lb/>and told the monarch of <placeName>Mazandaran</placeName>
 <lb/>that which had chanced. There was a cavalier
@@ -2780,7 +2776,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>in fight he is a mountain. What and how
 <lb/>am I to speak about his mace and <rs type="horse">Rakhsh</rs> ?
 
-<pb n="68"/>
+<pb n="2.68"/>
 
 <lb/>what army can withstand him when he <sic>warreth</sic> ?
 <lb/>He maketh mountains seas, and seas like mountains.
@@ -2834,7 +2830,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>Thow lt know not head from foot. 'Tis thy conceit ;
 
-<pb n="69"/>
+<pb n="2.69"/>
 
 <lb/>be wise and cast away thy bow, for when
 <lb/>we meet thy talk and violence will cease.</q>
@@ -2886,7 +2882,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>like bowls of blood, while quaking at his words;
 
-<pb n="70"/>
+<pb n="2.70"/>
 
 <lb/>and might the king made ready royal gifts
 
@@ -2949,7 +2945,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <lb/>The troops drew up while elephantine <persName>Rustam</persName>,
 
-<pb n="71"/>
+<pb n="2.71"/>
 
 <lb/>who never saw disaster, led them on.
 
@@ -3007,7 +3003,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/><q> About <rs type="divinity">Juya</rs> and his head-reaping sword ;
 <lb/>thy mother��s liver shall be split anon,
 
-<pb n="72"/>
+<pb n="2.72"/>
 
 <lb/>and she shall wash thy mail and <sic>casque</sic> with tears.</q>
 
@@ -3058,7 +3054,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>While <sic>maces</sic> rained upon the <sic>casques</sic> and helms
 <note xml:id="n.72.1"> CE. vol. i. p. 386 and note.M</note>
 
-<pb n="73"/>
+<pb n="2.73"/>
 
 <lb/>as autumn-blasts shower leaves from willow-trees.
 <lb/>Thus for a week those glory-seeking hosts
@@ -3103,7 +3099,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>awhile maintained his ground. Then <persName>Rustam</persName> gave
 <lb/>his pointed lance to one to hold, invoked
 
-<pb n="74"/>
+<pb n="2.74"/>
 
 <lb/>the name of God, raised high his mace, and raged ;
 <lb/>his voice filled all the air, the <sic>divs</sic> became
@@ -3152,7 +3148,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 
 
-<pb n="75"/>
+<pb n="2.75"/>
 
 <lb/>he set a guard and said: <q> Quit these black arts
 <lb/>and <sic>sorceries</sic> to take thy proper shape,
@@ -3204,7 +3200,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>and spent a night in revel. Thus <sic>rethroned</sic>
 <lb/>he said to <persName>Rustam</persName>: <q>Chief of paladins!
 
-<pb n="76"/>
+<pb n="2.76"/>
 
 <lb/>thou hast displayed thy prowess everywhere,
 <lb/>and now I have received my throne from thee.
@@ -3252,7 +3248,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 <lb/>The world grew young through him, and there arose
 <lb/>a New Moon from <placeName>Iran</placeName>. Glad and triumphant
 
-<pb n="77"/>
+<pb n="2.77"/>
 
 <lb/>he sat enthroned, unlocked his ancient hoards,
 
@@ -3327,7 +3323,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
  
 
-<pb n="78"/>
+<pb n="2.78"/>
 
 <lb/>the Shah remained, <sic>illumining</sic> the world
 <lb/>with laws and usages. When thus returned
@@ -3371,10 +3367,10 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 </div>
 </div>
-<pb n="79"/>
+<pb n="2.79"/>
 <div type="textpart" subtype="part" n="2"><head>Part II: The doings of <persName>Kai Kaus</persName> in the land of Barbaristan and other tales</head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p><persName>Kaus</persName> makes a progress through his realm. He wars against the kings of <placeName>Barbar</placeName>, <placeName>Misr</placeName>, and <placeName>Hamavaran</placeName>; he marries <persName>Sudaba</persName>, the daughter of the king of <placeName>Hamavaran</placeName>, and through treachery is taken captive by him. On this the <rs type="ethnic">Arabs</rs> and <persName>Afrasiyab</persName> both invade <placeName>Iran</placeName> and fight for its possession. The <rs type="ethnic">Iranians</rs> in despair appeal to <persName>Rustam</persName>, who rescues <persName>Kai <persName>Kaus</persName></persName>, defeats <persName>Afrasiyab</persName>, and reinstates the Shah, who, warned by past experience, rules justly for a time, rises to the height of his power, and builds himself great palaces on Mount <placeName>Alburz</placeName>. Afterward he falls again into temptation, tries to mount to heaven, is rescued again by <persName>Rustam</persName>, again repents, and again is restored to power. The Part concludes with an account of one of <persName>Rustam</persName>’s raids into <placeName>Turan</placeName>.</p>
 </div>
@@ -3387,7 +3383,7 @@ and made seven stages of it, in the course of each of which he met with an adven
 
 <note xml:id="n.79.1">DEI, ii. 221-224.</note>
 
-<pb n="80"/>
+<pb n="2.80"/>
 
 that <persName>Kai Kaus</persName> marched from <placeName>Nimruz</placeName> to the sea-coast of <placeName>Makran</placeName> (Baluchistan), there built his fleet, sailed past the southern shores of <placeName>Arabia</placeName>, and reached some spot north of <placeName>Berbera</placeName> on the western shore of the <placeName>Red Sea</placeName>. He would then, as <persName>Firdausi</persName> says, have <placeName>Misr</placeName> (<placeName>Egypt</placeName>) on his left hand, <placeName>Barbar</placeName> on his right, and the sea between him and his objective <placeName>Hamavaran</placeName> (<placeName>Yaman</placeName>), which confronted him across it, The matter has become confused from the fact that <persName>Firdausi</persName> had just stated that the people of <placeName>Misr</placeName> and <persName>Sham</persName> (<placeName>Syria</placeName>) had rebelled against <persName>Kai Kaus</persName>, and therefore <placeName>Hamavaran</placeName> has been assumed to mean <placeName>Syria</placeName>. We may add that the two historians Tabari and Mas’<sic>tidi</sic> both mention <persName>Kai Kaus</persName>' expedition to <placeName>Yaman</placeName>, and so far, though their accounts differ considerably from <persName>Firdausi</persName>’s, support Professor <persName>Darmesteter</persName>’s elucidation of this episode.<ref target="n.80.1"/></p>
 
@@ -3403,7 +3399,7 @@ that <persName>Kai Kaus</persName> marched from <placeName>Nimruz</placeName> to
 
 <note xml:id="n.80.2">See vol, i. p. 4.</note>
 
-<pb n="81"/>
+<pb n="2.81"/>
 
 the Syrians. Winter came on, and Antiochus Sidetes, resolved to maintain his advantage, distributed his forces throughout the cities and towns of <placeName>Babylonia</placeName> with the intention of renewing operations in the spring. The Syrian troops with their motley entourage of camp-followers, cooks, actors, etc., soon made themselves intolerable to the natives among and upon whom they were quartered. An understanding was entered into with Phraates II, who promised to be at hand with his army, and at a given signal the Syrian invaders, who were thoroughly enjoying themselves after their campaign and had been kept wholly ignorant of the impending danger, were attacked throughout <placeName>Babylonia</placeName>, and either massacred or taken captive. Antiochus Sidetes himself perished, his son Seleucus was taken prisoner and his niece as well, whom Phraates II. married.<ref target="n.81.1"/></p>
 
@@ -3433,7 +3429,7 @@ the Syrians. Winter came on, and Antiochus Sidetes, resolved to maintain his adv
 
 
 
-<pb n="82"/>
+<pb n="2.82"/>
 
 discontented with his earthly sovereignty and inducing him to aspire to that of the sky of the archangels. He yielded to the tempter. Consequently the divine <rs type="ethnic">Glory</rs> left him, and he was only saved from destruction by the Fravashi, or immortal principle, of the as yet unborn <persName>Kai Khusrau</persName>. <rs type="divinity">Neryosang</rs>, the messenger of <rs type="divinity">Urmuzd</rs>, was about to smite <persName>Kaus</persName> when the Fravashi cried out : <q>Thou <sic>shouldst</sic> not smite him, O <rs type="divinity">Neryosang</rs> . .. for if thou <sic>shouldst</sic> smite this man... there will not be afterwards ...a thorough destroyer of the high priest of <placeName>Turan</placeName>; because owing to this man will be born him whose name is Siyavaksh, and owing to Siyavaksh I shall be born, who am the Khusrau . . . so that I may accomplish the destruction of his champions and troops, when I would occasion a distant flight of the sovereign of <placeName>Turan</placeName>.</q> Accordingly <persName>Kaus</persName> was released and became discreet.<ref target="n.82.1"/></p>
 
@@ -3472,7 +3468,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <note xml:id="n.82.3">See vol. i. p. 70.</note>
 
-<pb n="83"/>
+<pb n="2.83"/>
 
 <lb/>the monarch of <placeName>Barbar</placeName> prepared for war,
 <lb/>and matters changed their hue. A host came forth
@@ -3519,7 +3515,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and he that <sic>mounteth</sic> must expect a fall.
 <lb/>The <rs type="ethnic">Arabs</rs> rose when all seemed going well,
 
-<pb n="84"/>
+<pb n="2.84"/>
 
 <lb/>a wealthy and aspiring man of parts
 <lb/>set up his standard both in <placeName>Misr</placeName> and <persName>Sham</persName>,
@@ -3562,7 +3558,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>The army’s dust made heaven like <sic>sandarach</sic>,
 <lb/>the whole world turned as black as ebony,
 
-<pb n="85"/>
+<pb n="2.85"/>
 
 <lb/>the mountains shivered at the trumpets' blast,
 <lb/>and earth was bent beneath the horses' hoofs,
@@ -3608,7 +3604,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/><q>OQ just and mighty lord! we chiefs and commons
 <lb/>are dust upon thy feet and slaves of thine.
 
-<pb n="86"/>
+<pb n="2.86"/>
 
 <lb/>be joyful and triumphant all thy years,
 <lb/>and be the heads and fortunes of thy foes
@@ -3666,7 +3662,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>Affined to thee and wash the face of peace.
 <lb/>Now I have heard that thou hast in thy bower
 
-<pb n="87"/>
+<pb n="2.87"/>
 
 <lb/>a daughter who is worthy of my state,
 <lb/>immaculate in form and countenance,
@@ -3715,7 +3711,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>there is no need to sup on grief to-day.
 <lb/>Why grieve at union with the king of earth,
 
-<pb n="88"/>
+<pb n="2.88"/>
 
 <lb/>who can deprive the mighty of their lands ?
 <lb/>This is not grief but joy.</q>
@@ -3763,7 +3759,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>Meanwhile the father grieved and sought a cure;
 <lb/>so eight days afterward he sent at dawn
 
-<pb n="89"/>
+<pb n="2.89"/>
 
 <lb/>a messenger to <persName>Kai Kaus</persName> to say :—
 
@@ -3832,7 +3828,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>with all his troops to serve the <rs type="ethnic">Iranians</rs> 
 
 
-<pb n="90"/>
+<pb n="2.90"/>
 
 <lb/>till each felt safe, and all suspicion ceased ;
 
@@ -3908,7 +3904,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <lb/>the camp-enclosure of <persName>Kaus</persName> to spoil,
 
-<pb n="91"/>
+<pb n="2.91"/>
 
 <lb/>bestowing on his own chiefs crowns and purses.
 
@@ -3967,7 +3963,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>toward <placeName>Iran</placeName>, and having passed the sea
 <lb/>in ships and transports crossed the desert homeward.
 
-<pb n="92"/>
+<pb n="2.92"/>
 
 
 
@@ -4022,7 +4018,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>who flocked to him out of <placeName>Zabul</placeName>, <placeName>Kabul</placeName>,
 <lb/>and Hindustan. Throughout his wide domain
 
-<pb n="93"/>
+<pb n="2.93"/>
 
 <lb/>arose the sound of trump and Indian bell.
 <lb/>The heart of <persName>Rustam</persName> raged like fire; he led
@@ -4074,7 +4070,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 
 
-<pb n="94"/>
+<pb n="2.94"/>
 
 <lb/>allure thee I, according to our custom,
 <milestone unit="vullers" n="V.395"/>
@@ -4122,7 +4118,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and marched toward <placeName>Hamavaran</placeName>. The land
 <lb/>became all hill, troops stretched from range to range,
 
-<pb n="95"/>
+<pb n="2.95"/>
 
 <lb/>and dust obscured the moon. Then <persName>Rustam</persName> sent
 <lb/>a warrior in haste to Shah <persName>Kaus</persName>
@@ -4170,7 +4166,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and raised their standards. When the peerless <persName>Rustam</persName>
 <lb/>had led his forces to the field, and viewed
 
-<pb n="96"/>
+<pb n="2.96"/>
 
 <lb/>the armies of three monarchs and three realms,
 <lb/>he thus harangued his noble warriors :—
@@ -4214,7 +4210,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>hung to his <sic>saddlebow</sic>, bade sound the advance.
 <lb/>Then sword and javelin gleamed ; thou wouldst have said :—
 
-<pb n="97"/>
+<pb n="2.97"/>
 
 <lb/><q>Heaven hath sown earth with tulips,</q> and where <persName>Rustam</persName>
 
@@ -4291,7 +4287,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 
 
-<pb n="98"/>
+<pb n="2.98"/>
 
 <lb/>among the treasures of Shah <persName>Kaus</persName> <persName>Kaus</persName>,
 
@@ -4350,7 +4346,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <milestone unit="vullers" n="V.404"/>
 <lb/>with our long spears and turned his joy and ease
 
-<pb n="99"/>
+<pb n="2.99"/>
 
 <lb/>to bitterness. On both sides many fell,
 <lb/>the age grew conversant with good and evil,
@@ -4395,7 +4391,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and secondly—I cleared it of the <rs type="ethnic">Arabs</rs>
 <lb/>with my sword-arm. I with my scimitar
 
-<pb n="100"/>
+<pb n="2.100"/>
 
 <lb/>behead the mountains and bring eagles down
 <lb/>from their dark cloud-tops.</q>
@@ -4439,7 +4435,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <note xml:id="n.100.1">According to C, glossary (s.v.), a mountain in <placeName>Zabulistan</placeName> where <persName>Rustam</persName> was born, but more probably = Sajistan = <placeName>Sistan</placeName>.</note>
 
-<pb n="101"/>
+<pb n="2.101"/>
 
 <lb/>the more part of their host—and earth was puddled
 <lb/>with blood to clay. The <rs type="ethnic">Turkmans</rs>' fortune slept.
@@ -4500,7 +4496,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <lb/>of virgin silver and a golden palace
 
-<pb n="102"/>
+<pb n="2.102"/>
 
 
 <lb/>twice sixty <sic>cubits</sic> high for his own seat
@@ -4553,7 +4549,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>thou art the shepherd, nobles are the sheep.
 <lb/>One thing is lacking still—that thou <sic>shouldst</sic> leave
 
-<pb n="103"/>
+<pb n="2.103"/>
 
 <lb/>thine everlasting mark upon the world.
 <lb/>How is it that the sun <sic>concealeth</sic> from thee
@@ -4600,7 +4596,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <note xml:id="n.103.1">Cape Comorin,</note>
 
-<pb n="104"/>
+<pb n="2.104"/>
 
 <lb/>the throne above earth’s surface bore it <sic>cloudward</sic>.
 <lb/><persName>Kaus</persName>, as I have heard, essayed the sky
@@ -4651,7 +4647,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <note xml:id="n.104.2"><persName>Siyawush</persName> ; also the name of the yet unborn son of <persName>Kai Kaus</persName> and father of <persName>Kai Khusrau</persName>.</note>
 <note xml:id="n.104.3">Couplet inserted from C. See introductory note to this Part.</note>
 
-<pb n="105"/>
+<pb n="2.105"/>
 
 <lb/>I have been conversant with crown and throne,
 <lb/>with kings and great men of <sic>unsleeping</sic> fortune,
@@ -4700,7 +4696,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>He reached his lofty throne, but, being troubled 
 <lb/>still at his great offence, he quitted it
 
-<pb n="106"/>
+<pb n="2.106"/>
 
 <lb/>and entered not his palace out of shame,
 <lb/>but paced the dust in prayer before his God
@@ -4742,7 +4738,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/><persName>Kaus</persName> saw what was right, did what was right,
 <lb/>a breath of wind was this world in his sight.
 
-<pb n="107"/>
+<pb n="2.107"/>
 
 <lb/>tHE STORY OF THE FIGHT OF THE
 <lb/>sEVEN WARRIORS
@@ -4786,7 +4782,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <note xml:id="n.107.1">The name of a fire-temple.</note>
 
-<pb n="108"/>
+<pb n="2.108"/>
 
 <lb/>come let us, if thou hast a mind to hunt,
 <lb/>hide from the great <persName>Afrasiyab</persName>’s preserves
@@ -4832,7 +4828,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>by this. We must not let that <rs type="divinity">Ahriman</rs>
 <lb/>take counsel with his famous officers,
 
-<pb n="109"/>
+<pb n="2.109"/>
 
 
 
@@ -4889,7 +4885,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>Appeareth that the plain and heights are one;
 
 
-<pb n="110"/>
+<pb n="2.110"/>
 
 <lb/>the standard of the fell <persName>Afrasiyab</persName>
 <lb/>is shining sun-like through the clouds of dust!</q>
@@ -4936,7 +4932,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and he too gave the health of <persName>Kai Kaus</persName>,
 <lb/>then <sic>quatfed</sic> the wine and kissed the face of earth,
 
-<pb n="111"/>
+<pb n="2.111"/>
 <lb/>while <persName>Rustam</persName> fell to praising him and said :—
 
 <lb/><q> The brother doth the brother's cup essay !
@@ -5011,7 +5007,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 <lb/>his charger firmly, came before the host
 
-<pb n="112"/>
+<pb n="2.112"/>
 
 <lb/>with lion’s roars. Behind him was <persName>Gudarz</persName>,
 <lb/>son of <persName>Kishwad</persName>, in mail with mace of steel.
@@ -5069,7 +5065,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>his sire was glorious <persName>Wisa</persName> and his brother
 <lb/>victorious <persName>Piran</persName>. Both in <placeName>Iran</placeName>
 
-<pb n="113"/>
+<pb n="2.113"/>
 
 <lb/>and in <placeName>Turan</placeName> he had no peer save <persName>Rustam</persName>.
 
@@ -5150,7 +5146,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 
 
 
-<pb n="114"/>
+<pb n="2.114"/>
 
 <lb/>took up, and knit his mail-skirt round his waist
 <lb/>to strive afoot against the great <persName>Pilsam</persName>
@@ -5212,7 +5208,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>and cried aloud: <q>A man of war am I,
 <lb/>a Lion waiting. At the king’s command
 
-<pb n="115"/>
+<pb n="2.115"/>
 
 <lb/>I will go forth to battle single-handed.</q>
 
@@ -5256,7 +5252,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>as '<sic>twere</sic> a mountain-crag to earth, his helmet
 <lb/>Drownedin his heart’s blood, while both armies wondered,
 
-<pb n="116"/>
+<pb n="2.116"/>
 
 <lb/>then fear came on the soldiers of <placeName>Turan</placeName>,
 <lb/>while lion-like the seven warriors
@@ -5302,7 +5298,7 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <lb/>his neck away; again the wind-foot steed
 <lb/>beneath him sped like fire. <persName>Afrasiyab</persName>
 
-<pb n="117"/>
+<pb n="2.117"/>
 
 <lb/>escaped, but with wet cheeks and <sic>drouthy</sic> mouth,
 <lb/>while all his horsemen hurried after him
@@ -5341,11 +5337,11 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 </div>
 </div>
 
-<pb n="118"/>
+<pb n="2.118"/>
 
 <div type="textpart" subtype="part" n="3"><head>Part III: <persName>Suhrab</persName></head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>The poet, after justifying in his prelude the ways of God to man in the matter of early death, tells how <persName>Rustam</persName>, in the course of one of his hunting expeditions to <placeName>Turan</placeName>, marries <persName>Tahmina</persName>, the daughter of the king of <placeName>Samangan</placeName>. <persName>Rustam</persName> returns to <placeName>Iran</placeName> and is subsequently informed by <persName>Tahmina</persName>, who has remained at <placeName>Samangan</placeName>, that she has borne him a son—<persName>Suhrab</persName>. In after years <persName>Suhrab</persName> joins the host of <persName>Afrasiyab</persName> in an invasion of <placeName>Iran</placeName> in the hope of meeting his father, who has been misled by <persName>Tahmina</persName> into forming a false estimate of their son’s person and prowess. After a series of tragic misadventures father and son meet in single combat with fatal results.</p>
 </div>
@@ -5365,7 +5361,7 @@ mountain of the Bundahash.<ref n="3"/> It was the scene of the death of
 <note xml:id="n.118.3">WPT, i. 39.</note>
 
 
-<pb n="119"/>
+<pb n="2.119"/>
 
 <lb/><persName>Nariman</persName>, <persName>Rustam</persName>’s great-grandfather, of <persName>Rustam</persName>’s second exploit,<ref target="n.119.1"/> and of the defeat and death at the hands of <persName>Karan</persName> of the Turanian hero <persName>Bahman</persName>,<ref target="n.119.2"/> who, it is worth noting, has reappeared as if nothing had happened.<ref target="n.119.3"/> Similarly <persName>Kulbad</persName> reappears.<ref target="n.119.4"/></p>
 
@@ -5411,7 +5407,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.119.5">A lament of <persName>Suhrab</persName>’s for the loss of <persName>Gurdafrid</persName> is added in C, but the couplets are <sic>asterisked</sic> and V rejects them.</note>
 
-<pb n="120"/>
+<pb n="2.120"/>
 
 <lb/>unless death swallowed all men up in turn
 
@@ -5469,7 +5465,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>the plain well stocked with <sic>onager</sic>, he flushed
 <lb/>rose-like and smiled, then urging on his steed
 
-<pb n="121"/>
+<pb n="2.121"/>
 
 <lb/>he dropped much game with arrow, mace, and lasso.
 <lb/>He lit a fire with sticks, dry grass, and thorns,
@@ -5524,7 +5520,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 </p>
 </div>
-<pb n="122"/>
+<pb n="2.122"/>
 <div type="textpart" subtype="section" n="3">
 <head>How <persName>Rustam</persName> came to the City of <placeName>Samangan</placeName></head>
 <p>
@@ -5575,7 +5571,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/><persName>Rustam</persName> heard with joy,
 <lb/>and easy in his mind agreed to pay
 
-<pb n="123"/>
+<pb n="2.123"/>
 
 <lb/>a visit to the king who, greatly pleased,
 <lb/>bestowed him in the palace and stood slave-like
@@ -5627,7 +5623,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>that mine affliction <sic>teareth</sic> me in twain.
 
 
-<pb n="124"/>
+<pb n="2.124"/>
 
 <lb/>sole daughter of the king of <placeName>Samangan</placeName>,
 <lb/>and by descent half lion and half <sic>pard</sic>,
@@ -5675,7 +5671,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>The matchless <persName>Rustam</persName> heard her to the end.
 <lb/>He saw what beauty and intelligence
 
-<pb n="125"/>
+<pb n="2.125"/>
 
 <lb/>were hers, and that she brought him news of <rs type="horse">Rakhsh</rs>.
 <lb/>Perceiving that the affair would turn out well
@@ -5732,7 +5728,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.125.1">The father of <persName>Nariman</persName> and great-great-grandfather of <persName>Rustam</persName>.</note>
 
-<pb n="126"/>
+<pb n="2.126"/>
 
 <lb/>he came, caressed the steed, and saddled him,
 <lb/>pleased both with glossy <rs type="horse">Rakhsh</rs> and with the king.
@@ -5785,7 +5781,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>She brought and showed a letter from his sire,
 <lb/>three bright gems, and three purses filled with gold,
 
-<pb n="127"/>
+<pb n="2.127"/>
 
 <lb/>sent to him by his father at his birth
 <lb/>with these words: <q>Guard these well, because thy sire
@@ -5836,7 +5832,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>He said moreover: <q>Thou shalt see my prowess,
 <lb/>but I must have a charger swift of foot
 
-<pb n="128"/>
+<pb n="2.128"/>
 
 <lb/>with hoofs of steel flint-shattering, in strength
 
@@ -5892,7 +5888,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.128.1">See vol. i. p. 71.</note>
 
-<pb n="129"/>
+<pb n="2.129"/>
 
 <lb/>I must ride forth at once and turn the day
 <lb/>of <persName>Kai Kaus</persName> to gloom.</q>
@@ -5965,7 +5961,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>the matchless <persName>Rustam</persName> will be put to it.
 
 
-<pb n="130"/>
+<pb n="2.130"/>
 
 <lb/>it may be that this lion-man will slay him.
 
@@ -6041,7 +6037,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>the cultivated parts, and left all bare.
 
-<pb n="131"/>
+<pb n="2.131"/>
 
 </p>
 </div>
@@ -6120,7 +6116,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="132"/>
+<pb n="2.132"/>
 
 <lb/>sat on his <sic>foeman</sic>’s breast, and had in mind
 
@@ -6175,7 +6171,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>He armed like wind, put on a helm of <placeName>Chin</placeName>,
 <note xml:id="n.132.1">Khir, Cf. WPT, i. 104.</note>
 
-<pb n="133"/>
+<pb n="2.133"/>
 
 <lb/>and rushed out to encounter <persName>Gurdafrid</persName>,
 <lb/>who when she saw him strung her bow up, drew it,
@@ -6227,7 +6223,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>midst warriors a lion! two hosts watch
 
 
-<pb n="134"/>
+<pb n="2.134"/>
 
 <lb/>our prowess with the mace and scimitar,
 <lb/>and now that I have shown my face and hair
@@ -6283,7 +6279,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>upon the ramparts to observe the foe,
 <lb/>beheld <persName>Suhrab</persName> still mounted, and exclaimed :—
 
-<pb n="135"/>
+<pb n="2.135"/>
 
 <lb/><q>O warrior of <placeName>Turan</placeName>! why take such pains ?
 <lb/>Be off with you and give up battlefields.</q>
@@ -6337,7 +6333,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>With that he turned about his charger’s rein
 <lb/>and took the way to his own camp again.
 
-<pb n="136"/>
+<pb n="2.136"/>
 
 </p>
 </div>
@@ -6402,7 +6398,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>I would have none, e’en though a Mount of flint,
 
-<pb n="137"/>
+<pb n="2.137"/>
 
 <lb/>meet him upon the plain. The earth would pity
 <lb/>that Mount if he should charge it in the fight,
@@ -6455,7 +6451,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>with <persName>Gazhdaham</persName>, because beneath the hold
 
-<pb n="138"/>
+<pb n="2.138"/>
 
 <lb/>there was a way not <sic>wotted</sic> by the foe.
 
@@ -6511,7 +6507,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>hath come and is <sic>beleaguering</sic> <placeName>White Castle</placeName>.
 <lb/>He is a brave, heroic paladin,
 
-<pb n="139"/>
+<pb n="2.139"/>
 
 <lb/>in form an elephant, in heart a lion.
 <lb/>None in <placeName>Iran</placeName> can fight him ; thou alone,
@@ -6562,7 +6558,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/><persName>Giv</persName> took it and sped night and day like wind,
 <lb/>no rest, no sleep, no water, and no food,
 
-<pb n="140"/>
+<pb n="2.140"/>
 
 <lb/>until <persName>Zal</persName> heard the cry: <q>A cavalier
 <lb/>Approacheth from <placeName>Iran</placeName> as swift as dust.</q>
@@ -6635,7 +6631,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <milestone unit="vullers" n="V.464"/>
 <lb/>in unconcern, then <persName>Giv</persName> again applied
 
-<pb n="141"/>
+<pb n="2.141"/>
 
 <lb/>to <persName>Rustam</persName>, praising him and saying: <q> Hero,
 
@@ -6717,7 +6713,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>forgetful of <persName>Kaus</persName>. Upon the fourth
 
-<pb n="142"/>
+<pb n="2.142"/>
 
 <lb/><persName>Giv</persName>, ready to depart, said thus to <persName>Rustam</persName> :-—
 <lb/><q> <persName>Kaus</persName> is rash and hasty; to his mind
@@ -6771,7 +6767,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </p><p>
 <lb/>But upon this the Shah
 
-<pb n="143"/>
+<pb n="2.143"/>
 
 <lb/>raged at them both, so that all present marvelled.
 <lb/>He bade <persName>Tus</persName>: <q> Go and hang them both alive,</q>
@@ -6814,7 +6810,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>Do I deserve thy words? Art thou my patron ?
 <lb/>Mine was the throne. I set <persName>Kubad</persName> thereon.
 
-<pb n="144"/>
+<pb n="2.144"/>
 
 <lb/>what care I for <persName>Kaus</persName>, his wrath and bluster ?
 <lb/>If I had not fetched <persName>Kai Kubad</persName> myself,
@@ -6876,7 +6872,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>wore heavy fetters in <placeName>Hamavaran</placeName>
 
-<pb n="145"/>
+<pb n="2.145"/>
 
 <lb/>what monarchs <persName>Rustam</persName> slaughtered for his sake
 <lb/>and never turned away but brought <persName>Kaus</persName>
@@ -6933,7 +6929,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="146"/>
+<pb n="2.146"/>
 
 <lb/>is brainless and no picker of his words
 <lb/>when angered, but <sic>regretteth</sic> them anon,
@@ -6979,7 +6975,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>and further, since a hostile host is near,
 <lb/>dim not this crown and throne so wantonly,
 
-<pb n="147"/>
+<pb n="2.147"/>
 
 <lb/>for we have been insulted by <placeName>Turan</placeName>,
 <lb/>and none whose Faith is pure <sic>approveth</sic> that.</q>
@@ -7034,7 +7030,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="148"/>
+<pb n="2.148"/>
 
 </p>
 </div>
@@ -7083,7 +7079,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>of care, thou wilt not see in this vast host
 <lb/>a single warrior or massive mace
 
-<pb n="149"/>
+<pb n="2.149"/>
 
 <lb/>meet me upon the field though sun and moon
 <lb/>be on their side. The men and arms abound,
@@ -7150,7 +7146,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <milestone unit="vullers" n="V.475"/>
 <lb/>his mother summoned to her <persName>Zhanda Razm</persName>, 
 
-<pb n="150"/>
+<pb n="2.150"/>
 
 
 <lb/>for once he had seen <persName>Rustam</persName> at a feast.
@@ -7207,7 +7203,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>but <persName>Zhanda Razm</persName> the Lion came not back.
 <lb/>At length the youth began to ask for him
 
-<pb n="151"/>
+<pb n="2.151"/>
 
 <lb/>because his room was empty. Some went out,
 
@@ -7281,7 +7277,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>about <persName>Suhrab</persName>, his stature and his mien,
 
-<pb n="152"/>
+<pb n="2.152"/>
 
 <lb/>his arms and shoulders, chest and feet, and said :-—
 <lb/><q>This is no <rs type="ethnic">Turkman</rs> born ; he is as tall
@@ -7330,7 +7326,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>why should I speak to thee <sic>deceitfully</sic> ?
 <lb/>Thou shalt be witness to mine honest dealing:
 
-<pb n="153"/>
+<pb n="2.153"/>
 
 <lb/>I will not even think a <sic>guileful</sic> thought.
 <lb/>The best trade in the world is honesty,
@@ -7399,7 +7395,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 </p>
 
-<pb n="154"/>
+<pb n="2.154"/>
 
 
 
@@ -7461,7 +7457,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>he would not credit his own eyes. Again
 <lb/>he pressed <persName>Hajir</persName> to tell and soothe his heart,
 
-<pb n="155"/>
+<pb n="2.155"/>
 
 <lb/>but o’er his head was written otherwise—
 <lb/>a sentence never <sic>minished</sic> or enhanced.
@@ -7531,7 +7527,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>who <sic>draweth</sic> not the rein in fights with lions—
 <lb/>a prudent man descended from <persName>Givgan</persName>,
 
-<pb n="156"/>
+<pb n="2.156"/>
 
 <lb/>who never <sic>murmureth</sic> at pain or hardship.</q>
 <lb/><persName>Suhrab</persName> thus sought for traces of his father:
@@ -7601,7 +7597,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>I will unlock the secret treasuries
 
-<pb n="157"/>
+<pb n="2.157"/>
 
 <lb/>and leave thee not a want, but if thou <sic>keepest</sic>
 <lb/>this secret from me, making mystery
@@ -7658,7 +7654,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="158"/>
+<pb n="2.158"/>
 
 
 <p>
@@ -7706,7 +7702,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
  
 
-<pb n="159"/>
+<pb n="2.159"/>
 
 <lb/>or get him easily within thy clutches,
 <lb/>refrain from seeking him in fight, for he
@@ -7775,7 +7771,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>Who is there bold enough to challenge him ?</q>
 
-<pb n="160"/>
+<pb n="2.160"/>
 
 </p><p>
 <lb/>Anon <persName>Suhrab</persName> the warrior raised his voice,
@@ -7840,7 +7836,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>and thought: <q> This must be <rs type="divinity">Ahriman</rs>’s own fight !
 
-<pb n="161"/>
+<pb n="2.161"/>
 
 <lb/>so great a hubbub is not made for one.</q>
 
@@ -7901,7 +7897,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>I know no peer to thee e’en in <placeName>Iran</placeName>.</q>
 
 
-<pb n="162"/>
+<pb n="2.162"/>
 
 <lb/>when <persName>Rustam</persName> spake <persName>Suhrab</persName>’s heart throbbed. He answered :—
 <lb/><q>One question will I put. Vouchsafe to tell me
@@ -7968,7 +7964,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>the sire in anguish and the son exhausted.
 
-<pb n="163"/>
+<pb n="2.163"/>
 
 
 </p><p>
@@ -8023,7 +8019,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.163.1">A meteorite built into the wall of the Kaaba at Mecca.</note>
 
-<pb n="164"/>
+<pb n="2.164"/>
 
 <lb/><persName>Suhrab</persName> laughed out and cried: <q>O cavalier!
 <lb/>Thou canst not bear the buffets of the brave.
@@ -8088,7 +8084,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>for all the bright world <sic>yieldeth</sic> to the sword,
 <lb/>and if thine arms are so familiar
 
-<pb n="165"/>
+<pb n="2.165"/>
 <lb/>with scimitar and arrow never die!
 <lb/>Come we with vengeful swords at break of day
 
@@ -8144,7 +8140,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>while ye looked on. However, none opposed me ;
 <lb/>'Twas well none did, for had a lion come
 
-<pb n="166"/>
+<pb n="2.166"/>
 
 <lb/>he would not have escaped my massive mace.
 <lb/>What is a tiger, <sic>pard</sic>, or mighty lion
@@ -8196,7 +8192,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>his arms and thighs are camel-like and larger.
 <lb/>With sword and shaft, with lasso and with mace,
 
-<pb n="167"/>
+<pb n="2.167"/>
 
 <lb/>we proved each other lustily in all ways
 <lb/>until at last I said: <q>Ere now have I
@@ -8251,7 +8247,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="168"/>
+<pb n="2.168"/>
 
 <lb/>and be not downcast. Let not any of you
 <lb/>go on the field or prosecute the war,
@@ -8323,7 +8319,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>Two leagues divided host from host, and all
 <lb/>stood ready-armed. The hero with a <sic>casque</sic>
 
-<pb n="169"/>
+<pb n="2.169"/>
 
 <lb/>of iron on his head came on the field.
 <lb/><persName>Suhrab</persName> on his side revelling with comrades
@@ -8380,7 +8376,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>Though thou art young I am no child myself, 
 
 
-<pb n="170"/>
+<pb n="2.170"/>
 
 <lb/>but girt to wrestle, and the end shall be
 <lb/>according to the will of Providence.
@@ -8434,7 +8430,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>the <rs type="mythologicalcreature">Dragon</rs>’s clutches and get off with life.
 <lb/>The brave youth <sic>hearkened</sic> to the old man’s words.
 
-<pb n="171"/>
+<pb n="2.171"/>
 
 <lb/>in part through confidence, in part through fate,
 <lb/>in part no doubt through magnanimity,
@@ -8485,7 +8481,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>would sink therein. Such puissance as that
 <note xml:id="n.171.1"><persName>Zahhak</persName>. See vol. i. p. 154.</note>
 
-<pb n="172"/>
+<pb n="2.172"/>
 
 <lb/>proved an abiding trouble, and he prayed
 <lb/>to God in bitterness of soul to <sic>minish</sic>
@@ -8538,7 +8534,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>hath hampered him,</q> while <persName>Rustam</persName> reaching clutched
 ‘hat warrior-leopard by the head and neck,
 
-<pb n="173"/>
+<pb n="2.173"/>
 
 <lb/>bent down the body of the gallant youth,
 <lb/>whose time was come and all whose strength was gone,
@@ -8597,7 +8593,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <milestone unit="vullers" n="V.504"/><p>
 <lb/>He raved, his blood seethed, and with groans he plucked 
 
-<pb n="174"/>
+<pb n="2.174"/>
 
 <lb/>his hair up by the roots, while at the sight
 <lb/><persName>Suhrab</persName> sank swooning till at length he cried :-—
@@ -8658,7 +8654,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>said to the troops: <q> Dispatch a messenger
 <lb/>that he may find out what <persName>Suhrab</persName> hath done,
 
-<pb n="175"/>
+<pb n="2.175"/>
 
 <lb/>and if there must be mourning through <placeName>Iran</placeName>.
 <lb/>None will confront him with brave <persName>Rustam</persName> dead.
@@ -8714,7 +8710,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.175.1"><q>La place que je <sic>lui</sic> <sic>avais</sic> <sic>destinge</sic> <sic>reste</sic> <sic>vide</sic>.</q>—MOHL.</note>
 
-<pb n="176"/>
+<pb n="2.176"/>
 
 
 <lb/>all strength and courage. Fight not with <placeName>Turan</placeName>:
@@ -8783,7 +8779,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>laid hold upon his throat and threw him down,
 <lb/>then drawing forth a dagger of bright steel
 
-<pb n="177"/>
+<pb n="2.177"/>
 
 <lb/>was minded to behead him, but the nobles 
 <lb/>took part with him and saved him from death’s door.
@@ -8830,7 +8826,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>If thou at all art mindful of my deeds
 <lb/>let thy heart feel for me in my distress.
 
-<pb n="178"/>
+<pb n="2.178"/>
 
 <lb/>of that elixir in thy treasury,
 
@@ -8881,7 +8877,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <note xml:id="n.178.2">See p. 160.</note>
 
-<pb n="179"/>
+<pb n="2.179"/>
 
 <lb/>he hath no equal in the world for harshness,
 
@@ -8934,7 +8930,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>the world’s abuse. Who ever slew a son
 <lb/>so young and wise and valiant? And his mother!
 
-<pb n="180"/>
+<pb n="2.180"/>
 
 <lb/>what will her sire, that honoured paladin,
 <lb/>say to her in her youth and innocence ?
@@ -8987,7 +8983,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>Such are high heaven’s deeds! It hath for us
 <lb/>a lasso in this hand, in that a crown,
 
-<pb n="181"/>
+<pb n="2.181"/>
 
 
 </p><p>
@@ -9042,7 +9038,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>yet through thy sorrow is my heart so sore
 <lb/>that I will think upon revenge no more.</q>
 
-<pb n="182"/>
+<pb n="2.182"/>
 
 </p>
 </div>
@@ -9118,7 +9114,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>in front of him. <persName>Rudaba</persName>, seeing it
 <lb/>and <persName>Rustam</persName>’s tears, exclaimed: <q> Alack! thou hero!
 
-<pb n="183"/>
+<pb n="2.183"/>
 
 <lb/>uplift thy head one moment from the bier.</q>
 
@@ -9174,7 +9170,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>While all went blind with grief he made a charnel
 <lb/>shaped like a horse’s hoof. The bier was formed
 
-<pb n="184"/>
+<pb n="2.184"/>
 
 <lb/>of <sic>undried</sic> aloe-wood with golden clasps.
 
@@ -9240,7 +9236,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>and <persName>Rustam</persName>.</q> Then I mused and said: <q>Already
 
-<pb n="185"/>
+<pb n="2.185"/>
 
 <lb/>hast thou been round the world to find thy father,
 
@@ -9322,7 +9318,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 <lb/>she filled the eyes of all the folk with hail,
 
-<pb n="186"/>
+<pb n="2.186"/>
 
 <lb/>so grievous were her moans and lamentations.
 <lb/>At length while all hearts ached she fell a-swoon,
@@ -9374,7 +9370,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 <lb/>is for thine own departure to prepare,
 <lb/>since here thou canst not stay. So dally not.
 
-<pb n="187"/>
+<pb n="2.187"/>
 
 
 
@@ -9412,11 +9408,11 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 </div>
 
 </div>
-<pb n="188"/>
+<pb n="2.188"/>
 
 <div type="textpart" subtype="part" n="4"><head>Part IV: the story of <persName>Siyawush</persName></head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>The poet, inspired by his theme and conscious of his genius, retells an ancient tale thus :—</p>
 
@@ -9429,7 +9425,7 @@ the relations between <persName>Sudaba</persName> and <persName>Gurdafrid</persN
 
 
 
-<pb n="189"/>
+<pb n="2.189"/>
 
 strangers ignorant of their blood-relationship, as enemies, as villain and victim. Such instances are the surest guarantee that the poet is drawing on epic sources and not on his own imagination. The story further shows how needful it is for a reader of the <persName>Shahnama</persName> mentally to supply for himself the element of time. The account of <persName>Sudaba</persName>’s infatuation for <persName>Siyawush</persName><ref target="n.189.1"/> reads as if it were a matter of a few days, weeks, or months at most. It is only from a chance remark of hers that we learn that the affair had been going on for seven years !</p>
 
@@ -9454,7 +9450,7 @@ strangers ignorant of their blood-relationship, as enemies, as villain and victi
 <note xml:id="n.189.5">WPT, iii. 64, 109.</note>
 <note xml:id="n.189.6">WPT, i. 119</note>
 
-<pb n="190"/>
+<pb n="2.190"/>
 
 
 history of that country. His account is nearly all lost, but in another work of his he tells us that the <rs type="ethnic">Kharazmians</rs> dated the colonisation of their country from the year 980 before Alexander, i.e. from the fourteenth century b.c., and that ninety-two years later the incursion of <persName>Siyawush</persName> took place. From this time onward they were governed by monarchs of his race down to the days of king
@@ -9466,7 +9462,7 @@ history of that country. His account is nearly all lost, but in another work of 
 
 <note xml:id="n.190.2">i, 107 seq.</note>
 
-<pb n="191"/>
+<pb n="2.191"/>
 
 the child from <persName>Mandane</persName>, to kill it, and to bury it. <persName>Harpagus</persName>, in great distress, carried off the child, who was ready clad in funeral weeds, to his own home, but told his wife that nothing should induce him to make away with the infant himself, for they were akin to each other. Accordingly he sent for one of the herdsmen of <persName>Astyages</persName>, whose herds were pastured on the mountains north of <placeName>Ekbatana</placeName>, in the direction of the <placeName>Euxine</placeName>—a tract frequented by wild beasts—and bade him expose the child on some desolate spot that it might soon perish. Now, it so happened that the herdsman’s wife had lately had a still-born babe, and when she saw <persName>Cyrus</persName> she persuaded her husband to expose the dead and allow her to keep the living child. The son of <persName>Mandane</persName> thus grew up in the house of the herdsman, and his royal birth soon began to assert itself. His playmates chose him for their king, and he used to hold mock court among them. At length an incident brought the matter to the ears of <persName>Astyages</persName>, who questioned the herdsman and was exceedingly <sic>wroth</sic> with <persName>Harpagus</persName>. The interpreters of dreams, however, declared that no further danger was to be apprehended from <persName>Cyrus</persName>, as the dream had been sufficiently fulfilled by his election to kingship by his play-fellows. Accordingly <persName>Astyages</persName> sent him back to
 Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persName>. Subsequently <persName>Cyrus</persName>, incited by <persName>Harpagus</persName>, rebelled and overthrew <persName>Astyages</persName>.
@@ -9493,7 +9489,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="192"/>
+<pb n="2.192"/>
 
 <lb/>his purpose by his own unlovely thought ;
 <lb/>moreover he will make himself a cross,
@@ -9531,7 +9527,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Now for the rustic minstrel’s tale. Heed well
 <lb/>the matter that the poet hath to tell.
 
-<pb n="193"/>
+<pb n="2.193"/>
 
 </p>
 </div>
@@ -9585,7 +9581,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>unmounted and unguided ?</q>
 
 
-<pb n="194"/>
+<pb n="2.194"/>
 
 
 </p><p>
@@ -9656,7 +9652,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>these warriors with their cheetahs caught a Sun!</q>
 
-<pb n="195"/>
+<pb n="2.195"/>
 
 
 </p><p>
@@ -9728,7 +9724,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.195.1"><placeName>Azarbaijan</placeName>.</note>
 
-<pb n="196"/>
+<pb n="2.196"/>
 
 <p>
 <lb/>The world-lord named him <persName>Siyawush</persName>, and gave
@@ -9783,7 +9779,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>The lion-hearted hero made all ready,
 
-<pb n="197"/>
+<pb n="2.197"/>
 <lb/>and sent posts everywhere. Of horses, slaves,
 <lb/>gold, silver, <sic>signets</sic>, <sic>falchions</sic>, crowns, and girdles,
 <lb/>and various stuffs and linings, he produced
@@ -9835,7 +9831,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and called down blessings on him. <persName>Siyawush</persName>,
 
 
-<pb n="198"/>
+<pb n="2.198"/>
 
 <lb/>when he beheld <persName>Kaus</persName> upon his throne
 <lb/>of ivory and crowned with brilliant rubies,
@@ -9878,7 +9874,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>except the crown, it was not time for that,
 <lb/>but all the rest <persName>Kaus</persName> gave <persName>Siyawush</persName>
 
-<pb n="199"/>
+<pb n="2.199"/>
 
 <lb/>with many promises of good to come.
 
@@ -9945,7 +9941,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>The child of every mother will depart ;
 
-<pb n="200"/>
+<pb n="2.200"/>
 
 <lb/>not one of them can 'scape the clutch of fate.
 <lb/>Although thy mother is a memory now,
@@ -9999,7 +9995,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>a hundred mothers' love for him.</q>
 </p>
 
-<pb n="201"/>
+<pb n="2.201"/>
 <p>
 
 
@@ -10052,7 +10048,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <milestone unit="vullers" n="V.534"/><p>
 <lb/>The Shah replied: <q>Be happy, O my son! 
 
-<pb n="202"/>
+<pb n="2.202"/>
 
 
 <lb/>may wisdom rest upon thee! I have heard
@@ -10102,7 +10098,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>The twain went off together merrily
 <lb/>without a thought of care; but when <persName>Hirbad</persName>
 
-<pb n="203"/>
+<pb n="2.203"/>
 
 
 <milestone unit="vullers" n="V.535"/>
@@ -10147,7 +10143,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <milestone unit="vullers" n="V.536"/>
 <lb/>He stayed awhile, then went back to the Shah. 
 
-<pb n="204"/>
+<pb n="2.204"/>
 
 
 <lb/>the bower was full of talk: the women said :-—
@@ -10207,7 +10203,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.204.1">Open praise, especially of the young, was regarded as unlucky.</note>
 
-<pb n="205"/>
+<pb n="2.205"/>
 </p>
 <milestone unit="vullers" n="V.537"/><p>
 <lb/>He said to her: <q>It is my wish, My name 
@@ -10265,7 +10261,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>began to speak the world-king’s praise and pay
 
 
-<pb n="206"/>
+<pb n="2.206"/>
 
 <lb/>him reverence, falling down before the throne,
 <lb/>yet privily <persName>Sudaba</persName> with her schemes
@@ -10321,7 +10317,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>While <persName>Siyawush</persName> was glancing lightly round
 <lb/>there was not one who dared to catch his eye,
 
-<pb n="207"/>
+<pb n="2.207"/>
 
 <lb/>and as they talked they said: <q> The moon itself
 <lb/>would not presume to gaze upon this prince.</q>
@@ -10389,7 +10385,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.207.1">i.e. the king of <placeName>Hamavaran</placeName>—so King John, Act I. Sc. i. : <q>Now say, Chatillon, what would France with us?</q></note>
 
-<pb n="208"/>
+<pb n="2.208"/>
 
 <lb/>so make a compact with me now by oath,
 <lb/>and disregard no jot of what I say,
@@ -10442,7 +10438,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>that till her stature <sic>equalleth</sic> mine own
 <lb/>I will not think of any one besides.
 
-<pb n="209"/>
+<pb n="2.209"/>
 
 <lb/>for what thou <sic>askest</sic> further—since my face
 <lb/>Inspireth in thy soul a love for me—
@@ -10497,7 +10493,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Each practice good and evil, which they use
 
 
-<pb n="210"/>
+<pb n="2.210"/>
 
 <lb/>by stealth or openly throughout the world,
 <lb/>will I employ; and, should he slight me, bring
@@ -10543,7 +10539,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><q>Now God forbid,</q> he said, <q>that I should give
 <lb/>religion to the winds for passion’s sake,
 
-<pb n="211"/>
+<pb n="2.211"/>
 
 <lb/>that I should treat my sire <sic>disloyally</sic>,
 <lb/>and be a coward and a fool at once!
@@ -10595,7 +10591,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>The Shah was troubled, asked her many questions,
 <lb/>and thought: <q>If she saith sooth, and if she hath
 
-<pb n="212"/>
+<pb n="2.212"/>
 
 <lb/>no evil end in view, I must cut off
 <lb/>the head of <persName>Siyawush</persName>: that will unlock
@@ -10647,7 +10643,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>I am with child, O monarch of the world!
 <lb/>By thee, but he was near to killing it
 
-<pb n="213"/>
+<pb n="2.213"/>
 
 <lb/>with all his struggles, and the world was strait
 <lb/>and dark before me.</q>
@@ -10698,7 +10694,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Talk not about this thing, tell it to none;
 <lb/>the matter must be kept from every one.</q>
 
-<pb n="214"/>
+<pb n="2.214"/>
 
 </p>
 </div>
@@ -10773,7 +10769,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.214.1">Reading with P.</note>
 
-<pb n="215"/>
+<pb n="2.215"/>
 
 <lb/>and shrieked and flung herself upon a couch.
 
@@ -10842,7 +10838,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>and having spent a <sic>sennight</sic> on the business
 
-<pb n="216"/>
+<pb n="2.216"/>
 
 <lb/>said: <q> How can wine be in a cup which thou
 <lb/>hast filled with poison? These are spurious children,
@@ -10901,7 +10897,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>They told the monarch of the woman’s words,
 
-<pb n="217"/>
+<pb n="2.217"/>
 
 <lb/>and added: <q>God alone doth know the truth.</q>
 
@@ -10958,7 +10954,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>on each side, throw a stone and break the pitcher,
 <lb/>because, however dear his son may be,
 
-<pb n="218"/>
+<pb n="2.218"/>
 
 <lb/>the Shah’s heart will be still disturbed by thoughts,
 <lb/>while this king’s daughter of <placeName>Hamavaran</placeName>
@@ -11015,7 +11011,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>from foul surmise and take this dreadful course.
 <lb/>How well the moralizing monarch said :—
 
-<pb n="219"/>
+<pb n="2.219"/>
 
 <lb/><q>If thou art faint of heart play not the king !</q></q><ref target="n.219.1"/>
 
@@ -11078,7 +11074,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <note xml:id="n.219.1"><persName>Faridun</persName>. See vol. i. p. 188.</note>
 <note xml:id="n.219.2"><q><persName>Alp-Arselan</persName> determined not to survive defeat. He made a display of pious resignation to his fate, . . . by clothing himself in a white robe, or shroud, perfumed with musk.</q>—MHP, i. 211.</note>
 
-<pb n="220"/>
+<pb n="2.220"/>
 
 <lb/>and lighting from his charger did obeisance.
 <lb/>The Shah was shame-faced and his words were kind.
@@ -11134,7 +11130,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>He came with horse and raiment such that thou
 <lb/>hadst said: <q>He beareth jasmine in his breast.</q>
 
-<pb n="221"/>
+<pb n="2.221"/>
 
 <lb/>had flame been water he had not been wetted,
 
@@ -11198,7 +11194,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>no lock or key was at the treasury-door.
 
-<pb n="222"/>
+<pb n="2.222"/>
 
 </p>
 </div>
@@ -11264,7 +11260,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>she ought to suffer for her evil deeds.</q>
 <lb/>He bade the <sic>deathsman</sic>: <q> Hang her in the street
 
-<pb n="223"/>
+<pb n="2.223"/>
 
 <lb/>upon the gibbet and be pitiless.</q> <ref target="n.223.1"/>
 
@@ -11326,7 +11322,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <note xml:id="n.223.1">More literally, <q>and frown.</q></note>
 <note xml:id="n.223.2"><q>Let not... grief.</q> The order of the couplets is as in C.</note>
 
-<pb n="224"/>
+<pb n="2.224"/>
 
 
 
@@ -11381,7 +11377,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Twice in thy haste thy throne’s illustrious seat
 <lb/>hast thou delivered to thine enemies ;
 
-<pb n="225"/>
+<pb n="2.225"/>
 
 <lb/>choose some good paladin renowned in war
 <lb/>to take thy place and execute revenge.</q>
@@ -11443,7 +11439,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Go with him, keep him underneath thine eye ;
 
 
-<pb n="226"/>
+<pb n="2.226"/>
 
 
 <lb/>when thou art watching I can go to sleep,
@@ -11502,7 +11498,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><persName>Bahram</persName> and <persName>Zanga</persName> son of <persName>Shawaran</persName>,—
 <lb/>and five <sic>archmages</sic> of the <rs type="ethnic">Iranians</rs>
 
-<pb n="227"/>
+<pb n="2.227"/>
 
 <lb/>to bear the flag of <persName>Kawa</persName> to the field,
 <lb/>these he commanded to go forth together
@@ -11554,7 +11550,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>he spent some time with wine and <sic>minstrelsy</sic>.
 <lb/>At whiles he drank with <persName>Rustam</persName> and at whiles
 
-<pb n="228"/>
+<pb n="2.228"/>
 
 
 <lb/>Consorted with <persName>Zawara</persName>, sat rejoicing
@@ -11607,7 +11603,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.228.1">See vol. i. p. 74.</note>
 
-<pb n="229"/>
+<pb n="2.229"/>
 
 <lb/>and <persName>Garsiwaz</persName> the warrior looking round
 
@@ -11674,7 +11670,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>on the <placeName>Jihun</placeName>, my glorious helm <sic>prevaileth</sic>.
 
-<pb n="230"/>
+<pb n="2.230"/>
 
 <lb/><persName>Afrasiyab</persName> is with his host at <placeName>Sughd</placeName>,
 <lb/>while we are still upon the Iranian side;
@@ -11737,7 +11733,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>and, if he cross <placeName>Jihun</placeName>, will trail his skirt
 
-<pb n="231"/>
+<pb n="2.231"/>
 
 <lb/>in blood.</q>
 
@@ -11786,7 +11782,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>be summoned and a festival prepared.
 <lb/>They put up hangings over all the waste,
 
-<pb n="232"/>
+<pb n="2.232"/>
 
 <lb/>and decked all <placeName>Sughd</placeName> with ornaments of <placeName>Chin</placeName>:
 <lb/>the day thus passed away with happiness.
@@ -11839,7 +11835,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>hath not looked on it since the world began.</q>
 <lb/>upon one side my tent-enclosure stood,
 
-<pb n="233"/>
+<pb n="2.233"/>
 
 <lb/>and round it was a host of warriors.
 <lb/>A dust-storm rose and laid my standard low,
@@ -11886,7 +11882,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.233.1"><persName>Garsiwaz</persName> suggests that dreams go by contraries.</note>
 
-<pb n="234"/>
+<pb n="2.234"/>
 
 </p>
 </div>
@@ -11944,7 +11940,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>will grieve at having fought with him, for though
 <lb/>thy hand will slay him, realm and throne will cease
 
-<pb n="235"/>
+<pb n="2.235"/>
 
 <lb/>within <placeName>Turan</placeName>, and earth be filled with strife,
 <lb/>revenge, and combat on account of him.
@@ -11993,7 +11989,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and thus addressed them: <q>It hath been my lot
 <lb/>to see no desert but that made by war,
 
-<pb n="236"/>
+<pb n="2.236"/>
 
 <lb/>and many great ones of the <rs type="ethnic">Iranians</rs>
 
@@ -12058,7 +12054,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>The councillors dispersed with minds intent
 <lb/>on justice, with no thought of strife and turmoil.
 
-<pb n="237"/>
+<pb n="2.237"/>
 
 <lb/>then said <persName>Afrasiyab</persName> to <persName>Garsiwaz</persName>:—
 
@@ -12120,7 +12116,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>in fair words, plying him with arguments,
 
-<pb n="238"/>
+<pb n="2.238"/>
 
 <lb/>and, that the business may be carried through,
 <lb/>give gifts to him like those to <persName>Siyawush</persName>,
@@ -12182,7 +12178,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>of slave-boys all with caps and girdles on,
 <lb/>and women-slaves with bracelets and gold torques.
 
-<pb n="239"/>
+<pb n="2.239"/>
 
 <lb/>the prince was gratified and smiling gazed
 
@@ -12258,7 +12254,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.239.1">i.e. attempts to hide what is obvious,</note>
 
-<pb n="240"/>
+<pb n="2.240"/>
 
 <lb/>and did obeisance unto <persName>Siyawush</persName>,
 
@@ -12336,7 +12332,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>what <persName>Siyawush</persName> and noble <persName>Garsiwaz</persName>
 
-<pb n="241"/>
+<pb n="2.241"/>
 
 <lb/>had said, and when the king had heard the words
 <lb/>he was exceeding troubled and in doubt.
@@ -12385,7 +12381,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="242"/>
+<pb n="2.242"/>
 
 </p>
 </div>
@@ -12431,7 +12427,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>the sparkling liquor darkened in his cup:
 <lb/>he saw that he was in a strait; the world
 
-<pb n="243"/>
+<pb n="2.243"/>
 
 <lb/>was black and fortune fallen. His brother came
 
@@ -12481,7 +12477,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <milestone unit="vullers" n="V.576"/>
 <lb/>the Shah, who met, embraced him, and inquired 
 
-<pb n="244"/>
+<pb n="2.244"/>
 
 <lb/>about the prince, the progress of events,
 
@@ -12546,7 +12542,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>at once relax all discipline, and loose
 
-<pb n="245"/>
+<pb n="2.245"/>
 
 <lb/>thy troops like wolves among the sheep; while thou
 
@@ -12623,7 +12619,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Why should I hide the purport of my words?
 
 
-<pb n="246"/>
+<pb n="2.246"/>
 
 <lb/>thy son will never break his promises,
 
@@ -12673,7 +12669,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>with drums and trumpets, be prepared to start,
 <lb/>and put all thoughts of peaceful home apart.
 
-<pb n="247"/>
+<pb n="2.247"/>
 
 </p>
 </div>
@@ -12734,7 +12730,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>Set all the hostages without delay
 
-<pb n="248"/>
+<pb n="2.248"/>
 
 <lb/>in heavy chains upon the backs of asses.
 <lb/>It is high heaven’s purpose that thy life
@@ -12780,7 +12776,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>to court, surrendering the host to <persName>Tus</persName>,
 <lb/>that also will bring evil on my head.
 
-<pb n="249"/>
+<pb n="2.249"/>
 
 <lb/>I see ill right and left, and ill in front ;
 <lb/><persName>Sudaba</persName> too will do me naught but ill,
@@ -12846,7 +12842,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="250"/>
+<pb n="2.250"/>
 
 <lb/>I fear that I shall perish through mine oath,
 <lb/>but still we must not turn from God, or fear
@@ -12890,7 +12886,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>while <persName>Zanga</persName> son of <persName>Shawaran</persName> wept blood,
 <lb/>and cursed the country of <placeName>Hamavaran</placeName>,
 
-<pb n="251"/>
+<pb n="2.251"/>
 
 <lb/>the two sat there together full of grief,
 <lb/>distracted by the words of <persName>Siyawush</persName>.
@@ -12932,7 +12928,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>he is aggrieved about the hostages,
 <lb/>and will demand again what I refused ;
 
-<pb n="252"/>
+<pb n="2.252"/>
 
 <lb/>while if I quit the field, returning home
 <lb/>without a fight, the Shah will be incensed
@@ -12980,7 +12976,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>So <persName>Zanga</persName>, with a hundred noble horsemen,
 <lb/>bore from the prince’s court the hostages,
 
-<pb n="253"/>
+<pb n="2.253"/>
 
 <lb/>and all the goods that <persName>Garsiwaz</persName> had brought.
 
@@ -13055,7 +13051,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.253.1">From this point <persName>Piran</persName>, <q>a <sic>verray</sic> <sic>parfit</sic> gentil knight,</q> plays an important part in the poem. Cf. vol. i. p. 55.</note>
 
-<pb n="254"/>
+<pb n="2.254"/>
 
 <lb/>that he hath quarrelled with his sire to save
 <lb/>our hundred nobles' lives, given up the throne
@@ -13097,7 +13093,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><sic>befit</sic> one who hath not inherited
 <lb/>the ill nature and <sic>perverseness</sic> of his sire ?
 
-<pb n="255"/>
+<pb n="2.255"/>
 
 
 
@@ -13167,7 +13163,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <milestone unit="vullers" n="V.590"/>
 <lb/>for thee like mine, for I will <sic>ope</sic> my heart, 
 
-<pb n="256"/>
+<pb n="2.256"/>
 
 <lb/>my hoards, and hand, provide thee with a home,
 <lb/>protect thee like a son, and leave thee here
@@ -13216,7 +13212,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>A foe, however kind thou <sic>mayest</sic> be,
 <lb/>will in the end display his enmity.
 
-<pb n="257"/>
+<pb n="2.257"/>
 
 </p>
 </div>
@@ -13269,7 +13265,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Sent by <persName>Afrasiyab</persName> on secret business
 
 
-<pb n="258"/>
+<pb n="2.258"/>
 
 <lb/>to me, because his people trust in him.
 <lb/>I go to meet him; ye must tarry here,
@@ -13325,7 +13321,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and gat him ready four white elephants.
 <lb/>One bore a turquoise throne backed by a flag
 
-<pb n="259"/>
+<pb n="2.259"/>
 
 <lb/>of tree-like size, surmounted by a moon;
 <lb/>the flag was gold-embroidered violet silk ;
@@ -13374,7 +13370,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>They went with joy, discussing divers matters,
 <lb/>while through the city there were sounds of harp
 
-<pb n="260"/>
+<pb n="2.260"/>
 
 <lb/>and <sic>rebeck</sic> ; sleepy heads were roused ; the soil
 <lb/>was blackened with fresh musk; the <rs type="ethnic">Arab</rs> steeds
@@ -13416,7 +13412,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>If thou wilt make a covenant with me
 <lb/>I know that thou wilt keep it, and will make
 
-<pb n="261"/>
+<pb n="2.261"/>
 
 <lb/>this land my home in love and confidence
 <lb/>in thee, my friend! and, if my sojourn here
@@ -13470,7 +13466,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <note xml:id="n.261.1"><persName>Afrasiyab</persName> and <persName>Piran</persName> were cousins.</note>
 
 
-<pb n="262"/>
+<pb n="2.262"/>
 
 <lb/>afoot with girded loins right eagerly.
 <lb/>The prince beholding him got off his horse
@@ -13521,7 +13517,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>go thither and abide in full content.</p>
 
 
-<pb n="263"/>
+<pb n="2.263"/>
 
 <p>
 <lb/>When <persName>Siyawush</persName> arrived before the hall
@@ -13584,7 +13580,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="264"/>
+<pb n="2.264"/>
 
 <lb/><persName>Afrasiyab</persName> replied :—
 <lb/><q>Myson! be ever glad and conquering.
@@ -13655,7 +13651,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <note xml:id="n.264.1">Cf. p. 119.</note>
 <note xml:id="n.264.2">For most of the above names see vol. i. p. 92.</note>
 
-<pb n="265"/>
+<pb n="2.265"/>
 
 <p>
 <lb/>The monarch heard the words, gave his consent,
@@ -13713,7 +13709,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>so that the <rs type="ethnic">Turkmans</rs>' efforts were in vain,
 <lb/>displeased with his own people <persName>Siyawush</persName>
 
-<pb n="266"/>
+<pb n="2.266"/>
 
 
 <lb/>cried to them in the olden Persian tongue :—
@@ -13765,7 +13761,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>the bull’s eye. Then he set upon his bow
 <lb/>another shaft, of poplar wood, four feathered,
 
-<pb n="267"/>
+<pb n="2.267"/>
 
 <lb/>and in the same course hit the second time.
 
@@ -13838,7 +13834,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>One day they went. The king took hawks and cheetahs,
 <lb/>and many of <placeName>Iran</placeName> and of <placeName>Turan</placeName>
 
-<pb n="268"/>
+<pb n="2.268"/>
 
 <lb/>of all conditions hastened to the meet.
 
@@ -13914,7 +13910,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and in the course of talk said: <q>In this land
 <lb/>what man <sic>surpasseth</sic> thee? Our monarch’s love
 
-<pb n="269"/>
+<pb n="2.269"/>
 
 <lb/>doth make him talk of thee e’en in his sleep.
 <lb/>Know that thou art to him as <sic>jocund</sic> spring,
@@ -13966,7 +13962,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>left <persName>Siyawush</persName> he hasted to <persName>Gulshahr</persName>,
 <lb/>and said: <q>Prepare <persName>Jarira</persName>’s wedding outfit
 
-<pb n="270"/>
+<pb n="2.270"/>
 
 <lb/>in favour of the exalted <persName>Siyawush</persName>.
 <lb/>Shall not we joy to-day when we receive
@@ -14028,7 +14024,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>Of his fair daughters <persName>Farangis</persName> is best:
 
-<pb n="271"/>
+<pb n="2.271"/>
 
 <lb/>thou wilt see nowhere else such face and hair.
 <lb/>She <sic>bettereth</sic> the cypress-tree in stature ;
@@ -14073,7 +14069,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="272"/>
+<pb n="2.272"/>
 
 </p>
 </div>
@@ -14124,7 +14120,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="273"/>
+<pb n="2.273"/>
 
 <lb/>told thee my views, and thou didst not approve them.
 <lb/>A sage of lofty <sic>rede</sic> once said to me :—
@@ -14172,7 +14168,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="274"/>
+<pb n="2.274"/>
 
 <lb/>as king both in <placeName>Iran</placeName> and in <placeName>Turan</placeName>.
 <lb/>Then those two kingdoms will repose from strife,
@@ -14220,7 +14216,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and soul, but said: <q>Go, do <sic>whate</sic>’er thou wilt :
 <lb/>thou <sic>knowest</sic> that from thee I have no secrets.</q></p>
 
-<pb n="275"/>
+<pb n="2.275"/>
 <p>
 <lb/><persName>Piran</persName> on hearing this went to his home
 <lb/>with heart and soul intent upon the business,
@@ -14263,7 +14259,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><persName>Piran</persName>, for his part, and <persName>Afrasiyab</persName>
 <lb/>were instant on account of <persName>Siyawush</persName>.
 
-<pb n="276"/>
+<pb n="2.276"/>
 
 <lb/>they gave the bride as custom and their Faith
 <lb/>required, and had the contract duly witnessed.
@@ -14324,7 +14320,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>the king sent to the house of <persName>Siyawush</persName>.
 
-<pb n="277"/>
+<pb n="2.277"/>
 
 <lb/>he next prepared the hall of banqueting,
 <lb/>and those that came to it from far and near
@@ -14378,7 +14374,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="278"/>
+<pb n="2.278"/>
 
 <lb/>because <persName>Piran</persName>, that general favourite,
 <lb/>was of that state, and <persName>Siyawush</persName> had promised
@@ -14425,7 +14421,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and for thy sake <sic>reck</sic> not of time or place.</q>
 <lb/>And <persName>Siyawush</persName> rejoined: <q>O <sic>blesséd</sic> one
 
-<pb n="279"/>
+<pb n="2.279"/>
 
 <lb/>thou bring’st the tree of greatness into fruit.
 <lb/>Thine are my weal and wealth ; I notice first
@@ -14486,7 +14482,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>and all is dread, distraction, and distrust.
 
-<pb n="280"/>
+<pb n="2.280"/>
 
 <lb/>the world will outlast thee ; its mysteries
 <lb/>how wilt thou ken? 'Tis full of instances;
@@ -14528,7 +14524,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>a <sic>bundred</sic> thousand men would not avail
 <lb/>on <sic>barded</sic> steeds and clad themselves in mail.
 
-<pb n="281"/>
+<pb n="2.281"/>
 
 <lb/>a spacious city next will meet thine eye
 <lb/>with rose-beds, gardens, open. space, and hall,
@@ -14571,7 +14567,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>like Paradise, and for its flowers chose
 <lb/>narcissus, tulip, hyacinth, and rose.
 
-<pb n="282"/>
+<pb n="2.282"/>
 
 </p>
 </div>
@@ -14631,7 +14627,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>ere long; I shall not want a hall or palace.
 
-<pb n="283"/>
+<pb n="2.283"/>
 
 <lb/><persName>Afrasiyab</persName> will have this for his throne,
 <lb/>and death will overtake me for no fault
@@ -14676,7 +14672,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>approach <placeName>Turan</placeName>—red, yellow, black, and violet—
 <lb/>with ravaging and bearing off of spoil,
 
-<pb n="284"/>
+<pb n="2.284"/>
 
 <lb/>and scattering of treasures. Provinces
 <lb/>in plenty will be trampled underfoot
@@ -14732,7 +14728,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>then lighting from their steeds they ceased from talk,
 
-<pb n="285"/>
+<pb n="2.285"/>
 
 <lb/>and, having had a golden table dressed,
 <lb/>wine, harp, and <sic>minstrelsy</sic> were in request.
@@ -14784,7 +14780,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>such as thou wilt approve, within <placeName>Turan</placeName>.
 
-<pb n="286"/>
+<pb n="2.286"/>
 
 <lb/>though it be pleasant whither thou hast gone,
 
@@ -14848,7 +14844,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>whose summit reached the clouds. There minstrels sat
 
-<pb n="287"/>
+<pb n="2.287"/>
 
 <lb/>and sang while chiefs and warriors kept guard
 <lb/>around. Siyaéwushgird the common voice
@@ -14894,7 +14890,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>then reached the hall and grounds of <persName>Siyawush</persName>,
 <lb/>and in high spirits and ambitious hopes
 
-<pb n="288"/>
+<pb n="2.288"/>
 
 <lb/>proceeded to the home of <persName>Farangis</persName>.
 
@@ -14948,7 +14944,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.288.1">See p. 39, note.</note>
 
-<pb n="289"/>
+<pb n="2.289"/>
 
 <lb/>how he had battled in the land of <placeName>Hind</placeName>,
 <lb/>and laid ill-doers' heads upon the dust.
@@ -14996,7 +14992,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>is on <placeName>Turan</placeName>; he <sic>thinketh</sic> not of home
 
 
-<pb n="290"/>
+<pb n="2.290"/>
 
 <lb/>now that he hath <sic>farewelled</sic> the throne and crown,
 
@@ -15072,7 +15068,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>then mounting on his proudly stepping steed,
 
-<pb n="291"/>
+<pb n="2.291"/>
 
 <lb/>and followed by the Iranian cavaliers,
 <lb/>took <persName>Garsiwaz</persName> about the place, and when
@@ -15131,7 +15127,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>while many slaves with golden caps were standing
 <lb/>with moon-like cheeks in presence of the Moon.
 
-<pb n="292"/>
+<pb n="2.292"/>
 
 <lb/>she came down from her throne and, greeting him,
 <lb/>inquired about his <sic>longsome</sic> journey’s toil ;
@@ -15203,7 +15199,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>upon the throne to watch the combatants.
 
-<pb n="293"/>
+<pb n="2.293"/>
 
 <lb/>the cavaliers rushed on the Ground like dust
 <lb/>and, dart in hand, began to strive for honour.
@@ -15246,7 +15242,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>applauded and invoked the name of God.
 <lb/><q>Thou hast, O prince!</q> said <persName>Garsiwaz</persName> to him,
 
-<pb n="294"/>
+<pb n="2.294"/>
 
 <lb/><q>No equal in <placeName>Iran</placeName> or in <placeName>Turan</placeName>.
 <lb/>Come now! Let us two go upon the Ground
@@ -15303,7 +15299,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Ambitious <persName>Garsiwaz</persName> was flattered, smiled,
 <lb/>and thus addressed the <rs type="ethnic">Turkmans</rs>: <q>Noble men!
 
-<pb n="295"/>
+<pb n="2.295"/>
 
 <lb/>who is there fain to make his mark on earth ?
 <lb/>Who will be matched with <persName>Siyawush</persName> and lay
@@ -15350,7 +15346,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><q>Raised,</q> thou hadst said, <q>o’er <rs type="heavenlybody">Saturn</rs> in the ascendant,</q>
 <lb/>And all the famous men and fortunate
 
-<pb n="296"/>
+<pb n="2.296"/>
 
 <lb/>assembled for a week with harp and wine.
 <lb/>Upon the eighth day they prepared to go,
@@ -15408,7 +15404,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>Hath wholly changed, the envoys of <persName>Kaus</persName>
 
-<pb n="297"/>
+<pb n="2.297"/>
 
 <lb/>come often secretly, he <sic>correspondeth</sic>
 <lb/>with <placeName>Rum</placeName> and <placeName>Chin</placeName>, and <sic>drinketh</sic> to his father.
@@ -15457,7 +15453,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>but trusted him with both my precious Eyes,
 <lb/>now, after all these pains and benefits,
 
-<pb n="298"/>
+<pb n="2.298"/>
 
 <lb/>and sacrifice of province, crown, and wealth,
 
@@ -15536,7 +15532,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>delay is better than <sic>precipitance</sic> ;
 
-<pb n="299"/>
+<pb n="2.299"/>
 
 <lb/>wait till the sun hath shone on this awhile ;
 <lb/>I shall discern God’s purpose, and to whom
@@ -15584,7 +15580,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>The monarch’s heart was straitened at his words ;
 
-<pb n="300"/>
+<pb n="2.300"/>
 
 <lb/>he grew despondent, anxious, and distressed,
 <lb/>but judged it best to pause, for prudent men
@@ -15633,7 +15629,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>but <sic>straitly</sic> gird thy loins and come to me.</q></q>
 
-<pb n="301"/>
+<pb n="2.301"/>
 
 </p>
 </div>
@@ -15687,7 +15683,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>the prudent prince’s words: <q>If <persName>Siyawush</persName>,</q>
 <lb/>He thought, <q><sic>departeth</sic> with me to the king,
 
-<pb n="302"/>
+<pb n="2.302"/>
 
 <lb/>with his astuteness and his lion-strength
 <lb/>the prince will trample on my bow, my words
@@ -15742,7 +15738,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>like fire ; they mingled not but broke away
 
-<pb n="303"/>
+<pb n="2.303"/>
 
 <lb/>from wisdom’s bonds; <persName>Afrasiyab</persName> is worse
 <lb/>than <persName>Tur</persName>; this wild bull still is in his hide.
@@ -15786,7 +15782,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>suspicion, for whoever <sic>suffereth</sic>
 <lb/>that dragon’s breath <sic>departeth</sic> from God’s way.</q></p>
 
-<pb n="304"/>
+<pb n="2.304"/>
 <p>
 <lb/>But <persName>Garsiwaz</persName> made answer: <q>My dear friend!
 <lb/>He is much changed. So long as heaven shall turn
@@ -15847,7 +15843,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>in heaviness of soul, and said: <q>I find not
 <lb/>that I deserve <sic>requital</sic> for ill done,
 
-<pb n="305"/>
+<pb n="2.305"/>
 
 <lb/>for nobody hath heard a fault of mine
 
@@ -15899,7 +15895,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="306"/>
+<pb n="2.306"/>
 
 <lb/>and not transgress thy counsel and advice.
 <lb/>Make intercession for me with the king:
@@ -15944,7 +15940,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/><persName>Afrasiyab</persName>, on seeing him thus pressed,
 
-<pb n="307"/>
+<pb n="2.307"/>
 
 <lb/>and full of hurry, questioned him at large :—
 
@@ -16010,7 +16006,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>Now, while the <sic>guileful</sic> <persName>Garsiwaz</persName> was toiling 
 <lb/>upon the saddle, Siy4wush in anguish
 
-<pb n="308"/>
+<pb n="2.308"/>
 
 <lb/>went pale and trembling to his ladies' bower.
 <lb/><q>Chief of the lion-clutch!</q> said <persName>Farangis</persName>,
@@ -16071,7 +16067,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>For three days <persName>Siyawush</persName> wept bitterly
 <lb/>by reason of this treacherous turn of fate.
 
-<pb n="309"/>
+<pb n="2.309"/>
 
 <lb/>the fourth night as the prince lay fast asleep,
 <lb/>clasped to the breast of moon-faced <persName>Farangis</persName>,
@@ -16132,7 +16128,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>My words have proved to be of no avail,
 <lb/>I see black smoke although I see no fire:
 
-<pb n="310"/>
+<pb n="2.310"/>
 
 <lb/>consider now what course thou <sic>shouldest</sic> take,
 
@@ -16199,7 +16195,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>may not men call this old world new whose sky
 
-<pb n="311"/>
+<pb n="2.311"/>
 
 <lb/>so quickly <sic>altereth</sic>? My <sic>jocund</sic> fortune
 
@@ -16253,7 +16249,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>I wot not why thou <sic>nurturest</sic> men if they
 
 
-<pb n="312"/>
+<pb n="2.312"/>
 
 <lb/>whom thou hast nurtured are to be thy prey !
 </p><p>
@@ -16314,7 +16310,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>hath told the truth, a truth too evident!</q>
 </p>
 
-<pb n="313"/>
+<pb n="2.313"/>
 <p>
 <lb/>Now <persName>Siyawush</persName> feared for his life what time
 <lb/>the monarch of <placeName>Turan</placeName> drew nigh. His troops
@@ -16362,7 +16358,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <milestone unit="vullers" n="V.656"/>
 <lb/>now guiltless men in thousands will be slaughtered 
 
-<pb n="314"/>
+<pb n="2.314"/>
 
 <lb/>through what thou <sic>saidst</sic>, but punishment will come
 <lb/>at last. As thou hast sown so shalt thou reap.</q>
@@ -16413,7 +16409,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>urged him and dragged him on the road afoot
 <lb/>with troops around him toward <persName>Siyawush</persName>.
 
-<pb n="315"/>
+<pb n="2.315"/>
 
 <lb/><persName>Afrasiyab</persName> commanded, saying: <q>Take him
 <lb/>beside the road and let him be beheaded
@@ -16461,7 +16457,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 
 
-<pb n="316"/>
+<pb n="2.316"/>
 
 <lb/>one whom <persName>Kaus</persName> and <persName>Rustam</persName> will avenge—
 <lb/>the Shah’s own son whom <persName>Rustam</persName> hath brought up
@@ -16505,7 +16501,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>now wilt thou deck its body with brocade ?
 
-<pb n="317"/>
+<pb n="2.317"/>
 
 <lb/>if thou shalt spare his life I will depart
 <lb/>to some retreat and perish.</q>
@@ -16560,7 +16556,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>The news reached <persName>Farangis</persName>, who tore her cheeks
 <lb/>and came afoot before <persName>Afrasiyab</persName>,
 
-<pb n="318"/>
+<pb n="2.318"/>
 
 
 <lb/>girt with a bloody cord, her moon-like face
@@ -16603,7 +16599,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and <persName>Giv</persName>, son of <persName>Gudarz</persName>, at whom the earth
 <lb/>is all a-tremble on the day of battle.
 
-<pb n="319"/>
+<pb n="2.319"/>
 
 <lb/>in grief for <persName>Siyawush</persName> the streams will boil
 <lb/>and heaven will <sic>execrate</sic> <persName>Afrasiyab</persName>.
@@ -16648,7 +16644,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p><p>
 <lb/>The monarch heard his child’s words and the world
 
-<pb n="320"/>
+<pb n="2.320"/>
 
 <lb/>was blackened in his eyes. He said to her :—
 <lb/><q>Begone. What know’st thou of our purposes?</q>
@@ -16694,7 +16690,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>all cavaliers in mail on <sic>barded</sic> steeds,
 <lb/>will be thy helper when the day shall come,
 
-<pb n="321"/>
+<pb n="2.321"/>
 
 <lb/>will be thy pasturage at feeding-time.</q>
 <lb/>now hurried on in front of <persName>Garsiwaz</persName>,
@@ -16755,7 +16751,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>another <sic>walketh</sic> this earth righteously
 
 
-<pb n="322"/>
+<pb n="2.322"/>
 
 <lb/>yet <sic>withereth</sic> away in misery.
 
@@ -16811,7 +16807,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><q> They roll the earth before them,</q> thou hadst said.
 <lb/>Now these three horsemen, when they reached <persName>Piran</persName>,
 
-<pb n="323"/>
+<pb n="2.323"/>
 
 <lb/>their faces blood-stained and their souls all thorns,
 <lb/>recounted to him what had come to pass,
@@ -16869,7 +16865,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <note xml:id="n.323.1">No doubt <persName>Pilsam</persName> and <persName>Lahhak</persName> were with them, as the mention. of ten horses looks like a re-mount for each man. <persName>Ruin</persName> was the son of <persName>Piran</persName>.</note>
 
-<pb n="324"/>
+<pb n="2.324"/>
 
 <lb/>will wreck the reign and none will call him king
 <lb/>henceforward.</q>
@@ -16918,7 +16914,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>to make a day of woe! She <sic>wisheth</sic> not
 <lb/>for fortune, royal state or throne or crown.
 
-<pb n="325"/>
+<pb n="2.325"/>
 
 <lb/>make not thyself a butt to all the world
 <lb/>by what thou <sic>docst</sic> to thy pregnant child,
@@ -16970,7 +16966,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>Throw off sweet sleep and think of times to come,
 
-<pb n="326"/>
+<pb n="2.326"/>
 
 <lb/>for from to-day new feasts and customs date,
 
@@ -17052,7 +17048,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 
 <lb/>addressed the king: <q>O <sic>sunlike</sic> sovereign
 
-<pb n="327"/>
+<pb n="2.327"/>
 
 <lb/>and world-lord, shrewd and versed in magic arts !
 <lb/>Thy lot last night was bettered by one slave,
@@ -17097,7 +17093,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>He spake upon the matter as he thought,
 <lb/>and deemed this old world young! Canst thou do aught ?
 
-<pb n="328"/>
+<pb n="2.328"/>
 
 
 <lb/>there is no remedy. The world is vast,
@@ -17149,7 +17145,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>who fought with boars and wolves, anon with lions
 <lb/>and leopards, armed with that rude weapon only,
 
-<pb n="329"/>
+<pb n="2.329"/>
 
 <lb/>and thus he fared until as time went on
 <lb/>his teacher came to ask for fresh directions.
@@ -17207,7 +17203,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>of <persName>Siyawush</persName>. He cherished <persName>Kai Khusrau</persName>, 
 <lb/>rejoiced in him, and spent a happy time,
 
-<pb n="330"/>
+<pb n="2.330"/>
 
 <lb/>but lost food, rest, and sleep through tenderness,
 <lb/>and terror of the anger of the king.
@@ -17257,7 +17253,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><q>More potent than the sire the nurse will prove,
 <lb/>but the great secret is the mother’s love.</q>
 
-<pb n="331"/>
+<pb n="2.331"/>
 
 <lb/>if at this time the king shall order me,
 <lb/>I will present this lauded youth to him,
@@ -17314,7 +17310,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </p><p>
 <lb/>When he arrived <persName>Piran</persName> the general
 
-<pb n="332"/>
+<pb n="2.332"/>
 
 <lb/>took him before the king. The grandsire’s cheeks
 <lb/>grew wet with tears of shame, meanwhile <persName>Piran</persName>
@@ -17378,7 +17374,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/>and turning to the captain of the host
 <lb/>said thus to him: <q>The fellow is a fool:
 
-<pb n="333"/>
+<pb n="2.333"/>
 
 <lb/>I ask of heads; he <sic>answereth</sic> of feet !
 
@@ -17430,7 +17426,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <lb/><q>Thus then,</q> they said, <q>hath fortune made a Shoot 
 <lb/>sprout from the razed roots of a noble Tree!
 
-<pb n="334"/>
+<pb n="2.334"/>
 
 
 <lb/>far be the eye of evil from the king,
@@ -17476,11 +17472,11 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 </div>
 
 </div>
-<pb n="335"/>
+<pb n="2.335"/>
 
 <div type="textpart" subtype="part" n="5"><head>Part V: how <persName>Rustam</persName> avenged <persName>Siyawush</persName>, and how <persName>Giv</persName> brought <persName>Kai Khusrau</persName> to <placeName>Iran</placeName></head>
 
-<div type="textpart" n="argument"><head>Argument</head>
+<div type="textpart" subtype="argument"><head>Argument</head>
 
 <p>The poet, after bewailing the approach of old age, tells of the arrival in <placeName>Iran</placeName> of the news of the death of <persName>Siyawush</persName>, of the remorse of <persName>Kai Kaus</persName>, and of the wrath of <persName>Rustam</persName>, who slays <persName>Sudaba</persName>, invades <placeName>Turan</placeName>, expels <persName>Afrasiyab</persName>, and rules there himself for seven years; after which he retires to <placeName>Sistan</placeName>. <persName>Afrasiyab</persName> returns, recovers his authority, and wars with success against <placeName>Iran</placeName>.</p>
 
@@ -17496,7 +17492,7 @@ Persia to his parents <persName>Cambyses</persName> and <persName>Mandane</persN
 <p>§ 31. The quarrel between <persName>Gudarz</persName> and <persName>Tus</persName>, as to the respective claims of <persName>Kai Khusrau</persName> and <persName>Fariburz</persName> to be associated as Shah with <persName>Kai Kaus</persName>, bears important results in the next reign. <persName>Tus</persName> was the
 
 
-<pb n="336"/>
+<pb n="2.336"/>
 
 
 
@@ -17537,7 +17533,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 <note xml:id="n.336.1">See vol. i. pp. 369, 381.</note>
 
-<pb n="337"/>
+<pb n="2.337"/>
 
 <p>
 <lb/>Since I took up the cup of fifty-eight,
@@ -17595,7 +17591,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.337.1"> i.e. The lord of the vertebrae”—the name of a famous sword taken at the battle of <placeName>Badar</placeName> from an infidel by <persName>Muhammad</persName>, from whom it passed to his son-in-law '<persName>Ali</persName>, who is here referred to.</note> 
 
-<pb n="338"/>
+<pb n="2.338"/>
 
 <lb/><persName>Gurwi</persName> set down a golden bowl and raised
 <lb/>as '<sic>twere</sic> a sheep’s the face of <persName>Siyawush</persName> ;
@@ -17659,7 +17655,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>dust from my face, whereat we need not grieve,
 
-<pb n="339"/>
+<pb n="2.339"/>
 
 <lb/>till I have taken vengeance for the prince,
 <lb/>and brought our foes' heads to the shears. My crown
@@ -17700,7 +17696,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>Ne’er shall I fight dry-eyed, and like my heart
 <lb/>the whole world shall endure the fiery smart.</q>
 
-<pb n="340"/>
+<pb n="2.340"/>
 
 </p>
 </div>
@@ -17761,7 +17757,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>On that <sic>unwatered</sic> waste where rash <persName>Gurwi</persName>
 <lb/>poured on the ground the life-blood of the prince
 
-<pb n="341"/>
+<pb n="2.341"/>
 
 <lb/>I fain would chafe my face and eyes; perchance
 <lb/>it may relieve my heart of grief for him.
@@ -17811,7 +17807,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>the son of <persName>Rustam</persName> and a youthful chieftain,
 
 
-<pb n="342"/>
+<pb n="2.342"/>
 
 <lb/>whom, when he reached the border of <placeName>Turan</placeName>,
 <lb/>the watch <sic>descried</sic>.
@@ -17859,7 +17855,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>and bade the troops: <q>Lay on; string up your bows.</q>
 </p>
 
-<pb n="343"/>
+<pb n="2.343"/>
 
 <p>
 
@@ -17899,7 +17895,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>cut off his head, so doth revenge require
 <lb/>for <persName>Siyawush</persName>, and set his land a-fire.</q>
 
-<pb n="344"/>
+<pb n="2.344"/>
 
 </p>
 </div>
@@ -17948,7 +17944,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.344.1">See p. 234.</note>
 
-<pb n="345"/>
+<pb n="2.345"/>
 
 <lb/>will venture to attack thee. Lead in person,
 
@@ -18026,7 +18022,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 
 
-<pb n="346"/>
+<pb n="2.346"/>
 
 <lb/>then, driving him afoot, brought him to camp,
 <lb/>disgraced, With that the flag of matchless <persName>Rustam</persName>
@@ -18069,7 +18065,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>to do the bloody deed, Then <persName>Surkha</persName> said :—
 <lb/><q>O most exalted king! why slay me guiltless,
 
-<pb n="347"/>
+<pb n="2.347"/>
 
 <lb/>for <persName>Siyawush</persName> was of my years, my friend ?
 
@@ -18144,7 +18140,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>feet upward on a gibbet, and flung dust
 
-<pb n="348"/>
+<pb n="2.348"/>
 
 <lb/>in vengeance on the corpse, which afterwards
 <lb/>the soldiers hacked to pieces with their swords.
@@ -18217,7 +18213,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>full as the bodies of our foes with javelins !</q></p>
 
-<pb n="349"/>
+<pb n="2.349"/>
 
 <p>Thus spake he to the troops, then bade to sound
 <lb/>the <sic>clarions</sic>, cymbals, and the Indian bells.
@@ -18265,7 +18261,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>with spears. <q>It is an iron mount whose crest
 <lb/>is full,</q> thou wouldst have said, <q> of helms and mail.</q>
 
-<pb n="350"/>
+<pb n="2.350"/>
 
 <lb/>the staff-heads of the banners rose towards
 <lb/>the clouds, and brightly flashed the blue-steel swords.
@@ -18316,7 +18312,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>the spirit of the troops: he is, thou <sic>knowest</sic>,
 <lb/>my younger brother, and my love for him
 
-<pb n="351"/>
+<pb n="2.351"/>
 
 <lb/>is greater than an elder brother's love.</q>
 
@@ -18368,7 +18364,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.351.1">See p. 112.</note>
 
-<pb n="352"/>
+<pb n="2.352"/>
 
 <lb/>amid his wanderings, how the stars foretold
 <lb/>that: <q>If <persName>Pilsam</persName> survive his evil day,
@@ -18424,7 +18420,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>the army of the monarch of <placeName>Turan</placeName>
 <lb/>was broken and the battlefield was darkened.
 
-<pb n="353"/>
+<pb n="2.353"/>
 
 
 <milestone unit="vullers" n="V.699"/>
@@ -18482,7 +18478,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p>
 
 
-<pb n="354"/>
+<pb n="2.354"/>
 <p>
 <lb/>Came elephantine <persName>Rustam</persName> from the centre
 <lb/>with Farimarz and troops. Confronting them
@@ -18541,7 +18537,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>The hero-flinging crown-<sic>bestower</sic> followed
 
-<pb n="355"/>
+<pb n="2.355"/>
 
 <lb/><persName>Human</persName> in furious haste but caught him not,
 
@@ -18602,7 +18598,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <milestone unit="vullers" n="V.702"/>
 <lb/>they marched against <persName>Afrasiyab</persName> with cheeks. 
 
-<pb n="356"/>
+<pb n="2.356"/>
 
 <lb/>all tearful for the death of <persName>Siyawush</persName>.
 
@@ -18664,7 +18660,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>and set off, though unwillingly, in haste.
 
-<pb n="357"/>
+<pb n="2.357"/>
 
 <lb/>they mourned and wept and cursed <persName>Afrasiyab</persName>
 
@@ -18735,7 +18731,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.357.1"><persName>Kai Khusrau</persName> was sent to Michin (China). See p. 370.</note>
 
-<pb n="358"/>
+<pb n="2.358"/>
 
 <lb/>he gave torques, <sic>armlets</sic>, and the ivory throne
 <lb/>to <persName>Tus</persName>, besides the government of <placeName>Chach</placeName>,
@@ -18782,7 +18778,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>cease not from vengeance on <persName>Afrasiyab</persName>,
 <lb/>and take no thought of food, repose, and sleep.
 
-<pb n="359"/>
+<pb n="2.359"/>
 
 <lb/>be just in all thy doings here below,
 <lb/>for justice never ruined any one.</q>
@@ -18834,7 +18830,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>With gall-drops streaming from his eyes <persName>Zawara</persName>
 <lb/>swore a great oath: <q>I will not hunt or sleep,
 
-<pb n="360"/>
+<pb n="2.360"/>
 
 <lb/>or cease from vengeance on <persName>Afrasiyab</persName>.
 <lb/>I will not give a moment’s rest to <persName>Rustam</persName>:
@@ -18892,7 +18888,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p><p>
 <lb/>The prudent <persName>Rustam</persName>’s heart was grieved <sic>thereat</sic>,
 
-<pb n="361"/>
+<pb n="2.361"/>
 
 <lb/>he summoned all the chieftains of the host,
 <lb/>and marched the army to <placeName>Kachar Bashi</placeName>.
@@ -18939,7 +18935,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>and felt an ardent longing to depart.
 <lb/>He gathered horses out of all the herds
 
-<pb n="362"/>
+<pb n="2.362"/>
 
 <lb/>that wandered o’er the deserts of <placeName>Turan</placeName>,
 <lb/>together with ten thousand boys and girls—
@@ -18984,7 +18980,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>was in their favour in a single fight.
 <lb/>From all sides will we gather arms and troops,
 
-<pb n="363"/>
+<pb n="2.363"/>
 
 <lb/>and make a new departure.</q>
 </p><p>
@@ -19036,7 +19032,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.363.1">An emblem of coming prosperity in a land where rain is the chief want.</note>
 
-<pb n="364"/>
+<pb n="2.364"/>
 
 <lb/>will make the waters of the <placeName>Red Sea</placeName> boil,
 <lb/>pause not in vengeance on <persName>Afrasiyab</persName>,
@@ -19085,7 +19081,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>for fame in war, and now eternal fame
 <lb/>is in thy reach, for, while the world hath men
 
-<pb n="365"/>
+<pb n="2.365"/>
 
 <lb/>and words, thy good name will continue fresh.
 <lb/>Twill be a toil, but one with fame and treasure,
@@ -19135,7 +19131,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>of <sic>fenugreek</sic>, the gallant <persName>Giv</persName> approached
 <lb/>with girded loins, upon a steed with feet
 
-<pb n="366"/>
+<pb n="2.366"/>
 
 <lb/>as swift as wind. <persName>Gudarz</persName> inquired of him :—
 <lb/><q>What comrade hast thou? Who will fare with thee ?</q>
@@ -19179,7 +19175,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.366.1">The first mention of this famous hero who is an especial favourite of the poet’s.</note>
 
-<pb n="367"/>
+<pb n="2.367"/>
 
 <lb/>fierce as a lion girded up his loins,
 <lb/>knew not if he should see his son again,
@@ -19222,7 +19218,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>So now thou sage, whose heart is wakeful! cease
 <lb/>from doubt, and from the mire thy foot release.
 
-<pb n="368"/>
+<pb n="2.368"/>
 
 
 "Tis God Almighty that <sic>sustaineth</sic> thee,
@@ -19267,7 +19263,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.368.1"><persName>Kai Khusrau</persName>, son of <persName>Siyawush</persName> and of <persName>Farangis</persName>, daughter of <persName>Afrasiyab</persName>.</note>
 
-<pb n="369"/>
+<pb n="2.369"/>
 
 <lb/>to slay him, hitch him in the lasso’s noose,
 <lb/>drag him aside, and cover him with dust,
@@ -19320,7 +19316,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/><persName>Afrasiyab</persName> returned to <placeName>Gang</placeName>, Tuirdn
 
 
-<pb n="370"/>
+<pb n="2.370"/>
 
 <lb/>came to his hand again, and then he bade
 <lb/>piran : <q> Bring hither ill-starred <persName>Kai Khusrau</persName>
@@ -19369,7 +19365,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>beside a sparkling stream a beauteous youth
 <lb/>of cypress-height, a wine-cup in his hand,
 
-<pb n="371"/>
+<pb n="2.371"/>
 
 <lb/>and on his head a bright, sweet wreath. His mien
 <lb/>Betokened <rs type="ethnic">Grace</rs> and wisdom. Thou hadst said :—
@@ -19419,7 +19415,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/><q>O lion-man! my mother told me this—
 
-<pb n="372"/>
+<pb n="2.372"/>
 
 <lb/>that when my father by the <rs type="ethnic">Grace</rs> of God
 <lb/>entrusted unto her his last commands,
@@ -19477,7 +19473,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>and questioned him about his care and travail ?
 
-<pb n="373"/>
+<pb n="2.373"/>
 
 
 <milestone unit="vullers" n="V.720"/>
@@ -19533,7 +19529,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>nor sleep, but like the White <rs type="divinity">Div</rs> follow us,
 
-<pb n="374"/>
+<pb n="2.374"/>
 
 <lb/>will make our hearts despair of pleasant life,
 
@@ -19593,7 +19589,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>Now when the herds came down to watering,
 
-<pb n="375"/>
+<pb n="2.375"/>
 
 <lb/>and having drunk their fill turned to depart,
 
@@ -19663,7 +19659,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p><p>
 <lb/>He said: <q>Thou didst mistrust this noble steed,
 
-<pb n="376"/>
+<pb n="2.376"/>
 
 <lb/>and think: <q>Now <rs type="divinity">Ahriman</rs> hath got the youth,
 <lb/>who hath gone off and turned my toil to wind:
@@ -19709,7 +19705,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>Be all the world a slave before thy son,
 <lb/>and be the heads of all thy foes wrung off.</q></p>
 
-<pb n="377"/>
+<pb n="2.377"/>
 
 <p>When <persName>Giv</persName>’s eye fell upon those precious things
 <lb/>he chose the mail of valiant <persName>Siyawush</persName>.
@@ -19761,7 +19757,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>in dust, and bind <sic>accurséd</sic> <persName>Kai Khusrau</persName>—
 <lb/>the ill-starred <sic>lackland</sic>. If the miscreant
 
-<pb n="378"/>
+<pb n="2.378"/>
 
 <lb/>shall cross the river what will not befall
 <lb/>our land and chiefs!</q>
@@ -19818,7 +19814,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>See here the <rs type="ethnic">Grace</rs> of <persName>Kai Khusrau</persName> and not
 
-<pb n="379"/>
+<pb n="2.379"/>
 
 <lb/>the mace of <persName>Giv</persName>! I know not what will come
 <lb/>upon our fields and fells, for who can traverse
@@ -19883,7 +19879,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>What gallant <persName>Giv</persName> did to our warriors,
 <lb/>thou wouldst no more of battles. Thou hast seen me
 
-<pb n="380"/>
+<pb n="2.380"/>
 
 <milestone unit="vullers" n="V.727"/>
 <lb/>oft with the host, and hast approved my prowess,
@@ -19931,7 +19927,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>brave warriors. <q>Swiftly ply,</q> he said to them,
 
-<pb n="381"/>
+<pb n="2.381"/>
 
 <lb/><q> Your fleet steeds' reins, like savage lions go
 <lb/>by day and night, no girdle must be loosed,
@@ -19991,7 +19987,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>Then said Khusrau: <q>O warrior! my cause
 <lb/>is wearisome to thee. I have been spared
 
-<pb n="382"/>
+<pb n="2.382"/>
 
 
 <lb/>the net of bale. Seek not the <rs type="mythologicalcreature">Dragon</rs>’s breath
@@ -20040,7 +20036,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.382.1"><q>Si tu <sic>péris</sic> dans une <sic>captivité</sic> <sic>lointaine</sic>.</q>—MOHL.</note>
 
-<pb n="383"/>
+<pb n="2.383"/>
 
 <lb/>although thou be. A thousand will surround thee
 
@@ -20100,7 +20096,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>sought <persName>Rustam</persName>’s daughter eagerly in marriage,
 <lb/>and <persName>Tus</persName> too sent to ask her, matchless <persName>Rustam</persName>
 
-<pb n="384"/>
+<pb n="2.384"/>
 
 <lb/>met him with scorn, and put their offer by
 <lb/>because they were unworthy. Afterward,
@@ -20145,7 +20141,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>death from my twisted lasso shalt thou meet,
 <lb/>thy mail and helm shall be thy winding-sheet.</q>
 
-<pb n="385"/>
+<pb n="2.385"/>
 
 </p>
 </div>
@@ -20199,7 +20195,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>The chieftains turned their backs, the Lion charged
 
 
-<pb n="386"/>
+<pb n="2.386"/>
 
 <lb/>the Flock, that great host fled from <persName>Giv</persName>, who crossed
 
@@ -20270,7 +20266,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>and know that next to God—our Judge and Guide—
 <lb/>he was the means of saving us from death.
 
-<pb n="387"/>
+<pb n="2.387"/>
 
 <lb/>he with his love screened us from injury,
 <lb/>and <sic>seeketh</sic> now for quarter in return ;
@@ -20330,7 +20326,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 
 
-<pb n="388"/>
+<pb n="2.388"/>
 <p><persName>Giv</persName> bound him, brought the horse, and bade him mount.
 <lb/>Then <persName>Farangis</persName> and goodly <persName>Kai Khusrau</persName>
 <lb/>embraced him tenderly; he took his leave
@@ -20379,7 +20375,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>While they conversed a host appeared in sight
 
-<pb n="389"/>
+<pb n="2.389"/>
 
 <lb/>led by <persName>Piran</persName> <sic>besmirched</sic> with dust and blood.
 
@@ -20444,7 +20440,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.389.1">Reading with P.</note>
 
-<pb n="390"/>
+<pb n="2.390"/>
 
 <lb/><persName>Gulshahr</persName>. Thus did he bind me head and foot
 
@@ -20507,7 +20503,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/><placeName>Iran</placeName> will have his love, <placeName>Turan</placeName> will know
 <lb/>the vengeful face that <sic>looketh</sic> on a foe.</q></q></p>
 
-<pb n="391"/>
+<pb n="2.391"/>
 
 <p>When <persName>Giv</persName> and <persName>Kai Khusrau</persName> had reached the stream
 <lb/>in haste to cross they <sic>wrangled</sic> with the toll-man.
@@ -20563,7 +20559,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>'Twill not be <sic>casy</sic> to collect thy fee!</q>
 
-<pb n="392"/>
+<pb n="2.392"/>
 
 </p>
 </div>
@@ -20622,7 +20618,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.392.1">See vol. i. p. 160.</note>
 
-<pb n="393"/>
+<pb n="2.393"/>
 
 <p>As they went o’er the master of the boats
 <lb/>astound said to his mates: <q> Behold a wonder !
@@ -20686,7 +20682,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>and sighing deeply bade the man : <q> Launch forth
 <lb/>a boat upon the river with all speed.
 
-<pb n="394"/>
+<pb n="2.394"/>
 
 <lb/>see if thou canst discern the fugitives,
 
@@ -20753,7 +20749,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>informed him of the case, and said to him :-—
 <lb/><q>Depart hence unto <placeName>Ispahan</placeName>—the land ,
 
-<pb n="395"/>
+<pb n="2.395"/>
 
 <lb/>of Shahs, the habitation of the mighty—
 <lb/>and tell <persName>Gudarz</persName>: <q>O chief of paladins !
@@ -20798,7 +20794,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/><persName>Gudarz</persName> prepared his stately residence,
 <lb/>and draped it with imperial brocade,
 
-<pb n="396"/>
+<pb n="2.396"/>
 
 <lb/>prepared a throne with gold and jewelry,
 
@@ -20875,7 +20871,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>There for one <sic>sennight</sic> in the festal hall
 
-<pb n="397"/>
+<pb n="2.397"/>
 
 <lb/>they <sic>tarried</sic> wine in hand, but toward the city
 <lb/>of Shah <persName>Kaus</persName> upon the ensuing day
@@ -20935,7 +20931,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>At length <persName>Piran</persName> arrived, and from the heights
 
-<pb n="398"/>
+<pb n="2.398"/>
 
 <lb/>conducted me to that vindictive king.
 
@@ -21002,7 +20998,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>aught ill of me, and saved me and withal
 
-<pb n="399"/>
+<pb n="2.399"/>
 
 <lb/>my mother from the fierce, grim Lion’s claws,
 <lb/>who else had ta’en my head just like my father's.
@@ -21051,7 +21047,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>the glory of the nobles. Thither went,
 <lb/>their audience with the monarch being closed,
 
-<pb n="400"/>
+<pb n="2.400"/>
 
 <lb/><persName>Gudarz</persName> with <persName>Kai Khusrau</persName>. When they had reached
 
@@ -21128,7 +21124,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>established a new monarch in the world:
 
-<pb n="401"/>
+<pb n="2.401"/>
 
 <lb/>I will not be a party to this thing,
 <lb/>so talk not in my presence of Khusrau.
@@ -21174,7 +21170,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 
 
-<pb n="402"/>
+<pb n="2.402"/>
 
 </p>
 </div>
@@ -21245,7 +21241,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>the throne of <sic>empiry</sic> pass to <placeName>Turan</placeName>,
 
 
-<pb n="403"/>
+<pb n="2.403"/>
 <lb/>anc our prosperity be at an end.</q>
 
 </p><p>
@@ -21296,7 +21292,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <q>The same,</q> thou <sic>wouldest</sic> say, <q>in face and form,</q>
 <lb/>if on his mother’s side he is from <persName>Tur</persName>
 
-<pb n="404"/>
+<pb n="2.404"/>
 
 <lb/>the grandson of the Shah must still prove just.
 <lb/>There is not in <placeName>Iran</placeName> or in <placeName>Turan</placeName>
@@ -21350,7 +21346,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>Then said he to <persName>Kaus</persName>: <q> Experienced Shah !
 
-<pb n="405"/>
+<pb n="2.405"/>
 
 <lb/>turn not from rule and custom, call before thee
 <lb/>the noble youths, and let thy clear mind judge ;
@@ -21397,7 +21393,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </p><p>
 <lb/>The Shah replied: <q>When men go forth to war
 
-<pb n="406"/>
+<pb n="2.406"/>
 
 <lb/>their number more or less <sic>importeth</sic> not,
 <lb/>but by the purpose of the Lord of sun
@@ -21442,7 +21438,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>When tidings reached the chiefs and old <persName>Gudarz</persName>,
 <lb/>the offspring of <persName>Kishwad</persName>: <q><persName>Tus</persName> hath returned
 
-<pb n="407"/>
+<pb n="2.407"/>
 
 <lb/>with <persName>Fariburz</persName>, prepare thyself to go,</q>
 
@@ -21488,7 +21484,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>and if it is a hold of sorcerers
 <lb/>I can dispose of them without a host,
 
-<pb n="408"/>
+<pb n="2.408"/>
 
 <lb/>for when I have looped up my leathern lasso
 <lb/>I take the heads of sorcerers in the noose;
@@ -21546,7 +21542,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 
 
-<pb n="409"/>
+<pb n="2.409"/>
 
 <lb/>hail charged with death; full many a div was slain
 <lb/>and many <sic>verom</sic>-stricken fell to earth.
@@ -21600,7 +21596,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <lb/>Prince <persName>Fariburz</persName> approached him with a band
 
-<pb n="410"/>
+<pb n="2.410"/>
 
 <lb/>of warriors from <placeName>Iran</placeName> as '<sic>twere</sic> a mountain,
 
@@ -21679,7 +21675,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 
 <note xml:id="n.410.1">At the present day the horses of the Shah and of his sons have their tail-tips dyed red. (C. J. Wills, M.D., <title><placeName>Persia</placeName> as it is,</title> p. 9.)</note>
 
-<pb n="411"/>
+<pb n="2.411"/>
 
 <lb/>with smiles and praises well deserved, and said :—
 <lb/><q>The Lion hath returned victorious,
@@ -21737,7 +21733,7 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 <lb/>Provide thee well and give the rest away,
 <lb/>and suffer not one moment to be sad.
 
-<pb n="412"/>
+<pb n="2.412"/>
 
 
 <lb/>enjoy thy wealth and be not niggardly,
@@ -21756,6 +21752,6 @@ son of <persName>Naudar</persName>, and he and his brother <persName>Gustaham</p
 </div>
 </div>
 </div>
-
+</div>
 
 </body></text></TEI>
