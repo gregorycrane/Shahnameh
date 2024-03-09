@@ -25,14 +25,14 @@ Pizzi, Italo. Manuale Della Lingua Persiana; Grammatica, Antologia, Vocabolario.
 
   * Pizzi writes in Italian but machine translation converts his Italian into English very effectively. The results are not perfect but they are easily edited. 
 
-  * pp. 57-238: Selections from 20 different sections of the Shahnameh, c. 26,000 words total (5X bigger than Iliad 1, on which Pharr bases his work). Pizzi draws these from Vullers' edition. Farnoosh has created a digital version of these transcriptions already: https://docs.google.com/document/d/1-k_YWM5SR_Yn0USE-fpAkYeuJkGKVzIwOMy29VJHvRo/edit. This gives us a substantion subet of the Shahnameh -- far more than anyone would be able to read in a single year of instruction. Probably enough to do some useful training and text mining.
+  * pp. 57-238: Selections from 20 different sections of the Shahnameh, c. 26,000 words total (5X bigger than Iliad 1, on which Pharr bases his work). Pizzi draws these from Vullers' edition. Farnoosh Shamsian has created a digital version of these transcriptions already: https://docs.google.com/document/d/1-k_YWM5SR_Yn0USE-fpAkYeuJkGKVzIwOMy29VJHvRo/edit. This gives us a substantion subet of the Shahnameh -- far more than anyone would be able to read in a single year of instruction. Probably enough to do some useful training and text mining.
 
   * Literal translation of readings 1-8 (pp. 239-293) with words added to the Italian for stylistic purposes marked in italics. This is enough so that an independent learner could use this to learn how to read the Shahnameh. The hardest task will be recpaturing the italics (which tells you which words are not aligned). It might be best not to bother but just to align Persian and Italian/English directly but it is a shame to leave out the information that italics conveys in print. The slightly corrected OCR of the Italian is available [on Github](https://github.com/gregorycrane/Shahnameh/blob/master/pizzi.littrans.txt).
 
   * A glossary not only provides definitions but also vocalized transliterations (pp. 299-473). A first pass at editing this glossary is on Github: https://github.com/gregorycrane/Shahnameh/blob/master/pizzi-glossary.it.xml. Crane did a first pass matching words in the reader to the appropriate glossary entries (some debugging info [on Google Drive](https://docs.google.com/spreadsheets/d/12Y0Icmzg7NO-zjFfV8_XuHfhGEgYlUHNizk19VRtKoM/edit#gid=0)) -- readers will be able to click on most words in the readings and go to the glossary.
 
 
-
+## Mohl's French translation
 Firdawsī, and Julius Mohl. Le Livre Des Rois. Impr. nationale, 1876, https://catalog.hathitrust.org/Record/001005668.
 
 
@@ -42,8 +42,10 @@ Firdawsī, and Julius Mohl. Le Livre Des Rois. Impr. nationale, 1876, https://ca
 
 * Mohl does not have page numbers aligning it to the Mohl Persian. 
 
+* Mohl misnumbers reigns 22-29. ARDESCHIR BABEKAN and SCHAPOUR, FILS D’ARDESCHIR are both listed as reign 22. Mohl resets the numbers, jumping from SCHAPOUR DHOU’L AKTAF (29) to ARDESCHIR LE BON (31), skipping 30. In our text, we change the numbering and bring it in line with the Warner Brothers (so that the two translations can be aligned).
 
 
+## The Warner Brothers Translation of the Shahnameh
 Firdawsī, et al. The Sháhnáma of Firdaus. K. Paul, Trench, Trübner & Co. Ltd, 1905, https://catalog.hathitrust.org/Record/000686763. The Warner brothers translation of the SN is complete and in the public domain but a poetic translation in an old-fashioned style. We have the following cleaned up (more or less):
 
 
