@@ -1,6 +1,425 @@
 <TEI>
 <text>
 <body><head>GRAMMATICA PERSIANA</head>
+
+
+       <pb n="VI"/>
+       <div><head>PREFAZIONE</head>
+            
+            <p>Dopo tante grammatiche e antologie della lingua
+            persiana, molte delle quali buone sotto ogni rispetto e di grande utilità allo studioso, parrebbe
+            superfluo ed inutile il comporre una grammatica di questa
+            
+            stessa lingua e il mettere insieme un’ antologia corre-
+            dandola di un vocabolario, se chi ora manda fuori il pre-
+            sente Manuale non avesse avuto nel comporlo un parti-
+            colare e speciale scopo. Senza di che, anche per la
+            estrema semplicità della grammatica persiana per cui
+            ogni libro, più o meno, può servire allo studioso, egli
+            non vi si sarebbe provato nemmeno per ombra.
+            L’autore del presente libro è partito da un’ idea del
+            Prof. Spiegel, per la quale, se egli non s’inganna, ha
+            potuto dare al suo Manuale un aspetto e un indirizzo
+            differente da quello dei libri fin qui pubblicati. Il dotto
+            Professore di Erlangen, tanto benemerito degli studi
+            iranici, nelle opere sue ha sempre avuto l'intento, come
+            egli stesso dice (Arische Studten, p. 110), di dimostrare
+            l'unità delle idee che ispirano e informano tutta quanta
+            la Letteratura iranica in tutti i diversi tempi della lunga
+            sua vita. Cosicchè per lui dall’ <title>Avesta</title> e dalle Iscrizioni
+            
+            
+            <pb n="VII"/>
+            
+            degli Achemenidi in parte, alla letteratura pehlevica del
+            tempo dei Sassanidi, dal tempo dei Sassanidi all’ epopea
+            di Firdusi, da Firdusi alla posteriore letteratura dei Pârsi, è
+            un solo cammino di idee, è una sola mitologia e una sola
+            religione e una sola leggenda epica, che si vanno svolgendo
+            e conservando con una tenacità e un vigore di vita non
+            comuni.
+            </p><p>
+            Seguendo questa idea, si vede ben tosto sotto quale
+            punto di vista debba riguardarsi l'epopea di Firdusi ri-
+            spetto alla letteratura posteriore, tutta maomettana e infil-
+            trata d’arabo, non tanto nella lingua quanto nelle idee
+            religiose e morali. Finora il Libro dei Re di Firdusi si
+            è voluto considerare come il principio della nuova lette-
+            ratura persiana; per me invece esso è l'ultimo portato
+            della vera letteratura iranica, chiude per sempre il ciclo
+            meraviglioso delle leggende eroiche, per dar posto ad
+            un’ altra letteratura ben diversa di idee e di intenti. Ora,
+            quasi tutte le Grammatiche e le Antologie della lingua
+            persiana che fino ad oggi si sono compilate, non tengono
+            conto diquesta profonda differenza e mettono insieme il
+            Libro dei Re con le poesie mistiche di Saadi e di Hâfiz, coi
+            racconti di Gami e le favole di Husseyn Và'iz, con le
+            storie di Mirkhondi e le poesie di Khàkàni, scrittori e
+            poeti che hanno veramente il loro pregio, ma nulla però
+            hanno a che fare col Libro dei Re, dal quale li separa imme-
+            diatamente una rivoluzione religiosa e un mutamento pro-
+            fondo di idee. Cosicchè coteste Antologie mi sembrano
+            fatte al modo di quell’ Antologia di Scrittori Latini, nella
+            quale l’autore avesse messi insieme alcuni brani di Lu-
+            crezio, di Virgilio, di Livio e di Cicerone accanto ad
+            altri presi dalle opere di Sant’ Agostino e di San Girolamo.</p>
+            
+            
+            <pb n="IX"/>
+            
+            
+            <p>Si badi bene che io non dico già questo per dir
+            male di quelle Antologie, alcune delle quali sono utilissime,
+            come quella del Dott. M. Schultze (Handbuch der Persischen Sprache, Elbing, 1863), di cui mi sono valso nel
+            principio dei miei studi. Ma l’intendimento mio è solo
+            quello di mostrare sotto quale aspetto, sopra le orme
+            dello Spiegel, io consideri l'epopea di Firdusi, rispetto
+            alla letteratura posteriore da una parte e all’ anteriore
+            dall’ altra e con qual fine tutto speciale e particolare io
+            abbia composto il presente libro. Io ho voluto comporre
+            soltanto un Manuale Iranico, se così posso chiamarlo,
+            nel più stretto senso, nel senso nel quale lo chiamerebbe
+            anche il Professore Spiegel, riguardando il persiano
+            moderno e l'epopea di Firdusi come il primo passo per
+            conoscere l'antica letteratura iranica, come il punto di
+            partenza per salire al pârsi e al pehlevi e per giungere
+            finalmente all’ <title>Avesta</title>, come al punto più alto e più
+            difficile da raggiungere, tenendo così la via la più natu-
+            rale e la più utile negli studi, di salire dal facile al meno
+            facile, dal più noto al meno noto. La letteratura per-
+            siana posteriore (fatta eccezione degli scritti dei Pârsi) è
+            maomettana, di molta importanza, nè io lo nego, ma di
+            una importanza ben differente; essa potrà giovare a chi
+            vuol conoscere la storia del Maomettanesimo e le vicende
+            dei Principati maomettani in Persia, più che a chi voglia
+            addentrarsi nei misteri dell’ antica religione iranica e
+            intenderne il codice sacro e conoscere lo spirito vitale
+            che l'anima e l'informa. Leggete le storie di Mirkhondi,
+            e non troverete nulla, quasi nulla, che ricordi l'antica
+            religione nazionale e quella meravigliosa leggenda epica
+            nella quale sta scolpita l'immagine di quel gran popolo
+            
+            
+            <pb n="X"/>
+            
+            
+            operoso e guerriero; e la storia degli antichi re leggendari
+            di Persia, pure di Mirkhondi, ha ben poco valore come
+            fonte di notizie rispetto al Libro dei Re. Leggete le
+            poesie di Hâfiz o di Saadi e vi troverete una esuberanza
+            di idee maomettane, di ricordi di eroi dell’ Islamismo, in
+            mezzo ai quali compaiono talvolta gli antichi re leggen-
+            dari dell’ Iran, Gemshid o Minôcihr o qualche altro, come
+            figure sbiadite e offuscate, che producono in chi legge
+            quel disgusto speciale e indefinibile che si sente nel
+            leggere uno scrittore moderno che, così per uso, invochi
+            la Musa e parli delle Ninfe o dei Satiri, di Giove e di
+            Giunone, quantunque egli non vi creda più e con lui non
+            vi creda nessuno de’ suoi lettori.
+            </p><p>
+            Dietro questi principî adunque ho io composto il
+            mio Manuale. Il quale differisce da tutti gli altri libri
+            del genere per lo scopo e per i materiali adoperati; per
+            lo scopo, perchè, e già l'ho detto, esso deve servire
+            come punto di partenza per salire allo studio della lette-
+            ratura pehlevica e dell’ <title>Avesta</title>, deve porgere, a guisa
+            di una piccola enciclopedia persiana, tutte quelle fonda-
+            mentali cognizioni di lingua, di religione, di mitologia, di
+            costumi, di leggende di eroi, che poi lo studioso incon-
+            trerà nuovamente, e sotto lo stesso aspetto, nel Bundehesh
+            e nel Mînôkhired e nell’ <title>Avesta</title> in fine, e che vedrà
+            ampiamente svolte nelle opere. dello Spiegel, del Win-
+            dischmann, del Kossowicz, del Justi e dell’ Harlez. Diffe-
+            risce poi per i materiali, perchè, senza disprezzare la
+            letteratura posteriore, la lascia da parte siccome tale che
+            non conduce al suo scopo. Se poi io sia riuscito nel mio
+            intento, non lo so; giudicheranno i dotti, al giudizio dei
+            quali con reverenza e trepidazione sottopongo il mio lavoro.
+            
+            
+            <pb n="XI"/>
+            
+            
+            Ed ora veniamo a parlarne più in particolare.</p>
+            
+            <p>La Grammatica contiene, se non m'inganno, quanto
+            è necessario per dare una sufficiente cognizione del per-
+            siano, molto semplice, come ognuno sa, e relativamente
+            anche molto facile ad apprendere; e nella maggior parte
+            ho seguito le altre Grammatiche. La differenza maggiore
+            sta nella divisione dei verbi. Ho trattato prima il tema
+            di presente, quindi il tema del passato, determinato da
+            un <f2>t</f2> (<f2>d</f2>), e in questo ho fatto due classi di verbi, divi-
+            dendoli in quelli che uniscono <emph>mediatamente</emph> il t (d) del
+            passato al tema del presente (p. e. <f2>purs</f2>, e <f2>purs-î-d-am</f2>),
+            e in quelli che lo uniscono <emph>immediatamente</emph> (p. e. <f2>afrûz</f2>,
+            e <f2>afrûkh-t-am</f2>); e qui, per i vari mutamenti delle conso-
+            nanti, venivano richiamate le regole fonetiche poste in
+            principio della Grammatica. Per quanto io mi sappia,
+            non conosco che altri abbia tentata una simile divisione,
+            per la quale quei verbi che prima erano trattati come
+            irregolari, trovano ora la loro spiegazione e la loro regola.
+            I dotti giudicheranno se io abbia colto o no nel segno<ref n="1"/>.
+            
+            <note n="1">Per avere un’ idea del modo con cui si trattavano i verbi così detti
+            irregolari, si vegga la Grammatica del WILKEN (Lipsiae, 1809), Egli dice che i
+            più dei verbi difettivi (<lat>defectivi</lat>) che escono all’ inf. in <f>ûdan</f>, formano l’imperat.
+            da un inf. in <f>âyîdan</f>; così <f2>farmûdan</f2> fa all’ imperat. <f2>farmây</f2>, ma questo non
+            viene da <f2>farmûdan</f2>, bensì da un <f2>farmâyîdan</f2> (?!) che non esiste. Egli divide i
+            verbi irregolari in 7. classi (pag. 72), secondo le terminazioni dell’ inf., in <f>ûdan</f>,
+            <f2>ftan</f2>, <f2>khtan</f2>, <f2>shtan</f2>, <f2>stan</f2>, <f>îdan</f>, <f>âyîdan</f>, e non s’accorge intanto ch’ egli mette nella
+            terminazione dell’ inf. una parte che appartiene alla radice. Infatti, secondo il W.,
+            il v. <f2>tâftan</f2>, p. e., è della 2a cl. perchè in <f2>ftan</f2>, ma la f di <f2>ftan</f2> appartiene alla
+            radice e non alla desinenza, cfr. pres. <f2>tâb-am</f2>, z. e skr. <skr>tap</skr>, lat. <lat>tep-eo</lat>. E basti
+            questo saggio. Il Jones (ed. franc. di GARCIN DE TASSY, p. 66) dice che molti
+            verbi persiani formano il loro imperat. da infiniti disusati (?!, è la stessa teoria
+            del WILKEN), e che per trovar questi antichi infiniti (che non esistono!) non
+            bisogna che aggiungere <f2>-îdan</f2> ai detti imperativi. Operazione inutile, perchè
+            questi inf. in <f2>-îdan</f2>: non esistono, nè si trovano nel Vocabolario (cfr. il <f2>farmâyîdan</f2>,
+            di cui sopra), — Il VULLERS ha rischiarato di assai nella sua Grammatica la
+            
+            classificazione dei verbi persiani, ma la sua divisione è differente da quella che
+            tento in questo mio lavoro.</note></p>
+            
+            
+            <pb n="XII"/>
+            
+            
+            <p>L'Antologia è tutta presa da Firdusi. E qui si dirà
+            che essa è troppo esclusiva; ma essa non poteva essere
+            che tale in forza delle ragioni dette di sopra. Anche il
+            VULLERs, pubblicando la sua Chrestomathia Schahnamiana
+            (Bonnae, 1833), mostrava di intendere come il miglior
+            libro per gli studi persiani fosse il Libro dei Rei ma dai
+            soli quattro brani da lui scelti (l'ultimo poi non è di
+            Firdusi) lo studioso non si può fare una idea abbastanza
+            giusta di quell’ opera immortale e del suo contenuto.
+            Proponendomi invece nella mia Antologia di far conoscere
+            tutto l'insieme delle leggende eroiche, tutti i diversi
+            momenti di quella gran lotta secolare tra Irani e Turani,
+            immagine terrena della lotta tra Ormuzd e Ahrîmane, ho
+            seguito passo passo il Libro dei Re, cominciando dai
+            primi re e venendo giù fino alla morte di Rustem, col
+            quale cessa ancora e tace il meraviglioso racconto della
+            leggenda. I brani scelti sono una ventina; ma, oltre alla
+            Introduzione generale, ognuno di essi ha una speciale
+            introduzione nella quale si fanno conoscere i fatti ante-
+            cedenti e si istituiscono raffronti con l’<title>Avesta</title> e coi libri
+            tradizionali, laddove cade in acconcio. Cosicchè, quando
+            lo studioso abbia percorsa l’Antologia, potrà avere una
+            cognizione, se non perfetta, abbastanza giusta almeno,
+            dell’ intero Libro dei Re, ciò che per me significa aver
+            sufficiente cognizione di tutta quanta la leggenda eroica,
+            la quale poi gli servirà di fondamento per intender più
+            presto e meglio molte e molte cose, quand’ egli vorrà, dal
+            moderno persiano, salire allo studio ditutta quanta la lettera-
+            tura religiosa che riguarda l’<title>Avesta</title>, e all’ <title>Avesta</title> stesso.
+            </p><p>
+            Quanto al testo, ho seguito l'edizione di Calcutta e
+            l'edizione che, con tanta utilità degli studiosi, pubblicava
+            
+            
+            <pb n="XII"/>
+               
+            a Leida il Prof. VhLLERS; ma non senza riempire con la
+            Calcuttense le troppo frequenti ommissioni ch’ egli ha
+            fatte, siccome già ho avuto occasione di notar più volte
+            nel Bollettino italiano degli Studi orientali di Firenze. Non
+            si può negare che il dotto Professore abbia portati molti
+            e notevoli miglioramenti all’ edizione di Calcutta; ma
+            questa è però sempre di grandissimo pregio; mi sono valso
+            quindi di tutt’ e due, preferendo la lezione or dell’ una
+            or dell’ altra, e talvolta anche seguendo le edizioni di
+            Parigi del Monr e quella di Teherân (a. 1247 dell’ Egira)
+            citate dal VULLERS a piedi di pagina. Dico ques o non per
+            darmi l’aria di aver messo insieme un nuovo testo critico,
+            ma solo per render ragione dei punti in cui mi discosto
+            da una delle edizioni, per seguir piuttosto questa o quel-
+            l’altra. 
+            </p><p>
+            Ma per facilitare allo studioso la lettura e l’inter-
+            pretazione dei canti di Firdusi, lo stile e il modo del
+            quale sono molto difficili ed incerti per chi non vi ha
+            molta pratica, ho creduto bene di porre dopo l'Antologia
+            la traduzione letterale (e mi si faccia grazia del cattivo
+            italiano) dei primi otto capi dell’ Antologia. Lo studioso
+            così con la scorta di quella traduzione potrà addomesti-
+            carsi col costrutto della nuova lingua ch’ egli imprende
+            a studiare, e acquistar quella tal pratica che gli servirà
+            poi per tradurre i restanti brani. In questa parte ho
+            preso per modello i libri del Kossowicz, Decem Senda-
+            vestae excerpta (Parisiis, 1865) e Sarathustricae Gâthae
+            (Petropoli, 1867—1871), tanto utili a chi, come me, ha
+            dovuto studiare lo zendo senza maestri.
+            </p><p>
+            Il Vocabolario, come già feci in un mio Saggio di
+            una Antologia Persiana (Parma, 1877), è redatto in
+            
+            
+            <pb n="XIV"/>
+            
+            maniera tutta nuova per il persiano; registra cioè i temi
+            e le radici, come si fa nei vocabolari sanscriti e zendi,
+            e non l'infinito; ciò che renderà più facile il rinvenire i
+            vocaboli. Si noti però che io parlo delle radici quali ora
+            sono nel persiano, perchè, p. e., nel persiano la radice o
+            il tema del verbo <f2>nihâdan</f2> è <f2>nih</f2> (pres. <f2>nih-am</f2>, io pongo),
+            mentre propriamente <f2>nihâdan</f2> si riferisce ad un zendo e
+            sanscrito <odd>ni</odd> + <odd>dhâ</odd>, in cui la radice primitiva è <odd>dhâ</odd>. Chi
+            vide e giudicò quel primo saggio, ne parlò con soddi-
+            sfazione; speriamo che anche ora mi siano benigni i giu-
+            dizî dei dotti — Il Vocabolario è anche comparativo; e
+            ciò non solo in forza del principio posto più sopra, ma
+            anche perchè lo studioso di cose iraniche, fin dal comin-
+            ciar de’ suoi studi, si renda famigliari i vocaboli zendi,
+            persiani antichi (delle Iscrizioni), pehlevici e pârsi, dei quali
+            dovrà occuparsi poi. In questa parte mi sono valso dei lavori
+            dello SPIEGEL, del JUSTI, dell’ HARLEZ, dell’ ASCOLI; e i
+            ravvicinamenti da me riferiti sono sempre dei più sicuri,
+            dei più accertati; qualche ravvicinamento col sanscrito
+            specialmente, col greco e col latino è stato da me fatto,
+            ma con parsimonia; per il gotico invece mi son contentato
+            di ben pochi vocaboli, di quelli soltanto cioè che appar-
+            tengono a tutta quanta la famiglia indo-europea, come
+            fadar, batran, ecc. Molte notizie intorno ad eroi, a
+            leggende, a miti si trovano nelle diverse introduzioni
+            ai capi dell’ Antologia, ma il Vocabolario supplisce a
+            quello che in esse manca; dove cioè cadeva in acconcio
+            il dar qualche notizia, ciò è stato da me fatto con ogni
+            cura, e si veggano per ciò, tra gli altri, gli articoli:
+            <list>
+            <item>سام</item>
+            <item>ژندواست</item>
+            <item>ديو</item>
+            <item>دخمه</item>
+            <item>پهلوی</item>
+            <item>پری</item>
+            <item></item>
+            <item>آهرمن</item>
+            <item>البرز</item>
+            <item>هوم</item>
+            </list>
+            
+            
+            
+            </p>
+            
+            <pb n="XV"/>
+            
+            
+            <p>Oso pertanto nutrir speranza, con questo mio lavoro,
+            di porgere allo studioso tutte quelle fondamentali cogni-
+            zioni che gli possono essere necessarie per proseguire
+            gli studi iranici, senza le quali molte cose riescono oscure
+            bene spesso e talvolta inintelligibili. Se io sia riuscito
+            nell’ intento, non so, lo ripeto; posso però assicurare di
+            avervi spesa tutta la cura e posto tutto quanto l'impegno.
+            </p><p>
+            Qui poi debbo ringraziar pubblicamente il Prof. C.
+            DE HARLEZ di Lovanio che tanto contribuì perchè questo
+            mio Manuale potesse essere pubblicato. Il Prof. E. Teza
+            pure abbia i miei ringraziamenti per i consigli datimi nei
+            miei studi, mentre io era suo discepolo a Pisa, e li abbia
+            il Prof. F. Lasino, a cui tanto debbo come discepolo per
+            i miei studi di arabo e di siriaco, e al quale altresì
+            con molta gratitudine e affetto questo libro è dedicato.</p>
+            
+            <p>Firenze, 1. Marzo 1882.</p>
+            
+            <p>I. PIZZI</p>
+            </div>
+            
+            <pb n="XVI"/>
+           <div> 
+            
+            <head>AVVERTENZA</head>
+            
+            <p>Questo libro comparve nel 1883 col titolo di <title>Manuale della Linguae Persiana, Grammatica, Antologia e Vocabolario</title>, intanto che sarebbe
+            stato assai meglio col titolo più preciso, sotto il quale ora
+            esce mercè le cure del solerte Editore Sig. WOLFGANG
+            GERHARD di Lipsia, di: <title>Antologia Firdusiana con un
+            Compendio della Grammatica persiana e un Vocabolario</title>.
+            Esso infatti non comprende che passi scelti dal Libro dei
+            Re di Firdusi, e la grammatica, molto ristretta, vi è come
+            parte secondaria, sebbene necessaria per lo studioso. Il
+            perchè della scelta e il fine del libro sono detti nella
+            Prefazione che abbiam mantenuta qual'è.
+            </p><p>
+            
+            Il Manuale, quando uscì, ebbe lodi benevole e indul-
+            genti da persone dotte e competenti; ma, come queste
+            persone notarono qualche difetto del Manuale con tutta
+            gentilezza e cortesia, così l’autore suo non pretese mai
+            che esso fosse uscito dalle sue mani come opera perfetta,
+            e anche ora ne lamenta molti difetti ai quali egli rimedie-
+            rebbe volentieri se tutto ciò che un autore vorrebbe fare,
+            non fosse impedito in gran parte e quasi sempre dalla
+            scarsezza dei mezzi e dalla mancanza di aiuto da parte
+            
+            
+            <pb n="XVII"/>
+            
+            
+            di tutti. A quegli errori tuttavia ai quali egli può rime-
+            diare (scusabili, forse, in un lavoro giovanile; inescusabili
+            tuttavia davanti alla scienza), egli ora mette riparo come
+            può, ponendo le correzioni in alcuni fogli aggiunti in fine
+            al volume. Chi gli fece conoscere gli errori, tra leggieri
+            e gravi, nei quali egli era caduto, fu il Sig. C. J. SEYBOLD
+            che in un lungo articolo, in data del Dicembre del 1883
+            da Heilbronn, inserito nel Literatur-Blatt für. Orien-
+            talische Philologie, Juli-August 1884, I. B. 10. u. 11. Heft,
+            esaminò molto accuratamente e molto attentamente il
+            Manuale, lodò quel poco che credette di poter lodare, e
+            censurò tutto il resto. L'autore gli è grato di questa
+            censura che egli riconosce esser giusta (eccetto là dove
+            il SEYBOLD gli addebita anche gli errori di stampa), tanto
+            grato, che, come può vedere il lettore, egli, nelle pagine
+            aggiunte, ha corretto moltissime cose, accettando quasi
+            tutti (tutti, in coscienza, non si poteva) gli appunti fatti-
+            gli da lui.
+            </p><p>
+            Ma se lo ringrazia per la giusta censura, non lo rin-
+            grazia per il modo aspro, burbero, con cui l’ha fatta.
+            L'autore non ha incontrato in lui l'amorevole collega che
+            fa avvertito il collega suo degli errori in cui è caduto;
+            ma s'è imbattuto in un censore rigido e accigliato che
+            sale in cattedra e, tenendo in pugno lo staffile e pestando
+            de’ piedi, fa la lezione allo scolaretto ch’ egli vuole ingi-
+            nocchiato innanzi a sè<ref n="1"/>. Di questo suo contegno l'autore
+            non ringrazia di certo il Sig. SEYBOLD; ma lo prega di
+            
+            <note n="1">Ricordiamoci che Giacomo Meyerbeer diceva: ,,Das Hauptthema vieler
+            Aritiker (in Deutschland) ist, diewirklichen oder vermeinten Schattenseiten recht lang
+            und breit zu besprechen und den Autor wie einen Schulknaben heruntersumachen, der
+            noch Viel, sehr Viel zu lernen habe (SCHUCHT, Meyerbeers Leben und Bildungsgang.
+            Leipzig, 1869, S. 364).</note>
+            
+            
+            <pb n="XIX"/>
+            
+            
+            pensare e di vedere se acquista maggior simpatia presso
+            il pubblico lo scolaretto inginocchiato o il censore che
+            grida e mena la sferza. Tanto poi aveva voglia il
+            Sig. SEYBOLD di menar la sferza nel momento ch’ egli
+            scriveva quell’ articolo, che, dimenticatosi per un momento
+            del Manuale e del suo autore, se la pigliava con gl’ Italiani
+            in generale perchè, secondo lui, non sanno usar bene dei
+            risultati della scienza tedesca. O studiosi d’Italia, udite
+            cosa vi grida dalla sua cattedra di Heilbronn il mio e
+            vostro censore? È ora di far senno! se no, ci toccano le
+            sferzate!
+            </p><p>
+            Auguriamoci intanto che quest’ Anthologia Firdusiana
+            possa trovar buona fortuna presso gli studiosi, secondando
+            i voti del suo autore e dell’ Editore ancora, che non
+            risparmia dispendio e cure per metterla fuori.</p>
+            
+            <p>Torino, Gennaio 1891.</p>
+            
+            <p>I. PIZZI.</p>
+    </div>
 <div><head>I. FONOLOGIA</head>
 <pb n="3"/>
 
@@ -41,10 +460,10 @@ persiano, ora invilito e snervato dalle dottrine di Maometto,
 nei tempi di sua maggior potenza e floridezza, ebbe tre
 grandi monumenti, le Iscrizioni cioè degli Achemenidi,
 dette cuneiformi dalla foggia dei caratteri fatti a cuneo,
-il libro sacro detto Zendavesta o meglio Avesta, che
+il libro sacro detto Zendavesta o meglio <title>Avesta</title>, che
 contiene le sacre dottrine di Ormuzd rivelate a Zoroastro,
 e il Shâhnameh o Libro dei Re di Firdusi. È ben vero
-che la forma nella quale abbiamo ora tanto l’Avesta
+che la forma nella quale abbiamo ora tanto l’<title>Avesta</title>
 quanto il Libro de Re, non è molto antica (Firdusi poi
 visse nel decimo secolo dell’ Era volgare); ma la tradi-
 zione religiosa conservata nel primo e la leggenda epica
@@ -67,7 +486,7 @@ degli Arabi, coi quali era altresì entrata nell’ Iràn la
 religione di Maometto. Lo stesso Iskendernâmeh o Libro
 di Alessandro Magno di Nizâmi è un infelice tentativo di
 epopea, nel quale non trovi le antiche e genuine leggende
-iraniche del Libro dei Re e dell’ Avesta, nè il vigore
+iraniche del Libro dei Re e dell’ <title>Avesta</title>, nè il vigore
 delle poesia di Firdusi; e il poemetto di Gâmi, Yûsuf
 u Zuleykhâ, è dovuto alle tradizioni arabe intorno a
 Giuseppe figlio di Giacobbe e alla moglie di Putifarre,
@@ -88,16 +507,16 @@ ma per un vezzo mal inteso degli scrittori.
 <p>3. Le lingue iraniche si solevano già dividere in
 due rami, nel ramo cioè orientale e nell’ occidentale.
 Al primo appartiene la lingua nella quale è stato scritto
-l'Avesta e che chiamasi impropriamente <term>zend</term>, mentre
+l'<title>Avesta</title> e che chiamasi impropriamente <term>zend</term>, mentre
 altri usa chiamarla antico battriano, ritenendola per la
 lingua antica della Battriana; in Germania almeno si usa
 designarla con quest’ ultimo nome (in ted. <deu>altbaktrisch</deu>).
 L'Harlez, all’ uso orientale, la chiama ora avestica o
-lingua dell’Avesta. La parte poetica e più antica dell’
+lingua dell’<title>Avesta</title>. La parte poetica e più antica dell’
 Avesta è scritta in una lingua più aspra e ruvida che
 lo Spiegel suppose essere la lingua delle valli della Sog-
 diana, e conserva però grande somiglianza col zend delle
-altre parti dell' Avesta. Il zend poi ha grande affinità
+altre parti dell' <title>Avesta</title>. Il zend poi ha grande affinità
 con la lingua sacra degli Indiani che è il sanscrito. Al
 ramo occidentale delle lingue iraniche appartiene l'antico
 persiano nel quale sono dettate le Iscrizioni degli Ache-
@@ -257,8 +676,8 @@ lunghe, come:
 
 <p>12. Il più delle volte la kasrah lunga ha il valore
 di <f2>î</f2> e la dhammah quello di <f2>û</f2>, come 
-<f>گير</f>, <f2>gîr</f2>, <gloss></gloss>
-<f>بوُدن</f>, <f2>bûdan</f2>, <gloss></gloss>;; ma spesso anche la kasrah vale ê, e la dhammah
+<f>گير</f>, <f2>gîr</f2>, 
+<f>بوُدن</f>, <f2>bûdan</f2>; ma spesso anche la kasrah vale ê, e la dhammah
 vale <f2>ô</f2>, come: 
 <f>کيش</f>, <f2>kêsh</f2>, 
 <f>گوُش</f>, <f2>gôsh</f2> 
@@ -489,15 +908,15 @@ muta la <f2>n</f2> in <f2>m</f2>, come: <f>امروز</f> <f2>im-rûz</f2> (<f2>
 <div><head>I. TEMI DEL VERBO.</head>
 
 <p>34. Il verbo persiano si può ridurre a due temi, dei
-quali chiameremo l'uno [tema di presente], l'altro tema di
+quali chiameremo l'uno <term>tema di presente</term>, l'altro tema di
 passato; così di <f>بخشيدن</f> <f2>bakhshîdan</f2> (infin.), <gloss>donare</gloss>,
 <f>بخش</f> <f2>bakhsh</f2> è il tema di presente, <f>بخشيد</f> <f2>bakhshîd</f2> 
-quello del passato. — Il [tema del presente] si potrebbe
-anche chiamare [radice del verbo].</p>
+quello del passato. — Il <term>tema del presente</term> si potrebbe
+anche chiamare <term>radice del verbo</term>.</p>
 
-<p>35. Al tema del presente appartengono il [presente], il
-[futuro], [l'imperativo] e il [participio presente]; appartengono
-al tema del passato il [passato], [l'infinito] e il [participio passato]. — Il passivo e gli altri tempi si determinano coi
+<p>35. Al tema del presente appartengono il <term>presente</term>, il
+<term>futuro</term>, <term>l'imperativo</term> e il <term>participio presente</term>; appartengono
+al tema del passato il <term>passato</term>, <term>l'infinito</term> e il <term>participio passato</term>. — Il passivo e gli altri tempi si determinano coi
 verbi ausiliari, come vedremo.</p>
 </div>
 <div><head>II. TEMA DEL PRESENTE.</head>
@@ -619,8 +1038,8 @@ desinenze. Così dal tema di presente <f>مان</f> <f2>mân</f2> si fa
 <f2>mân-t</f2>, poi <f>ماند</f> <f2>mân-d</f2>  (23), e <f2>mând</f2> è tema di passato
 di <f2>mân</f2>.</p>
 
-<p>45. Senonchè alcuni verbi aggiungono [mediatamente],
-altri [immediatamente] il <f2>t</f2> al tema di presente. Di questi
+<p>45. Senonchè alcuni verbi aggiungono <term>mediatamente</term>,
+altri <term>immediatamente</term> il <f2>t</f2> al tema di presente. Di questi
 ultimi parleremo più innanzi. I primi invece uniscono
 questo <f2>t</f2> al tema del presente per mezzo di una delle
 vocali <f2>â</f2>, <f2>î</f2>, <f2>û</f2> o per mezzo della lettera <f2>s</f2>.</p>
@@ -674,10 +1093,10 @@ vocale, np. <f2>â-rây-am</f2>, shûy-am, rûy-am = z. <zend>â-râdh</zend>, <
 </p>
 
 <p>49. Formato il tema del passato, gli si uniscono le
-desinenze che per il [tempo passato] sono <f2>-am</f2>, <f2>î</f2> (la 3° persona non ha terminazione, ma lascia tal quale il tema),
+desinenze che per il <term>tempo passato</term> sono <f2>-am</f2>, <f2>î</f2> (la 3° persona non ha terminazione, ma lascia tal quale il tema),
 <f2>îm</f2>, <f2>îd</f2>, <f2>and</f2>. Eccone gli esempi:</p>
 
-<p>50. Temi che prendono é; tema di presente xz%, porre.
+<p>50. Temi che prendono é; tema di presente <f2>nih</f2>, <gloss>porre</gloss>.
 <list>
 <item><f>نهادم</f> <f2>nih-â-d-am</f2>, <gloss>io posi.</gloss></item>
 <item><f>نهادی</f> <f2>nih-â-d-î</f2>, <gloss>tu ponesti. </gloss></item>
@@ -736,7 +1155,7 @@ ornare, <f2>nigar</f2>, osservare.
 <item><f>نگرستيد</f> <f2>nigar-î-s-t-îd</f2>, <gloss>voi osservaste.</gloss></item>
 <item><f>نگرستند</f> <f2>nigar-î-s-t-and</f2>, <gloss>eglino, elleno osservarono.</gloss></item>
 </list></p>
-<p>54. L'infinito termina in @%; quindi dai sopraddetti
+<p>54. L'infinito termina in <f2>-an</f2>; quindi dai sopraddetti
 temi avremo:
 <list>
 <item><f>نهادن</f> <f2>nih-â-d-an</f2>, <gloss>porre.</gloss></item>
@@ -754,7 +1173,7 @@ detti temi avremo:
 <item><f>بخشيده</f> <f2>bakhsh-î-d-ah</f2>, <gloss>che ha donato.</gloss></item>
 <item><f>آزموده</f> <f2>âzm-û-d-ah</f2>, <gloss>che ha provato.</gloss></item>
 <item><f>آراسته</f> <f2>ârâ-s-t-ah</f2>, <gloss>che ha ornato.</gloss></item>
-<item><f>siti</f> <f2>nigar-i-s-t-ah</f2>, <gloss>che ha osservato.</gloss></item>
+<item><f>نگرسته</f> <f2>nigar-i-s-t-ah</f2>, <gloss>che ha osservato.</gloss></item>
 </list>
 Si noti che spesso il participio passato esprime una pro-
 posizione incidente, come: 
@@ -767,16 +1186,16 @@ posizione incidente, come:
 </p>
 
 <p>56. Tratteremo ora dei verbi che uniscono 
-[immediatamente] il <f2>t</f2> del passato al tema del presente.</p>
+<term>immediatamente</term> il <f2>t</f2> del passato al tema del presente.</p>
 
 <p>57. Quando il tema del presente non termini con
 una delle lettere <f2>b</f2>, <f2>v</f2>, <f2>s</f2>, <f2>sh</f2>, <f2>z</f2>, <f2>h</f2>, nè con la sillaba <f2>âr</f2>,
 il <f2>t</f2> caratteristico del tema del passato si unisce 
-[immediatamente] al tema di presente e diventa <f2>d</f2> (23); così
+<term>immediatamente</term> al tema di presente e diventa <f2>d</f2> (23); così
 dal tema <f2>kan</f2> <gloss>avremo</gloss> <f2>kan-t</f2> = <f2>kand</f2>, <f>لند</f>, che è tema
 di passato. Eccone gli esempi:</p>
 
-<p>58. Temi di presente: #az, scavare, s0ar. portare.
+<p>58. Temi di presente: <f2>kan</f2>, <gloss>scavare</gloss>, <f2>avâr</f2>. <gloss>portare</gloss>.
 
 <list>
 <item><f>کندم</f> <f2>kan-d-am</f2>, <gloss>io scavai.</gloss></item>
@@ -794,13 +1213,13 @@ Participio passato: <f>کنده</f> <f2>kan-d-ah</f2>, <f>آورده</f> <f2>âv
 delle lettere <f2>b</f2>, <f2>v</f2>, <f2>s</f2>, <f2>sh</f2>, <f2>z</f2>, <f2>h</f2> o nella sillaba èr, il <f2>t</f2> del
 passato gli va unito pure immediatamente e rimane inalte-
 rato, ma le consonanti finali dei temi, dinanzi a questo <f2>t</f2>,
-subiscono i mutamenti fonetici dei paragrafi 24, 25, 26,
+subiscono <f2>i</f2> mutamenti fonetici dei paragrafi 24, 25, 26,
 27, 28, 29, 30, 31.
 </p>
 
 <p>60. I verbi che nel tema del presente escono in <f2>b</f2>,
 dinanzi al <f2>t</f2> del passato mutano questo <f2>b</f2> in <f2>f</f2>. Temi di
-presente: <f2>kûb</f2>, battere, <f2>yâb</f2>, trovare.
+presente: <f2>kûb</f2>, <gloss>battere</gloss>, <f2>yâb</f2>,  <gloss>trovare</gloss>.
 
 <list>
 <item><f>کوفتم</f> <f2>kûf-t-am</f2>, <gloss>io battei.</gloss></item>
@@ -886,8 +1305,7 @@ Infinito: <f>شناختن</f> <f2>shinâki-tan</f2>, <f>فروختن</f> <f2>fur
 Participio passato: <f>شناخته</f> <f2>shinâkh-t-ah</f2>, <f>فروخته</f> <f2>furûkh-t-ah</f2>.</p>
 
 <p>64. I verbi che al tema di presente escono in <f2>z</f2>,
-innanzi al <f2>t</f2> mutano tal <f2>z</f2> in <f2>kh</f2>. Temi di presente: <f2>sâz</f2>,
-<gloss>fare</gloss>, <f2>parhîz</f2>, <gloss>evitare</gloss>.
+innanzi al <f2>t</f2> mutano tal <f2>z</f2> in <f2>kh</f2>. Temi di presente: <f2>sâz</f2>, <gloss>fare</gloss>, <f2>parhîz</f2>, <gloss>evitare</gloss>.
 
 <list>
 <item><f>ساختم</f> <f2>sâkth-t-am</f2>, <gloss>io feci.</gloss></item>
@@ -1015,7 +1433,7 @@ talvolta un <f2>-î</f2> che dà al verbo il significato di condizionale
 <pb n="24"/>
 
 
-oppure il valore d’[imperfetto] o di [tempo indeterminato],
+oppure il valore d’<term>imperfetto</term> o di <term>tempo indeterminato</term>,
 come:
 <list>
 <item><f>پرسيدمی</f> <f2>pursîdam-î</f2>, <gloss>io domanderei, o domandava (tema di pres. <f2>purs</f2>).</gloss></item>
@@ -1037,7 +1455,7 @@ come:
 Questi verbi servono a formare il passivo
 e i tempi che mancano nella flessione semplice.</p>
 
-<p>72. Il verbo am (skr. <skr>asmi</skr>, z. <zend>ahmi</zend>, antp. <oldp>amiy</oldp>)
+<p>72. Il verbo <f2>am</f2> (skr. <skr>asmi</skr>, z. <zend>ahmi</zend>, antp. <oldp>amiy</oldp>)
 non ha che il presente:
 
 <list>
@@ -1110,7 +1528,7 @@ sarò</gloss>, dalla rad. <skr>bhû</skr>). Il presente <f2>buv-am</f2> o <f2>b�
 al participio passato, forma un futuro anteriore, cioè:
 
 <list>
-<item><f>پرسيده بءم / باشم</f> <f2>buv-am, bâsh-am</f2>, <gloss>io avrò domandato</gloss>.</item>
+<item><f>پرسيده بءم / باشم</f> <f2>pursîdah buv-am, bâsh-am</f2>, <gloss>io avrò domandato</gloss>.</item>
 <item><f>پرسيده بوي / بشي</f> <f2>pursîdah buv-î, bâsh-î</f2>, <gloss>tu avrai domandato</gloss>.</item>
 <item><f>پرسيده بود / باشد</f> <f2>pursîdah buv-ad, bâsh-ad,</f2>, <gloss>egli, ella avrà domandato</gloss>.</item>
 <item><f>پرسيده بويم / باشيم</f>  <f2>pursîdah buv-îm, bâsh-îm, pursidah</f2>, <gloss>noi avremo domandato</gloss>.</item>
@@ -1277,7 +1695,7 @@ Quest’ ultima forma è pochissimo usata, e da alcune
 Grammatiche non si ricorda.</p></div>
 
 <div><head>V.  VERBI DERIVATI.</head>
-<p>90. Alcuni verbi [intransitivi] diventano [transitivi]
+<p>90. Alcuni verbi <term>intransitivi</term> diventano <term>transitivi</term>
 aggiungendo al tema di presente la sillaba <f2>-ân</f2>; da <f2>-ras</f2>,
 <gloss>giungere</gloss>, avremo quindi <f2>ras-ân</f2>, far giungere, condurre,
 restituire, portare, ecc.- A questo tema <f2>rasân</f2>, che è
@@ -1372,7 +1790,7 @@ Tema di pres. <f2>â</f2>, <gloss>venire</gloss>, pres.
 <item><f>فرود آ</f> <f2>furûd</f2> (<gloss>giù</gloss>) <f2>â</f2>, <gloss>discendere</gloss>, <f2>furûd âyam</f2>, <gloss>io discendo</gloss>.</item>
 </list>
 
-Tema di pres. <f>dâr</f>, <f2>avere</f2>, pres. <f2>dâr-am</f2>, pass. <f2>dâsh-t-am</f2> (66):
+Tema di pres. <f2>dâr</f2>, <f2>avere</f2>, pres. <f2>dâr-am</f2>, pass. <f2>dâsh-t-am</f2> (66):
 <list>
 <item><f>باز دار</f> <f2>bâz</f2> (<gloss>indietro</gloss>) <f2>dâr</f2>, <gloss>ritenere, ritirare</gloss>, <f2>bâz daram</f2>, <gloss>io ritengo</gloss>.</item>
 
@@ -1447,7 +1865,7 @@ essa perde la <f2>h</f2> finale e il verbo la <f2>h</f2> iniziale, contraendosi 
 <pb n="32"/></p>
 
 <p>98. La particella <f2>mah</f2> o <f2>ma-</f2> si prepone soltanto
-agli imperativi che prendono così un significato [proibitivo]
+agli imperativi che prendono così un significato <term>proibitivo</term>
 (z. antp. skr. <skr>mâ</skr>, gr. <grc>μὴ</grc>), come: <f>مه پرس</f> <f2>mah purs</f2>, e
 <f>مپرس</f> <f2>ma-purs</f2>, non domandare. — L’imperativo-ottativo
 di <f2>bûdan</f2>, <f>بودن</f>, che è <f>باد</f> <f2>bâd</f2> e <f>بادا</f> <f2>bâdâ</f2> (77), con
@@ -1489,9 +1907,9 @@ maniera però è dei libri della tarda età della Letteratura persiana.</p>
 <pb n="33"/>
 <div><head>IX. DEL NUMERO.</head>
 
-<p>101. I numeri sono due, [singolare] e [plurale]. Il primo
+<p>101. I numeri sono due, <term>singolare</term> e <term>plurale</term>. Il primo
 non ha terminazione propria, il secondo ne ha due, una
-per gli [esseri animati], l'altra per gli [esseri inanimati].</p>
+per gli <term>esseri animati</term>, l'altra per gli <term>esseri inanimati</term>.</p>
 
 
 <p>102. Per gli esseri animati la desinenza plurale è
@@ -1721,7 +2139,7 @@ abbreviano in <f2>ma-</f2>, <f2>tu-</f2>, <f>مرا</f> <f2>ma-râ</f2>, <gloss>
 vanno aggiunti al nome, da cui dipendono, con la vocale
 <f2>i</f2>, come: <f>سگِ من</f> <f2>sag i man</f2>, <gloss>il cane di me, il mio cane</gloss>
 
-(vedi: [Pronomi possessivi]).</p></div>
+(vedi: <term>Pronomi possessivi</term>).</p></div>
 
 <div><head>XIV. DEI PRONOMI POSSESSIVI.</head>
 
@@ -1878,7 +2296,7 @@ la <f>ا</f> iniziale, come in <f>برين</f> <f2>bar-în</f2>, sopra questo;
 <f>که</f> <f2>kih</f2>, <gloss>che, il quale, la quale, i quali, le quali</gloss>, ecc. per le persone e per le cose,
 e <f>چه</f> <f2>ćih</f2>, <f2>che</f2>, per le cose. Esempio: 
 <f>خدا که جهان را آفريد</f> <f2>khudâ kih gihân râ âfarîd</f2>, Iddio che creò il
-mondo. Nei casi obliqui il <f>kih</f> prende dopo di se anche
+mondo. Nei casi obliqui il <f2>kih</f2> prende dopo di se anche
 il pronome personale nel caso voluto dal costrutto, come:
 <f>مرد که اروا ديدم</f> <f2>mard kih û-râ dîdam</f2>, <gloss>l’uomo che (che lui) ho veduto</gloss>. — Questa—costruzione sembra presa inprestito. dalle lingue semitiche:</p>
 
@@ -1996,7 +2414,7 @@ si costruiscono col genitivo, come:
 
 <p>140. La lingua persiana ha i seguenti suffissi:</p>
 
-<p>a) Indicano [gli astratti] i suffissi:
+<p>a) Indicano <term>gli astratti</term> i suffissi:
 <list>
 <item><f2>-î</f2> <f>دوستی</f> <f2>dûstî</f2>, <gloss>amicizia</gloss>, <f2>dûst</f2>, <gloss>amico</gloss>.</item>
 
@@ -2006,7 +2424,7 @@ si costruiscono col genitivo, come:
 
 <item><f2>-ish</f2> <f>دانش</f> <f2>dânish</f2>, <gloss>sapienza</gloss>, <f2>dân</f2> in <f2>dânistan</f2>, inf., sapere.</item>
 </list></p>
-<p>b) Indicano [luogo] i seguenti suffissi:
+<p>b) Indicano <term>luogo</term> i seguenti suffissi:
 
 <list>
 <item><f2>-stân</f2> <l></l> <f2>gûristân</f2>, <gloss>cimitero</gloss>, <f2>gûr</f2>, <gloss>sepolcro</gloss> (con <f2>i</f2> epentetica per l’incontro delle consonanti; cfr. invece <l></l>, <gloss>giardino</gloss>, <f2>bû</f2>, <gloss>per</gloss> <f2>bûy</f2>, <gloss>odore</gloss>).</item>
@@ -2017,9 +2435,9 @@ si costruiscono col genitivo, come:
 
 <item><f2>-shan</f2> <f>گلشن</f> <f2>gulshan</f2>, <gloss>roseto</gloss>, <f2>gul</f2>, <gloss>rosa</gloss>.</item>
 
-<item><f2>-sâr</f2> <f>کوهشار</f> <f2>kûhsâr</f2>, <gloss>luogo montuoso</gloss>, <f2>kûh</f2>, <gloss></gloss>monte.</item>
+<item><f2>-sâr</f2> <f>کوهشار</f> <f2>kûhsâr</f2>, <gloss>luogo montuoso</gloss>, <f2>kûh</f2>, <gloss>monte</gloss>.</item>
 
-<item><f2>-kadah</f2> <f>بتکده</f> <f2>butkadah</f2>, <gloss>tempio d’idoli</gloss>, <f2>but</f2>, <gloss></gloss>idolo.</item>
+<item><f2>-kadah</f2> <f>بتکده</f> <f2>butkadah</f2>, <gloss>tempio d’idoli</gloss>, <f2>but</f2>, <gloss>idolo</gloss>.</item>
 
 
 <pb n="43"/>
@@ -2180,7 +2598,7 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     del popolo persiano.</p>
     
     <p>L’idea fondamentale dell'antica religione iranica,
-    quale si desume dall’Avesta e da altri libri posteriori,
+    quale si desume dall’<title>Avesta</title> e da altri libri posteriori,
     come il <title>Bundehesh</title> e il <title>Minokhired</title>, è un eterno contrasto fra due esseri essenzialmente opposti tra loro, tra
     Ahura Mazdâo cioè ed Anra Mainyu, il primo dei quali
     è il genio del bene, il secondo è il genio del male;
@@ -2200,13 +2618,13 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     racconto del <title>Libro dei Re</title>, e altro non è che una immagine terrena della gran lotta tra il bene ed il male,
     tra Ormuzd cioè ed Ahrîmane. Dalla parte quindi degli
     Irani sta Ormuzd con tutta la sua schiera celeste, e dalla
-    parte degli abborriti Turani sta Ahrîmane co’ suoi Dévi,
+    parte degli abborriti Turani sta Ahrîmane co’ suoi Dêvi,
     i demoni cioè figli delle tenebre, con tutte le arti maligne,
     quali la magia, il tradimento, la frode e la menzogna.</p>
     
     <p>Il <title>Libro dei Re</title> comincia col primo re e primo
     uomo che è Gayûmers. A lui succede il re Hôsheng
-    che è il primo della dinastia dei [Pêshdâd]; e sotto il suo
+    che è il primo della dinastia dei <term>Pêshdâd</term>; e sotto il suo
     
     <note n="1">Vedi tutta questa parte svolta più ampiamente nel mio Discorso sull'Epopea Persiana (pag. 18—80) nei miei <title>Racconti Epici di Firdusi</title>.</note>
     
@@ -2215,14 +2633,14 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     
     
     regno incominciano a trovarsi le prime arti. Al tempo
-    suo, come pure al tempo dei re Tahmûras e Gemshîd,
-    tutta la terra stava sotto lo scettro di un solo. Gemshîd,
+    suo, come pure al tempo dei re Tahmûras e Ǵemshîd,
+    tutta la terra stava sotto lo scettro di un solo. Ǵemshîd,
     perchè, dopo aver inventate molte arti, si levò a superbia
     e si volle fare adorare, fu punito da Dio col suscitargli
     contro l'arabo Dahâk, crudelissimo tiranno che aveva
     sugli omeri due neri serpenti, natigli quivi da due baci
-    che Ahrimane gli aveva impressi sulle spalle. A Dahâk
-    che usurpò il trono di Gemshîd e regnò per mille anni,
+    che Ahrîmane gli aveva impressi sulle spalle. A Dahâk
+    che usurpò il trono di Ǵemshîd e regnò per mille anni,
     succedette Frêdûn che incatenò il tiranno in una caverna
     del monte Demâvend. Ma quando, dopo queste imprese,
     Frêdûn volle dividere la terra fra i suoi tre figli e farne
@@ -2232,14 +2650,14 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     toccati in sorte ad Eraǵ, e tra i Turani che avevano
     per loro signore Tûr, l’uccisore principale dell’ innocente
     suo fratello. D’allora in poi i re dell’ Iran trovarono un
-    potente aiuto nei principi. del Segestàn, il più valoroso
+    potente aiuto nei principi. del Segestân, il più valoroso
     dei quali, che è Rustem figlio di Zâl, con le sue mirabili
     imprese fornisce materia di racconto alla maggior parte
     dei canti epici. Le discordie poi tra Irani e Turani che
     si erano acquetate al tempo del re Minôcihr, quando fu
     da lui vendicata la morte di Eraǵ, ritornarono a scoppiare
     sotto il re Nevder ed il re Kobâd, che fu il primo della
-    dinastia dei [Kay] sottentrata a quella dei [Pêshdâd]; e
+    dinastia dei <term>Kay</term> sottentrata a quella dei <term>Pêshdâd</term>; e
     hanno tregua solo quando il re Khusrev, dopo una terribile e disastrosa guerra descritta con singolare ampiezza
     nel <title>Libro dei Re</title>, giunge a vendicare con la morte di
     Afrâsyâb re dei Turani il proprio padre Siyâvish che
@@ -2265,8 +2683,8 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     che si va perpetuando di generazione in generazione, e che,
     secondo il popolo persiano, non è ancora finita ai giorni
     nostri. I re poi, di cui si cantano le imprese nel <title>Libro dei Re</title>, sono: Gayûmers, primo re e primo uomo; a
-    lui succede Hôsheng primo dei [Pêshdâd], e vengono
-    poscia Tahmûras, Gemshîd, Dahâk l'arabo, che è un
+    lui succede Hôsheng primo dei <term>Pêshdâd</term>, e vengono
+    poscia Tahmûras, Ǵemshîd, Dahâk l'arabo, che è un
     usurpatore, Frêdûn, Minôcihr, Nevder, Zav, Ghershâsp.
     Sottentra allora la famiglia dei Kay con Kobâd, Kâvus,
     Khusrev, Lohrâsp e Gushtâsp. Questi re trovansi pure
@@ -2274,7 +2692,7 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     Thraêtaona, Manuscithra, Naotara (?), Uzava, Kereçâçpa(?),
     Kavâta, Uçan, Huçravanh, Auravat-açpa, Vîstâcpa. Il re
     Dahâk del <title>Libro dei Re</title> nell’ <title>Avesta</title> invece è ricordato
-    come un serpente creato da Ahrîmane, col nome di [azhidahâka], abbattuto da Thraêtaona, nel quale il Burnouf
+    come un serpente creato da Ahrîmane, col nome di <term>azhidahâka</term>, abbattuto da Thraêtaona, nel quale il Burnouf
     per il primo ravvisò il re Frêdûn della leggenda popolare.<note n="2">SPIEGEL, Gramm. der Pêrsi-sprache, p. 195. — MULLER, Leture sulla
     Scienza del Linguaggio, 22 Serie, lettura 119.</note>
     Col regno di Gushtâsp termina la leggenda epica, ed il <title>Libro dei Re</title> passa alla storia di Alessandro Magno,
@@ -2300,8 +2718,8 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
     racconto epico quale ce lo ha conservato Firdusi, è quello
     stesso che si trova in quei libri più antichi. Per persuadersi di ciò basterebbe aprire l’<title>Avesta</title> o il <title>Bundehesh</title>
     e confrontarli col <title>Libro dei Re</title>.<note n="1">Un confronto molto minuto della leggenda epica del Libro dei Re con
-    ciò che di essa ci ha conservato l’Avesta, trovasi negli Arische Studien dello
-    SPIEGEL all’art. V. che porta il titolo di Avesta und Skâhnâmeh, pag. 110-128.</note> Eppure l'<title>Avesta</title>
+    ciò che di essa ci ha conservato l’<title>Avesta</title>, trovasi negli Arische Studien dello
+    SPIEGEL all’art. V. che porta il titolo di <title>Avesta</title> und Skâhnâmeh, pag. 110-128.</note> Eppure l'<title>Avesta</title>
     almeno precedette di non pochi secoli Firdusi; la
     qual cosa ci dimostra che la leggenda si conservò tale
     e quale per lungo tratto di tempo e giunse ancora fresca
@@ -2496,6 +2914,2445 @@ fica varietà, pienezza, come: <f>لبالب</f> <f2>lab-â-lab</f2>, <glos>fino
 </p>
 
 
+</div>
+
+<div type="textpart" subtype="selection" n="1"><head>I. IL RE HÔSHENG.</head>
+    <p>
+
+    A Gayûmers che fu, secondo il Libro dei Re, il
+    primo re e il primo uomo, successe il re Hôsheng,
+    conosciuto nell’ <title>Avesta</title> col nome di Haoshyariha. Tanto
+    nell’ <title>Avesta</title> quanto nel Mînôkhired, egli è celebrato
+    per aver sterminati i Dêvi, i demoni cioè creati da
+    Ahriîmane. Egli infatti, nell’ <title>Avesta</title> e precisamente nell'inno alla Dea delle acque Ardvi-çûra-Anâhita (yasht,
+    V, 21—-23), è introdotto a pregar la Dea perchè gli conceda
+    vittoria sui demoni e sugli altri spiriti maligni. 
+    
+    <quote>Haoshyanha
+    paradhàta (v. sotto) onorò lei (la Dea) ai piedi dell’ Hara
+    (il sacro monte Alburz) con cento cavalli maschi, con
+    mille vacche e diecimila capi di bestiame piccolo. Ed egli
+    a lei domandò questa grazia: Concedimi, o buona, o
+    utilissima Ardvi-çûra-Anâhita, che io sia sovrano signore
+    di tutti i paesi, dei Dêvi e degli uomini, dei maghi e
+    delle Pairika (esseri maligni femminili, Perî, v. il Vocab.),
+    dei nemici, dei ciechi e dei sordi; che io uccida due
+    terzi dei Dêvi del Mazana e del Varena, maligni. Tale
+    grazia gli fu concessa dalla Dea.</quote>
+    
+     Il Mînôkhired (in
+    SPIEGEL, Gramm. der Pârsispr. p. 135) dice di lui: <quote>E
+    da Hôsheng venne questa utilità, che egli di tre parti
+    dei Dêvi del Mazenderân, che nel mondo spargevano la
+    morte, due terzi ha uccisi</quote> (cfr. di sopra l’<title>Avesta</title>). Il
+    
+    
+    <pb n="58"/>
+    
+    
+    Bundehesh non dice nulla di particolare per il re Hôsheng:
+    e il solo Firdusi racconta come egli abbia scoperto il
+    fuoco. Gli altri scrittori che parlano di questo antico
+    re mitico e leggendario, come Hamzah di Ispâhan,
+    l'Autore del <title>Muǵmil ut-tevârikh</title>, poco o nulla aggiungono
+    di nuovo.</p>
+    
+    <p>Firdusi, invece, delle battaglie di Hôsheng coi Devi 
+    non ricorda che quella col Devo Nero che gli aveva
+    ucciso il padre suo Siyâmek Gayûmers aveva nutrito
+    e allevato il giovane Hôsheng appunto per vendicar quel
+    delitto commesso dal Devo. e la descrizione della
+    battaglia è data qui nel brano che segue. Si enumerano
+    poi dello stesso re molte scoperte. tra le quali la più
+    importante si è quella del fuoco.</p>
+    
+    <p>Hôsheng, figlio di Siyâmek (Sec. il Bundehesk p. 77
+    figlio di Fravâk). fu il primo dela dinastia dei <title>Pêshdâd</title>,
+    in sendo <zend>paradhâta</zend>, il qual nome nella versione sanscrita
+    del <title>Mînôkhired</title> è reso per <skr>pûrvaćârabṛit</skr>. Il Justi lo
+    traduce per colui che per il primo ha esercitata la legge
+    del governare: <quote xml:lang="deu">der zuerst das Gesetz des Regierens
+    
+    ausübte.</quote></p>
+
+    <div>
+<p><head>NOTE GRAMMATICALI.</head>
+    <div type="textpart" subtype="note" n="1.13-1.14">
+
+        <p>Sulla costruzione del
+            verbo ausiliare <f2>khvâstan</f2>, v. la Gramm.</p>
+    </div>
+
+    <div type="textpart" subtype="note" n="1.19">
+<p><f2>b-âsmân</f2> per <f2>bi-âsmân</f2>.</p>
+        </div>
+
+    
+    <div type="textpart" subtype="note" n="1.58">
+        <p><f2>k-az-ân</f2> per <f2>kih az ân</f2>.</p></div>
+        
+
+        
+    </p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.60">
+<p><f2>z-û</f2> per <f2>zi-û</f2>, <f2>az-û</f2>.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.65"><p>Si noti qui per sempre che Firdusi ripete spesso le
+    preposizioni due volte, come qui <f2>bar-ân bar</f2>, per <f2>bar-ân</f2>. 
+    
+    .</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.69"><p>   
+
+    <f2>k-in</f2> per <f2>kih în</f2></p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.72"><p><f2>shân</f2>  per <f2>ishân</f2>, suffisso pronominale, v. la Gramm.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.77"><p><f2>az-û</f2> per <f2>az û</f2>.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.78"><p><f2>k-az-û</f2> per <f2></f2>. </p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.86"><p><f2>girift-ash</f2>, qui il suffisso <f2>ash</f2> fa da soggetto, <gloss>prese egli</gloss>,
+    Gramm. 125, nota.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.101"><p><f2>furûghî-st</f2> per <f2>furûghî ast</f2>, <gloss>è una luce</gloss>.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.108"><p><f2>bâd</f2> ottativo di <f2>bûdan</f2>, v. la Gramm.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.117"><p><f2>z-îshân</f2> per
+    <f2>zi-îshân</f2>.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.120"><p><f2>v-az</f2> per <f2>u az</f2>. </p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.122"><p><f2>samûrast</f2> per <f2>samûr ast</f2>.</p>
+</div>
+
+
+<div type="textpart" subtype="note" n="1.122"><p><f2>k-ash</f2> per <f2>kih ash</f2>, <gloss>al quale</gloss>.</p>
+</div></div>
+
+<div type="textpart" subtype="selection" n="2">
+    <head>II. IL RE DAHAK.</head>
+    <p>
+
+    Questo re leggendario che nella tradizione epica
+    figura come un usurpatore del trono iranico, nell’ <title>Avesta</title>
+    invece e negli altri libri religiosi è rappresentato come
+    un terribile serpente sotto il nome di <f2>azhi dahâka</f2>, <gloss>serpente esiziale</gloss>. In essi non si trova alcun cenno come
+    di un principe, ma soltanto come di un’ orribile creatura
+    di Ahrîmane, stata poi vinta da Thraêtaona, così descritta:
+    <cit><quote>Egli (Thraêtaona) uccise il serpente Dahâka, di tre
+    bocche, di tre teste, di sei occhi, di mille potenze, pre-
+    potente, diabolica <zend>druǵ</zend> (spirito demoniaco femminino),
+    nocivo agli esseri viventi, cui, quale la più potente <zend>druǵ</zend>,
+    creò Anra Mainyu (Ahrîmane) contro il mondo corporeo,
+    per la morte di quelli che vivono con santità</quote> <bibl>(yaçna IX)</bibl>.</cit>
+    Secondo il <title>Bundehesh</title> invece il serpente Dahâka discendeva
+    per madre da Ahrîmane. Esso devastò il mondo per
+    1000 anni, finchè poi Thraêtaona, secondo un’ altra
+    
+    
+    <pb n="64"/>
+    
+    
+    tradizione, lo incatenò nel monte Demâvend. Alla fine del
+    mondo l'eroe Çâma Kereçâçpa (v. più innanzi) gli toglierà
+    la vita e purificherà così la terra (WINDISCHMANN,
+    Zoroastrische Studien, p. 19: JUST, Mandbuch der
+    Zendsprache).</p>
+    
+    <p>Nel <title>Libro dei Re</title> invece, Firdusi ci descrive Dahâk
+    come un arabo, figlio di Mirdâs (si noti che anche l'<title>Avesta</title>
+    riconosce come sede del serpente Dahâka la città di
+    Bawri, cioè Babilonia, che è paese semitico, yasht, 5, 29),
+    e reo di orribili delitti fino dalla giovinezza. Dei tratti
+    dell’ antica leggenda Firdusi non conserva che quello dei
+    due serpenti. Iblis (Ahrîmane), trasformatosi in vago
+    giovinetto, aveva chiesto un giorno al re Dahâk di
+    potergli baciar le spalle; dato quel bacio, uscirono da
+    quelle spalle due orribili serpi che egli dovette nutrir poi
+    di cervella umane. Come poi l’<title>Avesta</title> ci dice che il
+    serpente Dahâka era stato creato da Ahrîmane per la
+    morte dei viventi, che sono creature di Ormuzd, così
+    Firdusi ci fa sapere che Ahrîmane, nell’ additar cervella
+    umane come cibo proprio ai due serpi di Dahâk, ordiva
+    la morte degli uomini. Anche Firdusi racconta come
+    Frêdûn (il Thraêtaona dell’ <title>Avesta</title>), atterrato il tiranno
+    che gli aveva usurpato il trono, lo abbia poi incatenato
+    nel Demâvend, in una di quelle caverne.</p>
+    
+    <p>Il nome zendo <zend>dahâka</zend> deriva dalla rad. dal, distruggere, ma questo nome, sotto la forma <f>دهاک</f> <f2>dahâk</f2>,
+    
+    fu poi erroneamente interpretato per <f>ده آک</f> <f2>dah âk</f2>, <gloss>dieci
+    vizi, o colpe</gloss>. Gli scrittori Mussulmani, compreso Firdusi,
+    
+    lo scrivono <f>ضحّاک</f> <f2>dhaḥḥak</f2>, facendone, sempre erronea-
+    mente, un nome arabo <gloss>l’uomo che ride</gloss>, dal verbo ar.
+    <foreign xml:lang="ara">ضحک</foreign> <f2>dhaḥika</f2>, <gloss>ridere</gloss>. La pronuncia poi <f2>Zohâk</f2>, <f2>Zohaq</f2>,
+    è assolutamente falsa.</p>
+    
+    <p>Non v'ha alcun dubbio che la lotta tra Frêdûn e
+    Dahâk, Thraêtaona e Azhi-dahâka, altro non sia che una
+    
+    
+    <pb n="65"/>
+
+    
+    reminiscenza dell’antico mito indo-europeo della lotta
+    tra il sole luminoso e il serpente aereo, la nuvola cioè
+    nera e gravida di pioggia; cosicchè Frêdûn e Dahâk
+    corrispondono all’Indra e al Vṛitra degli Indiani, all’ Apollon
+    e al Python, all’Herakles e al cane Orthros (<grc>ὄρθρος</grc>, <grc>ϝόρθρος</grc>,
+    cfr. Vṛitra ind.) dei Greci, al Sigurdhr e al dragone
+    Fafnir dell’<title>Edda</title> e dei Nibelungen presso i popoli Ger-
+    manici. Questo mito di Frêdûn e di Dahâk è stato
+    ampiamente trattato in tutte le sue parti dal Darmesteter
+    (<title>Ormazd et Ahriman</title>) e dal Bréal (<title>Hercule et Cacus</title>); il
+    Darmesteter anzi (p. 107) osserverebbe che Dahâk, vinto
+    e incatenato, non muore, perchè egli non è che il serpente,
+    il demone dell’ uragano, e l’uragano, benchè tante volte
+    disperso dal sole, si rinnovella tuttavia di tanto in tanto
+    nel cielo.</p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="2.52">
+        
+                <p><f2>pand-at</f2>, il pron. <f2>at</f2> dipende dal
+                    verbo  <f2>bâyad</f2>.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.61"><p>leggi <f2>bi-iblîs</f2>.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.65"><p>Il verso va letto così:
+                <f2>bi-mânad bi-gardan-t i</f2> (u — — u, per <f2>di-gardan-at</f2>, la vocale <f2>i</f2> non
+                ha qui alcun valore grammaticale).</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.100"><p>per <f2>shinîdah hastam</f2>, <gloss>io ho udito</gloss>.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.130"><p><f2>âz</f2> per <f2>ćih as</f2>.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.135"><p>Il pron. <f2>ash</f2> va
+                riferito a <f2>Dahâk</f2> sottint.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.145"><p><f2>fardâ-t</f2> per <f2>fardâ-at</f2>; <f2>at</f2> dipende
+                da <f2></f2>sâzam.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.169"><p><f2>ḥâǵat-ast-am</f2>, <gloss>un bisogno è a me, ho bisogno</gloss>.</p>
+            </div>
+            
+            
+            <div type="textpart" subtype="note" n="2.182"><p>Il verso va letto così: 
+                <f2>ghamî gasht u az har sûy i (u —) ćârah ǵust.</f2>
+                </p></div>
+</div>
+</div>
+<pb n="72"/>
+
+<div type="textpart" subtype="selection" n="3">
+    <head>III SCONFITTA DI DAHAK.</head>
+    <p>
+    
+
+    Occupato il trono dell’ Iran e ucciso il re Ǵemshîd,
+    il novello principe vede una notte in sogno una orribile
+    visione che gli svela il futuro. Dahâk sogna di un
+    principe che un giorno gli toglierà il regno e lo incatenerà
+    nel monte Demâvend. Egli allora, irrequieto e sospettoso,
+    va in cerca del predetto eroe per ucciderlo. Questi era
+    Frêdûn figlio di Abtîn, il Thraêtaona dell’ <title>Avesta</title>, che la
+    madre sua Frânek aveva nascosto nelle valli dell’ Alburz.
+    Un giorno, il fabbro Kâveh, al quale il tiranno aveva
+    uccisi i figli, giunge improvvisamente con una schiera di
+    eroi a quelle valli solitarie in cerca del legittimo signore
+    dell’ Iran, gli rappresenta i mali e le sciagure del suo
+    popolo e lo invita alla riscossa. Frêdûn, al quale già la
+    madre aveva raccontato come Dahâk gli avesse ucciso
+    il genitore per farne pascolo con le cervella ai suoi ser-
+    penti (v. il brano antecedente), si fabbrica una clava che
+    aveva sulla sommità il capo di una giovenca effigiato in
+    acciaio, in memoria della vacca Birmâyeh che l'aveva
+    allattato da fanciullo, e muove contro Dahâk. Giunge
+    
+    
+    <pb n="73"/>
+    
+    
+    alla reggia, ne disperde gli incanti e libera le sorelle del
+    re Ǵemshîd che il tiranno aveva fatte sue spose. Dahâk
+    allora era lontano assai; ma un suo fido consigliero,
+    Kundrav (il Gandareva dell’ <title>Avesta</title>), lo rintraccia, lo informa
+    di ogni cosa, gli dice che tutto è perduto e che le spose
+    sue fanno lega col novello signore, Frêdûn, e congiurano
+    ai suoi danni. A questa notizia egli si riscuote e prende
+    le armi — A questo punto incomincia il racconto del
+    brano che si legge qui sotto.
+
+
+</p>
+
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="3.67">
+    
+            <p><f2>nâsûd</f2>, per. <f2>na-âsûd</f2> .</p>
+        </div>
+
+        <div type="textpart" subtype="note" n="3.72">
+    
+            <p><f2>bi-y-afgand</f2>, senza la <f>ا</f> iniziale, Gramm. 41, dal tema di pres. <f2>afgan</f2>,
+                tps. <f2>afgand</f2>.</p></div>
+       
+
+        <div type="textpart" subtype="note" n="3.76">
+    
+            <p><f2>v-az-in</f2>, per <f2>u az-în</f2>.</p>
+        </div>
+
+        <div type="textpart" subtype="note" n="3.126">
+    
+            <p><f2>k-ârad</f2>, per
+                <f2>kih ârad</f2>. </p></div>
+            
+                <div type="textpart" subtype="note" n="3.135">
+    
+                    <p><f2>bi-fzûd</f2>, per <f2>bi-afzûd</f2>.</p>
+                </div>
+        
+                <div type="textpart" subtype="note" n="3.141">
+            
+                    <p>Il pron. <f2>-ash</f2>, dipende da <f2>guzîd</f2>.
+</p></div>
+</div>
+</div>
+
+<div type="textpart" subtype="selection" n="4">
+    <head>IV. NOZZE DEI TRE FIGLI DEL RE FREDÙN.</head>
+    <p>
+
+    
+
+    Frêdûn, vinto e incatenato Dahâk e riordinato il
+    regno, stabilisce di celebrar le nozze dei suoi tre figli,
+    natigli, due da Shehrnàz e l'altro da Ernevàz, dalle sorelle
+    cioè di Ǵemshîd che egli aveva sposate. Il savio ed
+    amorevole padre, il quale non aveva ancora imposto il
+    nome ai figli suoi riserbandosi a trovarne loro uno solo
+    allorquando avesse ben conosciuta l’indole di ciascheduno,
+    desidererebbe tre sorelle di nobile e regia stirpe per
+    farne le compagne dei figli suoi. Gendel, un suo fedele
+    e prudente servo, si pone in cerca di un re che vada
+    lieto di tre figlie quali sono desiderate da Frêdûn, e
+    udendo finalmente che il potente e glorioso Serv re del
+    Yemen trovasi appunto in tali condizioni, egli si reca a
+    quella corte e quivi fa la sua proposta. Il re del Yemen
+    non vorrebbe veramente accondiscendere al desiderio di
+    Frêdûn, ma Frêdûn è signore troppo potente perchè egli
+    possa rifiutarsi di far la sua volontà, e la pena inflitta a
+    ‘Dahâk parla troppo chiaro. Domandato quindi qualche
+    tempo per riflettere, il re del Yemen si consiglia co’ suoi
+    
+    
+    <pb n="79"/>
+    
+    
+    principi, i quali gli fanno profferte di aiuto, caso che
+    l'occasione lo richiegga, e lo consigliano intanto ad accettar
+    la proposta di Frêdûn, ma bensì con molte e gravi condi-
+    zioni, per le quali si possa impedir quel connubio o
+    almeno mandar in lungo le cose. — A questo punto in-
+    comincia il brano che segue.
+
+
+</p>
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="4.4">
+    
+            <p><f2>ćih û</f2>, va letto come <f2>ć-û</f2> per il
+                verso.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.16">
+    
+                    <p>Bisogna scandere questo verso così: 
+    <f2>na-shâyad zadan ǵuz bi-farmân-sh i (u — — u, per di-farmân-ash) gâm</f2>; sì noti il verbo
+                skéyad con l'infinito.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.27">
+    
+                    <p><f2>shân</f2> dipende da <f2>dil</f2>, il loro cuore.</p></div>
+                
+                    <div type="textpart" subtype="note" n="4.30">
+        
+                        <p>Bisogna scandere questo verso così: <f2>firistam saduk-shân
+                (u _ _, per <f2>saduk-ishân</f2>) bar i shâh.i bâz; bâz</f2> è qui postposizione
+                di firistam.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.59">
+    
+                    <p>Bisogna scandere questo verso così: 
+                        <f2>zubân râsitî râ biy-ârâsitah</f2>.</p></div>
+                
+                        <div type="textpart" subtype="note" n="4.70">
+            
+                            <p><f2>bikâr âvarad (_ u x, presente di
+                âvardan, âvarîdan; leggendo âvard, sarebbe passato, e il verso
+                sarebbe sbagliato) mard i dânâ fusûn</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.84">
+    
+                    <p><f2>k-at</f2>, per <f2>kih-at</f2>, che
+                a te.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.85">
+    
+                    <p><f2>k-az-în</f2>, per <f2>kih az în</f2>.</p></div>
+                
+                    <div type="textpart" subtype="note" n="4.88">
+        
+                        <p>Il pron. suff. <f2>tân</f2>
+                (per <f2>itân</f2>) dipende da <f2>bâyad</f2>; così al v. 128.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.105">
+    
+                    <p>Si scanda:
+                <f2>ćû as âmadan-shîn (_ u _ _) shud âgâh i sarv</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.107">
+    
+                    <p><f2>pish</f2>
+                regge il pron. <f2>shân</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.119">
+    
+                    <p><f2>shân</f2> dipende da <f2>âvarîd</f2>.</p></div>
+                
+                    <div type="textpart" subtype="note" n="4.120">
+        
+                        <p><f2>shân</f2> dipende da <f2>kard</f2>.</p></div>
+                
+                        <div type="textpart" subtype="note" n="4.136">
+            
+                            <p>Bisogna scandere: <f2>k-as âmikhitan
+                rang i n-âmad-sh i (-—-, per n-âmad-<f2>ash</f2>) sûd</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.138">
+    
+                    <p><f2>dâd</f2>
+                per l’infin. <f2>dâdan</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.151"><p>Si divida: <f2>di-dân-gah</f2>, in quel tempo;
+                <f2>gah</f2> per <f2>gâh</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.163"><p>Bisogna scandere: 
+                    <f2>ćunân shud kih bi-fsurd i
+                (_ _ u per <f2>bi-fisurd</f2>) hâmûn u râgh</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.175"><p><f2>kardan</f2> per <f2>kard</f2>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.181"><p>sottint. <f2>kih</f2>, <gloss>che</gloss>.</p></div>
+                
+                <div type="textpart" subtype="note" n="4.197"><p>bisogna scandere: <f2>bih-akhtar
+                kasî dân kih dukhtar-sh i (- — u, per <f2>dukhtar-ash</f2>) nîst</f2>; così si legga
+                <f2>akhtar-sh</f2> i (-—, per <f2>akktar-ash</f2>) nel verso seguente.           
+            
+            </p></div>
+
+            </div></div>
+
+<div type="textpart" subtype="selection" n="5"><p>
+    V. MORTE DEL RE FRêDûN.
+
+    Il re Frédin, celebrate le nozze dei suoi tre figli, ai
+    quali, dopo aver fatta prova del valor di ciascuno, egli
+    aveva imposti i nomi di Salm, di Tûr e di Eraǵ (<f>رور، سلم، ايرج</f>,
+    
+    
+    <pb n="87"/>
+    
+    
+    E pl; si vegga il brano antecedente), si determinò in fine a
+    
+    dividere il regno fra loro. Ma perchè al minore di tutti,
+    ad Eraǵ, era toccato l’ Iran, la parte cioè più bella del-
+    l'eredità paterna, i due figli maggiori ne mossero lagnanza
+    al padre, il quale rispose protestando di aver fatta giustizia.
+    Eraǵ allora, per acquetare i fratelli, si recò da loro con
+    l'assenso del padre. Fu egli accolto dapprima con molto
+    onore, ma poi ucciso da Tûr in un alterco suscitato
+    appositamente. La testa dell’ infelice giovinetto fu
+    mandata a Frêdûn che, nel suo immenso dolore, giurò
+    di punire i due malvagi.</p>
+    
+    <p>Intanto da una sposa di Eraǵ nasceva una vaga
+    fanciulla di nome Màh-àferìid, e da questa più tardi,
+    sposata a Pesheng principe animoso e gagliardo, nasceva
+    Minôcihr, il Manuscithra dell’ Avesta. Il vecchio Frêdûn
+    allevò il giovinetto con ogni cura, e quando lo vide atto
+    a trattar l’armi, lo mandò con una infinita schiera di
+    armati contro Tûr e Salm.</p>
+    
+    <p>Da queste discordie tra i figli del re Frêdûn e da
+    questa prima guerra di Minôcihr contro Tûr. e Salm
+    prende origine la lunga guerra tra Irani e Turani (così
+    detti da Tûr loro primo signore), che occupa la maggior
+    parte del Zz6r0 dei Re, e del significato della quale
+    abbiamo già fatto qualche cenno nell’ Introduzione, in
+    principio di quest’ Axtologia.</p>
+    
+    <p>Minôcihr giunge ad ottener finalmente compiuta
+    vittoria. Dopo avere ucciso Tûr e dopo di lui Salm,
+    ne manda le teste con una lettera trionfale al vecchio
+    Frêdûn, annunziandogli così che la morte di Eraǵ è
+    vendicata. Allora il vecchio re che era vissuto, si può
+    dire, con quest’ unico desiderio, non ha più nulla da
+    fare in terra e si prepara quindi a morire. Gli ultimi
+    giorni del viver suo furono tristi, perchè la memoria
+    dei tre figli così miseramente perduti incessantemente lo
+    
+    
+    <pb n="88"/>
+
+    
+    tormentava. Onde, designato per suo successore il
+    giovane Minécihr, dopo cinquecento anni di regno, morì
+    compianto e onorato da tutti, lasciando bella e gloriosa
+    memoria di sè.
+
+
+</p>
+
+
+<pb n="89"/>
+
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="5.8"><p>Bisogna scandere così questo
+verso: <f2>ćunîn guftiy ân (_u_) nâmi-var (_ u _) shahriyâr</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="5.24"><p><f2>ash</f2> si riferisce al soggetto stesso che è <f>minûćihr</f> del verso
+antec., e fa qui da soggetto (Gramm. 125, nota).</p></div>
+                
+<div type="textpart" subtype="note" n="5.29"><p>bisogna
+scandere: <f2>bi-padrûd i kardan-sh i (- — u, invece di <f2>kardan-ash</f2> —— x)
+raftand i pish</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="5.44"><p>, si divida dil-at-rîd.</p></div>
+                
+<div type="textpart" subtype="note" n="5.45"><p>, <f2>khunuk</f2> (u —)
+per eccezione, mentre l’ultima sillaba dovrebbe esser breve
+(<f2>khunuk</f2> u u), seguendo la vocale di <f2>ân</f2>.</p>
+</div>
+</div></div>
+<pb n="90"/>
+
+<div type="textpart" subtype="selection" n="6">
+<head>VI. AMORI DI ZÂL E DI RûDABEH.</head>
+    <p>Al tempo del re Minôcihr entra a far parte della
+leggenda epica anche la famiglia del Segestân, i cui
+membri erano come gran vassalli del re dell’ Iran, e però
+si chiamavano <f>جهان پهلوان</f>  <f2>ǵihân pahlavân</f2>, eroi del
+regno, e come tali potevano essi portar corona reale e
+avevano il privilegio di dare udienza sedendo in trono.
+Questa famiglia discendeva da Ǵemshîd che aveva sposata
+la figlia di un re di quei luoghi allorquando, fuggendo
+da Dahâk, giunse ramingo in quelle parti. Anticamente
+il paese chiamavasi <zend>bâkhdhi</zend> nell’ Avesta e <oldp>bakhtri</oldp> nelle
+Iscrizioni del re Dario, dal quale ultimo nome i Greci poi
+fecero quello di <grc>Βάκτρα</grc> perchè esso poi fosse chiamato
+Segestân, ciò si spiega per certe invasioni, in tempi storici,
+di barbari del Settentrione che mutarono il nome del
+bel paese tanto benemerito dei re dell’ Iran (v. i miei
+Racconti Epici di Firdusi, p. 59 e segg.).</p>
+
+<p>I principi che appartengono a questa famiglia, sono,
+in ordine cronologico, i seguenti: Tûr (figlio di Ǵemshîd
+e di Perî-ćihreh, v. sopra; non si confonda questo Tûr
+con l’altro figlio di Frêdûn; v. i brani antecedenti.), Shêdasp,
+Tûrek, Shem, Asrit, Ghershâsp, Nerîmân o Nîrem,
+Sâm, Zâl o Destân, Rustem. Quest’ ultimo fu il più
+glorioso di tutti, come vedremo appresso. I re dell Iran
+trovarono in questa famiglia di eroi il più valido sostegno
+alla loro potenza, nè si presentò mai qualche difficile
+impresa la quale, affidata a uno di loro, non ottenesse
+esito splendido e felice.</p>
+
+<p>Dei primi eroi contiene ben poche cose, anzi quasi
+nulla, il <title>Libro dei Re</title>. Di Ghershâsp si ricorda sola-
+mente una battaglia con Shîrûy; di Nîrem si sa sol-
+tanto da un racconto di Sâm che egli morì nell’ assedio
+della rocca del Sipend, e de’ suoi antenati non si hanno
+
+
+<pb n="91"/>
+
+
+che sparse e incerte notizie. Di Sâm si raccontano molte
+e prodigiose battaglie (v. il brano che tien dietro a questo
+e il Vocab. alla voce Sâm); ma il <title>Libro dei Re</title> si ferma
+più specialmente intorno alla storia intima della sua casa.
+Sâm, dopo aver lungamente sospirato e chiesto al cielo
+un figlio, ne ebbe uno da una delle sue mogli. L’infante
+era bello e vigoroso, ma aveva i capelli bianchi. Il padre
+allora che credette scorgere in ciò l’opera di Ahrîmane,
+lo fece esporre dai servi sul monte Alburz, laddove egli
+sarebbe perito se l'uccello Sîmurgh (v. il Vocab.) per
+comando di Dio non l'avesse curato e nutrito. Ma, dopo
+alcuni anni, il padre ammonito da una terribile visione, si
+pose in cerca del figlio suo che gli fu reso sano e salvo
+dal Sîmurgh.</p>
+
+<p>Il giovinetto, chiamato Zâl o Zâl-zer, cioè <gloss>vecchio</gloss>,
+dal padre per i suoi capelli, e Destân, cioè <gloss>frode</gloss>, dal
+Sîmurgh per la mala fede usatagli da Sâm, cresce con
+gli anni in ogni virtù nella casa paterna. Il re Minôcihr
+lo vuol vedere e lo raccomanda al padre. Ma un giorno
+ch’ egli, andando a diporto per i paterni dominii, giunge
+sui confini del Kâbul, s'invaghisce, al solo sentirne par-
+lare, della bella Rûdâbeh figlia di Mihrâb re di quel paese;
+e di qui appunto ha principio il brano che segue. L'amore
+però dei due giovani è fortemente contrastato da Sâm
+prima, poscia da Minôcihr, perchè Mihrâb, padre della
+fanciulla, era idolatra e discendeva dall’ empio Dahâk,
+che, come abbiamo visto, era creatura di Ahrîmane (v. i
+brani antecedenti.). Non era quindi lecito a un eroe d’Irania
+far lega con uno che discendeva dal genio del male.</p>
+
+<p>Per maggiori notizie intorno agli eroi del Segestân,
+v. SPIEGEL, Erân. Alterthumskunde I, 555—573.
+    </p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="6.1"><p>
+
+    Il soggetto è Zâl, v. la traduzione
+di questo brano in fine all’ <title>Antologia</title>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.22"><p><f2>-ash</f2> ha qui il significato
+quasi di: <gloss>contro di lui</gloss>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.34"><p>il primo <f2>mihi</f2> è il nome <f2>mih</f2>, principe,
+con l’art. indet.; il secondo è l’astratto, <gloss>grandezza</gloss>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.43"><p>il pron.
+<f2>-ash</f2> di <f2>hamânâ-sh</f2>, per <f2>hamdânâ-ash</f2>, dipende da <f2>âmad</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.111"><p><f2>az-ân-k-û</f2>, per questo che egli; <f2>k-û</f2>, per <f2>kih û</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.124"><p>si scanda:
+<f2></f2>magar tîrah gardad-sh i (_ _ u, per <f2></f2>gardad-ash _ u x) z-în âbirûy
+(- u -, per <f2>âb-rûy</f2> — —).</p></div>
+                
+<div type="textpart" subtype="note" n="6.150"><p>si scanda: <f2>ćigûnah-st (u _ _, per <f2>ćigûnah ast</f2> u _ u _) i ćihr u ćigûnah-st i yâl</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.153"><p>il
+nome <f2>gîtî</f2> ha qui, sec. l'uso di Firdusi, due preposizioni.</p></div>
+                
+<div type="textpart" subtype="note" n="6.159"><p>e 160 <f2>buvad</f2> (=), non <f2>bûd</f2> (—).</p></div>
+                
+<div type="textpart" subtype="note" n="6.181"><p><f2>u-râ</f2> dat. di <f2>û</f2>, <gloss>egli, ella</gloss>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.185-186"><p><f2>man-îd</f2>, <f2>îd</f2> 2a pers. pl. di <f2>am</f2>, <gloss>io sono</gloss>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.218"><p><f2></f2>v-ar-ân per <f2>u ar</f2>  (per <f2>agar</f2>) <f2>ân</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.220"><p><f2>buvad</f2>, pres. in
+tutti e due i casi.</p></div>
+                
+<div type="textpart" subtype="note" n="6.224"><p>si scanda: <f2>zi-ćarkh i ćahârum khûr âyad-t i (per <f2>âyad-at</f2>) shûy.</f2></p></div>
+                
+<div type="textpart" subtype="note" n="6.232"><p><f2>na-y-arzîd</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.237"><p><f2>-ash</f2>
+dipende da <f2>khvânand</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.240"><p><f2>ma-y-ârîd</f2>, da <f2>âvardan</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.263"><p><f2>buvî</f2>
+(u _) da <f2>bûdan</f2>, 2a pers. sing. pres.</p></div>
+                
+<div type="textpart" subtype="note" n="6.273"><p><f2>mah</f2>, per <f2>mâh</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.282"><p><f2>ki-y-and</f2>, per <f2>kih and</f2>, <gloss>chi sono</gloss>?</p></div>
+                
+<div type="textpart" subtype="note" n="6.290"><p><f2>n-âramîd</f2>, per
+<f2>nah âramid</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.301"><p><f2>-ash</f2> dipende da <f2>âvard</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.318"><p><f2>-ash</f2>
+dipende da <f2>khvânand</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.329"><p>si scanda: <f2>dû ǵâdû-sh</f2> (_ _, per
+<f2>ǵâdû ash</f2>) <f2>i pur khvâb u pur (—) âbi-rûy</f2> (_ u _).</p></div>
+                
+<div type="textpart" subtype="note" n="6.337-338"><p><f2>buvad</f2>, da <f2>bûdan</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.353"><p><f2>-tân</f2> dipende da <f2>bâyad</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.404"><p><f2>bar</f2>
+è postposizione di <f2>sarv i sahi</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.466"><p>si scanda: 
+    <f2>bi-ummîd i ân tâ
+bi-bînad-sh i</f2> (u — — u, per <b2>bi- bînad-ash</b2> u _ u u)  <f2>ćihr</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.467"><p><f2>-ash</f2>,
+dipende da <f2>pîsh</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.476"><p><f2>ast</f2> sottinteso.</p></div>
+                
+<div type="textpart" subtype="note" n="6.494"><p><f2>shud-astî</f2>, per
+<f2>shudah-hastî</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.511"><p><f2>ân-ći-t</f2>, per <f2>ân ćih at</f2>.</p></div>
+                
+<div type="textpart" subtype="note" n="6.601"><p>si scanda:
+<f2>si-didan-sh i (u _ _  u) rûdâbah mi n-âramîd</f2>.</p>
+</div>
+</div>
+</div>
+
+<div type="textpart" subtype="seldction" n="7"><head>VII. SÀM RACCONTA AL RE MINO€IHR COME EGLI ABBIA UCCISO UN DRAGONE SUL FIUME KESHEF.</head>
+    <pb n="114"/>
+    
+        
+        
+        
+    <p>Il racconto che qui fa Sâm (v. il Vocab. e l'Introd.
+        al brano antecedente) del come egli sul fiume Keshef abbia
+        ucciso un dragone, ricorda uno dei più antichi e comuni
+        miti indo-europei, nei quali la lotta celeste tra la luce e
+        le tenebre, tra il sole e l’uragano, vien raffigurata sotto
+        l'apparenza di una battaglia fra un dio o un eroe, cam-
+        pione della luce e del bene, e un dragone o un serpente,
+        rappresentante la nuvola nera e gravida di pioggia.
+        Quello che abbiam già detto di Frêdûn e della sua lotta
+        con Dahâk (v. il brano II dell’ <title>Antologia</title>), si può dire
+        anche qui di Sâm uccisore di un immane serpente.</p>
+        
+        <p>L’<title>Avesta</title>, nel quale Sâm è ricordato sotto il nome
+        di Kerecagpa (v. il Vocab. v. Sâm), ricorda pure questa
+        grandiosa impresa in due punti diversi (yaçna 9, 34—-39
+        e yasht 19, 40). Ecco la traduzione del primo passo
+        che è il più importante. <quote>Il quale (Kereçâçpa) uccise il
+        serpente Çruvara (cioè: <f2>cornuto</f2>), ingoiator di cavalli,
+        ingoiator di uomini, velenoso, di color verdastro, sopra
+        di cui il veleno verdastro cresceva all'altezza di un pollice.
+        Sopra di esso Kereçâçpa si cuoceva il cibo in un vaso
+        di ferro, all’ ora del mezzogiorno. Si bruciò quell’ esizial
+        (<f2>hô mairyô</f2>) <gloss>serpente</gloss> e balzò; s'allontanò dal vaso di ferro
+        (nota lo SPIEGEL, <title>Avesta-Uebersetzung</title>, p. 72, che il serpente
+        doveva essere tanto grande che Kereçâçpa lo dovette
+        scambiare con un tratto di suolo verde), per gettarsi nell’
+        acqua torbida. Alora si ritirò indietro spaventato Kereçâçpa d'animo virile</quote> (cfr. DARMESTETER, Ormazd et
+        Ahriman, p. 213 e segg.)</p>
+        
+        <p>Firdusi ha fatto di questa battaglia di Sâm una
+        descrizione veramente dantesca. Ne abbiamo, oltre a quella
+        francese del Moni, una versione tedesca dello SPIEGEL
+        (<title>Arische Studien</title>, p. 125); una mia traduzione in versi
+        
+        
+        <pb n="115"/>
+
+        
+        italiani trovasi nei miei <title>Racconti epici di Firdusi</title> (p. 507
+        e segg.) e nella mia <title>Antologia Epica</title> (p. 55 e segg.); e le
+        immagini fosche e terribili con le quali Firdusi adorna
+        il suo racconto, ricordano, come giustamente osserva il
+        Brear (<title>Hercule et Cacus</title>, p. 122), le immagini di Esiodo
+        allorquando descrive il serpente Tifone.</p>
+        
+        <p>Per intendere qual posto occupi nella leggenda epica
+        questo racconto di Sâm, si sappia che, avendo egli inteso
+        come Minôcihr si opponesse agli amori di Zâl e di Rûdâbeh
+        (v. il brano antecedente), si determinò a mandare alla corte lo
+        stesso Zâl con una sua lettera per raccomandarlo e cal-
+        mar lo sdegno del re. In questa lettera il prode guerriero
+        ricorda a Minôcihr i suoi meriti, tra i quali è quello
+        certamente di aver liberato il mondo da sì terribile
+        flagello, quale era il serpente del fiume Keshef.</p>
+
+
+
+        <div>
+            <head>NOTE GRAMMATICALI.</head>
+                <div type="textpart" subtype="note" n="7.27"><p>Si legga <f2>rasîdam-sh</f2> (u _ _)
+                    invece di <f2>rasîdam-ash</f2> (u _ u x).</p></div>
+                    <div type="textpart" subtype="note" n="7.31"><p><f2>ash</f2> dipende da 
+                    
+                
+                    
+                    
+                    <pb n="118"/>
+                    
+                    
+                    <f2>dû ćashm</f2>; s'intenda: ambo i suoi occhi.</p></div>
+                    <div type="textpart" subtype="note" n="7.40"><p>Si legga <f2>buvad</f2>, pres.</p></div>
+
+                    <div type="textpart" subtype="note" n="7.45-46"><p>Si legga: <f2>dahân-sh</f2> e <f2>zubân-sh</f2> (u _) invece di 
+                    <f2>dahân-ash</f2> e <f2>zubân-ash</f2> (u _ x).</p></div>
+
+                    <div type="textpart" subtype="note" n="7.49-50"><p>Si legga: <f2>zafar-sh</f2> e <f2>ǵigar-sh</f2>
+                    (u _) per <f>zafar-ash</f> e <f2>ǵigar-ash</f2> (- — 7).</p></div>
+                    <div type="textpart" subtype="note" n="7.31"><p>72, am<f2></f2>, dipende da
+                    <f2>bud</f2> (u) per <f2>bûd</f2> (_).
+                    </p></div></div>
+</div>
+
+<div type="textpart" subtype="selection" n="8"><head>VIII. NASCITA DI RUSTEM.</head>
+
+    <p>Dopo molti contrasti e dopo molta resistenza da
+        parte di Minôcihr e di Sâm (v. il capo VI di quest’
+        Antologia), dopo che Zâl alla corte del primo, in presenza
+        dei sacerdoti, ha sostenuto una specie di esame ed è
+        riuscito felicemente nella prova, viene stabilito il connubio
+        di Zâl con Rùdabeh figlia di Mihràb, e le nozze vengono
+        celebrate con grandissima pompa. Ciò però che deter-
+        mina tanto il re quanto il padre di Zal a dare il richiesto
+        assenso a quelle nozze, si è la predizione fatta a Minôcihr
+        dai sacerdoti, che intanto per suo incarico avevano con-
+        sultato gli astri, di un grande eroe che doveva nascere
+        da Zâl e da Rùdàbeh, e che sarebbe stato la gloria più
+        splendida e il più valido difensore della corona dell’ Iran.
+        Questo grande eroe era Rustem, del quale si descrive la
+        nascita nel seguente racconto.</p>
+        
+        <p>Per intender meglio alcuni particolari del racconto
+        che segue, si noti che Zâl, padre di Rustem, quand’ era
+        fanciullo ed era allevato sull’ Alburz dal Sîmurgh (v. il
+        capo VI di quest’ Ay/o/ogta) ebbe da lui in dono una penna
+        delle sue ali con l'avviso di gettarla nel fuoco quando
+        egli si fosse trovato in un gran pericolo. Zâl, al momento
+        del parto di Rùdàbeh, che fu faticosissimo, segue il pre-
+        cetto del Simurgh che tosto accorre in suo aiuto.</p>
+
+        <div>
+            <head>NOTE GRAMMATICALI.</head>
+                <div type="textpart" subtype="note" n="8.15"><p>
+
+                   <f2>âmad-ast-am</f2>; <f2>am</f2> è pron. sufî.
+
+di 1a pers. s'intenda: <gloss>è a me venuto</gloss>. 
+</p></div>
+
+<div type="textpart" subtype="note" n="8.21"><p>
+Si divida: <f2>bi-sang-ast-ash</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="8.22"><p>Si legga <f2>darû-st</f2>, per <f2>dar û ast</f2>, <gloss>è dentro di esso</gloss>. </p></div>
+
+<div type="textpart" subtype="note" n="8.35"><p>
+<pb n="126"/>
+<f2>ash</f2> dipende da <f2>âmad</f2>. </p></div>
+
+<div type="textpart" subtype="note" n="8.41"><p>Si legga bdrdn-sh i (- — —)
+per bérdn-ash (-—7) e buvad (- =) per béd (—) in questo e nel
+verso seguente. </p></div>
+
+<div type="textpart" subtype="note" n="8.50"><p><f2>n-yârad</f2> da <f2>yâristan</f2>, non <f2>na-y-ârad</f2>, da
+<f2>âvardan</f2>, e si legga <f2>gudhashian-sh i abr</f2> (- — —— —) per <f2>gudhashtan-ash abr</f2> (u _ u u n_). </p></div>
+
+<div type="textpart" subtype="note" n="8.53"><p>k-âvâz, per <f2>kih âvâz</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="8.77-78"><p>Si legga <f2>khastagî-sh</f2> e <f2>rastagî-sh</f2> (_ u _) per <f2>khastagiy-ash</f2> e <f2>rastagiy-ash</f2> (_ u u x); <f2>bi-y-âlây</f2>, imperativo di <f2>âlûdan</f2>. </p></div>
+
+<div type="textpart" subtype="note" n="8.84"><p>Si legga
+<f2>bi-shgufânad-t i bakht</f2> (_ u _ _ u _) per <f2>bi-shigufânad-at bakht</f2>
+(_ u _ _ u _)</p></div>
+
+<div type="textpart" subtype="note" n="8.99"><p><f2>ash</f2> dipende da <f2>âvarîd</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="8.154"><p><f2>mânad</f2>
+
+da <f2>mânistan</f2>, pres., non da <f2>mândan</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="8.184"><p>Sì legga <f2>zindagânî-sh</f2>
+(_ u _ _) per <f2>zindagâniy-ash</f2> (_ u _ u u)</p></div>
+
+<div type="textpart" subtype="note" n="8.193"><p>Si legga di
+<f2>shâdi-sh</f2> (u _ _) per <f2>bi-shâdiy-ash</f2> (u _ u x).</p></div>
+
+<div type="textpart" subtype="note" n="8.207"><p><f2>yal-asti</f2>,
+
+da <f2>yal hast</f2>, con la terminazione <f2>î</f2> di cui parla la Grammatica, 70.
+                </p>
+
+                    </div></div>
+</div>
+
+<div type="textpart" subtype="selection" n="9">
+<head>IX. RUSTEM SI RECA AL MONTE ALBURZ PER RINTRACCIARVI IL RE KOBAD.</head>
+    
+    
+    <p>Il re Minôcihr, dopo aver vendicata la morte di
+        Eraǵ (v. i capi antecedenti), salito al trono alla morte di
+        Frêdûn, ebbe regno tranquillo, e i principali avvenimenti
+        del suo regno, furono gli amori di Zâl e di Rùdabeh e
+        la nascita di Rustem (v. i capi VI e VIII). Egli morì
+        dopo cento vent’ anni di regno, lasciando al figlio Nevder
+        (nell’<title>Avesta</title> detto Naotara?) il trono.</p>
+        
+        <p>Il re Nevder si mostrò ben tosto diverso assai dai
+        gloriosi suoi antecessori; dice il Z20rx0 dei Re che egli
+        si occupava soltanto del bere e del mangiare e del dor- .
+        mire, e che Zal, chiamato dal Nîmrùz in fretta dai
+        principi scandalizzati della condotta del re, tentò invano
+        con savi consigli di fargli mutar costume. I. Turani
+        intanto, questi eterni nemici degli Irani, approfittarono
+        del momento favorevole e invasero l’Iran, violando i
+        confini loro imposti da Minôcihr, sotto la guida di Afrâsyâb
+        bellicoso figlio di Pesheng, loro signore. Pesheng di-
+        scendeva da Tûr, da quel Tûr, figlio di Frèdàn, uccisore
+        di Eraǵ, stato poi ucciso da Minôcihr in pena del suo
+        misfatto; nè egli poteva dimenticar l’onta arrecata alla sua
+        
+        
+        <pb n="127"/>
+     
+        
+        casa con la morte del suo progenitore, ricordando sempre
+        che il re Frêdûn, nel dividere il regno, aveva fatto torto
+        a Tûr e a Salm, suoi figli maggiori, per favorir di troppo
+        il figlio minore Eraǵ, da lui prediletto (v. l'Zrtroduzione al
+        c. IV). Afràsyab, eccitato così dal padre alla riscossa, viene
+        a battaglia con gli Irani, ma Nevder è fatto prigioniero
+        dopo molte traversie, e poi ucciso miseramente da lui. Zâl
+        allora fa proclamar re il prode Zav figlio di Tahmâsp, detto
+        Uzava nell’ Avesta, al quale dopo breve regno succede
+        Ghershâsp. Il regno di Ghershâsp è inerte e debole, e
+        Afrâsyâb minaccia nuovamente ai confini. Zâl e Rustem
+        comprendon bene che bisogna omai proclamare un re
+        che abbia vigore ed energia. Tûs e Gustehem, figli di
+        Nevder, sono valorosi e forti; ma l'aureola luminosa (in
+        pers. 3 farr) che cinge il capo dei re Irani, non si è
+        posata fai loro capo, essa invece è trasvolata al monte
+        Alburz per adornar di sè il capo di Kobâd. Bisogna
+        adunque ricondurre nell’ Iran da quei luoghi alpestri il nuovo
+        re, e Zâl, dopo essersi consigliato coi sacerdoti, spedisce
+        in fretta il figlio suo Rustem, fornito d'armi e scorto dal
+        suo celebre destriero Rakhsh, al monte Alburz per
+        rintracciare il. nuovo eletto. Il viaggio di Rustem e il
+        suo incontro con Kobâd sono il soggetto del racconto
+        che segue. — Così col re Kobâd succede nel trono al-
+        l'antica famiglia dei Péshdàd la famiglia dei Kay, di cui
+        abbiam fatto qualche cenno nell’ Introduzione posta a
+        capo di questa <title>Antologia</title> (cfr. SPIEGEL, Erân. Alterth. I,
+        p. 581 e segg.).</p>
+        
+    <p>È questo il punto di dir qualche cosa di Afrâsyâb. —
+        Questo re del Turan, detto nell’ Avesta Fraùrasyan (sec.
+        lo SPIEGEL, Avesta- Uebersetzung, II, p. LXIII, da una rad.
+        hrag, spaventare, cfr. pers. el,» Airds, terrore), è la
+        copia terrena, si può dire, di Ahrîmane. Come Ahrîmane
+        (cfr. Vendidéd, I) non fa nulla di proprio moto, ma tutto
+        opera per fare una opposizione (z. faztyàra) ad Ormuzd,
+        
+        
+        <pb n="128"/>
+      
+        
+        svelando così inconsapevolmente la sua inferiorità, così
+        Afrâsyâb non muove mai guerra agli Irani se non quando
+        questi, o per qualche pubblica sventura o perchè il trono
+        è vacante, si trovano deboli e indifesi. Quando invece
+        gli Irani sono abbastanza forti, egli se ne sta quieto e
+        tranquillo nel suo regno, e solo prende le armi, per poi
+        ritirarsi spaventato e scornato, quando qualche eroe iranio,
+        Rustem più di tutti, viene a disturbarlo nel suo ozio
+        forzato. L’inferiorità sua poi di fronte ai re Irani è
+        espressa anche dall’ Avesta in quel meraviglioso mito,
+        secondo il quale questo re nemico si tuffò più volte nel
+        lago Vourukasha per ottener la maestà reale nascosta in
+        quelle acque e propria dei re Irani; ma essa gli sfuggì
+        per tre volte, aprendosi nuove vie di scampo, nè lasciandosi
+        prender da lui quand' egli, deposte le vesti, le correva
+        dietro gridando (yaskf 19, 56—64).</p>
+        
+        <p>Vedremo nel seguito di quest’ <title>Antologia</title> molte
+        altre opere ‘di questo nemico degli Irani e la sconfitta e
+        la morte che gli toccarono in pena delle sue colpe.
+        </p>
+
+        <div>
+            <head>NOTE GRAMMATICALI.</head>
+                <div type="textpart" subtype="note" n="9.8"><p><f2>gah u bî-gah</f2>, <gloss>di mattina e di sera</gloss>,  v. il Voc.</p></div>
+
+<div type="textpart" subtype="note" n="9.20"><p><f2>yakî gurzah</f2>, ecc., è come in abl. assol.: <gloss>avendo in mano una clava</gloss>, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="9.24"><p>nel braccio molti diventarono
+                    senza vigore e senza potenza.</p></div>
+
+<div type="textpart" subtype="note" n="9.32"><p>si legga <f2>gav-î</f2>, <gloss>un eroe</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="9.34"><p>fino ai confini (<f2>dar</f2>) del re (d'Irania).</p></div>
+
+<div type="textpart" subtype="note" n="9.44"><p>Rustem andò
+                    innanzi, cercando il re dell’ Iran (Kobâd), finchè non gli restava che
+                    un miglio di strada per arrivare al monte Alburz.</p></div>
+
+<div type="textpart" subtype="note" n="9.49"><p>
+                    <f2>bi-nihâdah</f2> (per il verso <f2>bi-nhâdah</f2>, — — u), <gloss>che aveva posto</gloss>, si riferisce
+                    al <f2>nav-ǵuvân</f2> di sopra che è Kobâd; così si traducono molti di
+                    questi part. passati.</p></div>
+
+                    <div type="textpart" subtype="note" n="9.60"><p> <f2>ǵâ-t</f2> per <f2>ǵâ-at</f2>, <f2>at</f2> dipende da <f2>skâyad</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="9.64"><p><f2>nâm-var</f2> va riferito a Rustem.</p></div>
+
+<div type="textpart" subtype="note" n="9.82"><p><f2>bi-hangâm yârî</f2>..., <gloss>nell’
+    occasione opportuna recheremo a te molto aiuto</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="9.87"><p><f2>dihid-am</f2>, <gloss>datemi</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="9.92"><p><f2>khvad</f2> va riferito a Rustem, al quale è anche
+                    rivolto il discorso.</p></div>
+
+<div type="textpart" subtype="note" n="9.107"><p>per <f2>pahlavân</f2>, <gloss>eroe</gloss>, qui s'intende
+                    Zâl.</p></div>
+
+<div type="textpart" subtype="note" n="9.132"><p><f2>ham-at bâd</f2>, <gloss>sia a te</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="9.136"><p>per <f2>gûyandah</f2>
+                    (<gloss>parlante</gloss>) qui s'intende la lingua.</p></div>
+
+<div type="textpart" subtype="note" n="9.153"><p>si levò un suono dal
+                    cuore della corda acuta e della bassa (per dire un suono di
+                    strumenti diversi); molteplice fu la gioia, minore (cioè nulla) il do-
+                    lore.</p></div>
+
+<div type="textpart" subtype="note" n="9.155"><p>quando fu fatto un giro di vino purpureo (cioè:
+                    
+                    
+                    <pb n="137"/>
+                  
+                    
+                    quando furono fatte girare una volta le tazze).</p></div>
+
+<div type="textpart" subtype="note" n="9.168"><p><f2>rasîd-am</f2>,
+    <gloss>venne a me</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="9.172"><p><f2>payghambarân</f2>, <gloss>nunzi</gloss>; qui s'intendono i principi
+                    che hanno mandato Rustem in cerca di Kobâd.</p></div>
+
+<div type="textpart" subtype="note" n="9.187"><p>abl.
+                    assol.: quando vi son io e Rakhsh e la clava e la gualdrappa.</p></div>
+
+                    <div type="textpart" subtype="note" n="9.191-192"><p>con questa mano e il cavallo sotto di me, chi verrà contro
+                    la clava e la spada mia?</p></div>
+
+<div type="textpart" subtype="note" n="9.201"><p>Kalûn vide un Dêvo (Rustem)
+                    sfuggito ai ceppi. Tahmûras, uno dei primi re, aveva incatenati i
+                    Dêvi.</p></div>
+
+<div type="textpart" subtype="note" n="9.207"><p><f2>nâm-dâr</f2> si riferisce a Rustem.</p></div>
+
+<div type="textpart" subtype="note" n="9.236"><p><f2>bar</f2>, <gloss>presso</gloss>.                 
+                    
+</p></div></div>
+
+</div>
+
+<div type="textpart" subtype="selection" n="10"><head>X. BATTAGLIA DEL RE RAVUS E DI RUSTEM COI DÉVI DEL
+    MAZENDERAN.</head>
+    <p>
+        
+        
+        Il regno di Kobâd durò cent’ anni, e fu allietato da
+        una pace conchiusa tra lui e il re dei Turani, Pesheng,
+        ad istigazione del figlio di quest’ ultimo, Afrâsyâb (v. il
+        c. antecedene), spaventato dai prodigi di valore di Rustem.
+        Il re:Kobâd ebbe quattro figli, e il primo che fu Kâvus
+        (nell’<title>Avesta</title> Kava Ugan), gli successe nel regno, alla
+        sua morte.</p>
+        
+        <p>Kâvus ci è descritto dall’ Epopea come un re
+        presuntuoso e vanitoso, e di tale ‘indole sua diede
+        sufficiente prova allorquando, udendo da un Dêvo, tra-
+        sformato in gentil cantore, far le lodi del Mâzenderân,
+        volle tentar la conquista di quel paese abitato da Dêvi,
+        a dispetto dei principi del regno, e di Zâl specialmente,
+        che volevano distoglierlo dall’ arrischiata impresa.</p>
+        
+        <p>Il Mâzenderân, detto nell’ Avesta Màzana, è la
+        provincia che si stende lungo il Mar Caspio dalla parte
+        meridionale, e che, secondo la .leggenda epica, era un
+        tempo abitata da Dêvi, sotto i quali va indubbiamente
+        intesa una popolazione barbarica che anticamente abitava
+        quei luoghi. La descrizione stessa che Firdusi fa del
+        loro re, come si vedrà nel racconto che segue, sembra
+        confermarlo; aveva infatti quel re il pelo crespo, le zanne
+        sporgenti dal labbro e il capo aguzzo e ritratto indietro;
+        e recenti scavi fatti nel Mazenderân fecero scoprire
+        
+        
+        <pb n="138"/>
+    
+        
+        alcuni scheletri giganteschi che avevano il capo aguzzo
+        e i denti lunghi quanto le più piccole giunture del dito
+        mignolo. A confermar poi la credenza che quei luoghi
+        fossero abitati da Dêvi, s'aggiunge anche la circostanza
+        della grande abbondanza di sorgenti di nafta in quei
+        luoghi, le quali spesse volte di notte s’incendiano. Gli
+        antichi raccontarono già di aver veduto in fiamme il
+        Mar Caspio; ciò che non poteva avvenire se non per tali
+        sorgenti che dalle rive circostanti si erano sparse sulla
+        sua superficie; e questo fenomeno si rinnovò alcuni anni
+        fa, come si vide dai giornali che ne davano notizia. Di
+        questo paese pertanto che si. credeva abitato da Dêvi,
+        imprende la conquista il re Kâvus, il quale, accecato poi
+        e incatenato da essi, riesce a stento a mandare a chieder
+        soccorso a Zâl e al prode suo figlio. Rustem, incontrando
+        mille pericoli per la via detta delle <emph>Sette auventure</emph> (in
+        pers. <f>هفت خوان</f> <f2>haft khvân</f2>), accorre in suo aiuto, lo
+        libera e gli rende la vista col sangue del fegato del
+        Dêvo Bianco ch’ egli aveva ucciso. Il Re del Mazenderân,
+        quantunque Kâvus gli intimi più volte la resa, si rifiuta
+        costantemente di sottomettersi, e s' impegna quindi tra
+        le sue schiere e gli Irani la terribile battaglia, descritta
+        nel seguente capo.</p>
+        
+        <p>L’<title>Avesta</title> conosce una classe di Dêvi detti m4zazaya o
+        del Mazenderân; ma non dice nulla di questa spedizione
+        del re Kâvus contro di essi È fuor di dubbio però
+        che questa leggenda sia molto antica e importante
+        (SPIEGEL, Erdw. Alterth. L p. 591).</p>
+        
+        <p>Per intender meglio il testo che segue, si noti che
+        Rustem si era recato dal Re del Mâzenderân con una
+        lettera di Kâvus per intimargli la resa. Riuscito vano
+        quel tentativo, i due eserciti si preparano a combattere.
+
+
+    </p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="10.5"><p>s'intenda: Quando la polvere dell’
+                esercito si sollevò dal mezzo <emph>di esso</emph>, il color del sole (lo splendore)
+                sì oscurò.</p></div>
+
+<div type="textpart" subtype="note" n="10.10"><p>non cercò alcun indugio (<f2>zamân</f2>, <gloss>tempo</gloss>) nel
+                tempo del camminare.</p></div>
+
+<div type="textpart" subtype="note" n="10.24"><p>questi eroi (Gûderz e Keshvâd)
+                erano come un monte di ferro riuniti insieme.</p></div>
+
+<div type="textpart" subtype="note" n="10.31"><p>aveva nome
+    Ǵûyâ e cercava (<f2>ǵûyandah</f2>) nome, cioè gloria; — giuoco di parole tra
+                <f2>ǵûya</f2> e <f2>ǵûyandah</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="10.33"><p>col permesso del Re (del Mâzenderân).</p></div>
+
+<div type="textpart" subtype="note" n="10.49"><p>solo (ya4î) Rustem volse le briglie.</p></div>
+
+<div type="textpart" subtype="note" n="10.51"><p>dicendo (sottint.);
+                <f2>shahriyâr</f2> è vocativo.</p></div>
+
+<div type="textpart" subtype="note" n="10.64"><p>il nome tuo è via cancellato dai somi
+                degli eroi.</p></div>
+
+                <div type="textpart" subtype="note" n="10.67-68"><p>ti piangerà (<f2>bi-giryad</f2> u — —) quella che ti ha
+                partorito; ti avrebbe ella allevato se fosse stata la <emph>tua</emph> danneggiatrice?
+                (cioè: se avesse saputo che allevandoti ti avrebbe allevato per morir
+                
+                qui per mano mia, avrebbe ella fatto ciò?).</p></div>
+
+<div type="textpart" subtype="note" n="10.87"><p><f2>ash</f2> dipende
+                da <f2>andâkht</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="10.90"><p>si legga <f2>mânidand</f2> (- u —) invece di <f2>mândand</f2>
+                (_ _)</p></div>
+
+<div type="textpart" subtype="note" n="10.157"><p>eran cancellati dai volti loro il pudore, la cortesia
+                e l'amore.</p></div>
+
+<div type="textpart" subtype="note" n="10.175"><p><f2>ǵihân-ǵûy</f2> è Rustem.</p></div>
+
+<div type="textpart" subtype="note" n="10.191"><p>soggetto
+                
+                è il Re del Mâzenderân, come è dimostrato dal senso. S’intenda:
+                per forza di magia il suo corpo diventò un pezzo di pietra.</p></div>
+
+<div type="textpart" subtype="note" n="10.205"><p>era a me tale opinione che (cioè: io pensava che); l’<f2>am</f2> di
+                <f2>gumân-am</f2> dipende da dud, cioè <f2>bûd</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="10.209"><p><f2>ash</f2> dipende da <f2>burd</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="10.216"><p><f2>miyânah darûn</f2> fa come da avverbio: <gloss>dentro, nel mezzo</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="10.222"><p><f2>dar</f2> è prep. che qui non si traduce; compie soltanto la
+                relazione espressa da <f2>pas i pusht i</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="10.228"><p><f2>bi-gardi</f2>, 2a pers.
+                sing. pres. di <f2>gashtan</f2>, ti togli.</p></div>
+
+                <div type="textpart" subtype="note" n="10.231-232"><p>quando udì (sogg.
+                il Re del Mâzanderân), diventò come un lembo di nube (la pietra in cui
+                stava nascosto il Re del MAz., si convertì in nebbia); sul suo capo
+                <emph>splendeva</emph> l'acciaio <emph>dell’ elmo</emph> e sul suo corpo la corazza.</p></div>
+
+<div type="textpart" subtype="note" n="10.241"><p>il re Kâvus si rammenta di quanto il Re del Mâzanderân gli aveva fatto
+                soffrire (v. l’Introduzione).</p></div>
+
+<div type="textpart" subtype="note" n="10.256"><p><f2>bi-vîzkah kasi kih</f2>, ad ogni
+                fedele che. . .</p></div>
+
+<div type="textpart" subtype="note" n="10.260"><p><f2>ǵâyî</f2>, avv.: in un luogo.</p></div>
+
+<div type="textpart" subtype="note" n="10.266"><p>la
+                mia fortuna vecchia (decaduta) hai tu ora ringiovanita.</p></div>
+            </div>
+</div>
+
+<div type="textpart" subtype="selection" n="11">
+
+
+    <head>XI. VOLO AEREO DEL RE KAVUS.</head>
+    
+    <p>
+
+    <pb n="149"/>Compiuta la conquista del Mâzenderân, come abbiamo
+visto nel capo antecedente, il re Kâvus si prepara ad
+una nuova guerra, a quella cioè contro il Re del-
+l'Haàmàveràn (nel qual nome lo SPIEGEL, Altpers. Keslinschr.
+p. 223, vorrebbe riconoscere l’Humavarka dell’ Iscrizione
+del re Dario) e contro i re d'Egitto .e dei Berberi.
+Vinto il Re dell’ Haàmàveràn, egli ne fa chiedere in
+isposa la figlia Sùdaàbeh, che gli viene concessa dal padre,
+quantunque a mala voglia. Ma il vinto re vuol vendicarsi;
+e però fa prendere a tradimento il re Kâvus in un con-
+vito e lo chiude in un tetro carcere, laddove è poco
+stante mandata anche Sùdabeh. Intesa tale novella,
+Afrâsyâb (v. l'Zrtrod. al c. IX) ne trae profitto per
+sollevare il capo e violare i confini dell'Iran; ma Zâl e
+Rustem, ai quali gli Irani ricorrono in così gran pericolo,
+pensano che, prima di opporsi ai progressi di Afrâsyâb,
+convien liberare il re. Così Rustem si reca nel-
+l'Hàmàveràn, e, sconfitto quel principe, rende Kâvus a
+libertà, che tosto, con l'aiuto di Rustem, ricaccia Afrâsyâb
+ne’ suoi confini.</p>
+
+<p>Ma la prosperità soverchia inebria e gonfia il re
+Kâvus. Egli vuol fabbricarsi un palazzo sul monte Alburz,
+dove sia raccolta ogni delizia, e poscia desidera anche di
+più; desidera regnare anche in cielo, e imprende un volo
+aereo, come si vedrà dal racconto che segue. A questo
+punto noi tocchiamo uno dei più antichi miti indo-europei.</p>
+
+<p>La leggenda di un uomo, celebre per i suoi lavori
+ingegnosi, che con i suoi artifici sa levarsi a volo nel-
+l'aria, è comune agli Indiani, agli Irani, ai Greci e alle
+stirpi teutoniche. Incontrasi infatti nei Veg una oscura
+allusione ad un Kavya Uganas (cfr. 2. Kava Ugan e
+pers. Kâvus), il cui genero a cagione della sua superbia
+
+
+<pb n="150"/>
+
+
+precipitò dal cielo (SPIEGEL, Erân. Alterth. I, p. 441).
+Nella mitologia greca tutti conoscono il viaggio aereo di
+
+Dedalo; e nella germanica è ben nota la storia di
+Vélundr, come lo chiama l’<title>Edda</title>, o di Wieland il fabbro
+ferraio, come lo dicono i Tedeschi, che, dopo. essersi
+vendicato del re Nidudr, si levò a volo lasciando scornato
+e dolente il suo nemico (Vülundarkvidha, in Simrock,
+Die Edda, p. 132). Tanto poi il Vòlundr o Wieland
+germanico quanto il Dedalo dei Greci, sono rinomati per
+la loro abilità in lavorar metalli e in preparar qualunque
+sorta di ordigno artificioso. Ora anche questi tratti,
+indubbiamente i più antichi della leggenda, ci sono stati
+conservati da Firdusi; gli altri fatti che questo poeta
+racconta di Kâvus, sembrano più propriamente essersi svolti
+nella fantasia soltanto del popolo iranico. Vediamo ora
+in qual maniera Firdusi ci abbia conservata quella più
+antica parte di leggenda.</p>
+
+<p>Premettiamo che l'Avesta non ci ricorda nulla del
+volo di Kava Ugan (è questo il nome zendo corrispondente
+al Kâvus di Firdusi), e che il Buxdehesk sembra accennarvi
+con le seguenti parole, che però potrebbero essere prese
+anche in altro senso: «finchè egli (Kâvus) salì al cielo»
+(Bund. p. 81). Ma in Firdusi l'abilità di Kâvus nei
+lavori artificiosi e il suo volar pel cielo gli sono attribuiti
+a colpa, e quest’ ultima impresa specialmente ad effetto
+di pazzia, mentre tutto ciò forma la gloria di Véòlundr e
+di Dedalo. Già lo stesso Firdusi non può celare il suo
+stupore al pensare che un re così potente dovesse
+costringere i Dêvi a lavorar per lui, a fabbricargli un
+palazzo sul monte Alburz, laddove doveva essere sempre
+primavera e il giorno non doveva mai crescere nè la
+notte diminuire (p. 297, ed. Calc... Anche in altre
+leggende popolari ritroviamo i demoni costretti o da
+maghi o da principi a fabbricar palazzi incantati; ma
+qui, secondo la dottrina del Mazdeismo, il valersi
+
+
+<pb n="151"/>
+
+
+dell’opera dei Dêvi, creature di Ahrîmane e abitatori delle
+tenebre, non poteva esser riguardato che come opera
+empia; onde s'intende come Firdusi, al cominciar della
+descrizione del palazzo, si volga al lettore con queste
+parole: «Vedi ora qual cosa fece quel re, che operava
+di proprio capo» (p. 297, ed. Calc.; così intendo il
+)Sui3 4hvîshkàr del testo, diversamente inteso dai
+Vocab."; cfr. phl. 44Avéskkér, qui agit par soi, HARLEZ).
+Ma il voler salire al cielo, negato agli uomini fin che
+sono in terra, agli occhi dei seguaci del Mazdeismo è
+come un voler sforzare l'impossibile, un violar le leggi
+del Creatore, un usar delle arti di magia, tanto abborrite
+dagli Irani perchè proprie di Ahrîmane e de’ suoi Dêvi.
+In tal maniera si dovette trasformare sul suolo iranico
+quest’ antica leggenda indo-europea.</p>
+
+<p>Per intender meglio il seguente racconto, si noti che
+esso incomincia allorquando i Dêvi sono stanchi delle
+fatiche che il re Kâvus loro impone, e delle battiture
+ch’ egli loro dà per mercede. E già Iblis, uno di essi,
+propone di vendicarsi col far credere al re che egli è
+destinato a dominar nel cielo.
+</p>
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="11.7"><p>S'intenda: potrà avvenire che
+            egli svii l'anima di Kâvus.</p></div>
+
+<div type="textpart" subtype="note" n="11.23"><p>
+<f>în farr î zîbây i tû</f> s'intenda
+            come avverb.te, cioè: <gloss>per questa tua bella maestà</gloss>, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="11.26"><p>
+sei
+            pastore e i tuoi’ principi sono la tua greggia.</p></div>
+
+<div type="textpart" subtype="note" n="11.29"><p>
+<f2>mând-ast</f2>
+            per <f2>mândah ast</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="11.38"><p>
+s'intenda: l’anima sua fu allontanata dal
+            riflettere; se Kâvus avesse un poco riflettuto, avrebbe intesa la frode
+            del Dêvo.</p></div>
+
+<div type="textpart" subtype="note" n="11.43"><p>
+<f2>ash</f2> si riferisce a <f2>îzad</f2>, <gloss>Dio</gloss>, del verso antecedente;
+            s'intenda: i mortali (<f2>bî-ćârah</f2>, <grc>οἱ ἄποροι</grc>, <gloss>quelli che son privi di
+                sostegno</gloss>) sono sotto il suo comando, essi che sono <emph>afflitti</emph> da tur-
+            bamenti, da guerre e dalle opere di Ahrîmane (v. il Voc. v. <f2>patyârah</f2>).
+        </p></div>
+
+        <div type="textpart" subtype="note" n="11.45-46"><p>Iddio non ha bisogno di nulla, ma per te, O uomo,
+            son necessari il cielo e la terra. È un pensiero del Poeta intromesso
+            nella narrazione.</p></div>
+
+<div type="textpart" subtype="note" n="11.55"><p>
+e ne lasciassero uno <add>o</add> due in ogni casa
+            (per farli allevare).</p></div>
+
+<div type="textpart" subtype="note" n="11.63"><p>
+ad ogni suo lato (del trono) furono
+            raccomandate lunghe aste.</p></div>
+
+<div type="textpart" subtype="note" n="11.81"><p>
+intorno a ciò vi sono dicerie
+            di ogni sorta.</p></div>
+
+<div type="textpart" subtype="note" n="11.84"><p>
+così avviene di colui cui prende l’ambi-
+            zione.</p></div>
+
+<div type="textpart" subtype="note" n="11.91"><p>
+il fato per miracolo non l’uccise, perchè molte cose
+            future egli (il fato) serbava nascoste; Siyâvish infatti (v. più innanzi)
+            doveva nascere da Kâvus.</p></div>
+
+<div type="textpart" subtype="note" n="11.94"><p>
+bisognava che Kâvus non
+            morisse, ma ancora per un poco bevesse e mangiasse, cioè vivesse.</p></div>
+
+<div type="textpart" subtype="note" n="11.95"><p>
+in luogo di, invece di grandezza e trono per sedervi, ebbe
+            Kâvus pentimento e dolori, ecc.</p></div>
+
+</div>        </div>
+
+<div type="textpart" subtype="selection" n="12">
+
+
+    <head>XII. BATTAGLIA DEI SETTE EROI CON AFRASYÀB.</head>
+
+
+    <p>Il racconto che segue, non ha molta relazione col
+soggetto principale del <title>Libro dei Re</title> che è la gran guerra
+tra Irani e Turani, ma più propriamente dovrebbe chia-
+marsi un episodio.</p>
+
+<p>Sette eroi irani, fra i quali Rustem, si recano un
+giorno a caccia nei parchi di Afrâsyâb, e quivi, dopo
+molta preda, si mettono a cena, mentre Gurâzeh si pone
+in guardia per vedere se Afrâsyâb venisse mai a impedire
+che gli Irani vadano a caccia nei suoi giardini. Afrâsyâb
+infatti è avvertito di ciò, e accorre con numeroso esercito.
+Gurâzeh ne dà l'avviso a Rustem; ma Rustem che stava
+bevendo, non se ne dà per inteso e seguita a bere
+scherzando e ridendo, non senza scandalo degli altri eroi;
+
+
+<pb n="156"/>
+
+
+ma poi si riscuote all'improvviso, corre contro il nemico,
+e dopo una delle più grandiose battaglie che ci descriva
+l'Epopea di Firdusi, lo mette in fuga.</p>
+
+<p>Evidentemente quest’ episodio è introdotto per far
+risaltare il valore di Rustem; egli infatti sembra dapprima
+incerto e non curante, per poi riscuotersi e far più assai
+di quello che si richiede da lui.
+    </p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="12.7-8"><p>in <f2>kuǵâ</f2> e <f2>bi-dân-ǵâ</f2>, è ripetuta
+                l'espressione: <gloss>in quel luogo che ...; laddove</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="12.23"><p>
+<f2>bi-mastî</f2>,
+                per l’ubriachezza, essendo cioè ubriaco.</p></div>
+
+<div type="textpart" subtype="note" n="12.28"><p>
+l’apodosi è con
+                <f2>bi-pûshim</f2>, <gloss>noi copriremo</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="12.50"><p>
+in quel piano le gazzelle e i capri
+                avevano formato (erano diventati, <f2>gashtah</f2>, cfr. <grc>γενόμενος</grc>) uno stuolo.</p></div>
+
+<div type="textpart" subtype="note" n="12.54"><p>
+soggetto di <f2>gasht</f2> (sing.) è <gloss>cacciatori</gloss> sott.</p></div>
+
+<div type="textpart" subtype="note" n="12.78"><p>
+ si
+                riferisce a <f1>ṭilâyah</f1>.</p></div>
+
+<div type="textpart" subtype="note" n="12.123"><p>
+<f2>ash</f2> qui fa come da soggetto.</p></div>
+
+<div type="textpart" subtype="note" n="12.130"><p>
+togliti di qui con questa tua allegria; cioè lascia i godimenti,
+                poichè si avvicina il pericolo.</p></div>
+
+                <div type="textpart" subtype="note" n="12.132"><p>è una sola la grandezza dell’esercito e della pianura, cioè l’esercito la ricopre tutta quanta.</p></div>
+
+<div type="textpart" subtype="note" n="12.161"><p>
+gli eroi dissero: per noi non v’ è alcun luogo con questo
+                bicchier di vino (a noi non conviene star qui bevendo, mentre è
+                vicino il nemico); Iblîs (il genio del male) non può resistere a
+                te, o Rustem, nel vino (non ti uguaglia nel bere). Nessuno fuor di
+                te può avere in mano (alla lett.: gli vengono in mano) il vino e
+                la clava di un sol colpo (v. il Vocab.) nè <add>può star</add> nella palestra della
+                
+                
+                <pb n="176"/>
+                
+                guerra (godere cioè e combattere).</p></div>
+
+<div type="textpart" subtype="note" n="12.185"><p>
+es4 è soggetto.</p></div>
+
+<div type="textpart" subtype="note" n="12.219-220"><p>cominciò <add>a rovesciare</add> su quell’ eroe una pioggia di
+                freccie, <add>onde</add> occupò l’aria come una nuvola di primavera.</p></div>
+
+<div type="textpart" subtype="note" n="12.264"><p>
+io e Ghêv e i Turani siamo una turba bastante (noi due
+                soli contro i Turani).</p></div>
+
+<div type="textpart" subtype="note" n="12.266"><p>
+<f2>zanân-and</f2>, <gloss>sono donne i Turani</gloss>,
+                cfr. Hom. Iliad. II, 235, <grc>Ἀχαίδες οὐκέτ᾽ Ἀχαοιἰ</grc>; e Virg. Aeneid.
+                IX, 616.</p></div>
+
+<div type="textpart" subtype="note" n="12.276"><p>
+at dipende da <f2>bi-bâyad</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="12.299"><p>
+<f2>shâh</f2> si
+                riferisce ad Afrâsyâb.</p></div>
+
+<div type="textpart" subtype="note" n="12.407"><p>
+<f2>dilâvar</f2> si riferisce a Pîlsem.</p></div>
+
+<div type="textpart" subtype="note" n="12.435"><p>
+egli (Alkûs), quand’ era ubriaco, cercava pure Ghêv per
+                combatter seco, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="12.480"><p>
+avresti detto che gli uscisse dal
+                corpo il cuore (per il timore, per il forte palpitare).</p></div>
+
+<div type="textpart" subtype="note" n="12.517"><p>
+<f2>gashtan</f2>, <gloss>volgersi, muoversi</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="12.532"><p>
+<f2>ash</f2> si riferisce ad Afrâsyâb.</p></div>
+
+<div type="textpart" subtype="note" n="12.557"><p>
+nessuno sciolse la persona agli uccisi, cioè nessuno frugò sul
+                corpo degli uccisi per far preda.</p></div>
+
+<div type="textpart" subtype="note" n="12.580"><p>
+<f2>zi-bâlâ</f2>, da principio (?);
+                <foreign xml:lang="fra">les temps anciens</foreign> (MOHL).
+                
+            </p></div></div>
+</div>
+
+<div type="textpart" subtype="selection" n="13"><head>XIII. SIYAVISH PASSA ILLESO ATTRAVERSO LE FIAMME.</head>
+
+    <p>
+
+        Dall’ episodio della guerra dei sette Eroi <title>Libro dei Re</title> passa a quello di Sohrâb. — Rustem, un giorno,
+        giunge a Semengàn, città dei Turani, per cercarvi il suo
+        cavallo statogli rapito dai Turani, e quivi sposa la bella
+        Tehmîneh che si era invaghita di lui. Da questo matri-
+        monio nacque un figlio bello e gagliardo, di nome Sohrâb,
+        il quale, giunto alla giovinezza, domanda conto del padre
+        suo alla madre. All’ intender che il padre suo è Rustem,
+        egli vuol recarsi tosto nell’ Iran per togliere il regno a
+        Kâvus e darlo al padre suo che egli non ha mai veduto.
+        Afrâsyâb, per i suoi fini, seconda lo spensierato disegno
+        del giovane, ed egli parte. Nell Iran tutti si spaventano
+        all’ improvvisa comparsa del prode giovinetto; già la
+        Rocca bianca (<f>دژ سپيد</f>, <f2>dizh i sipîd</f2>) è nelle sue mani,
+        e Kâvus altro non sa fare che ricorrere per aiuto a
+        Rustem. ll prode guerriero, benchè con qualche tristo
+        presentimento, accorre tosto, e con l’esercito e con Kâvus
+        muove contro Sohrâb, che egli, dopo ripetuti scontri,
+        giunge a ferire. Il giovinetto, prima di morire, rivela chi
+        
+        
+        <pb n="177"/>
+ 
+        
+        sia il padre suo che egli tanto aveva desiderato e cercato,
+        non sapendo che il suo feritore è Rustem per l'appunto.
+        Rustem si dà a conoscere, e Sohrâb muore. Col dolore
+        del misero padre, autore involontario della morte del
+        figlio, e coi lamenti disperati della madre lontana, termina
+        il commovente episodio.</p>
+        
+        <p>Dall’ episodio di Sohrâb l'epopea passa alla più
+        terribile guerra che sia mai stata combattuta tra Irani e
+        Turani, e nella quale prendono parte i principali eroi dei
+        due popoli, e Afrâsyâb, in fine di essa, paga con la morte
+        la pena delle sue colpe. — Siyâvish (nell Avesta
+        Cyàvarshan e Cyàvarshàna) è il figlio di Kâvus e di
+        una vaga fanciulla trovata da Ghêv e da Tûs in un
+        bosco, un giorno che essi andavano a caccia per quei
+        luoghi. Siyâvish fu educato da Rustem nel Segestân e
+        poscia ricondotto in corte. Di lui s’invaghisce allora
+        perdutamente la regina Sùdabeh, la prima moglie di
+        Kâvus (v. l'Zzzrod. al c. XI); e perchè il giovane resiste
+        al colpevole amore, essa lo accusa dinanzi al re di aver
+        tentato di oltraggiarla. Ma perchè Kâvus non sa risolversi
+        a creder tanto colpevole il figlio suo, Sùdabeh, fatto
+        procurare con una bevanda un aborto ad una sua donna
+        fidata, vuol fargli credere che l’aborto è suo, procuratole
+        dallo spavento allorquando Siyâvish volle mostrarsi
+        troppo ardito verso di lei. Kâvus però non sa persuadersi
+        ancora, quantunque i sacerdoti e gli indovini, esaminato il
+        feto immaturo, abbiano riconosciuto che esso non è di
+        sangue regio, ma bensì di donna vile e di bassa origine.
+        Si ricorre allora ad una solenne prova, e Sùdàbeh e
+        Siyâvish sono invitati a passar tra le fiamme per provare
+        la loro innocenza. La prima si rifiuta, ma Siyâvish si
+        sottomette alla terribile prova, e, passando fra due cataste
+        infuocate, ne esce illeso. — Così nel Réméyaza (yuddha-
+        kanda, CI e segg.), Sîtà, la bella sposa di Ràma, per
+        
+        provar la sua innocenza, salì sul rogo, e così tra noi, nel
+        
+        <pb n="178"/>
+ 
+        
+        Medio Evo, si ricorreva a questa prova nelle questioni
+        che non potevano esser risolte dai giudizi umani, creden-
+        dosi che quello fosse un vero giudizio di Dio.</p>
+        
+        <p>Ma Siyâvish, benchè proclamato innocente, non può
+        più restare a lungo nella casa paterna, e chiede e ottiene
+        l'assenso dal padre di guidar la guerra contro di Afrâsyâb
+        che allora appunto aveva sollevata la testa. — Vedremo
+        più innanzi le vicende di questa terribile guerra.
+
+    </p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="13.1"><p>il soggetto del verbo <f2>farmûd</f2> è <f2>Kâvus</f2>, sottin-
+                teso.</p></div>
+
+<div type="textpart" subtype="note" n="13.10"><p>così convien cercar la chiave del male, cioè così
+                conviene rimediarvi.</p></div>
+
+<div type="textpart" subtype="note" n="13.11"><p><f2>hamî khvâst</f2> si può ritenere qui come
+                impersonale.</p></div>
+
+<div type="textpart" subtype="note" n="13.19"><p>v'era un passaggio (tra le due cataste) tale
+                che, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="13.24"><p>tu avresti detto che notte venne nel giorno
+                (per il gran fumo).</p></div>
+ć
+<div type="textpart" subtype="note" n="13.30"><p></p></div>\n\n<div type="textpart" subtype="note" n="13.$2"><p>
+    <f2>ćihr i khandân</f2>, volto sorridente, si
+                riferisce a Siyâvish; egli sorrideva e tutti gli altri piangevano.</p></div>
+
+<div type="textpart" subtype="note" n="13.36"><p>per <f2>gard i na'l</f2> intendi la polvere sollevata dai ferri (dallo
+                scalpitar) dei cavalli.</p></div>
+
+<div type="textpart" subtype="note" n="13.44"><p>il suo dir parole col figlio fu dolce;
+                cioè: gli parlò con affetto e dolcezza.</p></div>
+
+<div type="textpart" subtype="note" n="13.49"><p><f2>hast-am</f2>, <gloss xml:lang="lat">est mihi</gloss>,
+                <gloss>io ho</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="13.50"><p><f2>am</f2> dipende da <f2>dârad</f2>. — v. 131 e 132, tutto ciò
+                è detto in senso ironico.</p></div>
+
+                <div type="textpart" subtype="note" n="13.133-134"><p>Zâl e Rustem erano
+                stati educatori di Siyâvish, e Sûdâbeh pensa che, per una magia
+                
+                
+                <pb n="184"/>
+          
+                
+                insegnata dal primo a Siyâvish, il fuoco non gli abbia fatto alcun
+                male.</p></div>
+
+<div type="textpart" subtype="note" n="13.135"><p>qui Sûdâbeh si rivolge direttamente a Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="13.138"><p><f2>û</f2> è riferito a Sûdâbeh.</p></div>
+
+<div type="textpart" subtype="note" n="13.145"><p>quando i camefici si
+                rivolsero a Sùdabeh per eseguir la sentenza del re, ecc.</p></div>
+</div>
+</div>
+<div type="textpart" subtype="selection" n="14"><head>XIV. SOGNO DI AFRÀSVAB.</head>
+    <p>Liberato dalle insidie di Sùdàbeh, siccome abbiamo
+        visto nel capo antecedente, Siyâvish parte per la guerra
+        contro di Afrâsyâb che in quel tempo aveva risollevato
+        il capo. Compagno al giovane principe è Rustem, e
+        l'esito delle armi gli è splendidamente favorevole, tanto
+        che la città di Balkh, guardata da Garsîvez fratello di
+        Afraàsyàb, cade in suo potere. A tal notizia Afrâsyâb,
+        cieco per l'ira, raduna nuove forze per correr contro agli
+        Irani, ma un terribile sogno, quale si legge nel capo
+        seguente, lo riempie di terrore e gli fa conoscere quale
+        tristo avvenire lo attenda.</p>
+
+
+        <div>
+            <head>NOTE GRAMMATICALI.</head>
+                <div type="textpart" subtype="note" n="14.2"><p><f2>ćunân ćûn kasî k-ân</f2>, <gloss>così come quel tale che</gloss>,
+                    ecc.</p></div>
+
+<div type="textpart" subtype="note" n="14.8"><p>l'andamento, la calma della reale maestà (cioè del
+                    re) era turbata.</p></div>
+
+<div type="textpart" subtype="note" n="14.41"><p>ogni loro lancia aveva per peso (o per
+                    frutto? ; cioè: sulla sommità) una testa.</p></div>
+
+<div type="textpart" subtype="note" n="14.70"><p><f2>parâgandah</f2>, sparsi,
+                    cioè che abitavano qua e là in diversi luoghi del regno.</p></div>
+
+<div type="textpart" subtype="note" n="14.78"><p><f2>na-shinavad</f2> (letto <f2>na-shnavad</f2> _ u x per il verso) ha qui forza di
+                    congiuntivo, anzi d'imperativo.</p></div>
+
+<div type="textpart" subtype="note" n="14.84"><p><f2>mûbad</f2> qui è collettivo e
+                    sì deve tradurre in plurale.</p></div>
+
+<div type="textpart" subtype="note" n="14.104"><p>la faccia del mondo sarà
+                    eguale nel colore ad un panno rosso, per il molto sangue.</p></div>
+
+<div type="textpart" subtype="note" n="14.106"><p><f2>pâdishâh</f2> va riferito ad Afrâsyâb.</p></div>
+
+<div type="textpart" subtype="note" n="14.107"><p><f2>u</f2> va riferito a
+                    Siyâvish, e <f2>shâh</f2> ad Afrâsyâb.</p></div>
+
+                    <div type="textpart" subtype="note" n="14.111-112"><p>allora ti verrà in
+                    mente che io ho detto la verità, quando il regno resterà deserto
+                    per la scarsezza degli abitanti.</p></div>
+
+<div type="textpart" subtype="note" n="14.113"><p>se anche il re (Afrâsyâb)
+                    diventasse un uccello con l’ali a zo/are per questo cielo roteante,
+                    non troverebbe scampo dalla rovina che noi gli vaticiniamo.</p></div>
+                    </div>
+</div>
+
+<div type="textpart" subtype="selection" n="15">
+<head>XV. MORTE DI SIVAVISH.</head>
+    <p>Spaventato Afrâsyâb dal terribile sogno quale abbiam
+visto nel capo antecedente, fa pel primo a Siyâvish
+proposte di pace con vantaggiose condizioni per gli Irani.
+
+
+<pb n="189"/>
+
+
+Queste sono accettate da Siyâvish; e perchè la pace sia
+ratificata, Rustem è mandato da lui nell’ Iran dal re
+Kâvus. Ma il re si adira con Rustem e dopo aspri
+rimproveri lo rimanda nel Segestân; quindi, determinato
+a continuar la guerra ad ogni costo, con una lettera
+pungente e iraconda ordina a Siyâvish di riprender
+le armi. Siyâvish non può mancare alla data fede,
+non può ripigliar la guerra, nè ritornare nell’ Iran dal
+padre; consigliatosi perciò con Behrâm e con Zengheh,
+non trova altro modo di salvarsi che col ricorrere
+alla generosità di Afrâsyâb, cercando un rifugio alla
+sua corte.</p>
+
+<p>L'inaspettata domanda eccita grande meraviglia nei
+principi Turani; essa tuttavia è accettata con trasportò,
+e Afrâsyâb spedisce tosto Piîràn incontro al nuovo suo
+ospite. Siyâvish si accomiata piangendo dai suoi, e
+lasciata una lettera per il re Kâvus, passa il confine ed
+è accolto con grandi dimostrazioni di onore da Afrâsyâb
+e dai suoi principi. Anzi, dopo qualche tempo, lo stesso
+Afrâsyâb gli dà in isposa, dietro proposta di Pîrân, la
+figlia sua Ferenghîs, e con la figlia una provincia da
+governare. Quivi Siyâvish edifica la città detta da
+Firdusi Aarg-dizh, conosciuta anche nell’ Avesta col
+nome di Aaàka. Ma il fratello di Afrâsyâb, Garsîvez,
+invidioso del favore ottenuto da Siyâvish, recatosi un
+giorno alla nuova città, dipinge poi, al suo ritorno presso
+il fratello, il nuovo ospite, anzi ora genero di Afrâsyâb,
+come uno che voglia farsi forte e potente per invadere
+il dominio del Turan. Afrâsyâb, aggirato da Garsîvez
+e da altri perfidi consiglieri, fa prendere il giovane
+principe e lo condanna a morte. Anche l’<title>Avesta</title> conosce
+questo fatto, e designa Siyâvish (Cyàvarshan) col quali-
+ficativo di 2zr6gata,' cioè ucciso per violenza (yasht, 9,
+18; 19, 77).</p>
+
+
+<pb n="190"/>
+
+
+<p>Il seguente racconto incomincia allorquando la misera
+Ferenghîs, udita la condanna dello sposo, cerca di
+impetrargli, ma indarno, grazia dal padre.
+    </p>
+
+    <div>
+        <head>NOTE GRAMMATICALI.</head>
+            <div type="textpart" subtype="note" n="15.1"><p>quando Ferenghîs udì le parole del padre che
+                condannava a morte Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="15.15"><p><f2>shâh</f2> si riferisce a Kâvus.</p></div>
+
+<div type="textpart" subtype="note" n="15.16"><p><f2>bi-mând</f2>, <gloss>abbandonò</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="15.20"><p><f2>mânad</f2>, <gloss>che voglia rimanere</gloss>,
+                
+                
+                
+                <pb n="195"/>
+                
+                
+                abbia desiderio di vivere regnando.</p></div>
+
+<div type="textpart" subtype="note" n="15.25"><p><f2>har-dû</f2>, <gloss>ambedue</gloss>, cioè gli
+                oppressi e gli esaltati dal destino, v. sopra.</p></div>
+
+<div type="textpart" subtype="note" n="15.38"><p><f2>n-andîshad</f2>,
+                <f2>n-</f2> per <f2>na-</f2>, pres. di <f2>andishîdan</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="15.44"><p>molto ti ricorderai un giorno
+                dei detti miei.</p></div>
+
+                <div type="textpart" subtype="note" n="15.45-46"><p>non sei (î di <f2>shikâr-î</f2>) alla caccia, perchè
+                tu possa credere di uccidere un onagro (uccidendo Siyâvisk) o di
+                turbare le gazzelle.</p></div>
+
+<div type="textpart" subtype="note" n="15.56"><p>si scanda: <f2>sipahdâr i râ ( -——-—-)
+                bâb i pandâshitî</f2> (_ _ u _), tu (o Siyâvish) stimasti tuo padre il re
+                di Turan (che ora ti vuol far morire).</p></div>
+
+<div type="textpart" subtype="note" n="15.58"><p><f2>kuǵâ</f2>, dove mai?
+                
+                ecc.</p></div>
+
+<div type="textpart" subtype="note" n="15.73"><p>avessi io perduti gli occhi, non avrebbero essi veduto,
+                ecc. (<f2>dîdah</f2> è collettivo).</p></div>
+
+<div type="textpart" subtype="note" n="15.75"><p>come mai poteva venire in me
+                
+                dal padre questa previsione che, ecc. (<f2>umîd</f2>, speranza, è qui nel
+                senso del gr. <grc>ἐλπίς</grc>, che ha significato di speranza in bene e di
+                previsione di sventure).</p></div>
+
+<div type="textpart" subtype="note" n="15.82"><p>il re forsennato forò l'occhio della
+                prudenza, cioè il furore vinse il senno.</p></div>
+
+<div type="textpart" subtype="note" n="15.91-92"><p>conducetelo
+                in un luogo laddove egli non trovi nessuno allorquando dirà: chi
+                <add>è</add> il <add>mio</add> soccorritore?</p></div>
+
+<div type="textpart" subtype="note" n="15.110"><p>possa tu esser sempre vivo nel
+                mondo, (così significa questa frase molto strana).</p></div>
+
+<div type="textpart" subtype="note" n="15.113"><p><f2>bûd-am
+    umîd</f2>, <gloss xml:lang="lat">erat mihi spes</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="15.115"><p>le parole che seguono al 454 di
+                questo verso, sono parole di Pîrân ripetute da Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="15.117"><p>ciù bar gardad-at riz, quando si muti per te la sorte.</p></div>
+
+<div type="textpart" subtype="note" n="15.123"><p>, si
+                legga: <f2>u az</f2> (u _).</p></div>
+
+<div type="textpart" subtype="note" n="15.129"><p><f2>pîl i shiyân</f2>, benchè strana assai l’espres-
+                sione, non può riferirsi che a Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="15.132"><p><f2>ash</f2> va riferito a
+                Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="15.141"><p>quando dal cipresso (Siyâvish) fu separato
+                il sole (cioè la vita)</p></div>
+
+<div type="textpart" subtype="note" n="15.143"><p><f2>ćih khvabî kih</f2>, <gloss>che sogno mai!
+    che anzi</gloss>, ecc. </p></div></div>
+</div>
+
+<div type="textpart" subtype="selection" n="16"><head>XVI. RINVENIMENTO DI KHUSREV.</head><p>
+
+    
+
+Ucciso Siyâvish, Afrâsyâb già stava per condannare
+a morte anche la figlia sua Ferenghîs moglie dell’ ucciso,
+allorquando sopraggiunge Pîrân a liberarla. Afrâsyâb cede
+alle sue istanze, e Pîrân conduce la misera donna nel
+Khoten, laddove ella dà alla luce un figlio al quale viene
+imposto il nome di Khusrev. Ricordandosi allora di una
+antica profezia, Afrâsyâb fa consegnare il fanciullo ad
+alcuni pastori che abitavano il monte Kalû, perchè egli
+vi cresca dimenticato e lontano dalla corte. Accertatosi
+poi che egli non ha nulla a temere dal giovinetto, lo fa
+
+rendere alla madre che lo va allevando con ogni cura.</p>
+
+
+
+<pb n="196"/>
+
+
+<p>Intesasi nell’ Iran la morte di Siyâvish, un desiderio
+di vendetta entra nell’ animo di tutti. Rustem, accorso
+dal Segestân, uccide l’empia Sùdabeh, cagione di tanta
+sventura, invade il Turan col figlio suo Feràmurz, mette
+a ferro e a fuoco quel paese e ritorna nell’ Iran. — Ma
+prima di vendicar la morte di Siyâvish, è necessario
+rinvenirne il figlio. Nessuno però conosce dove egli sia.
+In tale incertezza, l'angelo Serôsh, apparso in sogno
+a Gtderz, lo informa del luogo nel quale Khusrev vive
+nascosto. Giùderz, destatosi al mattino e raccontata la
+visione, con l'assenso del re spedisce il figlio suo Ghêv
+in cerca del giovane principe. Ghêv per sette anni va
+errando per il Turan senza averne alcuna notizia, finchè
+poi lo ritrova vicino ad una fontana, come si vedrà nel
+racconto che segue.
+</p>
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="16.1"><p>il soggetto di <f2>raft</f2> è Ghêv sottinteso.</p></div>
+
+<div type="textpart" subtype="note" n="16.6"><p>il verbo <f2>khvard</f2> ha qui tutti e due i suoi significati, e il verso va
+            tradotto: ora mangiava erba, ora beveva acqua torbida.</p></div>
+
+<div type="textpart" subtype="note" n="16.9"><p>da
+            questo verso al v. 21 si spiega in qual modo Afrâsyâb avesse fatto
+            rendere il piccolo Khusrev alla madre sua Ferenghîs, ed è questa
+            come una breve digressione dal racconto.</p></div>
+
+<div type="textpart" subtype="note" n="16.12"><p><f2>digar bârah
+            tûrân bi-ǵang âmadah</f2> è un inciso; era allora il Turan per un’ altra
+            volta in guerra (per Rustem; v. l'Introd.).</p></div>
+
+<div type="textpart" subtype="note" n="16.34"><p><f2>pahlavân</f2> qui
+            designa Gûderz che aveva visto il sogno (v. l’Introd.).</p></div>
+
+<div type="textpart" subtype="note" n="16.40"><p>il
+            cielo ha rivolto (lett. ha versato) su di me una fortuna tortuosa (il
+            senso del verso è questo, ma la costruzione gramm. è incerta e
+            oscura).</p></div>
+
+<div type="textpart" subtype="note" n="16.50"><p>eravi un giovinetto, ecc. (Khusrev).</p></div>
+
+<div type="textpart" subtype="note" n="16.63"><p>il
+            nodo fu sciolto del suo dolore (lett. per [<f2>bar dar i</f2>] il suo dolore).</p></div>
+
+<div type="textpart" subtype="note" n="16.80"><p><f2>ćigûnah ast</f2> si legga <f2>ćigûna-st</f2> (u — —).</p></div>
+
+<div type="textpart" subtype="note" n="16.85"><p><f2>bar-ân-am</f2>, <gloss>io
+            sono su ciò, cioè sono certo di questo</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="16.88"><p><f2>kih</f2>, <gloss>chi mai?</gloss></p></div>
+
+<div type="textpart" subtype="note" n="16.93"><p><f2>gushâdî</f2> è 3a pers. sing. pass, (soggetto Siyâvish, sottint.).</p></div>
+
+<div type="textpart" subtype="note" n="16.95-96"><p> qui è soggetto <f2>padar</f2>, (Siyâvish) del v. 92m e il discorso che
+            comincia con <f2>az îdar ćih âyad</f2>, è posto in sua bocca.</p></div>
+
+<div type="textpart" subtype="note" n="16.105"><p>i re Kay, da Kobâd in poi, avevano un neo sul braccio in segno
+            di loro origine reale.</p></div>
+
+<div type="textpart" subtype="note" n="16.115"><p><f2>shrryâr</f2> (Khusrev) qui è soggetto.</p></div>
+            
+            
+            <pb n="202"/>
+
+<div type="textpart" subtype="note" n="16.128"><p><f2>b-âtash</f2> per <f2>bi-âtash</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="16.139"><p>il sogno di Gûderz, v.
+            l'Introd.</p></div>
+
+<div type="textpart" subtype="note" n="16.141"><p>gli anni avevano tolta a Kâvus la maestà (v. il
+            Vocab. v. <f2>far, farr</f2>).</p></div>
+
+<div type="textpart" subtype="note" n="16.142"><p><f2>pusar</f2> va riferito a Siyâvish.</p></div>
+
+<div type="textpart" subtype="note" n="16.143"><p><f2>parâgandah</f2>, disperso, sbandito.</p></div>
+</div>
+</div>
+
+<div type="textpart" subtype="selection" n="17"><head>XVII. EPISODIO DI BEHRAM E DI TEZHAV.</head><p>
+
+    
+
+Reso quasi miracolosamente e dopo molti stenti
+Khusrev all’ avo suo Kâvus nell’ Iran, non si pensa più
+che a vendicar la morte di Siyâvish. Qui omai incomincia
+la lunga guerra tra Irani e Turani alla quale abbiamo
+accennato nell’ <title>Introduzione</title> al c. XIII di quest’ <f2>Antologia</f2>.
+Un immenso esercito è mandato da Khusrev contro di
+Afrâsyâb sotto il comando di Tûs; ma la guerra non ha
+prospero successo per gli Irani tanto che Khusrev è
+costretto a togliere il comando a Tûs ed a sostituirgli
+Feriburz figlio di Kâvus. Tra i molti fatti di questa
+prima parte della guerra scegliamo soltanto il bell’ episodio
+di Behrâm e di Tezhâv, col quale potranno porsi a con-
+fronto, se non erriamo, due altri episodii dell’ <title>Iliade</title>
+e dell' <title>Eneide</title>. Behrâm, dopo una sanguinosa battaglia,
+detta la battaglia di Làden o di Peshen, in cui gli Irani
+hanno avuta la peggio, vuol recarsi, la sera, nel campo
+di battaglia a cercarvi una sua sferza che vi aveva per-
+dluta, e quivi incontra la morte per mano di Tezhâv.</p>
+
+<p>Si noti che in questa prima parte della guerra Khusrev
+ed Afrâsyâb non discendono in campo, ma lasciano il
+comando ai loro capitani, il primo a Tûs, poscia a
+l’eriburz, il secondo a Piîràn.
+</p></div>
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="17.5"><p>Behrâm, nella battaglia del giorno antecedente,
+            aveva portata via con la lancia una corona reale che ornava il capo
+            del giovane Rêvnîz figlio di Kâvus, caduto in quella battaglia, e
+            per la quale era nato accanito contrasto fra Irani e Turani, come
+            nell’ Ziade per il corpo del morto Patroclo.</p></div>
+
+<div type="textpart" subtype="note" n="17.22"><p><f2>man na-y-am</f2>,
+            <gloss>io non sono</gloss>.</p></div>
+
+            <div type="textpart" subtype="note" n="17.23-24"><p>essendo possibile morire a4 ogni
+            istante allorquando venga il tempo, perchè si dovrà pensar tortuo-
+            samente? mostrarsi cioè paurosi?</p></div>
+
+<div type="textpart" subtype="note" n="17.28"><p>due sferze hanno il
+            manico, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="17.38"><p>gli Irani erano stati sconfitti (v. l’Introd.).</p></div>
+
+<div type="textpart" subtype="note" n="17.41"><p><f2>guft</f2>, <gloss>detto</gloss>; soggetto, argomento di discorso.</p></div>
+
+<div type="textpart" subtype="note" n="17.52"><p>per
+            quel dolor del cuore, <gloss>chè tale è</gloss> la sorte degli estinti (di lasciar cioè
+            dolore di sè nei superstiti).</p></div>
+
+<div type="textpart" subtype="note" n="17.59"><p><f2>birâdar</f2> è collettivo; la maggior
+            parte dei fratelli di Behrâm era morta in quel giorno, combattendo.</p></div>
+
+<div type="textpart" subtype="note" n="17.62"><p>franco dell’ anima, cioè ancor vivo, benchè ferito di spada.</p></div>
+            
+            
+            <pb n="215"/>
+
+<div type="textpart" subtype="note" n="17.73"><p><f2>m-andîsh</f2>, per <f2>ma-andîsh</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="17.74"><p>questo è un perire per non
+            essere fasciata la ferita.</p></div>
+
+            <div type="textpart" subtype="note" n="17.77-79"><p>liberò uno dal perdersi, ma
+            non conobbe il secreto della propria rovina.</p></div>
+
+<div type="textpart" subtype="note" n="17.90"><p>appena
+            
+            Behrâm fu sceso di sella, si sentì un nitrir di cavalle in lontananza,
+            e il suo cavallo fuggì dietro quel nitrito.</p></div>
+
+<div type="textpart" subtype="note" n="17.109"><p><f2>sar-kashân</f2> sono
+            Turani che s'accorgono della presenza di Behrâm.</p></div>
+
+<div type="textpart" subtype="note" n="17.112"><p><f2>pahlavân</f2>
+            qui è Pîrân.</p></div>
+
+<div type="textpart" subtype="note" n="17.132"><p>il fato cesserà dal governarci.</p></div>
+
+<div type="textpart" subtype="note" n="17.141"><p>soggetto di di-4kasf è Behrâm.</p></div>
+
+<div type="textpart" subtype="note" n="17.143"><p><f2>pahlavân</f2> è Pîrân, al quale
+            ritornano i Turani spaventati.</p></div>
+
+<div type="textpart" subtype="note" n="17.153"><p>questo si riferisce al tempo
+            in cui Siyâvish trovò ospitalità presso i Turani.</p></div>
+
+<div type="textpart" subtype="note" n="17.172"><p>se no,
+            la battaglia è per me finita tutta in una volta, cioè tutto è finito per
+            me.</p></div>
+
+<div type="textpart" subtype="note" n="17.213"><p>di-mdén, lascia qui (imperat.).</p></div>
+
+<div type="textpart" subtype="note" n="17.232"><p>mancano
+            qui alcuni versi coi quali si narra come Tezhâv, fatto il colpo, ritor-
+            nasse tra i suoi.</p></div>
+
+<div type="textpart" subtype="note" n="17.277"><p>lo trasse a sè bruscamente, voltando le
+            spalle.</p></div>
+
+<div type="textpart" subtype="note" n="17.295"><p><f2>bî-ǵân</f2>, qui non significa morto, ma svenuto.</p></div>
+
+<div type="textpart" subtype="note" n="17.298"><p><f2>'ḳâbî</f2>, tu sei (<f2>î</f2>) un’ aquila.</p></div>
+
+<div type="textpart" subtype="note" n="17.310"><p><f2>bûd-am</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="17.324"><p><f2>ash</f2> dipende da <f2>na-bâyad</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="17.335"><p>si allude a fatti antecedenti,
+        allorquando quasi tutti i fratelli di Behrâm caddero sotto ai suoi
+            occhi, nella battaglia di Peshen.</p></div>
+
+<div type="textpart" subtype="note" n="17.340"><p><f2>ash</f2> dipende da <f2>bi-bâyad</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="17.343"><p><f2>ash</f2> sì riferisce al morto Behrâm.</p></div>
+        </div>
+
+<div type="textpart" subtype="selection" n="18"><head>XVIII. PUNIZIONE DI AFRÀSYAB.</head>
+    
+    <p>La guerra contro di Afrâsyâb, nella quale da principio
+gli Irani avevano sempre la peggio, termina poi finalmente
+con la sua sconfitta. Caduti i più prodi guerrieri da
+ambe le parti, a Khusrev e ad Afrâsyâb non resta più
+che discendere in campo, e in persona decidere le sorti
+di sì lunga e disastrosa guerra. Afrâsyâb, vinto e abban-
+donato da tutti, fugge solo e si nasconde in una caverna
+di un monte solitario. Khusrev e il vecchio Kâvus, dopo
+aver licenziati con ricchi doni i loro prodi, si consigliano
+sul da farsi, perchè Afrâsyâb non si sa dove sia e po-
+trebbe darsi che egli tornasse all’ improvviso e ripigliasse
+le armi. In tal dubbio, essi si recano vestiti di candide
+vesti al tempio di Adher Gashasp (v. il Vocab.) nel-
+l’Adherbigiàn per domandar' consiglio a quel sacro fuoco,
+protettore di Khusrev.</p>
+
+
+<pb n="216"/>
+
+
+<p>Intanto un pio uomo, Hôm, della discendenza di
+Frêdûn (v. il Vocab.), passando per caso dalla caverna
+dov’ era nascosto Afrâsyâb, ode i suoi lamenti. Egli vi
+entra all’ improvviso e lo lega con un laccio. Ma il
+vinto re, fattosi rallentare con preghiere i nodi, sfugge
+ad Hôm e si nasconde nelle acque del lago Khangest o
+Cicest, detto caécagta nell’ Avesta. Hôm allora, incontra-
+tosi con Gûderz per caso, gli racconta ogni cosa, e
+Gùderz corre al tempio ad avvertirne Kâvus e Khusrev,
+che tosto si recano sulle sponde del lago. A questo
+punto incomincia il racconto che segue.
+
+Anche l’<title>Avesta</title> conosce questo fatto, allorquando
+introduce il genio Haoma (quello che Firdusi, sotto il
+nome di Hôm, ci rappresenta come un pio uomo, ed è
+nellAvesta il genio della pianta 4aoma dalla quale si
+estraeva la sacra bevanda, v. il Vocab.) a pregare diverse
+divinità perchè gli concedano di far prigione Frariracyan
+(Afrâsyâb), nascosto nelle acque del lago. «Concedimi
+(dice Haoma) questa grazia che io possa legare il sangui-
+nario turanio Franragyan, che io lo conduca via legato, e
+legato lo tragga come prigioniero del re Hucravanh
+(Khusrev). Possa ucciderlo Kava Hugravarih presso il
+lago Caécagta, profondo, dalle ampie acque, egli, il figlio,
+in vendetta (<f2>kaênê</f2>, su questo passo v. SPIEGEL, Arische
+Studien, p. 118; e Zetschrift der D. M. Gesellschaft,
+XXXII, p. 310) di Çyâvarshâna (Siyâvish), dell’ uomo
+ucciso per violenza (yasht 9, 18; 17, 37 e 38, ecc.)».
+</p></div>
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="18.1"><p><f2>shâhân</f2> sono Kâvus e Khusrev.</p></div>
+
+<div type="textpart" subtype="note" n="17.6"><p>di
+            <f2>dûyam panâh</f2>, <gloss>in lui è a me rifugio</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="17.11"><p><f2>shâh i nav</f2>, <gloss>nuovo
+    re</gloss>, è Khusrev.</p></div>
+
+<div type="textpart" subtype="note" n="17.14"><p><f2>kih</f2>, <gloss>allorquando</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="17.23"><p><f2>bar</f2>, <gloss>propter</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="17.24"><p><f2>ćih</f2>, <gloss>anzi, oltre a ciò</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="17.28"><p><f2>dar-û</f2>, <gloss>dentro</gloss>, cioè dentro
+            la caverna.</p></div>
+
+<div type="textpart" subtype="note" n="17.29"><p><f2>ash</f2> dipende da <f2>bi-bastam</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="17.34"><p>nelle
+            acque del lago (v. l'Introd.).</p></div>
+
+<div type="textpart" subtype="note" n="17.55"><p><f2>ash</f2> è soggetto.</p></div>
+
+<div type="textpart" subtype="note" n="17.85"><p>nipote di Frêdûn e figlio di Pesheng è lo stesso Afrâsyâb, che qui
+            parla in 3° pers.</p></div>
+
+<div type="textpart" subtype="note" n="17.87"><p>i due principi sono Kâvus e Khusrev.</p></div>
+
+<div type="textpart" subtype="note" n="17.88"><p><f2>parastandah</f2> è Hôm.</p></div>
+
+<div type="textpart" subtype="note" n="17.102"><p>per il sogno di Afrâsyâb
+            che gli fece conoscere la sua rovina, v. il c. XIV di quest
+            <title>Antologia</title>.</p></div>
+
+<div type="textpart" subtype="note" n="17.103"><p>trasse in lungo (tardò) il cielo.</p></div>
+
+<div type="textpart" subtype="note" n="17.109"><p>si allude
+            ad Aghrêras (z. <zend>aghraêratha</zend>) fratello di Afrâsyâb e da lui ucciso.</p></div>
+
+<div type="textpart" subtype="note" n="17.111"><p>Afrâsyâb uccise anche il re Nevdher che discendeva da Eraǵ,
+            
+            
+            <pb n="223"/>
+            
+            v. il c. IX di quest <title>Antologia</title>.</p></div>
+
+<div type="textpart" subtype="note" n="17.125"><p>la madre di Khusrev è
+            Ferenghîs figlia di Afrâsyâb.</p></div>
+
+            <div type="textpart" subtype="note" n="17.135-136"><p>un pastore, allor-
+            quando ha preso un lupo divoratore, se lascia vivo il lupo, non
+            può esser mai sicuro.</p></div>
+
+<div type="textpart" subtype="note" n="17.146"><p>dirddar è Garsîvez, altro fratello di
+            Afrâsyâb, che aveva ordita la morte di Siyâvish, v. sopra.</p></div>
+
+<div type="textpart" subtype="note" n="17.147"><p>soggetto di <f2>âmad</f2> è Khusrev.</p></div>
+
+<div type="textpart" subtype="note" n="17.156"><p>la tazza nella quale fu versato il sangue di Siyâvish, v. il c. XV, v. 131 di quest’ <title>Antologia</title>.</p></div>
+
+<div type="textpart" subtype="note" n="17.168"><p><f2>tan i shah</f2>, il corpo del re, cioè di Afrâsyâb.</p></div>
+
+<div type="textpart" subtype="note" n="17.173"><p>soggetto del verbo è Khusrev.</p></div></div>
+
+<div type="textpart" subtype="selection" n="19"><p>XIX. IL RE KHUSREV SALE AL CIELO.
+
+    Vendicata con la morte di Afrâsyâb l'uccisione di
+    Siyâvish, Kâvus muore poco dopo grave d’anni e stanco
+    di vivere. Khusrev che gli succede nel trono, ha un
+    regno pacifico. Posto nel Turan a regnare il figlio di
+    Afrâsyâb, di nome Ǵihn, egli si dedica a pratiche di
+    religione in un luogo appartato, immerso nel dubbio
+    doloroso di aver forse un poco troppo duramente vendi-
+    cata la morte del padre suo, con l'uccisione di Afrâsyâb
+    del quale egli era nipote. In quella solitudine l'angelo
+    Serôsh gli rivela la sua vicina morte; ond' egli, resistendo
+    alle preghiere dei suoi principi e alle rimostranze di Zâl,
+    si determina ad abdicar la corona in favore di Lohrâsp,
+    discendente di Pishîn che era terzo figlio del re Kobâd
+    (v. il c. IX di quest’ <title>Antologia</title>), per recarsi verso il
+    Settentrione e di là salir poi al cielo.</p>
+    
+    <p>Il racconto che segue, incomincia appunto allorquando
+    il re Khusrev si accomiata da Lohrâsp che l'aveva
+    accompagnato per un certo tratto di strada.
+
+
+
+</p><div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="19.1"><p>v. 1, il soggetto del verbo è Khusrev.</p></div>
+
+<div type="textpart" subtype="note" n="19.6"><p><f2>na-nâzî</f2>
+            ha forza qui di imperativo proibitivo.</p></div>
+
+<div type="textpart" subtype="note" n="19.14"><p>il senso è: sii ad ogni
+            costo fedele alla giustizia (per la frase molto strana, v. il Vocab.
+            
+            
+            <pb n="229"/>
+            
+            alle voci <f2>târ</f2> e <f2>pûd</f2>).</p></div>
+
+<div type="textpart" subtype="note" n="19.24"><p><f2>nam</f2>, un poco d'acqua.</p></div>
+
+<div type="textpart" subtype="note" n="19.26"><p>nes-
+            suno conosceva la via <add>di rimediare</add> a questo dolore.</p></div>
+
+<div type="textpart" subtype="note" n="19.41"><p>noi
+            siamo come polvere ai piedi del tuo cavallo (frase iperbolica per dire
+            che siamo pronti al comando di uno).</p></div>
+
+<div type="textpart" subtype="note" n="19.44"><p>anzi Serôsh non
+            venne a consigliare Frèédiin? così verrà anche per te.</p></div>
+
+<div type="textpart" subtype="note" n="19.48"><p><f2>dil
+            i mûbad-at</f2>, <gloss>il cuor tuo da sapiente</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="19.55"><p>chè presto sarà <add>tempo</add>
+            di radunarci insieme (di rivederci in cielo).</p></div>
+
+<div type="textpart" subtype="note" n="19.84"><p>se pure Serôsh
+            ha di ciò conoscenza (l'angelo Serôsh aveva rivelata a Khusrev la
+            sua salita al cielo)</p></div>
+
+<div type="textpart" subtype="note" n="19.87"><p><f2>bi-ân</f2> (u —).</p></div>
+
+<div type="textpart" subtype="note" n="19.94"><p>non restate
+            qui nemmeno se dalle nuvole piovesse del muschio.</p></div>
+
+<div type="textpart" subtype="note" n="19.113"><p><f2>farîburz guft</f2>, Ferîburz ripetà, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="19.124"><p><f2>u gur</f2>, <gloss>anche se, etsi</gloss>.</p></div>
+
+<div type="textpart" subtype="note" n="19.145"><p>allorquando la neve ebbe steso uno strato sulla terra (forse
+            bisogna leggere <f2>bar zamîn</f2>).</p></div>
+
+<div type="textpart" subtype="note" n="19.150"><p><f2>zharf</f2> va accordato con <f2>ćâh</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="19.152"><p>uscì alfine la dolce anima loro (morirono).</p></div></div>
+    </div>
+
+    <div type="textpart" subtype="selection" n="20"><head>XX. MORTE DI RUSTEM.</head>
+        <p>
+
+        
+
+Con la salita di Khusrev al cielo, termina la prima
+e più antica e anche la più bella parte della leggenda
+epica persiana. I principali eroi sono morti, e di essi
+non rimane che Rustem il quale ha ben poco da fare in
+tutta la parte che segue della leggenda, anzi, cosa strana,
+è guardato di mal occhio dai novelli re dell’ Iran. Ciò
+che si racconta dei regni di Lohrâsp e di Gushtâsp, che
+succedettero a Khusrev, non ha nulla a che fare col
+racconto della prima parte, ma tutto si aggira intorno alle
+avventure di Gushtâsp nel paese di Rùm, alla venuta di
+Zertusht (il profeta Zoroastro, detto nell’ Avesta Zarathus-
+tra) e alle avventure di Isfendyàr figlio del re Gushtâsp.
+Bisogna quindi ammettere che tra la prima e la seconda
+parte della leggenda epica corra un lungo intervallo
+di tempo, nel quale dovettero mutarsi profondamente
+le idee.</p>
+
+<p>Già lo SPIEGEL (Erân. Alterth. I, p. 659 e segg.)
+ha fatto notare i punti nei quali questa seconda parte
+dell’ epopea di Firdusi discorda dalla prima, anzi è
+
+
+<pb n="230"/>
+
+ispirata da idee al tutto opposte. Questi punti sono: 1o,
+la nin diretta provenienza del re Lohrâsp dagli antichi re:
+egli infatti appartiene ad un ramo laterale della famiglia.
+discendendo da Pishîn, terzo figlio del re Kobâd. —
+2o. Nell'antica parte la sede dei re dell’ Iran è la provincia
+di Pars, la Persia; nella seconda invece troviamo Lohrâsp
+che risiede in Balkh, nella parte cioè più orientale del-
+l'Iran — 3o Nella prima parte il titolo di eroe def regno
+(<f2>ǵihân-pahlavân</f2>) era proprio della famiglia del Segestân (v.
+l'Introduzione al c. VI dell’ Antologia); nella seconda invece
+é dato a Zerîr, figlio di Gushtâsp, e poscia ad Isfendyàr. —
+4°. La guerra tra Irani e Turani nella prima parte è
+cagionata da sparso sangue, per vendicar la morte di
+Eraǵ e di Siyavish, siccome abbiamo visto; nella seconda
+invece, Gushtâsp fa la guerra ad Argâsp re dei Turani,
+perchè questi non vuol riconoscere il profeta Zertusht.
+Rustem stesso è qui rappresentato come idolatra, e il re
+Gushtâsp ordina appunto al figlio suo Isfendyàr di far
+la guerra al grande eroe, perchè egli non vuol ricono-
+scere la nuova religione. Ma Isfendyàr soccombe nella
+difficile prova e muore ucciso da Rustem. Tutto insomma
+ci induce a credere che quest’ ultima parte dell’ epopea
+sia di molto posteriore alla prima, e ispirata dall’ odio
+contro la religione di Buddha, che per tempo era entrata
+anche nell’ Iran, tanto più che in questa parte i re Turani
+si fanno discendere non già da Tûr, come nella prima,
+ma bensì si dicono originari del Pèéghù (ol; Aa Pighi
+nizhéa); e si sa che il Péghù fu uno ali paesi che
+prima degli altri abbracciarono la religione di Buddha
+Gakyamuni. Il Segestân pure, la patria di Rustem, erasi
+ben presto convertito al Buddhismo, ed ecco perchè il
+grande eroe leggendario di quel paese è qui rappresentato come idolatra e nemico della religione di Zoroastro.</p>
+
+<p>Ma Rustem con la vittoria riportata su di Isfendyàr
+ha compiuta la sua carriera di eroe; anch’ egli deve
+
+
+<pb n="231"/>
+
+morire. Il fratello suo Sheghâd, genero del re del Kâbul,
+per liberare il suocero dal tributo che egli pagava alla
+casa di Zâl e di Rustem, ordisce la sua ultima rovina. Egli
+fa in modo che Rustem con poca gente e col fratello
+Zevâreh si rechi nel Kâbul per accettar le scuse di quel
+re, fintamente pentito di aver osato rifiutargli il tributo.
+Rustem, ciecamente fidandosi dell’ empio fratello, si lascia
+condurre da lui e da quel re alla caccia; ma là egli
+precipita in una fossa scavata appositamente e poi
+coperta alla sommità, e armata di punte nelle pareti
+interne. Prima però di morire, egli trafigge il traditore
+e lascia al figlio Feràmurz l'incarico di vendicar la sua
+morte.
+    </p>
+
+
+<div>
+    <head>NOTE GRAMMATICALI.</head>
+        <div type="textpart" subtype="note" n="20.1"><p><f2>bad-akhtar</f2> va riferito a Sheghâd, v. l'Introd.;
+            Sheghâd poi era venuto dal Kâbul per persuader Rustem a venir
+            senza armati, perchè il re del Kâbul, pentito, voleva sottometterglisi.</p></div>
+
+<div type="textpart" subtype="note" n="20.2"><p>il re del Kâbul si reca in un luogo da caccia per scavar le
+            fosse nelle quali Rustem dovrà precipitare.</p></div>
+
+<div type="textpart" subtype="note" n="20.7"><p>il manico (<f2>bun</f2>,
+            <gloss>estremità</gloss>) delle spade era conficcato nelle pareti della fossa (andar
+            samîn) e le punte sporgevano.</p></div>
+
+<div type="textpart" subtype="note" n="20.20"><p>congiunger le mani sul
+            capo significa presso gli Indiani (qui il re del Kâbul ha costumi
+            indiani) atto di sommo ossequio.</p></div>
+
+<div type="textpart" subtype="note" n="20.25"><p>Sheghâd e il re del
+            Kâbul avevano parlato male di Rustem in un convito, quand’ erano
+            ubriachi.</p></div>
+
+            <div type="textpart" subtype="note" n="20.61-62"><p>Zevâreh e il valoroso Auster erano su
+            quella via per il fato che era (li attendeva) entro la fossa.</p></div>
+
+<div type="textpart" subtype="note" n="20.64"><p>intendi che Rakhsh s’impennava presentendo qualche peri-
+            colo.</p></div>
+
+<div type="textpart" subtype="note" n="20.74"><p>e mentre <add>il cavallo</add> cercava di sfuggire al fato.</p></div>
+
+<div type="textpart" subtype="note" n="20.106"><p>che non abbia poi io da bagnare le gote di pianto
+            (per la tua morte).</p></div>
+
+            <div type="textpart" subtype="note" n="20.110"><p><f2>ma-y-âlây</f2>, imperat. proib. di <f2>âlâ</f2>,
+            tps. <f2>âlûd</f2>.</p></div>
+
+<div type="textpart" subtype="note" n="20.112"><p>nessuno, vivo, varca le soglie del cielo.</p></div>
+
+<div type="textpart" subtype="note" n="20.114"><p>il re Gemshîd fu fatto segare per il mezzo da Dahâk (v.
+            sopra); bisogna scandere così: <f2>kih bi-brîd i</f2> (u _ _ u, per <f2>bi-burîd</f2>,
+            <f2>bi-burrîd</f2>) <f2>dushman miyân-ash bi-arr</f2> (- —).</p></div>
+
+            <div type="textpart" subtype="note" n="20.132-133"><p>non
+            avvenga che (<f2>na-bâyad</f2>), allorquando (<f2>kuǵâ</f2>) passasse per questo piano
+            un leone predatore ‘per far caccia, mentre io qui son caduto, ferito
+            nel corpo, mi vegga, ecc.</p></div>
+
+<div type="textpart" subtype="note" n="20.144"><p>benchè ferito cominciò a tender
+            l'arco.</p></div>
+
+<div type="textpart" subtype="note" n="20.154"><p>al momento di morire (<f2>raftan</f2>). </p></div>
+
+<div type="textpart" subtype="note" n="20.165"><p>si riferisce
+            al profeta Zoroastro, al quale Rustem fino allora non aveva creduto.</p></div>
+
+<div type="textpart" subtype="note" n="20.170"><p><f2>bi-tu-st</f2> per <f2>di-tû as</f2>, <lat>tibi est</lat>.</p>
+            
+            <p>Conclusione. — Morto Rustem, il vecchio Zal ne
+            celebra con gran pompa i funerali e muore poco stante.
+            Così, spenti tutti gli eroi, termina anche il magnifico
+            
+            
+            <pb n="238"/>
+            
+            
+            racconto dell’ Epopea iranica al quale abbiam tenuto dietro
+            fin qui, e il <title>Libro dei Re</title> dalla leggenda eroica passa alla
+            storia. La storia di Alessandro Magno adorna di favole
+            e le storie degli Arsacidi e dei Sassanidi saranno d’ora
+            innanzi il suo argomento, ma la narrazione procederà
+            sempre più fredda e l'estro di Firdusi non varrà ad
+            animar la cronaca. Coi Sassanidi si giunge fino al 650
+            dell’ E. V., nel qual anno la Persia fu interamente con-
+            quistata dagli Arabi.</p></div></div>
 </div>
 </body>
 </text>
