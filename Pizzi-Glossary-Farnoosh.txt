@@ -6,7 +6,7 @@
 #آباد# âbâd, ameno, giocondo; lieto, allegro, contento, felice; -- â. dâštan, conservare in prospero e florido stato; â. kardan, abbellire, adornare; coltivare (la terra).
 #ابر# abr, nuvola, nube; z. awra, skr. abhra; gr. ὄμβρος, lat. imber.
 #ابرو# abrû, sopracciglio; z. brvať, skr. bhru, phl. brú, gr. ὀφρύς.
-#آبروی# âb-rûy (cfr.  <ref xml:lang="fas-tr">rûy</ref>, volto; lett., acqua, colore del volto). ! gloria, onore, splendore; modestia, riservatezza; sudore, fatica.
+#آبروی# âb-rûy (cfr.  <ref xml:lang="fas-tr">rûy</ref>, volto; lett., acqua, colore del volto). gloria, onore, splendore; modestia, riservatezza; sudore, fatica.
 #آب-شور# âb-šûr (cfr.  <ref xml:lang="fas-tr">šûrîdan</ref>, turbare), acqua torbida, (acqua salata, VULLERS).
 #آبگون# âb-gûn (cfr.  <ref xml:lang="fas-tr">gûn</ref>, colore), che è del color dell acqua, splendido, lucido (si dice dei metalli).
 #آبگیر# âb-gîr (cfr.  <ref xml:lang="fas-tr">giriftan</ref>, tpr. gîr, prendere), piscina, peschiera, laghetto.
@@ -321,7 +321,7 @@
 #باف# bâf, tpr. di <ref xml:lang="fas-tr">bâft</ref>, tessere; ornare, intessere; z. e skr. vap, gr. ὑφαίνω, ted. weben.
 #بافت# bâft, tps. di <ref xml:lang="fas-tr">bâf</ref>.
 #باک# bâk, timore, terrore.
-#بالا# bâlâ, col gen. bâlây, altezza, statura; persona alta; posto, o grado alto e cospicuo; età; bi-bâlây i sâl, dell'età, dello spazio di un anno; bâlây i hašt, l'età di otto (anni); b. paymûdan, raggiungere una data età; -- phl. bâlâ.
+#بالا# bâlâ, col gen. <foreign xml:lang="fas">bâlây</foreign>, altezza, statura; persona alta; posto, o grado alto e cospicuo; età; bi-bâlây i sâl, dell'età, dello spazio di un anno; bâlây i hašt, l'età di otto (anni); b. paymûdan, raggiungere una data età; -- phl. bâlâ.
 #بالا# bâlâ (cfr. <foreign xml:lang="fas">پالا</foreign>  <foreign xml:lang="fas-tr">pâlâ)</foreign>, cavallo; zi-bâlâ andar âmadan, cader da cavallo, ovv. cader dall' alto (cfr. 1° bâlâ).
 #بالین# bâlîn, guanciale; giaciglio; z. barezis, skr. barhis ?).
 #بام# bâm, alba, crepuscolo del mattino; z. bâma, skr. bhâma (rad. bhâ, gr. φα, risplendere).
@@ -579,7 +579,7 @@
 #پرنیان# parniyân, drappo di seta.
 #پرو#  parv, le Pleiadi.
 #پرواز# parvâz, volo, il volare.
-#پرور# parvar, tpr. di <ref xml:lang="fas-tr">parvard</ref> e parvarîd, nutrire, allevare, educare, cibare; proteggere; part. parvardah, nutrito, allevato; figlio; parvaridah (in senso att.), che ha allevato, colui che ha educato; - z. pairi + var, antp. e skr. var.
+#پرور# parvar, tpr. di <ref xml:lang="fas-tr">parvard</ref> e parvarîd, nutrire, allevare, educare, cibare; proteggere; part. parvardah, nutrito, allevato; figlio; parvarîdah (in senso att.), che ha allevato, colui che ha educato; - z. pairi + var, antp. e skr. var.
 #پروران# parvarân, tpr. di <ref xml:lang="fas-tr">parvarânîd</ref> (causale di parvar), far nutrire, far allevare.
 #پرورانید# parvarânîd, tps. di <ref xml:lang="fas-tr">parvarân</ref>.
 #پرورد# parvard, tps. di <ref xml:lang="fas-tr">parvar</ref>. guys parvardanî (suff. <foreign xml:lang="fas-tr">î</foreign>), alimento, cibo.
@@ -595,7 +595,7 @@
 #پژشک# pižišk, v. <ref xml:lang="fas-tr">pizišk</ref>.
 #پژمر# pažmar, pazhmur, tpr. di <ref xml:lang="fas-tr">pazhmurd</ref>, marcire, lan guire, avvizzire, andar decadendo; basir di paura, venir meno per il timore.
 #پژمرد# pažmurd, tps. di <ref xml:lang="fas-tr">pazhmar</ref>, pazhmur.
-#پس# pas, 1) prep. dietro, di dietro; pas i, dietro, di dietro; - 2) avv. dopo, dopochè, poscia; az-in pas, d'ora in poi; va-2-ân pas, é dopo ciò, e dopo di ciò; — z. paçča, paçkât, antp. paça, skr. paçčât, lat. post.
+#پس# pas, 1) prep. dietro, di dietro; pas i, dietro, di dietro; - 2) avv. dopo, dopochè, poscia; az-in pas, d'ora in poi; va-z-ân pas, é dopo ciò, e dopo di ciò; — z. paçča, paçkât, antp. paça, skr. paçčât, lat. post.
 #پست# past, umile, basso; depresso, oppresso, schiacciato, pesto; gura i past, clava abbassata, battuta cioè sul capo di uno (?), colpo di clava (?); opp. leggendo: gurz-past, oppresso dalla clava, da un colpo di clava; - p. kardan, disperdere, annientare.
 #پسر# pusar, figlio, fanciullo; z. puthra, antp. putra, skr. putra, phl. pusr.
 
@@ -835,7 +835,7 @@
 #تیغ# tîġ (ê), 1) spada; — 2) cima, vetta di un monte; -—3) raggio di sole; — z. taêgha (punta), arm. têg.
 #تیغ-زن# tîġ-zan (cfr.  <ref xml:lang="fas-tr">zadan</ref>, tpr. zan, battere), che, maneggia, che vibra la spada, quindi: bellicoso, belligero.
 #تیمار# tîmâr, affanno, angoscia, pensiero molesto e doloroso.
-#جا# ǧâ, e <foreign xml:lang="fas">جای</foreign> , luogo, posto; parte del corpo, punto qualunque del corpo; – bar gây ast, è in pronto; - ģ. sipurdan, cedere il posto, ritirarsi; – bi-gây ávardan, apportare; apporre (sulla mensa), imbandire; <pb n="348"/> condurre a termine un lavoro; - <foreign xml:lang="fas-tr">bi-gây âmadan</foreign> convenire in un luogo, radunarsi, raccogliersi; – bigây bằdas, esser pronto; – g. Ản-dil kardas, far posto nel cuore, cioè accogliere nel cuore qualche intenzione, qualche inclinazione; - <foreign xml:lang="fas-tr">gây</foreign> avv. in nessun luogo (con negaz.); – gâyî, in qualche luogo, in qualche parte; – har gây avv. in ogni luogo, dovun que; — bi-gây è, in luogo di ..., invece di ...
+#جا# ǧâ, e <foreign xml:lang="fas">جای</foreign> ǧây,  luogo, posto; parte del corpo, punto qualunque del corpo; – bar gây ast, è in pronto; - ģ. sipurdan, cedere il posto, ritirarsi; – bi-gây ávardan, apportare; apporre (sulla mensa), imbandire; <pb n="348"/> condurre a termine un lavoro; - <foreign xml:lang="fas-tr">bi-gây âmadan</foreign> convenire in un luogo, radunarsi, raccogliersi; – bigây bằdas, esser pronto; – g. Ản-dil kardas, far posto nel cuore, cioè accogliere nel cuore qualche intenzione, qualche inclinazione; - <foreign xml:lang="fas-tr">gây</foreign> avv. in nessun luogo (con negaz.); – gâyî, in qualche luogo, in qualche parte; – har gây avv. in ogni luogo, dovun que; — bi-gây è, in luogo di ..., invece di ...
 #جادو# ǧâdû, mago, incantatore; metaf. occhi di una fan ciulla (come affascinatori); – šâh i gâduvân (pl.), re dei maghi, il Re cioè del Mâzenderân, che si credeva abitato da Dêvi e da maghi; z. e skr. yâtu.
 #جادوی# ǧâdavî (suff. <foreign xml:lang="fas-tr">î</foreign>), magia, incanto.
 #جادویی# ǧâdûyî (suff. <foreign xml:lang="fas-tr">î</foreign>), magia, incanto, fascino; tradimento, frode.
@@ -951,7 +951,7 @@
 #چز# čaz, per cih + az.
 #چستی# čustî (suff. <foreign xml:lang="fas-tr">î</foreign>), velocità, prontezza, energia.
 #چش# čaš, tpr. di <ref xml:lang="fas-tr">čašîd</ref>, gustare, sentire, provare; z. e skr. caš, phl. čašitano.
-#چشم# čašm, occhio, coll. gli occhi; — č. afgandan, gettar lo sguardo su di una cosa, osservare, scorgere; - Ć. bar kasî gumâštan, porre gli occhi su qualcheduno, riporre in lui ogni speranza; — č. i nirang bar dûkhtan, forar l'occhio dell'inganno, cioè deludere un inganno, mandare a vuoto un trannello teso; - <foreign xml:lang="fas-tr">cašm i khurûs</foreign> occhio di gallo, termine di paragone in alcune similitudini per significare (con frase strana) la nitidezza, l'ordine, la precisione con cui è fatta una cosa, p. e. bi-y-ârâst maydân cû čašm i khurûs, apprestò la palestra come un occhio di gallo, cioè con tutta prontezza e proprietà; – z. čašman, phl. laskm, pârsi casm, skr. čakšus, rad. skr. iakš, informare.
+#چشم# čašm, occhio, coll. gli occhi; — č. afgandan, gettar lo sguardo su di una cosa, osservare, scorgere; - č. bar kasî gumâštan, porre gli occhi su qualcheduno, riporre in lui ogni speranza; — č. i nirang bar dûkhtan, forar l'occhio dell'inganno, cioè deludere un inganno, mandare a vuoto un trannello teso; - <foreign xml:lang="fas-tr">cašm i khurûs</foreign> occhio di gallo, termine di paragone in alcune similitudini per significare (con frase strana) la nitidezza, l'ordine, la precisione con cui è fatta una cosa, p. e. bi-y-ârâst maydân cû čašm i khurûs, apprestò la palestra come un occhio di gallo, cioè con tutta prontezza e proprietà; – z. čašman, phl. laskm, pârsi casm, skr. čakšus, rad. skr. iakš, informare.
 #چشمه# čašmah (suff. ah, da čašm, occhio, cfr. ar. ed ebr. 'ayin, occhio e fonte), fonte, fontana; - <foreign xml:lang="fas-tr">cašmah-khín</foreign> fontana di sangue.
 #چشید# čašîd, tps. di <ref xml:lang="fas-tr">čaš</ref>.
 #چک# čak, tpr. di <ref xml:lang="fas-tr">čakîd</ref> stillare, gocciolare; part. Lakán, stillante.
@@ -2368,7 +2368,7 @@
 #گلنارگون# gulnâr-gûn (cfr.  <ref xml:lang="fas-tr">gûn</ref>, colore), che è del colore del pomo granato; rosso.
 #گم# gum, perduto; - g. bûdan, perdersi; - g. šudan, andar perduto; esser levato via (si dice della chiave levata dalla toppa) — g. kardan, perdere, smarrire; - z. vaêma (voragine; caduta, SPIEGEL), phl. vêm.
 #گمار# gumâr, tpr. di <ref xml:lang="fas-tr">gumašt</ref>, consegnare, affidare; fermar lo sguardo, gli occhi (con čašm).
-#گماشت# gumâšt, tps. di <ref xml:lang="fas-tr">gumar</ref>.
+#گماشت# gumâšt, tps. di <ref xml:lang="fas-tr">gumâr</ref>.
 #گمان# gumân, opinione; sospetto, dubbio; — g. burdan, pensare, opinare; sospettare, dubitare; — z. vimananh.
 #گمراهی# gum-râhî (suff. î, cfr.  <ref xml:lang="fas-tr">gum-râh</ref>, che ha perduta la strada), l'andare errando fuor di strada, il fuorviare, lat. error; metaf. rovina, perdizione.
 #گناه# gunâh, colpa, peccato; phl. vnâs, pârsi vanâh, gunah (rad. z. vi + nas, perire).
@@ -2470,7 +2470,7 @@
 #مجلس-آرای# maǧlis-ârây (a. p., cfr.  <ref xml:lang="fas-tr">ârâstan</ref>, tpr. ârà, ârây, ornare), che adorna il festino, la festa; doppiere, lume, lucerna di lusso.
 #مجمر# miǧmar (ar.), braciere.
 #محراب# miḥrâb (ar.), tempio, ovvero nicchia in ogni moschea dei Mussulmani posta in direzione della Mecca (KAZIMIRSKI, Dict. arabe-franç.).
-#مر# mar, particella che si prepone ai nomi e segna . l'accusativo, Gramm. 111.
+#مر# mar, particella che si prepone ai nomi e segna l'accusativo, Gramm. 111.
 #مر# mar, numero; phl. e pârsi mar (rad. z. mar, ricordare, computare).
 #مرا# ma-râ, dat. e acc. di man, v.
 #مرجان# marǧân (ar.), margherita, gemma.
@@ -2682,10 +2682,10 @@
 #نگهدار# nigah-dâr (cfr.  <ref xml:lang="fas-tr">dâštan</ref>, tpr. dâr, avere), custode, protettore.
 #نگین# nigîn, gemma, pietra preziosa; suggello reale.
 #نم# nam, umore; metaf. lagrime; n. bar zadan, lagrimare; – phl. nam, cfr. z. nămyāçus (che ha umidi gli steli, yaşna 9, 52).
-#نما# numâ, tpr. di <ref xml:lang="fas-tr">numûd</ref>, pres. numâyam, mostrare, far vedere, far apparire; - intrans., mostrarsi; parere; — z. ni + mâ, skr. mâ.
+#نما# numâ, tpr. di <ref xml:lang="fas-tr">numûd</ref>, pres. numâyam, mostrare, far vedere, far apparire; - intrans., mostrarsi; parere; — z. ni + z. mâ, skr. mâ.
 #نماز# namâz, ossequio, riverenza; - n. avardan, e n. burdan, ossequiare, prestare ossequio; -- z. nemanh, skr. namas (rad. z. e skr. nam, piegarsi).
 #نمک# namak, sale.
-#نمود# numûd, tps. di <ref xml:lang="fas-tr">numà</ref>.
+#نمود# numûd, tps. di <ref xml:lang="fas-tr">numâ</ref>.
 #ننگ# nang, ignominia, onta, vituperio, infamia, biasimo; - <foreign xml:lang="fas-tr">nam u nang</foreign>, fama e biasimo, cioè: o lode o vituperio (cfr.  <ref xml:lang="fas-tr">VULLERS</ref>, Lex. pers. s. v.).
 
 
@@ -2723,7 +2723,7 @@
 #نهمار# nahmâr (na + humar, cfr.  <ref xml:lang="fas-tr">šumâr</ref>, numero), . innumerevole, infinito; avv., infinitamente, straordina riamente.
 #نهنگ# nahang, coccodrillo; metaf., spada; – skr. nihâkâ.
 #نهیب# nihîb, timore, spavento.
-#نیا# niyâ, pl. niyâgân, avo, nonno; – z. nyâka e antp. nyâka.
+#نیا# niyâ, pl. <foreign xml:lang="fas-tr">niyâgân</foreign>, avo, nonno; – z. nyâka e antp. nyâka.
 #نیاز# niyâz, bisogno; - n. bûdan, abbisognare (con dat. di persona); - phl. niyâč; secondo lo SPIEGEL (Die trad. Litt. der Pârsen, p. 435) da un supposto z. ni + yas, andar domandando; ma yaç nell' Avesta è usato solo nel significato di: andar girando.
 #نیام# niyâm, vagina, fodero della spada.
 #نیایش# niyâyiš (suff. <foreign xml:lang="fas-tr">iš</foreign>), adorazione; - n. kardan, adorare; - phl. niyâyašno; rad. z. ni + yaç? festhalten (JUSTI), cfr.  <ref xml:lang="fas-tr">Spiegel</ref>, Die trad. Litt. der Pârsen, p. 436.
@@ -2856,7 +2856,7 @@
 
 <pb n="470"/>
 #هور# hûr, sole; cfr.  <ref xml:lang="fas-tr">khvar</ref>, z. hvare.
-#هوش# hûš (ở), e <foreign xml:lang="fas">هش</foreign>  <foreign xml:lang="fas-tr">huš</foreign>, prudenza; senno, avvedutezza; virtù; intelligenza, ingegno; bi-hûš âmadan, ritornare in sè, rinvenire, riavere i sensi; far senno, rinsavire; – z. uši, uski, phl. hôš.
+#هوش# hûš (ô), e <foreign xml:lang="fas">هش</foreign>  <foreign xml:lang="fas-tr">huš</foreign>, prudenza; senno, avvedutezza; virtù; intelligenza, ingegno; bi-hûš âmadan, ritornare in sè, rinvenire, riavere i sensi; far senno, rinsavire; – z. uši, uski, phl. hôš.
 #هوشنگ# hûšang, Hôšeng, n. pr. del figlio di Siyâmek, primo re della dinastia dei Pešdâd. V. l'Introduzione al c. I dell'Antologia; — z. haošyanha.
 #هوم# hûm (ô), n. pr. di un pio uomo, Hôm, della discendenza di Frêdûn, che trasse ai piedi di Khusrev il re Afrasyab incatenato, perchè lo punisse delle sue colpe. — Nell'Avesta invece Haoma è il genio della pianta divina haoma che cresce nel lago Vourukaša, guardata da 99999 Fravaši (esseri divini), e il cui succo rende immortale chi ne gusta. Finalmente haoma è anche il nome di una pianta dại fiori gialli detta dai naturalisti asclepias acida, cynanchum viminale, che spremuta nelle sacre cerimonie dà un succo acido e di cattivo gusto, che suol esser bevuto dal sacerdote (zaotar) durante la lettura del yagna; cfr.  <ref xml:lang="fas-tr">SPIEGEL</ref>, <title>Erân. Alterth.</title> II, p. 114. – L'haoma iranico corrisponde al soma indiano che è la bevanda degli Dei; rad. z. hu, skr. su, spremere.
 #هیچ# hîč, anche <foreign xml:lang="fas">ایچ</foreign>  <foreign xml:lang="fas-tr">ič</foreign>, alcuno, qualcuno; — con negaz., nessuno; – hič-kas, alcuno, nessuno; phl. hêč, pârsi héi.

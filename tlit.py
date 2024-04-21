@@ -2,6 +2,7 @@
 #http://pinyin.info/unicode/diacritics.html
 #ایستاد  istâd
 import re
+import sys
 
 newxlit = ''
 lastxl2 = ''
@@ -9,6 +10,24 @@ savepers = ''
 pers = ''
 origxlit = ''
 xlit = ''
+
+keepxlit = {}
+keepxlit ['â'] = 1
+keepxlit ['ash'] = 1
+keepxlit ['at'] = 1
+keepxlit ['bi-'] = 1
+keepxlit ['k-'] = 1
+keepxlit ['ki-y-and'] = 1
+keepxlit [ 'itân' ] = 1
+keepxlit [ 'am' ] = 1
+keepxlit [ 'ma-' ] = 1
+keepxlit [ 'na-' ] = 1
+keepxlit [ 'nâ-' ] = 1
+keepxlit [ 'nah-i' ] = 1
+keepxlit [ 'nâ-umîd' ] = 1
+keepxlit [ 'v-în' ] = 1
+keepxlit [ 'zi' ] = 1
+
 keeppersian = {}
 keeppersian['â'] = 'aá'
 keeppersian['č'] = 'c'
@@ -72,10 +91,10 @@ for l in f:
      lab = '#same'
     else:
      lab = '#diff'
-    print(lab,savepers,newxlit,origxlit,sep="\t")
+    #print(lab,savepers,newxlit,origxlit,sep="\t")
     newxlit = ''
-    if( not curi == len(xchars)):
-     print('checklem',curi,len(xchars),sep='\t')
+    #if( not curi == len(xchars)):
+     #print('checklem',origxlit,curi,len(xchars),sep='\t')
     pers = m[1]
     savepers = re.sub(u'\u200c','-',pers )
     pchars = list(pers)
@@ -93,16 +112,22 @@ for l in f:
     xlit = re.sub('ű','û',xlit)
     #xlit = re.sub('-','',xlit)
     xchars = list(xlit)
-    pers = re.sub(u'\u200C','-',pers)
-    print('#',pers,xlit,sep='\t')
+    #pers = re.sub(u'\u200C','-',pers)
+    #print('#',pers,xlit,sep='\t')
     curi = 0
+    if( origxlit in keepxlit):
+      newxlit = origxlit
+      if( not savepers == pers ):
+       l = re.sub(pers,savepers,l,1)
+      print(l,end='')
+      continue
     for foo in pchars:
      if(foo == u'\u200C' or foo == ' ' or foo == '-'):
       continue
      if foo in p2x:
       xl2 = p2x[foo]
       if(p2x[foo] == 'shadda'):
-       print("repeat",lastxl2)
+       #print("repeat",lastxl2)
        xl2 = lastxl2
      else:
       xl2 = 'fail1'
@@ -118,7 +143,7 @@ for l in f:
 # to
 # uv in the xliteration
        if( xl2 == 'û' and xchars[curi] == 'u' and curi < len(xchars) - 1 and xchars[curi+1] == 'v'):
-          print(foo,xchars[curi]+xchars[curi+1],xl2,xchars[curi]+xchars[curi+1],'consuv',sep='\t')
+          #print(foo,xchars[curi]+xchars[curi+1],xl2,xchars[curi]+xchars[curi+1],'consuv',sep='\t')
           newxlit = newxlit + xchars[curi] + xchars[curi+1]
           lastxchar = xchars[curi]
           curi = curi + 2
@@ -126,45 +151,45 @@ for l in f:
          
        if( curi == 0 and re.search('[îû]',xchars[curi])):
          if( foo == 'ا'):
-           print(foo,'init',sep='\t')
+           #print(foo,'init',sep='\t')
            continue
        if( curi == 0 and re.search(xchars[curi],'iau') and foo == 'ا'):
-           print(foo,xchars[curi],xl2,xchars[curi],'initshortal',sep='\t')
+           #print(foo,xchars[curi],xl2,xchars[curi],'initshortal',sep='\t')
            lastxchar = xchars[curi]
            newxlit = newxlit + xchars[curi]
            curi = curi + 1
            continue
        if( xl2 == 'î' and xchars[curi] == 'i' and curi < len(xchars) - 1 and xchars[curi+1] == 'y'):
-          print(foo,xchars[curi]+xchars[curi+1],xl2,xl2,xchars[curi]+xchars[curi+1],'consiy',sep='\t')
+          #print(foo,xchars[curi]+xchars[curi+1],xl2,xl2,xchars[curi]+xchars[curi+1],'consiy',sep='\t')
           lastxchar = xchars[curi]
           newxlit = newxlit + xchars[curi] + xchars[curi+1]
           curi = curi + 2
           continue
        if( xl2 == 'û' and xchars[curi] == 'v'  and curi < len(xchars) - 1 and xchars[curi+1] == 'u'):
-          print(foo,xchars[curi],xl2,xchars[curi],'consvu',sep='\t')
+          #print(foo,xchars[curi],xl2,xchars[curi],'consvu',sep='\t')
           lastxchar = xchars[curi]
           newxlit = newxlit + xchars[curi]
           curi = curi + 2
           continue
        if( xl2 == 'â' and xchars[curi] == 'u' and lastxchar == 'v'):
           newxlit = newxlit + xchars[curi]
-          print(foo,xchars[curi],xl2,xchars[curi],'aleph2u',sep='\t')
+          #print(foo,xchars[curi],xl2,xchars[curi],'aleph2u',sep='\t')
           curi = curi + 1
           continue
        if( xchars[curi] in keepitalian and keepitalian[xchars[curi]] == xl2):
-          print(foo,xchars[curi],xl2,xchars[curi],'keepitalian',sep='\t')
+          #print(foo,xchars[curi],xl2,xchars[curi],'keepitalian',sep='\t')
           newxlit = newxlit + xchars[curi]
           curi = curi + 1
           continue
 
        if( xl2 in keeppersian and re.search(xchars[curi],keeppersian[xl2])):
-          print(foo,xl2,xl2,xchars[curi],'keeppersian',sep='\t')
+          #print(foo,xl2,xl2,xchars[curi],'keeppersian',sep='\t')
           newxlit = newxlit + xl2
           curi = curi + 1
           continue
 
        if( re.search('[aiu]',xchars[curi]) and curi > 0):
-        print(foo,xchars[curi],xchars[curi],'svow',sep='\t')
+        #print(foo,xchars[curi],xchars[curi],'svow',sep='\t')
         newxlit = newxlit + xchars[curi]
         lastxchar = xchars[curi]
         curi = curi + 1
@@ -173,7 +198,7 @@ for l in f:
          curi = curi + 1
         if( curi < len(xchars) ):
           if( (xl2 == 'û' and xchars[curi] == 'v') or (xl2 == 'î' and xchars[curi] == 'y')  ):
-           print(foo,xchars[curi],xl2,xchars[curi],'cons' + xchars[curi],sep='\t')
+           #print(foo,xchars[curi],xl2,xchars[curi],'cons' + xchars[curi],sep='\t')
            newxlit = newxlit + xchars[curi]
            lastxchar = xchars[curi]
            curi = curi + 1
@@ -184,7 +209,7 @@ for l in f:
           else:
              comp = ''
           newxlit = newxlit + xl2
-          print(foo,xl2,xchars[curi],comp,sep='\t')
+          #print(foo,xl2,xchars[curi],comp,sep='\t')
           curi = curi + 1
           continue
        else:
@@ -193,11 +218,28 @@ for l in f:
           else:
              comp = ''
           newxlit = newxlit + xl2
-          print(foo,xl2,xchars[curi],comp,sep='\t')
+          #print(foo,xl2,xchars[curi],comp,sep='\t')
        if( curi < len(xchars)):
         lastxchar = xchars[curi]
        curi = curi + 1
      else:
-        print("missing xlit")
-      
+        if( not savepers == pers):
+         l = re.sub(pers,savepers,l,1)
+        print("missing xlit",l,end='')
+    if( not re.search(origxlit,l)):
+       sys.stderr.write('matchfailed:'+origxlit+'\n')
+    if( not savepers == pers):
+        if( not re.search(pers,l)):
+          sys.stderr.write('[' + pers + ']\t[' + savepers + ']\t' + l)
+        l = re.sub(pers,savepers,l,1)
+    if( not origxlit == newxlit ):
+       l = re.sub(origxlit,newxlit,l,1)
+       #sys.stderr.write('processed:'+origxlit + " " + newxlit+':'+l)
+    #else:
+       #print('same:',l,end='')
+    if( not curi == len(xchars)):
+     print('checklem',origxlit,curi,len(xchars),sep='\t')
+    print(l,end='')
+  else:
+    print(l,end='')
 f.close()

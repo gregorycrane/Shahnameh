@@ -1,4 +1,6 @@
-<pb n="191"/>
+
+
+	<pb n="191"/>
 
 
 GENERAL INDEX
@@ -94,7 +96,9 @@ advice of, to Firdausi, i,
 
 
 
-<pb n="192"/>
+
+
+	<pb n="192"/>
 
 
 Abt’ Raihan Muhammad. See
@@ -235,7 +239,9 @@ spares the other captives at
 Ivhriras’ request, i, 303
 
 
-<pb n="193"/>
+
+
+	<pb n="193"/>
 
 Afrasiyab, imprisons the cap-
 
@@ -395,7 +401,9 @@ rewards Piran, iti, 106
 reinforces Pirdn, iii, 118
 
 
-<pb n="194"/>
+
+
+	<pb n="194"/>
 Afrésiyäb, announces to
 chiefs the defeat of his host, iii, 242
 
@@ -568,7 +576,9 @@ in single combat, iv, 161
 
 sends Shida on an embassage
 to Kai Khusrau, iv, 161
-<pb n="195"/>
+
+
+	<pb n="195"/>
 
 
 Afrasiyab, hears of Shida’s
@@ -703,7 +713,9 @@ slain by Kai Khusrau, iv, 268
 
 
 
-<pb n="196"/>
+
+
+	<pb n="196"/>
 
 
 Afrasivab, daughter of =Fa-
@@ -847,7 +859,9 @@ ridden by Tahmtras, i, 125,
 third
 
 as
-<pb n="197"/>
+
+
+	<pb n="197"/>
 GENERAL INDEX 197
 
 Ahriman=AfrAsiyab, i, 366
@@ -972,7 +986,9 @@ Farfdün taken by his mother
 to, i, 152
 Zal cast away, and found,
 upon, i, 241 seq.
-<pb n="198"/>
+
+
+	<pb n="198"/>
 
 
 Alburz, Kai Kubäd brought by
@@ -1107,7 +1123,9 @@ interment, vi, 82
 
 corpse of, taken to Memphis,
 vi, 82
-<pb n="199"/>
+
+
+	<pb n="199"/>
 GENERAL INDEX
 
 Alexander, the Great, interred at
@@ -1233,7 +1251,9 @@ Ambuth, place, iii; 41
 Amen-Ra, Egyptian god per-
 sonated by Nectanebus,
 vi, 16
-<pb n="200"/>
+
+
+	<pb n="200"/>
 200
 
 Ameshapentas, the, personifica-
@@ -1390,7 +1410,9 @@ Animals, domestication of, i, 126
 Ant, the, Firdausi’s plea for, i,
 
 201 and note
-<pb n="201"/>
+
+
+	<pb n="201"/>
 
 Antakiya (Antioch), city in
 Syria on the Orontes, 167,
@@ -1507,7 +1529,9 @@ defeated, ix, 85
 Nushirwan’s dream of, viii,
 66 seq., ix, 92
 
-<pb n="202"/>
+
+
+	<pb n="202"/>
 
 
 Arabia, ii, 100; vi, 70, 72, 200,
@@ -1622,7 +1646,9 @@ age, i, 81
 =Bahram, vi, 197, 210
 status of, in Persian tradi-
 tion, vi, 201
-<pb n="203"/>
+
+
+	<pb n="203"/>
 
 
 Ardawän, daughter of 167, vi,
@@ -1772,7 +1798,9 @@ trict in Pars, Vi, 199, 205,
 206, 229 and note, 231,
 241, 245; vii, 206; viii,
 251, 252, 412 and note
-<pb n="204"/>
+
+
+	<pb n="204"/>
 
 
 Ardshir Khurra, city, Ardshir
@@ -1913,7 +1941,9 @@ and note
 
 takes Haftwäd's stronghold,
 vi, 244
-<pb n="205"/>
+
+
+	<pb n="205"/>
 
 Ardshir Papakan, defeats and
 slays Haftwad and Shah-
@@ -2038,7 +2068,9 @@ Aristotle (Arastälis g.v.), Greek
 philosopher (B.C. 384-322)
 
 
-<pb n="206"/>
+
+
+	<pb n="206"/>
 
 
 Aristotle, Alexander the Great’s
@@ -2178,7 +2210,9 @@ V, 110
 
 
 
-<pb n="207"/>
+
+
+	<pb n="207"/>
 
 
 Arjasp, dismayed at Asfandi-
@@ -2308,7 +2342,9 @@ imperial system of, vi, 198
 some of, escape from Ard-
 shir Papakan to Armenia,
 Vi, 203
-<pb n="208"/>
+
+
+	<pb n="208"/>
 
 Arsacid, rivalry of, with Sasa-
 nians, villi, 73
@@ -2434,7 +2470,9 @@ legend of Rustam, 155-
 
 
 
-<pb n="209"/>
+
+
+	<pb n="209"/>
 
 
 
@@ -2585,7 +2623,9 @@ mans, V, 113
 
 distributes the spoil, v,
 114
-<pb n="210"/>
+
+
+	<pb n="210"/>
 
 
 Asfandiyar, undertakes to rescue
@@ -2727,7 +2767,9 @@ disposes of the spoil, v,
 161
 
 
-<pb n="211"/>
+
+
+	<pb n="211"/>
 
 
 Asfandiyar, carries off hissisters, 
@@ -2884,7 +2926,9 @@ ment, v, 224
 informed by Bahman of the
 slaying of Nush Azar and
 Mihr-i-Nush, v, 227
-<pb n="212"/>
+
+
+	<pb n="212"/>
 
 Asfandiyär, enraged with Rus-
 
@@ -3031,7 +3075,9 @@ sent with a host to Zam, iv,
 pillage of Makran by,
 stopped by Kai Khusrau,
 Iv, 243
-<pb n="213"/>
+
+
+	<pb n="213"/>
 
 Ashkash, appointed governor of
 
@@ -3145,7 +3191,9 @@ V, 205
 Aurval-aspa (Luhrasp q.v.), iv,
 
 316; V, II
-<pb n="214"/>
+
+
+	<pb n="214"/>
 
 Autumnal equinox, iv, 313
 Kai Luhrasp crowned at, iv,
@@ -3267,7 +3315,9 @@ vii, 89, 250, 317, 365;
 viii, 08, 184, 210 and note
 visited by Kai Khusrau,
 iii, 20
-<pb n="215"/>
+
+
+	<pb n="215"/>
 
 Azargashasp, templ> of Kai
 Khusrau and Kai Kaus
@@ -3393,7 +3443,9 @@ Alexander the Great, vi,
 Baghdad, city on the Tigris,
 founded by the ’Ab-
 basid Khalifa Al Mansur
-<pb n="216"/>
+
+
+	<pb n="216"/>
 
 
 Baghdad-—cont.
@@ -3547,7 +3599,9 @@ sends a hostile message to
 Zal, v, 235
 
 
-<pb n="217"/>
+
+
+	<pb n="217"/>
 
 
 
@@ -3716,7 +3770,9 @@ Zarir’s absence, iv, 360
 hails Gushtasp as Shah, iv,
 
 362
-<pb n="218"/>
+
+
+	<pb n="218"/>
 
 
 Bahram, Iranian warrior or king,
@@ -3728,7 +3784,7 @@ Gur, vit, 85
 Bahram, father of Shirwi temp.
 Nushirwan, vii, 251, 262
 Bahram, son of Urmuzd, Sdsan-
-ian Shah (Varahran JI),
+ian Shah (Varahran ii),
 162, vi, 3
 receives the throne from,
 and is counselled by,
@@ -3862,7 +3918,9 @@ per, 170-173, i, 14; Vi,
 209, 250; viii, 70, 73,
 184, 187, 199, 209, 214,
 215, 343 seq., 352 seq.,
-<pb n="219"/>
+
+
+	<pb n="219"/>
 
 Bahram Chubina—-cont.
 
@@ -4025,7 +4083,9 @@ change in, viii, 158
 
 questioned by Kharrad, viii,
 158
-<pb n="220"/>
+
+
+	<pb n="220"/>
 
 Bahram Chuübina, sends Yalan-
 
@@ -4189,7 +4249,9 @@ urges Kthan to make war
 on Iran, viii, 330
 
 scts foith for Iran, viii, 331
-<pb n="221"/>
+
+
+	<pb n="221"/>
 
 
 Bahram Chübina, Kharrad at-
@@ -4338,7 +4400,9 @@ holds eight days’ court, vii,
 appoints ministers, vil, 4,
 8, 11
 
-<pb n="222"/>
+
+
+	<pb n="222"/>
 
 
 Bahram Gur, sends letters to 
@@ -4496,7 +4560,9 @@ addresses the archmages,
 Vil, 100
 
 
-<pb n="223"/>
+
+
+	<pb n="223"/>
 
 
 Bahram Gur, wazir complains of
@@ -4633,7 +4699,9 @@ name for Jerusalem, i,
 161
 
 
-<pb n="224"/>
+
+
+	<pb n="224"/>
 
 
 Baitu’l Haram, the Kaaba q.v.,
@@ -4761,7 +4829,9 @@ Bälwi, Iranian noble, 172, viii,
 
 deceived by Cæsar's talis-
 man, viii, 273
-<pb n="225"/>
+
+
+	<pb n="225"/>
 
 Balwi, praised by Cæsar, viii, 279 
 
@@ -4909,7 +4979,9 @@ sends embassy to Gush-
 tasp, v, 75
 
 
-<pb n="226"/>
+
+
+	<pb n="226"/>
 
 
 Barda’, city in Arrangq.v., now in
@@ -5032,7 +5104,9 @@ Barzin, general of Nushirwan,
 viii, 17
 
 
-<pb n="227"/>
+
+
+	<pb n="227"/>
 
 Barzin, father of Kharrad, 171-
 173, viii, 74, 76, 190, 205
@@ -5172,7 +5246,9 @@ Bhutan, Indian kingdom, bet-
 
 ween Assam and Thibet,
 Vi, 81
-<pb n="228"/>
+
+
+	<pb n="228"/>
 
 
 Bibliotheca, of Diodorus, v, 293
@@ -5304,7 +5380,9 @@ Lake Bakhtigan in Pârs,
 vil, 89 ?)
 
 
-<pb n="229"/>
+
+
+	<pb n="229"/>
 
 
 
@@ -5383,7 +5461,9 @@ Bizhan, Iranian hero, son of Giv, 147, 150-152, ii, 4, 366 and note; ii, 4, 366 
 note; iii, 20, 45, 67, 76
 seq., 81, 92, 101, 115, 121,
 
-<pb n="230"/>
+
+
+	<pb n="230"/>
 
 
 Bizhan—cont. 
@@ -5522,7 +5602,9 @@ slays Nastihan, iv, 54
 
 attacks with Giv Pirän's
 centre, lv, 83
-<pb n="231"/>
+
+
+	<pb n="231"/>
 
 Bizhan, fights with Farshidward,
 
@@ -5649,7 +5731,9 @@ slayer of Zarduhsht, v, 15
 Brahman, Hindu priest, iii, 29;
 iv, 50; V, 207, viii, 425;
 ix, 21
-<pb n="232"/>
+
+
+	<pb n="232"/>
 
 
 Brahmans (Gymnosophista), 159
@@ -5774,7 +5858,9 @@ ii, 3 mole, 11, 26, 81, 118,
 189
 meaning of, i, 70 note
 
-<pb n="233"/>
+
+
+	<pb n="233"/>
 
 Eundahi-h, account of Creation
 in, i, 117
@@ -5908,7 +5994,9 @@ welcomed on his return from
 Hind by Nüshfrwän, vii,
 393
 
-<pb n="234"/>
+
+
+	<pb n="234"/>
 
 
 Buzurjmihr, goes hunting with,
@@ -6057,7 +6145,9 @@ Ahran, 1v, 351
 sceks to find out through
 Katayun who Gushtasp
 is, iv, 351
-<pb n="235"/>
+
+
+	<pb n="235"/>
 
 
 Cæsar, femp. Luhräsp, receives
@@ -6199,7 +6289,9 @@ vii, 362
 death of, viii, 43
 temp. Nushirwan, Hurmuzd,
 and Khusrau Parwiz, 172
-<pb n="236"/>
+
+
+	<pb n="236"/>
 
 
 
@@ -6360,7 +6452,9 @@ queens of Ethiopia, vi
 
 
 
-<pb n="237"/>
+
+
+	<pb n="237"/>
 
 Candace Alexander the Great
 and, vi, 65 seq.
@@ -6470,7 +6564,9 @@ north on the upper waters
 of river of the same name,
 iii, 152, 177, 228; vil, 94,
 157, 359
-<pb n="238"/>
+
+
+	<pb n="238"/>
 
 Chaghan, ceded by Kubäd to
 the Haitalians, vii, 198
@@ -6613,7 +6709,9 @@ erally in the Shahnama
 equivalent to Chinese
 Tartary and sometimes
 to Turan, 700, 165, 173,
-<pb n="239"/>
+
+
+	<pb n="239"/>
 
 
 Chin, country, China—cont.
@@ -6749,7 +6847,9 @@ Cross of, viii, 377, 380; ix,
 
 23
 laughter of, viii, 191, 380
-<pb n="240"/>
+
+
+	<pb n="240"/>
 
 Christian, Christians, 167, vi,
 342; Vil, 171, 254, 270;
@@ -6862,7 +6962,9 @@ Crete, island, south of Greece,
 VI, 323 note,
 
 
-<pb n="241"/>
+
+
+	<pb n="241"/>
 
 
 Crete, Minos king of, legend of,
@@ -6985,7 +7087,9 @@ Naudar beleaguered in, by
 Afräsiyäb, i, 353
 
 
-<pb n="242"/>
+
+
+	<pb n="242"/>
 
 
 Dai, genius, i, 88, 89; iii, 287,
@@ -7134,7 +7238,9 @@ demands tribute from
 Sikandar, vi, 36
 
 
-<pb n="243"/>
+
+
+	<pb n="243"/>
 
 Dara, marches against Sikandar,
 
@@ -7296,7 +7402,9 @@ takes of the spoil one spear,
 V, 307
 
 returns to Iran, v, 307
-<pb n="244"/>
+
+
+	<pb n="244"/>
 
 
 Darab, Rashnawad hears from
@@ -7435,7 +7543,9 @@ V, 14
 
 
 
-<pb n="245"/>
+
+
+	<pb n="245"/>
 
 Dastagird, city, viii, 193, 196; 
 
@@ -7562,7 +7672,9 @@ Dimna, Kalila and, 169.
 Fables of Bidpai. See
 
 
-<pb n="246"/>
+
+
+	<pb n="246"/>
 
 
 Dina-i Mafnog-i Khirad, Pahlavi
@@ -7675,7 +7787,9 @@ Sea, i, 191
 
 
 
-<pb n="247"/>
+
+
+	<pb n="247"/>
 
 
 Don (Tanais), river in southern
@@ -7801,7 +7915,9 @@ passim
 Dynasty, dynasties, Iranian, i, 49
 Pishdadian g.v.
 Kaianian q.v.
-<pb n="248"/>
+
+
+	<pb n="248"/>
 
 Dynasty, Ashkanian q.v.
 Sasanian g.v.
@@ -7921,7 +8037,9 @@ Great, vi, 12
 Euphrates (Farat, q¢.v.), river, i,
 So; V, 202; Vi, 31, 327;
 Vi, 217; vil, 153, 190
-<pb n="249"/>
+
+
+	<pb n="249"/>
 
 
 Euxine, sea, i, 16; ii, 191, 336;
@@ -8060,7 +8178,9 @@ Chibina, viii, 112
 
 head of, on spear, vili,
 132
-<pb n="250"/>
+
+
+	<pb n="250"/>
 
 
 Failaküs (Philip II of Macedon),
@@ -8193,7 +8313,9 @@ told by, about his origin.
 i, 153
 prays for Faridün'’s safety,
 i, 158
-<pb n="251"/>
+
+
+	<pb n="251"/>
 
 
 Farânak, rejoices over Faridün’s
@@ -8330,7 +8452,9 @@ seqg., 409; iv, 14, 24, 32,
 45, 50, 145 seq., 164, 166,
 167, 174, 177, 182, 187,
 
-<pb n="252"/>
+
+
+	<pb n="252"/>
 
 
 
@@ -8483,7 +8607,9 @@ seq.
 
 advent of, prophesied, i,
 149
-<pb n="253"/>
+
+
+	<pb n="253"/>
 
 
 Faridün, birth of, i, 150 
@@ -8618,7 +8744,9 @@ recovers his sight, i, 206
 gifts of, to Minüchihr, i, 207
 gives a feast to the nobles,
 i, 207
-<pb n="254"/>
+
+
+	<pb n="254"/>
 
 
 Faridün, receives an embassage
@@ -8773,7 +8901,9 @@ _ Farshidward, son of Wisa and
 
 brother of Piran, Turan-
 jan hero, 152, i, 92; 
-<pb n="255"/>
+
+
+	<pb n="255"/>
 
 
 
@@ -8936,7 +9066,9 @@ burial of, iii, 68
 Kai Khusrau’s grief for, iu,
 84 seq., 112
 
-<pb n="256"/>
+
+
+	<pb n="256"/>
 
 
 Farud, son of Shirin and Khusrau
@@ -9065,7 +9197,9 @@ Yusuf and Zulikha of, i, 45
 admits Muhammadan tradi-
 tions into Shahnama,
 viii, 42
-<pb n="257"/>
+
+
+	<pb n="257"/>
 CE wit.
 
 
@@ -9192,7 +9326,9 @@ troops of, submit to Sikan-
 dar, vi, 118
 
 
-<pb n="258"/>
+
+
+	<pb n="258"/>
 
 
 Furuhil, Iranian hero, 151, iv,
@@ -9300,7 +9436,9 @@ Kai Khusrau resolves to
 pursue Afrasiyab to, iv,
 231
 marches to, iv, 247
-<pb n="259"/>
+
+
+	<pb n="259"/>
 
 
 Gangdizh, Kai Khusrau, forbids
@@ -9435,7 +9573,9 @@ referred to, iv, 211
 sent to Kai Kaus, iv, 233
 
 imprisoned, iv, 235
-<pb n="260"/>
+
+
+	<pb n="260"/>
 
 
 
@@ -9553,7 +9693,9 @@ i, 92
 Iranian heroes, ii, 4
 Genealogies, fictitious, v, 282,
 290, 293; Vi, 199, 211
-<pb n="261"/>
+
+
+	<pb n="261"/>
 
 
 Gencalogies, of Papak in Tabari,
@@ -9661,7 +9803,9 @@ S€q., 143, 154, 155, 157,
 248, 253, 255, 259, 2064,
 268, 273, 289, 291, 292,
 294, 290 seqg., 302, 305,
-<pb n="262"/>
+
+
+	<pb n="262"/>
 
 
 Giv—cont.
@@ -9789,7 +9933,7 @@ sees Palashan approaching,
 iii, 69
 
 burns the barricade at the
-Kasa rid, ji, 73
+Kasa rid, ii, 73
 
 parleys with Tazhav, ii, 75
 
@@ -9825,7 +9969,9 @@ worsted by Puladwand, ui,
 interferes in the fight
 between Rustam and
 Pülédwand, iil, 263
-<pb n="263"/>
+
+
+	<pb n="263"/>
 
 Giv, opposes Bizhan’s expedi-
 
@@ -9985,7 +10131,9 @@ on his pilgrimage, iv, 306
 refuses to turn back when
 bidden by Kai Khusrau,
 iv, 307
-<pb n="264"/>
+
+
+	<pb n="264"/>
 
 
 Giv, Kai Khusrau farewells
@@ -10121,7 +10269,9 @@ ii, 4, 33, 35, 33, 02, 70,
 157, 177, 178, 193, 250,
 286, 290, 316, 318, 335,
 335, 349, 349, 371 seq., 354,
-<pb n="265"/>
+
+
+	<pb n="265"/>
 
 
 Gudarz--cont.
@@ -10272,7 +10422,9 @@ mountain-top, iv, 25
 
 takes his station at the cen-
 tre, iv, 24
-<pb n="266"/>
+
+
+	<pb n="266"/>
 
 
 
@@ -10427,7 +10579,9 @@ gift to, Iv, 295
 
 asks Kai Khusrau for a
 patent for Giv, iv, 298
-<pb n="267"/>
+
+
+	<pb n="267"/>
 
 Gudarz, goes with Kai Khusrau
 
@@ -10571,7 +10725,9 @@ governor of Marv, ix, 120
 
 put to death with his sons,
 ix, 120
-<pb n="268"/>
+
+
+	<pb n="268"/>
 
 
 Guraza, Iranian hero, 151, ii,
@@ -10712,7 +10868,9 @@ ham, vii, 361
 reports death of Gustaham
 to Khusrau Parwiz, viii,
 301
-<pb n="269"/>
+
+
+	<pb n="269"/>
 
 Gurdya, dresses up as a warrior
 to please Khusrau Parwiz,
@@ -10832,7 +10990,9 @@ offered the kingdom of the
 Turkmans by Asfandiyar
 in return for faithful ser-
 vice, v, 120
-<pb n="270"/>
+
+
+	<pb n="270"/>
 
 
 Gurgsar, describes the route to
@@ -10963,7 +11123,9 @@ interview of with Hishwi,
 lV, 324
 
 
-<pb n="271"/>
+
+
+	<pb n="271"/>
 
 Gushtasp, vainly secks work in
 
@@ -11121,7 +11283,9 @@ Luhrasp, iv, 364
 
 
 
-<pb n="272"/>
+
+
+	<pb n="272"/>
 
 
 
@@ -11279,7 +11443,9 @@ fandiyar to court, v, 80
 convokes an assembly and
 arraigns Asfandiyar, v,
 82 seq.
-<pb n="273"/>
+
+
+	<pb n="273"/>
 
 Gushtasp, puts Asfandiyar in
 
@@ -11410,7 +11576,9 @@ passed over in the suc-
 cession, i, 369, 370
 Kai Khusrau sends troops
 to succour, iv, 157
-<pb n="274"/>
+
+
+	<pb n="274"/>
 
 
 Gustaham, son of Naudar, at-
@@ -11557,7 +11725,9 @@ Turk, viii, 220
 
 
 
-<pb n="275"/>
+
+
+	<pb n="275"/>
 
 
 Gustaham (Bistam), Gurdwi and,
@@ -11695,7 +11865,9 @@ king of, vii, 160, 184
 helps Kubad, vii, 198
 Kubad’s flight to, vii, 170,
 184, 198
-<pb n="276"/>
+
+
+	<pb n="276"/>
 
 
 Haital Haitälians, Nushirwan’s
@@ -11852,7 +12024,9 @@ Hfarat, city in north-western
 Afghanistan, ii, 101; i,
 222; viii, 71, 92, 110,
 110, 117, 130, 173
-<pb n="277"/>
+
+
+	<pb n="277"/>
 
 
 Harat, early seat of Aryan civili-
@@ -11980,7 +12154,9 @@ hears of Shapur’s return, vi,
 344
 informs the captain of the
 host, vi, 345
-<pb n="278"/>
+
+
+	<pb n="278"/>
 
 
 Hijaz, north-westera Arabia,
@@ -12104,7 +12280,9 @@ adventure of the wolf of
 Faskun, iv, 335
 
 
-<pb n="279"/>
+
+
+	<pb n="279"/>
 
 
 Hishwi, goes with Gushtasp and
@@ -12233,7 +12411,9 @@ Kai Kaus and Kai Khus-
 Tau, iv, 264
 suggests how Afrasiyab may
 be recaptured, iv, 265
-<pb n="280"/>
+
+
+	<pb n="280"/>
 
 
 Hum, recaptures Afrasivab, iv,
@@ -12369,7 +12549,9 @@ il, 174
 
 informs Pirân of the arrival
 of Rustam, ii, 174
-<pb n="281"/>
+
+
+	<pb n="281"/>
 
 Human, parleys disguised with
 
@@ -12516,7 +12698,9 @@ counselled by his wazir, viii,
 94
 makes peace with Caesar,
 Vil, 95
-<pb n="282"/>
+
+
+	<pb n="282"/>
 
 
 Hurmuzd (Shih), attacks and de-
@@ -12634,7 +12818,9 @@ goes with Gaiümart to fight
 the Black Div, i, 121
 slays the Black Div, i, 121
 Reign of, 140, i, 122
-<pb n="283"/>
+
+
+	<pb n="283"/>
 
 Hüshang, Reign of, Note On, i
 122
@@ -12763,7 +12949,9 @@ ranian captives saved by,
 i, 363
 
 released by, i, 365 seq.
-<pb n="284"/>
+
+
+	<pb n="284"/>
 
 
 Ighriras, upbraided and slain by
@@ -12889,7 +13077,9 @@ marricd to Pashang, i, 205
 
 
 
-<pb n="285"/>
+
+
+	<pb n="285"/>
 
 Iraj, daughter of, gives birth to
 Minichihr, i, 206
@@ -12997,8 +13187,12 @@ Shäpür's death meet for
 counsel in Pars, vi, 394
 Jawanwi sent by, to Mun-
 zir, vi, 397
-<pb n="286"/>
-<pb n="286"/>
+
+
+	<pb n="286"/>
+
+
+	<pb n="286"/>
 franians, offer prayer at the Fire-
 
 fane of Barzin, vi, 400
@@ -13135,7 +13329,9 @@ Sikandar buried at, vi, 1585
 Island, the=Meroc, vi, 065
 Islands, Male and Female, vi, 72
 origin of legend of, vi, 72
-<pb n="287"/>
+
+
+	<pb n="287"/>
 
 
 Isma’il. See Ishmael.
@@ -13254,7 +13450,9 @@ ian hero, 152, i, 92; ii,
 200 seqg., 214
 
 
-<pb n="288"/>
+
+
+	<pb n="288"/>
 
 
 Jahn, son of Afräsiyab, sent to
@@ -13399,7 +13597,9 @@ supersedes Kubad temporar-
 ily, vii, 184, 195
 
 
-<pb n="289"/>
+
+
+	<pb n="289"/>
 
 Jamasp, son of P:rüz, title of,
 vii, 186
@@ -13514,7 +13714,9 @@ in Bahram Gur, vi, 398
 seq.
 
 
-<pb n="290"/>
+
+
+	<pb n="290"/>
 
 Jawanwi, suggests a course of
 action to Munzir, vi, 400
@@ -13628,7 +13830,9 @@ Justin I, Eastern Roman Em-
 peror, vii, 316
 
 
-<pb n="291"/>
+
+
+	<pb n="291"/>
 
 
 Justin II, Eastern Roman Em-
@@ -13739,7 +13943,9 @@ Kachar Bashi, city in Turan, ii,
 
 
 
-<pb n="292"/>
+
+
+	<pb n="292"/>
 
 
 Kadisf, Kadisiya, town on one
@@ -13872,7 +14078,9 @@ seq.
 
 explains the principle of
 the cup, vi, 109
-<pb n="293"/>
+
+
+	<pb n="293"/>
 
 Kaid, sends his Four Wonders
 
@@ -14027,7 +14235,9 @@ gains Iran, ii, 100
 
 makes Rustam paladin of
 paladins, 11, 101
-<pb n="294"/>
+
+
+	<pb n="294"/>
 
 
 
@@ -14163,7 +14373,9 @@ grandsons of, go with Zarir
 to Rum, iv, 360
 hail Gushtasp as Shah, iv,
 362
-<pb n="295"/>
+
+
+	<pb n="295"/>
 
 Kaus, Rustam's patent
 from, v, 203
@@ -14278,7 +14490,9 @@ going on an embassage to
 Afrasiyab, iu, 29
 warns Tus to avoid Kalat,
 ill, 39
-<pb n="296"/>
+
+
+	<pb n="296"/>
 
 Kai Khusrau, hears of the death
 of Farud and of the defeat
@@ -14438,7 +14652,9 @@ other champions, iv, 126
 
 Gurwi brought by Giv
 before, iv, 127
-<pb n="297"/>
+
+
+	<pb n="297"/>
 Kai Khusrau, laments over
 Piran, iv, 127
 
@@ -14593,8 +14809,12 @@ commands the centre, iv,
 191
 
 prays for victory, iv, 191
-<pb n="298"/>
-<pb n="298"/>
+
+
+	<pb n="298"/>
+
+
+	<pb n="298"/>
 Kai Khusrau, hears of the defeat
 of Kurakhan by Gusta-
 ham, son of Naudar, iv,
@@ -14744,7 +14964,9 @@ stays a year in Makran, iv,
 244
 
 makes ready a fleet, iv, 244
-<pb n="299"/>
+
+
+	<pb n="299"/>
 
 Kai Khusrau, leaves Ashkash as
 
@@ -14902,7 +15124,9 @@ Kai Kats and, hear from
 Güdarz of Hum’s adven-
 ture with Afrasiyab, iv,
 264
-<pb n="300"/>
+
+
+	<pb n="300"/>
 
 
 
@@ -15058,7 +15282,9 @@ prepares for his passing, iv,
 308
 
 farewells his chiefs, iv, 308
-<pb n="301"/>
+
+
+	<pb n="301"/>
 
 
 Kai Khusrau, warns his chicfs
@@ -15176,7 +15402,9 @@ entertained by Luhrasp, iy,
 
 
 
-<pb n="302"/>
+
+
+	<pb n="302"/>
 
 
 Kalus, describes Gushtasp to
@@ -15301,7 +15529,9 @@ tells of his encounter with
 Afrasiyab, i, 350
 
 counsels Naudar, i, 353
-<pb n="303"/>
+
+
+	<pb n="303"/>
 
 Karan, son of Kawa, with
 Shidush and Kishwäd,pur-
@@ -15433,7 +15663,9 @@ Kasa rud (Kashaf q.v.), river,
 82, 105; iv, 90
 barricade at the, iii, 29
 burnt by Giv, iii, 73
-<pb n="304"/>
+
+
+	<pb n="304"/>
 
 
 Kashaf (Käsa rüd q.v.), river in
@@ -15562,7 +15794,9 @@ Kavya Ushana (Nai haus, g. 1)
 ii, 25
 Kavyan (Ixaian), ii, 8
 
-<pb n="305"/>
+
+
+	<pb n="305"/>
 
 Kawa, the smith, 140, i, 155 seq.,
 207, 214; Iv, 165, 178;
@@ -15701,7 +15935,9 @@ talians, vii, 330
 
 
 
-<pb n="306"/>
+
+
+	<pb n="306"/>
 
 
 Khan of Chin, leads forth his
@@ -15778,7 +16014,7 @@ Parwiz, and Yazdagird,
 
 352, 350, 357, 303; IX,
 
-$87, 102
+87, 102
 supposed war of, with Hur-
 muzd, viii, 72
 
@@ -15839,7 +16075,9 @@ bina, vili, 344
 
 
 
-<pb n="307"/>
+
+
+	<pb n="307"/>
 
 Khan of Chin, brother of, 173
 =Bizhan, ix, 97
@@ -15982,7 +16220,9 @@ Chubina, viii, 337
 
 asks boon of queen of Chin,
 viii, 338
-<pb n="308"/>
+
+
+	<pb n="308"/>
 
 Kharräd, returns to Iran and is
 rewarded, viil, 345
@@ -16100,7 +16340,9 @@ ii, 287, 328
 
 
 
-<pb n="309"/>
+
+
+	<pb n="309"/>
 
 Khurdad, month and day, i, 88, 
 
@@ -16230,7 +16472,9 @@ make peace with, viii, 194,
 
 treatment of defeated gen-
 erals by, viil, 194
-<pb n="310"/>
+
+
+	<pb n="310"/>
 
 
 Khusrau Parwiz, prediction con- 
@@ -16397,7 +16641,9 @@ viii, 362
 
 
 
-<pb n="311"/>
+
+
+	<pb n="311"/>
 
 Khusrau Parwiz, Gurdya dresses
 
@@ -16566,7 +16812,9 @@ eastern Turkistan, 146,
 383; lil, 107, 242, 247;
 iv, 26, 219; vii, 84, 115,
 339, 334, 359
-<pb n="312"/>
+
+
+	<pb n="312"/>
 
 
 Khutan, raided by Giv, it, 247
@@ -16681,7 +16929,9 @@ Kitradad, Nask, i, 373
 252,
 
 
-<pb n="313"/>
+
+
+	<pb n="313"/>
 
 
 Kunathaiti, Pairika, female per-
@@ -16816,7 +17066,9 @@ rau Parwiz and Maryam,
 Shah, 175, viii, 1yo, 190;
 IX, 3 Seg., 9, 11, 12, 14, 24,
 32, 47, 64
-<pb n="314"/>
+
+
+	<pb n="314"/>
 
 
 Kubäd (Shirwi), secret and public
@@ -16947,7 +17199,9 @@ wounded by Zal, i, 361
 
 death and revival of, in
 legend, i, 119
-<pb n="315"/>
+
+
+	<pb n="315"/>
 
 
 Kulbäd, pursues Kai Khusrau, ii,
@@ -17074,7 +17328,9 @@ viii, 290
 
 
 
-<pb n="316"/>
+
+
+	<pb n="316"/>
 
 
 Kut, corpse of, sent back to
@@ -17193,7 +17449,9 @@ shore of the Black Sea,
 Vii, 2153 villi, 194
 
 
-<pb n="317"/>
+
+
+	<pb n="317"/>
 
 
 Lazic war, renewed by Hur-
@@ -17339,7 +17597,9 @@ entertains Kalus, iv, 357
 consults. Zarir, iv, 358
 
 questions Kalus, iv, 358
-<pb n="318"/>
+
+
+	<pb n="318"/>
 
 
 Luhrasp, dismisses Kälüs with
@@ -17488,7 +17748,9 @@ the passing of the tive Pan-
 davas in, compared with
 that of Kai Khusrau, iv,
 138
-<pb n="319"/>
+
+
+	<pb n="319"/>
 
 Mäh Afrid, grandmother of
 Minüchihr, i, 205
@@ -17598,7 +17860,9 @@ put to death with his
 sons, iX, 120
 sends miller to slay Yaz-
 dagird, ix, 107, 116
-<pb n="320"/>
+
+
+	<pb n="320"/>
 
 Mahwi, sends troops after miller
 With instructions, 1x, 107
@@ -17716,7 +17980,9 @@ vi, 333
 opens the gate to Shapur,
 vi, 333
 
-<pb n="321"/>
+
+
+	<pb n="321"/>
 
 Malika, goes to Shapur’s camp,
 vi, 333
@@ -17836,7 +18102,9 @@ mutilation and execution of,
 ix, 6
 
 
-<pb n="322"/>
+
+
+	<pb n="322"/>
 
 
 Mardanshah (Mardäsas), son of
@@ -17961,7 +18229,9 @@ peror, viii, 187, 188
 
 
 
-<pb n="323"/>
+
+
+	<pb n="323"/>
 
 Maurice, helps Khusrau Parwiz
 on terms, viii, 188
@@ -18079,7 +18349,9 @@ seq.
 empire, ii, 9; vi, 194
 
 Mediterranean, the, vi, 294
-<pb n="324"/>
+
+
+	<pb n="324"/>
 
 Megara, city in Greece, vi, 323
 note
@@ -18197,7 +18469,9 @@ reproaches Rudaba, i, 289
 Sam sent against, i, 292
 
 
-<pb n="325"/>
+
+
+	<pb n="325"/>
 
 Mihrab, hears of Sam's coming,
 i, 292, 299
@@ -18306,7 +18580,9 @@ Mihran Sitad, merchant, enter-
 tains Khusrau Parwiz,
 
 viii, 251
-<pb n="326"/>
+
+
+	<pb n="326"/>
 
 
 Mihräs, father of Ilyas ruler of
@@ -18442,7 +18718,9 @@ accession and inaugural
 address of, i, 237
 
 Sam’s address to, i, 238
-<pb n="327"/>
+
+
+	<pb n="327"/>
 
 Minuchihr, hears of Sam’s finding of Zal, i, 248
 
@@ -18586,7 +18864,9 @@ Gushtäsp in his behalf, = Mihrak = Madik = Arda-
 iv, 334 wan (?), vi, 256
 
 
-<pb n="328"/>
+
+
+	<pb n="328"/>
 
 
 Mithrates. See Meherdates.
@@ -18703,7 +18983,9 @@ and Bahram Gur, 163,
 408; vii, 9
 visits Yazdagird, vi, 377
 monarch of Yaman, vi, 378
-<pb n="329"/>
+
+
+	<pb n="329"/>
 
 
 Munzir, returns to Yaman with
@@ -18789,7 +19071,7 @@ quoted, iv, 314
 
 N
 
-NABARZANES, Persian general, vi,
+Nabarzanes, Persian general, vi,
 32
 pardoned by Alexander the
 Great, vi, 32
@@ -18822,7 +19104,9 @@ Darab, vi, 26
 returns to Failakus and
 gives birth to Sikandar,
 vi, 26
-<pb n="330"/>
+
+
+	<pb n="330"/>
 
 
 Nahid, visits Dilâräi and Rüsha-
@@ -18946,7 +19230,9 @@ Narsi, brother of Bahram Gur,
 165, VI, 3; Wil, 4, 95, 100
 
 
-<pb n="331"/>
+
+
+	<pb n="331"/>
 
 Narsi, made captain of the host,
 Vil, 11
@@ -19062,7 +19348,9 @@ Naudar, Shah, 142, i, 90, 91,
 123, 132, 177, 187, 215,
 257, 289, 294, 327; IV,
 13, 61, 70, 157, 167, 178,
-<pb n="332"/>
+
+
+	<pb n="332"/>
 
 
 191, 193, 206, 237, 254,
@@ -19171,7 +19459,9 @@ IV, 145 Seg., 180, 333: V,
 Blue, vi, 65
 mistaken for Indus, vi, 63
 
-<pb n="333"/>
+
+
+	<pb n="333"/>
 
 Nimruz = Sistan = Zabulistan,<note>Properly speaking, Zabolistan is the name of the hilly country about the upper waters of the Helmund, while Nimruz and Sistan are synonymous names for the low lying lands into which its waters descend, but Firdausi does not seem to make any such distinction.</note> i,
 252, 204, 346, 357; ii, 21,
@@ -19294,7 +19584,9 @@ on Wisdom-literature, vil,
 
 
 
-<pb n="334"/>
+
+
+	<pb n="334"/>
 
 Nôldeke, on Romance of Bahram
 Chubina, viii, 73
@@ -19437,7 +19729,9 @@ vert, Vil, 205
 
 disputation of, with Maz-
 dak, vil, 206 seq.
-<pb n="335"/>
+
+
+	<pb n="335"/>
 
 
 
@@ -19547,7 +19841,9 @@ to act, vii, 267 seq.
 Seven Banquets of 168, vii,
 280, 287 seq.
 possible origin of, vji, 280
-<pb n="336"/>
+
+
+	<pb n="336"/>
 
 Nushirwan, Seven Banquets of,
 
@@ -19574,7 +19870,7 @@ buildings of, vil, 327
 embassy of Khan to, vil, 329
 consults the chiefs as to
 Faghänish, the Khan, and
-the Haitahans, vi, 333
+the Haitalians, vi, 333
 reply of chiefs to, vil, 334
 rejoinder of, to chiefs, vii,
 330
@@ -19609,7 +19905,7 @@ reply of, vil, 349
 occupies territory evacuated
 by the Khan, vi, 358
 
-Haitahans and others bring
+Haitalians and others bring
 gifts to, vil, 300, 302
 
 gives praise to God, Vil, 361
@@ -19696,7 +19992,9 @@ viii, 45
 
 invades Rum, vili, 46
 
-<pb n="337"/>
+
+
+	<pb n="337"/>
 Niushirwan, success of, viii, 47
 checked, vili, 47
 in want of money, viii, 47
@@ -19730,7 +20028,7 @@ choice of Hurmuzd by, story
 of, viii, 87
 palace of, viii, 193
 dream of, ix, 92
-Vush Zad=Mihr-i-Nush, q.v.,
+Nush Zad=Mihr-i-Nush, q.v.,
 v. 285 and note
 Nushzad, father of Mihrak,
 vi, 237, 241, 267, 270,
@@ -19779,7 +20077,7 @@ Firdausi’s reflections on, vii,
 
 O
 
-Oasis OF AMMON, vi, 65
+Oasis of Ammon, vi, 65
 Alexander the Great’s visit
 to, vi, 65
 Oblivion, Castle of, vii, 184
@@ -19816,7 +20114,9 @@ of the quince, ix, 13, 14
 
 
 
-<pb n="338"/>
+
+
+	<pb n="338"/>
 
 Omphis, Indian king, vi, 62
 Onager, the div Akwän as, iii,
@@ -19959,7 +20259,9 @@ Palawina (Cappadocia), vi, 294,
 297, 298
 Palestine, vi, 30
 
-<pb n="339"/>
+
+
+	<pb n="339"/>
 
 Palladius, bishop, vi, 61, 62
 treatise of, on the Brah-
@@ -20086,7 +20388,9 @@ vi, 203, 256, 322; vii, 150;
 Vil, 73
 conquest of Iran by, i, 19
 Zoroastrianism under, i, 63
-<pb n="340"/>
+
+
+	<pb n="340"/>
 
 
 Parthian, dynasty, iii, 9, 11; v,
@@ -20215,7 +20519,9 @@ lated into, viii, 383
 conquest of Yaman, viii, 2
 note
 raid Sytia, viil, 41
-<pb n="341"/>
+
+
+	<pb n="341"/>
 
 Persian, Persians, defeat by
 Romans referred to, viii,
@@ -20340,7 +20646,9 @@ Siyawush, 145, ii, 268
 seq.
 
 entertains Siyawush, ii, 278
-<pb n="342"/>
+
+
+	<pb n="342"/>
 
 
 Piran, offers to help Siyawush to
@@ -20369,7 +20677,7 @@ protects the infant Kai
 Khusrau, 11, 326 seq.
 
 advises Afrasiyab respecting
-Kai Khusrau, ji, 356
+Kai Khusrau, ii, 356
 
 sends Kulbäd and Nastihan
 to pursue Kai Khusrau,
@@ -20510,7 +20818,9 @@ pursues Rustam, i, 349
 
 sent by Afrasiyab to invade
 Iran, iv, 11
-<pb n="343"/>
+
+
+	<pb n="343"/>
 Piran, holds parley with Giv, iv, 
 20
 
@@ -20656,7 +20966,9 @@ tradition of, vii, 160
 
 in mythical story, vii,
 161
-<pb n="344"/>
+
+
+	<pb n="344"/>
 
 
 Piruz (Perozes), Bahram Gur’s
@@ -20811,7 +21123,9 @@ Stick, ii, 292; 1V, 350: vi,
 
 
 
-<pb n="345"/>
+
+
+	<pb n="345"/>
 
 Porus (Fur g.v.), Indian king,
 V1, 17, 62 seq., 66, 70, S3
@@ -20928,7 +21242,9 @@ reproaches Kubad, ix, 17
 makes Shahranguraz prime
 minister, ix, 56
 True Cross and, ix, 56
-<pb n="346"/>
+
+
+	<pb n="346"/>
 
 
 Purmaya (Barmaiun), brother of
@@ -20945,7 +21261,7 @@ Python, Apollo and the, vi, 203
 
 Q
 
-QUEEN oF CHiN (wife of the
+Queen of Chin (wife of the
 Khan), viii, 190
 daughter of, slain by lion-
 ape, viii, 322
@@ -20976,7 +21292,7 @@ on the Amazons, vi, 72
 
 R
 
-RACES, duplicate in West and
+Races, duplicate in West and
 East, vi, 68
 fair-haired, vi, 73
 Rad, ruler of Zäbulistän, vii, 86
@@ -21028,8 +21344,7 @@ Rai. See Raja.
 Raibad, town, about twenty
 miles west of Nishäpür,
 and district east of the
-Jagatai range, in Khura-
-s4n,*, iv, 17, 22, 23, 47,
+Jagatai range, in Khurasan,<note>The village of Riwad to the south of the range may perhaps Indicate what was once the western boundary of the district.</note>, iv, 17, 22, 23, 47,
 55, 76, 88, 112, 134
 
 occupied by Güdarz, iv,
@@ -21061,10 +21376,12 @@ vii, 393
 reccives Nüsbhirwän’s gifts
 from Barzwi, vii, 425
 
-<note>The village of Riwad to the south of the range may perhaps Indicate what was once the western boundary of the district.</note>
 
 
-<pb n="347"/>
+
+
+
+	<pb n="347"/>
 
 Raja, assists Barzwi in his mis-
 
@@ -21218,8 +21535,9 @@ questions Darab, v, 304
 
 sends for the launderer and
 his wife, v, 304
-<pb n="348"/>
-348
+
+
+	<pb n="348"/>
 
 Rashnawad, Darab and, defeat
 the Rumans. v, 305, 300
@@ -21333,10 +21651,12 @@ leads to war with Nushir-
 Wan, VII, 217
 
 
-<pb n="349"/>
 
 
-Romans,dcfeat Bahram Chübina, 
+	<pb n="349"/>
+
+
+Romans, defeat Bahram Chübina, 
 
 vil, 76
 Romance of Alexander the Great
@@ -21435,8 +21755,12 @@ Rudyab, father of Papak (in
 Shähnäma), vi, 200, 212
 Rue, wild, as a prophylactic, i,
 380
+
+
+
+
 Ruhham, son of Güdarz, Iranian
-he1o, tl, 4, 62, 73, 144, 158,
+hero, ii, 4, 62, 73, 144, 158,
 340; ill, 19, 33, 48, 67,
 115, 126 seq., 139 seq., 154,
 157, 182, 187, 211, 248,
@@ -21450,7 +21774,9 @@ mortally wounds Farüd, iii,
 64
 embassy of, to Piran, iii, 87
 attacks Bazur, i, 128
-<pb n="350"/>
+
+
+	<pb n="350"/>
 
 Rubham, worsted by Ashkabis,
 
@@ -21513,8 +21839,8 @@ viii, 73
 
 Ruin, son of Piran, 151, i, 92;
 
-ill, 207, 234; iv, 10, 71,
-gO, 102, 152, 153, 162
+iii, 207, 234; iv, 10, 71,
+90, 102, 152, 153, 162
 summons Piran to save
 Farangis, ii, 323 and note
 
@@ -21599,7 +21925,9 @@ iv, 128, 271, 364; V, 295;
 vi, 56, 89; vii, 64, 67, 276,
 384; vil, 157, 173, 278,
 337, 367, 374; 1X, 99, 101
-<pb n="351"/>
+
+
+	<pb n="351"/>
 
 Rum, helm of, isi, 114
 
@@ -21777,7 +22105,9 @@ of the Tigris, vii, 218
 Rus (Russia), vi, 19; viii, 406
 
 king of, vi, 22
-<pb n="352"/>
+
+
+	<pb n="352"/>
 
 
 Rushanak (Roxana, g.v.), daugh-
@@ -21930,7 +22260,9 @@ takes part in the Fight of the
 Seven Warriors, ii, 107 seq.
 
 slays Alkus, ii, 115
-<pb n="353"/>
+
+
+	<pb n="353"/>
 
 Rustam, and Suhrab, Story of,
 
@@ -21976,7 +22308,7 @@ saves his life by a ruse, ii,
 170
 
 prays that his strength may
-be restored, ji, 171
+be restored, ii, 171
 
 learns too late that Suhrab
 is his son, ii, 173
@@ -22100,8 +22432,12 @@ slays Chingish, iii, 195
 
 
 
-<pb n="354"/>
-<pb n="354"/>
+
+
+	<pb n="354"/>
+
+
+	<pb n="354"/>
 Rustam, parleys with Human,
 
 iil, 196
@@ -22269,7 +22605,9 @@ opens a market, iii, 337
 
 interviews of, with Manizha,
 iii, 337, 342
-<pb n="355"/>
+
+
+	<pb n="355"/>
 
 Rustam, sends food and his ring
 
@@ -22419,7 +22757,9 @@ go against, v, 173
 
 Asfandiyar’s message to, v,
 179
-<pb n="356"/>
+
+
+	<pb n="356"/>
 
 Rustam, life of, attempted by
 
@@ -22580,7 +22920,9 @@ new the fight, v, 240
 makes a final effort for peace
 with Asfandiyar, v, 24!
 seq.
-<pb n="357"/>
+
+
+	<pb n="357"/>
 
 Rustam, bewails Asfandiyar to
 
@@ -22675,8 +23017,8 @@ slays Shaghad, v, 272
 
 last words of, v, 272
 
-corpse of, taken from
-pit by Faramarz, v,
+corpse of, taken from the
+pit by Faramarz, v, 274
 
 obsequies of, v, 274 seq.
 
@@ -22699,7 +23041,7 @@ Bahram Chubina, viii,
 
 Rustam, Persian commander in
 
-chief under Yazdagird ITI,
+chief under Yazdagird iii,
 176; ix, 66, 67, 69, 73, 81
 seq., 90, 95
 
@@ -22707,12 +23049,12 @@ brother of Farrukhzad, viii,
 413 and seote
 revolt of, vili, 413
 
-overthrows Azarmdukht, ix,
+overthrows Azarmdukht, ix, 59
 
-the
-274
 
-59
+
+
+
 advances to Kädisiya, ix, 67,
 73
 end of, ix, 69
@@ -22732,10 +23074,12 @@ Ruzbih, scribe, viii, 252
 
 S
 
-SA’AD, son of Wakkas, Arab
+Sa’ad, son of Wakkas, Arab
 general, 176, ix, 67, 68,
 82 seq., 90
-<pb n="358"/>
+
+
+	<pb n="358"/>
 
 
 Sa’ad, succeeds Abu ’Ubaida, ix,
@@ -22851,7 +23195,9 @@ worsted by Minüchihr, i,
 220
 plan night-surprise, i, 220
 worsted, i, 221
-<pb n="359"/>
+
+
+	<pb n="359"/>
 
 Salm, hears of Tur’s defeat and
 
@@ -23006,7 +23352,9 @@ goes with Zal to Kabul, i,
 317
 
 
-<pb n="360"/>
+
+
+	<pb n="360"/>
 
 
 Sam, sees Rudaba and felicitates
@@ -23143,7 +23491,9 @@ pur g.v.), vi, 365
 Sarakhs, city in Khurasan, be-
 tween Nishapur and Marv,
 il, 108
-<pb n="361"/>
+
+
+	<pb n="361"/>
 
 Saraparda, i, 84
 
@@ -23286,15 +23636,16 @@ architecture, viii, 193
 race viii, 285, 386, note
 Satire, Firdausi’s, on Sultan
 Mahmud, i, 40 seq.
-<pb n="362"/>
-GENERAL INDEX
 
-Satrapy, satrapies, Nüshfrwän’s  S
 
-362
+	<pb n="362"/>
+
+Satrapy, satrapies, Nüshfrwän’s 
+
+
 four ix, 69
 
-Saturn, planet, ji, 72, 100, 161,
+Saturn, planet, ii, 72, 100, 161,
 204, 245, 295, 311; ii,
 183, 208, 215, 247, 263,
 310, 319, 394, 407; ii,
@@ -23420,7 +23771,9 @@ relations of, with the Iran-
 ians, i, 9 seq., ix, 65
 Seneca the younger, Nero's tutor
 (B.C. 3—A.D. 65), vii, 279
-<pb n="363"/>
+
+
+	<pb n="363"/>
 
 Seoses (Sufarai ?), Persian com-
 mander-in-chief, temp.
@@ -23565,7 +23918,9 @@ Shahd, river, il, 108; iii, It,
 Shahd, mountain, iii, 237
 
 
-<pb n="364"/>
+
+
+	<pb n="364"/>
 
 
 Shahnama (Bastan-nama, Khu-
@@ -23718,7 +24073,9 @@ Shahr- Barz. See Shahrbaraz.
 
 
 
-<pb n="365"/>
+
+
+	<pb n="365"/>
 
 Shahrgir, warrior in Sikandar’s  
 
@@ -23846,7 +24203,9 @@ son of, vii, 115
 
 entertains Bahram Gir, vii,
 116
-<pb n="366"/>
+
+
+	<pb n="366"/>
 
 
 Shangul, Bahram Gur wrestles
@@ -23967,7 +24326,9 @@ Zoroastrian doctrine, i, 63
 
 
 
-<pb n="367"/>
+
+
+	<pb n="367"/>
 
 Shapur, son of Urmuzd, Zoroas-
 
@@ -24107,7 +24468,9 @@ mander-in-chief, vii, 184,
 summoned to overthrow
 Süfarai, vii, 19i
 
-<pb n="368"/>
+
+
+	<pb n="368"/>
 
 
 Shapur of Rai, conference of,
@@ -24248,7 +24611,9 @@ v, 50
 given command of onc wing,
 V, 55
 slain, v, 58
-<pb n="369"/>
+
+
+	<pb n="369"/>
 
 
 Shidush, Iranian hero, i, 211 ; ii,
@@ -24363,7 +24728,9 @@ released, viii, 196, 415
 il 216.
 
 
-<pb n="370"/>
+
+
+	<pb n="370"/>
 
 Shirwi (Kubäd),secret and public
 names of, vil, 372, 416
@@ -24482,7 +24849,9 @@ paternity of, i, 55 and
 note
 
 
-<pb n="371"/>
+
+
+	<pb n="371"/>
 
 
 Sikandar, derivation of, in Ta-
@@ -24644,7 +25013,9 @@ Fur’s troops submit to, vi,
 
 becomes king of Hind, vi,
 118
-<pb n="372"/>
+
+
+	<pb n="372"/>
 
 
 Sikandar, bestows Hind on 
@@ -24800,7 +25171,9 @@ vi, 158
 
 sets forth with Khisr as
 guide, vi, 159
-<pb n="373"/>
+
+
+	<pb n="373"/>
 
 
 Sikandar, Khisr and, part com- 
@@ -24901,7 +25274,7 @@ riya, vi, 185
 sentences of sages over, vi,
 82, 83, 185
 cities of, vi, 83, 189
-Zoroast:iian and Säsänian
+Zoroastrian and Säsänian
 view of, i, 59 and note, 61
 seq. ; vi, 15 and note, 224,
 240; vil, 79 and note
@@ -24935,7 +25308,9 @@ their efficacy, i, 246, 320
 restores Zal to Sam, i, 247
 
 
-<pb n="374"/>
+
+
+	<pb n="374"/>
 
 
 Simurgh, referred to, i, 251
@@ -25053,7 +25428,9 @@ former capital of, i, 4
 lake of, i, 4; v, 239 note
 
 
-<pb n="375"/>
+
+
+	<pb n="375"/>
 
 
 Sistan, origin of name, i, 19
@@ -25162,7 +25539,9 @@ entertained by Piran, ii, 278
 builds cities, ii, 278 seq.
 consults the astrologers, ii,
 282
-<pb n="376"/>
+
+
+	<pb n="376"/>
 
 
 Sivawush, fotetells the future to
@@ -25291,7 +25670,9 @@ Spenté-data.
 Spento-data (Spand-dât,  As-
 
 fandiyar q.v.), v, 12
-<pb n="377"/>
+
+
+	<pb n="377"/>
 
 Spento-data (Spendyad, Sapad,
 Sipand q.v. ), mountain
@@ -25431,7 +25812,9 @@ and Jaxartes, i, 19; ii,
 358, 359
 
 Sughdiana, vi, 72. See Sughd.
-<pb n="378"/>
+
+
+	<pb n="378"/>
 
 
 Suhrab, son of Rustam and
@@ -25580,7 +25963,9 @@ referred to, iv, 273
 informs Kai Khusrau that
 his prayer is granted, iv,
 281
-<pb n="379"/>
+
+
+	<pb n="379"/>
 
 Surüsh, angel, bids Kai Khusrau
 appoint Luhrasp as his
@@ -25636,7 +26021,7 @@ Syrian, ix, 66
 
 T
 
-TAB4K, Iranian chief, r6r, vi, 202,
+Tabak, Iranian chief, r6r, vi, 202,
 22
 suspected by Ardshfr Päpa-
 kan, vi, 225
@@ -25651,7 +26036,7 @@ feat Bahman, vi, 226
 
 buries Ardawan, vi, 229
 advises Ardshir Papakan to
-‘ marry the daughter of
+marry the daughter of
 Ardawan, vi, 229
 Tabaif, Arabic historian (A.D.
 838-923), lil, 108; vi, 14
@@ -25700,7 +26085,9 @@ Turks, vii, 317
 Persian, vii, 5; villi, 42, 73
 seq., 187 seq. ; iX, 4, 5, 43,
 70
-<pb n="380"/>
+
+
+	<pb n="380"/>
 
 
 Tabari, Persian, story from, con-
@@ -25855,7 +26242,9 @@ Nushirwân returns to, viii,
 53
 Bahram Chubina marches
 from province of, viii, 106
-<pb n="381"/>
+
+
+	<pb n="381"/>
 
 Taisafun, Khusrau Parwiz im-
 prisoned at viii, 421 ; 1x, 9
@@ -25949,7 +26338,7 @@ east of Tashkand near the
 present town of Aulieh-
 Ata, i, 257, 266; v, 157;
 vi, 268; vili, 370; ix, 41
-Cypress of —Rüdäba, i, 269
+Cypress of Rüdäba, i, 269
 Idols of, ii, 123, 206; iti,
 248; iv, 218; viii, 370
 Tartary, iv, 156
@@ -25972,7 +26361,9 @@ Nüshirwän, vil, 215, 225
 seq.
 Taxila, Indian city, vi, 63
 situation of, vi, 62
-<pb n="382"/>
+
+
+	<pb n="382"/>
 
 
 Tazhav, an Iranian deserter to,
@@ -26038,7 +26429,7 @@ Tir, genius, 11, 287, 328
 month and day, i, 88, viii,
 
 394
-_ Tirf, eunuch of Güzihr, vi, 198
+Tirf, eunuch of Güzihr, vi, 198
 
 Timid, city and fortress north
 of the Oxus (Jihun) where
@@ -26097,7 +26488,9 @@ number of, vi, 198
 
 
 
-<pb n="383"/>
+
+
+	<pb n="383"/>
 
 Tribal, or Part Kings, Ardawan,
 
@@ -26249,7 +26642,9 @@ passim; vi, 43, 182, 398;
 vit, 43, 92, 130, 156, 178;
 
 viii, 118, 123, 130, 242,
-<pb n="384"/>
+
+
+	<pb n="384"/>
 
 Türân—cont.
 329, 331, 349, 350, 379,
@@ -26376,7 +26771,9 @@ V, 120
 ordered by Arjasp to march
 out from the Brazen Hold
 in force to attack the 
-<pb n="385"/>
+
+
+	<pb n="385"/>
 
 
 
@@ -26530,7 +26927,9 @@ horse of, slain by Farid, iii,
 
 
 
-<pb n="386"/>
+
+
+	<pb n="386"/>
 
 
 Tus, resolves to attack Kalat, 11,
@@ -26685,7 +27084,9 @@ prince of, i, 100, 114
 legendary origin of, ii, 14
 legend conceining Firdausi’s
 burial at, iii, 191
-<pb n="387"/>
+
+
+	<pb n="387"/>
 
 Tus, city, treasure of Kai Kaus
 called "The Bride” stored
@@ -26797,7 +27198,9 @@ lake in Azarbdijan, iv,
 136; vil, 195
 Afrâsiyäb escapes from Him
 into, iv, 262 and note
-<pb n="388"/>
+
+
+	<pb n="388"/>
 
 
 Ustad, Iranian general, vii,
@@ -26807,7 +27210,7 @@ Ustad, Iranian warrior, viii, 296
 Ustukila, Turanian hero, iv, 182
 fights with Kai Khusrau, iv,
 182
-Al, secretary to Sultan
+'Utbi, Al, secretary to Sultan
 Mahmud, i, 32
 "Uthman, Khalifa, i, 12
 Utterakuri, a legendary people,
@@ -26816,10 +27219,10 @@ Uzava (Zav), Shah, i, 369
 
 251
 
-"Utbi,
+
 
 V
-VALE of heroes, vii, 6
+Vale of heroes, vii, 6
 Valerian (Bazanush), Roman
 
 Emperor (A.D. 253-260),
@@ -26948,7 +27351,9 @@ Vologeses (Balash), Shah, vii, 170
 Vonones I, Parthian (Ashkänian)
 
 king (A.D. 8-12)
-<pb n="389"/>
+
+
+	<pb n="389"/>
 
 Vouru-Kasha, sea, iv, 137
 Vritra, demon, ii, 25
@@ -26958,7 +27363,7 @@ Shahnama, i, 77; vi, 60
 
 W
 
-WAHR, region, iii, 177, 228, 235
+Wahr, region, iii, 177, 228, 235
 Wakkas, father of Sa’ad q.v.,
 176; ix, 72, 78, 82, 90
 Walid, Khalifa, vi, 325
@@ -27072,7 +27477,9 @@ referred to, vii, 278
 —literature, Persian, vii, 278
 seq., viii, 3
 Mohl on, vii, 280
-<pb n="390"/>
+
+
+	<pb n="390"/>
 
 
 Wisdom, literature, Nôldeke on,
@@ -27113,7 +27520,7 @@ Asfandiyar and, v, 282
 cthgy of, falls, vi, 30
 
 Y
-YAjUy and MAjty (Gog and
+Yajuj and Majuj (Gog and
 Magog, q.v.), 160, vi, 79,
 163 seq., 211 note
 legend of, in the Kuran, vi,
@@ -27200,7 +27607,9 @@ curtains of, viii, 148, 151
 Yants (Julian), brother of Cæsar,
 
 162, vi, 324, 326
-<pb n="391"/>
+
+
+	<pb n="391"/>
 
 Yanus, leads a host against Sha-
 pur, vi, 351
@@ -27344,7 +27753,9 @@ Hulwan, ix, 68
 
 last attempt of, to recover
 his empire, ix, 68
-<pb n="392"/>
+
+
+	<pb n="392"/>
 
 
 Yazdagird, concentrates his
@@ -27427,7 +27838,7 @@ Yunan, vi, 95 and note, vi, 258
 Faith of, vi, 95
 
 Z
-ZAB, lesser, tributary of Tigris,
+Zab, lesser, tributary of Tigris,
 viii, 189
 Zäbul, Zabulistan =Nimriz=
 Sistan,<note>See p. 333 note.</note> 141, 142, 144,
@@ -27459,7 +27870,9 @@ invaded by Shamäsäs and
 Khazarwän, i, 345, 358
 
 
-<pb n="393"/>
+
+
+	<pb n="393"/>
 
 Zabul, vintage of, ii, 110
 occupied by the Turkmans,
@@ -27535,7 +27948,7 @@ Iblis’ advice to, i, 139
 invades Iran, i, 139 -
 
 captures and slays Jamshid,
-i, 140 °
+i, 140 
 
 Reign of, 140, i, 141, seq.
 
@@ -27593,7 +28006,9 @@ future final destruction of,
 i, 173
 
 saying of, ii, 171 and mole
-<pb n="394"/>
+
+
+	<pb n="394"/>
 
 Zahhak, an Aryan myth, ix, 65
 king of Babylon, ix, 65
@@ -27737,7 +28152,9 @@ fclicitated by Sam, i, 318
 married to Rüdäba, i, 318
 and Rudaba go to Sistan, i,
 319
-<pb n="395"/>
+
+
+	<pb n="395"/>
 Zal, left regent of Sistan by S4m~
 
 i, 319
@@ -27897,7 +28314,9 @@ v, 183
 give Bahman a guide to
 conduct him to Rustam,
 v, 184
-<pb n="396"/>
+
+
+	<pb n="396"/>
 
 
 
@@ -27916,7 +28335,7 @@ receives a message from
 Rustam by Zawara, v,
 230
 
-gricves over
+gricves over Rustam's
 wounds, v, 234
 
 summons the Simurgh to
@@ -27958,9 +28377,9 @@ Bishütan intercedes for, v,
 released and returns to his
 palace, v, 289
 
-Rustam's
 
-Zal-i-zar (Zal, g.v.), i, 84, 248 and
+
+Zal-i-zar (Zal, q.v.), i, 84, 248 and
 
 note
 
@@ -28052,7 +28471,9 @@ chosen to fight Akhast, iv,
 
 97
 slays Akhâst, iv, 106
-<pb n="397"/>
+
+
+	<pb n="397"/>
 
 Zanga, Kai Khusrau remon-
 strated with by, and
@@ -28143,33 +28564,25 @@ referred to, v, 36, 38, 41
 
 slain at Balkh, v, 92, 93
 
-amulet given to Asfandiyar
-by, v, 130
+amulet given to Asfandiyar by, v, 130
 
-religion of, under the Sasa-
-nian empire, Vi, 251.
+religion of, under the Sasanian empire, Vi, 251.
 
 girdle of, v, 16; vi, 332 mole.
 
 Fire-fane of, vii, 139
 
-high priest of, converts
-Sapinüd, vii, 139
+high priest of, converts Sapinud, vii, 139
 
 saying of, viii, 218, 240
 
-Zarduhsht, high priest, 170, viii,
+Zarduhsht, high priest, 170, viii, 81
 
-81
+visits Izid Gashasp in prison, viii, 82
 
-visits Izid Gashasp in prison,
-viii, 82
+visit of, reported to Hurmuzd, viii, 83
 
-visit of, reported to Hur-
-muzd, viii, 83
-
-poisoned by Hurmuzd, viii,
-83 seq.
+poisoned by Hurmuzd, viii, 83 seq.
 
 Zariadres (Zairi-vairi, Zarir, q.v.),
 v, 26
@@ -28205,7 +28618,9 @@ reaches Halab, iv, 360
 
 
 
-<pb n="398"/>
+
+
+	<pb n="398"/>
 
 
 Zarir entrusts the host to
@@ -28256,13 +28671,12 @@ Zartusht-nama, poem, v, 18
 
 
 
-Zav, Shah, 142, 143, i, 90, OI,.
+Zav, Shah, 142, 143, i, 90, 91,
 
 381; ii, 11, 36; iv, 283
-Reign of, 142, i, 369-seq.
+Reign of, 142, i, 369 seq.
 Note on, i, 369
-mentioned in the Zanda-
-vasta, i, 369
+mentioned in the Zandavasta, i, 369
 
 
 
@@ -28345,7 +28759,9 @@ goes in quest of Rustam, v,
 
 takes from Rustam a mess-
 age for Zal, v, 230
-<pb n="399"/>
+
+
+	<pb n="399"/>
 
 
 Zawära, grieves over Rustam's

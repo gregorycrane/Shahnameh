@@ -1,0 +1,19 @@
+Do the following in passage that follow.
+Identify OCR Errors and Fix Them: Before we start with the TEI XML markup, let's correct any OCR (Optical Character Recognition) errors present in the text. Common OCR errors include misrecognized letters (e.g., "l" mistaken for "i"), issues with punctuation, and spacing problems.
+
+Markup with TEI XML: TEI (Text Encoding Initiative) XML is a standard for representing texts in digital form with a focus on preserving the original structure and other textual elements such as footnotes, headings, etc. For the footnotes, we use the <note> tag, which can be placed inline with the text where the footnote reference appears. Since this example includes footnotes identified by numbers (e.g., "1" for a reference), we'll markup these references and then include the actual footnote text at the end of the document or section, as is common in TEI encoding practices. 
+
+Include the note number: <note n="1"></note>, <note n="2">
+
+Replace quotes with <quote/> tags.
+
+Correct names: Haitalians, Piruz.
+
+"Haitslians" should be "Haitalians".
+"Tasikdn" and "Tilikan" should be "Talikan"
+"Hurmiuz" should be "Hurmuz"
+Rum is the Persian word for Rome and should not be changed.
+
+Do not use <lb/> tags here.
+Here is the passage:
+

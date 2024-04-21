@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Shahnama of Firdausi, done into English by Arthur George Warner, MA, and Edmond Warner, BA</title>
+                <sponsor>Tufts University</sponsor>
+                <funder>Mellon Foundation</funder>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <resp>OCRd the text and added initial TEI XML and corrections</resp>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>Tufts University</authority>
+                <idno type="filename">https://archive.org/details/shahnama01firduoft https://archive.org/details/shahnama02firduoft https://archive.org/details/shahnama03firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama05firduoft https://archive.org/details/shahnama06firduoft https://archive.org/details/shahnama04firduoft https://archive.org/details/shahnama0;firduoft https://archive.org/details/shahnama08firduoft https://archive.org/details/shahnama09firduoft </idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</licence>
+                </availability>
+                <date>2024</date>
+                <publisher>Tufts University</publisher>
+                <pubPlace>Medford, MA, USA</pubPlace>
+            </publicationStmt>
+
+            <sourceDesc>
+                <listBibl xml:lang="la">
+                    <biblStruct>
+                        <monogr>
+                            <editor>
+                                <persName>
+                                    <name xml:lang="en">Innes, Gordon, 1924- : URI http://viaf.org/viaf/62788921</name>
+                                </persName>
+                            </editor>
+                            <author>Firdousi, Abū-al Qāsem, 0940-1020: URI http://viaf.org/viaf/101359236</author>
+                            <author>Arthur George Warner: URI https://viaf.org/viaf/214979921</author>
+                            <author>Edmond Warner: URI http://viaf.org/viaf/107122180</author>
+                            <title>Shahnama of Firdausi</title>
+                            <imprint>
+                                <publisher>Kegan Paul Trench, Trübner and co</publisher>
+                                <pubPlace>London</pubPlace>
+                                <date>1908</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="chapter"
+                         matchPattern="(\w+).(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts Book and Chapter</p>
+                </cRefPattern>
+                <cRefPattern n="book"
+                         matchPattern="(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Ancient Greek</language>
+            </langUsage>
+        </profileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            
+            <pb n="411"/>
+            <div type="textpart" subtype="toc" n="TBA"><head>TABLE DES MATIÈRES.</head>
+                
+
+
+<milestone unit="volume" n="1"/>
+<div type="textpart" subtype="preface" n="vol1"><head></head>
+<p> RÉFACE... ..........  I à CII ie de Firdousi, p. xxii.  atire contre Mahmoud, par Firdousi, p. xli.
+</p>
+</div>
+<div type="textpart" subtype="introduction" n="introduction"><head>INTRODUCTION</head>
+    <p>
+        INTRODUCTION... ......................... 1 à 18
+ Invocation, p. 1.
+—  ouange de l'intelligence, p. 2.
+—  réation du monde, p. 3.
+— Création de ’homme, p. 5.
+— Création du soleil, p. 6. — réation de la lune, p. 7.
+— Louanges du Pro- hète, p. 8.
+— Comment le Livre des Rois fut omposé, p. 10.
+— Sur Dakiki le poëte, p. 11.
+— Comment le poëme fut entrepris, p. 12. — ouange d'Abou-Mansour, fils de Mohammed, . 13.
+— Louange du roi Mahmoud, p. 14.
+
+I. Kaïoumors, premier roi de Perse. ......... 19 à 24
+ ombat de Siamek avec le Div et mort de Siamek, . 21.
+— Combat de Kaïoumors et de Houscheng vec le Div noir, p. 23.
+
+II. Houscnenc.. ........................ 25 à 28 ntroduction de la fête du feu, p. 26.
+
+III. Tramouras, le vainqueur des Divs... ..... 29 à 39
+ oogle
+<pb n="412"/>
+
+
+IV. Djemschid.......................... 39 à 47
+ Histoire de Zohak et de son père, p. 39.
+— Iblis se résente comme cuisinier, p. 43.
+— Mort de Djemchid, p. 46. . 
+
+V. ZOHAK ... dues 18 à8h
+ Zohak voit Feridoun en rêve, p. 51.— Naissance de eridoun, p. 56.
+— Feridoun questionne sa mère sur son lignage, p. 59.
+— Histoire de Zohak et e Kaweh le forgeron, p. 61.
+— Feridoun se met n marche pour combattre Zohak, p. 68.
+— Feri- oun voit les filles de Djemschid, p. 72.
+— Ce qui e passa entre Feridoun et le lieutenant de Zohak,
+ p. 79. —— Feridoun enchaîne Zohak, p. 79.
+ 
+ 
+ VI. Feridoun......................... 85 à 163
+ vénement de Feridoun au trône, p. 85.
+— Feri- oun envoie Djendil dans le Iemen, p. 88. — éponse que le roi de Iemen donne à l'envoyé de eridoun, p. 94.— Les fils de Feridoun se rendent uprès du roi de lemen, p. 97.
+— Serv essaye sa agie contre les fils de Feridoun, p. 98.
+— Feri- oun met ses fils à l'épreuve, p. 101.
+— Feri- oun distribue la terre entre ses fils, p. 104. — alousie de Selm contre Iredj, p. 105.
+— Message e Selm et de Tour à Feridoun, p. 108.
+— Ré- onse de Feridoun à ses fils, p. 111.
+— Iredj se end auprès de ses frères, p. 116.
+— [redj est as- assiné par ses frères, p. 119.
+— Feridoun reçoit a nouvelle de la mort d’Iredj, p. 122.— Naissance ’une fille d’Iredj, p. 125.— Naissance de Mi- outchehr, p. 126.
+— Selm et Tour ont nouvelle e Minoutchehr, p. 128.
+— Les fils de Feridoun lui envoient un message, p. 131.
+
+<pb n="413"/> ABLE DES MATIÈRES. 413
+
+
+— Réponse de
+ Feridoun à ses fils, p. 132.
+— Feridoun envoie inoutchehr pour combattre Tour et Selm, p. 139.
+— Minoutchehr attaque l’armée de Tour, p. 142.
+— Tour est tué de la main de Minoutchehr, p. 145.
+— Minoutchebr annonce sa victoire à Feridoun, . 147.
+— Karen prend la forteresse des Alains, . 149.
+— Attaque faite par Kakoui, petit-fils de ohak, p. 152.
+— Selm s'enfuit et meurt de la ain de Minoutchebr, p. 155.
+— Minoutchehr nvoie la tête de Selm à Feridoun, p. 158. — ort de Feridoun, p. 162.
+
+VII Minoutchehr..................... 164 à 301
+ aissance de Zal, p. 167. —- Sam voit son fils en onge, p. 171.
+— Minoutchehr apprend l’histoire e Sam et de Zal-zer, p. 178.
+— Retour de Zal ans le Zaboulislan, p. 182.
+— Sam confie son oyaume à Zal, p. 184.
+— Zal va visiter Mihrab, oi de Kaboul, p. 188.
+— Roudabeh tient conseil vec ses esclaves, p. 192.
+— Les esclaves de Rou- abeh vont voir Zal-zer, p. 197.
+— Retour des sclaves auprès de Roudabeh, p. 2303.
+— Zal va oir Roudabeh, p. 206.-— Zal consulte les Mobeds u sujet de Roudabeh, p. 210.
+— Zal écrit à Sam our lui exposer sa position, p. 214.
+— Sam con- ulte les Mobeds relativement à Zal, p. 218. — indokht apprend ce que Roudabeh avait fait, . 221.
+— Mihrab apprend l'aventure de sa ille, p. 225.
+— Minoutchehr apprend l'aventure e Zal et de Roudabch, p. 231.
+— Sam vient voir inoutchehr, p. 234.
+— Sam part pour aller ombattre Mihrab, p. 238.— Zal va en ambassade
+ auprès de Minoutchehr, p. 242.
+ <pb n="414"/>
+— Colère de Mibrab contre Sindokht, p. 248.
+— Sam con- ole Sindokht, p. 250.
+— Zal porte la lettre de am à Minoutchebr, p. 257.
+— Les Mobeds ettent Zal à l'épreuve, p. 259.
+— Zal répond ux Mobeds, p. 261.
+— Zal montre sa prouesse evant Minoutchehr, p. 264.
+— Réponse de Mi- outchehr à la lettre de Sam, p. 267.
+— Zal arrive uprès de Sam, p. 270.
+— Naissance du fils de al, p. 275.
+— Sam va voir Rustem, p.282. — ustem tue l'éléphant blanc, p. 286.
+— Rustem art pour le mont Sipend, p. 291.
+— Rustem
+écrit à Zal pour lui annoncer sa victoire, p. 294.
+— Lettre de Zal à Sam, p. 297.
+— Minoutchehr xhorte son fils en mourant, p. 298.
+
+VIII. Newder.................... ce. 302 à 949
+ ewder monte sur le trône, p. 302.— Pescheng ap- rend la mort de Minoutcher, p. 307.
+— Afrasiab art pour l'Iran, p. 31 1.— Combat centre Kobad et arman, et mort de Kobad, p. 313.
+— Deuxième ombat d’Afrasiab contre Newder, p. 318.— Troi- ième combat de Newder et d’Afrasiab, p. 321.
+— Newder tombe entre les mains d’Afrasiab, . 325.
+— Wiseh trouve son fils mort, p. 327.
+— Expédition de Schemasas et de Khazarwan dans e Zaboulistan, p. 329.
+— Zal vient en aide à ihrab, p. 331.
+— Afrasiab assassine Newder, - 334.
+— Zal apprend la mort de Newder, p. 337.
+— Meurtre d’Agbrirez par la main de son frère, . 342.
+ IX. Zew, fils de Thahmasp.............. 34h à 347
+ 
+<pb n="415"/> 
+ X. Guerschasp. ...................... 348 à 366
+ ustem s'empare de Raksch, p. 354.
+— Zal conduit on armée contre Afrasiab, p. 357.
+— Rustem mène Keïkobad du mont Alborz, p. 359.
+ XI. Keïkobad........................ 367 à 383
+ Rustem combat Afrasiab, p. 369.
+— Afrasiab se rend uprès de son père, p. 372.
+— Pescheng demande a paix à Keïkobad, p. 376.
+— Keïkobad se rend
+à Istakher, dans le Fars, p. 381.
+XII. Keï Kaous....................... 384 à 451
+1. Guerre contre le Mazenderan........ 384 à 451
+ Zal donne conseil à Kaous, p. 391.
+— Kaous part our le Mazenderan, p. 395.
+— Message de Kaous our Zal et pour Rustem, p. 4oo.
+ es sept aventures de Rustem.......... Lok à 430
+ — Première aventure : Raksch combat un lion, p. 404.
+— Deuxième aventure : Rustem trouve une source, . 406.
+— Troisième aventure : Rustem combat n dragon, p. og.
+— Quatrième aventure : Rus- em tue une magicienne, p. 412.
+— Cinquième venture : Aulad tombe au pouvoir de Rustem, . 414.
+— Sixième aventure : Combat de Rustem ontre le Div Arzeng, p. 421.
+— Septième aven- ure : Rustem tue le Div blanc, p. 424.
+ aous écrit une lettre au roi du Mazenderan, p. 430.
+— Rustem va chez le roi du Mazenderan avec un essage, p. 434.
+— Combat de Kaous contre le oi du Mazenderan, p. 439.
+— Kaous retourne ans l'Iran et congédie Rustem, p. 448.
+ 
+
+ 
+ 2. Expédition de Keï Kaous dans le Berberistan, t autres histoires. ................. 1à 54
+ uerre contre le roi du Hamaveran, p. 1.
+— Kaous emande en mariage Soudabeh, fille du roi du amaveran, p. 7.
+— Le roi du Hamaveran s’em- are de Kaous p. 10.— Afrasiab attaque le pays Iran, p. 14.
+— Rustem envoie un message au oi du Hamaveran, p. 17.
+— Rustem combat les rois rois et délivre Kaous de prison, p. 21. — aous envoie des messages au Kaïsar de Roum et
+à Afrasiab, p. 25.
+— Kaous rétablit l'ordre dans e monde, p. 30.
+— Kaous est tenté par Iblis et ole vers le ciel, p. 31.
+— Rustem ramène Kaous, . 34.
+— Le combat des sept héros, p. 38. — ustem combat les Touraniens, p. 44.
+— Combat e Pilsem contre les franiens, p. 46.
+— Combat ’Alkous, p. 50.
+— Afrasiab s'enfuit du champ de ataille, p. 53.
+
+3. Histoire de Sohrab............,.... 5h à163
+ ommencement du récit, p. 54.
+— Rustem va à la hasse, p. 56.
+— Rustem arrive dans la ville de emengan, p. 58.
+— Tehmimeh, fille du roi de emengan, va trouver Rustem, p. 60.
+— Naissance
+  de Sohrab, p. 64.
+— Sohrab choisit un cheval, . 66.
+— Afrasiab envoie Barman et Houman au- rès de Sohrab, p. 69.
+— Sohrab arrive an Châeau-Blanc, p. 71.
+
+<pb n="417"/> 
+— Sohrab combat Gurdaferid , F . 73.
+— Lettre de Guzdehem à Kaous, p. 79. — ohrab s'empare du Chäteau-Blanc, p. 82. — aous écrit à Rustem et le fait venir du Zaboulis- an, p. 83.
+— Kaous se met en colère contre Rus- em, p. 89.
+— Kaous et Rustem se mettent en ampagne, p. 97.
+— Rustem tue Zendeh Rezm, p. 99-
+— Sohrab demande à Hedjir les noms es chefs des Iraniens, p. 103.
+— Sohrab at- aque l’armée de Kaous, p. 112.
+— Combat de ustem contre Sohrab, p. 117.
+— Sohrab et Rus- em retournent à leurs camps, p. 120.
+— Sohrab ette Rustem par terre, p. 126.
+— Sohrab est rappé à mort par Rustem, p. 132.
+— Rustem de- ande un baume à Kaqus, p. 140.— Lamenta- ions de Rustem sur la mort de Sobrab, p. 141.— etour de Rustem dans le Zaboulistan, p. 146. — a mère de Sohrab apprend sa mort, p. 149.
+ 
+
+4. Histoire de Siawusch.. ............ 1063 à 345
+ ommencement du récit, p. 153.
+— Histoire de la ère de Siawusch, p. 155.
+— Naissance de Sia- usch, p. 158.
+— Siawusch revient du Zaboulis- an, p. 161.
+— La mère de Siawusch meurt, . 163.
+— Soudabeh devient amoureuse de Sia- usch, p. 164.
+— Siawusch se rend chez Souda- eh, p. 167.
+— Deuxième visite de Siawusch dans 'appartement des femmes, p. 172.
+— Troisième isite de Siawusch dans l'appartement des femmes, . 177.
+— Soudabeh trompe le roi, p. 179. — oudabeh complote avec une magicienne, p. 182.
+— Kaous s'informe de l'origine de deux enfants
+
+trouvés morts dans le palais, p. 184.
+— Siavusch raverse le feu, p. 188.
+— Siawusch demande à 
+
+<pb n="418"/>
+
+ son père la grâce de Soudabeh, p. 192.
+— Kaous pprend qu’Afrasiab s’est mis en marche, p. 195.
+— Siawusch entre en campagne, p. 198.-— Lettre e Siawusch à Kaous, p. 201.— Réponse de Kaous
+à la lettre de Siawusch, p. 202.
+— Afrasiab a un ève el en est effrayé, p. 205.
+— Afrasiab fait in- erpréter son songe, p. 207.
+— Afrasiab tient onseil avec les grands, p. 210.
+— Guersiwez ar- ive auprès de Siawusch, p. 213.
+— Siawusch onclut un traité avec Afrasiab, p. 215.
+— Sia- usch envoie Rustem auprès de Kaous, p. 218.
+— Rustem rend compte à Kaous, p. 220. — aous renvoie Rustem dans le Seistan, p. 324.— aous répond à la lettre de Siawusch, p. 225. — iavusch consulle Bahram et Zengueh, p. 228.
+— Zengueh se rend auprès d’Afrasiab, p. 234. — ettre d’Afrasiab à Siawusch, p. 237.
+— Siawusch ède le commandement à Bahram, p. 240. — ntrevue de Siawusch et d’Afrasiab, p. 247. — iawusch montre son adresse devant Afrasiab, . 250.
+— Afrasiab et Siawusch vont à la chasse, . 255. -— Piran donne sa fille en mariage à Sia- usch, p. 257.
+— Piran parle de Ferenguis à iawusch, p. 259.
+— Entretien de Piran et d’Afra- iab, p. 261.
+— Fiançailles de Ferenguis et de iawusch , p. 364.
+— Afrasiab donne une province
+à Siawusch, p. 267.
+— Siawusch bâtit Gangdiz, . 270.
+— Siawusch s’entretient avec Piran de on avenir, p. 274.
+— Afrasiab envoie Piran dans es provinces , p. 278.— Siawusch bâtit Siawusch- uird, p. 27g.
+— Piran visite Siawuschguird, . 281.
+— Afrasiab envoie Guersiwez auprès de iawusch, p. 284.
+— Naissance de Firoud, fils de iawusch, p. 286.
+— Siawusch joue à la balle,  p. 288.
+
+<pb n="419"/> 
+
+— Gucrsiwez revient et calomnie Siawusch uprès d'Afrasiab, p. 293.
+— Guersiwez retourne uprès de Siawusch, p. 299.
+— Lettre de Siawusch
+à Afrasiab, p. 307.
+— Afrasiab se met en cam- agne contre Siawusch, p. 309.
+— Siawusch a un onge, p. 310.
+— Siawusch déclare ses dernières olontés à Ferenguis, p. 312.
+— Siawusch tombe ntre les mains d’Afrasiab, p. 315.
+— Ferenguis ient se lamenter devant Afrasiab, p. 323, — eurtre de Siawusch par Gueroui, p. 326. — iran délivre Ferenguis, p. 330.
+— Naissance de ei Khosrou, p. 333.
+— Piran confic le jaune eï Khosrou à des pâtres, p. 336.
+— Piran mène ei Khosrou auprès d’Afrasiab, p. 339.
+— Kci hosrou retourne à Siavuschguird, p- 343
+
+5. Départ de Khosrou pour le pays d'hfañ . 345 à hhh
+ ommencement du récit, p. 345.
+— Kaous apprend e sort de Siawusch, p. 346.
+— Rustem se rend uprès de Kaous, p. 347.— Rustem tue Soudabeh t entre en campagne, p. 349.
+— Faramourz tuc arazad, roi de Sipendjab, p. 354. + Surkhel e met en marche contre Rustem , p. “354.
+— Afra- iab se met en campagne pour veïiger son fils, . 359.
+— Rustem lue Pilsem D, p.561.
+— Afra- iab fuit devant Rustem, p. 366. —"Afrasiab en- oie Kei Khosrou à Khoten,. P 369;
+— Nustem ouverne le Touran pendant sept ans, p. 373. — ewareh va voir les réserves de chasse de Siawusch, . 374.
+— Rustem dévaste le Touran, p. 376. — ustem retourne dans le pay d'fran, p. 378. — ouderz voit Kei Khosrou en songe, p. 380. — uiv se rend dans le Touran pour chercher Keï hosrou, p. 383.
+— Guiv découvre Khosrou,
+
+
+<pb n="420"/>
+
+
+— Guiv et Khosrou se rendent à Siawusth- uird, p. 393.— Keï Khosrou s'empare du cheval ehzad, p. 394.
+— Ferenguis part pour l'Iran vec Keï Khosrou et Guiv, p. 398.
+— Guiv met en uite Kelbad et Nestihen, p. 399.
+— Piran pour- uit Keï Khosrou, p. 403.
+— Combat de Guiv et e Piran, p. 4o5.
+— Guiv fait Piran prisonnier, - 408.
+— Ferenguis délivre Piran des mains de uiv, p. 410.
+— Afrasiab rencontre Piran sur la oute, p. 412.
+— Guiv dispute avec le percepteur u péage, p.416.— Keï Khosrou passe le Djihoun, . 418.
+— Keï Khosrou arrive à Ispahan, p. 4a1.
+— Keï Khosrou arrive chez Kaous, p. 424. — hous refuse de reconnaître Khosrou, p. 428. — olère de Gouderz contre Thous, p. 431.
+— Gouerz et Thous font prononcer Kaous sur la succes-
+ ion au trône, p. 433.
+— Thous et Feribourz at- aquent vainement le château de Bahman, p. 436.
+— Keï Khosrou s'empare du château de Bahman, . 437.
+— Keï Khosrou revient victorieux, p. 441.
+— Kaous place Khosrou sur le trône, p. 443.
+ 
+
+XIII. Keï Kaosrou. ...........,....... hh5 à 562
+1. Preunière guerre contre Afrasiab... ... 445 à 562
+ ommencement du récit, p. 445.
+— Les grands
+ endent hommage à Keï Khosrou, p. 446.
+— Keiï hosrou fait le teur de son empire, p. 449.
+— Ki hosrou promet à Kaous de se venger d’Afrasiab, . 451.
+— Keï Khosrou passe en revue les Pehle- ans, p. 455.
+— Khosrou distribue des trésors
+
+aux Pehlewans, p. 457.
+— Khosrou envoie Rus-
+ em dans l'Inde, p. 453.
+— Keïi Khosrou organise on armée , p. 464.— Comimencement de l’histoire
+ e Firoud, fils de Siawusch, p. 472.
+
+
+<pb n="421"/> 
+
+— Thous entre dans le pays des Turcs, p. 472. 
+—- Firoud 7 pprend l’arrivée de Thous, p. 476.
+— Firoud et okhareh vont observer l’armée iranienne, p. 480.
+— Bahram se rend sur la montagne auprès de iroud, p. 484.
+— Bahram retourne auprès de hous, p. 489.
+— Firoud tue Rivniz, p. 491. — iroud tue Zerasp, p. 4ga.
+— Thous attaque Fi- oud, p. 493.
+— Combat de Guiv et de Firoud, . 497.
+— Combat de Bijen et de Firoud, p. 501.
+
+
+— Mort de Firoud, p. 503.
+— Djerireh se donne a mort, p. 508.
+— Thous conduit son armée vers e Kasehroud; Bijen tue Palaschan, p. 511. — es Iraniens souffrent de la neige, p. 515. — ahram fait Keboudeh prisonnier, p. 518. — ejaou combat les Iraniens, p. 520.
+— Afrasiab ppreud l'invasion de Thous, p. 524.
+— Piran urprendes Îraniens pendant la nuit, p. 527. — eï Khosrou rappelle Thous, p. 531.
+— Feribourz ropose à Piran un armistice, p. 535.
+— Les Iraniens sont de nouveau battus par les Turcs, p. 538.
+— Bahram cherche son fouet sur le champ de ataille, p. 546.
+— Tejaou tue Bahram, p. 550.
+— Guiv met à mort Tejaou pour venger Bahram, . 555.
+— Les Iraniens reviennent auprès de hosrou, p. 5509.
+
+
+ 2. Histoire dé Kamous de Kaschan........ 1à 110
+ ommencement de l’histoire, p. 1.
+— Keï Khosrou ait manvais accueil à Thous, p. 2.
+
+
+<pb n="422"/>
+
+— Khosrou pardonne aux Iraniens, p. 5.
+— Keï Khosrou ren- oie Thous dans le Touran, p. 7.
+— Piran envoie n message aux Iraniens, p. 9.
+— Afrasiab envoie ne armée à Piran, p. 11.
+— Thous tue Arjeng, . 13.
+— Deuxième combat entre les deux armées, . 21.
+— Les Touraniens emploient la magie contre es Jraniens, p. 25.
+— Les Iraniens se retirent ur le mont Hemawen, p. 30.
+— Les Touraniens ntourent le mont Hemawen, p. 32.
+— Piran suit es Iraniens jusqu'au mont Îlemawen, p. 38. — es Iraniens font une attaque de nuit, p. 4o. — eiï.Khosrou reçoit des nouvelles de son armée, - 46.— Feribourz demande en mariage Ferenguis, ère de Khosrou, p. 50.
+— Thous voit Siawusch n songe, p. 55.
+— Afrasiab envoie le Khakan et amous au secours de Piran, p. 57.
+— Le Khakan e la Chine s'approche du Hemawen, p. 61. — es Jranicens tiennent conseil sur leur position, . 63.
+— Gouderz apprend que Rustem s'approche, . 64.
+— Le Khakan de la Chine va reconnaître ’armée des Iranmiens, p. 70.
+— Feribourz arrive u mont Hemawen, p. 74.
+— Piran tient conseil vec le Khakan, p. 36.
+— Gombat de Guiv et de hous contre Khamous, p. 81.
+— Rustem arrive uprès des Iranicns, p. 84.
+— Les deux armées e rangent eu bataille, p. 88.
+— Combat de Rus- em avec Aschkebous, p. 95.
+— Piran s’informe i Rustem est arrivé, p. 99.
+— Les franiens et les ouraniens forment leur ligne de bataille, p. 103.
+— Kamous tue Alwa, p. 105.
+— Rustem tue Kaous, p. 107.
+
+3. Combat de Rustem et du Khakan de la Chine.......... duree. 110 à 919
+
+ 
+<pb n="423"/> 
+ Le Khakan apprend la mort de Kamous, p. 110. — ombat de Djinghisch avec Rustem , p. 112.
+— Le hakan envoie Houman auprès de Rustem , p. 115.
+— Piran tient conseil avec Houman et le Khakan, . 120.— Piran se rend auprès de Rustem, p. 123. es Toüraniens tiennent conseil, p. 128.
+— Rus- em adresse la parole à son armée, p. 135.
+— Les raniens et les Touraniens forment leurs rangs, . 140.
+— Rustem fait des reproches à Piran, . 1ha.
+— Commencement du combat, p. 145.
+— Schenkoul combat Rustem et s'enfuit, p. 147.
+— Gombat de Rustem contre Saweh, p. 150. — ustem tue Gahar de Gahan, p. 152.
+— Le Kha- an est fait prisonnier, p. 155.
+— Défaite des ouraniens, p. 160. —- Rustem distribue le butin, . 162.
+— Lettre de Rustem à Kei Khosrou, . 169.
+— Réponse de Keï Khosrou à la lettre de ustem, p. 172.
+— Afrasiab apprend la défaite e son armée, p. 175.— Combat de Rustem contre afour le mangeur d'hommes, p. 178.
+— Afrasiab eçoit des nouvelles de Rustem, p. 186.
+— Lettre ’Afrasiab à Pouladwend, p. 193.
+— Combat de ouladwend contre Thous et Guiv, p. 197. — ombat de Rustem contre Pouladvend, p. 200. — ustem et Pouladwend luttent corps à corps, . 204.
+— Afrasiab s'enfuit devant Rustem, p. 208.
+— Rustem revient à la cour du roi, p. 210. — ustem s’en retourne dans le Seïstan, p. 214.
+ 
+
+4. Histoire et combat de Rustem contre le Div kwan....................... 215 à 231:
+ ommencement du récit, p. 215.
+— Khosrou appelle ustem à son aide contre le Div Akwan, p. 216.
+ 
+<pb n="424"/>
+
+
+— Rustem cherche le Div, p. 219.
+— Le Div kwan jette Rustem dans la mer, p. 221.
+— Afra- iab vient voir ses chevaux; Rustem tue Akwan, . 225.
+— Retour de Rustem dans l’fran, p. 228.
+
+5. Histoire de Bijen et de Menijeh....... 231 à 327
+ ommencement du récit, p. 231.
+— Les Iraaniens emandent protection à Khosrou, p. 234.
+— Bijen a combattre les sangliers, p. 239.
+— Gourguin rompe Bijen, p. 241.
+— Bijen va regarder Me- ijeh, fille d’Afrasiab, p. 244.
+— Bijen se rend à a tente de Menijeh, p. 248.
+— Menijeh enlève ijen et l’emmène dans son palais, p. 249. — uersiwez amène Bijen devant Afrasiab, p. 252.
+— Piran demande à Afrasiab la grâce de Bijen, . 257.
+— Afrasiab jette Bijen en prison, p. 262.
+— Gourguin s’en retourne dans l'Iran et tient des iscours mensongers sur Bijen, p. 264.
+— Guiv mène Gourguin devant Khosrou, p. 270.
+— Keï hosrou voit Bijen dans la coupe qui réfléchit le onde, p. 274.
+— Khosrou écrit à Rustem, . 276.
+— Guiv porte à Rustem la lettre de Khos- ou, p. 279.
+— Rustem donne une fête à Guiv, . 283.
+— Rustem se rend auprès de Khosrou, . 285.
+— Keï Khosrou fête les Pehlewans, p. 289.
+— Rustem demande au roi la grâce de Gourguin, . 292.
+— Rustem compose son cortége, p. 299.
+— Rustem se rend à Khoten auprès de Piran, . 297.
+— Menijeh vient voir Rustem, p. 301. — ijen devine l’arrivée de Rustem, p. 304.
+— Rus- em tire Bijen d’une fosse, p. 310,
+— Rustem ttaque de nuit le palais d’Afrasiab, p. 314. 
+— frasiab vient attaquer Rustem, p. 316.
+— Défaite ’Afrasiab, p. 319.
+— Retour de Rustem auprès de Keï Khosrou, p. 321.
+
+<pb n="425"/>  
+— Khosrou donne une ête, p. 324.
+
+6. Histoire du combat des douze champions. 327 à 502
+ ommencement du récit, p. 327.
+— Afrasiab ras- emble une armée, p. 329.
+— Keï Khosrou envoie ouderz contre les Touraniens, p. 332.
+— Guiv orte à Piran un message de Gouderz, p. 337. — uiv va à Wisehguird pour voir Piran, p. 342.
+— Les deux armées forment leur ligne de bataille, . 344.
+— Bijen demande à Guiv la permission e livrer bataille, p. 351.
+— Houman demande à iran la permission de combattre, p. 355.
+— Hou- an défie Rehman au combat, p. 357.
+— Houman provoque Feribourz au combat, p. 361.
+— Hounan provoque Gouderzau combat, p. 363.
+— Bijen pprend ce qu'a fait Houman, p. 368.
+— Guiv onne à Bijen la cuirasse de Siawusch, p. 374. — ouman vient combattre Bijen, p. 378.
+— Hou- an est tué par la main de Bijen, p. 383.
+— Ncs- ihen fait une attaque de nuit et y périt, p. 387.
+— Gouderz demande du secours à Khosrou , p.392.
+— Réponse de Khosrou à la lettre de Gouderz, . 39%.
+— Khosrou équipe une armée, p. 4oo.
+— Piran écrit à Gouderz pour demander la paix, . 403.
+— Réponse de Gouderz à la lettre de Pi- an, p. 410.— Piran demande des secours à Afra- - iab, p. 420.
+— Réponse d’Afrasiab à Piran, . 424.
+— Bataille rangée entre les deux armées, . 428.
+— Combat de Guiv et de Piran. Le cheval e Guiv s'arrête, p. 433.
+— Gouderz et Piran onviennent du combat des onze champions, p. 438.
+— Piran adresse la parole aux grands de son armée. . 446. -— Gouderz et Piran choisissent les champions, p. 44g. 
+
+
+<pb n="426"/>  
+—- Combat de Feribourz contre ‘ elbad, p. 454.
+— Combat de Guiv contre Gue- oui Zereh, p. 455.
+— Combat de Gourazeh contre iamek, p. 456.
+— Combat de Fourouhil contre engouleh, p. 457.
+— Combat de Rehham contre arman, p. 457.
+— Combat de Bijen contre Rouïn, . 459.
+— Combat de Hedjir contre Sipahram, . 460.
+— Combat de Zengueh, fils de Schawe- an, contre Aukhast, p. 461.
+— Combat de Gour- uin contre Anderiman, p. 462.
+— Combat de arteh contre Kehrem, p. 463.
+— Combat de ouderz contre Piran , p. 464.
+— Gouderz revient uprès des champions de l'Iran , p. 468.— Lehhak t Ferschidwerd se lamentent sur la mort de Piran, . 472.
+— Lehhak et Ferschidwerd partent pour e Touran, p. 477.
+— Gustehem poursuit Lehhak t Ferschidwerd, p. 479.
+— Bijen suit les traces e Gustehem, p. 482.
+— Gustehem tue Lehhak t Ferschidwerd, p. 485.— Bijen trouve Gustehem ouché dans la prairie, p. 488.
+— Keï Khosrou fait
+élever un mausolée à la mémoire de Piran et des hefs des Touraniens; il fait mettre à mort Gue- oui Zereh, p. 4g1.— Les Touraniens demandent râce à Khosrou, p. 496.
+— Bijen ramène Gustehem, p. 499.
+
+
+ 7. La grande guerre de Keï Kuosrou contre Afrasiab........................... 1 à 222
+
+ Louange du sultan Mahmoud, p. 1.
+
+
+<pb n="427"/> 
+— Commencement du récit. Keï Khosrou réunit une armée contre
+ Afrasiab, p. S.
+— Afrasiab apprend la mort de
+ Piran ct les préparatifs de guerre de Keï Khosrou, - 15.— Keï Khosrou apprend qu’Afrasiab s’avance our l’attaquer, p. 24.
+— Pescheng se présente evant son père Afrasiab, p. 26.-— Afrasiab envoie n message à Keï Khosrou, p. 30.
+— Keï Khosrou épond à Afrasiab, p. 35 et 3g.
+— Combat de hosrou avec Schidch, fils d’Afrasiab, p. 42. —
+
+ Chosrou tue Schideh, p. 47.
+— Combat général
+ des deux armées, p. 50.— Fuite d’Afrasiab, p. 59.
+-— Khosrou annonce sa victoire à Kaous, p. G:1.
+-— Afrasiab arrive à Gangue Diz, p. 62.
+— Kei hosrou passe le Djthoun, p. 64.
+— Seconde ba- aille entre Keï Khosrou et Afrasiab, p. 68. — frasiab se réfugie à Gangui Bchischt, p. 71. — frasiab écrit au Faghfour de la Chine, p. 76. — eï Khosrou arrive devant Gangue, p. 78. — jehn vient porter un message d’Afrasiab, p. 80.
+:— Keï Khosrou répond à Djehn, p. 85.
+— Kei hosrou attaque Afrasiab et s'empare de Gangue iz, p. 90.
+— Afrasiab s’enfuit de Gangue, p. 95.
+— Khosrou protége les femmes d'Afrasiab, p. 97.
+— Kei Khosrou adresse des conseils aux Iraniens, . 108.
+— Lettre de Keï Khosrou à Kaous pour ui annoncer sa victoire, p. 104.
+— Khosrou ap- rend qu'Afrasiab a rejoint l’armée du Faghfour, . 105.— Lettre d'Afrasiab à Keï Khosrou, p. 108.
+— Gombat entre les Iraniens et les Touraniens, . ‘11.
+— Afrasiah fait une attaque de nuit et est attu par Kei Khosrou, p. 113.
+— Le Khakan de a Chine envoie un ambassadeur à Keï Khosrou, p 118.
+— Afrasiab passe le lac de Zereh, p. 119.
+
+ 
+<pb n="428"/>
+
+— Keï Khosrou envoie à Kaous les captifs ct des présents, p. 1292. —— Réponse de Kaous à la lettre
+ e Keï Khosrou, p. 128.
+— Keï Khosrou envoie
+ n message au Faghfour de la Chine et au roi du ekran, p. 130.
+— Bataille entre Keï Khosrou et e roi du Mekran; mort de celui-ci, p. 134.
+— Keï hosrou passe la mer de Zereh, p. 138.
+— Keï hosrou arrive à Gangue Diz, p. 142.
+— Khosrou art de Gangue Diz et se rend à Siawuschguird, . 14h.
+— Keï Khosrou s’en retourne du Touran
+
+* dans l'Iran, p. 150.
+— Retour de Keï Khosrou
+ uprès de son grand-père, p. 152.
+— Afrasiab est ris par Houm, de la famille de Feridoun, p-. 156.
+— Afrasiab échappe à Houm, p. 159.
+— Kaous t Khosrou se rendent auprès de Houm, p. 162.
+— ÂAfrasiab est pris pour la seconde fois et mis à ort avec Guersiwez, p. 165.—- Kaous et Khosrou ’én retournent dans le pays de Fars, p. 168. — ort de Keï Kaous, p. 169.
+— Keï Khosrou prend a vie en dégoût, p. 172.— Les grands se plaignent e ce que Khosrou ferme sa cour, p. 175.
+— Les raniens appellent Zal et Rustem, p. 178.
+— Keï hosrou voit en rêve le Serosch, p. 182.
+— Zal ait des représentations à Keï Khosrou, p. 183.— eï Khosrou répond à Zal, p. 187.
+— Zal fait des eproches à Keï Khosrou, p. 189.
+— Réponse de ei Khosrou et repentir de Zal, p. 192.
+— Khos- ou annonce aux Iraniens ses dernières volontés, . 196.
+— Khosrou indique à Gouderz ses der- ières volontés , p. 19g.— Zal demande à Khosrou ne investiture pour Rustem, p. 201.
+— Kei hosrou donne une lettre d'invesliture à Guiv, . 203.
+— Khosrou accorde une investilure à hous, p. 205.
+— Keï Khosrou donne la royauté
+à Lohrasp, p. 206.
+— Keï Khosrou dit adieu à ses favorites, p. 210.
+
+<pb n="429"/>
+ 
+— Keï Khosrou se rend dans a montagne et disparaît dans la neige, p. 219.
+— Les Pchlewans sont ensevelis sous la neige, . 216.
+— Lohrasp apprend la disparition de Keiï hosrou, p. 219.
+
+
+XIV. Lohrasp ..... 223 à 286
+Lohrasp fonde le temple du feu à Balkh, p. 223. 
+ uschtasp quitte Lohrasp en colère, p. 224. — 
+ Zerir ramène Guschtasp, p. 227.
+— Guschtasp art pour le Roum, p. 231.
+— Guschtasp arrive à oum, p. 233.
+— Un Dihkan reçoit Guschtasp hez lui, p. 237.
+— Histoire de Kitäboun, fille du aïsar, p. 238.
+— Le Kaïsar donne Kitaboun à uschtasp, p. 241.— Mirin demande en mariage a deuxième fille du Kaisar, p. 243.
+— Guschtasp ue le loup de Fasikoun, p. 249.
+— Ahren de- ande en mariage la troisième fille du Kaïsar, . 255.
+— Guschtasp tue le dragon, et le Kaïsar onne sa fille à Ahren, p. 261.
+— Guschtasp se istingue dans le cirque, p. 265.
+— Lettre du aïsar à Ilias, à qui il demande un tribut, p. 269.
+— Combat de Guschtasp et d’Ilias, et mort de ce ernier, p. 273.
+— Le Kaïsar exige de Lohrasp n tribut pour l'Iran, p. 278.
+— Zerir porte au aïsar un message de Lohrasp, p. 278.
+— Gusch- asp s’en retourne dans l'Iran avec Zerir, et Loh- asp lui abandonne le trône, p. 281.
+
+
+XV. Gushtasp 287 à 588.
+
+
+
+ Firdousi voit Dakiki en songe, p. 287.
+— Lohrasp e retire à Balkh, et Guschtasp monte sur le trône, p. 288
+— Zerdouscht paraît et Guschtasp adopte sa religion, p. 290.
+— Guschtasp refuse à Ardjasp e tribut de l'ran, p. 293.
+— Lettre d’Ardjasp à uschtasp, p. 296.
+— Ardjasp envoie des messa- ers à Guschtasp, p. 299.
+— Zerir répond à Ar- jasp, p. 301.
+— Les envoyés d’Ardjasp s’en re- ournent avec la réponse de Guschtasp, p. 303.— uschtasp rassemble son armée, p. 307.
+— Dja- asp dévoile à Guschtasp l'issue de la bataille, . 309.
+— Guschtasp et Ardjasp meltent en ordre eurs armées, p. 317.
+— Commencement de la ataille entré les [raniens et les Touraniens, p. 320.
+— Mort de Guerami, fils de Djamasp, p. 322. — ort de Zerir, frère de Guschtasp, p. 325. — erir est tué par Bidirefsch, p. 327.
+— Isfendiar pprend la mort de Zerir, p. 330.
+— Isfendiar ttaque Ardjasp, p. 332.
+— Nestour et Isfendiar uent Bidirefsch, p. 335.
+— Ardjasp s'enfuit de a bataille, p. 337.
+— Isfendiar fait grâce aux urcs, p. 339.— Guschtasp s’en retourne à Balkh, . 341.
+— Guschtasp envoie Isfendiar dans tous es pays pour les convertir à la religion de Zer- ouscht, p. 343.
+— Gurezm calomnie Isfendiar, . 346.
+— Djamasp arrive auprès d’Isfendiar, . 349.
+— Guschtasp fait charger de chaînes Is- endiar, p. 351.— Guschtasp se rend dans le Seis- an, et Ardjasp réunit de nouveau son armée, . 354.
+— Firdousi fait la critique de Dakiki, . 357.
+— L'armée d’Ardjasp arrive à Balkh et tue ohrasp, p. 359-
+— Guschtasp apprend la mort e Lohrasp et marche vers Balkh, p. 363. — uschlasp s'enfuit devant Ardjasp, p. 367. — jamasp se rend auprès d’Isfendiar, p. 370.
+— Is- endiar voit son frère Ferschidwerd, p. 356. — sfendiar arrive dans la montagne, auprès de Guschtasp, p. 380.
+
+
+ 
+— Guschtasp envoie Isfendiar e nouveau contre Ardjasp, p. 389.
+
+
+Histoire des sept stations... ........... 391 à 429 
+Louanges du roi Mahmoud, p. 391.
+— Premiére station : Isfendiar tue les deux loups, p. 393. 
+— Deuxième station : Isfendiar tue les lions, p. 398.
+— Troisième station : Isfendiar tue le dragon, . 400.
+— Quatrième station : Isfendiar tue la magicienne, p. 404.
+— Cinquième station : Isfendiar ue un simourgh, p. 408.
+— Sixième station : Isfendiar traverse les neiges, p. 411.
+— Septième tation : Isfendiar traverse l’eau et tue Kergsar, . 418.
+
+Isfendiar s’introduit dans le Château d’airain, déguisé en marchand, p. 423.
+— Isfendiar est reconnu par ses soeurs, p. 428.
+— Beschouten attaque le château d’airain, p. 432.
+— Isfendiar tue Ardjasp, p. 435.
+— Jsfendiar tue Kehrem, p. 438. — 
+ettre d'Isfendiar à Guschtasp et réponse de celui- i, p. 443.
+— Retour d'Isfendiar auprès de Gusch- asp, p. 44G. |
+ ombat d'Isfendiar contre Rustem. ...... h51 à 564
+ ommencement du récit, p. 451. -— Isfendiar de- ande le trône à son père, p. 455.
+— Réponse e Guschtasp, p. 458.
+— Kitaboun donne des onseils à Isfendiar, p. 461.
+— Isfendiar conduit ne armée dans le Zaboulistan, p. 464.
+— Isfen- iar envoie Bahman auprès de Rustem, p. 466.-— ahman rencontre Zal, p. 70.
+— Bahmanu s’ac- uite de son message, p. 472.
+— Rustem répond
+à Bahman, p. 476.
+— Retour de Bahmau, p. 480.
+
+
+
+— Rustem et Isfendiar se rencontrent, p. 482.— sfendiar n'invite pas Rustem à diner, p. 487. — sfendiar fait des excuses à Rustem de ne l'avoir as invité, p. 490.
+— Isfendiar déprécie la famille e Rustem, p. 493.
+— Isfendiar fait l'éloge de sa amille, p. 497.
+— Rustem se vante de ses hauts aits, p. 500.
+— Rustem et Isfendiar boivent du in, p. 504.
+— Rustem s’en retourne à son palais, . 510.
+— Zal donne conseil à Rustem, p. 514. — ombat de Rustem et d’Isfendiar, p. 518.
+— Les ils d’Isfendiar sont tués par Zewareh et Fara- ourz, p. 523.
+— Rustem s’enfuit sur le haut de a montagne, p. 527.
+— Rustem tient conseil vec sa famille, p. 533.
+— Le Simourgh indique
+à Rustem un moyen de salut, p. 535.
+— Rustem etourne au combat contre Isfendiar, p. 54o.
+— Rustem lance une flèche dans l'oeil d'Isfendiar.
+ . 544.
+— Isfendiar charge Rustem de ses der-
+ ières volontés, p. 549.
+— Beschouten amène le ercueil d’Isfendiar à Guschtasp, p. 554.
+— Rus- em renvoie Bahman dans l'Iran, p. 560.
+ ages.
+ venture de Rustem et de Scheghad..... 564 à 588
+ ommencement du récit, p. 564.
+— Rustem se rend à Kaboul pour aider son frère Scheghad, p. 566.
+— Le roi de Kaboul fait creuser des fosses dans la éserve de chasse; Rustem et Zewareh y tombent, e 573.— Rustem lue Scheghad et meurt, p. 576.
+
+Zal apprend la mort de Rustem; Faramourz
+ pporte le cercueil de son père et le place dans un ombeau, p. 579.
+— Faramourz marche avec une rmée pour venger Rustem et met à mort le roi de
+ aboul, p. 582. —- La perte de son fils rend folle  Roudabeh, p. 585.
+ 
+
+
+
+— Guschtasp abandonne le rône à Bahman, p. 586.
+
+
+
+
+ 
+XVI. Bahman, fils d'Isfendiar................ 1 à 13
+ ahman venge la mort d’Isfendiar, p. 1.
+— Bahman harge Zal de chaînes, p. 3.
+— Faramourz combat. ahman et perd la vie, p. 6.
+— Bahman rend la iberté à Zal et s’en retourne dans l'Iran, p. 9. — ahman épouse sa fille Homaï et lui destine la suc- ession au trône, p. 11. 
+
+
+XVII. Homaï............. ............. 14 à 36
+ Homaï abandonne au cours de l'Eupbrate son fils arab, enfermé dans une boîte, p. 14.— Un blan- hisseur élève Darab, p. 17.
+— Darab demande
+à la femme du blanchisseur son origine et va à la uerre contre le Roum, p. 21.— Reschnewad ap- rend la vérité sur Darab, p. 24.
+— Darab se bat ontre l’armée de Roum, p. 27.
+— Homai re- onnaît son fils, p. 30.
+— Homaï place Darab sur e trône, p. 33.
+ VIIL Danas........ ................. 37 à 46
+ arab fonde la ville de Darabguird, p. 37.
+— Darab at l’armée de Schoaïb, p. 39.
+— Darab combat Pheilekous et épouse sa fille, p. 40.
+
+
+<pb n="434"/>
+ 
+— Darab renvoie Nahid. Elle met au monde lskender, p. #3.
+
+XIX. Dara, fils de Darab................. 47 à 79
+ ort de Pheilckous et avénement d’Iskender, p. 49.
+— Iskender se rend auprès de Darx comme son ropre ambassadeur, p. 52.
+— Dara livre bataille
+à Iskender et est vaincu, p. 57.
+— Deuxième ba- aille de Dara contre Iskender, p. 59.
+— Troisième ataille entre Iskender et Dara, et fuite de Dara ans le Kerman, p. 62.
+— Lettre de Dara à Is- ender pour demander la paix, p. 65.
+— Dara est ssassiné par ses Deslours, p. 67. -— Dara commu- ique à Iskender ses dernières volontés et meurt, . 69.
+— Iskender écrit une lettre aux grands de 'Iran, p. 75.
+ 
+
+XX. ISKENDER.. ....................... 79 à 212
+ ommencement du récit, p. 79.
+— Lettre d’Iskender
+à Dilaraï, mère de Rouschenck, p. 82.
+— Iskender
+épouse Rouschenek, p. 86.
+— Songe de Keïd, roi e Kanoudj, p. 88.
+— Réponse de Mihran à Keïd, . 92.
+— Iskender marche contre Keïd, p. 97. — skender envoie neuf savants pour voir les quatre erveilles de Keïd, p. 101.
+— Les neuf sages amè- ent à Iskender les quatre merveilles de Keïd, . 104.
+— Iskender met à l'épreuve le sage, le mé- ecin et la coupe de Keïd, p. 105.— Iskender met
+à l'épreuve le médecin indien, p. 108.
+— Iskender et à l'épreuve la coupe de Keïd, p. 111.— Lettre ’Iskender à Four l’Indien, p. 112.
+— Iskender onduit son ariméc à la guerre contre Four, p. 115.
+-— Combat d'Iskender contre les Indiens et mort
+ oogle
+<pb n="435"/> ABLE DES MATIÈRES.
+ e Four, p. 120.— Iskender va en pèlerinage à la aba, p. 12/4.
+— Iskender conduit son armée vers
+ e Misr, p. 126.
+— Lettre d’Iskender à Kcidafeh,
+ . 128.
+— Le fils de Keïdafch tombe entre les ans des Roumis, p. 130.
+— Iskender se rend n ambassadeur auprès de Keïdafeh, p. 134. — eïdafch donne un conseil à Iskender, p. 139. — skender se met en garde contre Theinousch, .14a.
+— Iskender fait une convention avec Kei- afeh et s’en retourne, p. 146.
+— Iskender se rend ans le pays des Brahmanes, p. 153.
+— Iskender e rend à la mer d'Occident et au pays de Habesch, - 158.
+— Iskender arrive auprès des hommes aux ieds flexibles et lue un dragon, p. 162.
+— Isken- er voit des merveilles dans la ville de Heroum, - 165.—- Iskender marche vers l'Occident, p. 1 51.
+— Iskender cherche l’eau de la vie, p. 172. — skender converse avec les oiseaux, p. 174.
+— Is- ender voit l'ange Israfil, p. 176.
+— Iskender onstruit le rempart de Gog et de Magog, p. 178.
+— Iskender voit un mort dans un palais de topazes, - 182.
+— Iskender voit l'arbre qui parle, p. 183.
+— Iskender se rend auprès du Faghfour de la hine, p. 186.
+— Iskender arrive au pays de Sind t y livre une bataille, p. 193.
+— Iskender conduit on armée à Babylone, p. 195.
+— Lettre d'Iskener à Arislalis et réponse de celui-ci, p. 198. — ettre d’Iskender à sa mère et ses dernières volon- és, p. 201.
+— Iskender meurt à Babylone, p. 203.
+— Lamentations des sages sur Iskender, p. 206.
+— Lamentations de la mère et de la femme d’ls- ender, p. 209.
+— Firdousi se plaint de son âge t de son sort, p. 211.
+
+<pb n="436"/>
+ XXI. Dynastie DES ASchkaANIDES........... 213 à 26/4
+ Louanges du sultan Mahmoud, p. 213.
+— Commen- ement de l’histoire des Aschkanides, p. 216. — abek voit en songe l'avenir de Sasan, p. 217. — aissance d’Ardeschir Babekan, p. 22 1.— Ardes- hir va à la cour d’Ardewan, p. 223.
+— Gulnar oit Ardeschir, et Babek meurt, p. 226.
+— Ardeschir s'enfuit avec Gulnar, p. 228.
+— Ardewan ap- rend Ja fuite de Gulnar et d’Ardeschir, p. 230. rdeschir réunit une armée, p. 234.
+— Ardeschir ombat Bahman et reste vainqueur, p. 237. — ombat d’Ardeschir contre Ardewan et mort d’Ar- ewan, p. 239.
+— Ardeschir combat les Kurdes, . 243.
+— Histoire du ver d'Heftwad, p. 247. — rdeschir combat Heftwad et est défait, p. 251.— ihrek, fils de Nouschzad, pille le palais d’Ardes- hir, p. 254.
+— Ardeschir tue le ver d’'Heftwad, . 259.
+— Ardeschir met à mort Heftwad, p. 263.
+ YNASTIE DES SASSANIDES.
+ XI. Annescnir BaBEkaN. .............. 265 à 309
+ rdeschir monte sur le trône, p. 265.
+— Aventure ’Ardeschir avec la fille d’Ardewan, p. 266. — aissance de Schapour, fils d’Ardeschir, p. 269.
+— Schapour joue à la balle et est reconnu par Ar- eschir, p. 273.
+— Ardeschir se fait prédire son ort par Keïd l’Indien, p. 276.— Schapour épouse a file de Mihrek, p. 279.
+— La fille de Mihrek et au monde Ormuzd, fils de Schapour, p. 282.
+— Ardeschir organise l'administration de son em- ire, p. 285.
+— Ardeschir indique ses dernières olontés aux grands de l'Iran, p. 29h.— Ardeschir adresse à tous ses derniers avis, p. 297.
+
+<pb n="437"/> 
+
+— Kharrad rononce les louanges d'Ardeschir, p. 299.
+— Ar- eschir abandonne le gouvernement à Schapour,
+ . 302. 
+ 
+ XXII bis. Scaapour, fils d'Ardeschir........ 310 à 316 
+ 
+ Schapour monte sur le trône, p. 310.
+— Guerre de chapour contre les Roumis, p. 312.
+— Schapour ommunique à son fils Ormuzd ses dernières vor ontés, p. 315. XIIL Oruuzn, fils de Schapour.. ........ 317 à 329 ommencement du récit, p. 317.
+— Dernières volontés et mort d'Ormuzd, p. 319. XIV. Baurau, fils d'Ormuzd............ 32h à 327 ommencement du récit, p. 324.
+— Bahram remet e commandement à Bahram, fils de Bahram, ct eurt, p. 320. XV. 
+
+XXV. Bahram, fils de Bahram........... 328 à 330 
+
+XXVI. Bahram Bahramian..…......,...... 331 et332 
+
+XVII. Nersi, fils de Bahram............ 333 à 335 
+
+XVIII. Ormuzd, fils de Nersi............ 330 à 338 
+
+XIX. Schapour Duou’L AKTAf. ......... 339 à 385
+
+
+Commencement du récit, p. 339.
+— Thair l’Arabe nlève la fille de Nersi et Schapour le combat, . 342.
+— Malikeh, fille de Thair, devient amou- euse de Schapour, p. 343.
+— Malikeh livre la orteresse à Schapour, et Thair y périt, p. 345.
+-— Schapour va à Roum (Ctésiphon), où le Kaïsar e fait coudre dans une peau d'âne, p. 348. 
+
+<pb n="438"/>
+
+
+—- Une jeune fille délivre Schapour de sa peau d’äne p. 353.
+— Schapour et la jeune fille s'enfuient de oum et arrivent dans l'Iran, p. 357.
+— Les Ira- iens reconnaissent Schapour; celui-ci rassemble utour de lui une armée, p. 360.
+— Schapour, ans une attaque de nuit, fait prisonnier le Kaisar,
+ p. 364.
+— Schapour conduit une armée dans le
+-Roum et combat le frère du Kaïsar, p. 370. — aranousch est placé sur le trône par les Roumis. a lettre à Schapour, 372.
+— Baranousch se rend uprès de Schapour ct conclut un traité avec lui, . 379.
+— Mani paraît et prétend être prophète, . 379.
+— Schapour nomme régent son frère Ar- eschir, p. 381.
+
+XXXI. Ardeschir LE Bon................ 386 à 307
+ rdeschir monte au trône et fait une allocution aux hefs de l'Iran, p. 386.
+ XXIL Scmarour, fils de Schapour.. . 388 à 390 XXIIT. Bauram, fils de Schapour.. . ...... 391 à 399 XXIV. Yezogcugro Le Mécuanr. ......... 394 à 441
+ ezdeguerd monte sur le trône, p. 394.
+— Naissance e Bahram, p. 396.— Yezdeguerd charge Mondhir t Noman d'élever son fils Bahram, p. 399.
+— Ce
+
+. qui arriva à la chasse entre Bahram et une joueuse eluth, p. 405.
+— Bahram montre sa valeur à la hasse, p. 408.
+— Bahram retourne auprès de on père Yezdeguerd avec Noman, p. 4o9.— Yez- eguerd fait enfermer Bahram. Retour de Bahram uprès de Mondhir, p. 413.
+— Yezdeguerd va à hous et est tué par un cheval qui sort de l’eau, . 15. —- Les grands placent Khosrou sur le trône, p. 419.
+ 
+<pb n="439"/> 
+
+— Bahram Gour apprend la mort e son père, p. ha1.— Lettre des Iraniens à Bah- am et réponse de celui-ci, p. 424.
+— Bahram our se rend à Djehrem, et les Iraniens vont à sa encontre, p. 427.
+— Bahram parle aux Iraniens e son aptitude pour la royauté, p. 432.— Bahram aisit la couronne au milieu des lions, p. 435.
+
+
+XXXV. Bahram Gour. ....... 442 à 558
+ Commencement du récit, p. 442.
+— Bahram Gour
+ rend congé de Mondbhir et de Noman et remet aux raniens les impôts arriérés, p. 416.
+— Aventure e Bahram Gour avec Lembek le porteur d’eau, p. 449.
+— Aventure de Bahram Gour avec Baha- am le juif, p. 453.
+— Bahram Gour donne à embek les richesses de Baharam, p. 457. — venture de Bahram Gour avec Mihr Bendad, - 459.
+— Aventure de Bahram Gour avec Kebroï. nterdiction de l'usage du vin, p. 461.
+— Bahram our lève l’interdiction du vin par suite de l’aven- ure du petit cordonnier avec un lion, p. 463. — e grand Mobed de Bahram Gour détruit un bourg t le fait refleurir, p. 466. -— Aventure de Bahram
+
+ Gour et des quatre soeurs, p. 472.
+— Bahram
+ our trouve le trésor de Djemschid, p. 477. — venture de Bahram Gour avec un marchand et on apprenti, p. 483.— Bahram Gour tue un dra- on. Son aventure avec la femme d’un jardinier, . 487.
+— Bahram Gour va à la chasse et épouse es filles du Dihkan Berzin, p. 494.
+— Bahram ontre son habileté à la chasse et épouse la fille ’un joaillier, p. 502.
+— Aventure de Bahram avec
+ erschidwerd, le chef de village, et l’homme qui
+ rrachaît les ronces, p. 518.
+— Bahram Gour va à la chasse ct tue des lions, p. 527.
+ 
+<pb n="440"/>
+
+
+— Bahram ontre son habileté dans la chasse à l’onagre, . 534.
+— Le Khakan de la Chine attaque l'Iran, t les Iraniens lui offrent leur soumission, p. 539.
+— Bahram Gour attaque le Khakan de la Chine, . 544.
+— Bahram élève une colonne pour mar- uer la frontière entre l'Iran et le Touran, p. 547.
+— Lettre de Bahram Gour à son frère Nersi et aux raniens, p. 549.
+— Babram Gonr revient dans le ays d'Iran, p. 551.
+— Bahram Gour écrit des nstructions pour ses employés, p. 553.
+
+
+ Bahram Gour envoie son frère Nersi dans le Khorasan et fait venir devant son trône l'envoyé du Kaiïsar, . 1.
+— Questions et réponses de l’envoyé Roumi t des Mobeds de l'Iran, p. 3.
+— Bahram Gour onne congé à l’envoyé du Kaïsar, p. 7.
+— Bahram dresse aux chefs un discours sur la justice, p. 9.
+— Babhram Gour écrit une lettre à Schenguil, roi e l'Inde, p. 13.
+— Bahram Gour va dans l'Hin- oustan porter sa propre lettre, p. 16.
+— Réponse e Schenguil à la lettre de Babram, p. 18. — ahram combat un lutteur à la cour de Schenguil t montre sa bravoure, p. 21.— Schenguil conçoit es soupçons sur la qualité de Bahram et l'empêche e s’en retourner dans l'Iran, p. 24.
+— Bahram ombat un loup et le tue, p. 27.
+— Bahram tue n dragon , p. 30.
+— Bahram Gour épouse la fille du roi de l'Inde, p. 33.
+ 
+<pb n="441"/> 
+ 
+— Lettre du Faghfour de la Chine et réponse de Bahram, p. 36.
+— Bahram enfuit de l'Inde avec la fille du roi Schenguil, . 39.
+— Schenguil poursuit Bahram et apprend ui il est, p. 43.
+— Les Iraniens vont au devant de ahram Gour, p. 45.
+— Schenguil se rend avec ept rois auprès de Bahram Gour, p. 49.
+— Schenguil s’en retourne de l'Iran dans l’Hindoustan, . 53.
+— Bahram fait remise de l’impôt aux pro- riétaires des terres, p. 55.
+— Bahram fait venir e l’Inde des Louris, p. 6o.
+— Fin de la vie de ahram Gour, p. 61.
+ 
+XXXVI. Yezdeguerd, fils de Bahram Gour..... 65 à 67 
+
+XXXVII. Hormuz, fils de Yezdeguerd. ....... 68 et 69 
+
+XXVII. Pirouz, fils de Yezdeguerd. ....... 70 à 80
+ Pirouz monte sur le trône. Une sécheresse désole l'Iran endant sept ans, p. 70.
+— Lettre de Pirouz contre es Touraniens, p. 72.
+— Lettre de Khouschnevaz
+à Pirouz, p. 74.
+— Pirouz tombe dans un fossé et st tué, p. 77.
+
+
+ XXXIX. Balasch, fils de Pirouz............. 81 à 94 
+ 
+ Allocution de Balasch aux Iraniens, p. 81.
+— Leltre e Souferai à Khouschnevaz, p. 82.
+— Lettre
+ e Souferai et de Kouschnevaz, p. 87.
+— Kobad evient dans l’Iran, p. 92.
+ L. Kosan, fils de Pirouz................ 9 à 122
+ obad monte sur le trône et fait une allocution aux rands, p. 95.
+— Les [raniens rendent Souferaï uspect à Kobad, qui le fait metire à mort, p. 97.
+— Les Iraniens mettent Kobad dans les chaînes et placent sur le trône son frère Djamasp, p. 102.— 
+
+
+<pb n="442"/>
+Kobad s'enfuit et prend refuge chez les Heïtaliens,
+ p. 104.
+— Kobad revient du pays des Heïtaliens. esra Nouschirwan vient au monde, et Kobad re- onte sur son trône, p. 107.
+— Kobad adopte la eligion de Mazdek, p. 109.
+— Kesra attaque azdek et le fait mettre à mort, p. 113.
+— Kobad omme Kesra son successeur, et les grands lui onnent le nom de Nouschirwan, p. 119.
+— Le oëte déplore sa vieillesse, p.. 121.
+ LI. Kesra NouscHiRwan.. .............. 123 à 436
+ ouschirwan parle aux chefs de liran, p. 123. — ouschirwan divise son empire en quatre parties t règle la levée des impôts, p. 127.
+— Lettre de ouschirwan à ses employés, p. 129.
+— Aventure e Babek, Mobed de Kesra, qui passe en revue ’armée, p. 134.
+— Sur la justice ct la sagesse de ouschirwan, p. 139.
+— Nouschirwan fait le tour e son empire, p. 142.
+— Kesra châtie les Alains, es Beloudschi et les Ghilani, p. 145.
+— Mondhir ’Arabe demande aide contre les iniquités du Kaï- ar, p. 151.— Lettre de Nouschirwan et réponse du aïsar de Roum, p. 154.
+— Nouschirwan marche ontre le Kaïsar de Roum, p. 156.
+— Nouschirwan rend des forteresses dans le pays de Roum, p. 162.
+— Nouschirwan combat Farfourius (Porphyre) le oumi et s'empare de Kalinius et d’Antioche, . 164.— Nouschirwan bâlit une ville en imitation ’Antioche et y établit les captifs Roumis, p. 168.
+— Le Kaïsar de Roum demande la paix à Nous- hirwan, p. 1790.
+— Histoire de Nouschzad, fils e Nouschirwan , et de la femme chrétienne, p. 173.
+--- Maladie de Nouschirwan et révolte de Nouschzad, p. 176.
+
+<pb n="443"/> 
+ 
+— Ram Berzin se prépare à la guerre ontre Nouschzad. Conseils que donne Pirouz à ouschzad, p. 183.
+— Combat entre Nouschzad t Ram Berzin. Mort de Nouschzad, p. 187. — ouschirwan a un songe, et Buzurdjmibr se rend
+à la cour, p. 190.
+— Busurdjmihr interprète le onge du roi, p. 194.
+— Nouschirwan donne une ête aux Mobeds. Conseils de Bururdjmihr, p. 198.
+— Deuxième fête que Nouschirwan donne à Bu- urdjmihr et aux Mobeds, p. 202.
+— Troisième ête que Nouschirwan donne à Buzurdjmibr et aux obeds, p. 209:
+— Quatrième fête que Nouschir- an donne ÿ Buzurdjmihr et aux Mobcds, p. 215.
+— Cinquième fête que Nouschirwan donne à Bu- urdjmihr et aux Mobeds, p. 219.
+— Sixième fête ue Nouschirwan donne à Buzurdjmibr et aux obeds, p. 323.
+— Septième fête que Nouschir- an donne à Buzurdjmihr et aux Mobeds, p. 228.
+— Histoire de Mahboud, le Destour de Nouschir- an, p. 232.
+— On découvre les incantations de erhan et du Juif, et ils sont tous les deux mis à ort, p. 238.
+— Nouschirwan fonde la ville de oursan, p. 24a.— Guerre du Khakan dela Chine vec les Heïtaliens, p. 245.
+— Nouschirwan ap- rend ce que les Heitaliens ont fait et conduit une rmée contre eux, p. 250.
+— Nouschirwan part our la guerre contre le Khakan, p. 255.— Lettre u Khakan de la Chine à Nouschirwen, p. 258.
+— Réponse de Nouschirwan à la lettre du Khakan, . 262.
+— Le Khakan offre sa fille en mariage à ouschirwan, p. 265.
+— Nouschirwan envoie Mih- an Sitad voir la fille du Khakan, p. 270.
+— Le hakan envoie sa fille avec Mihran Sitad chez ouschirwan, p. 276. -— Le Khakan se retire, ct
+
+
+<pb n="444"/>
+
+Nouschirwan conduit son armée à Ctésiphon, . 281.
+— Nouschirwan revient victorieux dans 'Iran, p. 285.
+— Le monde trouve du repos sous ouschirwan, p. 288.
+— Buzurdjmihr donne des onseils à Nouschirwan, p. 291.
+— Le Radja de 'Inde envoie à Nouschirwan un jeu d'échecs, p. 306.
+— Buzurdjmihr invente le jeu du nard
+(trictrac), et Nouschirwan l'envoie dans l'Inde, p. 312.
+— Les sages de l'Inde ne découvrent pas a manière de jouer du nard, p. 316.
+
+
+Histoire de Gau et de Thalhend et de l'invention es échecs......... 319 à 356
+ ommencement du récit, p. 319.— Gau et Thalhend
+ e disputent le trône, p. 324,
+— Gau et Thalhend e préparent au combat, p. 330.
+— Gau cherche
+à s'entendre avec Thalhend, p. 333.
+— Bataille ntre Gau et Thalhend, p. 339.
+— Deuxième ba- aille entre Gau et Thalhend. Thalhend meurt sur
+
+‘le dos de son éléphant, p. 346.
+— La mère de
+ halhend apprend la mort de son fils et en té-
+
+. moigne un grand deuil, p. 350.
+— On invente les
+
+échecs pour consoler la mère de Thalhend, p. 353. arzoui apporte de l’Inde le Calila et le Dimna, . 356.— Nouschirwan se met en colère contre Bu- urdjmihr et le fait enchaîner, p. 366.
+— Le Kaïsar nvoie un écrin fermé, et Buzurdjmihr est mis en iberté pour en deviner le secret, p. 371.
+— Sur a manière de gouverner de Nouschirwan, p. 378.
+— Nouschirwan donne des conseils à son fils Hor- uzd , p. 390.
+— Questions que les Mobeds adres- ent à Nouschirwan, et ses réponses, p. 394. — ettre de Nouschirwan au fils du Kaïsar, et sa réponse, p. 408.
+
+
+<pb n="445"/>
+
+— Kesra marche contre le Roum t fait un emprunt chez les marchands, p. 413. — es envoyés du Kaïsar arrivent avec des excuses ef es offrandes, p. 417.
+— Nouschirwan parle du hoix de son fils Hormuzd comme successeur, . 21.
+— Questions que les Mobeds adressent à ormuzd, et ses réponses, p.424.
+— Nouschirwan nomme son fils Hormuzd son successeur, p. 131.
+
+
+ XLII. Hormuzd....................... 437 à 568
+ 
+ Commencement du récit, p. 437
+— Hormuzd monte ur le trône et fait une allocution aux chefs de l’ar- ée, p. 438.
+— -Hormuzd met à mort [zed Gus- hasp et empoisonne Zerduhischt le Grand Mobed, . hh1.
+— Hormuz met à mort Simah Berzin et ahram Adermihan, p. 447.
+— Hormuzd revient
+à la pratique de la justice, p. 452.
+— Le roi Saweh ondait une armée contre Hormurd, p. 456. — ihran Sitad indique Bahram Djoubineh à Hor- uzd, qui l'appelle auprès de lui, p. 460.
+— Bah- am Djeubineh arrive chez le roi Hormuzd, p. 465.
+— Hormuzd nontme Bahram Djoubineh Pehlewan e l’armée, p. 468.
+— Bahram Djoubineh part our combattre le roi Saweh, p. 473.
+— Hormuzd nvoie Kharrad Berzin auprès du roi Saweh avec n message perfide, p. 477.
+— Saweh envoie un essage à Bahram Djoubineh, p. 481.
+— Saweh nvoie un nouveau message à Bahram Djoubineb, . 485.
+— Réponse de Bahram Djoubineh au roi aweh, p. 488.
+— Bahram Djoubineh a un songe t dispose son armée, p. 4g1.
+— Bahram Djoubi- eh livre bataille au roi Saweh, p. 494.
+— Bahram joubineh fait tuer un sorcier, p. 499.
+— Bahram joubineh envoie à Hormuzd la tête du roi Saweh  et une lettre pour annoncer sa victoire, p. 502. 
+
+<pb n="446"/>
+— ahram Djoubinch combat Parmoudeh, fils de
+
+Saweh. Fuite de Parmoudeh au château d’Awaseh,
+ p. 507.
+— Parmoudch demande protection à Bah- am Djoubineh, p. 513.
+— Bahram Djoubineh emande à Hormuzd une lettre de pratection pour armoudeh , p. 516.— Bahram Djoubineh se met n colère contre Parmoudch, p. 518.— Le Kha- an arrive chez le roi Hormuzd, p. 525.
+— Hor- uzd apprend le manque de probité -de Bahram joubineh et fait un traité avec le Khakan, p. 527.
+— Hormuzd envoie à Bahram une boîte à fuseaux
+ et une robe de femme, p. 530.
+— Bahram a une vision de la fortune qui l’attend, p. 533.
+— Bahram
+ joubineh prend des allures de roi, p. 536. — harrad Berzin avertit Hormuzd de ce que faisait ahram, p. 538.
+— Bahram explique aux chefs de 'armée son plan de se faire roi. Sa soeur Gordieh ui donne son avis, p. 542.
+— Bahram frappe onnaie au nom de Khosrou Parviz, p. 553. — abram écrit une lettre à Hormuzd, et Khosrou arviz s'enfuit de Ja cour de son père, p. 555. — yin Guschasp va combattre Bahram par ordre de ormuzd et est tué, p. 559.
+— Gustehem et Ben- oui font aveugler Hormusd, p. 565.
+
+
+ 
+ XLIII. Khosrou Parviz................... 1 à 288
+ Commencement du récit, p. 1.
+— Khosrou monte
+ sur le trône et demande pardon à son père, p. 3.
+
+
+<pb n="447"/>
+— Bahram Djoubineh apprend que Hormuzd a été aveuglé et se met en marche contre Khosrou Par- iz, p. 6. Entrevue entre Khosrou Parviz et ahram Djoubineh, p. 11.
+— Gordich donne des onseils à son frère Bahram, p. 32.
+— Khosrou ient conseil avec ses Sipehdars et ses Mobcds, . 36.
+— Bahram Djoubineh fait une attaque de uit contre les Jraniens, et Khosrou Parviz s'enfuit, . Lo.
+— Khosrou s'enfuit vers le Roum, et son ère Hormuzd est assassiné, p. 44.
+— Khorsou rrive au Roum, p. 43.
+— Bahram, fils de Sia- usch, amène Bendouï devant Bahram Djoubinch, . 54.
+— Les Iraniens délibèrent avec Bahram sur a royauté et discutent s'ils doivent le placer sur le rône, p. 56.
+— Bahram Djoubinch monte sur le rône, p. 62.
+— Bendouï s’enfuit de chez Bahram, . 64.
+— Khosrou va au Roum par le désert, et n ermite lui prédit l'avenir, p. 69.
+— Khosrou ntre dans le pays de Roum, p. 74.
+— Un ermite rédit l'avenir à Khosrou Parviz, p. 76.
+— Khos- ou Parviz envoic une lettre au Kaïsar de Roum, . 80.
+— Réponse du Kaïsar à la lettre de Khosrou, . 85.
+— Le Kaïsar écrit de nouveau à Khosrou arviz, p. 90.
+— Khosrou Parviz écrit une lettre 'alliance et l'envoie au Kaïsar, p. 94.
+— Les Rou- is préparent une figure magique et soumettent les raniens à une épreuve, p. 98.
+— Kharrad explique u Kaiïsar la religion des Hindous, p. 103.
+— Le aïisar envoie à Khosrou Parviz une armée et sa ile, p. 107.
+— Khosrou conduit l’armée à Ader badghan, p. 111.— Bahram Djoubineh apprend e retour de Khosrou et adresse une lettre aux rands de l'Iran, p. 115.
+— Bahram Djoubineh e met en marche contre Khosrou Parviz et bat les oumis, p. 119.
+— Les Pchlewans de Khosrou se battent contre Bahram Djoubineh, p. 126.— 
+ 
+<pb n="448"/>
+ Troi-
+ ième combat de Khosrou Parviz avec Bahram
+ joubineh. Défaite de Bahram, p. 136.— Bahram joubineh s’enfuit devant Khosrou et se rend au- rès du Khakan de la Chine, p. 139.
+— Lettre de hosrou Parviz au Kaiïsar sur sa victoire. Réponse u Kaisar, p. 143.
+— Neïathous se met en colère ontre Bendoui. Mariam fait la paix entre eux, . 146.
+— Neïathous et les Roumis reviennent de ’fran auprès du Kaïsar, p. 150.
+— Lamentation e Firdousi sur la mort de son fils, p. 153.
+— Ce ui arriva entre Bahram Djoubineh et le Khakan e la Chine, p. 155.
+— Bahram Djoubineh tue ekatoureh, p. 159.
+— Une bête fauve tue la fille u Khakan, p. 162.
+— Bahram Djoubineh tue le ion Keppi, p. 166.
+— Khosrou Parviz apprend ce ue fait Bahram et écrit une lettre au Khakan,
+
+p. 169.
+— Le Khakan de la Chine prépare une
+ rmée, p. 173.
+— Khosrou envoie Kharrad, fils e Berzin, auprès du Khakan. Kharrad conspire la ort de Bahram Djoubineh, p. 175.
+— Kharrad, ils de Berzin, envoie Kaloun auprès de Bahram joubineh, p. 181.
+— Meurtre de Bahram Djou- ineh par Kaloun, p. 184.— Le Khakan apprend a mort de Bahram et détruit la maison et la famille e Kaloun. Accueil que fait Khosrou Parviz à Khar- ad, p. 190.
+— Lettre du Khakan à Gordieh, oeur de Bahram; réponse de Gordieh, p. 192. — ordieh consulte ses Pehlewans et s’enfuit de Merv, . 196.
+— Le Khakan envoie Thuvurg à la pour- uite de Gordieh, qui le tue, p. 199.
+— Khosrou ue Bendouï pour venger la mort de son père Hor- uzd, p. 203.
+— Gustehem se révolle contre hosrou et épouse Gordieh, p. 204.
+
+
+<pb n="449"/>
+— Gordieh tue Gustehem sur l'instigation de Khosrou Parviz ‘ t de Guerdouï, p. 208.
+— Lettre de Gordieh à hosrou , qui lui offre sa main, p. 212.— Gordieh ait preuve de sa valeur auprès de Khosrou Parviz. . 214.
+— Comment la ville de Reï fut ruinée, . 217.
+— Khosrou distribue les gouvernements
+‘et envoie des armées aux frontières de l'Iran, . 221.
+— Schirouieh, fils de Khosrou, naît sous e mauvais auspices, p. 225.
+— Khosrou écrit au aïsar, qui lui répond en demandant la croix du essie, p. 227.
+— Khosrou Parviz répond à la ettre du Kaïsar, p. 234.
+— Aventures de Khosrou
+ Parviz et de Schirin. Commencement de l'histoire, . . 239.
+— Khosrou va à la chasse, revoit Schirin t l'envoie dans l'appartement de ses femmes, . 240.
+— Les grands donnent un conseil au roi, . 244.
+— Schirin tue Mariam et met Schirouï n prison, p. 247.
+— Khesrou construit le trône ppelé Thak-dis, p. 249.
+— Histoire de Barbed e musicien, p. 255.
+— Khosrou construit le palais e Madaïn, p. 260.
+— Sur la puissance de Khos- ou Parviz, p. 267.
+— Khosrou devient injuste, et ’armée se révolte, p. 269.
+— L'armée iranienne bandonne Khosrou et délivre Schirouieh de sa rison, p. 270.— Les grands délivrent Schirouieh e sa prison, p. 277.
+— Khosrou apprend ce qu’a ait l’armée, p. 280.
+— Khosrou Parviz devient e prisonnier de son fils Schirouïeh, p. 283.
+ 
+
+LIV. Kobad, fils de Parviz............. 289 à 399
+ Commencement de l’histoire, p. 289.
+— Réponse e Khosrou Parviz à Kobad, p. 297.
+— Complainte e Barbed sur Khosrou, p. 315.
+
+
+<pb n="450"/>
+
+— Les grands réclament de Schirouï la mort de Khosrou. Meurtre e Khosrou par Mibr Hormuzd, p. 318.
+— Histoire de Schirouich et de Schirin, femme de hosrou Parviz. Meurtre de Schirouich, p. 321. LV. Anpsscuir, fils de Schirouï......... 330 à 33h . rdeschir, fils de Schiroui, monte sur le trône et dresse une allocution aux chefs, p. 330.
+— Guraz ésapprouve la prise de possession du trône par rdeschir et le fait assassiner par Firouz, fils de hosrou, p. 331. LVL Guraz, appelé Ferayin........... 335 à 339 uraz s'empare du trône, p. 335.
+— Ferayin périt e la main de Schehran Guraz, p. 338. 
+
+XLVI. Pourandokht.................. 3ho et341 
+
+XLVII. Azermidokht. . ................ 34a et 343 
+
+XLIX. Farrukzad. . ................... 344 à 346 . 
+
+L. Yezdegird ...... e 347 à 409
+ commencement de l'histoire, p. 346.
+— Saad, fils e Wakkas, envahit l'Iran. Yezdegird envoie Rus- era çontre hui, p. 349.
+— Lcttre de Rustem à aad , fils de Wakkas, p. 357.— Réponse de Saad, ils de Wakkas, à la lettre de Rustem, p. 36.
+— Combat entre Rustem et Saad, fils de Wakkas. ort de Rustem, p. 363.
+— Yezdegird tient con- eil avec les [raniens et se rend dans le Khorasan, . 366.
+— Lettre de Yezdegird à Mahouï et aux erzcbans du Khorazan, p. 371.
+— Yezdegird rrive à Thous, où il est reçu par Mahoui Souri, . . 377.
+
+
+<pb n="451"/>
+
+— Mahouw Souri exate Bijen à faire la guerre à Yezdegird; le roi se réfugie dans un moulin, p. 379.
+— Yezdegird est égorgé par le eunier Khosrou, p. 392.-— Mahoui Souri monte ur le trône, p. 398.
+— Bijen fait marcher son rmée contre Mahoui Souri, p. 4o1.— Bijen livre ataille à Mahoui et le tue, p. 404.
+— Date de 'achèvement du Livre des Rois, p. 407.
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

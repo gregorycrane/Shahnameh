@@ -8,7 +8,7 @@ KAI KHUSRAU: HE REIGNED SIXTY YEARS</head>
 </p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
-<p>Kai Khusrau is the last of the Shahs in whose names we can trace a connexion with Indian mythology. In the Vedas he appears as Sushrdvas. In the Zandavasta he is Kavi Husravah and is mentioned often. Like his grandfather Kai Kaus he originated in the ancient nature-worship of the Aryan race, and a trace of his divine origin still clings to him in the Shahnama, as is shown by his exemption from death. The story of his birth and youth will be found in the reign of Kai Kaus, Parts IV. and V.!
+<p>Kai Khusrau is the last of the Shahs in whose names we can trace a connexion with Indian mythology. In the Vedas he appears as Sushrdvas. In the Zandavasta he is Kavi Husravah and is mentioned often. Like his grandfather Kai Kaus he originated in the ancient nature-worship of the Aryan race, and a trace of his divine origin still clings to him in the Shahnama, as is shown by his exemption from death. The story of his birth and youth will be found in the reign of Kai Kaus, Parts IV. and V.<ref target="n.1"/>
 The reign of Kai Khusrau is the longest in the Shahnama and forms more than a fifth of the whole poem. It is nearly twice as long as “ Paradise Lost” and “ Paradise Regained” combined. It is divided into seven Parts, of which Parts IV. and V. are episodic.
  
 <note n="1">See Vol. ii.</note>
@@ -32,16 +32,16 @@ We are still far from the point in the poem at which such names begin to appear 
 <note n="1">In the Zandavasta, however, Kai Khusrau is represented as having a son named Akhrura, whose legend is lost. DZA, ii. 223.</note>
 <note n="2">RM, Vol. x., Mahdprasthdnika Parva.</note>
 <note n="3">Vol. i. p. 49.</note>
-<pb n="9"/> place, but it does not follow that all the names occurring before that point is reached are wholly mythical. Real dynastic, family, and personal names are found thrown back upon and incorporated with a mythical past with which they have no connexion whatever. The dynastic title of Caesar, for instance, occurs in the reign of Minvchihr,! while the personified name—Karan—of a family famous in Ashkanian (Parthian) and Sisdnian times is very prominent in the Pishdddian dynasty. The most striking in- stances of personal names and personalities being thus thrown back occur in the Kaidnian dynasty and in the reigns of Kai
+<pb n="9"/> place, but it does not follow that all the names occurring before that point is reached are wholly mythical. Real dynastic, family, and personal names are found thrown back upon and incorporated with a mythical past with which they have no connexion whatever. The dynastic title of Caesar, for instance, occurs in the reign of Minvchihr,<ref target="n.1"/> while the personified name—Karan—of a family famous in Ashkanian (Parthian) and Sisdnian times is very prominent in the Pishdddian dynasty. The most striking in- stances of personal names and personalities being thus thrown back occur in the Kaidnian dynasty and in the reigns of Kai
 Kaus and Kai Khusrau. These we will now proceed to con- sider. 
 
-About a.D. 40 the Parthian king Artabanus III. died. He left at least two sons living at his death—Vardanes, who suc- ceeded him, and Artabanus. Shortly afterward, and during the absence of Vardanes from the capital, a certain Gotarzes assumed the supreme power and caused Artabanus with his wife and son to be murdered. The relationship of Gotarzes to Artabanus III. has been a matter of considerable difference of opinion, but seems fairly settled now by two pieces of contemporary evidence. On the rock of Bihistiin, some three hundred feet below the inscrip- tion of the great Darius, Gotarzes has left a memorial tablet of himself. Unfortunately it is now almost defaced,? but when the late Sir Henry Rawlinson examined it in 1836 he made out, in addition to the name Gotarzes, which is still legible,? the word
+About a.D. 40 the Parthian king Artabanus III. died. He left at least two sons living at his death—Vardanes, who suc- ceeded him, and Artabanus. Shortly afterward, and during the absence of Vardanes from the capital, a certain Gotarzes assumed the supreme power and caused Artabanus with his wife and son to be murdered. The relationship of Gotarzes to Artabanus III. has been a matter of considerable difference of opinion, but seems fairly settled now by two pieces of contemporary evidence. On the rock of Bihistiin, some three hundred feet below the inscription of the great Darius, Gotarzes has left a memorial tablet of himself. Unfortunately it is now almost defaced,<ref target="n.2"/> but when the late Sir Henry Rawlinson examined it in 1836 he made out, in addition to the name Gotarzes, which is still legible,<ref target="n.3"/> the word
 Mithrates, and Gotarzes’ description of himself as “Satrap of
 Satraps.” In one corner of the tablet the words “:Gotarzes
 Geopothros” (Γωτάρζης Γεόποθρος) were also found. Sir Henry
 Rawlinson’s account was read before the Royal Geographical
-Society in January 1838.4
-In the first element in the word “Geopothros” we have, as now seems generally admitted, the historical original of the Giv of the Shahnama. In the second element we have the old Persian word “ puthra,” which means “son.” The whole word therefore means “son of Giv.” This historical Giv seems to have been prince of Hyrcania and the father-in-law of Artabanus III. He was also, if we accept the evidence of the inscription, the father of Gotarzes.
+Society in January 1838.<ref target="n.4"/>
+In the first element in the word “Geopothros” we have, as now seems generally admitted, the historical original of the Giv of the Shahnama. In the second element we have the old Persian word “ puthra,” which means “son.” The whole word therefore means “son of Giv.” This historical Giv seems to have been prince of Hyrcania and the father-in-law of Artabanus III.<ref target="n.5"/> He was also, if we accept the evidence of the inscription, the father of Gotarzes.
 The second piece of contemporary evidence is a very rare coin of Gotarzes in the corrupted legend on which he is described as “the king of kings, the Arsacid, the adopted son of Artabanus ”
 <note n="1">Id, p. 262. </note>
 <note n="2">JP, p. 209. </note>
@@ -53,7 +53,8 @@ The second piece of contemporary evidence is a very rare coin of Gotarzes in the
 
 Vardanes, on hearing of Gotarzes’ usurpation of the kingdom, hurried back and expelled him. Gotarzes withdrew into his hereditary principality of Hyrcania, where, with the assistance of the Dahae, who dwelt between the Caspian and the Aral, he prepared to renew the struggle. The opposing forces met on the Bactrian plains, but hostilities were averted. Gotarzes had discovered a plot, on the part of the Parthian nobles on both sides, to kill him and Vardanes, and set up a new king in their place. He informed Vardanes of this, and the two combined against the common enemy. Gotarzes then withdrew to Hyrcania and Vardanes retained the crown. Subsequently another war broke out between the two and several battles were fought.
 Tacitus, the chief authority for this part of history, tells us<ref target="n.2"/> that Vardanes advanced to meet Gotarzes as far as the river
-Erinde,<ref target="n.3"/> at the passage of which severe fighting took place in which Vardanes was victorious, who then in several successful engagements subdued all the nations between that river and the river Sinde, which divided the Dahae and the Aryans.<ref target="n.4"/> He returned in triumph, but shortly afterward was assassinated while hunting, 4.D. 46. Upon this Gotarzes became king, but his ferocity and self-indulgence speedily rendered him unpopular, and a Parthian deputation arrived in Rome in a.p. 49 for the purpose of obtaining from the Emperor Claudius permission for
+Erinde,<ref target="n.3"/> at the passage of which severe fighting took place in which Vardanes was victorious, who then in several successful engagements subdued all the nations between that river and the river Sinde, which divided the Dahae and the 
+Aryans.<ref target="n.4"/> He returned in triumph, but shortly afterward was assassinated while hunting, 4.D. 46. Upon this Gotarzes became king, but his ferocity and self-indulgence speedily rendered him unpopular, and a Parthian deputation arrived in Rome in a.p. 49 for the purpose of obtaining from the Emperor Claudius permission for
 Meherdates, who resided there, to accompany them back to
 Persia. Meherdates was the son of a former Parthian king,
 Vonones I. As was to be expected in the circumstances the character of Gotarzes was depicted in very unfavourable colours by the envoys. He had killed all his relations, whether near or distant, with their wives and children; he was sluggish at home, unfortunate in war, and sought to cloak his sloth by
@@ -74,7 +75,8 @@ Parthian name—becomes Farhad, and there are other instances.<ref target="n.4"/
 Some of the names thus transplanted have flourished amazingly, and Gotarzes’ reputation has not suffered by the change.
 We conclude this note with a few instances in which the events of Parthian history summarized above may be traced in a distorted form in the Shahnama. In the war between Gotarzes and Vardanes we seem to have the origin of the campaigns of
 Tus against Turan in Parts I. and II. The scene of operations is the same in both cases, and the battle at the river Erinde seems reproduced in that of the river Shahd.<ref target="n.5"/> The assassination of king Vardanes on the hunting-field is reproduced in the episode in which Bahram, having lost his whip on the battlefield, insists on returning to look for it, and is, after a gallant defence, mortally wounded by the enemy." It is because Meherdates, after marching
-<note n="1">Ann, xii. 10. 2 See HAP, p. 39, and RP, frontispiece.</note>
+<note n="1">Ann, xii. 10. </note>
+<note n="2">See HAP, p. 39, and RP, frontispiece.</note>
 <note n="3">GKS, iti. 24. </note>
 <note n="4">NIN, p. 7.</note>
 <note n="5">See p. 117 seq. 8 See p. 95 seq.</note>
@@ -85,7 +87,7 @@ Gurgin treats Bizhan badly and, after having brought him into deadly peril, is l
 Bistun.<ref target="n.3"/>
  
 <note n="1">Tacitus, Ann, xii. 12.</note>
-<note n="2">See pp. 292 seg., 316, 331 9¢g., 345-</note>
+<note n="2">See pp. 292 seg., 316, 331 seq., 345.</note>
 <note n="3">Cf. pp. 11, 350.</note>
 
 
@@ -96,7 +98,7 @@ Bistun.<ref target="n.3"/>
 <p>The poet, first having set forth the various qualities that kings ought to possess, proceeds to tell how Kai Khusrau becomes joint Shah with Kai Kaus, who exacts from him an oath that he will avenge the death of Siyawush. He accordingly assembles the host, and sends it, under the command of Tus, against Afrasiyab, strictly enjoining the former not to attack Fartid—the half- brother of Kai Khusrau—on the march. Tuis out of dudgeon with Kai Khusrau disobeys, and Farud is slain. The Iranians subsequently are surprised in a night-attack by Piran and de- feated. Kai Khusrau recalls Tus and appoints Fariburz leader, who arranges 4 month’s truce with Piran, after which the fight is renewed and the Iranians are overthrown at the disastrous battle of Ladan. They retreat to Iran, and Piran is splendidly rewarded by Afrasiyab. The poet in this part records various heroic exploits of Giv, his son Bizhan, and his brother Bahriim, who is slain,</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
-<p>§§$ 1andg9. There are two Preludes in this Part. The first may be regarded as introductory to the whole reign, specifying as it does the ideal kingly qualities that are to be exemplified in the person of Kai Khusrau, while the second is meant to impress upon the reader the real motives that underlay the conduct of Tus with reference to his treatment of Farud.  Tus, as we have seen, was a disappointed man.! Although he was the direct representative of the ancient Pishdddian Dynasty his claim to the crown in- variably had been ignored. Despairing, moreover, of ever becom- ing Shah himself he had just been advocating the claims of
+<p>§§ 1and 9. There are two Preludes in this Part. The first may be regarded as introductory to the whole reign, specifying as it does the ideal kingly qualities that are to be exemplified in the person of Kai Khusrau, while the second is meant to impress upon the reader the real motives that underlay the conduct of Tus with reference to his treatment of Farud.  Tus, as we have seen, was a disappointed man.<ref target="n.1"/> Although he was the direct representative of the ancient Pishdddian Dynasty his claim to the crown invariably had been ignored. Despairing, moreover, of ever becoming Shah himself he had just been advocating the claims of
  
 <note n="1">Vol. ii. p. 335-</note>
 
@@ -106,11 +108,15 @@ Fariburz to the kingship, in opposition to those of Kai Khusrau, in the hope of 
 § 6. The name of the slave of Tazhiv appears variously as
 Isnapwi and Ispanwi. We adopt the latter.
 
-§ 7. In Rustam’s account of the conquest of part of Zibulistan by the Turkmans we seem to have a reminiscence of the permanent occupation of that country (c. 100 B.c.), from which it received the name of Sistan.<ref target="n.1"/> Similarly in Kai Kaus, Part II, we had a reference to the invasions of Mesopotamia by the Arabs.<ref target="n.2"/>
+§ 7. In Rustam’s account of the conquest of part of Zibulistan by the Turkmans we seem to have a reminiscence of the permanent occupation of that country (c. 100 B.c.), from which it received the name of Sistan.<ref target="n.1"/> Similarly in Kai Kaus, Part II, we had a reference to the invasions of Mesopotamia by the 
+Arabs.<ref target="n.2"/>
+
 § 10, Kalat is a word used for forts in general, but if, as seems probable, the particular stronghold referred to is that which is now known as Kalat-i-Nadiri, we here find ourselves in the poet’s own neighbourhood.  Tus, his native place, is said to have been founded by the legendary hero of that name, who plays so prominent a part in this portion of the Shdhnima, because, in consequence of the death of Farud, he was afraid to return to the court of Kai Khusrau,<ref target="n.3"/> but we find nothing to this effect in the
 Shahnama. Kalat-i-Nidiri was so called because Nadir Shah
-(A.D, 1736-1747), one of the most remarkable of Persian sovereigns, whose uncle was the ruler of this fortress,<ref target="n.4"/> was born in its neighbourhood and made it his favourite residence. It is situated some forty miles to the north of the ruins of  Tus. “It is upon a very high hill, only accessible by two narrow paths. An ascent of six or seven miles terminates in a plain about twelve miles in circumference, watered by several fine streams and covered with verdure and cultivation. A second ascent, by a route of ten or eleven miles, leads to another plain of greater elevation, but of equal richness.”<ref target="n.5"/>
-“It is a district or a basin,” says another account, “fortified in the most wonderful way by nature. In shape it is something like a foot, and it must have a length of twenty miles by a breadth of two to four miles .. . if the term impregnable can be used anywhere, it can here. For the fifty miles of its circuit, nature has indeed left hardly anything for man to do.” <ref target="n.6"/>
+(A.D, 1736-1747), one of the most remarkable of Persian sovereigns, whose uncle was the ruler of this fortress,<ref target="n.4"/> was born in its neighbourhood and made it his favourite residence. It is situated some forty miles to the north of the ruins of  Tus. “It is upon a very high hill, only accessible by two narrow paths. An ascent of six or seven miles terminates in a plain about twelve miles in circumference, watered by several fine streams and covered with verdure and cultivation. A second ascent, by a route of ten or eleven miles, leads to another plain of greater elevation, but of 
+equal richness.”<ref target="n.5"/></p>
+
+<p>“It is a district or a basin,” says another account, “fortified in the most wonderful way by nature. In shape it is something like a foot, and it must have a length of twenty miles by a breadth of two to four miles .. . if the term impregnable can be used anywhere, it can here. For the fifty miles of its circuit, nature has indeed left hardly anything for man to do.” <ref target="n.6"/>
 § 15. The Rivniz slain by Farud should be distinguished from the hero of the same name slain at Lidan (§ 30). The former was descended from Pashang <ref target="n.7"/> and therefore of Pishdadian descent. He is quite appropriately the son-in-law of Tus. The latter is a son of Kai Kis and therefore a Kaidnian.
  
  
@@ -480,7 +486,7 @@ All armed with maces and all warriors.
 Their leader was Zarasp the general,
 Who used to make their welfare his concern
 In everything—a crown of kings, the son
-Of Tis——the lord of iron mace, of scimitar,
+Of Tus——the lord of iron mace, of scimitar,
 And drum. Gutdarz son of Kishwad came next,
 Whose counsels were the safeguard of the host.
 His sons and grandsons numbered seventy-eight—
@@ -578,7 +584,7 @@ And will confer more favours on, the man
 That bringeth unto me, or to the chieftains
 Assembled here, the crown worn by Tazhav,
 Which crown Afrasiyab set on his head,
-And hailed him as a high-born son-in-law.” !
+And hailed him as a high-born son-in-law.”<ref target="n.1"/>
 
 Again Bizhan the son of Giv arose,
 Who had a hand far reaching in the fight,
@@ -663,7 +669,7 @@ I fear not combat if the foe shall come,
 But will invite the vultures to a feast.”</p>
 
 <p>The Shah bestowed on Giv those goods as well,
-And said to him: “ Famed chieftain of the host !!
+And said to him: “ Famed chieftain of the host !<ref target="n.1"/>
 May this bright crown ne’er lack thy sword. So be it.
 Oh! may the Brahman never lack the Idol!”</p>
 
@@ -1127,7 +1133,7 @@ And, since Khusrau’s commands he minded not,
 See what a Tempest proved at last his lot!</p></div>
 
 <div type="textpart" subtype="section" n="11">
-<head>How Farid heard of the Coming of Tis</head>
+<head>How Farid heard of the Coming of Tus</head>
 <p>
 News reached Farud: “The bright sun’s face is dark- ened
 <milestone unit="vullers" n="797"/>
@@ -1805,18 +1811,18 @@ Whose hand and brand will shortly ask for tears?”</p>
 And said to him: “It is the raging Dragon,
 Whose neezings make birds topple from the air,
 Who put Piran thy grandsire’s hands in bonds,
-And brake two Turkman hosts!<ref target="1"/> He hath unfathered
+And brake two Turkman hosts!<ref target="n.1"/> He hath unfathered
 Full many a little child. His foot hath been
 On many a river, mount, and wilderness.
 Full many a father too hath he unsonned,
 And treadeth underfoot the lion’s neck.
 ‘Twas he that bare thy brother to Iran,
-And crossed Jihun although he saw no boat.<ref target="2"/>
+And crossed Jihun although he saw no boat.<ref target="n.2"/>
 They call him Giv—a very Elephant
 Or river Nile upon the day of battle.
 When thou shalt set thy thumbstall to the bow-string
 Thy poplar arrow will not pierce his mail,
-Because he weareth that of Siyawush ;<ref target="3"/>
+Because he weareth that of Siyawush ;<ref target="n.3"/>
 So draw thy bow and let the arrow fly
 Against his steed. The great beast may be wounded,
 And Giv the rider may return afoot
@@ -1833,7 +1839,7 @@ Because the horse is hurt and thou art not,
 Nor art thou captured but can’st go again.”</p>
 
 <p>Bizhan the warrior came to Giv like wind,
-And uttered words most unacceptable :— <ref target="4"/>
+And uttered words most unacceptable :— <ref target="n.4"/>
 “My father—lion-quelling paladin,
 Whose might is greater than an elephant’s!
 <note n="1">See Vol. ii. p. 378 seg. </note>
@@ -2225,7 +2231,7 @@ The hearts of stone and anVil quake with fear
 Of death ; no root and leaf escape it here,</p></div>
 
 <div type="textpart" subtype="section" n="22">
-<head>How Tis led the Host to the Kdsa Rid, and how Paldshén was slain by Bizhan</head>
+<head>How Tus led the Host to the Kdsa Rid, and how Paldshén was slain by Bizhan</head>
 <p>
 
 <milestone unit="vullers" n="827"/>
@@ -2853,7 +2859,7 @@ Till cock-crow. Summoning a prudent scribe,
 And pouring out the fulness of his heart,
 He wrote a letter in a wrathful strain,
 With eyes all tears in mourning for his brother,
-To Farfburz the son of Shah Kius—
+To Fariburz the son of Shah Kius—
 A letter for the chieftains of the host.
 First in the letter came the praise of Him,
 Who made both earth and time, thus: “In the name
@@ -2934,7 +2940,7 @@ The nobles and the Lions of Iran
 All called a blessing down upon the Shah,
 The leader Tus gave up the royal standard,
 The drums, the elephants, and golden boots
-To Farfburz, and said to him: “They come
+To Fariburz, and said to him: “They come
 As worthy comrades to a worthy man.
 May fortune always give thee victory,
 Be every day of thine a New Year's Day.”</p>
@@ -3179,7 +3185,7 @@ Then old Gudarz said to Bizhan: “ Depart
 Hence quickly, take with thee thy mace, and arrows,
 Direct thy horse’s reins toward Fariburz,
 And bring me Kawa’s standard. It may be
-That Farfburz will come with it himself,
+That Fariburz will come with it himself,
 And flush the face of earth with violet.”</p>
 
 <p>Bizhan on hearing this urged on his steed,
@@ -3261,7 +3267,7 @@ The combat waxed more fierce, none turned aside,
 They raged and smote each other on the head
 Until the day grew dark, and eyes were baffled.
 Eight of the kinsmen of Gudarz survived ;
-The rest had fallen on the battlefield?
+The rest had fallen on the battlefield<ref target="n.1"/>
 Of Giv’s seed there had perished five and twenty—
 Men who were fit for diadem and treasure—
 With seventy of the offspring of Kaus,
@@ -3797,11 +3803,13 @@ Hear the campaign wherein Kamus contended.
 Kamus of Kashin and the Khan of Chin with vast hosts to assist his general Piran. Fierce fighting follows, and Kdmus is slain by Rustam.</p>
 </div>
 <div type="textpart" n="intro"><head>Note</head>
-<p>In its earlier scenes this campaign is a variant of the preceding one. In both Tus commands the Iranians and is defeated, in both the Gudarzians suffer great losses, in both there are a snow-storm and a night-attack, and in both the Iranians take refuge on a mountain. Naturally the details vary, but the general similarity is unmistakable. Nothing but the existence of a variant can account for the fact that Tus is put in command again after his behaviour in the first campaign, and there is a legend, probably known to Firdausi, which puts a different complexion on the matter.'<ref target="n.1"/> In the poem the difficulty is got over by the intervention of Rustam, who begs the culprit off, as he does later on in the case of Gurgin.<ref target="n.2"/> In the second night-attack, in which the positions of assailants and defenders are reversed,
+<p>In its earlier scenes this campaign is a variant of the preceding one. In both Tus commands the Iranians and is defeated, in both the Gudarzians suffer great losses, in both there are a snow-storm and a night-attack, and in both the Iranians take refuge on a mountain. Naturally the details vary, but the general similarity is unmistakable. Nothing but the existence of a variant can account for the fact that Tus is put in command again after his behaviour in the first campaign, and there is a legend, probably known to Firdausi, which puts a different complexion on the matter.<ref target="n.1"/> In the poem the difficulty is got over by the intervention of Rustam, who begs the culprit off, as he does later on in the case of Gurgin.<ref target="n.2"/> In the second night-attack, in which the positions of assailants and defenders are reversed,
 Human takes just the part that Giv is represented as taking on the first occasion.
 
 If we are content to regard the account given in the poem of the latter part of this campaign merely as Firdausi has pre- sented it, perhaps we may identify the Kashin with which Kamius’ name is associated as that mentioned by Tabari<ref target="n.3"/> and situated in
-<note n="1">See p. 14. 2 See p. 331. 3 ZT, iv. 184.</note>
+<note n="1">See p. 14. </note>
+<note n="2">See p. 331. </note>
+<note n="3">ZT, iv. 184.</note>
 
 <pb n="109"/>
 Ferghana, which is now a province of Russian Turkist4n. We ought not, however, to overlook the probability that reminiscences of the Parthian civil wars of the days of Gotarzes and Vardanes have been embodied in the story. In this case, as in that of the wars of Gushtisp and Arjisp later on, what in reality were civil broils came in time to be looked back upon as wars between Iran and Turan. With the historical fact of the great Persian satraps ranging themselves in opposing camps before us, there seems no reason why the Kashin originally intended may not have been the one in Persia on the highroad between Ispahdn and Tihran.
@@ -4896,7 +4904,7 @@ When Sol, aweary of its veil of gloom,
 Had bursten through it and come forth, Piran,
 The leader, reached Mount Hamdwan, and earth
 Was hidden by the dust of troops. “ Abide,”
-Thus said he to Himan, “ here where thou art;
+Thus said he to Human, “ here where thou art;
 Set not the troops in motion for a while.
 I will hold parley with the Iranian leader,
 And say: ‘Why hast thou set up Kawa’s standard ?’
@@ -5128,7 +5136,7 @@ Son of Kishwad, is void of men of war
 And chiefs. The very stars are wailing them,
 The rose no longer groweth in the garden,
 The world through them is filled with dust and blood,
-And Tis’ high star hath fallen!”</p>
+And Tus’ high star hath fallen!”</p>
 
 <p>Kai Khusrau,
 The famous, heard, and his heart quaked. He bade
@@ -5235,7 +5243,7 @@ And idleness from us.”</p>
 
 <p>He paid the troops,
 Went forth upon the plain, prepared for war,
-And said to Farfburz: “ Lead forth at dawn,
+And said to Fariburz: “ Lead forth at dawn,
 Conduct the van, and sleep not day or night
 Until thou come to Tus the general.
 Say to him: ‘Risk not fight, use guile, gain time,
@@ -5305,7 +5313,7 @@ A host with Rustam son of Zal as chief,
 While Fariburz will lead the van, and Rustam
 Himself be champion. He would have thee be
 <milestone unit="vullers" n="914"/>
-The wife of Farfburz. What is thy pleasure
+The wife of Fariburz. What is thy pleasure
 Therein? Be greatness and all good thy mates.”</p>
 
 <p>On hearing this she thought about old times,
@@ -5331,7 +5339,7 @@ The peopled land and desert both are his.
 By leave, advice, and order of the Shah
 Do I approve thee as the prince’s spouse.
 What sayest thou? Is he approved by thee?
-Doth Farfburz appear a fitting mate ?
+Doth Fariburz appear a fitting mate ?
 Thou wilt do well to hearken to my words:
 Heed what I tell thee and the Shah's advice.”</p>
 
@@ -5504,7 +5512,7 @@ For this glad news would make an old man young.”</p>
 
 <p>Piran laughed out with all his heart and soul,
 Thou wouldst have said : “ He that was dead reviveth !”
-Thus spake he to Himan: “I will go forth
+Thus spake he to Human: “I will go forth
 To meet them. They have had a longsome march,
 Equipped for fight and full of care. They hold
 Their heads as high as doth Afrasiyab,
@@ -5949,7 +5957,7 @@ The well approven and the new Shah’s kinsman.<ref target="n.1"/>
 Then old Gudarz alighted as withal <ref target="n.2"/>
 Did Fariburz the wise, the army’s Lustre.
 The twain embraced. Gudarz wept tears of blood
-Upon his breast. “Old chief,” said Farfburz,
+Upon his breast. “Old chief,” said Fariburz,
 “Still forced to fight! revenge for Siyawush
 Hath cost thee dear! Alas! those cavaliers
 Gudarzian! May much good news of them
@@ -5990,7 +5998,7 @@ Replied : “ Illustrious one! the peerless Rustam
 Bade us not fight. ‘Stay on the field,’ he said.
 ‘Ye must not show yourselves before the host,
 But take your ease until my flag appeareth.’”
-Then Farfburz, Gudarz in company,
+Then Fariburz, Gudarz in company,
 Marched toward Mount Hamawan right speedily.</p></div>
 
 <div type="textpart" subtype="section" n="24">
@@ -6172,7 +6180,7 @@ Their leader is a horseman like a rock,
 And earth is shaken by his charger’s hoofs.
 His mace’s head is like a buffalo’s ;
 Troops follow him and spearmen lead the way.
-! Reading with P.
+<note n="1">Reading with P.</note>
 <pb n="169"/>
 Thou well mayst muse at one that shouldereth
 A mace like that !”</p>
@@ -6204,7 +6212,7 @@ When he was near he faced toward the mount,
 And with his cheeks all smiles addressed his powers :—
 “It is a coward’s business to oppose
 The Iranians, yet a vast, brave host is here
-And not Piran, Himan, and all that crew!
+And not Piran, Human, and all that crew!
 What champion have they to contend with me?”</p>
 
 <p>Then shouting to Mount Hamawan he cried :—
@@ -6524,7 +6532,7 @@ Seemed but a lump of wax compared to them !
 The troops were from Kashan and Shakn and Wahr,
 With divers coats of mail and divers helms,
 Troops from Chaghan and Chin, Saklab and Hind,
-Gahan and Rum, Sind and the Indus-banks.!
+Gahan and Rum, Sind and the Indus-banks.<ref target="n.1"/>
 In every quarter there were alien tongues,
 Strange flags and meats! What with the elephants,
 <note n="1">So Mohl.</note>
@@ -6721,7 +6729,7 @@ We need not fear if Rustam be away.
 I shall not break my heart about Ruhhim
 Or yet about Gurgin ; for be assured
 That saving Tus they have no warrior ;
-Gurgin and Farfburz match not Kamus.
+Gurgin and Fariburz match not Kamus.
 <milestone unit="vullers" n="952"/>
 Each soldier of our host too, with so great
 A fight in view, will seek his own renown.”</p>
@@ -7074,7 +7082,7 @@ Kashan, and Shakn.”</p>
 And asked: “ Who can this prowest warrior be ?
 What is his name? Whois he? Who can face him?”</p>
 
-<p>Thus to Himan the Lion spake, Piran :—
+<p>Thus to Human the Lion spake, Piran :—
 “ My soul hath had enough of strife to-day.
 How shall our warriors desire to fight
 When our brave Crocodile hath just been slain ?
@@ -8113,7 +8121,7 @@ As this is wholly worthless, for thy head
 <milestone unit="vullers" n="990"/>
 Is in the Dragon’s maw. Thou mayst behold
 Our gracious, just, young, fair, and courteous Shah.’
-But eating snakes! and wearing leopard-skin
+But eating snakes<ref target="n.1"/> and wearing leopard-skin
 Are sweeter than both colour and brocade
 In thine esteem. None will contest the point,
 And thou wilt eat of that which thou hast sown.”</p>
@@ -8718,7 +8726,7 @@ I tremble for Iran.”</p>
 
 <p>Then leopard-like
 He raged at Tus and said: “Is this a bedroom ?
-Or battlefield? See to Himan, Kulbad,
+Or battlefield? See to Human, Kulbad,
 Piran, Ruin, and to Pulad thyself
 Henceforth with thine own host upon this plain :
 We are not of one province, thou and I.
@@ -8848,7 +8856,7 @@ And turning heaven’s summit be thine earth.”</p>
 In charge to Fariburz, that royal prince,
 With captive kings and elephants, and set
 The spoils upon three thousand camels’ backs.
-So Farfburz son of Kaus went forth
+So Fariburz son of Kaus went forth
 Rejoicing, and made speed to reach Khusrau.
 The elephantine hero, with the chiefs
 And warriors of the army, saw him off
@@ -8984,7 +8992,7 @@ And bade him goto Rustam and say thus :—
 In fighting with Afrasiyab. Perchance
 Thy lasso yet may take that great king’s head.”</p>
 
-<p>So far Farfburz resumed his journeying,
+<p>So far Fariburz resumed his journeying,
 Such was the pleasure of the Iranian king.</p></div>
 
 <div type="textpart" subtype="section" n="19">
@@ -9389,7 +9397,7 @@ That earth’s back wearieth with the weight thereof!
 He weareth chain-mail, breast-plate, tiger-skin,
 And helm; he roareth like a thunder-cloud !
 Huge elephants sustain not his attack, :
-Or ships upon the azure sea! his weapons!
+Or ships upon the azure sea<ref target="n.1"/> his weapons!
 The Mountain under him is swift as wind,
 <note n="1">“ Sur les flots de l’Indus” (Mohl).</note>
 <pb n="252"/>
@@ -10656,7 +10664,7 @@ Harut was an angel who, with his mate Mirtit, was suspended by the feet in a wel
 § 12. According to Zoroastrian belief divine beings, men, the lower animals, plants, waters, sun and moon, etc., all had their immortal principle, known as their fravashi. These fravashis were worshipped especially at the beginning of the Zoroastrian year, and the month Farwardin obtained its name from the practice. At this season the spirits of deceased ancestors were supposed to revisit the houses of their descendants, and such fravashis, like the manes of the Romans, were objects of peculiar veneration.
 
 §17. The divine beings whose blessings are invoked by
-Rustam on Kai Khusrau are members of a class formerly known as Yazatas (gods) and now as Izads. Some of them, among other functions, presided over the Zoroastrian Calendar, and gave their names to the days of the month and to the months of the year.© They may be regarded as celestial satraps among whom the divine qualities and the good creation of Urmuzd have been parcelled out. Bahman presides over Good Thought, Ardi- bihisht over Perfect Rectitude, Shahrir over Perfect Rule,
+Rustam on Kai Khusrau are members of a class formerly known as Yazatas (gods) and now as Izads. Some of them, among other functions, presided over the Zoroastrian Calendar, and gave their names to the days of the month and to the months of the year.<ref target="n.5"/> They may be regarded as celestial satraps among whom the divine qualities and the good creation of Urmuzd have been parcelled out. Bahman presides over Good Thought, Ardi- bihisht over Perfect Rectitude, Shahrir over Perfect Rule,
  
 <note n="1">The Winter's Tale, iv. 3. </note>
 <note n="2">See pp. 317, 327.</note>
@@ -11635,7 +11643,7 @@ He will not live to come back to Iran.
 By gibbet or by prison or by bonds
 Tll hath befallen him from Afrasiyab.”</p>
 
-<p>Repentant and perplexed he flung his lasso,<ref target="1"/>
+<p>Repentant and perplexed he flung his lasso,<ref target="n.1"/>
 And turning led Bizhan’s steed from the meadow
 Back to his tent where he abode one day,
 Then, sleepless and unresting, sought Iran.
@@ -12767,7 +12775,7 @@ Of every kind of victual that she needeth.”</p>
 
 <p>He bade them fetch a bird hot from the spit,
 <pb n="340"/>
-And, as he wrapped it in soft bread, slipped in,
+And, as he wrapped it in soft bread,<ref target="n.1"/> slipped in,
 As with a fairy’s touch, his signet-ring,
 And said: “Convey this to yon pit. A guide
 Art thou to those who have no help beside.”</p></div>
@@ -13179,7 +13187,7 @@ And rank yourselves upon the battlefield.”</p>
 <p>Anon arose a sound of clarions,
 While matchless Rustam mounted Rakhsh and led
 His army plainward from the heights what time
-The foe was seen approaching.! Both the hosts
+The foe was seen approaching.<ref target="n.1"/> Both the hosts
 Deployed upon that broad expanse and formed
 Two camps empanoplied. Then Rustam chose
 His battle-ground, whereat the world grew black
@@ -13344,7 +13352,7 @@ As glorious as the sun are all thy gests,
 And thine achievements broadcast through the world.”</p>
 
 <p>Then quickly taking by the hand Bizhan,
-Who was abashed before his Shah and sire,!
+Who was abashed before his Shah and sire,<ref target="n.1"/>
 <milestone unit="vullers" n="1137"/>
 The matchless Rustam brought, presented him,
 Rose to his feet, and made the bent back straight.

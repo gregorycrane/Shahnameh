@@ -1,0 +1,7 @@
+Use <div type="textpart" subtype="section"...> for sections.
+Wrap lines in the output window for readability.
+Mark index terms with <term/> and references to these terms with <ref/>.
+Expand abbreviated expressions and ensure every statement or reference is in a separate paragraph.
+Correctly format and include all text details, avoiding omissions for brevity.
+Address specific formatting instructions for certain types of content, like separating commands, reports of actions, and outcomes into distinct paragraphs.
+Properly handle specific content instructions, like transforming mentions of characters, actions, and significant narrative details into the structured, tagged format required by TEI XML standards.

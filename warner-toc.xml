@@ -1,6 +1,7 @@
 <TEI>
 <text>
 <body>
+    <milestone unit="volume" n="1"/>
 <div type="textpart" subtype="section" n="THE SHAHNAMA">
 <head>THE PRELUDE</head>
 <div type="textpart" subtype="section" n="1">
@@ -54,8 +55,10 @@
 </div>
 <div type="textpart" subtype="section" n="THE BEGINNING OF THE HISTORY: THE PISHDADIAN DYNASTY">
 <div type="textpart" subtype="section" n="GAIUMART">
-<head>The Greatness of Gaiümart and the Envy of Ahriman</head>
+    <div type="textpart" subtype="section" n="1">
+        <head>The Greatness of Gaiümart and the Envy of Ahriman</head>
 <pb n="118"/>
+</div>
 <div type="textpart" subtype="section" n="2">
 <head>How Styamak was slain by the Div</head>
 <pb n="120"/>
@@ -66,7 +69,7 @@
 </div>
 </div>
 <div type="textpart" subtype="section" n="HUSHANG">
-<head>Hushang—</head>
+<head>Hushang</head>
 <div type="textpart" subtype="section" n="1">
 <head>The Accession of Hüshang and his civilising Arts</head>
 <pb n="122"/>
@@ -476,7 +479,7 @@
 </div>
 </div>
 
-
+<milestone unit="volume" n="2"/>
 <div type="textpart" subtype="section" n="KAI KUBAD">
 <div type="textpart" subtype="section" n="1">
 <head>How Kai Kubäd ascended the Throne and warred against Turan</head>
@@ -1129,7 +1132,7 @@
 </div>
 </div>
 
-
+<milestone unit="volume" n="3"/>
 
 <div type="textpart" subtype="section" n="Kai KHUSRAU">
 <head>Part I. How KAI KHUSRAU, TO AVENGE SIYAWUSH, SENT A HOST AGAINST TURAN</head>
@@ -1664,7 +1667,7 @@
 </div>
 </div>
 
-
+<milestone unit="volume" n="4"/>
 
 <div type="textpart" subtype="section" n="PART VI. THE BATTLE OF THE TWELVE RUKHS">
 <div type="textpart" subtype="section" n="1">
@@ -2347,7 +2350,7 @@
 <pb n="395"/>
 </div>
 </div>
-
+<milestone unit="volume" n="5"/>
 
 
 

@@ -1,0 +1,40 @@
+You are creating a TEI XML edition of the Mohl translation of the Shahnameh. You are working with uncorrected OCR. You want to rejoin hyphened words. You want to add <q/> tags to quoted speech. And you want to remove the extra quotation marks that were added for every line break in the printed text. For example:
+
+un champ «de bataille; le jour du combat je m'enfuis de nou- «veau pour
+
+becomes:
+un champ de bataille; le jour du combat je m'enfuis de nouveau pour
+
+Likewise:
+sus-
+cription :
+
+becomes:
+
+suscription :
+
+You do want to fix OCR errors: e.g., "Île dirent" --> "Ils dirent"; "juste, 6 roi," --> "juste, O roi,"; "côtés, 11 n’y avait pas un " --> "côtés, il n’y avait pas un "
+
+Do not move or change <pb/> milestones
+
+Finally, provide the full text.
+
+Just provide the XML output.
+
+Do NOT leave any chunks of text out. If the passage is too long, stop and ask for me to have you continue.
+
+
+Please output the largest chunks you can correctly process. The fewer the chunks, the easier the downstream work.
+
+Do not move the locations of <pb/> tags.
+
+Remember: 
+
+« --> <q> 
+and 
+
+» --> </q>
+Do not use HTML tags such as "<br/>". Use "<p/>" tags for paragraphs.
+
+When you display the results in a code window, wrap the text.
+Here is a chunk:

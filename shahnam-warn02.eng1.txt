@@ -1,6 +1,6 @@
 
-<div type="textpart" n="KaiKubad"><head>Kai Kubad (cont.)</head>
-<div type="textpart" n="XI"><head>XI: Kai Kubad: he reigned one hundred years</head>
+<div type="textpart" subtype="shah" n="Kaikubad"><head>Kai Kubad (cont.)</head>
+<div type="textpart" subtype="part" n="11"><head>XI: Kai Kubad: he reigned one hundred years</head>
 <pb n="11"/>
 <div type="textpart" n="argument"><head>Argument</head>
 
@@ -15,8 +15,8 @@
 </div>
 
 
-<div type="textpart" n="text">
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <milestone unit="vullers" n="V.298"/>
 <head>How Kai Kubad ascended the Throne and warred against Turan</head>
 <p>
@@ -73,7 +73,7 @@ Karan o’erthrew ten warriors at each charge;
 Now wheeling to the left, now to the right,
 And seeking to wreak vengeance on all sides,
 He made earth mountain-like with slain, astounding
-The bravest Turkmans, Seeing Shamasas,
+The bravest Turkmans. Seeing Shamasas,
 Who raised the war-cry lion-like, he charged,
 Unsheathed his sword, smote his foe’s head, and shouted :—
 
@@ -90,7 +90,7 @@ At whiles like arrow and at whiles like bow!
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 <head>How Rustam fought with Afrasiyab</head>
 <p>
 
@@ -112,7 +112,7 @@ And bring him hither haled upon his face.”
 
 Zal answered: “ Hearken unto me, my son!
 And run no risks to-day. He is a Dragon,
-Whose breath is fire—a Cloud of bale in war.?
+Whose breath is fire—a Cloud of bale in war.@1
 His flag and mail are black, his helm and brassards
 Of iron flecked with gold, his plume is sable.
 Avoid him, he is brave, his fortune sleepless.”
@@ -154,7 +154,7 @@ He is a youth and eager for distinction.”
 
 Then like a vessel lifted by the waves
 Afrasiyab came forth while Rustam clipped
-Rakhsh firmly, shouldering his massive inace,
+Rakhsh firmly, shouldering his massive mace,
 But hung it to his saddle when he closed ;
 Then, having caught the monarch by the belt,
 And dragged him from his poplar saddle, hoped
@@ -222,7 +222,7 @@ In Grace and might felt his heart throb with joy
 
 <milestone unit="vullers" n="V.305"/>
 To see such prowess, while the Turkmans pressed 
-Thus by the Magian host sought Dimaghan,
+Thus by the Magian host sought Damaghan,
 And thence fled toward Jihun with stricken hearts,
 With din and dudgeon, with their weapons broken
 And girdles snapped—a trumpless, drumless mob.
@@ -246,7 +246,7 @@ And famous Zal upon the other one.
 </p>
 </div>
 
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>How Afrasiyab came to his Father</head>
 <p>
 
@@ -381,7 +381,7 @@ What Indian scimitars with golden scabbards,
 And, over and above these, what famed chieftains
 The blast hath vilely borne away—-Kulbdd,
 
-And bold Barman who hunted lions only,
+And bold Bahman who hunted lions only,
 
 And Kharzarwan, whom Zal hath dashed to pieces
 And shown his massive mace’s mastery,
@@ -425,7 +425,7 @@ Lord of Kabul, a man of rede and Grace.”
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Pashang sued to Kai Kubad for Peace</head>
 <p>
 
@@ -549,7 +549,7 @@ He crossed Jihun like wind, and news thereof
 Reached Kai Kubad, who joyed because the foe
 Withdrew without a fight, but Rustam said :—
 <milestone unit="vullers" n="V.312"/>
-“Look not, O Shih! for peace in time of war. 
+“Look not, O Shah! for peace in time of war. 
 Of old we ne’er had rest from their assaults ;
 My mace it was that made them thus to-day.”
 
@@ -604,7 +604,7 @@ Their merit greater still, a sword and belt.
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>How Kai Kubad came to Istakhr of Pars</head>
 <p>
 
@@ -642,7 +642,7 @@ He built him many cities—jocund seats—
 Such as the hundred that surrounded Rai,
 But when the hand of time had fallen upon him
 He set his face toward Pirs, sat on the throne
-*Mid archimages, readers of the stars,
+'Mid archimages, readers of the stars,
 And sages, gathered too his warriors,
 And gazing on them with a wounded heart
 Talked of the mighty who had passed away.
@@ -728,15 +728,15 @@ reference to his attempt to fly to heaven the remainder of his legend is lost so
 <note n="4">Id. i. 150.</note>
 
 
+
 </div>
 </div>
 </div>
 </div>
-</div>
-<div type="textpart" n="KaiKaus"><head>Kai Kaus</head>
+<div type="textpart" n="Kaikaus"><head>Kai Kaus</head>
 <pb n="27"/>
 
-    <div type="textpart" n="part1"><head>Part I: the war with Mazandaran.</head>
+    <div type="textpart" subtype="part" n="1"><head>Part I: the war with Mazandaran.</head>
 
 <div type="textpart" n="argument"><head>Argument</head>
 
@@ -768,7 +768,7 @@ Angra Mainyu,@1... these are the words that smite down the daévas of Mazana.”
 
  
 
-<note n="1">i.e. Abriman.</note>
+<note n="1">i.e. Ahriman.</note>
 <note n="2">DZA, i. 141.</note>
 
 <note n="3">WPT, iv. 216.</note>
@@ -782,7 +782,7 @@ Angra Mainyu,@1... these are the words that smite down the daévas of Mazana.”
 
 <pb n="29"/>
 
-and made seven stages of it, in the course of each of which he inet with an adventure. This expedition of his is accordingly known as the “Haft Khan,” the former word meaning seven and the latter the tray on which food is served up. His expedition therefore may be regarded as being a meal with seven courses. It has also been suggested that in the account of the seven buildings of Kai Kaus, described in Part II. § 8 of this reign, we have the origin of the Haft Khan of Rustam, and also of the similar expedition, which occurs much later in the poem, of Asfandiyar against Arjasp.@1</p>
+and made seven stages of it, in the course of each of which he met with an adventure. This expedition of his is accordingly known as the “Haft Khan,” the former word meaning seven and the latter the tray on which food is served up. His expedition therefore may be regarded as being a meal with seven courses. It has also been suggested that in the account of the seven buildings of Kai Kaus, described in Part II. § 8 of this reign, we have the origin of the Haft Khan of Rustam, and also of the similar expedition, which occurs much later in the poem, of Asfandiyar against Arjasp.@1</p>
 
 <p>We may add that in the Pahlavi the word used for these buildings is “min.” ‘‘Miin” comes from the same root as our word “mansion.” In the Pahlavi form of the legend Rustam’s expedition may have been known as the Haft Man. In the translations from the Pahlavi legend, if such existed, this would naturally become “Haft Khan,” the seven stopping-places or rest-houses, and this might easily be corrupted into the “ Haft Khan,” the seven meals partaken of therein. Our text, however, has “ Haft Khwan,” which we translate “The Seven Courses,” keeping the collocation of “The Seven Stages” for the corresponding expedition of Asfandiyar.</p>
 
@@ -791,8 +791,8 @@ and made seven stages of it, in the course of each of which he inet with an adve
 <p>At the present day “Div” is a title of honour among the nobles of that region.@4</p>
 </div>
 
-<div type="textpart" n="text">
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <head>The Prelude</head>
 <p>
 
@@ -856,7 +856,7 @@ Of prudent mind once told thy thoughts engage. @1
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 <head>How Kaus sat upon the Throne and was tempted to invade Mazandaran</head>
 <p>
 
@@ -984,7 +984,7 @@ He sang a ditty of Mazandaran :—
 <l>What can he know of pleasure ?"</l>
 </lg>
 
-<pb n="33"/>°
+<pb n="33"/>
 The words roused Kai Kaus, he was resolved
 To lead a host against Mazandaran,
 And thus harangued his warriors : “ We have been
@@ -1089,9 +1089,9 @@ And Rustam now will be among the troops.”
 </p><p>
 He mused all night, and when the sun displayed
 Its crown on high begirt himself and journeyed,
-Escorted by the chiets, toward the Shah.
+Escorted by the chiefs, toward the Shah.
 Intelligence reached Tus, Gudarz, and Giv,
-Bahrim, Gurgin, and others: “ Za] approacheth ;
+Bahram, Gurgin, and others: “ Zal approacheth ;
 Een now his royal standard is in sight.”
 
 The army-leaders, helmed as paladins,
@@ -1125,7 +1125,7 @@ The crown and throne and presence of their lord.
 </p>
 </div>
 
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>How Zal gave Counsel to Kaus</head>
 <p>
 
@@ -1243,7 +1243,7 @@ The warriors, made ready to depart.
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Kaus went to Mazandaran</head>
 <p>
 
@@ -1273,7 +1273,7 @@ The presence of the Shah, who ordered Giv :—
 <pb n="39"/>
 
 Mace-wielders-——to prepare for us a path
-Mazandarin-ward, slaughter young and old,
+Mazandaran-ward, slaughter young and old,
 Fire all the settlements, turn day to night,
 And slay the warlocks ere they are aware.”
 </p><p>
@@ -1337,7 +1337,7 @@ And all its light is lost.”
 </p>
 <milestone unit="vullers" n="V.329"/><p>
 The White Div spread
-Above their heads a tent of pitehy smoke,
+Above their heads a tent of pitchy smoke,
 Air dusked and eyes were darkened. From the sky
 He showered stones and darts, the Iranian troops
 Dispersed abroad, and many sought Iran,
@@ -1354,7 +1354,7 @@ Alas that I accepted not the counsel
 Of Zal the worldlord but misdoubted it.”
 </p><p>
 When he had passed seven days in misery
-And looked on no [rénian, on the eighth
+And looked on no Iranian, on the eighth
 The White Div thundered at him: “O thou Shah,
 As fruitless as a willow! thou wouldst have
 Complete supremacy and seize our pastures.
@@ -1366,7 +1366,7 @@ Thy strength to thee, thou wouldst not yield to any!
 
 Content not with the crown above thy throne
 Thou hast perverted wisdom and hast wrought
-Tl in Mazandaran, and slaughtered many
+Ill in Mazandaran, and slaughtered many
 
 <milestone unit="vullers" n="V.330"/>
 With massive mace. The news of mine achievements  
@@ -1410,7 +1410,7 @@ Remained within Mazandaran to moan :—
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>The Message of Kai Kaus to Zal and Rustam</head>
 <p>
 
@@ -1504,7 +1504,7 @@ The talismans that guard those sorcerers.
 
 <pb n="44"/>
 
-All that survive among the [rdnians there
+All that survive among the Iranians there
 Will I bring back and gird their loins again;
 I will not spare the White Div nor Arzhang,
 Nor Sanja nor Pulad son of Ghundi,
@@ -1538,14 +1538,11 @@ To reckon that the world hath gained thereby.
 </p>
 </div>
 
-<div type="textpart" n="section6">
+<div type="textpart" subtype="chapter" n="6">
 <head>The seven courses of Rustam</head>
 <head>The First Course: How Rakhsh fought with a Lion</head>
-<p>
 
-
-
-<milestone unit="vullers" n="V.335"/>
+<milestone unit="vullers" n="V.335"/><p>
 Then Rustam, that world-brightening paladin,
 Departed from his sire and, treating night
 Like day, made two days’ journey into one,
@@ -1601,7 +1598,7 @@ To God, the Author of all good, for aid.
 </p>
 </div>
 
-<div type="textpart" n="section7">
+<div type="textpart" subtype="chapter" n="7">
 <head>The second course: How Rustam found a Spring</head>
 <p>
 
@@ -1688,7 +1685,7 @@ While Rakhsh till midnight grazed and strayed around.
 </p>
 </div>
 
-<div type="textpart" n="section8">
+<div type="textpart" subtype="chapter" n="8">
 <head>The third course: how Rustam fought with a Dragon</head>
 <p>
 
@@ -1827,7 +1824,7 @@ When I am wroth all foes are one to me.”
 </p>
 </div>
 
-<div type="textpart" n="section9">
+<div type="textpart" subtype="chapter" n="9">
 <head>The fourth course: how Rustam slew a Witch</head>
 <p>
 
@@ -1930,7 +1927,7 @@ And made the hearts of sorcerers afraid.
 </p>
 </div>
 
-<div type="textpart" n="section10">
+<div type="textpart" subtype="chapter" n="10">
 <head>The fifth course: How Rustam took Ulad captive</head>
 <p>
 
@@ -2158,7 +2155,7 @@ Departed confident and full of ruse.
 </p>
 </div>
 
-<div type="textpart" n="section11">
+<div type="textpart" subtype="chapter" n="11">
 <head>The sixth course: Rustam fought with the Div Arzhang</head>
 <p>
 
@@ -2254,7 +2251,7 @@ And this our royal Tree shall fruit once more.”
 </p>
 </div>
 
-<div type="textpart" n="section12">
+<div type="textpart" subtype="chapter" n="12">
 <head>The seventh course: how Rustam slew the White Div</head>
 <p>
 
@@ -2431,7 +2428,7 @@ To give his darkened mind enlightenment.
 </p>
 </div>
 
-<div type="textpart" n="section13">
+<div type="textpart" subtype="chapter" n="13">
 <head>How Kaus wrote to the King of Mazandaran</head>
 <p>
 
@@ -2616,7 +2613,7 @@ The vultures to enjoy thy brains, O king !”
 </p>
 </div>
 
-<div type="textpart" n="section14">
+<div type="textpart" subtype="chapter" n="14">
 <head>How Rustam went on an Embassy to the King of Mazandaran</head>
 <p>
 
@@ -2631,7 +2628,7 @@ Hath sent another letter and an envoy—
 One like a savage lion—with a lasso
 Of sixty coils within the straps. Beneath him
 There is a speedy charger; one would say :—
-‘Tt bulketh like a mighty elephant.’”
+‘It bulketh like a mighty elephant.’”
 
 </p><p>
 
@@ -2834,7 +2831,7 @@ Of dust, and I will make this mace their bane.”
 </p>
 </div>
 
-<div type="textpart" n="section15">
+<div type="textpart" subtype="chapter" n="15">
 <head>How Kaus fought with the King of Mazandaran</head>
 <p>
 
@@ -2987,7 +2984,7 @@ While maces rained upon the casques and helms
 
 As autumn-blasts shower leaves from willow-trees.
 Thus for a week those glory-seeking hosts
-Encountered, on the eighth day Shih Kaus
+Encountered, on the eighth day Shah Kaus
 Took from his head the royal casque and stood
 Before the Judge and Guide of this world, weeping,
 Then falling prostrate he exclaimed: “O Judge
@@ -3162,7 +3159,7 @@ Set his own face to go to Pars again.
 </p>
 </div>
 
-<div type="textpart" n="section16">
+<div type="textpart" subtype="chapter" n="16">
 <head>How Kaus returned to the Land of Iran and farewelled Rustam</head>
 <p>
 
@@ -3293,11 +3290,11 @@ Now hear the contest with Hamavaran.
 
 <note n="1">See vol. i. p. 100.</note>
 </p>
-</div>
+
 </div>
 </div>
 <pb n="79"/>
-<div type="textpart" n="part2"><head>Part II: The doings of Kai Kaus in the land of Barbaristan and other tales</head>
+<div type="textpart" subtype="part" n="2"><head>Part II: The doings of Kai Kaus in the land of Barbaristan and other tales</head>
 
 <div type="textpart" n="argument"><head>Argument</head>
 
@@ -3312,7 +3309,7 @@ Now hear the contest with Hamavaran.
 
 <note n="1">DEI, ii. 221-224.</note>
 
-<pb n="80"/> 
+<pb n="80"/>
 
 that Kai Kaus marched from Nimruz to the sea-coast of Makran (Baluchistan), there built his fleet, sailed past the southern shores of Arabia, and reached some spot north of Berbera on the western shore of the Red Sea. He would then, as Firdausi says, have Misr (Egypt) on his left hand, Barbar on his right, and the sea between him and his objective Hamavaran (Yaman), which confronted him across it, The matter has become confused from the fact that Firdausi had just stated that the people of Misr and Sham (Syria) had rebelled against Kai Kaus, and therefore Hamavaran has been assumed to mean Syria. We may add that the two historians Tabari and Mas’tidi both mention Kai Kaus’ expedition to Yaman, and so far, though their accounts differ considerably from Firdausi’s, support Professor Darmesteter’s elucidation of this episode.@1</p>
 
@@ -3332,7 +3329,7 @@ that Kai Kaus marched from Nimruz to the sea-coast of Makran (Baluchistan), ther
 
 the Syrians. Winter came on, and Antiochus Sidetes, resolved to maintain his advantage, distributed his forces throughout the cities and towns of Babylonia with the intention of renewing operations in the spring. The Syrian troops with their motley entourage of camp-followers, cooks, actors, etc., soon made themselves intolerable to the natives among and upon whom they were quartered. An understanding was entered into with Phraates II, who promised to be at hand with his army, and at a given signal the Syrian invaders, who were thoroughly enjoying themselves after their campaign and had been kept wholly ignorant of the impending danger, were attacked throughout Babylonia, and either massacred or taken captive. Antiochus Sidetes himself perished, his son Seleucus was taken prisoner and his niece as well, whom Phraates II. married.@1</p>
 
-<p>§§ 4 and 7. In the account of the invasion of Iran by the Arabs during the captivity of Kai Kaus in Hamavaran, and their defeat by Afrasiyab, we seem to have a reference to the invasions and conflicts that were actually going on during the period when the Zandavasta was being compiled or reconstructed, i.e. during the third century after the Christian era.@2 In the Zandavasta we read : “We sacrifice unto the awful kingly Glory, made by Mazda . . . It was that Glory that Thraétaona bore with him when Azi Dahaka was killed ; that Glory that Frangrasyan, the Turanian, bore when the wicked Zainigau was killed.” @3</p>
+<p>§§ 4 and 7. In the account of the invasion of Iran by the Arabs during the captivity of Kai Kaus in Hamavaran, and their defeat by Afrasiyab, we seem to have a reference to the invasions and conflicts that were actually going on during the period when the Zandavasta was being compiled or reconstructed, i.e. during the third century after the Christian era.@2 In the Zandavasta we read : “We sacrifice unto the awful kingly Glory, made by Mazda . . . It was that Glory that Thraetaona bore with him when Azi Dahaka was killed ; that Glory that Frangrasyan, the Turanian, bore when the wicked Zainigau was killed.” @3</p>
 
 <p>In the greater Bundahish we read: “ There was a fiend called Zinigav who had poison in his eye: he had come from the country of the Arabs to reign on Iran-Shahr: any man he gazed at with his evil eye, he killed. The Iranians called Frasyav into their country, he killed that Zinigav.”@4 In the Bundahish Zinigav is said to have been the grandfather of Zahhak,@5 the great protagonist of the Arab race in the Shahnama.® The Iranians, when they had to choose between the Turanians and the Arabs, preferred the former. Even the arch-enemy Afrasiyab is allowed to have possessed for a while the divine Grace of kingship@7 when he opposed the common foe, the Arabs.@8</p>
 
@@ -3344,9 +3341,9 @@ the Syrians. Winter came on, and Antiochus Sidetes, resolved to maintain his adv
 
 <note n="2">See vol. i. p. 61 seg.</note>
 
-<note n="3">DZA, ii. 307, as amended ini. 1., note.</note>
+<note n="3">DZA, ii. 307, as amended in i. 1., note.</note>
 
-<note n="4">DZA, ii. 307, as amended ini. 1., note.</note>
+<note n="4">DZA, ii. 307, as amended in i. 1., note.</note>
 
 <note n="5">WPT, i. 131.</note>
 
@@ -3360,7 +3357,7 @@ the Syrians. Winter came on, and Antiochus Sidetes, resolved to maintain his adv
 
 <pb n="82"/>
 
-discontented with his earthly sovereignty and inducing him to aspire to that of the sky of the archangels. He yielded to the tempter. Consequently the divine Glory left him, and he was only saved from destruction by the fravashi, or immortal principle, of the as yet unborn Kai Khusrau. Nérydsang, the messenger of Urmuzd, was about to smite Kaus when the fravashi cried out : “Thou shouldst not smite him, O Nérydésang . .. for if thou shouldst smite this man... there will not be afterwards ...a thorough destroyer of the high priest of Turan; because owing to this man will be born him whose name is Siyawush, and owing to Siyawush I shall be born, who am the Khusrau . . . so that I may accomplish the destruction of his champions and troops, when I would occasion a distant flight of the sovereign of Turan.” Accordingly Kaus was released and became discreet.@1</p>
+discontented with his earthly sovereignty and inducing him to aspire to that of the sky of the archangels. He yielded to the tempter. Consequently the divine Glory left him, and he was only saved from destruction by the Fravashi, or immortal principle, of the as yet unborn Kai Khusrau. Neryosang, the messenger of Urmuzd, was about to smite Kaus when the Fravashi cried out : “Thou shouldst not smite him, O Neryosang . .. for if thou shouldst smite this man... there will not be afterwards ...a thorough destroyer of the high priest of Turan; because owing to this man will be born him whose name is Siyavaksh, and owing to Siyavaksh I shall be born, who am the Khusrau . . . so that I may accomplish the destruction of his champions and troops, when I would occasion a distant flight of the sovereign of Turan.” Accordingly Kaus was released and became discreet.@1</p>
 
 <p>Underground dwellings, such as Kai Kaus is said to have excavated for stabling purposes in connexion with his buildings, are very numerous in northern Iran.@2</p>
 
@@ -3369,11 +3366,11 @@ discontented with his earthly sovereignty and inducing him to aspire to that of 
 <p>§§ 11-14. In the story of the Fight of the Seven Warriors with which this part concludes we have an account of a border-foray of the Chevy Chase order. More than seven Iranian warriors, however, are mentioned.</p>
 </div>
 
-<div type="textpart" n="text">
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <head>How Kai Kaus warred with the King of Hamavaran</head>
-<p>
-<milestone unit="vullers" n="V.379"/>
+
+<milestone unit="vullers" n="V.379"/><p>
 
 
 
@@ -3546,7 +3543,7 @@ Gave to each man a largess great or small.
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 <head>How Kaus asked to Wife Sudaba, the Daughter of the King of Hamavaran</head>
 <p>
 
@@ -3681,7 +3678,7 @@ He sanctioned his desires with legal rites.
 </p>
 </div>
 
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>How the King of Hamavaran made Kaus Prisoner</head>
 <p>
 
@@ -3697,8 +3694,8 @@ The people of Hamavaran will be
 
 Much honoured too when they behold his face.”
 
-</p><p>
-<milestone unit="vullers" n="V.388"/>
+</p>
+<milestone unit="vullers" n="V.388"/><p>
 In this wise sought he to entrap Kaus, 
 And being bad of heart and shrewd of wit,
 Thought to retain his kingdom and his child,
@@ -3884,7 +3881,7 @@ Engaged in tending him and comforting.
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Afrasiyab invaded the Land of Iran</head>
 <p>
 
@@ -3928,7 +3925,7 @@ Death is the hunter and this world his prey.
 The people said: “ Our fortunes are o’erturned,
 We are confronted with a grievous case.
 Woe for Iran, for it is desolate,
-The lair of pards and lions! *Twas erewhile
+The lair of pards and lions! 'Twas erewhile
 All warrior-horsemen and the seat of kings,
 But now a scene of hardship and of bale,
 The dwelling-place of dragons sharp of claw !
@@ -3956,7 +3953,7 @@ The army forth and like a storm-wind sped.
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>How Rustam sent a Message to the King of Hamavaran</head>
 <p>
 
@@ -4050,7 +4047,7 @@ Became all hill, troops stretched from range to range,
 <pb n="95"/>
 
 And dust obscured the moon. Then Rustam sent
-A warrior in haste to Shih Kaus
+A warrior in haste to Shah Kaus
 By stealth to say: “The monarchs of three realms
 Approach to fight—brave men who shall not know
 Their heads from feet when I encounter them ;
@@ -4069,8 +4066,8 @@ Give Rakhsh the rein, and level to his ears
 Thy lance’s point ; let not a foe remain
 In arms or hiding.”
 
-</p><p>
-<milestone unit="vullers" n="V.398"/>
+</p>
+<milestone unit="vullers" n="V.398"/><p>
 Matchless Rustam heard, 
 
 Armed, and went forth to battle, urged fleet Rakhsh
@@ -4087,7 +4084,7 @@ He came forth and arrayed his mighty men.
 </p>
 </div>
 
-<div type="textpart" n="section6">
+<div type="textpart" subtype="chapter" n="6">
 <head>How Rustam fought with Three Kings and delivered Kaus</head>
 <p>
 
@@ -4183,7 +4180,7 @@ Another troop fast bound in heavy chains,
 
 And valiant Rustam with his trenchant sword
 
-Creating Doomsday on the battletield,
+Creating Doomsday on the battlefield,
 
 He felt: “This day is one of bale,” and sent
 
@@ -4248,7 +4245,7 @@ Of cavaliers on bardéd steeds and more.
 </p>
 </div>
 
-<div type="textpart" n="section7">
+<div type="textpart" subtype="chapter" n="7">
 <head>How Kaus sent a Message to Afrasiyab</head>
 <p>
 
@@ -4378,7 +4375,7 @@ He searched the world for honey and found bane.
 </p>
 </div>
 
-<div type="textpart" n="section8">
+<div type="textpart" subtype="chapter" n="8">
 <head>How Kaus ordered the World</head>
 <p>
 
@@ -4449,7 +4446,7 @@ While drudging divs beneath his rigour wept.
 </p>
 </div>
 
-<div type="textpart" n="section9">
+<div type="textpart" subtype="chapter" n="9">
 <head>How Kaus, beguiled by Iblis, ascended the Sky</head>
 <p>
 
@@ -4561,7 +4558,7 @@ Imploring from Almighty God relief.
 </p>
 </div>
 
-<div type="textpart" n="section10">
+<div type="textpart" subtype="chapter" n="10">
 <head>How Rustam brought back Kaus</head>
 <p>
 
@@ -4675,7 +4672,7 @@ SEVEN WARRIORS
 </p>
 </div>
 
-<div type="textpart" n="section11">
+<div type="textpart" subtype="chapter" n="11">
 <head>How Rustam went with the Seven Warriors to the Hunting-ground of Afrasiyab</head>
 <p>
 
@@ -4870,7 +4867,7 @@ A Lion he, the wine-cup is his prey.”
 </p>
 </div>
 
-<div type="textpart" n="section12">
+<div type="textpart" subtype="chapter" n="12">
 <head>How Rustam fought with the Turanians</head>
 <p>
 
@@ -4983,7 +4980,7 @@ The plain, and feel a skulker from the fray!”
 </p>
 </div>
 
-<div type="textpart" n="section13">
+<div type="textpart" subtype="chapter" n="13">
 <head>How Pilsam fought with the Iranians</head>
 <p>
 
@@ -5025,11 +5022,11 @@ May victory be thine. Thou must prevail
 
 And come back conquering and glorious.”
 
-</p><p>
-<milestone unit="vullers" n="V.427"/>
+</p>
+<milestone unit="vullers" n="V.427"/><p>
 Thereat Pilsam roared like a brazen trumpet, 
 
-Charged the {rdnian centre swift as dust,
+Charged the Iranian centre swift as dust,
 
 And struck to right and left with sword and ax,
 
@@ -5206,7 +5203,7 @@ For troops to fight on, wheel, or pass between.
 </p>
 </div>
 
-<div type="textpart" n="section14">
+<div type="textpart" subtype="chapter" n="14">
 <head>How Afrasiyab fled from the Battlefield</head>
 <p>
 
@@ -5262,13 +5259,13 @@ Why should a wise man feel anxiety ?
 The legends of this matter now are told,
 Such as have reached us from the days of old.
 </p>
-</div>
+
 </div>
 </div>
 
 <pb n="118"/>
 
-<div type="textpart" n="part3"><head>Part III: Suhrab</head>
+<div type="textpart" subtype="part" n="3"><head>Part III: Suhrab</head>
 
 <div type="textpart" n="argument"><head>Argument</head>
 
@@ -5292,7 +5289,7 @@ mountain of the Bundahish. It was the scene of the death of
 
 <pb n="119"/>
 
-Nariman, Rustam’s great-grandfather, of Rustam’s second exploit,@1 and of the defeat and death at the hands of Karan of the Turanian hero Barman,@2 who, it is worth noting, has reappeared as if nothing had happened.@3 Similarly Kulbad reappears.@4</p>
+Nariman, Rustam’s great-grandfather, of Rustam’s second exploit,@1 and of the defeat and death at the hands of Karan of the Turanian hero Bahman,@2 who, it is worth noting, has reappeared as if nothing had happened.@3 Similarly Kulbad reappears.@4</p>
 
 <p>We are here introduced to a female warrior—Gurdafrid—the
 only one in the poem, with the exception of Gurdya, the strongminded and courageous sister of Bahram Chubina. Gurdya, however, does not appear on the scene till the Shahnama is near its
@@ -5306,8 +5303,8 @@ the relations between Sudaba and Gurdafrid.@5</p>
 
 </div>
 
-<div type="textpart" n="text">
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <milestone unit="vullers" n="V.433"/>
 <head>The Prelude</head>
 <p>
@@ -5376,7 +5373,7 @@ And how the combat with his sire befell.
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 <head>How Rustam went to the Chace</head>
 <p>
 
@@ -5386,7 +5383,7 @@ Told from the legends of a bygone age :—
 
 One morn in dudgeon Rustam rose to hunt,
 Girt him, filled up his quiver, mounted Rakhsh,
-And hied him to the marches of Tiran,
+And hied him to the marches of Turan,
 
 A savage Lion prowling after prey.
 
@@ -5450,7 +5447,7 @@ In evil case and much discouragement.
 </p>
 </div>
 <pb n="122"/>
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>How Rustam came to the City of Samangan</head>
 <p>
 
@@ -5520,7 +5517,7 @@ Musk and rose-water, and a place of rest.
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Tahmina, the Daughter of the King of Samangdn, came to Rustam</head>
 <p>
 
@@ -5535,7 +5532,7 @@ Walked stately toward the drunken sleeper’s couch.
 Behind the slave there was a moon-faced girl
 Sun-bright, all scent and hue, with arching eyebrows
 And locks that hung in tresses lasso-like,
-In stature like a lofty eypress-tree,
+In stature like a lofty cypress-tree,
 With cheeks carnelians of Yaman in colour
 And mouth as straitened as a lover’s heart.
 All soul was she and keen of intellect,
@@ -5645,7 +5642,7 @@ Shone bright, and decked the earth with lovesomeness,
 In taking leave he clasped her to his breast
 And showered kisses on her eyes and head,
 But fair Tahmina turned in tears from him
-To be the spouse of pain and misery,
+To be the spouse of pain and misery.
 
 </p><p>
 
@@ -5668,7 +5665,7 @@ But no one heard him speak of this event.
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>The Birth of Suhrab</head>
 <p>
 
@@ -5730,10 +5727,8 @@ Of what a stamp thou art, so high and proud,
 Then will he summon thee and rend my heart.”
 
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.443"/>
+</p>
+<milestone unit="vullers" n="V.443"/><p>
 Suhrab replied: “A thing like this will out. 
 Old chieftains, warriors in the past, recount
 His deeds. What right hadst thou to hide that I
@@ -5743,7 +5738,7 @@ Drive from his throne Kaus, will cut away
 From Tus his foothold in Iran, and leave not
 Gurgin, Gudarz, and Giv, or Gustaham
 Son of Naudar, or warrior Bahram,
-But give the treastire, throne, and crown to Rustam
+But give the treastre, throne, and crown to Rustam
 Instead of Shah Kaus; then from Iran
 March forth to take Afrasiyab’s own seat,
 And raise my spearhead higher than the sun.
@@ -5756,7 +5751,7 @@ Why should the stars set up their crowns on high?”
 </p>
 </div>
 
-<div type="textpart" n="section6">
+<div type="textpart" subtype="chapter" n="6">
 <head>How Suhrab chose his Charger</head>
 <p>
 
@@ -5846,8 +5841,8 @@ And freely gave a royal equipage.
 </p>
 </div>
 
-<div type="textpart" n="section7">
-<head>How Afrasiyab sent Barman and Human to Suhrab</head>
+<div type="textpart" subtype="chapter" n="7">
+<head>How Afrasiyab sent Bahman and Human to Suhrab</head>
 <p>
 
 Afrasiyab had news: “Suhrab hath launched
@@ -5865,10 +5860,8 @@ To fight Kaus. He feareth none. Why more?
 His prowess hath shown higher than his birth.”
 
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.446"/>
+</p>
+<milestone unit="vullers" n="V.446"/><p>
 Now when Afrasiyab had heard these words 
 
 They pleasured him, he laughed and showed his joy.
@@ -5877,13 +5870,13 @@ Then from the valiant captains of the host—
 
 Those that were wielders of the massive mace—
 
-He chose two chiefs; Htiiman was one, the other
+He chose two chiefs; Human was one, the other
 
-Barman ; no laggards they when Lions strove.
+Bahman ; no laggards they when Lions strove.
 
 He gave to them twelve thousand valiant troops,
 
-And said: “Be this your seeret policy :
+And said: “Be this your secret policy :
 
 The father must not recognise his son
 
@@ -5935,7 +5928,7 @@ I send thee troops enough, sit on the throne
 
 And don the crown. Turdn hath no such leaders
 
-And brave hearts as Human and as Barman,
+And brave hearts as Human and as Bahman,
 
 Whom I dispatch to thee as guests, to be
 
@@ -5956,7 +5949,7 @@ Then gave to him the letter of the king,
 
 The gifts, the horses, and the mules of burden,
 
-And with Birman delivered the king’s message.
+And with Bahman delivered the king’s message.
 
 Now when the atheling had read the letter
 
@@ -5975,7 +5968,7 @@ The cultivated parts, and left all bare.
 </p>
 </div>
 
-<div type="textpart" n="section8">
+<div type="textpart" subtype="chapter" n="8">
 <head>How Suhrab came to White Castle</head>
 <p>
 
@@ -5988,7 +5981,7 @@ A man of might and courage, mace and arrow—
 
 For Gazhdaham was failing though still brave
 
-And venturesome. His daughter,) who was proud,
+And venturesome. His daughter,<note>Gurdafrid</note> who was proud,
 
 Renowned, and malapert, bore arms and fought
 
@@ -6047,7 +6040,7 @@ As though the matter were not worth a thought,
 
 Astound in heart and soul. Suhrab dismounted,
 
-<note n="1">Gurdafrid.</note>
+
 
 <pb n="132"/>
 
@@ -6067,7 +6060,7 @@ On hearing what had chanced cried mournfully :-—
 </p>
 </div>
 
-<div type="textpart" n="section9">
+<div type="textpart" subtype="chapter" n="9">
 <head>How Suhrab fought with Gurdafrid</head>
 <p>
 
@@ -6130,7 +6123,7 @@ He urged his dragon-steed, and he too made
 In wrath day dark with dust. He pressed upon her
 With loud cries, jostled her, and snatched her helm.
 Her hair escaped, her face shone like the sun.
-He said: “It isa girl! Her head of hair
+He said: “It is a girl! Her head of hair
 Is worthy of a crown. If such a girl,”
 He said amazed, “come from the Iranian host
 Upon the field, good sooth their cavaliers
@@ -6160,8 +6153,8 @@ Midst warriors a lion! two hosts watch
 
 Our prowess with the mace and scimitar,
 And now that I have shown my face and hair
-The troops will say: ‘He sent the dust-clouds flyiag
-And all to fight a girl!’ *Twill be disgrace
+The troops will say: ‘He sent the dust-clouds flying
+And all to fight a girl!’ 'Twill be disgrace
 To persevere in such a fight as this.
 Chiefs should be wise, so let us keep it dark
 And save thee from reproach on mine account.
@@ -6188,8 +6181,8 @@ Trust not yon castle-wall, it is not higher
 Than heaven, and my mace will bring it down,
 While no foe’s lance will ever reach my neck.”
 
-</p><p>
-<milestone unit="vullers" n="V.453"/>
+</p>
+<milestone unit="vullers" n="V.453"/><p>
 
 She turned and rode with him toward the hold,
 And Gazhdaham himself came to the gate.
@@ -6215,7 +6208,7 @@ Beheld Suhrab still mounted, and exclaimed :—
 <pb n="135"/>
 
 “O warrior of Turan! why take such pains ?
-Be off with you and give up battletields.”
+Be off with you and give up battlefields.”
 
 </p><p>
 
@@ -6248,7 +6241,7 @@ But woe is me that such a neck and shoulder
 Should disappear within the maw of pards!
 So do not trust too much those arms of thine
 Or else the stupid ox will graze beside thee.
-"Twere best to issue orders for retreat.”
+'Twere best to issue orders for retreat.”
 
 </p><p>
 
@@ -6271,7 +6264,7 @@ And took the way to his own camp again.
 </p>
 </div>
 
-<div type="textpart" n="section10">
+<div type="textpart" subtype="chapter" n="10">
 <head>The Letter of Gazhdaham to Kaus</head>
 <p>
 
@@ -6322,7 +6315,7 @@ Suhrab unhorsed him to his great amazement.
 He is not hurt, and they have spared his life,
 But he is sorry and hath got his skinful
 
-Of anguish, Many Turkman cavaliers
+Of anguish. Many Turkman cavaliers
 
 Have I beheld, but never heard of one
 
@@ -6344,7 +6337,7 @@ And none can grapple with him hand to hand,
 
 <milestone unit="vullers" n="V.456"/>
 Or ever saw so skilled a rider. ‘He,’ 
-Thou wouldest say, ‘is Sim the cavalier.’
+Thou wouldest say, ‘is Sam the cavalier.’
 We cannot fight this eager warrior
 With such a mace, grip, and dexterity.
 Know that the fortune of our warriors noddeth,
@@ -6365,7 +6358,7 @@ Prepared to follow it without delay.
 </p>
 </div>
 
-<div type="textpart" n="section11">
+<div type="textpart" subtype="chapter" n="11">
 <head>How Suhrab took White Castle</head>
 <p>
 
@@ -6397,10 +6390,8 @@ He looked for Gurdafrid but found her not.
 His heart was fain for love and union with her.
 “Woe’s me!” he thought, “the bright Moon is beclouded !”
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.458"/>
+</p>
+<milestone unit="vullers" n="V.458"/><p>
 Kaus received the letter and was grieved.
 He called the captains of the host to counsel—
 
@@ -6423,14 +6414,14 @@ All agreed
 That Giv should go to Rustam at Zabul
 To say: “The throne of empire is in danger,”
 And summon him to take the field for war,
-Because the {rdnians looked to him for shelter.
+Because the Iranians looked to him for shelter.
 A scribe as they discussed was sitting by
 In that the case was one of urgency.
 
 </p>
 </div>
 
-<div type="textpart" n="section12">
+<div type="textpart" subtype="chapter" n="12">
 <head>How Kaus wrote to Rustam and summoned him from Zabulistan</head>
 <p>
 
@@ -6445,7 +6436,7 @@ He is a brave, heroic paladin,
 <pb n="139"/>
 
 In form an elephant, in heart a lion.
-None in [rén can fight him ; thou alone,
+None in Iran can fight him ; thou alone,
 That art so good at need, canst dim his lustre,
 Thou heart and back-bone of the Iranian chiefs,
 Who hast the claws and might of lions! Thou
@@ -6495,7 +6486,7 @@ No rest, no sleep, no water, and no food,
 
 <pb n="140"/>
 
-Until Zal heard the ery: “A cavalier
+Until Zal heard the cry: “A cavalier
 Approacheth from Iran as swift as dust.”
 
 </p><p>
@@ -6668,14 +6659,14 @@ For none will chafe at us.”
 He gave command
 
 To saddle Rakhsh and blow the brazen trumpets.
-The horsemen of Zibul came at the call
+The horsemen of Zabul came at the call
 In mail—a mighty army. He therein
 Installed Zawara as chief paladin.
 
 </p>
 </div>
 
-<div type="textpart" n="section13">
+<div type="textpart" subtype="chapter" n="13">
 <head>How Kaus was wroth with Rustam</head>
 <p>
 
@@ -6715,7 +6706,7 @@ But Rustam furious with Kaus replied :—
 Thy deeds grow worse and worse! Thou art not fit
 For sovereignty. Hang for thyself yon Turkman
 Alive, then rage and scorn thine enemies.
-Mazandarin, Sagsar, Hamavaran,
+Mazandaran, Sagsar, Hamavaran,
 Rum, Misr, and Chin are all my charger’s thralls,
 My sword and arrows have transfixed their livers.
 
@@ -6759,8 +6750,8 @@ Or might and majesty entitling thee
 
 To speak a word to Zal the son of Sam.”
 
-</p><p>
-<milestone unit="vullers" n="V.468"/>
+</p>
+<milestone unit="vullers" n="V.468"/><p>
 He told the Iranians : “ Valorous Suhrab
 
 Will come and leave not either great or small;
@@ -6787,7 +6778,7 @@ Perchance thou mayst restore our fallen fortune.”
 Then all those warrior-nobles sat in conclave—
 Giv and Gudarz and lion-like Bahram,
 
-Rubham and brave Gurgin. They said: “The Shah
+Ruhham and brave Gurgin. They said: “The Shah
 Regardeth not the feelings of the great.
 
 Since Rustam, who is chief of paladins,
@@ -6874,9 +6865,9 @@ The Iranians have done naught to drive him hence
 And hide his glorious face. The Shah moreover
 Is sorry for those words of his and gnaweth
 His hand’s back in chagrin.”
-The hero said :—
-</p><p>
 
+</p><p>
+The hero said :—
 “I need not anything of Kai Kaus,
 A saddle is my throne, a casque my crown,
 My mail my raiment and my purpose death.
@@ -6904,7 +6895,7 @@ Our fields and fells will know us now no more,
 For sithens Rustam is afraid of fighting
 <lb/>'Tis not for thee and me to tarry here.’
 I noticed that the Shah’s ill will and wrath
-Made hue and ery at court, and all men spake
+Made hue and cry at court, and all men spake
 About the brave Suhrab. Eclipse not thou
 Thy high fame in the world by this withdrawal,
 And further, since a hostile host is near,
@@ -6927,7 +6918,7 @@ Arose and thus excused what had occurred :—
 “My temper is by nature choleric,
 And trees must grow as God hath planted them.
 Through this new, unexpected foe my heart
-Was faint asa new moon. I sought a cure
+Was faint as a new moon. I sought a cure
 
 <milestone unit="vullers" n="V.472"/>
 
@@ -6970,7 +6961,7 @@ While tedious night was traversing the dome.
 </p>
 </div>
 
-<div type="textpart" n="section14">
+<div type="textpart" subtype="chapter" n="14">
 <head>How Kaus and Rustam led forth the Host</head>
 <p>
 
@@ -7041,7 +7032,7 @@ And wilderness till naught was left to fill.
 </p>
 </div>
 
-<div type="textpart" n="section15">
+<div type="textpart" subtype="chapter" n="15">
 <head>How Rustam slew Zhanda Razm</head>
 <p>
 
@@ -7079,7 +7070,7 @@ Joy mantling in his visage like a rose.
 Now when Suhrab was going to the wars
 
 <milestone unit="vullers" n="V.475"/>
-His mother summoned to hes Zhanda Razm, 
+His mother summoned to her Zhanda Razm, 
 
 <pb n="150"/>
 
@@ -7087,7 +7078,7 @@ His mother summoned to hes Zhanda Razm,
 For once he had seen Rustam at a feast.
 His father was the king of Samangan,
 His nephew glorious Suhrab. She said :—
-“O ardent warricr! be this youth’s comrade
+“O ardent warrior! be this youth’s comrade
 That when the hero cometh to Iran
 And meeteth with the monarch of the brave,
 And when the hosts encounter in the fight,
@@ -7100,7 +7091,7 @@ Thou mayest show my darling son his father.”
 Now as Suhrab appeared to Rustam’s eyes
 Enthroned amid the feast with Zhanda Razm
 On one hand, with the valiant cavalier
-Human and that illustrious Lion Barman
+Human and that illustrious Lion Bahman
 Upon the other, thou hadst said that he
 Filled all the throne and seemed a verdant cypress.
 His arms were like a camel's thighs, his breast
@@ -7136,7 +7127,7 @@ The day of fighting and of feast was over.
 
 Suhrab continued long in expectation,
 But Zhanda Razm the Lion came not back.
-At length the youth began .o ask for him
+At length the youth began to ask for him
 
 <pb n="151"/>
 
@@ -7184,7 +7175,7 @@ Is void,” he said, “I have not done with feasting.”
 
 As Rustam was returning to the Shah,
 
-Giv, who was outpost-guard, sew him approach,
+Giv, who was outpost-guard, saw him approach,
 Drew, roared out like a maddened elephant,
 And with his shield above his head showed fight ;
 But Rustam knowing who the outpost was
@@ -7226,7 +7217,7 @@ But all the night the troops were ranked in line.
 </p>
 </div>
 
-<div type="textpart" n="section16">
+<div type="textpart" subtype="chapter" n="16">
 <head>How Suhrab asked Hajir the Names of the Chiefs of Iran</head>
 <p>
 
@@ -7289,9 +7280,8 @@ Who is the man thus stationed in the centre ?”
 
 
 
-</p><p>
-
-<milestone unit="vullers" n="V.479"/>
+</p>
+<milestone unit="vullers" n="V.479"/><p>
 Hajir replied: “The Shah, and at his gate 
 Are elephants and lions.”
 
@@ -7338,7 +7328,7 @@ And bring not ruin on thyself by guile.”
 <p>
 
 He answered : “That belongeth to Gudarz—
-The glory of the Free—son of Kishwiid,
+The glory of the Free—son of Kishwad,
 A valiant general in war. He hath
 Twice forty sons, all Elephants and Lions.
 No elephant, no tiger of the plain,
@@ -7404,7 +7394,7 @@ Pitched that enclosure which is most apart,
 Where many cavaliers and elephants
 Are standing and the clarions are sounding ?
 Above it is a flag charged with a wolf;
-The golden stati-head reacheth to the clouds;
+The golden staff-head reacheth to the clouds;
 Within there is a throne with slaves before it.”
 
 
@@ -7493,7 +7483,7 @@ It is because I know it not myself.”
 
 </p><p>
 
-Subrab replied: “ Thou doest: much amiss,
+Subrab replied: “ Thou doest much amiss,
 Thou hast not mentioned Rustam, and that chief
 Of paladins would show amid the host.
 
@@ -7562,7 +7552,7 @@ Will bring his head down from the sky to dust.
 No elephant on earth is match for him,
 His steed’s dust is more black than indigo,
 His body hath a hundred strong men’s strength,
-His head is taller than a. lofty tree,
+His head is taller than a lofty tree,
 And when he rageth on the day of battle
 What is a lion, elephant, or man
 Within his grasp ?”
@@ -7604,7 +7594,7 @@ He hath such strength and such a neck and shoulder
 That Rustam will be slaughtered in his grasp.
 Not one of all our warriors will come
 To meet him face to face, and he will seize
-The throne of Shih Kaus. An archmage'said :—
+The throne of Shah Kaus. An archmage'said :—
 ‘It is a better thing with fame to go
 From life than live and gratify the foe,’
 If it be mine to perish by his hand
@@ -7613,7 +7603,7 @@ Three score and sixteen sons—all lion-men—
 Hath old Gudarz beside myself, as Giv,
 Who conquereth worlds and breaketh hosts, and is
 In every place the leader of the folk,
-Bahrém, Ruhham the exalted, and Shidtsh
+Bahram, Ruhham the exalted, and Shidush
 The lion-slaying warrior, and they all
 Will show me kindness after I am dead,
 And in revenge will slay our enemies ;
@@ -7647,7 +7637,7 @@ Will surely make the dust fly out of thee.”
 </p>
 </div>
 
-<div type="textpart" n="section17">
+<div type="textpart" subtype="chapter" n="17">
 <head>How Suhrab attacked the Army of Kaus</head>
 <p>
 
@@ -7762,7 +7752,7 @@ I ne’er see aught excepting fight and travail!”
 Then gazing from his tent he found that Giv,
 Who had but just arrived, was saddling Rakhsh,
 And that Gurgin was crying: “Quick! Make haste:”
-Rubham was fastening the girth and mace,
+Ruhham was fastening the girth and mace,
 
 And Tus had got in hand the horse’s mail.
 
@@ -7866,7 +7856,7 @@ The face of day was bright to him no more.
 </p>
 </div>
 
-<div type="textpart" n="section18">
+<div type="textpart" subtype="chapter" n="18">
 <head>How Rustam fought with Suhrab</head>
 <p>
 
@@ -7917,11 +7907,8 @@ The difference between a child and foe!
 
 
 
-</p><p>
-
-
-
-<milestone unit="vullers" n="V.490"/>
+</p>
+<milestone unit="vullers" n="V.490"/><p>
 Then Rustam thought: “I never yet beheld 
 A Crocodile fight thus. Compared with this
 To fight the White Div was an easy task:
@@ -8032,7 +8019,7 @@ To learn the Maker's will, but now away!</q>
 </p>
 </div>
 
-<div type="textpart" n="section19">
+<div type="textpart" subtype="chapter" n="19">
 <head>How Rustam and Suhrab returned to Camp</head>
 <p>
 
@@ -8057,11 +8044,8 @@ How fared my troops with him? I hold him peerless,
 Though old a Lion bent on war and strife.”
 
 
-</p><p>
-
-
-
-<milestone unit="vullers" n="V.493"/>
+</p>
+<milestone unit="vullers" n="V.493"/><p>
 Human replied: “Thou bad’st us tarry here. 
 Just as we had made ready for the field
 A warrior came and challenged us to combat,
@@ -8077,10 +8061,10 @@ Then turning round departed at full speed.”
 
 
 Suhrab said: “He hath slain no man of mark
-While I have slaughtered many [rdnians,
+While I have slaughtered many Iranians,
 And puddled with their blood the ground to clay,
 While ye looked on. However, none opposed me ;
-"Twas well none did, for had a lion come
+'Twas well none did, for had a lion come
 
 <pb n="166"/>
 
@@ -8250,7 +8234,7 @@ In talk about Suhrab and him alone.
 </p>
 </div>
 
-<div type="textpart" n="section20">
+<div type="textpart" subtype="chapter" n="20">
 <head>How Suhrab overthrew Rustam</head>
 <p>
 
@@ -8279,9 +8263,8 @@ My sire or lightly meet him in the combat.”
 
 
 
-</p><p>
-
-<milestone unit="vullers" n="V.498"/>
+</p>
+<milestone unit="vullers" n="V.498"/><p>
 Human said: “ Rustam oft hath countered me: 
 This charger is like his, except in action.”
 
@@ -8462,7 +8445,7 @@ Hast thou no interests of thine own to seek ?”
 </p>
 </div>
 
-<div type="textpart" n="section21">
+<div type="textpart" subtype="chapter" n="21">
 <head>How Suhrab was slain by Rustam</head>
 <p>
 
@@ -8532,9 +8515,8 @@ For I am Rustam! Be my name forgotten,
 And may the son of Sam sit mourning me!”
 
 
-</p><p>
-
-<milestone unit="vullers" n="V.504"/>
+</p>
+<milestone unit="vullers" n="V.504"/><p>
 He raved, his blood seethed, and with groans he plucked 
 
 <pb n="174"/>
@@ -8590,9 +8572,8 @@ Went to Kaus in consternation saying :—
 “The throne of majesty is void of Rustam !”
 
 
-</p><p>
-
-<milestone unit="vullers" n="V.505"/>
+</p>
+<milestone unit="vullers" n="V.505"/><p>
 A cry went up throughout the host and all
 Was in confusion. Then Kaus bade sound
 The drums and trumpets, Tus came, and the Shah
@@ -8759,7 +8740,7 @@ We scatter when he joineth company.”
 </p>
 </div>
 
-<div type="textpart" n="section22">
+<div type="textpart" subtype="chapter" n="22">
 <head>How Rustam asked Kaus for an Elixir</head>
 <p>
 
@@ -8836,7 +8817,7 @@ To bring the light to his benighted heart.”
 </p>
 </div>
 
-<div type="textpart" n="section23">
+<div type="textpart" subtype="chapter" n="23">
 <head>How Rustam lamented for Suhrab</head>
 <p>
 
@@ -8979,7 +8960,7 @@ God willing and the Shah, conduct them hence.”
 
 Kaus replied: “ Aspiring chief! thy face
 Is saddened through this fight, and though our foes
-Have harmed ine much and sent smoke from Iran,
+Have harmed me much and sent smoke from Iran,
 Yet through thy sorrow is my heart so sore
 That I will think upon revenge no more.”
 
@@ -8988,7 +8969,7 @@ That I will think upon revenge no more.”
 </p>
 </div>
 
-<div type="textpart" n="section24">
+<div type="textpart" subtype="chapter" n="24">
 <head>How Rustam returned to Zabulistan</head>
 <p>
 
@@ -9149,7 +9130,7 @@ And speculation touching that event.
 </p>
 </div>
 
-<div type="textpart" n="section25">
+<div type="textpart" subtype="chapter" n="25">
 <head>How Suhrab’s Mother received the Tidings of his Death</head>
 <p>
 
@@ -9351,7 +9332,7 @@ Now from this history my face I turn:
 The tale of Siyawush is my concern.
 </p>
 </div>
-</div>
+
 </div>
 <pb n="188"/>
 
@@ -9398,7 +9379,7 @@ strangers ignorant of their blood-relationship, as enemies, as villain and victi
 <pb n="190"/>
 
 
-history of that country. His account is nearly all lost, but in another work of his he tells us that the Kharazmians dated the colonisation of their country from the year 980 before Alexander, a.e. from the fourteenth century b.c., and that ninety-two years later the incursion of Siyawush took place. From this time onward they were governed by monarchs of his race down to the days of king
+history of that country. His account is nearly all lost, but in another work of his he tells us that the Kharazmians dated the colonisation of their country from the year 980 before Alexander, i.e. from the fourteenth century b.c., and that ninety-two years later the incursion of Siyawush took place. From this time onward they were governed by monarchs of his race down to the days of king
 Afrigh—a man of evil reputation—who built himself a fortress on the outskirts of the city of Kharazm, or made additions to an existing fortress, called Alfir, in the year 616 of the era of Alexander, 2.¢. toward the end of the third century a.p. This Alfir, Albiruni tells us, was built of clay and tiles, and consisted of three forts, one inside another, and all of equal height. Rising above the whole were the royal palaces. Alfir could be seen at a distance of ten miles or more. It was broken and shattered by the Oxus, and was swept away piece by piece every year, till the last remains of it had disappeared by the year 1305 of the era of Alexander, 2.¢. toward the end of the tenth century a.d.@1 It is evident from this account that Alfir was in process of construction or enlargement in the very century in which the Zandavasta was being compiled.
 The Kharazmians had racial affinities with the Iranians, and the epithet “holy” applied to Kangha in the Zandavasta evidently points to the fact that they were Zoroastrians as well. It may be therefore that the Khshathré-saoka of the Zandavasta, the Kangdez of the Pahlavi texts, the Alfir of Albiruni, and the Gang-dizh of the Shahnama all represent one and the same place—the palacefortress of the ancient capital of Kharazm. Kharazm is, of course, the modern Khiva, and Gang-dizh means the fortress (dizh) of the land of Kangha.</p>
 
@@ -9422,8 +9403,8 @@ Median, and are thus brought into line with Afrasiyab, Farangis, and Piran, thei
 </div>
 
 
-<div type="textpart" n="text">
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <milestone unit="vullers" n="V.523"/>
 <head>The Prelude</head>
 <p>
@@ -9482,7 +9463,7 @@ The matter that the poet hath to tell.
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 <head>The Story of the Mother of Siyawush</head>
 <p>
 
@@ -9652,7 +9633,7 @@ A ruby yet untouched by man was she.
 </p>
 </div>
 
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>The Birth of Siyawush</head>
 <p>
 
@@ -9753,7 +9734,7 @@ Of march steeds’ manes dripped saffron, musk, and wine.
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Siyawush arrived from Zabulistan</head>
 <p>
 
@@ -9845,12 +9826,12 @@ And majesty, the Shah bestowed on him
 
 All Kuhistan, so called of yore, the same
 
-As Ma wara 'u'n-Nahr its modern name.
+As Ma-wara-'u'n-Nahr its modern name.
 
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>The Death of the Mother of Siyawush</head>
 <p>
 
@@ -9907,7 +9888,7 @@ He made the prince’s heart itself again.
 </p>
 </div>
 
-<div type="textpart" n="section6">
+<div type="textpart" subtype="chapter" n="6">
 <head>How Sudaba fell in Love with Siyawush</head>
 <p>
 
@@ -9926,12 +9907,12 @@ The envoy went,
 
 But noble Siyawush was wroth and said :—
 “ Entice me not. I am no chamberer,
-Or given to romances and intrigues.” ”
+Or given to romances and intrigues.” 
 
 Another day at dawn Sudaba sought
 The Shah and said: “O ruler of the host!
 The sun and moon have never seen thy peer,
-Or any like thy son, Let all the world
+Or any like thy son. Let all the world
 Rejoice in him; so send him to thy bower
 To see his sisters and thy favourites.
 Tell him: ‘Go visit oft thy sisters there,
@@ -9994,9 +9975,8 @@ But in the women’s quarters of the Shah
 What shall I learn? Shall women point the way
 To knowledge? Yet if so the Shah commandeth
 My custom henceforth is to visit them.”
-</p><p>
-
-<milestone unit="vullers" n="V.534"/>
+</p>
+<milestone unit="vullers" n="V.534"/><p>
 The Shah replied: “Be happy, O my son! 
 
 <pb n="202"/>
@@ -10022,7 +10002,7 @@ Thou art the world-lord; I am but a slave.”
 </p>
 </div>
 
-<div type="textpart" n="section7">
+<div type="textpart" subtype="chapter" n="7">
 <head>How Siyawush visited Sudaba</head>
 <p>
 
@@ -10058,7 +10038,7 @@ The mind of Siyawush foreboded ill.
 The women came before him one and all
 In festival attire to gaze at him ;
 The house was full of musk, dinars, and saffron,
-And at his feet they strewed' drachms, gold, and gems:
+And at his feet they strewed drachms, gold, and gems:
 The floor was covered with brocade of Chin
 Enriched with lustrous pearls. Wine, scent, and voice
 Of minstrelsy were there, all heads were crowned
@@ -10075,7 +10055,7 @@ Surmounted by a lofty crown her hair
 Descended to her feet in musky lassos,
 A slave stood humbly by with golden slippers.
 When Siyawush appeared within the veil
-Suidaba hastened to descend the throne,
+Sudaba hastened to descend the throne,
 Advanced with graceful gait, saluted him,
 Embraced him long, long kissed his eyes and face,
 And wearied not to look at him. She said :—
@@ -10103,7 +10083,7 @@ The bower was full of talk: the women said :-—
 His soul diffuseth wisdom.’ ”
 </p><p>
 
-Siyéwush
+Siyawush
 Came to his father’s presence and spake thus :—
 “I have beheld the veil and what it hid.
 All good things in the world are thine, no need
@@ -10155,9 +10135,8 @@ Or Kai Pashin, she would give thanks with joy.”
 <note n="1">Open praise, especially of the young, was regarded as unlucky.</note>
 
 <pb n="205"/>
-</p><p>
-
-<milestone unit="vullers" n="V.537"/>
+</p>
+<milestone unit="vullers" n="V.537"/><p>
 He said to her: “It is my wish, My name 
 And greatness are dependent on the issue.”
 </p><p>
@@ -10225,7 +10204,7 @@ And his skin burst: “This is her notion too!”
 </p>
 </div>
 
-<div type="textpart" n="section8">
+<div type="textpart" subtype="chapter" n="8">
 <head>How Siyawush visited the Bower the second Time</head>
 <p>
 
@@ -10276,10 +10255,8 @@ Would not presume to gaze upon this prince.”
 
 
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.539"/>
+</p>
+<milestone unit="vullers" n="V.539"/><p>
 When each, in speculation on her chance, 
 Had gone back to her seat, Sudaba said :-—
 “Why dost thou keep thy purpose to thyself ?
@@ -10397,7 +10374,7 @@ I will not think of any one besides.
 For what thou askest further—since my face
 Inspireth in thy soul a love for me—
 God’s Grace hath made me thus, O thou most fair!
-Conceal thy seeret; speak of it to none:
+Conceal thy secret; speak of it to none:
 For me too silence is the only course.
 Thou art the chief of ladies and a queen,
 And I will think of thee as mother only.”
@@ -10456,7 +10433,7 @@ A charge accusing him before the king.”
 </p>
 </div>
 
-<div type="textpart" n="section9">
+<div type="textpart" subtype="chapter" n="9">
 <head>How Siyawush visited the Bower the third Time</head>
 <p>
 
@@ -10511,7 +10488,7 @@ To ruin me and show the wise my shame.”
 </p>
 </div>
 
-<div type="textpart" n="section10">
+<div type="textpart" subtype="chapter" n="10">
 <head>How Sudaba beguiled Kaus</head>
 <p>
 
@@ -10529,13 +10506,13 @@ And all the palace full of babblement,
 He questioned every one in deep concern,
 Not knowing what that Heart of stone had done.
 Suddba wailed and wept before him, tore
-Her hair, and told him: “Siyadwush approached
+Her hair, and told him: “Siyawush approached
 My throne. He caught me in his arms and cried :—
 ‘My soul and body brim with love for thee.
 Oh! why art thou so cold to me, my fair!
 For thou art all I long for, thou alone ?’
 This is the truth—I am constrained to tell thee :-—
-"Twas he that threw the crown from my black locks,
+'Twas he that threw the crown from my black locks,
 And rent the robe upon my bosom thus!”
 
 
@@ -10653,7 +10630,7 @@ The matter must be kept from every one.”
 </p>
 </div>
 
-<div type="textpart" n="section11">
+<div type="textpart" subtype="chapter" n="11">
 <head>How Sudaba and a Sorceress devised a Scheme</head>
 <p>
 
@@ -10717,7 +10694,7 @@ What should a sorceress and a div produce ?
 
 Then, saying nothing to her servitors,@1
 
-Stdaba had a golden salver brought
+Sudaba had a golden salver brought
 
 Whereon she laid those brats of Ahriman,
 
@@ -10744,7 +10721,7 @@ Who listened trembling, asked, and heard how fortune
 Had dealt with his fair spouse. Sleepless and anxious
 He rose at dawn, went in and saw Sudaba
 
-Prostrate, the women Irantic, and two babes
+Prostrate, the women frantic, and two babes
 
 In evil plight, flung on a golden salver!
 
@@ -10769,7 +10746,7 @@ I must not treat the case with levity.”
 </p>
 </div>
 
-<div type="textpart" n="section12">
+<div type="textpart" subtype="chapter" n="12">
 <head>How Kaus inquired into the Matter of the Babes</head>
 <p>
 
@@ -10950,7 +10927,7 @@ I would pass o’er a mountain all aflame,
 </p>
 </div>
 
-<div type="textpart" n="section13">
+<div type="textpart" subtype="chapter" n="13">
 <head>How Siyawush passed through the Fire</head>
 <p>
 
@@ -10960,7 +10937,7 @@ He said: “If either prove a profligate
 Will any henceforth call me Shah? Moreover
 My son and wife are blood and brain to me;
 Whom then will this perplexing business profit ?
-Still it is best-to purify my heart
+Still it is best to purify my heart
 
 From foul surmise and take this dreadful course.
 How well the moralizing monarch said :—
@@ -11000,7 +10977,7 @@ That worketh ill will bring disgrace on thee.
 </p><p>
 
 They piled two mounts of firewood on the plain
-While all the folk looked on., A path was left
+While all the folk looked on. A path was left
 Such that a horseman armed might hardly pass
 Between the piles. This done, the glorious Shah
 Bade pour black naphtha over all the wood.
@@ -11026,9 +11003,9 @@ The prince then sprinkled camphor o’er himself,
 So bodies are prepared for burial,@2
 
 <note n="1">Faridun. See vol. i. p. 188.</note>
-<note n="2">“Alp-Arselan determined not to survive defeat. He made a display of pious resignation to his fate, . . . by clothing himself in a white robe, or shroud, perfumed with musk.”—MHP, i. 211.</note>
+<note n="2">“<persName>Alp-Arselan</persName> determined not to survive defeat. He made a display of pious resignation to his fate, . . . by clothing himself in a white robe, or shroud, perfumed with musk.”—MHP, i. 211.</note>
 
-<pb n="220"/>t
+<pb n="220"/>
 
 And lighting from his charger did obeisance.
 The Shah was shame-faced and his words were kind.
@@ -11102,10 +11079,8 @@ Before him ; there was universal joy
 
 Among the mighty and the mean alike
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.553"/>
+</p>
+<milestone unit="vullers" n="V.553"/><p>
 As each to other gave the gladsome tidings :— 
 
 “God hath shown mercy to the innocent.”
@@ -11155,7 +11130,7 @@ No lock or key was at the treasury-door.
 </p>
 </div>
 
-<div type="textpart" n="section14">
+<div type="textpart" subtype="chapter" n="14">
 <head>How Siyawush begged Sudaba’s Life of his Father</head>
 <p>
 
@@ -11182,11 +11157,10 @@ Thou art not fit to live. The punishment
 For such a crime as this is to be hanged.”
 
 
-</p><p>
-
-<milestone unit="vullers" n="V.554"/>
+</p>
+<milestone unit="vullers" n="V.554"/><p>
 She said: “O Shah! forbear to heap up fire
-Upon my head. IfI perforce must lose it
+Upon my head. If I perforce must lose it
 In vengeance for the wrong which I have . . . suffered,
 Command ... I am resigned. Yet put revenge
 Away. Let Siyawush declare the truth;
@@ -11239,10 +11213,8 @@ The Shah, who had been seeking some excuse
 For mercy, answered him: “I grant thee this
 Because I see that right was on thy side.”
 
-</p><p>
-
-
-<milestone unit="vullers" n="V.555"/>
+</p>
+<milestone unit="vullers" n="V.555"/><p>
 When Siyawush had kissed his father’s throne 
 He rose upon his feet, went to the door,
 
@@ -11300,7 +11272,7 @@ Look for her head if thou wouldst find her feet.”
 </p>
 </div>
 
-<div type="textpart" n="section15">
+<div type="textpart" subtype="chapter" n="15">
 <head>How Kaus heard of the Coming of Afrasiyab</head>
 <p>
 
@@ -11360,9 +11332,8 @@ Perchance All-righteous God will set me free
 Both from Sudaba and my sire’s distrust:
 To snare so great a host will bring me fame.”
 
-</p><p>
-
-<milestone unit="vullers" n="V.557"/>
+</p>
+<milestone unit="vullers" n="V.557"/><p>
 He girt himself, went to Kaus, and said :— 
 “I am of rank to fight Afrasiyab,
 And will bring down his horsemen’s heads to dust.”
@@ -11430,7 +11401,7 @@ Pure soul and wisdom ne’er part company.”
 </p>
 </div>
 
-<div type="textpart" n="section16">
+<div type="textpart" subtype="chapter" n="16">
 <head>How Siyawush led forth the Host</head>
 <p>
 
@@ -11443,7 +11414,6 @@ He sent the keys of all his magazines
 Of arms, of armour, and of stuffs uncut
 To Siyawush, and said: “My house and goods
 Are thine, equip thee as thou thinkest: best.”
-”
 Then from his famous cavaliers Kaus
 
 Chose him twelve thousand gallant warriors,
@@ -11463,7 +11433,7 @@ And five archmages of the Iranians
 
 To bear the flag of Kawa to the field,
 These he commanded to go forth together
-Beyond the borders to the desert+plain :
+Beyond the borders to the desert-plain :
 Thou wouldst have said: “There is no room still left
 On earth for horses’ hoofs to stand upon.”
 The flag of Kawa lifted to the sky
@@ -11531,9 +11501,9 @@ Een by a bitter word.@1
 </p><p>
 
 On the other side
-Barman and Garsiwaz led on their power
+Bahman and Garsiwaz led on their power
 As 'twere a tempest. Sipahram commanded
-The rear, Barman the van. To them there came
+The rear, Bahman the van. To them there came
 News of the youthful chief: “ A mighty host—
 Famed warriors all—hath issued from Iran.”
 <milestone unit="vullers" n="V.560"/>
@@ -11587,7 +11557,7 @@ Toward Afrasiyab with all his men.
 </p>
 </div>
 
-<div type="textpart" n="section17">
+<div type="textpart" subtype="chapter" n="17">
 <head>The Letter of Siyawush to Kai Kaus</head>
 <p>
 
@@ -11625,7 +11595,7 @@ Of him who hath the crown and throne—the worldlord.
 
 We fought three days, the fourth God favoured us;
 
-Barman and Sipahram fled toward Tirmid,
+Bahman and Sipahram fled toward Tirmid,
 
 Like arrows from the bow. I am encamped
 
@@ -11641,7 +11611,7 @@ Across the river and attack the foe.”
 </p>
 </div>
 
-<div type="textpart" n="section18">
+<div type="textpart" subtype="chapter" n="18">
 <head>The Answer of Kai Kaus to the Letter of Siyawush</head>
 <p>
 
@@ -11680,7 +11650,7 @@ Since thou hast won a victory repose
 Is needed for a season, but disband not,
 
 Proceed still further, and improve the occasion,
-Because thistTurkman is a cunning knave,
+Because this Turkman is a cunning knave,
 
 A man of high birth but an Ahriman,
 
@@ -11756,7 +11726,7 @@ Except the king, who tossed about distrest.
 </p>
 </div>
 
-<div type="textpart" n="section19">
+<div type="textpart" subtype="chapter" n="19">
 <head>How Afrasiyab had a Dream and was afraid</head>
 <p>
 
@@ -11843,12 +11813,12 @@ Skilled in astrology and grammarye.”
 
 <note n="1">Garsiwaz suggests that dreams go by contraries.</note>
 
-<pb n="234"/>°
+<pb n="234"/>
 
 </p>
 </div>
 
-<div type="textpart" n="section20">
+<div type="textpart" subtype="chapter" n="20">
 <head>How Afrasiyab inquired of the Sages concerning his Dream</head>
 <p>
 
@@ -11937,7 +11907,7 @@ And let the harvest be as heaven hath sown.”
 </p>
 </div>
 
-<div type="textpart" n="section21">
+<div type="textpart" subtype="chapter" n="21">
 <head>How Afrasiyab took Counsel with the Nobles</head>
 <p>
 
@@ -11952,7 +11922,7 @@ To see no desert but that made by war,
 
 <pb n="236"/>
 
-And many great ones of the {rdnians
+And many great ones of the Iranians
 
 Have perished by my hand upon the field.
 What cities have been turned to hospitals!
@@ -12046,7 +12016,7 @@ Is mine, my home is Sughd—a realm distinct.
 
 In truth it is through Tur and valiant Salm
 That all the world is thus turned upside down,
-And since the innocent {raj was slain
+And since the innocent Iraj was slain
 
 Our warriors’ brains have lost their wits. Iran
 Is not divided from Turan, but wars
@@ -12087,7 +12057,7 @@ Thrones are above a paladin’s degree.”
 </p>
 </div>
 
-<div type="textpart" n="section22">
+<div type="textpart" subtype="chapter" n="22">
 <head>How Garsiwaz came to Siyawush</head>
 <p>
 
@@ -12114,7 +12084,7 @@ And ordered Garsiwaz to be admitted,
 Rose when he came and welcomed him with smiles,
 While Garsiwaz afar off kissed the ground,
 
-With downeast looks and terror in his heart.
+With downcast looks and terror in his heart.
 
 The prince, first seating him below the throne,
 Asked eagerly about Afrasiyab,
@@ -12154,8 +12124,8 @@ For this request must be considered well,
 And there are many to advise withal.”
 
 
-</p><p>
-<milestone unit="vullers" n="V.571"/>
+</p>
+<milestone unit="vullers" n="V.571"/><p>
 Far-sighted Garsiwaz on hearing this 
 
 Did lowly reverence and kissed the ground.
@@ -12190,7 +12160,7 @@ To clear the dark suspicions in our minds.
 
 Seest not how fear of us oppresseth him,
 
-And how he taboreth beneath the blanket ?@1
+And how he laboreth beneath the blanket ?@1
 
 This done we must'send one to tell the Shah;
 
@@ -12205,7 +12175,7 @@ May be he will abandon thoughts of war.”
 </p>
 </div>
 
-<div type="textpart" n="section23">
+<div type="textpart" subtype="chapter" n="23">
 <head>How Siyawush made a Treaty with Afrasiyab</head>
 <p>
 
@@ -12263,7 +12233,7 @@ Surrender, keep within Turan thyself,
 
 Repose from wars and those that seek revenge,
 
-And let right only be betaveen us two:
+And let right only be between us two:
 
 It is not well to favour savage pards.
 
@@ -12299,7 +12269,7 @@ Had said, and when the king had heard the words
 He was exceeding troubled and in doubt.
 
 <milestone unit="vullers" n="V.573"/>
-He thus bethought him: “Ifa hundred men 
+He thus bethought him: “If a hundred men 
 Of mine own kin are taken from the host,
 We shall be worsted on the battlefield
 For want of those devoted to my cause;
@@ -12347,7 +12317,7 @@ Thou wouldst have said: “ He rolleth earth along.”
 </p>
 </div>
 
-<div type="textpart" n="section24">
+<div type="textpart" subtype="chapter" n="24">
 <head>How Siyawush sent Rustam to Kaus</head>
 <p>
 
@@ -12357,7 +12327,7 @@ Whom he should send, what man of courteous speech
 <milestone unit="vullers" n="V.574"/>
 Whose words had scent and hue, a cavalier
 Of valour and a favourite with the Shah.
-Then Rustam said: “On such a topic who .
+Then Rustam said: “On such a topic who
 Would dare to speak? Kaus is still the same,
 His petulance increaseth: what if I
 Approach him and make this dark matter clear ?
@@ -12394,7 +12364,7 @@ Was black and fortune fallen. His brother came
 
 <milestone unit="vullers" n="V.575"/>
 With gifts and many fair slaves richly dight 
-Tc me to seek protection from the Shah,
+To me to seek protection from the Shah,
 Afrasiyab will yield the crown and throne
 Of kings, content with his own realm; observe
 His station; never tread Iran’s dark soil;
@@ -12428,7 +12398,7 @@ Thus everything hath turned out well for me.”
 </p>
 </div>
 
-<div type="textpart" n="section25">
+<div type="textpart" subtype="chapter" n="25">
 <head>How Rustam guve the Message to Kaus</head>
 <p>
 
@@ -12507,7 +12477,7 @@ At once relax all discipline, and loose
 
 Thy troops like wolves among the sheep; while thou
 
-Revengest, and thy soldiers sack and burn,
+<lb/>revengest, and thy soldiers sack and burn,
 
 Afrasiyab will come to fight with thee,
 
@@ -12549,7 +12519,7 @@ Wash not a clear heart in a turbid stream.
 
 Suppose that when Afrasiyab consented
 
-He inly purposed to break covenant:
+He only purposed to break covenant:
 
 
 <milestone unit="vullers" n="V.578"/>
@@ -12594,11 +12564,11 @@ But that thine heart will suffer agony.”
 </p>
 </div>
 
-<div type="textpart" n="section26">
+<div type="textpart" subtype="chapter" n="26">
 <head>How Kaus sent Rustam to Sistan</head>
 <p>
 
-Katis, the mighty Shah, was filled with wrath
+Kaus, the mighty Shah, was filled with wrath
 And raged at Rustam with dilated eyes :—
 “So then the truth is out at last! 'Twas thou
 That prompted this to root up from his heart
@@ -12635,7 +12605,7 @@ And put all thoughts of peaceful home apart.
 </p>
 </div>
 
-<div type="textpart" n="section27">
+<div type="textpart" subtype="chapter" n="27">
 <head>The Answer of Kaus to the Letter of Siyawush</head>
 <p>
 
@@ -12746,11 +12716,10 @@ And I have not an inkling of God’s will!”
 </p>
 </div>
 
-<div type="textpart" n="section28">
+<div type="textpart" subtype="chapter" n="28">
 <head>How Siyawush took Counsel with Bahram and Zanga</head>
-<p>
 
-<milestone unit="vullers" n="V.582"/>
+<milestone unit="vullers" n="V.582"/><p>
 Then Siyawush called from the host Bahram
 
 And Zanga son of Shawaran for counsel,
@@ -12764,7 +12733,7 @@ Then Siyawush: “Ill fortune ever heapeth
 
 Ill on my head. My sire’s affection seemed
 
-A tree all leaf and fruit ; Siiddba’s wiles
+A tree all leaf and fruit ; Sudaba’s wiles
 
 Have made it, one may say, a biting bane.
 
@@ -12804,7 +12773,7 @@ Requiring me to fight without a cause.
 
 
 
-<pb n="250"/>t
+<pb n="250"/>
 
 I fear that I shall perish through mine oath,
 But still we must not turn from God, or fear
@@ -12932,7 +12901,7 @@ But find for once a respite from his ire.’”
 </p>
 </div>
 
-<div type="textpart" n="section29">
+<div type="textpart" subtype="chapter" n="29">
 <head>How Zanga went to Afrasiyab</head>
 <p>
 So Zanga, with a hundred noble horsemen,
@@ -13051,7 +13020,7 @@ Still, when its teeth and claws are grown, regret
 Will be thy lot. The brute will turn on thee.</quote></q>
 </p><p>
 Piran said: “Let the king of warriors look
-With wisdom on this matter, Can ill nature
+With wisdom on this matter. Can ill nature
 Befit one who hath not inherited
 The ill nature and perverseness of his sire ?
 
@@ -13073,7 +13042,7 @@ The man that getteth them is fortunate.”
 </p>
 </div>
 
-<div type="textpart" n="section30">
+<div type="textpart" subtype="chapter" n="30">
 <head>How Afrasiyab wrote to Siyawush</head>
 <p>
 
@@ -13081,7 +13050,7 @@ Afrasiyab, when he had heard this, took
 
 A wise resolve, called an experienced scribe
 
-And spake to him at large ubout the matter.
+And spake to him at large about the matter.
 
 The scribe first dipped his pen in ambergris,
 
@@ -13179,7 +13148,7 @@ Will in the end display his enmity.
 </p>
 </div>
 
-<div type="textpart" n="section31">
+<div type="textpart" subtype="chapter" n="31">
 <head>How Siyawush gave up the Host to Bahram</head>
 <p>
 
@@ -13249,7 +13218,7 @@ Toward Jihun with all his company,
 When he had reached Tirmid, doors, roofs, and streets
 Were full of scent and colour like the spring
 Up to the gates of Chach : thou wouldst have said :—
-“Tt is a bride with crown and necklaces.”
+“It is a bride with crown and necklaces.”
 At every stage were carpets laid and viands
 Prepared, the whole way to Kachar Bashi,
 Where he dismounted and remained a while.
@@ -13274,7 +13243,7 @@ Or enemy, he put away his anger,
 And thought no more of warfare and revenge.
 
 </p><p>
-On hearing: “SiyAwush hath crossed the river
+On hearing: “Siyawush hath crossed the river
 With troops to us, his envoy hath arrived,”
 Afrasiyab bade all the chief estates
 Go forth with kettledrums to welcome him.
@@ -13332,7 +13301,7 @@ I too will gird my loins to do thee service.”
 They went with joy, discussing divers matters,
 While through the city there were sounds of harp
 
-<pb n="260"/>f
+<pb n="260"/>
 
 And rebeck ; sleepy heads were roused ; the soil
 Was blackened with fresh musk; the Arab steeds
@@ -13370,7 +13339,7 @@ Thy love on earth in showers.’”
 The prince replied :—
 “O venerable sage who sayest sooth,
 World-famed for thy sincerity and love,
-Far from unkindness and from Abriman !
+Far from unkindness and from Ahriman !
 If thou wilt make a covenant with me
 I know that thou wilt keep it, and will make
 
@@ -13380,13 +13349,13 @@ This land my home in love and confidence
 In thee, my friend! and, if my sojourn here
 Is well, I need not weep for what I did:
 If otherwise command me to depart,
-And point ine out the way to other realms.”
+And point me out the way to other realms.”
 
 </p><p>
 
 Piran replied : “Have no such thought. Since thou
 Hast left Iran, in no wise hasten from us,
-And lose our monarch’s ove. Though his repute
+And lose our monarch’s love. Though his repute
 In this world is not good, he is a man
 Of God, hath wisdom, prudence, and high rede,
 And turneth not in lightness to bad ways.
@@ -13404,7 +13373,7 @@ And hoarded treasure; I need no man’s aid.
 Let all this be thy ransom if thou wilt
 Abide with us. I swear by Holy God
 That I will serve thee both with heart and soul.
-I will not suffer any ill to thee... .
+I will not suffer any ill to thee... 
 But no man knoweth high heaven’s purposes.”
 
 </p><p>
@@ -13416,7 +13385,7 @@ To Gang—the Turkman monarch’s fair abode.
 </p>
 </div>
 
-<div type="textpart" n="section32">
+<div type="textpart" subtype="chapter" n="32">
 <head>The Interview of Siyawush with Afrasiyab</head>
 <p>
 
@@ -13519,7 +13488,7 @@ Him many gifts. Thus was one sennight spent.
 </p>
 </div>
 
-<div type="textpart" n="section33">
+<div type="textpart" subtype="chapter" n="33">
 <head>How Siyawush displayed his Prowess before Afrasiyab</head>
 <p>
 
@@ -13592,7 +13561,7 @@ The cavaliers, the Ground, and malls are thine.”
 
 
 Afrasiyab selected for his side
-Kulbad, Pulad, Pirin, Jahn, Garsiwaz,
+Kulbad, Pulad, Piran, Jahn, Garsiwaz,
 With Nastihan the gallant, and Human,
 Who would drive balls from water. Then the king
 Sent over to the side of Siyawush
@@ -13778,7 +13747,7 @@ Regard the prince as if he were your king.”
 </p>
 </div>
 
-<div type="textpart" n="section34">
+<div type="textpart" subtype="chapter" n="34">
 <head>How Afrasiyab and Siyawush went to the Chase</head>
 <p>
 
@@ -13865,7 +13834,7 @@ They shared all griefs and pleasures equally.
 </p>
 </div>
 
-<div type="textpart" n="section35">
+<div type="textpart" subtype="chapter" n="35">
 <head>How Piran gave his Daughter to Siyawush</head>
 <p>
 One day Piran conversed with Siyawush
@@ -13960,7 +13929,7 @@ Increased in rank and favour with the king.
 </p>
 </div>
 
-<div type="textpart" n="section36">
+<div type="textpart" subtype="chapter" n="36">
 <head>How Piran spake to Siyawush about Farangis</head>
 <p>
 
@@ -14036,7 +14005,7 @@ Is not at present to be made thine own.”
 </p>
 </div>
 
-<div type="textpart" n="section37">
+<div type="textpart" subtype="chapter" n="37">
 <head>How Piran spake with Afrasiyab</head>
 <p>
 
@@ -14158,7 +14127,7 @@ Sat o’er their wine and from their souls washed care.
 </p>
 </div>
 
-<div type="textpart" n="section38">
+<div type="textpart" subtype="chapter" n="38">
 <head>The Wedding of Farangis and Siyawush</head>
 <p>
 
@@ -14258,7 +14227,7 @@ With sounds of minstrelsy and merriment.
 </p>
 </div>
 
-<div type="textpart" n="section39">
+<div type="textpart" subtype="chapter" n="39">
 <head>How Afrasiyab bestowed a Province on Siyawush</head>
 <p>
 
@@ -14396,7 +14365,7 @@ Such that beholders shall remain astound.”
 </p>
 </div>
 
-<div type="textpart" n="section40">
+<div type="textpart" subtype="chapter" n="40">
 <head>How Siyawush built Gang-dizh</head>
 <p>
 
@@ -14534,7 +14503,7 @@ Narcissus, tulip, hyacinth, and rose.
 </p>
 </div>
 
-<div type="textpart" n="section41">
+<div type="textpart" subtype="chapter" n="41">
 <head>How Siyawush discoursed with Piran about the Future</head>
 <p>
 
@@ -14596,9 +14565,8 @@ And death will overtake me for no fault
 Of mine, Such is the mystery of heaven
 With its vicissitudes of joy and grief!”
 
-</p><p>
-
-<milestone unit="vullers" n="V.622"/>
+</p>
+<milestone unit="vullers" n="V.622"/><p>
 Piran replied: “My lord! encourage not 
 Vain thoughts, Afrasiyab safe-guardeth thee,
 And on thy finger is a royal signet.
@@ -14699,7 +14667,7 @@ Wine, harp, and minstrelsy were in request.
 </p>
 </div>
 
-<div type="textpart" n="section42">
+<div type="textpart" subtype="chapter" n="42">
 <head>How Afrasiyab sent Piran into the Provinces</head>
 <p>
 
@@ -14725,7 +14693,7 @@ With well appointed steeds, remained behind.
 </p>
 </div>
 
-<div type="textpart" n="section43">
+<div type="textpart" subtype="chapter" n="43">
 <head>How Siyawush built Siyawushgird</head>
 <p>
 
@@ -14796,7 +14764,7 @@ With Zal, Gudarz, and all that company.
 
 Elsewhere he limned Afrasiyab, his army,
 
-Pirin, and Garsiwaz the vengeful one.
+Piran, and Garsiwaz the vengeful one.
 
 That pleasant city was the talk of all
 
@@ -14816,7 +14784,7 @@ Called it; that city made all hearts rejoice.
 </p>
 </div>
 
-<div type="textpart" n="section44">
+<div type="textpart" subtype="chapter" n="44">
 <head>How Piran visited Siyawush</head>
 <p>
 
@@ -14942,7 +14910,7 @@ That this his Bough of promise was in bearing.
 </p>
 </div>
 
-<div type="textpart" n="section45">
+<div type="textpart" subtype="chapter" n="45">
 <head>How Afrasiyab sent Garsiwaz to Siyawush</head>
 <p>
 
@@ -15040,7 +15008,7 @@ He had shown all went to his home again.
 </p>
 </div>
 
-<div type="textpart" n="section46">
+<div type="textpart" subtype="chapter" n="46">
 <head>The Birth of Farad the Son of Siyawush</head>
 <p>
 
@@ -15120,7 +15088,7 @@ Of minstrelsy, forgot his own chagrin.
 </p>
 </div>
 
-<div type="textpart" n="section47">
+<div type="textpart" subtype="chapter" n="47">
 <head>How Siyawush played at Polo</head>
 <p>
 
@@ -15150,7 +15118,7 @@ Then to his eager followers he said:
 
 Whenas the warriors came upon the Ground
 
-The [rdnians in the tussle took the ball,
+The Iranians in the tussle took the ball,
 
 While Siyawush rejoiced at their success,
 
@@ -15273,8 +15241,8 @@ At length Gurwi the son of Zira said :—
 “I am prepared to fight if Siyawush
 Hath no antagonist.”
 
-</p><p>
-<milestone unit="vullers" n="V.635"/>
+</p>
+<milestone unit="vullers" n="V.635"/><p>
 The prince’s face 
 
 Was full of frowns and sternness at the words,
@@ -15342,7 +15310,7 @@ To see in our king’s actions head or tail.”
 </p>
 </div>
 
-<div type="textpart" n="section48">
+<div type="textpart" subtype="chapter" n="48">
 <head>How Garsiwaz returned and spake Evil before Afrasiyab</head>
 <p>
 
@@ -15597,7 +15565,7 @@ But straitly gird thy loins and come to me.’”
 </p>
 </div>
 
-<div type="textpart" n="section49">
+<div type="textpart" subtype="chapter" n="49">
 <head>How Garsiwaz returned to Siyawush</head>
 <p>
 
@@ -15693,7 +15661,7 @@ Of race, and called to mind true tales of old;
 
 The wrong began with Tur who lost the Grace,
 
-And inade feud with Iraj, who did not brawl.
+And made feud with Iraj, who did not brawl.
 
 Beneath Afrasiyab and Minuchihr
 
@@ -15867,7 +15835,7 @@ And show me the right course in everything,”
 </p>
 </div>
 
-<div type="textpart" n="section50">
+<div type="textpart" subtype="chapter" n="50">
 <head>The Letter of Siyawush to Afrasiyab</head>
 <p>
 
@@ -15913,7 +15881,7 @@ And full of hurry, questioned him at large :—
 
 </p><p>
 
-Then Garsiwaz replied: “ When fortune loureth .
+Then Garsiwaz replied: “ When fortune loureth,
 
 It is not well to put thy trust therein.
 
@@ -15929,7 +15897,7 @@ He had much correspondence with Iran,
 
 And kept his city’s portals shut on us.
 
-What with a host from Rum and cne from Chin
+What with a host from Rum and one from Chin
 
 There is a constant bruit within the land.
 
@@ -15950,7 +15918,7 @@ That thou mayst suffer by no act of his.”
 </p>
 </div>
 
-<div type="textpart" n="section51">
+<div type="textpart" subtype="chapter" n="51">
 <head>How Afrasiyab came to fight with Siyawush</head>
 <p>
 
@@ -15964,9 +15932,8 @@ He flung away the letter all unread,
 And, through the words that wicked Garsiwaz
 Had spoken, set another tree of feud.
 
-</p><p>
-
-<milestone unit="vullers" n="V.649"/>
+</p>
+<milestone unit="vullers" n="V.649"/><p>
 Now, while the guileful Garsiwaz was toiling 
 Upon the saddle, Siy4wush in anguish
 
@@ -16024,7 +15991,7 @@ But his hard fortune made his heart still ache,
 </p>
 </div>
 
-<div type="textpart" n="section52">
+<div type="textpart" subtype="chapter" n="52">
 <head>How Siyawush had a Dream</head>
 <p>
 
@@ -16117,7 +16084,7 @@ Abiding here, but save thyself and flee.”
 </p>
 </div>
 
-<div type="textpart" n="section53">
+<div type="textpart" subtype="chapter" n="53">
 <head>The Parting Words of Siyawush to Farangis</head>
 <p>
 
@@ -16259,7 +16226,7 @@ Sword, belt, and helm, he burned and wasted them.
 </p>
 </div>
 
-<div type="textpart" n="section54">
+<div type="textpart" subtype="chapter" n="54">
 <head>How Siyawush was taken by Afrasiyab</head>
 <p>
 
@@ -16270,7 +16237,7 @@ And with his cheeks suffused by tears of blood
 Fared half a league then met Afrasiyab,
 
 Beheld an armoured host with sword and mace,
-And, buckling up his mail, thought: “Gars{waz
+And, buckling up his mail, thought: “Garsiwaz
 Hath told the truth, a truth too evident!”
 </p>
 
@@ -16429,7 +16396,7 @@ And nourished fondly—we shall see the wrong
 Revenged, and thou wilt suffer for this day.
 Bethink thee of the sword with flashing blade,
 The sword whereby the world is filled with blood,
-And those famed leaders of the [rdnians,
+And those famed leaders of the Iranians,
 Whose wrath confoundeth earth, as Fariburz,
 The son of Kai Kaus, the ravening Lion,
 Whom none e’er yet saw satiate of fight ;
@@ -16513,7 +16480,7 @@ What new expedient heaven may have in store.
 </p>
 </div>
 
-<div type="textpart" n="section55">
+<div type="textpart" subtype="chapter" n="55">
 <head>How Farangis bewailed herself before Afrasiyab</head>
 <p>
 
@@ -16608,7 +16575,7 @@ Would banish all the sunlight from my breast ?”
 </p><p>
 The monarch heard his child’s words and the world
 
-<pb n="320"/>t
+<pb n="320"/>
 
 Was blackened in his eyes. He said to her :—
 “Begone. What know’st thou of our purposes?”
@@ -16626,7 +16593,7 @@ To bolt the door and leave her in the gloom.
 </p>
 </div>
 
-<div type="textpart" n="section56">
+<div type="textpart" subtype="chapter" n="56">
 <head>How Siyawush was slain by Gurwi</head>
 <p>
 
@@ -16715,7 +16682,7 @@ Is his, the world and fortune are his own;
 Another walketh this earth righteously
 
 
-<pb n="322"/>i
+<pb n="322"/>
 
 Yet withereth away in misery.
 
@@ -16795,7 +16762,7 @@ To give her over unto those that slay!”
 </p>
 </div>
 
-<div type="textpart" n="section57">
+<div type="textpart" subtype="chapter" n="57">
 <head>How Piran saved Farangis</head>
 <p>
 
@@ -16827,7 +16794,7 @@ Were talking at the palace-gate and saying :—
 “It were a cruel, fearful, shocking deed 
 To cut asunder Farangis! This fury
 
-<note n="1">No doubt Pilsam and Lahhak were with them, as the mention. of ten horses looks like a re-mount for each man. Ruin was the son of Pirin.</note>
+<note n="1">No doubt Pilsam and Lahhak were with them, as the mention. of ten horses looks like a re-mount for each man. Ruin was the son of Piran.</note>
 
 <pb n="324"/>
 
@@ -16907,8 +16874,8 @@ And after that I will devise some scheme.
 Meanwhile attend upon her like a slave,
 And mark the pranks of fortune.”
 
-</p><p>
-<milestone unit="vullers" n="V.670"/>
+</p>
+<milestone unit="vullers" n="V.670"/><p>
 Time passed by, 
 
 The Moon grew near to her delivery.
@@ -16916,12 +16883,12 @@ The Moon grew near to her delivery.
 </p>
 </div>
 
-<div type="textpart" n="section58">
+<div type="textpart" subtype="chapter" n="58">
 <head>The Birth of Kai Khusrau</head>
 <p>
 
 One dark and moonless night, while birds, wild beasts,
-And cattle slept, Pirin in dream beheld
+And cattle slept, Piran in dream beheld
 
 A splendour that outshone the sun itself,
 
@@ -17004,7 +16971,7 @@ When gloomy murk was sleeping, and the sun
 
 Displayed its rays, the captain of the host,
 
-*Twixt fear and hope, went to Afrasiyab
+'Twixt fear and hope, went to Afrasiyab
 
 In haste, but waited till the court had cleared ;
 
@@ -17078,7 +17045,7 @@ Then journeyed to his palace musing thus :—
 </p>
 </div>
 
-<div type="textpart" n="section59">
+<div type="textpart" subtype="chapter" n="59">
 <head>How Piran entrusted Kai Khusrau to the Shepherds</head>
 <p>
 
@@ -17167,7 +17134,7 @@ Home to the palace, thinking mournfully
 Of Siyawush. He cherished Kai Khusrau, 
 Rejoiced in him, and spent a happy time,
 
-<pb n="330"/>!
+<pb n="330"/>
 
 But lost food, rest, and sleep through tenderness,
 And terror of the anger of the king.
@@ -17180,7 +17147,7 @@ Awhile o’er Kai Khusrau in peace and love,
 </p>
 </div>
 
-<div type="textpart" n="section60">
+<div type="textpart" subtype="chapter" n="60">
 <head>How Piran brought Kai Khusrau before Afrasiyab</head>
 <p>
 
@@ -17328,9 +17295,8 @@ Then asked of Kai Khusrau in.gentler tones :—
 “ Dost thou not wish to learn to write? Hast thou
 No wish for vengeance on thine enemies ?”
 
-</p><p>
-
-<milestone unit="vullers" n="V.678"/>
+</p>
+<milestone unit="vullers" n="V.678"/><p>
 He said: “There is no cream upon the milk:
 I fain would drive the shepherds from the plain.”
 
@@ -17359,7 +17325,7 @@ Attendants, and whate’er may serve his needs.”
 </p>
 </div>
 
-<div type="textpart" n="section61">
+<div type="textpart" subtype="chapter" n="61">
 <head>How Kai Khusrau went to Siyawush</head>
 <p>
 
@@ -17435,11 +17401,11 @@ Giv bare off from Turan Shah Kaus Khusrau.
 
 </p>
 </div>
-</div>
+
 </div>
 <pb n="335"/>
 
-<div type="textpart" n="part5"><head>Part V: how Rustam avenged Siyawush, and how Giv brought Kai Khusrau to Iran</head>
+<div type="textpart" subtype="part" n="5"><head>Part V: how Rustam avenged Siyawush, and how Giv brought Kai Khusrau to Iran</head>
 
 <div type="textpart" n="argument"><head>Argument</head>
 
@@ -17466,13 +17432,12 @@ son of Naudar, and he and his brother Gustaham were deliberately passed over aft
 <p>§§ 34, 35. In the account of the expedition of Fariburz and Kai Khusrau to Ardabil we have another proof of the truth of the view, often advanced in the present work, that the true seat of the legends of the Shahnama is to be looked for in the regions lying between the Euxine and the Caspian. Ardabil is in Azarbdaijan, a land exposed to invasions from the north through the Pass of
 Darband, and where the numerous fire-springs doubtless gave rise to the legend of the heat which distressed the host of Fariburz in the neighbourhood of the castle of Bahman.</p>
 </div>
-<div type="textpart" n="text">
 
-<div type="textpart" n="section1">
+
+<div type="textpart" subtype="chapter" n="1">
 <head>Firdausi's Lament over his old Age</head>
-<p>
 
-<milestone unit="vullers" n="V.680"/>
+<milestone unit="vullers" n="V.680"/><p>
 
 
 
@@ -17535,7 +17500,7 @@ I take in hand; heed thou the minstrel’s strain.
 </p>
 </div>
 
-<div type="textpart" n="section2">
+<div type="textpart" subtype="chapter" n="2">
 
 <milestone unit="vullers" n="V.681"/>
 <head>How Kaus heard of the Case of Siyawush</head>
@@ -17579,7 +17544,7 @@ Retained its helmet but had dust instead,
 </p>
 </div>
 
-<div type="textpart" n="section3">
+<div type="textpart" subtype="chapter" n="3">
 <head>How Rustam came to Kaus</head>
 <p>
 
@@ -17630,8 +17595,8 @@ My net the leathern lasso on mine arm,
 Until I take for our young prince’s death
 Revenge upon that Turkman dark of soul.”
 
-</p><p>
-<milestone unit="vullers" n="V.683"/>
+</p>
+<milestone unit="vullers" n="V.683"/><p>
 All dust from head to foot he came before 
 The throne of Kai Kaus and said to him :—
 “The noxious weeds that thou hast sown, O king!
@@ -17653,7 +17618,7 @@ Alas for that tall stature and that face,
 That face that had the mien of majesty !
 Alas for that so famous sovereign,
 For time will never look on such another!
-*Twas ever spring when he was on the throne ;
+'Twas ever spring when he was on the throne ;
 At feasts he used to be the crown of kings,
 In fight a Pars, a Tiger, and a Lion:
 None ever saw a man so deft of hand.
@@ -17667,7 +17632,7 @@ The whole world shall endure the fiery smart.”
 </p>
 </div>
 
-<div type="textpart" n="section4">
+<div type="textpart" subtype="chapter" n="4">
 <head>How Rustam slew Sudaba and led forth the Host</head>
 <p>
 
@@ -17715,7 +17680,7 @@ In arms like Siyawush the cavalier.
 Treat not the matter lightly. None can deem
 Such vengeance trifling. Banish all dismay,
 
-And make the earth run like Jihun with blood. .
+And make the earth run like Jihun with blood.
 By God! while I am living in the world
 
 I will not cease to grieve for Siyawush.
@@ -17752,20 +17717,20 @@ He dropped the ball into the cup. The troops
 Unsheathed the sword of vengeance. Rose the din
 Of horn, of brazen trump, and kettledrum ;
 The world was all revenge, and thou hadst said :—
-“Tt is a seething sea!” Earth had no room
+“It is a seething sea!” Earth had no room
 For walking, air was ambushed by the spears;
 The stars began the fray, and time and earth
 Washed hands in mischief. The Iranian warriors
 Girt up their loins and Kawa’s standard led them.
 Then Rustam of Zabul chose from Kabul,
 Iran, and from the forest of Narwan,
-Troops that v .re wielders of the scimitar:
+Troops that were wielders of the scimitar:
 There mustered five score thousand men of war.
 
 </p>
 </div>
 
-<div type="textpart" n="section5">
+<div type="textpart" subtype="chapter" n="5">
 <head>How Faramarz slew Warazad</head>
 <p>
 
@@ -17773,7 +17738,7 @@ The leader of the van was Faramarz,
 The son of Rustam and a youthful chieftain,
 
 
-<pb n="342"/> 
+<pb n="342"/>
 
 Whom, when he reached the border of Turan,
 The watch descried.
@@ -17866,7 +17831,7 @@ For Siyawush, and set his land a-fire.”
 </p>
 </div>
 
-<div type="textpart" n="section6">
+<div type="textpart" subtype="chapter" n="6">
 <head>How Surkha led his Troops to fight with Rustam</head>
 <p>
 
@@ -17978,7 +17943,7 @@ Fled. Fardmarz, like some mad elephant,
 
 Pursued him, brandishing an Indian sword,
 
-The {rd4nian horse rushed after him like divs,
+The Iranian horse rushed after him like divs,
 
 And shouted. Fardmarz came up with Surkha
 
@@ -18106,7 +18071,7 @@ Then Rustam took the head off, hung the trunk
 
 Feet upward on a gibbet, and flung dust
 
-<pb n="348"/>tT
+<pb n="348"/>
 
 In vengeance on the corpse, which afterwards
 The soldiers hacked to pieces with their swords.
@@ -18114,7 +18079,7 @@ The soldiers hacked to pieces with their swords.
 </p>
 </div>
 
-<div type="textpart" n="section7">
+<div type="textpart" subtype="chapter" n="7">
 <head>How Afrasiyab led forth the Host to avenge his Son</head>
 <p>
 
@@ -18212,7 +18177,7 @@ A crocodile hath swallowed up the stars!”
 
 The monarch of Turan arrayed his men,
 Who grz sped their maces and two-headed darts.
-Upon the right Barman came proudly on
+Upon the right Bahman came proudly on
 Before his troops, Kuhram was at the left,
 And in the centre was the king in person.
 On his side Rustam too arrayed his host,
@@ -18235,7 +18200,7 @@ The clouds, and brightly flashed the blue-steel swords.
 </p>
 </div>
 
-<div type="textpart" n="section8">
+<div type="textpart" subtype="chapter" n="8">
 <head>How Pilsam was slain by Rustam</head>
 <p>
 
@@ -18419,7 +18384,7 @@ And day in sooth had well nigh spent its light.
 </p>
 </div>
 
-<div type="textpart" n="section9">
+<div type="textpart" subtype="chapter" n="9">
 <head>How Afrasiyab fled from Rustam</head>
 <p>
 
@@ -18548,7 +18513,7 @@ Spearhead, and girdle covered all the plain.
 </p>
 </div>
 
-<div type="textpart" n="section10">
+<div type="textpart" subtype="chapter" n="10">
 <head>How Afrasiyab sent Khusrau to Khutan</head>
 <p>
 
@@ -18665,7 +18630,7 @@ And sent like smoke the youth upon his way.@1
 </p>
 </div>
 
-<div type="textpart" n="section11">
+<div type="textpart" subtype="chapter" n="11">
 <head>How Rustam reigned over Turan for Seven Years</head>
 <p>
 
@@ -18767,7 +18732,7 @@ With hawk and cheetah. Passed a while away.
 </p>
 </div>
 
-<div type="textpart" n="section12">
+<div type="textpart" subtype="chapter" n="12">
 <head>How Zawara went io the Hunting-ground of Siyawush</head>
 <p>
 
@@ -18796,7 +18761,7 @@ The Turkman guide and felled him to the ground.
 With gall-drops streaming from his eyes Zawara
 Swore a great oath: “I will not hunt or sleep,
 
-<pb n="360"/>t
+<pb n="360"/>
 
 Or cease from vengeance on Afrasiyab.
 I will not give a moment’s rest to Rustam:
@@ -18814,7 +18779,7 @@ Thou wilt not look upon for many a year.”
 </p>
 </div>
 
-<div type="textpart" n="section13">
+<div type="textpart" subtype="chapter" n="13">
 <head>How Rustam harried the Land of Turan</head>
 <p>
 
@@ -18876,7 +18841,7 @@ Our slaves, our states, our signets, and our crowns
 Are in Iran. 'Tis wealth hath dazed us thus! 
 Heart sated is soul bated! If thou settest
 Thy heart upon this ancient dwelling-place
-*I will flatter thee but cozen thee withal ;
+I will flatter thee but cozen thee withal ;
 So, if thy heart be not with Ahriman,
 Abstain from greed which is the enemy.
 Array thyself and lavish, drink and eat,
@@ -18893,7 +18858,7 @@ And how thou wilt deplore this present good !”
 </p>
 </div>
 
-<div type="textpart" n="section14">
+<div type="textpart" subtype="chapter" n="14">
 <head>How Rustam returned to Iran</head>
 <p>
 The matchless Rustam heard the words with shame,
@@ -18969,7 +18934,7 @@ And Turkman sworders in the world held sway.
 </p>
 </div>
 
-<div type="textpart" n="section15">
+<div type="textpart" subtype="chapter" n="15">
 <head>How Gudarz had a Dream of Kai Khusrau</head>
 <p>
 
@@ -19034,7 +18999,7 @@ He sat upon a cloud mid wind and rain,
 And purged the world of woe. He looked at me
 And said: ‘ Why all this grief? Why is the world
 Thus filled with warfare and thus parched with drought
-Because Kaus hath neither Grace nor might, ,
+Because Kaus hath neither Grace nor might, 
 And heedeth not the precedents of Shahs.
 When Kai Khusrau arriveth from Turan
 He will bring war and trouble on the foe;
@@ -19089,7 +19054,7 @@ Toward Sistan with speed the lady went.
 </p>
 </div>
 
-<div type="textpart" n="section16">
+<div type="textpart" subtype="chapter" n="16">
 <head>How Giv went to Turan in Quest of Kai Khusrau</head>
 <p>
 
@@ -19109,13 +19074,13 @@ Suspicion will be roused if I take men,
 And I shall bring a quarrel on myself.
 A lasso in the straps, a rapid steed,
 A sword and Indian vesture are enough,
-Unless perhaps a guide to lead the way. .
+Unless perhaps a guide to lead the way.
 My home awhile will be the plain and mountain,
 I may not pass through cities, for the folk
 Will recognise me and I shall repent it.
 I shall return rejoicing, bright of soul,
 Through thy good fortune, chief of paladins !
-Tend heedfully my little son Bihzan@1
+Tend heedfully my little son Bizhan@1
 And guard him carefully against mischance,
 
 <milestone unit="vullers" n="V.713"/>
@@ -19263,7 +19228,7 @@ Giv smote him with the sword and laid him low.
 </p>
 </div>
 
-<div type="textpart" n="section17">
+<div type="textpart" subtype="chapter" n="17">
 <head>The Finding of Kai Khusrau</head>
 <p>
 
@@ -19290,7 +19255,7 @@ Back from Machin and give him to his mother,
 But have the roads well watched.”
 
 </p><p>
-Pirin dispatched
+Piran dispatched
 A messenger upon a noble camel,
 And had the son of Siyawush brought back—
 A prudent and a life-inspiring youth—
@@ -19469,7 +19434,7 @@ To any one, and note what time will bring.”
 </p>
 </div>
 
-<div type="textpart" n="section18">
+<div type="textpart" subtype="chapter" n="18">
 <head>How Giv and Kai Khusrau went to Siyawushgird</head>
 <p>
 
@@ -19503,7 +19468,7 @@ Will make our hearts despair of pleasant life,
 <milestone unit="vullers" n="V.721"/>
 
 And leave not one of us, at large or hiding,
-Alive. .The world is full of enemies,
+Alive. The world is full of enemies,
 
 Our whole land is the abode of Ahriman.
 
@@ -19543,7 +19508,7 @@ And sweep the earth of foemen with thy shoe.’”
 </p>
 </div>
 
-<div type="textpart" n="section19">
+<div type="textpart" subtype="chapter" n="19">
 <head>How Kai Khusrau won Bihzad</head>
 <p>
 The valiant chieftain mounted on his steed
@@ -19685,7 +19650,7 @@ Made ready for the journey through the waste.
 </p>
 </div>
 
-<div type="textpart" n="section20">
+<div type="textpart" subtype="chapter" n="20">
 <head>How Farangis went with Kai Khusrau and Giv to Iran</head>
 <p>
 
@@ -19746,7 +19711,7 @@ Accoutred by his side in case of need.
 </p>
 </div>
 
-<div type="textpart" n="section21">
+<div type="textpart" subtype="chapter" n="21">
 <head>How Kulbad and Nastihan fled from Giv</head>
 <p>
 
@@ -19883,7 +19848,7 @@ Are thine, not standard, kettledrum, and mace.”
 </p>
 </div>
 
-<div type="textpart" n="section22">
+<div type="textpart" subtype="chapter" n="22">
 <head>How Piran pursued Kai Khusrau</head>
 <p>
 
@@ -19981,7 +19946,7 @@ Succeed thy Grace will give the victory.”
 </p>
 </div>
 
-<div type="textpart" n="section23">
+<div type="textpart" subtype="chapter" n="23">
 <head>How Piran contended with Giv</head>
 <p>
 
@@ -20112,12 +20077,10 @@ Thy mail and helm shall be thy winding-sheet.”
 </p>
 </div>
 
-<div type="textpart" n="section24">
+<div type="textpart" subtype="chapter" n="24">
 <head>How Piran was taken by Giv</head>
-<p>
 
-
-<milestone unit="vullers" n="V.733"/>
+<milestone unit="vullers" n="V.733"/><p>
 Piran was furious and wept with rage, 
 Then gripping with his legs urged on his steed,
 Anc, with his massive mace upon his shoulder,
@@ -20215,7 +20178,7 @@ Have from this Dragon’s clutch my liberty.”
 </p>
 </div>
 
-<div type="textpart" n="section25">
+<div type="textpart" subtype="chapter" n="25">
 <head>How Farangis delivered Piran from Giv</head>
 <p>
 
@@ -20303,7 +20266,7 @@ With many blessings on Khusrau and Giv.
 </p>
 </div>
 
-<div type="textpart" n="section26">
+<div type="textpart" subtype="chapter" n="26">
 <head>How Afrasiyab found Piran on the Way</head>
 <p>
 
@@ -20450,7 +20413,7 @@ Should Farangis thus bear him company ?”
 </p>
 </div>
 
-<div type="textpart" n="section27">
+<div type="textpart" subtype="chapter" n="27">
 <head>How Giv disputed with the Toll-man</head>
 <p>
 
@@ -20496,8 +20459,8 @@ Became extortionate, and said: “I ask
 No little toll, but one of four—thy mail,
 Thy black steed, handmaid, or thy moon-like page.”
 
-</p><p>
-<milestone unit="vullers" n="V.741"/>
+</p>
+<milestone unit="vullers" n="V.741"/><p>
 Giv answered him: “O thou of broken wits! 
 Do words like these become a man like thee ?
 Were he a subject of the king of kings
@@ -20532,7 +20495,7 @@ The stream for us, the ferry-boat for thee;
 </p>
 </div>
 
-<div type="textpart" n="section28">
+<div type="textpart" subtype="chapter" n="28">
 <head>How Kai Khusrau crossed the Jihun</head>
 <p>
 
@@ -20696,7 +20659,7 @@ And matters long continued in this stay.
 </p>
 </div>
 
-<div type="textpart" n="section29">
+<div type="textpart" subtype="chapter" n="29">
 <head>How Kai Khusrau came to Ispahan</head>
 <p>
 
@@ -20848,12 +20811,10 @@ Wich joyful hearts set forward on their way.
 </p>
 </div>
 
-<div type="textpart" n="section30">
+<div type="textpart" subtype="chapter" n="30">
 <head>How Kai Khusrau came to Kaus</head>
-<p>
 
-
-<milestone unit="vullers" n="V.747"/>
+<milestone unit="vullers" n="V.747"/><p>
 When Kai Khusrau appeared before the Shah 
 The world was filled with colour, scent, and beauty,
 And everywhere in festal trim. The doors,
@@ -21010,14 +20971,14 @@ That Moon of ladies blessed him. “May,” said she,
 </p>
 </div>
 
-<div type="textpart" n="section31">
+<div type="textpart" subtype="chapter" n="31">
 <head>How Tus refused Allegiance to Kai Khusrau</head>
 <p>
 Kishwad possessed a palace at Istakhr—
 The glory of the nobles. Thither went,
 Their audience with the monarch being closed,
 
-<pb n="400"/>t
+<pb n="400"/>
 
 Gudarz with Kai Khusrau. When they had reached
 
@@ -21031,7 +20992,7 @@ The warriors of Iran all did him service
 
 Save Tus, son of Naudar, who turned away:
 
-"Twas he that had the drums, the golden shoes,
+'Twas he that had the drums, the golden shoes,
 
 And charge of Kawa’s standard. Much displeased
 
@@ -21145,7 +21106,7 @@ Nor have we such another cavalier.”
 </p>
 </div>
 
-<div type="textpart" n="section32">
+<div type="textpart" subtype="chapter" n="32">
 <head>How Gudarz was wroth with Tus</head>
 <p>
 
@@ -21225,7 +21186,7 @@ Whereof Afrasiyab will dream all night.”
 </p>
 </div>
 
-<div type="textpart" n="section33">
+<div type="textpart" subtype="chapter" n="33">
 <head>How Gudarz and Tus went before Kaus on the Matter of the Kingship</head>
 <p>
 
@@ -21279,7 +21240,7 @@ He like a savage lion girdeth him
 To banish toil and trouble from Iran,
 And over-reach astute Afrasiyab.
 Surtsh the glorious said to me in sleep :—
-‘His Grace will still the war-ery in Iran,
+‘His Grace will still the war-cry in Iran,
 And when he shall adorn the crown and throne
 Of chiefs, the world will cease from toil and hardship.’
 Thou art no alien; thou art from Naudar:
@@ -21349,7 +21310,7 @@ And from the monarch’s presence forth they went.
 </p>
 </div>
 
-<div type="textpart" n="section34">
+<div type="textpart" subtype="chapter" n="34">
 <head>How Tus and Fariburz went to the Castle of Bahman and came back foiled</head>
 <p>
 
@@ -21371,9 +21332,8 @@ And moon they may have triumph and success :
 So if it seemeth good to Fariburz,
 Array thine army and be diligent.”
 
-</p><p>
-
-<milestone unit="vullers" n="V.758"/>
+</p>
+<milestone unit="vullers" n="V.758"/><p>
 Tus with the golden boots upon his feet
 Went forth with Kawa’s standard. Fariburz,
 Son of Kaus, was at the army's centre,
@@ -21402,7 +21362,7 @@ Despairing ; their long journey proved in vain.
 </p>
 </div>
 
-<div type="textpart" n="section35">
+<div type="textpart" subtype="chapter" n="35">
 <head>How Kai Khusrau went to the Castle of Bahman and took it</head>
 <p>
 
@@ -21550,7 +21510,7 @@ Made up the baggage-train, and called to horse,
 </p>
 </div>
 
-<div type="textpart" n="section36">
+<div type="textpart" subtype="chapter" n="36">
 <head>How Kai Khusrau returned in Triumph</head>
 <p>
 
@@ -21659,7 +21619,7 @@ His who had made the diadem his own.
 </p>
 </div>
 
-<div type="textpart" n="section37">
+<div type="textpart" subtype="chapter" n="37">
 <head>How Kaus set Khusrau upon the Throne of Kingship</head>
 <p>
 
@@ -21723,6 +21683,6 @@ Abstain from sorrow and let joy be toward.
 </div>
 </div>
 </div>
-</div>
+
 
 </body></text></TEI>

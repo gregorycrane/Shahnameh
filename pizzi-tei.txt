@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuale della linguae persiana</title>
+                <sponsor>Tufts University</sponsor>
+                <funder>Mellon Foundation</funder>
+                <principal>Gregory Crane</principal>
+                <principal>Farnoosh Shamsian</principal>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <persName>Farnoosh Shamsian</persName>
+                    <resp>OCRd the text and added initial TEI XML and corrections</resp>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>Tufts University</authority>
+                <authority>DAAD</authority>
+                <idno type="filename">https://hdl.handle.net/2027/mdp.39015024273826</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+                <date>2021</date>
+                <publisher>Tufts University</publisher>
+                <pubPlace>Medford, MA, USA</pubPlace>
+            </publicationStmt>
+
+            <sourceDesc>
+                <listBibl xml:lang="la">
+                    <biblStruct>
+                        <monogr>
+                            <editor>
+                                <persName>
+                                    <name xml:lang="it">Pizzi, Italo, 1849-1920.</name>
+                                </persName>
+                            </editor>
+                            <title>Antologia Firdusiana con un compendio
+di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
+                            <imprint>
+                                <publisher>W. Gerhard</publisher>
+                                <pubPlace>Leipzig</pubPlace>
+                                <date>1891</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="chapter"
+                         matchPattern="(\w+).(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts Book and Chapter</p>
+                </cRefPattern>
+                <cRefPattern n="book"
+                         matchPattern="(\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='translation']/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="fa">Persian</language>
+            </langUsage>
+        </profileDesc>
+
+    </teiHeader>
+    <text>
+        <body>

@@ -1,0 +1,75 @@
+Correct OCR errors and convert this to TEI XML. Only display the TEI XML.
+Use 
+<div type="textpart" subtype="section"....
+Do not leave anything out for brevity.
+Turn on line-wrap in the output window.
+
+Mark index items with <term/>.
+References to a <term/> should be tagged as <ref/>.
+Expand abbreviated expressions such as:
+
+<p>Shahnama of, vi, 16 probably compiled by Magi for, i, 69, viii, 71, 73 importance of, for Firdausi, viii, 73.</p>
+
+The following becomes:
+<p>Abu'l Kasim of Gurgan, shaikh, ii, 101</p>
+<p>dream of, about Firdausi, iii, 191</p>
+
+becomes:
+<p><term>Abu'l Kasim of Gurgan</term>, shaikh, ii, 101</p>
+<p>dream of <ref>Abu'l Kasim of Gurgan</ref> about Firdausi, iii, 191</p>
+
+The following:
+<p><term>Afrasiyab</term> advocates war with Naudar, i, 343</p>
+<p>Forbidden by Pashang to invade Iran, i, 343</p>
+
+Should be:
+
+<p><term>Afrasiyab</term> advocates war with Naudar, i, 343</p>
+<p><ref>Afrasiyab</ref> is forbidden by Pashang to invade Iran, i, 343</p>
+
+<p><term>Abú'l 'Abbās Fazl bin Ahmad</term>, minister of Mahmūd and perhaps a patron of Firdausi, i, 30, 100, iv, 141</p>
+        <p>Account of, i, 36</p>
+        <p>Disgrace of, may have affected Firdausi, i, 37</p>
+
+Should be:
+
+<p><term>Abú'l 'Abbās Fazl bin Ahmad</term>, minister of Mahmūd and perhaps a patron of Firdausi, i, 30, 100, iv, 141</p>
+        <p>Account of <ref>Abú'l 'Abbās Fazl bin Ahmad</ref>, i, 36</p>
+        <p>Disgrace of <ref>Abú'l 'Abbās Fazl bin Ahmad</ref> may have affected Firdausi, i, 37</p>
+
+
+The text:
+<p><term>'Abbas</term>, Arab chief, attacks Hurmuzd, viii, 93.</p>
+
+Should be:
+<p><term>'Abbas</term>, Arab chief.</p>
+<p><ref>'Abbas</ref> attacks Hurmuzd, viii, 93.</p>
+
+Expand expressions such as "Shahnama of,", e.g., 
+<p><term>Abü-'A Muhammad</term>, Persian poet, Shahnama of, i, 69.</p>
+should be 
+<p><term>Abü-'A Muhammad</term>, Persian poet.</p>
+<p></p>Shahnama of <ref>Abü-'A Muhammad</ref>, i, 69.</p>
+
+Every combination of statement + references should be a separate paragraph.
+Always fill out dangling prepostions such as "of" followed by ","
+
+Example:
+<p><term>'Abbasid</term>, <term>'Abbasids</term>, Muhammadan dynasty, vi, 327. Rise of, i, 13. Fall of, i, 14.</p>
+
+Should be:
+<p><term>'Abbasids</term>.</p>
+<p> Muhammadan dynasty, vi, 327. </p>
+    <p>Rise of the <term>'Abbasids</term>, i, 13.</p>
+    <p> Fall of the <term>'Abbasids</term>, i, 14.</p>
+
+The text:
+<p><term>Abu Mansur bin Muhammad</term>, son of the above (?), i, 139. Patron of Firdausi, i, 29, 110. Murdered, i, 29, 111. Praise of, i, 110. Advice of, to Firdausi, i, 111.</p>
+
+Should be:
+<p><term>Abu Mansur bin Muhammad</term>, son of the above (?), i, 139. </p>
+<p>Praise of <ref>Abu Mansur bin Muhammad</ref>, i, 110.</p>
+<p> Advice of, <ref>Abu Mansur bin Muhammad</ref>to Firdausi, i, 111.</p>
+
+In the output box, wrap the lines.
+Here is the passage:

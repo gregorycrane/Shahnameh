@@ -1,0 +1,1 @@
+furtherormat the provided text into TEI XML, adhering to my guidelines: rejoining hyphenated words, adding <q> tags for quoted speech, removing extra quotation marks, tagging page breaks with <pb/>, looking for footnotes to include with <note/> tags, and using <p/> for paragraphs. If the passage is too long, you will stop and ask for further instructions.

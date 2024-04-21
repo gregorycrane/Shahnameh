@@ -1,0 +1,15 @@
+
+
+1.  Add TEI XML tags: 
+
+add <lb/> for each line that begins with a word; 
+convert quotation marks to <q/> for quotations: 
+    “The time  --> <q>The time
+    our sword.” --> our sword.</q>
+tag named entities: <placeName/> for placenames; <persName/> for personal names;
+
+2. Do not change any existing TEI markjp.
+
+3. Correct any OCR errors.
+
+4. Here is the text to turn into TEI XML:

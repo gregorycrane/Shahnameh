@@ -4103,7 +4103,7 @@ Our offering shall be our tears and groans,
 And when he groweth up our hoards and thrones.</q></q></p>
 </div>
 
-<div type="textpart" subtype="section" n="37"><head>How Faridun received his Sons' Message</head>
+<div type="textpart" subtype="section" n="17"><head>How Faridun received his Sons' Message</head>
 
 <p>Charged with these words, and doubting what would follow,
 The envoy reached the portal of the Shah
@@ -4155,7 +4155,7 @@ And purchase back from him Iraj's blood
 With wealth, brocade, dinars, and jewelry.
 The monarch heard the speech and answered it ;
 Like key to lock so did the answer fit.</p></div>
-<div type="textpart" subtype="section" n="13"><head>How Faridtin made Answer to his Sons</head>
+<div type="textpart" subtype="section" n="18"><head>How Faridtin made Answer to his Sons</head>
 
 <p>The Shah, when he had heard the message sent
 By his two wicked sons, said to the envoy :—
@@ -4629,13 +4629,12 @@ And as the avenger was both young and brave,
 The messenger approached with confidence
 And laid the head of Tur before the Shah,
 Who prayed to God, the righteous Judge, to pour
-On Minuchihr his blessings evermore.
+On Minuchihr his blessings evermore.</p>
+</div>
 <pb n="223"/>
 
-
-
-How Karan took the Castle of the Alans
-News of the fight and of that Moon's eclipse
+<div type="textpart" subtype="section" n="23"><head>How Karan took the Castle of the Alans</head>
+<p>News of the fight and of that Moon's eclipse
 Reached Salm, who purposed making a retreat
 Upon a lofty castle in his rear ;
 Such are the ups and downs which fortune hath!
@@ -6058,7 +6057,7 @@ For fear lest scandal might result and dim
 His glory. Thus heaven oft revolved above,
 And all the while his heart was full of love.</p></div>
 
-<div type="textpart" subtype="section" n="38"><head>How Riddba took Counsel with her Damsels</head>
+<div type="textpart" subtype="section" n="8"><head>How Riddba took Counsel with her Damsels</head>
 
 <p>It came to pass that at the dawn one day
 Mihrab walked stately from the audience-chamber,

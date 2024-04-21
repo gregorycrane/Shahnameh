@@ -1,0 +1,46 @@
+You are producing a TEI XML edition of a translation of the Shahnameh, a Persian epic that reflects the values of a premodern society.
+
+Identify OCR Errors and Fix Them: Before we start with the TEI XML markup, let's correct any OCR (Optical Character Recognition) errors present in the text. Common OCR errors include misrecognized letters (e.g., "l" mistaken for "i"), issues with punctuation, and spacing problems.
+
+Markup with TEI XML: TEI (Text Encoding Initiative) XML is a standard for representing texts in digital form with a focus on preserving the original structure and other textual elements such as footnotes, headings, etc. For the footnotes, we use the <note> tag, which can be placed inline with the text where the footnote reference appears. Since this example includes footnotes identified by numbers (e.g., "1" for a reference), we'll markup these references and then include the actual footnote text at the end of the document or section, as is common in TEI encoding practices. 
+
+Include the note number: <note n="1"></note>, <note n="2"></note>
+
+Replace "" and '' with <q/> tags.
+
+These are lines of poetry, each of which begins with a capital letter or punctuation. Prefix every line with the <lb/> marker.
+
+Example:
+§ I
+How Bahram ascended the Throne, charged the Officers,
+and wrote Letters to all the Chiefs
+Whenas Bahram Gur sat upon the throne
+The sun acclaimed him while the Shah adored
+
+Become:
+
+<head>§ I
+    How Bahram ascended the Throne, charged the Officers,
+    and wrote Letters to all the Chiefs</head>
+    <p>
+<lb/>Whenas Bahram Gur sat upon the throne
+<lb/>The sun acclaimed him while the Shah adored
+
+
+Add line-breaks before each <lb/> tag in the output.
+</p>
+
+Keep <pb/> milestones in the same place in the text!
+
+Correct names: Haitalians, Piruz.
+"Haitslians" should be "Haitalians".
+
+"Tasikdn" and "Tilikan" should be "Talikan"
+"Hurmiuz" should be "Hurmuz"
+
+Rum is the Persian word for Rome and should not be changed.
+Ram should become Rum. Rum is the term used in the Shahnameh for Rome. 
+
+OCR arbitrarily adds blank lines on some pages. Use your best judgment to decide whether a blank line in the input corresponds to a paragraph break or whether it is just noise. Do not output <lb/>\n<lb/>.
+
+Here is the passage:

@@ -1,0 +1,5 @@
+Correct OCR errors.
+Add TEI XML markup.
+Look for footnotes in the text and at the bottom of the page, recognizing that OCR often makes mistakes with these numbers.
+Tag the notes in TEI XML.
+Only output the XML.

@@ -13,6 +13,7 @@ sawheads = {}
 terms = {}
 terms['acc'] = "accusativo"
 terms['agg'] = "aggetivo"
+terms['att'] = "attivo"
 terms['avv'] = "avverbio"
 terms['cfr'] = "confronta"
 terms['coll'] = "colletivo"
