@@ -111,7 +111,7 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 
 <div type="textpart" subtype="entry" xml:id="âbâd-1">
 <head xml:lang="fas">
-آباد
+آyakî
 </head>
 <head xml:lang="fas-tr">âbâd</head>
 <p><gloss>ameno, giocondo</gloss>; <gloss>lieto, allegro, contento, felice</gloss>; -- <foreign xml:lang="fas-tr">â. dâštan</foreign>, <gloss>conservare in prospero e florido stato</gloss>; <foreign xml:lang="fas-tr">â. kardan</foreign>, <gloss>abbellire</gloss>, <gloss>adornare</gloss>; <gloss>coltivare (la terra)</gloss>.
@@ -673,7 +673,7 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 اش
 </head>
 <head xml:lang="fas-tr">aš</head>
-<p><gloss>scritto così dopo i nomi in</gloss> <foreign xml:lang="fas-tr">ah</foreign>, come: <foreign xml:lang="fas">افسانه اش</foreign> <foreign xml:lang="fas-tr">afsânah aš</foreign>, il suo incanto, <term n="v">vedi</term> <foreign xml:lang="fas">ش</foreign> <foreign xml:lang="fas-tr">aš</foreign>.
+<p><gloss>scritto così dopo i nomi in</gloss> <foreign xml:lang="fas-tr">ah</foreign>, come: <foreign xml:lang="fas">افسانه اش</foreign> <foreign xml:lang="fas-tr">afsânah aš</foreign>, <gloss>il suo incanto</gloss>, <term n="v">vedi</term> <foreign xml:lang="fas">ش</foreign> <foreign xml:lang="fas-tr">aš</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="âšâm-1">
@@ -758,7 +758,7 @@ di grammatica persiana e un vocabolario del dott. prof. Italo Pizzi</title>
 
 <div type="textpart" subtype="entry" xml:id="âġâz-1">
 <head xml:lang="fas">
-$1<gloss>$2</gloss>$3از
+آغاز
 </head>
 <head xml:lang="fas-tr">âġâz</head>
 <p><gloss>principio</gloss>; <foreign xml:lang="fas-tr">az âghâz</foreign>, <gloss>da principio</gloss>.
@@ -1030,7 +1030,7 @@ $1<gloss>$2</gloss>$3از
 
 <div type="textpart" subtype="entry" xml:id="âgah-1">
 <head xml:lang="fas">
-$1<gloss>$2</gloss>$3ه
+اگه
 </head>
 <head xml:lang="fas-tr">âgah</head>
 <p><gloss>consapevole, che sa, che conosce, conscio, esperto</gloss>; <foreign xml:lang="fas-tr">âgah šudan</foreign>, <gloss>esser consapevole, essere informato</gloss>; - <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">âkâs</foreign>, pârsi âgâh, <term n="rad">radice</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">â</foreign> + kaç, osservare, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">kâg</foreign>.
@@ -1390,7 +1390,7 @@ $1<gloss>$2</gloss>$3ه
 اندک
 </head>
 <head xml:lang="fas-tr">andak</head>
-<p>(dimin. di and, pârsi añt, SPIEGEL, Gramm. der Pârsi-Spr. p. 73 e 118), <gloss>poco, un poco</gloss>; --  <foreign xml:lang="fas-tr">andakî</foreign> (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>) <gloss>un poco; con la negaz., nemmeno un poco; nulla, niente</gloss>.
+<p>(dimin. di <foreign xml:lang="fas-tr">and</foreign>, pârsi <foreign>añṭ</foreign>, SPIEGEL, Gramm. der Pârsi-Spr. p. 73 e 118), <gloss>poco, un poco</gloss>; --  <foreign xml:lang="fas-tr">andakî</foreign> (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>) <gloss>un poco; con la negaz., nemmeno un poco; nulla, niente</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="andûh-1">
@@ -1486,7 +1486,7 @@ $1<gloss>$2</gloss>$3ه
 او
 </head>
 <head xml:lang="fas-tr">û</head>
-<p><foreign xml:lang="fas">اوی</foreign>  <foreign xml:lang="fas-tr">ûy</foreign> (ô), pron. <term n="pers">persona</term> <gloss>egli, ella</gloss>; <gloss>esso, essa</gloss>; al <term n="dat">dativo</term>, <gloss>con la partic</gloss>. bi- inserisce un d, bi-d-u, a lui; col <term n="pron. rel">pronome relativo</term> kih, fa kû, il quale, la quale, ecc.; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">E</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">ava</foreign>.
+<p><foreign xml:lang="fas">اوی</foreign>  <foreign xml:lang="fas-tr">ûy</foreign> (ô), pron. <term n="pers">persona</term> <gloss>egli, ella</gloss>; <gloss>esso, essa</gloss>; al <term n="dat">dativo</term>, <gloss>con la partic</gloss>. <foreign xml:lang="fas-tr">bi-</foreign> inserisce un d, <foreign xml:lang="fas-tr">bi-d-u</foreign>, <gloss>a lui</gloss>; col <term n="pron. rel">pronome relativo</term> <foreign xml:lang="fas-tr">kih</foreign>, fa <foreign xml:lang="fas-tr">kû</foreign>, <gloss>il quale, la quale</gloss>, ecc.; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">E</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">ava</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="âvâ-1">
@@ -1892,7 +1892,7 @@ $1<gloss>$2</gloss>$3ه
 با
 </head>
 <head xml:lang="fas-tr">bâ</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">bâyżst</ref>, verb. impers., esser necessario, esser conveniente, opportuno, <term n="cfr">confronta</term> Gramm. 93; <foreign xml:lang="fas-tr">tu-râ bûd bâyad piš-rav</foreign>, a te conviene essere capitano; <term n="part">participio</term> <foreign xml:lang="fas-tr">bâyistah</foreign>, <gloss>conveniente</gloss>, <gloss>acconcio</gloss>; <gloss>proficuo</gloss>; - <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">avayastano</foreign>.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">bâyżst</ref>, <term>verb. impers.</term>, esser necessario, esser conveniente, opportuno, <term n="cfr">confronta</term> Gramm. 93; <foreign xml:lang="fas-tr">tu-râ bûd bâyad piš-rav</foreign>, a te conviene essere capitano; <term n="part">participio</term> <foreign xml:lang="fas-tr">bâyistah</foreign>, <gloss>conveniente</gloss>, <gloss>acconcio</gloss>; <gloss>proficuo</gloss>; - <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">avayastano</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bâb-1">
@@ -1905,7 +1905,7 @@ $1<gloss>$2</gloss>$3ه
 
 <div type="textpart" subtype="entry" xml:id="bâb-zan-1">
 <head xml:lang="fas">
-بابزن
+باyakîن
 </head>
 <head xml:lang="fas-tr">bâb-zan</head>
 <p><gloss>spiedo.</gloss>
@@ -1924,7 +1924,7 @@ $1<gloss>$2</gloss>$3ه
 باد
 </head>
 <head xml:lang="fas-tr">bâd</head>
-<p><gloss>vento, turbine, procella</gloss>; <term n="metaf">metaforicamente</term> <gloss>superbia, vanto</gloss>; <foreign xml:lang="fas-tr">bâd i sard</foreign> <gloss>(vento freddo</gloss>), <gloss>gemito, sospiro; affanno</gloss>; <foreign xml:lang="fas-tr">bâd i sard zadan</foreign>, <gloss>sospirare</gloss>; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">vâta</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">ventus</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">vinds</foreign> (<term n="rad">radice</term> <foreign xml:lang="fas-tr">vâ</foreign>, <gloss>spirare</gloss>).
+<p><gloss>vento, turbine, procella</gloss>; <term n="metaf">metaforicamente</term> <gloss>superbia, vanto</gloss>; <foreign xml:lang="fas-tr">bâd i sard</foreign> (<gloss>vento freddo</gloss>), <gloss>gemito, sospiro; affanno</gloss>; <foreign xml:lang="fas-tr">bâd i sard zadan</foreign>, <gloss>sospirare</gloss>; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">vâta</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">ventus</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">vinds</foreign> (<term n="rad">radice</term> <foreign xml:lang="fas-tr">vâ</foreign>, <gloss>spirare</gloss>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bâd-2">
@@ -2365,13 +2365,13 @@ $1<gloss>$2</gloss>$3ه
 <p><term n="tps">tema di passato</term> di <ref xml:lang="fas-tr">bakhš</ref>.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="bad.-1">
+<div type="textpart" subtype="entry" xml:id="bad-1">
 <head xml:lang="fas">
 بد
 </head>
-<head xml:lang="fas-tr">bad.</head>
+<head xml:lang="fas-tr">bad</head>
 <div type="textpart" subtype="wsense" n="1">
-<p><gloss>cattivo, malvagio, perfido</gloss>; <term n="compar">comparativo</term> bad-tar e .battar; </p></div>
+<p><gloss>cattivo, malvagio, perfido</gloss>; <term n="compar">comparativo</term> <foreign xml:lang="fas-tr">bad-tar</foreign> e  <foreign xml:lang="fas-tr">battar</foreign>; </p></div>
 <div type="textpart" subtype="wsense" n="2">
 <p><gloss>male, malignità</gloss>; <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">vat</foreign>, pârsi vať, <term n="cfr">confronta</term> <term n="ingl:https://en.wikipedia.org/wiki/English_language">English</term> <foreign xml:lang="eng">bad</foreign>.
 </p>
@@ -2494,7 +2494,7 @@ $1<gloss>$2</gloss>$3ه
 بر
 </head>
 <head xml:lang="fas-tr">bar</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">burd</ref>, <gloss>portare</gloss>; <gloss>condurre</gloss>; <gloss>riportare, ottenere</gloss>; <gloss>vincere, superare</gloss> (con <foreign xml:lang="fas-tr">az</foreign>, <term n="cfr">confronta</term> franc. ,<gloss xml:lang="fra">emporter</gloss>); - <foreign xml:lang="fas-tr">furû burdan</foreign> portar giù, inclinare, abbassare; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">bar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">bhri</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">φέρ-ω</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">fer-o</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">bairan</foreign>.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">burd</ref>, <gloss>portare</gloss>; <gloss>condurre</gloss>; <gloss>riportare, ottenere</gloss>; <gloss>vincere, superare</gloss> (con <foreign xml:lang="fas-tr">az</foreign>, <term n="cfr">confronta</term> franc. ,<gloss xml:lang="fra">emporter</gloss>); - <foreign xml:lang="fas-tr">furû burdan</foreign> <gloss>portar giù, inclinare, abbassare</gloss>; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">e</foreign> <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">bar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">bhri</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">φέρ-ω</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">fer-o</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">bairan</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="bar-2">
@@ -3278,7 +3278,7 @@ $1<gloss>$2</gloss>$3ه
 
 <div type="textpart" subtype="entry" xml:id="bîdâd-gar-1">
 <head xml:lang="fas">
-بی$1<gloss>$2</gloss>$3گر
+بيدادگر
 </head>
 <head xml:lang="fas-tr">bîdâd-gar</head>
 <p>(bîdâd, ingiustizia, + suff, gar), ingiusto, iniquo.
@@ -3641,7 +3641,7 @@ $1<gloss>$2</gloss>$3ه
 پاک
 </head>
 <head xml:lang="fas-tr">pâk</head>
-<p><gloss>puro, mondo, illibato, santo</gloss>; libero, purificato: <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">pâk</foreign>.
+<p><gloss>puro, mondo, illibato, santo</gloss>; <gloss>libero, purificato</gloss>: <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">pâk</foreign>.
 
 
 <pb n="329"/>
@@ -4525,7 +4525,7 @@ $1<gloss>$2</gloss>$3ه
 پهلوی
 </head>
 <head xml:lang="fas-tr">pahlavî</head>
-<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), <gloss>eroico, guerresco</gloss>; <foreign xml:lang="fas-tr">gâmah i  pahla'i</foreign>. veste da indossar in battaglia, corazza.
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), <gloss>eroico, guerresco</gloss>; <foreign xml:lang="fas-tr">gâmah i  pahla'i</foreign>. <gloss>veste da indossar in battaglia, corazza</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="pahlavî-2">
@@ -4533,7 +4533,7 @@ $1<gloss>$2</gloss>$3ه
 پهلوی
 </head>
 <head xml:lang="fas-tr">pahlavî</head>
-<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), pehlevi, pehlevico, lingua pehlevica Con tal nome viene designata comunemente la lingua dell'Iran al tempo dei Sassanidi (222-650 d. C.), detta anche <foreign>huzvâreš</foreign>, singolarmente commista di parole caldaiche e siriache. Sul nome, sulla patria, sul tempo di questa lingua si è scritto assai, ne ancora sono sciolte tutte le questioni che la riguardano. Pare più vera di tutte l'opinione che vede in essa una vera lingua, nella quale però le parole siriache e caldaiche erano state introdotte come ideogrammi, da leggersi con parole corrispondenti iraniche. Secondo, infatti, un passo del Kitab al-Fihrist (p. 14, 13 ed. FLÜGEL), nella lettura di testi pehlevici, alle parole semitiche si sostituivano le genuine iraniche, come <term n="p. e">per esempio</term> <foreign xml:lang="fas-tr">bisrâ</foreign> (<term n="cald:https://en.wikipedia.org/wiki/Chaldean_Neo-Aramaic">Chaldean</term> <foreign xml:lang="cld-tr">e</foreign> sir., carne) veniva letto <foreign xml:lang="fas-tr">gûšt</foreign> (<term n="pers">persona</term>, carne) Il nome pahlavi poi che significherebbe l'età degli Eroi (SPIEGEL, Heldenthum; cfr, <foreign xml:lang="fas-tr">pahlav</foreign>, <foreign xml:lang="fas-tr">pahlavân</foreign>, eroe), sarebbe stato dato a questa lingua solo per designare il tempo in cui essa era parlata, al tempo <pb n="337"/> degli eroi, all'età cioè antica; cosicchè <foreign xml:lang="fas-tr">zubân i pahlavi</foreign>, lingua pehlevica, altro non significherebbe che lingua dei tempi antichi, dell'antichità, allo stesso modo che gli Arabi chiamano 
+<p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), <gloss>pehlevi, pehlevico, lingua pehlevica</gloss>. Con tal nome viene designata comunemente la lingua dell'Iran al tempo dei Sassanidi (222-650 d. C.), detta anche <foreign>huzvâreš</foreign>, singolarmente commista di parole caldaiche e siriache. Sul nome, sulla patria, sul tempo di questa lingua si è scritto assai, ne ancora sono sciolte tutte le questioni che la riguardano. Pare più vera di tutte l'opinione che vede in essa una vera lingua, nella quale però le parole siriache e caldaiche erano state introdotte come ideogrammi, da leggersi con parole corrispondenti iraniche. Secondo, infatti, un passo del Kitab al-Fihrist (p. 14, 13 ed. FLÜGEL), nella lettura di testi pehlevici, alle parole semitiche si sostituivano le genuine iraniche, come <term n="p. e">per esempio</term> <foreign xml:lang="fas-tr">bisrâ</foreign> (<term n="cald:https://en.wikipedia.org/wiki/Chaldean_Neo-Aramaic">Chaldean</term> <foreign xml:lang="cld-tr">e</foreign> sir., carne) veniva letto <foreign xml:lang="fas-tr">gûšt</foreign> (<term n="pers">persona</term>, carne) Il nome pahlavi poi che significherebbe l'età degli Eroi (SPIEGEL, Heldenthum; cfr, <foreign xml:lang="fas-tr">pahlav</foreign>, <foreign xml:lang="fas-tr">pahlavân</foreign>, eroe), sarebbe stato dato a questa lingua solo per designare il tempo in cui essa era parlata, al tempo <pb n="337"/> degli eroi, all'età cioè antica; cosicchè <foreign xml:lang="fas-tr">zubân i pahlavi</foreign>, lingua pehlevica, altro non significherebbe che lingua dei tempi antichi, dell'antichità, allo stesso modo che gli Arabi chiamano 
     <foreign xml:lang="ara">
         جاهليّة
     </foreign>     (<foreign xml:lang="ara-tr">gâhiliyyah</foreign>), ignoranza o età dell'ignoranza, l'età anteriore a Maometto, e noi usiamo dir Gentilesimo e Paganesimo i tempi anteriori all' E. V. - Per maggiori notizie, V. SPIEGEL, <title>Erân. Alterth.</title> II, p. 734 e segg.; Arische Studien, p. 78 e segg.; Avesta-Uebersetz. I, p. 277; Gramm. der Huz. Spr. (nell' Introd.); HAUG, <title>Essay on the Pahlavi language</title>; HARLEZ, <title>Manuel du Pehlevi</title>.
@@ -6351,7 +6351,7 @@ $1<gloss>$2</gloss>$3ه
 جهان
 </head>
 <head xml:lang="fas-tr">ǧihân</head>
-<p><gloss>mondo, la terra abitata</gloss>; <gloss>la gente del mondo, gli uomini</gloss>; <gloss>la sorte, il destino</gloss>; — <ref xml:lang="fas-tr">yak gihân</ref>, tutto un mondo, tutta una gran folla di gente (tout le monde); – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaetha</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gaitha</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">gêhân</foreign>.
+<p><gloss>mondo, la terra abitata</gloss>; <gloss>la gente del mondo, gli uomini</gloss>; <gloss>la sorte, il destino</gloss>; — <ref xml:lang="fas-tr">yak gihân</ref>, <gloss>tutto un mondo, tutta una gran folla di gente (tout le monde)</gloss>; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaetha</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gaitha</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">gêhân</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ǧihân-âfarîn-1">
@@ -6459,12 +6459,12 @@ $1<gloss>$2</gloss>$3ه
 <p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">î</foreign>), <gloss>mondano, terreno</gloss>; <term n="coll">colletivo</term> gli uomini, il genere umano.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="čâr.-1">
+<div type="textpart" subtype="entry" xml:id="čâr-1">
 <head xml:lang="fas">
 چار
 </head>
-<head xml:lang="fas-tr">čâr.</head>
-<p><ref xml:lang="fas-tr">cahâr</ref>.
+<head xml:lang="fas-tr">čâr</head>
+<p><ref xml:lang="fas-tr">čahâr</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čâr-pây-1">
@@ -6472,7 +6472,7 @@ $1<gloss>$2</gloss>$3ه
 چارپای
 </head>
 <head xml:lang="fas-tr">čâr-pây</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">pây</ref>, <gloss>piede</gloss>), <gloss>quadrupede</gloss>; <term n="coll">colletivo</term> Qua drupedi, bestiame domestico.
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">pây</ref>, <gloss>piede</gloss>), <gloss>quadrupede</gloss>; <term n="coll">colletivo</term> <gloss>Quadrupedi, bestiame domestico</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čâra-st-1">
@@ -6601,7 +6601,17 @@ $1<gloss>$2</gloss>$3ه
 چرا
 </head>
 <head xml:lang="fas-tr">či-râ</head>
-<p>(čih + râ), perchè? a che? sla cirâgh, lucerna, lume (<term n="cfr">confronta</term> <term n="sir:https://en.wikipedia.org/wiki/Syriac_language">Syriac</term> <foreign xml:lang="syc-tr">šrogó</foreign>, <term n="cald:https://en.wikipedia.org/wiki/Chaldean_Neo-Aramaic">Chaldean</term> <foreign xml:lang="cld-tr">šerâgû</foreign>, <term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">sirâğ</foreign>, tutti dal <term n="pers">persona</term>).
+<p>(čih + râ), perchè? a che? 
+    
+</p></div>
+
+<div type="textpart" subtype="entry" xml:id="čirâgh-1">
+<head xml:lang="fas">
+چراغ
+</head>
+<head xml:lang="fas-tr">čirâgh</head>   
+    
+<p><gloss>lucerna, lume</gloss> (<term n="cfr">confronta</term> <term n="sir:https://en.wikipedia.org/wiki/Syriac_language">Syriac</term> <foreign xml:lang="syc-tr">šrogó</foreign>, <term n="cald:https://en.wikipedia.org/wiki/Chaldean_Neo-Aramaic">Chaldean</term> <foreign xml:lang="cld-tr">šerâgû</foreign>, <term n="ar:https://en.wikipedia.org/wiki/Arabic">Arabic</term> <foreign xml:lang="ara-tr">sirâğ</foreign>, tutti dal <term n="pers">persona</term>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čarb-1">
@@ -6817,7 +6827,7 @@ $1<gloss>$2</gloss>$3ه
 چنان
 </head>
 <head xml:lang="fas-tr">čunân</head>
-<p>(<term n="cfr">confronta</term> <foreign xml:lang="fas-tr">ân</foreign>; <gloss>quello</gloss>), <gloss>quel tale, cotale</gloss>; <term n="avv">avverbio</term> In quel modo; così come.
+<p>(<term n="cfr">confronta</term> <foreign xml:lang="fas-tr">ân</foreign>; <gloss>quello</gloss>), <gloss>quel tale, cotale</gloss>; <term n="avv">avverbio</term> <gloss>In quel modo; così come</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čun-ân-čûn-1">
@@ -6894,7 +6904,7 @@ $1<gloss>$2</gloss>$3ه
 چو
 </head>
 <head xml:lang="fas-tr">čû</head>
-<p><term n="v">vedi</term> <ref xml:lang="fas-tr">cûn</ref>.
+<p><term n="v">vedi</term> <ref xml:lang="fas-tr">čûn</ref>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="čûb-1">
@@ -7176,7 +7186,7 @@ $1<gloss>$2</gloss>$3ه
 خاک
 </head>
 <head xml:lang="fas-tr">ḫâk</head>
-<p><gloss>terra, suolo, polvere</gloss>; <gloss>— khâk i nav, terra smossa di recente</gloss>; - <foreign xml:lang="fas-tr">khâk bar târak i khviš bar
+<p><gloss>terra, suolo, polvere</gloss>; — <foreign xml:lang="fas-tr">khâk i nav</foreign>, <gloss>terra smossa di recente</gloss>; - <foreign xml:lang="fas-tr">khâk bar târak i khviš bar
 
 
 <pb n="358"/>
@@ -7872,7 +7882,7 @@ $1<gloss>$2</gloss>$3ه
 خواه
 </head>
 <head xml:lang="fas-tr">ḫvâh</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">khvâst</ref>, <gloss>desiderare</gloss>, volere, cercare. Si adopera nei futuri (Gramm. 88, 89), come: laškari khvâham kard, voglio (<foreign xml:lang="grc">μέλλω</foreign>) radunare un esercito, sto per radunarlo; - <term n="part">participio</term> <term n="pres">presente</term> <foreign xml:lang="fas-tr">khvâhandah</foreign>, <gloss>mendico</gloss>, pezzente, <term n="pl">plurale</term> <foreign xml:lang="fas-tr">khvâhandagân</foreign>; - <term n="part">participio</term> <term n="passat">passato</term> <foreign xml:lang="fas-tr">khvâstah</foreign>, <term n="coll">colletivo</term> ogni cosa che si cerca, ogni cosa che si domanda o si acquista, quindi: suppellettili di casa, le provvigioni e le masserizie di un esercito, <foreign xml:lang="grc">σκεύη</foreign>; <gloss>ricchezze, sostanze possessi, ktýuata</gloss>; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gâš</foreign> (gustare), <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">svad</foreign> (<term n="cfr">confronta</term> <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ἡδύς</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ἁδύς</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">σϝαδυ-</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">suavis</foreign> per <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">suadvis)</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">khvâçtano</foreign>, pârsi gâçtan.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">khvâst</ref>, <gloss>desiderare, volere, cercare</gloss>. Si adopera nei futuri (Gramm. 88, 89), come: <foreign xml:lang="fas-tr">laškari khvâham kard</foreign>, <gloss>voglio (<foreign xml:lang="grc">μέλλω</foreign>) radunare un esercito, sto per radunarlo</gloss>; - <term n="part">participio</term> <term n="pres">presente</term> <foreign xml:lang="fas-tr">khvâhandah</foreign>, <gloss>mendico, pezzente</gloss>, <term n="pl">plurale</term> <foreign xml:lang="fas-tr">khvâhandagân</foreign>; - <term n="part">participio</term> <term n="passat">passato</term> <foreign xml:lang="fas-tr">khvâstah</foreign>, <term n="coll">colletivo</term> <gloss>ogni cosa che si cerca, ogni cosa che si domanda o si acquista, quindi: suppellettili di casa, le provvigioni e le masserizie di un esercito, <foreign xml:lang="grc">σκεύη</foreign></gloss>; <gloss>ricchezze, sostanze possessi, ktýuata</gloss>; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gâš</foreign> (gustare), <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">svad</foreign> (<term n="cfr">confronta</term> <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ἡδύς</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ἁδύς</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">σϝαδυ-</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">suavis</foreign> per <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">suadvis)</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">khvâçtano</foreign>, pârsi gâçtan.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ḫvâhiš-1">
@@ -8711,7 +8721,7 @@ $1<gloss>$2</gloss>$3ه
 دری
 </head>
 <head xml:lang="fas-tr">darî</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">dar</ref>, <gloss>reggia</gloss>, + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">a</foreign>), <gloss>cortigiano, cortigia nesco</gloss>; – <term n="n. pr">nome proprio</term> di una lingua, lingua cioè di corte (<term n="cfr">confronta</term> il sermo aulicus di Dante), lingua più nobile ed eletta; Firdusi appunto scrisse in questa lingua. «Es wurde von den Personen des königlichen Hofes gesprochen, daher bekam es den Namen so», SPIEGEL, Gramm. der Huzvâr. Spr. p. 15.
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">dar</ref>, <gloss>reggia</gloss>, + <term n="suff">suffisso</term> <foreign xml:lang="fas-tr">a</foreign>), <gloss>cortigiano, cortigia nesco</gloss>; – <term n="n. pr">nome proprio</term> di una lingua, lingua cioè di corte (<term n="cfr">confronta</term> il <gloss xml:lang="lat">sermo aulicus</gloss> di Dante), <gloss>lingua più nobile ed eletta</gloss>; Firdusi appunto scrisse in questa lingua. <cit><quote xml:lang="deu">Es wurde von den Personen des königlichen Hofes gesprochen, daher bekam es den Namen so.</quote> <bibl>SPIEGEL, Gramm. der Huzvâr. Spr. p. 15</bibl></cit>
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="daryâ-1">
@@ -9032,7 +9042,7 @@ $1<gloss>$2</gloss>$3ه
 دلیر
 </head>
 <head xml:lang="fas-tr">dilîr</head>
-<p>(e), <gloss>coraggioso, animoso</gloss>; <gloss>feroce</gloss>; <gloss>forte</gloss>; <gloss>audace, ardito</gloss>; – <term n="pl">plurale</term> <foreign xml:lang="fas-tr">dilîrân</foreign>, <gloss>eroi</gloss>, magnati, principi.
+<p>(ê), <gloss>coraggioso, animoso</gloss>; <gloss>feroce</gloss>; <gloss>forte</gloss>; <gloss>audace, ardito</gloss>; – <term n="pl">plurale</term> <foreign xml:lang="fas-tr">dilîrân</foreign>, <gloss>eroi, magnati, principi</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="dilîrî-1">
@@ -9263,7 +9273,7 @@ $1<gloss>$2</gloss>$3ه
 دوش
 </head>
 <head xml:lang="fas-tr">dûš</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">dûšîd</ref>, mungere; — <term n="part">participio</term> <foreign xml:lang="fas-tr">dûšâ</foreign>, <gloss>che: si munge</gloss>; <foreign xml:lang="fas-tr">gâv i dûšâ</foreign>, <gloss>vacca da latte</gloss>; - <term n="part">participio</term> <term n="pl">plurale</term> <foreign xml:lang="fas-tr">dûšandagân</foreign> (da <foreign xml:lang="fas-tr">dû šandah</foreign>), <gloss>servi che attendono al mungere, custodi di mandre</gloss>; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">dug</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">duh</foreign>.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">dûšîd</ref>, mungere; — <term n="part">participio</term> <foreign xml:lang="fas-tr">dûšâ</foreign>, <gloss>che si munge</gloss>; <foreign xml:lang="fas-tr">gâv i dûšâ</foreign>, <gloss>vacca da latte</gloss>; - <term n="part">participio</term> <term n="pl">plurale</term> <foreign xml:lang="fas-tr">dûšandagân</foreign> (da <foreign xml:lang="fas-tr">dû šandah</foreign>), <gloss>servi che attendono al mungere, custodi di mandre</gloss>; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">dug</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">duh</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="dûšîd-1">
@@ -9587,7 +9597,7 @@ $1<gloss>$2</gloss>$3ه
 ران
 </head>
 <head xml:lang="fas-tr">rân</head>
-<p><gloss>coscia</gloss>; - <foreign xml:lang="fas-tr"><abbr n="r">rân</abbr> afšurdan</foreign>, <gloss>stringer le coscie (stando in sella)</gloss>; – 1. tiz kardan, eccitare, spingere (<term n="lett">letteralmente</term> far veloce la gamba); -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">râna</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">rân</foreign>.
+<p><gloss>coscia</gloss>; - <foreign xml:lang="fas-tr"><abbr n="r">rân</abbr> afšurdan</foreign>, <gloss>stringer le coscie (stando in sella)</gloss>; – <foreign xml:lang="fas-tr">rân tiz kardan</foreign>, eccitare, spingere (<term n="lett">letteralmente</term> <gloss>far veloce la gamba</gloss>); -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">râna</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">rân</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="rând-1">
@@ -10102,7 +10112,7 @@ $1<gloss>$2</gloss>$3ه
 روز
 </head>
 <head xml:lang="fas-tr">rûz</head>
-<p>(ô), giorno; – <foreign xml:lang="fas-tr">rûzi</foreign>, e <foreign xml:lang="fas-tr">yakî rûz</foreign>, <term n="avv">avverbio</term> <gloss>un giorno, una volta</gloss>; – <foreign xml:lang="fas-tr">digar e digar rûz</foreign>, <term n="avv">avverbio</term> <gloss>al giorno seguente, all'altro giorno</gloss>; – <foreign xml:lang="fas-tr">sivum rûs</foreign>, <term n="avv">avverbio</term> <gloss>al terzo giorno</gloss>; – <foreign xml:lang="fas-tr"><abbr n="r">rûz</abbr> paymûdan</foreign>, <gloss>passare, scorrere i giorni</gloss>; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">raočanh</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">rauča</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">rocis</foreign>, <term n="arm:https://en.wikipedia.org/wiki/Classical_Armenian">Classical Armenian</term> <foreign xml:lang="xcl-tr">luiç</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">lux</foreign>, <term n="cfr">confronta</term> <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">λευκός</foreign>, hûxvos.
+<p>(ô), <gloss>giorno</gloss>; – <foreign xml:lang="fas-tr">rûzi</foreign>, e <foreign xml:lang="fas-tr">yakî rûz</foreign>, <term n="avv">avverbio</term> <gloss>un giorno, una volta</gloss>; – <foreign xml:lang="fas-tr">digar e digar rûz</foreign>, <term n="avv">avverbio</term> <gloss>al giorno seguente, all'altro giorno</gloss>; – <foreign xml:lang="fas-tr">sivum rûs</foreign>, <term n="avv">avverbio</term> <gloss>al terzo giorno</gloss>; – <foreign xml:lang="fas-tr"><abbr n="r">rûz</abbr> paymûdan</foreign>, <gloss>passare, scorrere i giorni</gloss>; – <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">raočanh</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">rauča</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">rocis</foreign>, <term n="arm:https://en.wikipedia.org/wiki/Classical_Armenian">Classical Armenian</term> <foreign xml:lang="xcl-tr">luiç</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">lux</foreign>, <term n="cfr">confronta</term> <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">λευκός</foreign>, hûxvos.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="rûz-bân-1">
@@ -10664,12 +10674,12 @@ $1<gloss>$2</gloss>$3ه
 <p>(<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">în</foreign>), <gloss>aureo, fabbricato in oro</gloss>; <term n="cfr">confronta</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">zaranaêna</foreign>.
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="zarîin-sitâm-1">
+<div type="textpart" subtype="entry" xml:id="zarrîn-sitâm-1">
 <head xml:lang="fas">
-زرین-ستام
+زرّین-ستام
 </head>
-<head xml:lang="fas-tr">zarîin-sitâm</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">sitâm</ref>, <gloss>briglie</gloss>, barde, ornamenti d'un cavallo), cavallo che ha le briglie e le barde dorate.
+<head xml:lang="fas-tr">zarrîn-sitâm</head>
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">sitâm</ref>, <gloss>briglie, barde, ornamenti d'un cavallo</gloss>), <gloss>cavallo che ha le briglie e le barde dorate</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="zarrîn-niyâm-1">
@@ -11234,7 +11244,7 @@ $1<gloss>$2</gloss>$3ه
 سان
 </head>
 <head xml:lang="fas-tr">sân</head>
-<p><gloss>modo, maniera, guisa, costume</gloss>; – <foreign xml:lang="fas-tr">bi-sân i</foreign>, a guisa di ..., come.
+<p><gloss>modo, maniera, guisa, costume</gloss>; – <foreign xml:lang="fas-tr">bi-sân i</foreign>, <gloss>a guisa di ..., come</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sâv-1">
@@ -11360,7 +11370,7 @@ $1<gloss>$2</gloss>$3ه
 سپر
 </head>
 <head xml:lang="fas-tr">sipar</head>
-<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">sipard</ref>, <gloss>calcare</gloss>, <gloss>calpestare, pestare, premere coi piedi</gloss>; — <term n="part">participio</term> <foreign xml:lang="fas-tr">sipardah</foreign> zamin, che ha <pb n="396"/> percorsa molta terra, o molta via (ovv, sipurdah?. V. sipâr); — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">spar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">sphur</foreign>.
+<p><term n="tpr">tema di presente</term> di <ref xml:lang="fas-tr">sipard</ref>, <gloss>calcare</gloss>, <gloss>calpestare, pestare, premere coi piedi</gloss>; — <term n="part">participio</term> <foreign xml:lang="fas-tr">sipardah zamîn</foreign>, che ha <pb n="396"/> <gloss>percorsa molta terra, o molta via</gloss> (ovv. <foreign xml:lang="fas-tr">sipurdah</foreign>?. V. <foreign xml:lang="fas-tr">sipâr</foreign>); — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">spar</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">sphur</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sipar-2">
@@ -11810,7 +11820,15 @@ $1<gloss>$2</gloss>$3ه
 سرخوش
 </head>
 <head xml:lang="fas-tr">sar-ḫvaš</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">khvaš</ref>, <gloss>buono</gloss>, piacevole), lieto, contento, allegro. you sard, freddo, rigido; — bâd i sard, <term n="v">vedi</term> <foreign xml:lang="fas-tr">bâd</foreign>; Za çareta, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">gart;</foreign> <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">çiçira</foreign>. 93
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">khvaš</ref>, <gloss>buono</gloss>, piacevole), lieto, contento, allegro. 
+</p></div>
+
+<div type="textpart" subtype="entry" xml:id="sard-1">
+<head xml:lang="fas">
+سرد
+</head>
+<head xml:lang="fas-tr">sard</head>    
+<p><gloss>freddo, rigido</gloss>; — <foreign xml:lang="fas-tr">bâd i sard</foreign>, <term n="v">vedi</term> <foreign xml:lang="fas-tr">bâd</foreign>; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">çareta</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">gart;</foreign> <term n="cfr">confronta</term> <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">çiçira</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sar-dirav-1">
@@ -12185,7 +12203,7 @@ $1<gloss>$2</gloss>$3ه
 سو
 </head>
 <head xml:lang="fas-tr">sû</head>
-<p><gloss>anche</gloss> <foreign xml:lang="fas">سوی</foreign>  <foreign xml:lang="fas-tr">sûy</foreign>, <gloss>luogo</gloss>; <gloss>direzione</gloss>; <gloss>parte</gloss>; – <foreign xml:lang="fas-tr">az yak suv-am</foreign> (per <foreign xml:lang="fas-tr">su-am</foreign>, o <foreign xml:lang="fas-tr">sûy-am</foreign>), <gloss>da questa sola parte verso di me</gloss>; – <foreign xml:lang="fas-tr">digar sû</foreign>, <term n="avv">avverbio</term>, <gloss>dall'altra parte</gloss>; <pb n="404"/> <foreign xml:lang="fas-tr">zi-har sû, har styt, az har sûy</foreign>, <term n="avv">avverbio</term>, <gloss>da ogni parte</gloss>; – <foreign xml:lang="fas-tr">yak sû</foreign>, <gloss>da una parte sola, con una sola direzione</gloss>; – <foreign xml:lang="fas-tr">bi-sûy</foreign> 2, <gloss>verso di ..., a, verso</gloss>, ecc.
+<p><gloss>anche</gloss> <foreign xml:lang="fas">سوی</foreign>  <foreign xml:lang="fas-tr">sûy</foreign>, <gloss>luogo</gloss>; <gloss>direzione</gloss>; <gloss>parte</gloss>; – <foreign xml:lang="fas-tr">az yak suv-am</foreign> (per <foreign xml:lang="fas-tr">su-am</foreign>, o <foreign xml:lang="fas-tr">sûy-am</foreign>), <gloss>da questa sola parte verso di me</gloss>; – <foreign xml:lang="fas-tr">digar sû</foreign>, <term n="avv">avverbio</term>, <gloss>dall'altra parte</gloss>; <pb n="404"/> <foreign xml:lang="fas-tr">zi-har sû, har sûyî, az har sûy</foreign>, <term n="avv">avverbio</term>, <gloss>da ogni parte</gloss>; – <foreign xml:lang="fas-tr">yak sû</foreign>, <gloss>da una parte sola, con una sola direzione</gloss>; – <foreign xml:lang="fas-tr">bi-sûy i</foreign>, <gloss>verso di ..., a, verso</gloss>, ecc.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="suvâr-1">
@@ -12193,7 +12211,7 @@ $1<gloss>$2</gloss>$3ه
 سوار
 </head>
 <head xml:lang="fas-tr">suvâr</head>
-<p>(per asp-vâr, as-var, <term n="suff">suffisso</term> var; <term n="cfr">confronta</term>  <ref xml:lang="fas-tr">asp</ref>, <gloss>cavallo</gloss>), <gloss>cavaliere</gloss>; <term n="pl">plurale</term> <foreign xml:lang="fas-tr">suvârân</foreign>; – <foreign xml:lang="fas-tr">soprannome di Sâm</foreign> (<term n="v">vedi</term>), sam i suvar, Sâm il cavaliere.
+<p>(per <foreign xml:lang="fas-tr">asp-vâr</foreign>, <foreign xml:lang="fas-tr">as-var</foreign>, <term n="suff">suffisso</term> <foreign xml:lang="fas-tr"></foreign>var; <term n="cfr">confronta</term>  <ref xml:lang="fas-tr">asp</ref>, <gloss>cavallo</gloss>), <gloss>cavaliere</gloss>; <term n="pl">plurale</term> <foreign xml:lang="fas-tr">suvârân</foreign>; – <foreign xml:lang="fas-tr">soprannome di Sâm</foreign> (<term n="v">vedi</term>), <foreign xml:lang="fas-tr">sâm i suvar</foreign>, <gloss>Sâm il cavaliere</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="suvârî-1">
@@ -12308,7 +12326,7 @@ $1<gloss>$2</gloss>$3ه
 سوی
 </head>
 <head xml:lang="fas-tr">sûy</head>
-<p><term n="v">vedi</term> St . Su
+<p><term n="v">vedi</term> <ref  xml:lang="fas-tr">sû</ref>
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="sih-1">
@@ -14062,7 +14080,7 @@ $1<gloss>$2</gloss>$3ه
 فرمان-بر
 </head>
 <head xml:lang="fas-tr">farmân-bar</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">burdan</ref>, <term n="tpr">tema di presente</term> <gloss>bar, portare</gloss>), <gloss>esecutore di un ordine, di un comando, servitore</gloss>; <term n="pl">plurale</term> <foreign xml:lang="fas-tr">farmân-barân</foreign>.
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">burdan</ref>, <term n="tpr">tema di presente</term> <foreign xml:lang="fas-tr">bar</foreign>, <gloss>portare</gloss>), <gloss>esecutore di un ordine, di un comando, servitore</gloss>; <term n="pl">plurale</term> <foreign xml:lang="fas-tr">farmân-barân</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="farmân-barî-1">
@@ -14185,7 +14203,7 @@ $1<gloss>$2</gloss>$3ه
 فری
 </head>
 <head xml:lang="fas-tr">farî</head>
-<p><gloss>leggiadro</gloss>; <foreign xml:lang="fas-tr">ramandah fari</foreign>, <gloss>leggiadramente corrente (si dice dei cavalli)</gloss>; — MOHL legge <foreign xml:lang="fas-tr">hamcûn pari</foreign>, <gloss xml:lang="fra">semblable à des Péris</gloss>.
+<p><gloss>leggiadro</gloss>; <foreign xml:lang="fas-tr">ramandah farî</foreign>, <gloss>leggiadramente corrente (si dice dei cavalli)</gloss>; — MOHL legge <foreign xml:lang="fas-tr">hamcûn pari</foreign>, <gloss xml:lang="fra">semblable à des Péris</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="faryâd-1">
@@ -14845,7 +14863,7 @@ $1<gloss>$2</gloss>$3ه
 کردار
 </head>
 <head xml:lang="fas-tr">kardâr</head>
-<p><foreign xml:lang="fas-tr">kirdâr</foreign> (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), <gloss>opera, fatto, azione</gloss>; <gloss>maniera di operare</gloss>; <foreign xml:lang="fas-tr">bi-kirdâr i ...</foreign>, <gloss>a guisa di ..., a somiglianza di ....</gloss>
+<p>o <foreign xml:lang="fas-tr">kirdâr</foreign> (<term n="suff">suffisso</term> <foreign xml:lang="fas-tr">âr</foreign>), <gloss>opera, fatto, azione</gloss>; <gloss>maniera di operare</gloss>; <foreign xml:lang="fas-tr">bi-kirdâr i ...</foreign>, <gloss>a guisa di ..., a somiglianza di ....</gloss>
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kard-gâr-1">
@@ -14920,7 +14938,7 @@ $1<gloss>$2</gloss>$3ه
 کس
 </head>
 <head xml:lang="fas-tr">kas</head>
-<p><term>pron.</term>, <gloss>alcuno, qualcuno; con negaz., nessuno, veruno</gloss>; - <foreign xml:lang="fas-tr">ân kas kih</foreign> quel qualunque che, quel tale che ...; - <foreign xml:lang="fas-tr">kasî</foreign> qualcuno, qualcheduno; con negaz., nessuno, nessuna persona; - <term n="pl">plurale</term> <foreign xml:lang="fas-tr">kasân</foreign>, <gloss>alcuni</gloss>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">τινές;</foreign> con l'art. indeterminato: <foreign xml:lang="fas-tr">kasânî</foreign>, <gloss>quei tali che: ...</gloss>
+<p><term>pron.</term>, <gloss>alcuno, qualcuno; con negaz., nessuno, veruno</gloss>; - <foreign xml:lang="fas-tr">ân kas kih</foreign> <gloss>quel qualunque che, quel tale che ...</gloss>; - <foreign xml:lang="fas-tr">kasî</foreign> <gloss>qualcuno, qualcheduno</gloss>; <gloss>con negaz., nessuno, nessuna persona</gloss>; - <term n="pl">plurale</term> <foreign xml:lang="fas-tr">kasân</foreign>, <gloss>alcuni</gloss>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">τινές;</foreign> con l'art. indeterminato: <foreign xml:lang="fas-tr">kasânî</foreign>, <gloss>quei tali che: ...</gloss>
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="kaš-1">
@@ -16673,11 +16691,12 @@ $1<gloss>$2</gloss>$3ه
 <p>(ô), pecora, <term n="coll">colletivo</term>, <gloss>pecore</gloss>; <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaospeñta</foreign>, <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">gocpand</foreign>. Nell' Avesta significa gaogpenta la sacra vacca creata in principio di tutte le cose da Ahura <pb n="442"/> Mazdâ insieme col primo uomo, detto gaya-maretan, e poi uccisa da Ahrimane, <term n="cfr">confronta</term> <foreign xml:lang="fas-tr">Vendîdâd.</foreign> 21, 1, Yaşna, 29. 
 </p></div>
 
-<div type="textpart" subtype="entry" xml:id="gûsh">
+<div type="textpart" subtype="entry" xml:id="gûš-1">
 <head xml:lang="fas">
 گوش
 </head>
-<p>gûš (ô), orecchio, <term n="coll">colletivo</term>, <gloss>gli orecchi</gloss>; - <foreign xml:lang="fas-tr"><abbr n="g">gûspand</abbr> bar nihâdan</foreign>, <gloss>prestare orecchio, dare ascolto</gloss>; - <foreign xml:lang="fas-tr"><abbr n="g">gûspand</abbr> sipurdan</foreign>, <gloss>dare ascolto</gloss>; <gloss>accondiscendere</gloss>; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaoša</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gausa</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">ghoša</foreign> (<term n="rad">radice</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">guš</foreign>, <gloss>udire</gloss>).
+<head xml:lang="fas-tr">gûš</head>
+<p>(ô), <gloss>orecchio</gloss>, <term n="coll">colletivo</term>, <gloss>gli orecchi</gloss>; - <foreign xml:lang="fas-tr"><abbr n="g">gûš</abbr> bar nihâdan</foreign>, <gloss>prestare orecchio, dare ascolto</gloss>; - <foreign xml:lang="fas-tr"><abbr n="g">gûš</abbr> sipurdan</foreign>, <gloss>dare ascolto</gloss>; <gloss>accondiscendere</gloss>; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">gaoša</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">gausa</foreign>, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">ghoša</foreign> (<term n="rad">radice</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">guš</foreign>, <gloss>udire</gloss>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="gûšt-1">
@@ -16926,7 +16945,7 @@ $1<gloss>$2</gloss>$3ه
 لخت
 </head>
 <head xml:lang="fas-tr">laḫt</head>
-<p><gloss>frammento, brano, pezzo</gloss>; <gloss>momento, istante</gloss>; – yaki lakht, <term n="avv">avverbio</term>, <gloss>per un momento</gloss>; - <foreign xml:lang="fas-tr">lakhti</foreign> (articolo indeterminato), <gloss>per qualche tempo</gloss>.
+<p><gloss>frammento, brano, pezzo</gloss>; <gloss>momento, istante</gloss>; – yakî lakht, <term n="avv">avverbio</term>, <gloss>per un momento</gloss>; - <foreign xml:lang="fas-tr">lakhti</foreign> (articolo indeterminato), <gloss>per qualche tempo</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="larz-1">
@@ -17299,7 +17318,7 @@ $1<gloss>$2</gloss>$3ه
 مرد
 </head>
 <head xml:lang="fas-tr">mard</head>
-<p><term n="pl">plurale</term> <gloss>mardan, uomo</gloss>; <term n="agg">aggetivo</term>, <gloss>forte, gagliardo, virile</gloss>; <foreign xml:lang="fas-tr">mardân i mard</foreign>, <gloss>uomini gagliardi</gloss>; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">mašya</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">martiya</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">βροτός</foreign> (<foreign xml:lang="grc">μροτος</foreign>), <term n="cfr">confronta</term> <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">mortalis</foreign> (<term n="rad">radice</term> <foreign>mar</foreign>, <gloss>morire</gloss>).
+<p><term n="pl">plurale</term> <foreign xml:lang="fas-tr">mardân</foreign>; <gloss>uomo</gloss>; <term n="agg">aggetivo</term>, <gloss>forte, gagliardo, virile</gloss>; <foreign xml:lang="fas-tr">mardân i mard</foreign>, <gloss>uomini gagliardi</gloss>; -- <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">mašya</foreign>, <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">martiya</foreign>, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">βροτός</foreign> (<foreign xml:lang="grc">μροτος</foreign>), <term n="cfr">confronta</term> <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">mortalis</foreign> (<term n="rad">radice</term> <foreign>mar</foreign>, <gloss>morire</gloss>).
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="murd-1">
@@ -18199,7 +18218,7 @@ $1<gloss>$2</gloss>$3ه
 نام
 </head>
 <head xml:lang="fas-tr">nâm</head>
-<p><gloss>nome; gloria, fama, rinomanza</gloss>; si usa avverbial mente dopo un nome proprio, come: <foreign xml:lang="fas-tr">yaki pahlavân bûd širiy nam</foreign>, <gloss>eravi un eroe di nome Shirûy</gloss> (per quest'uso, <term n="cfr">confronta</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">Vizarešô daêvô nâma</foreign>, <gloss>un demone di nome Vîzareša</gloss>, <gloss>Vendîdâd, 19, 94</gloss>; <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">martiya Vahyazdâta nâma</foreign>, <gloss>un uomo di nome Vahyazdâta</gloss>, SPIEGEL, Altpers. Keilinschr. p. 24, e molti altri luoghi delle Iscrizioni di Dario); – <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> burdan</foreign>, <gloss><gloss>designare a nome, nominare</gloss>; <gloss>applicare, imporre un nome</gloss>; pronunciare un nome (in senso di glorificarlo)</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> rândan</foreign>, <gloss>usare un nome (per designare una persona o una cosa)</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> kardan</foreign>, <gloss>dare un nome, imporre un nome, nominare</gloss>; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">naman</foreign>, <gloss>antp</gloss>, nâma, skr, nâman, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ὄ-νομα</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">nomen</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">namo</foreign>.
+<p><gloss>nome</gloss>; <gloss>gloria, fama, rinomanza</gloss>; si usa avverbialmente dopo un nome proprio, come: <foreign xml:lang="fas-tr">yakî pahlavân bûd širiy nam</foreign>, <gloss>eravi un eroe di nome Shirûy</gloss> (per quest'uso, <term n="cfr">confronta</term> <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">Vizarešô daêvô nâma</foreign>, <gloss>un demone di nome Vîzareša</gloss>, <gloss>Vendîdâd, 19, 94</gloss>; <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">martiya Vahyazdâta nâma</foreign>, <gloss>un uomo di nome Vahyazdâta</gloss>, SPIEGEL, Altpers. Keilinschr. p. 24, e molti altri luoghi delle Iscrizioni di Dario); – <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> burdan</foreign>, <gloss><gloss>designare a nome, nominare</gloss>; <gloss>applicare, imporre un nome</gloss>; pronunciare un nome (in senso di glorificarlo)</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> rândan</foreign>, <gloss>usare un nome (per designare una persona o una cosa)</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">nâm</abbr> kardan</foreign>, <gloss>dare un nome, imporre un nome, nominare</gloss>; — <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">naman</foreign>, <gloss>antp</gloss>, nâma, skr, nâman, <term n="gr:https://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</term> <foreign xml:lang="grc">ὄ-νομα</foreign>, <term n="lat:https://en.wikipedia.org/wiki/Latin">Latin</term> <foreign xml:lang="lat">nomen</foreign>, <term n="got:https://en.wikipedia.org/wiki/Gothic_language">Gothic</term> <foreign xml:lang="got">namo</foreign>.
 
 
 <pb n="455"/>
@@ -19025,7 +19044,7 @@ $1<gloss>$2</gloss>$3ه
 نهمار
 </head>
 <head xml:lang="fas-tr">nahmâr</head>
-<p>(<foreign xml:lang="fas-tr">na</foreign> + <foreign xml:lang="fas-tr">humar</foreign>, <term n="cfr">confronta</term>  <ref xml:lang="fas-tr">šumâr</ref>, <gloss>numero</gloss>), <gloss>innumerevole, infinito</gloss>; <term n="avv">avverbio</term>, <gloss>infinitamente, straordina riamente</gloss>.
+<p>(<foreign xml:lang="fas-tr">na</foreign> + <foreign xml:lang="fas-tr">humar</foreign>, <term n="cfr">confronta</term>  <ref xml:lang="fas-tr">šumâr</ref>, <gloss>numero</gloss>), <gloss>innumerevole, infinito</gloss>; <term n="avv">avverbio</term>, <gloss>infinitamente, straordinariamente</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="nahang-1">
@@ -19057,7 +19076,7 @@ $1<gloss>$2</gloss>$3ه
 نیاز
 </head>
 <head xml:lang="fas-tr">niyâz</head>
-<p><gloss>bisogno</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">niyâz</abbr> bûdan</foreign>, abbisognare (con <term n="dat">dativo</term> di <foreign xml:lang="fas-tr">persona</foreign>); - <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">niyâč;</foreign> secondo lo SPIEGEL (Die trad. Litt. der Pârsen, p. 435) da un supposto <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">ni</foreign> + yas, andar domandando; ma yaç nell' Avesta è usato solo nel significato di: andar girando.
+<p><gloss>bisogno</gloss>; - <foreign xml:lang="fas-tr"><abbr n="n">niyâz</abbr> bûdan</foreign>, <gloss>abbisognare (con <term n="dat">dativo</term> di <term>persona</term></gloss>); - <term n="phl:https://en.wikipedia.org/wiki/Middle_Persian">Middle Persian</term> <foreign xml:lang="pal-tr">niyâč;</foreign> secondo lo SPIEGEL (Die trad. Litt. der Pârsen, p. 435) da un supposto <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">ni</foreign> + yas, andar domandando; ma yaç nell' Avesta è usato solo nel significato di: andar girando.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="niyâm-1">
@@ -19132,7 +19151,7 @@ $1<gloss>$2</gloss>$3ه
 نیزه-گذار
 </head>
 <head xml:lang="fas-tr">nîzah-gudhâr</head>
-<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">gudhâštan</ref>, <term n="tpr">tema di presente</term> <foreign xml:lang="fas-tr">Gudhâr</foreign>, <gloss>guidare</gloss>), <gloss>che maneggia la lancia, armato d'asta, astato</gloss>.
+<p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">gudhâštan</ref>, <term n="tpr">tema di presente</term> <foreign xml:lang="fas-tr">gudhâr</foreign>, <gloss>guidare</gloss>), <gloss>che maneggia la lancia, armato d'asta, astato</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="nîzah-var-1">
@@ -19753,7 +19772,7 @@ $1<gloss>$2</gloss>$3ه
 همچنین
 </head>
 <head xml:lang="fas-tr">ham-čunîn</head>
-<p>(<term n="cfr">confronta</term> čunîn, tale), tale, cotale; <term n="avv">avverbio</term>, <gloss>così, in questo modo</gloss>.
+<p>(<term n="cfr">confronta</term> <ref xml:lang="fas-tr">čunîn</ref>, <gloss>tale</gloss>), <gloss>tale, cotale</gloss>; <term n="avv">avverbio</term>, <gloss>così, in questo modo</gloss>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="ham-čûn-1">
@@ -19782,7 +19801,7 @@ $1<gloss>$2</gloss>$3ه
 
 <div type="textpart" subtype="entry" xml:id="ham-râh-1">
 <head xml:lang="fas">
-همراه
+همyakî
 </head>
 <head xml:lang="fas-tr">ham-râh</head>
 <p>(<term n="cfr">confronta</term>  <ref xml:lang="fas-tr">râh</ref>, <gloss>strada</gloss>), <gloss>compagno di viaggio:</gloss> <term n="metaf">metaforicamente</term> <gloss>che si accorda con altri nelle opinioni, consenziente, concorde</gloss>.
@@ -20198,7 +20217,7 @@ $1<gloss>$2</gloss>$3ه
 یک
 </head>
 <head xml:lang="fas-tr">yak</head>
-<p><gloss>uno</gloss>; — <foreign xml:lang="fas-tr">yaki</foreign>, <gloss>uno</gloss>; <foreign xml:lang="fas-tr">yaki rûz</foreign>, <term n="avv">avverbio</term>, <gloss>un giorno, in un tal giorno</gloss>; — <foreign xml:lang="fas-tr">yak yak</foreign>, <gloss>ad uno ad uno, distintamente</gloss>; — <foreign xml:lang="fas-tr">yak-bi-yak</foreign>, <gloss>l'uno con l'altro</gloss>, <gloss xml:lang="grc">πρὸς ἀλλήλους</gloss>; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">alva</foreign>, <gloss>antp</gloss>, aiva, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">e-ka</foreign> (il <term n="np:https://en.wikipedia.org/wiki/Persian_language">New Persian</term> <foreign xml:lang="fas-tr">yak</foreign> ritiene il <term n="suff">suffisso</term> ka di un originario e supposto aivaka, venuto dal <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">aềva</foreign> e dall' <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">aiva)</foreign>.
+<p><gloss>uno</gloss>; — <foreign xml:lang="fas-tr">yakî</foreign>, <gloss>uno</gloss>; <foreign xml:lang="fas-tr">yakî rûz</foreign>, <term n="avv">avverbio</term>, <gloss>un giorno, in un tal giorno</gloss>; — <foreign xml:lang="fas-tr">yak yak</foreign>, <gloss>ad uno ad uno, distintamente</gloss>; — <foreign xml:lang="fas-tr">yak-bi-yak</foreign>, <gloss>l'uno con l'altro</gloss>, <gloss xml:lang="grc">πρὸς ἀλλήλους</gloss>; - <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">alva</foreign>, <gloss>antp</gloss>, aiva, <term n="skr:https://en.wikipedia.org/wiki/Sanskrit">Sanskrit</term> <foreign xml:lang="san-tr">e-ka</foreign> (il <term n="np:https://en.wikipedia.org/wiki/Persian_language">New Persian</term> <foreign xml:lang="fas-tr">yak</foreign> ritiene il <term n="suff">suffisso</term> ka di un originario e supposto aivaka, venuto dal <term n="z:https://en.wikipedia.org/wiki/Avestan">Avestan</term> <foreign xml:lang="ave-tr">aềva</foreign> e dall' <term n="antp:https://en.wikipedia.org/wiki/Old_Persian">Old Persian</term> <foreign xml:lang="peo-tr">aiva)</foreign>.
 </p></div>
 
 <div type="textpart" subtype="entry" xml:id="yak-â-yak-1">

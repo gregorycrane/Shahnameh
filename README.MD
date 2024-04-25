@@ -14,7 +14,7 @@ Firdawsī., Vullers, J. Augustus. (187784). Liber regum qui inscribitur Schahnam
 
 Farnoosh has experimented with using a Tajik edition of the Shahnameh to generate a fully vocalized transcription.
 
-* [Tajik sample 1](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik-vol1.txt); [Tajik Sample 2](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik.txt)
+* [Tajik sample 1](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik-vol1.txt 'cool title'); [Tajik Sample 2](https://github.com/gregorycrane/Shahnameh/blob/master/shahnameh-tajik.txt)
 
 * The problem is that we can't align this particular Tajik edition with one of the editions that we do have -- and editions of the SN vary tremendously.
 
